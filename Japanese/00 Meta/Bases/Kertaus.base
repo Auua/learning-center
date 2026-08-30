@@ -1,0 +1,73 @@
+properties:
+  jlpt:
+    displayName: JLPT
+  type:
+    displayName: Tyyppi
+  status:
+    displayName: Status
+  confidence:
+    displayName: Varmuus
+  reviewed:
+    displayName: Kerrattu
+  topic:
+    displayName: Aihe
+  cause:
+    displayName: Syy
+  recurring:
+    displayName: Toistuva
+  fixed:
+    displayName: Korjattu
+views:
+  - type: table
+    name: Heikoimmat ensin
+    filters:
+      and:
+        - 'confidence <= 2'
+    order:
+      - file.name
+      - note.type
+      - note.jlpt
+      - note.confidence
+      - note.status
+      - note.reviewed
+    sort:
+      - property: note.confidence
+        direction: ASC
+    limit: 40
+  - type: table
+    name: Uudet
+    filters:
+      and:
+        - 'status == "new"'
+    order:
+      - file.name
+      - note.type
+      - note.jlpt
+    limit: 40
+  - type: table
+    name: Työn alla
+    filters:
+      and:
+        - 'status == "learning"'
+    groupBy:
+      property: note.type
+      direction: ASC
+    order:
+      - file.name
+      - note.jlpt
+      - note.confidence
+  - type: table
+    name: Toistuvat virheet
+    filters:
+      and:
+        - 'type == "mistake"'
+        - 'recurring == true'
+        - 'fixed == false'
+    order:
+      - file.name
+      - note.topic
+      - note.cause
+      - note.date
+    sort:
+      - property: note.date
+        direction: DESC

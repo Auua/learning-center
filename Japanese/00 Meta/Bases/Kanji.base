@@ -1,0 +1,71 @@
+properties:
+  meaning:
+    displayName: Merkitys
+  onyomi:
+    displayName: 音
+  kunyomi:
+    displayName: 訓
+  strokes:
+    displayName: Vetoja
+  jlpt:
+    displayName: JLPT
+  components:
+    displayName: Osat
+  lookalikes:
+    displayName: Näköisserkut
+  status:
+    displayName: Status
+views:
+  - type: table
+    name: Merkit
+    filters:
+      and:
+        - type == "kanji"
+    order:
+      - file.name
+      - meaning
+      - onyomi
+      - kunyomi
+      - strokes
+      - jlpt
+      - status
+    sort:
+      - property: jlpt
+        direction: ASC
+      - property: strokes
+        direction: ASC
+  - type: table
+    name: Vetomäärän mukaan
+    filters:
+      and:
+        - type == "kanji"
+    order:
+      - file.name
+      - meaning
+      - strokes
+      - components
+    sort:
+      - property: strokes
+        direction: ASC
+  - type: table
+    name: Osat ja radikaalit
+    filters:
+      and:
+        - type == "component"
+    order:
+      - file.name
+      - meaning
+      - strokes
+    sort:
+      - property: strokes
+        direction: ASC
+  - type: table
+    name: Sekaannusriski
+    filters:
+      and:
+        - type == "kanji"
+        - lookalikes
+    order:
+      - file.name
+      - meaning
+      - lookalikes

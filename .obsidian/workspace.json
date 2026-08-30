@@ -1,0 +1,332 @@
+{
+  "main": {
+    "id": "98dab4d4c967512e",
+    "type": "split",
+    "children": [
+      {
+        "id": "67d6400ada2b4ff4",
+        "type": "tabs",
+        "dimension": 47.43589743589743,
+        "children": [
+          {
+            "id": "a7d210ff7dbf8f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "5734d05f267ebb65",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Japanese/60 Lahteet/PDF/Basic Kanji Book vol1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Basic Kanji Book vol1"
+            }
+          },
+          {
+            "id": "44a8e29bd3819e5a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Japanese/60 Lahteet/PDF/みんなの日本語 初級１翻訳・文法解説英語版.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "みんなの日本語 初級１翻訳・文法解説英語版"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7592fc7d7086bdb1",
+        "type": "tabs",
+        "dimension": 52.56410256410257,
+        "children": [
+          {
+            "id": "98a3ed1f0164366c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/60 Lahteet/Kanji/Basic Kanji Book vol1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Kanji Book vol1"
+            }
+          },
+          {
+            "id": "35259e492847d1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/20 Verbit/Verbitaivutus — päätaulukko.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verbitaivutus — päätaulukko"
+            }
+          },
+          {
+            "id": "56e357712ad37955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/20 Verbit/Muodot/Ehtomuoto ば.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ehtomuoto ば"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "231327512fe99928",
+    "type": "split",
+    "children": [
+      {
+        "id": "d16f0861e523d5ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f463ea195a75af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Tiedostot"
+            }
+          },
+          {
+            "id": "f040256790e46dd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tamani",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Etsi"
+            }
+          },
+          {
+            "id": "8f66bd7c095b373e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Kirjanmerkit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.23046875
+  },
+  "right": {
+    "id": "e9c43d102d008724",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a03c5661943baec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e38175cffc36f86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Japanese/60 Lahteet/Minna no Nihongo Chuukyuu I.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Paluulinkit"
+            }
+          },
+          {
+            "id": "b0eeff0135cb0f08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Japanese/60 Lahteet/Minna no Nihongo Chuukyuu I.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Lähtevät linkit"
+            }
+          },
+          {
+            "id": "230152e7687265c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tunnisteet"
+            }
+          },
+          {
+            "id": "2147d3185a322b04",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Kaikki määreet"
+            }
+          },
+          {
+            "id": "1697895970597a5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Japanese/60 Lahteet/Minna no Nihongo Chuukyuu I.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sisällysluettelo"
+            }
+          },
+          {
+            "id": "867a019fb2cfc8e8",
+            "type": "leaf",
+            "state": {
+              "type": "jadou-glossary-view",
+              "state": {},
+              "icon": "swatch-book",
+              "title": "JADOU glossary"
+            }
+          },
+          {
+            "id": "171cc720a52a14f0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 446.8203125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Avaa pikavaihdin": false,
+      "graph:Avaa verkkonäkymä": false,
+      "canvas:Luo uusi valkotaulu": false,
+      "daily-notes:Avaa tämän päivän muistiinpanot": false,
+      "templates:Lisää malline": false,
+      "command-palette:Avaa komentovalikko": false,
+      "bases:Luo uusi kanta": false,
+      "obsidian-git:Open Git source control": false,
+      "japanese-helper:Japanese Helper": false,
+      "jmdict-popup-dictionary:Popup Dictionary: 選択を辞書で引く": false,
+      "jadou:Look up expression": false
+    }
+  },
+  "active": "56e357712ad37955",
+  "lastOpenFiles": [
+    "Japanese/10 Kielioppi/Pisteet/Vませんか・Vましょう (etkö tulisi, tehdäänkö).md",
+    "Japanese/10 Kielioppi/Pisteet/Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä).md",
+    "Japanese/10 Kielioppi/Pisteet/V辞書形+時間・約束・用事 (aika, sopimus, asia tehtäväksi).md",
+    "Japanese/10 Kielioppi/Pisteet/S1か、S2か (kumpi, A vai B).md",
+    "Japanese/10 Kielioppi/Pisteet/Sね (vahvistus, eikö niin).md",
+    "Japanese/10 Kielioppi/Pisteet/Sよ (uuden tiedon korostus).md",
+    "Japanese/10 Kielioppi/Pisteet/Nはどうですか・Nはどんな Nですか (millaista, millainen).md",
+    "Japanese/10 Kielioppi/Pisteet/N1のN2 (N1:n N2).md",
+    "Japanese/10 Kielioppi/Pisteet/N1やN2 [など] (ja muun muassa, epätäydellinen lista).md",
+    "Japanese/10 Kielioppi/Pisteet/AはBです (A on B, peruslause).md",
+    "Japanese/10 Kielioppi/Pisteet/そうです (niin on).md",
+    "Japanese/10 Kielioppi/Pisteet/ご～いただく (kohtelias pyyntö, kiitollisuus).md",
+    "Japanese/10 Kielioppi/Pisteet/～ている (parhaillaan, tilan tulos).md",
+    "Japanese/10 Kielioppi/Pisteet/とても・あまり (hyvin, ei kovin).md",
+    "Japanese/10 Kielioppi/Pisteet/これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla).md",
+    "Japanese/10 Kielioppi/Pisteet/どうやって・どの (miten, mikä näistä).md",
+    "Japanese/10 Kielioppi/Pisteet/お～になる (kunnioittava toisen teko).md",
+    "Japanese/10 Kielioppi/Pisteet/～なら (jos kerran).md",
+    "Japanese/10 Kielioppi/Pisteet/ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat).md",
+    "Japanese/10 Kielioppi/Pisteet/お～する (nöyrä oma teko).md",
+    "Japanese/10 Kielioppi/Pisteet/～と (aina kun, väistämätön seuraus).md",
+    "Japanese/10 Kielioppi/Pisteet/～たら (jos, kun).md",
+    "Japanese/10 Kielioppi/Pisteet/～さん (kohtelias nimen liite).md",
+    "Japanese/10 Kielioppi/Pisteet/なかなか・ぜひ (ei helpolla, ehdottomasti).md",
+    "Japanese/10 Kielioppi/Pisteet/～ば (jos, ehto).md",
+    "Japanese/10 Kielioppi/Pisteet/もう Vました・まだです (jo tehty, ei vielä).md",
+    "Japanese/60 Lahteet/PDF/みんなの日本語 初級１翻訳・文法解説英語版.pdf",
+    "Japanese/30 Sanasto/Sanat/どうぞ。.md.tmp.24913.68959dad66ea",
+    "Japanese/30 Sanasto/Sanat/どうぞよろしく．md",
+    "Japanese/60 Lahteet/PDF/Basic Kanji Book vol 2.pdf",
+    "Japanese/00 Meta/Bases/Sanasto.base",
+    "Japanese/00 Meta/Bases/Kanji.base",
+    "Nimetön 1.canvas",
+    "Japanese/50 Lauseet/Lausepankki — Ymparisto ja luonto.md.tmp.24913.6ace80655e45",
+    "Japanese/10 Kielioppi/Pisteet/普通形ということを (raportoitu vaite objektina).md.tmp.24913.7f7624beb53d",
+    "Japanese/40 Kanji/Merkit/薄.md.tmp.24913.b4ac061cd87a",
+    "Japanese/50 Lauseet/Lausepankki — Silloin kun.md.tmp.24913.2766dfe36de5",
+    "Nimetön.canvas"
+  ]
+}

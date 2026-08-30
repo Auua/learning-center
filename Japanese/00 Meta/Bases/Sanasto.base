@@ -1,0 +1,53 @@
+properties:
+  reading:
+    displayName: Lukutapa
+  pos:
+    displayName: Sanaluokka
+  jlpt:
+    displayName: JLPT
+  sets:
+    displayName: Setit
+  kanji:
+    displayName: Kanji
+  status:
+    displayName: Status
+  theme:
+    displayName: Teema
+views:
+  - type: table
+    name: Kaikki sanat
+    filters:
+      and:
+        - type == "vocab"
+    order:
+      - file.name
+      - reading
+      - pos
+      - jlpt
+      - sets
+      - status
+    sort:
+      - property: jlpt
+        direction: ASC
+  - type: table
+    name: Seteittäin
+    filters:
+      and:
+        - type == "vocab"
+    groupBy:
+      property: sets
+      direction: ASC
+    order:
+      - file.name
+      - reading
+      - jlpt
+      - status
+  - type: cards
+    name: Setit
+    filters:
+      and:
+        - type == "set"
+    order:
+      - file.name
+      - theme
+      - jlpt

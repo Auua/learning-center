@@ -1,0 +1,62 @@
+properties:
+  date:
+    displayName: Pvm
+  minutes:
+    displayName: Minuutteja
+  focus:
+    displayName: Fokus
+  materials:
+    displayName: Materiaali
+  topic:
+    displayName: Aihe
+  cause:
+    displayName: Syy
+  recurring:
+    displayName: Toistuva
+  fixed:
+    displayName: Korjattu
+views:
+  - type: table
+    name: Opiskeluloki
+    filters:
+      and:
+        - 'type == "log"'
+    order:
+      - file.name
+      - note.date
+      - note.minutes
+      - note.focus
+      - note.materials
+    sort:
+      - property: note.date
+        direction: DESC
+    summaries:
+      note.minutes: Sum
+  - type: table
+    name: Virheet
+    filters:
+      and:
+        - 'type == "mistake"'
+    order:
+      - file.name
+      - note.date
+      - note.topic
+      - note.cause
+      - note.recurring
+      - note.fixed
+    sort:
+      - property: note.date
+        direction: DESC
+  - type: table
+    name: Virheet syyn mukaan
+    filters:
+      and:
+        - 'type == "mistake"'
+    groupBy:
+      property: note.cause
+      direction: ASC
+    order:
+      - file.name
+      - note.date
+      - note.topic
+      - note.fixed

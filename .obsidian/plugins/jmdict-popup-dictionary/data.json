@@ -1,0 +1,10 @@
+{
+  "autoOnSelect": false,
+  "enableInPdf": true,
+  "maxResults": 8,
+  "maxSenses": 6,
+  "minSelLen": 1,
+  "maxSelLen": 30,
+  "fontSize": 14,
+  "dataFile": "dict.json"
+}

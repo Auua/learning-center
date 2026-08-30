@@ -1,0 +1,39 @@
+properties:
+  kind:
+    displayName: Tyyppi
+  level:
+    displayName: Taso
+  status:
+    displayName: Tila
+  url:
+    displayName: URL
+  author:
+    displayName: Tekijä
+views:
+  - type: table
+    name: Kaikki lähteet
+    filters:
+      and:
+        - 'type == "source"'
+    order:
+      - file.name
+      - note.kind
+      - note.level
+      - note.status
+      - note.url
+    sort:
+      - property: note.kind
+        direction: ASC
+  - type: table
+    name: Tyypeittäin
+    filters:
+      and:
+        - 'type == "source"'
+    groupBy:
+      property: note.kind
+      direction: ASC
+    order:
+      - file.name
+      - note.level
+      - note.status
+      - note.url

@@ -1,0 +1,119 @@
+properties:
+  jlpt:
+    displayName: JLPT
+  type:
+    displayName: Tyyppi
+  status:
+    displayName: Status
+  confidence:
+    displayName: Varmuus
+  reading:
+    displayName: Lukutapa
+  meaning:
+    displayName: Merkitys
+  func:
+    displayName: Funktio
+views:
+  - type: table
+    name: Kaikki tasot
+    filters:
+      and:
+        - 'jlpt'
+    groupBy:
+      property: note.jlpt
+      direction: ASC
+    order:
+      - file.name
+      - note.type
+      - note.status
+      - note.confidence
+  - type: table
+    name: N5
+    filters:
+      and:
+        - 'jlpt == "N5"'
+    groupBy:
+      property: note.type
+      direction: ASC
+    order:
+      - file.name
+      - note.reading
+      - note.meaning
+      - note.func
+      - note.status
+      - note.confidence
+    sort:
+      - property: note.confidence
+        direction: ASC
+  - type: table
+    name: N4
+    filters:
+      and:
+        - 'jlpt == "N4"'
+    groupBy:
+      property: note.type
+      direction: ASC
+    order:
+      - file.name
+      - note.reading
+      - note.meaning
+      - note.func
+      - note.status
+      - note.confidence
+    sort:
+      - property: note.confidence
+        direction: ASC
+  - type: table
+    name: N3
+    filters:
+      and:
+        - 'jlpt == "N3"'
+    groupBy:
+      property: note.type
+      direction: ASC
+    order:
+      - file.name
+      - note.reading
+      - note.meaning
+      - note.func
+      - note.status
+      - note.confidence
+    sort:
+      - property: note.confidence
+        direction: ASC
+  - type: table
+    name: N2
+    filters:
+      and:
+        - 'jlpt == "N2"'
+    groupBy:
+      property: note.type
+      direction: ASC
+    order:
+      - file.name
+      - note.reading
+      - note.meaning
+      - note.func
+      - note.status
+      - note.confidence
+    sort:
+      - property: note.confidence
+        direction: ASC
+  - type: table
+    name: N1
+    filters:
+      and:
+        - 'jlpt == "N1"'
+    groupBy:
+      property: note.type
+      direction: ASC
+    order:
+      - file.name
+      - note.reading
+      - note.meaning
+      - note.func
+      - note.status
+      - note.confidence
+    sort:
+      - property: note.confidence
+        direction: ASC

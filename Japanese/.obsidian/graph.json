@@ -1,0 +1,14 @@
+{
+  "colorGroups": [
+    { "query": "path:\"10 Kielioppi\"", "color": { "a": 1, "rgb": 14701138 } },
+    { "query": "path:\"20 Verbit\"",    "color": { "a": 1, "rgb": 5431378 } },
+    { "query": "path:\"30 Sanasto\"",   "color": { "a": 1, "rgb": 3183062 } },
+    { "query": "path:\"40 Kanji\"",     "color": { "a": 1, "rgb": 15844367 } },
+    { "query": "path:\"50 Lauseet\"",   "color": { "a": 1, "rgb": 9737364 } },
+    { "query": "path:\"60 Lahteet\"",   "color": { "a": 1, "rgb": 7368816 } }
+  ],
+  "showTags": false,
+  "showAttachments": false,
+  "showOrphans": true,
+  "scale": 1
+}

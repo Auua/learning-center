@@ -1,0 +1,40 @@
+#separator:tab
+#html:true
+#notetype:Japani (Obsidian)
+#deck:Japani
+#tags column:5
+2dbc4df7b297ff1b	たら — muodostus ja mitä jälkilauseessa saa olla?	V-た + ら (安かったら / 雨だったら). Jälkilauseessa saa olla käsky, pyyntö, kutsu ja toive — toisin kuin と ja ば. A tapahtuu ennen B:tä.	10 Kielioppi/Pisteet/～たら.md	flashcards::grammar::n4 jlpt::n4
+480ac68ed22a6219	結婚している — mitä tarkoittaa?	"On naimisissa" — tilan tulos, ei käynnissä oleva teko. 結婚する on hetkiverbi.	10 Kielioppi/Pisteet/～ている.md	flashcards::grammar::n5 jlpt::n5
+59d33d34ffbc9603	知る — miten sanotaan "en tiedä"?	知らない. Ei 知っていない, vaikka myönteinen on 知っている.	10 Kielioppi/Pisteet/～ている.md	flashcards::grammar::n5 jlpt::n5
+ffd2df8016127996	と-ehtolause — mikä on ehdoton kielto?	Jälkilauseessa ei saa olla tahdonilmausta (käsky, pyyntö, kutsu, lupa, toive). Seuraus on automaattinen. Etulause aina ei-menneessä.	10 Kielioppi/Pisteet/～と.md	flashcards::grammar::n4 jlpt::n4
+2cf0dcfe67ad9993	なら — mikä erottaa sen たら:sta?	なら reagoi kontekstiin tai toisen puheenvuoroon, ja jälkilauseen toiminta voi tapahtua ENNEN etulauseen toimintaa. 行くなら買う = ostetaan ennen lähtöä; 行ったら買う = ostetaan perillä.	10 Kielioppi/Pisteet/～なら.md	flashcards::grammar::n4 jlpt::n4
+805e294fc25b878a	ば — mikä on pääasiallinen rajoitus?	Jälkilauseessa ei käsky/pyyntö/kutsu, jos etulause on tahdonalainen toimintaverbi. Tilaverbi tai adjektiivi etulauseessa poistaa rajoituksen (時間があれば、手伝ってください).	10 Kielioppi/Pisteet/～ば.md	flashcards::grammar::n4 jlpt::n4
+a5910f96c50e3988	Ehtolauseet: kumpi sallii käskyn jälkilauseessa, と vai たら?	たら. と ei koskaan salli tahdonilmausta. ば vain jos etulause on tilaverbi tai adjektiivi.	10 Kielioppi/Vertailut/Vertailu — Ehtolauseet と・ば・たら・なら.md	flashcards::compare jlpt::n4
+4f3beb21aceca5be	Missä ehtolauseessa jälkilauseen teko voi tapahtua ennen etulauseen tekoa?	なら. 日本に行くなら、ガイドブックを買ったほうがいい — kirja ostetaan ennen matkaa.	10 Kielioppi/Vertailut/Vertailu — Ehtolauseet と・ば・たら・なら.md	flashcards::compare jlpt::n4
+4d5c834310c72ce6	窓から海が＿＿＿。(見る)	見える — aisti toimii itsestään, ei tahdonalaista kykyä.	10 Kielioppi/Vertailut/Vertailu — Potentiaali vs. spontaani aisti.md	flashcards::compare jlpt::n4
+f6141341cc83f1c0	する — potentiaali	できる	20 Verbit/Lekseemit/する.md	flashcards::verb jlpt::n5
+e30faa50396ce52a	来ない — lukutapa?	こない	20 Verbit/Lekseemit/来る.md	flashcards::verb jlpt::n5
+2382094f92fc56b8	来れば — lukutapa?	くれば	20 Verbit/Lekseemit/来る.md	flashcards::verb jlpt::n5
+c47ed74a956043c8	行く — て-muoto	行って (poikkeus, ei 行いて)	20 Verbit/Lekseemit/行く.md	flashcards::verb jlpt::n5
+e4c5484f026bde52	ドア（　）開く — mikä partikkeli?	が（intransitiivinen）	20 Verbit/Lekseemit/開く.md	flashcards::verb jlpt::n5
+4809f3864e826f1a	窓（　）開ける — mikä partikkeli?	を（transitiivinen）	20 Verbit/Lekseemit/開ける.md	flashcards::verb jlpt::n5
+16379f6b04bd9458	食べる	syödä (ichidan, transitiivinen)	20 Verbit/Lekseemit/食べる.md	flashcards::verb jlpt::n5
+35d512d4212b8693	食べる — potentiaali	食べられる	20 Verbit/Lekseemit/食べる.md	flashcards::verb jlpt::n5
+6a3bc77e1fc7b29e	飲む	juoda (godan, transitiivinen)	20 Verbit/Lekseemit/飲む.md	flashcards::verb jlpt::n5
+7629b0e47771c9bb	飲む — kausatiivipassiivi	飲まされる	20 Verbit/Lekseemit/飲む.md	flashcards::verb jlpt::n5
+464be48d22f4685a	おいしい	herkullinen	30 Sanasto/Sanat/おいしい.md	flashcards::vocab jlpt::n5
+a0230e1eac877e79	おいしい — たら-muoto	おいしかったら	30 Sanasto/Sanat/おいしい.md	flashcards::vocab jlpt::n5
+3993ce63107852c8	温泉	おんせん — kuuma lähde	30 Sanasto/Sanat/温泉.md	flashcards::vocab jlpt::n4
+314a609eef47b507	温泉（　）入る	に	30 Sanasto/Sanat/温泉.md	flashcards::vocab jlpt::n4
+f46aa067b1ca7b8e	神社	じんじゃ — shintolaispyhäkkö	30 Sanasto/Sanat/神社.md	flashcards::vocab jlpt::n3
+9a29813545e94a5f	神社 ja お寺 — ero?	神社 shintolainen (鳥居), お寺 buddhalainen	30 Sanasto/Sanat/神社.md	flashcards::vocab jlpt::n3
+91e248031ac5cb76	食事	しょくじ — ateria	30 Sanasto/Sanat/食事.md	flashcards::vocab jlpt::n4
+7f4fb92ec7055801	一泊二食付き	yksi yö, kaksi ateriaa sisältyy	30 Sanasto/Sanat/食事.md	flashcards::vocab jlpt::n4
+ed1e0e6013b03495	行 — merkitys	mennä, suorittaa, rivi	40 Kanji/Merkit/行.md	flashcards::kanji jlpt::n5
+98d6fc5fe0768b6a	銀行 — lukutapa	ぎんこう	40 Kanji/Merkit/行.md	flashcards::kanji jlpt::n5
+a19b614c5a8a4e1f	開 — kolme kun-lukutapaa	ひら.く / あ.く / あ.ける	40 Kanji/Merkit/開.md	flashcards::kanji jlpt::n4
+d169b27622d7b265	食 — merkitys	syödä, ruoka	40 Kanji/Merkit/食.md	flashcards::kanji jlpt::n5
+6e4681315d1e8d0c	食 — on-lukutavat	ショク・ジキ	40 Kanji/Merkit/食.md	flashcards::kanji jlpt::n5
+2bf3989ca8df0839	飲 — merkitys	juoda	40 Kanji/Merkit/飲.md	flashcards::kanji jlpt::n5
+30e8744b2f0dc6a3	飲食店 — lukutapa	いんしょくてん	40 Kanji/Merkit/飲.md	flashcards::kanji jlpt::n5
+825120058b7db170	京都に行＿＿、写真を撮ってください。	行ったら（ei 行けば — ば ei salli pyyntöä jälkilauseessa toimintaverbin jälkeen）	90 Paivakirja/Virheet/2026-08-29 ば-käskylause.md	flashcards::mistake

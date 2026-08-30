@@ -1,0 +1,83 @@
+properties:
+  ja:
+    displayName: 日本語
+  func:
+    displayName: Funktio
+  jlpt:
+    displayName: JLPT
+  status:
+    displayName: Status
+  reading:
+    displayName: Lukutapa
+  verbclass:
+    displayName: Tyyppi
+  transitivity:
+    displayName: Transitiivisuus
+  pair:
+    displayName: Pari
+  kanji:
+    displayName: Kanji
+views:
+  - type: table
+    name: Taivutusmuodot
+    filters:
+      and:
+        - 'type == "form"'
+    order:
+      - file.name
+      - note.ja
+      - note.func
+      - note.jlpt
+      - note.status
+    sort:
+      - property: note.jlpt
+        direction: ASC
+  - type: table
+    name: Verbit
+    filters:
+      and:
+        - 'type == "verb"'
+    order:
+      - file.name
+      - note.reading
+      - note.verbclass
+      - note.transitivity
+      - note.jlpt
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Tyypeittäin
+    filters:
+      and:
+        - 'type == "verb"'
+    groupBy:
+      property: note.verbclass
+      direction: ASC
+    order:
+      - file.name
+      - note.reading
+      - note.transitivity
+      - note.jlpt
+  - type: table
+    name: Transitiiviparit
+    filters:
+      and:
+        - 'type == "verb"'
+        - 'pair'
+    order:
+      - file.name
+      - note.reading
+      - note.transitivity
+      - note.pair
+  - type: table
+    name: Epäsäännölliset
+    filters:
+      and:
+        - 'type == "verb"'
+        - 'verbclass == "irregular"'
+    order:
+      - file.name
+      - note.reading
+      - note.jlpt

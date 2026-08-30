@@ -1,0 +1,76 @@
+properties:
+  jlpt:
+    displayName: JLPT
+  func:
+    displayName: Funktio
+  attaches:
+    displayName: Liittyy muotoon
+  compare:
+    displayName: Vertailu
+  status:
+    displayName: Status
+  confidence:
+    displayName: Varmuus
+  members:
+    displayName: Jäsenet
+  formality:
+    displayName: Tyyli
+views:
+  - type: table
+    name: Kaikki kieliopit
+    filters:
+      and:
+        - 'type == "grammar"'
+    order:
+      - file.name
+      - note.jlpt
+      - note.func
+      - note.attaches
+      - note.status
+      - note.confidence
+    sort:
+      - property: note.jlpt
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Heikoilla jäillä
+    filters:
+      and:
+        - 'type == "grammar"'
+        - 'confidence <= 2'
+    order:
+      - file.name
+      - note.jlpt
+      - note.confidence
+      - note.status
+      - note.compare
+    sort:
+      - property: note.confidence
+        direction: ASC
+  - type: table
+    name: Tasoittain
+    filters:
+      and:
+        - 'type == "grammar"'
+    groupBy:
+      property: note.jlpt
+      direction: ASC
+    order:
+      - file.name
+      - note.func
+      - note.status
+      - note.confidence
+  - type: table
+    name: Vertailut
+    filters:
+      and:
+        - 'type == "compare"'
+    order:
+      - file.name
+      - note.members
+      - note.jlpt
+      - note.status
+    sort:
+      - property: note.jlpt
+        direction: ASC
