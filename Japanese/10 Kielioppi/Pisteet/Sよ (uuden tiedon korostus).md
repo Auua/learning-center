@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "Sよ"
+ja: Sよ
 reading: S yo
 jlpt: N5
-func: [loppupartikkeli, korostus, uusi-tieto]
-attaches: ["lause"]
+func:
+  - loppupartikkeli
+  - korostus
+  - uusi-tieto
+attaches:
+  - lause
 formality: neutral
-register: [puhuttu]
-similar: ["[[Sね (vahvistus, eikö niin)]]", "[[普通形よね (varmistava loppupartikkeli)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 5]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+similar:
+  - "[[Sね (vahvistus, eikö niin)]]"
+  - "[[普通形よね (varmistava loppupartikkeli)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 5]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

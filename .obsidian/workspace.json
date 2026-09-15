@@ -6,7 +6,6 @@
       {
         "id": "67d6400ada2b4ff4",
         "type": "tabs",
-        "dimension": 47.43589743589743,
         "children": [
           {
             "id": "a7d210ff7dbf8f44",
@@ -14,86 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Japanese/10 Kielioppi/Pisteet/疑問詞+たらいいですか (neuvon kysyminen).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "5734d05f267ebb65",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Japanese/60 Lahteet/PDF/Basic Kanji Book vol1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Basic Kanji Book vol1"
+              "title": "疑問詞+たらいいですか (neuvon kysyminen)"
             }
           },
           {
             "id": "44a8e29bd3819e5a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Japanese/60 Lahteet/PDF/みんなの日本語 初級１翻訳・文法解説英語版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "みんなの日本語 初級１翻訳・文法解説英語版"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7592fc7d7086bdb1",
-        "type": "tabs",
-        "dimension": 52.56410256410257,
-        "children": [
-          {
-            "id": "98a3ed1f0164366c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/60 Lahteet/Kanji/Basic Kanji Book vol1.md",
+                "file": "Japanese/10 Kielioppi/Pisteet/見えます・聞こえます (spontaani aisti).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Kanji Book vol1"
+              "title": "見えます・聞こえます (spontaani aisti)"
             }
           },
           {
-            "id": "35259e492847d1c4",
+            "id": "eff92f4f4aaabfd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/20 Verbit/Verbitaivutus — päätaulukko.md",
+                "file": "Japanese/60 Lahteet/皆の日本語中級１本冊.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verbitaivutus — päätaulukko"
-            }
-          },
-          {
-            "id": "56e357712ad37955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/20 Verbit/Muodot/Ehtomuoto ば.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ehtomuoto ば"
+              "title": "皆の日本語中級１本冊"
             }
           }
         ],
@@ -118,7 +71,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -131,9 +84,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tamani",
+                "query": "[\"sources\":\"minna no nihongo II\" 30] [\"type\":grammar OR form] ",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -237,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese/60 Lahteet/Minna no Nihongo Chuukyuu I.md",
+                "file": "Japanese/60 Lahteet/皆の日本語中級１本冊.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -271,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.8203125
+    "width": 583.46484375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,45 +241,146 @@
       "jadou:Look up expression": false
     }
   },
-  "active": "56e357712ad37955",
+  "floating": {
+    "id": "84fb7514e35908aa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f0e431b68df27818",
+        "type": "window",
+        "children": [
+          {
+            "id": "70e45e454adf47fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a0d6d665f676792",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Japanese/80 JLPT/N4.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "N4"
+                }
+              },
+              {
+                "id": "c6fa176fb98c699a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Japanese/80 JLPT/N3.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "N3"
+                }
+              },
+              {
+                "id": "02ae3e36b44f83b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Japanese/80 JLPT/N5.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "N5"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 414,
+        "y": 33,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0.5
+      },
+      {
+        "id": "02c14f90fdb9c244",
+        "type": "window",
+        "children": [
+          {
+            "id": "3bf7ff7c610ff46c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5734d05f267ebb65",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Japanese/00 Meta/Bases/Sanasto.base",
+                    "viewName": "Kaikki sanat"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Sanasto"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 704,
+        "y": 33,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "171cc720a52a14f0",
   "lastOpenFiles": [
-    "Japanese/10 Kielioppi/Pisteet/Vませんか・Vましょう (etkö tulisi, tehdäänkö).md",
-    "Japanese/10 Kielioppi/Pisteet/Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä).md",
-    "Japanese/10 Kielioppi/Pisteet/V辞書形+時間・約束・用事 (aika, sopimus, asia tehtäväksi).md",
-    "Japanese/10 Kielioppi/Pisteet/S1か、S2か (kumpi, A vai B).md",
-    "Japanese/10 Kielioppi/Pisteet/Sね (vahvistus, eikö niin).md",
-    "Japanese/10 Kielioppi/Pisteet/Sよ (uuden tiedon korostus).md",
-    "Japanese/10 Kielioppi/Pisteet/Nはどうですか・Nはどんな Nですか (millaista, millainen).md",
-    "Japanese/10 Kielioppi/Pisteet/N1のN2 (N1:n N2).md",
-    "Japanese/10 Kielioppi/Pisteet/N1やN2 [など] (ja muun muassa, epätäydellinen lista).md",
-    "Japanese/10 Kielioppi/Pisteet/AはBです (A on B, peruslause).md",
-    "Japanese/10 Kielioppi/Pisteet/そうです (niin on).md",
-    "Japanese/10 Kielioppi/Pisteet/ご～いただく (kohtelias pyyntö, kiitollisuus).md",
-    "Japanese/10 Kielioppi/Pisteet/～ている (parhaillaan, tilan tulos).md",
-    "Japanese/10 Kielioppi/Pisteet/とても・あまり (hyvin, ei kovin).md",
-    "Japanese/10 Kielioppi/Pisteet/これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla).md",
-    "Japanese/10 Kielioppi/Pisteet/どうやって・どの (miten, mikä näistä).md",
-    "Japanese/10 Kielioppi/Pisteet/お～になる (kunnioittava toisen teko).md",
-    "Japanese/10 Kielioppi/Pisteet/～なら (jos kerran).md",
-    "Japanese/10 Kielioppi/Pisteet/ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat).md",
-    "Japanese/10 Kielioppi/Pisteet/お～する (nöyrä oma teko).md",
-    "Japanese/10 Kielioppi/Pisteet/～と (aina kun, väistämätön seuraus).md",
-    "Japanese/10 Kielioppi/Pisteet/～たら (jos, kun).md",
-    "Japanese/10 Kielioppi/Pisteet/～さん (kohtelias nimen liite).md",
-    "Japanese/10 Kielioppi/Pisteet/なかなか・ぜひ (ei helpolla, ehdottomasti).md",
-    "Japanese/10 Kielioppi/Pisteet/～ば (jos, ehto).md",
-    "Japanese/10 Kielioppi/Pisteet/もう Vました・まだです (jo tehty, ei vielä).md",
-    "Japanese/60 Lahteet/PDF/みんなの日本語 初級１翻訳・文法解説英語版.pdf",
-    "Japanese/30 Sanasto/Sanat/どうぞ。.md.tmp.24913.68959dad66ea",
-    "Japanese/30 Sanasto/Sanat/どうぞよろしく．md",
-    "Japanese/60 Lahteet/PDF/Basic Kanji Book vol 2.pdf",
+    "Japanese/60 Lahteet/みんなの日本語 初級2翻訳・文法解説英語版.md",
+    "Japanese/60 Lahteet/皆の日本語中級１本冊.md",
+    "Japanese/60 Lahteet/Kanji in the context workbook 1.md",
     "Japanese/00 Meta/Bases/Sanasto.base",
-    "Japanese/00 Meta/Bases/Kanji.base",
+    "Japanese/80 JLPT/N3.md",
+    "Japanese/10 Kielioppi/Pisteet/～あいだ・～あいだに (kesto vs. hetki).md",
+    "Japanese/80 JLPT/N5.md",
+    "Japanese/60 Lahteet/Kanji/Intermediate Kanji Book II.md",
+    "Japanese/60 Lahteet/Kanji/Intermediate Kanji Book I.md",
+    "Japanese/60 Lahteet/Kanji/Basic Kanji Book II.md",
+    "Japanese/60 Lahteet/Kanji/Basic Kanji Book I.md",
+    "Japanese/60 Lahteet/PDF/Kanji in context.pdf",
+    "Japanese/60 Lahteet/PDF/Kanji in the context workbook 1.pdf",
+    "～てある.md",
+    "Japanese/10 Kielioppi/Pisteet/どこかで・どこかに (epamaarainen paikka).md",
+    "Japanese/10 Kielioppi/Pisteet/自動詞＋ている (jaljelle jaanyt tila).md",
+    "Japanese/10 Kielioppi/Pisteet/Vてしまいます (valitettavasti, loppuun asti).md",
+    "Japanese/10 Kielioppi/Pisteet/V・adjとき (silloin kun).md",
+    "Japanese/10 Kielioppi/Pisteet/それに・それで (lisaksi, niinpa).md",
+    "Japanese/10 Kielioppi/Pisteet/普通形し、普通形し (perustelujen luettelointi).md",
+    "Japanese/10 Kielioppi/Pisteet/～ている (parhaillaan, tilan tulos).md",
+    "Japanese/10 Kielioppi/Pisteet/V(-ます)ながら (samalla kun).md",
+    "Japanese/10 Kielioppi/Pisteet/できます (valmistua, syntyä).md",
+    "Japanese/10 Kielioppi/Pisteet/ご～いただく (kohtelias pyyntö, kiitollisuus).md",
+    "Japanese/10 Kielioppi/Pisteet/～のは Nです (korostusrakenne, cleft).md",
+    "Japanese/10 Kielioppi/Pisteet/N（objekti）は (aiheeksi nostaminen).md",
+    "Japanese/10 Kielioppi/Pisteet/Vしかない (ei ole muuta vaihtoehtoa).md",
+    "Japanese/10 Kielioppi/Pisteet/Nしか Vません (vain, pelkastaan).md",
+    "Japanese/10 Kielioppi/Pisteet/〜とおりに (juuri niin kuin).md",
+    "Nimetön 2.canvas",
+    "Japanese/60 Lahteet/PDF/みんなの日本語 初級2翻訳・文法解説英語版.pdf",
+    "Japanese/00 Meta/Bases/Kertaus.base",
+    "Japanese/60 Lahteet/PDF/Basic Kanji Book vol1.pdf",
+    "Japanese/00 Meta/Bases/Kielioppi.base",
+    "Japanese/00 Meta/Bases/Lähteet.base",
+    "Japanese/60 Lahteet/PDF/Basic Kanji Book vol 2.pdf",
+    "Japanese/60 Lahteet/Kanji",
     "Nimetön 1.canvas",
-    "Japanese/50 Lauseet/Lausepankki — Ymparisto ja luonto.md.tmp.24913.6ace80655e45",
-    "Japanese/10 Kielioppi/Pisteet/普通形ということを (raportoitu vaite objektina).md.tmp.24913.7f7624beb53d",
-    "Japanese/40 Kanji/Merkit/薄.md.tmp.24913.b4ac061cd87a",
-    "Japanese/50 Lauseet/Lausepankki — Silloin kun.md.tmp.24913.2766dfe36de5",
     "Nimetön.canvas"
   ]
 }

@@ -3,6 +3,7 @@ type: vocab
 word: "PC"
 reading: ピーシー
 romaji: pii shii
+meaning: "tietokone (henkilökohtainen)"
 pos: noun
 jlpt: N2
 pitch: []

@@ -3,6 +3,7 @@ type: vocab
 word: "win-win"
 reading: ウィンウィン
 romaji: uin uin
+meaning: "molemmille edullinen"
 pos: na-adjective
 jlpt: N2
 pitch: []

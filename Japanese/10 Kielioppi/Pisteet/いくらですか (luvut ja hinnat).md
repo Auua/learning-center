@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "いくらですか"
+ja: いくらですか
 reading: ikura desu ka
 jlpt: N5
-func: [hinta, luvut, kysymys]
-attaches: ["substantiivi"]
+func:
+  - hinta
+  - luvut
+  - kysymys
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 3]]"]
-status: new
-confidence: 1
-reviewed: 
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 3]]"
+status: known
+confidence: 5
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

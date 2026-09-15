@@ -34,20 +34,23 @@ Täsmälleen sama sääntö kuin [[て-muoto]], mutta て → た ja で → だ
 ```base
 filters:
   and:
-    - 'type == "grammar"'
-    - 'attaches.contains(this)'
+    - type == "grammar"
+    - attaches.contains(this)
 views:
   - type: table
     name: Kieliopit
     order:
       - file.name
-      - note.jlpt
-      - note.func
-      - note.status
-      - note.confidence
+      - jlpt
+      - func
+      - status
+      - confidence
     sort:
-      - property: note.jlpt
+      - property: jlpt
         direction: ASC
+    columnSize:
+      file.name: 447
+
 ```
 
 ## Verbit joissa tämä on harjoiteltu

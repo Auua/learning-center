@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "N1はN2より／N1とN2とどちらが／N1のほうが"
+ja: N1はN2より／N1とN2とどちらが／N1のほうが
 reading: N1 wa N2 yori / N1 to N2 to dochira ga / N1 no hou ga
 jlpt: N5
-func: [vertailu, kysymys]
-attaches: ["substantiivi"]
+func:
+  - vertailu
+  - kysymys
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 12]]", "[[Minna no Nihongo Chuukyuu I#Luku 11]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～より～ほうが (tekojen vertailu)]]"
+compare:
+  - "[[～より～ほうが (tekojen vertailu)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 12]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 11]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -35,7 +46,7 @@ tags: [grammar/perusrakenne, jlpt/n5]
 - Kahden vaihtoehdon välillä kysymyssana on aina **どちら**, ei koskaan 何/だれ — vaikka vertailtavat olisivat ihmisiä tai esineitä.
 - Vastauksessa käytetään のほうが, ei toistoa より:llä.
 - どちらも (molemmat) on tavallinen vastaus kun kumpikaan ei voita: 海も山もどちらも好きです。
-- **Verbivertailu (Chuukyuu I Luku 11):** より/ほうが toimivat myös kokonaisten verbi-ilmausten välillä, ei vain substantiivien: アメリカの大学は**入るより出るほうが**ずっと大変だと聞きました。／家族は少ないより多くてにぎやかな**ほうがいい**よ。
+- **Verbivertailu:** より/ほうが toimivat myös kokonaisten tekojen ja lausekkeiden välillä — ks. [[～より～ほうが (tekojen vertailu)]] (Chuukyuu I Luku 11).
 
 ## Esimerkit
 ![[Lausepankki — Vertailut#^vert3]]

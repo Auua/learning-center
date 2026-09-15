@@ -1,20 +1,33 @@
 ---
 type: grammar
-ja: "普通形でしょう？"
+ja: 普通形でしょう？
 reading: futsuukei deshou?
 jlpt: N5
-func: [varmistus, oletus]
-attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
+func:
+  - varmistus
+  - oletus
+attaches:
+  - "[[普通形 (puhekielinen perusmuoto)]]"
 formality: neutral
-register: [puhuttu]
-similar: ["[[Sね (vahvistus, eikö niin)]]", "[[普通形でしょう (todennakoisyys)]]"]
-compare: ["[[普通形でしょう (todennakoisyys)]]"]
-sources: ["[[Minna no Nihongo I#Luku 21]]", "[[Minna no Nihongo Chuukyuu II#Luku 17]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+similar:
+  - "[[Sね (vahvistus, eikö niin)]]"
+  - "[[普通形でしょう (todennakoisyys)]]"
+  - "[[でしょ・だろ (puhekielinen varmistus)]]"
+compare:
+  - "[[普通形でしょう (todennakoisyys)]]"
+  - "[[でしょ・だろ (puhekielinen varmistus)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 21]]"
+  - "[[Minna no Nihongo Chuukyuu II#Luku 17]]"
+status: shaky
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -34,14 +47,8 @@ tags: [grammar/perusrakenne, jlpt/n5]
 - Eroaa [[Sね (vahvistus, eikö niin)]]:stä siinä, että でしょう？ olettaa puhujan tietävän asiasta jo etukäteen jotain ja odottaa lähes varmaa myöntävää vastausta — ね on yleisempi, kevyempi myötäilypartikkeli.
 - Vastaus voi silti olla kielteinen, jos oletus oli väärä: 北海道は寒かったでしょう？ → いいえ、そんなに寒くなかったです。
 
-## Laajennus: puhekielinen supistuma でしょ／だろ
-Arkikeskustelussa でしょう？ supistuu usein muotoon でしょ (tai miesten puheessa だろ) — sama varmistava funktio, mutta rennompi. Erityisen yleinen kun aikuinen **muistuttaa/moittii lempeästi** lasta tai läheistä:
-- さあ、サッカーの練習に行くん**でしょ**。
-- 10時だ。子どもはもう寝る時間**だろう**。歯をみがいて、ベッドに入りなさい。
-- 優太、そんなところに立ってたら邪魔になる**でしょ**。こっちへいらっしゃい。
-- 飲みに行こうって誘ったのは君**だろ**。今日になってキャンセルなんて、ひどいよ。
-
-Tässä käytössä でしょ／だろ ei niinkään kysy vaan **toteaa/muistuttaa** itsestäänselvyyttä, usein huomautuksen tai ohjeen yhteydessä.
+## Laajennus: puhekielinen supistuma
+Arkipuheessa でしょう？ supistuu muotoon でしょ／だろ ja muuttuu muistutukseksi itsestäänselvyydestä — ks. [[でしょ・だろ (puhekielinen varmistus)]] (Chuukyuu II Luku 17).
 
 ## Sekaannusvaara
 - [[普通形でしょう (todennakoisyys)]] (laskeva ↘) on pelkkä oma ennustus/arvaus eikä odota kuulijalta vahvistusta — tämä muistiinpano (nouseva ↗) sen sijaan olettaa kuulijan tietävän ja odottaa myöntävää vastausta.

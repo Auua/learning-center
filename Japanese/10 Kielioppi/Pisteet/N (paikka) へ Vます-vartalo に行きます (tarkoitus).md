@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "N（場所）へVます-vartalo に行きます／来ます／帰ります"
+ja: N（場所）へVます-vartalo に行きます／来ます／帰ります
 reading: N (basho) e V-vartalo ni ikimasu
 jlpt: N5
-func: [tarkoitus, liike]
-attaches: ["[[ます-muoto]]"]
+func:
+  - tarkoitus
+  - liike
+attaches:
+  - "[[ます-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Liikkumisen partikkelit (へ・で・と)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 13]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Liikkumisen partikkelit (へ・で・と)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 13]]"
+status: known
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

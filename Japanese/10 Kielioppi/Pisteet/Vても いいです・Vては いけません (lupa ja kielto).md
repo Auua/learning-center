@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "Vてもいいです／Vてはいけません"
+ja: Vてもいいです／Vてはいけません
 reading: V-te mo ii desu / V-te wa ikemasen
 jlpt: N5
-func: [lupa, kielto]
-attaches: ["[[て-muoto]]"]
+func:
+  - lupa
+  - kielto
+attaches:
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 15]]", "[[Minna no Nihongo Chuukyuu I#Luku 9]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～てもかまいません (saa tehdä, ei haittaa)]]"
+compare:
+  - "[[～てもかまいません (saa tehdä, ei haittaa)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 15]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 9]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -41,7 +52,7 @@ tags: [grammar/perusrakenne, jlpt/n5]
 ## Nyanssi ja rajoitukset
 - てはいけません on **ehdoton kielto** — käytetään esim. sääntöjen ilmoittamiseen (禁煙ですから、吸ってはいけません). Ei sovi alempiarvoisen suuntaamana ylemmälle.
 - Suora いいえ、いけません sopii vain kun puhuja on selvästi arvovallassa (opettaja, vanhempi) kuulijaan nähden.
-- **Synonyymi てもかまわない (Chuukyuu I Luku 9):** täysin sama merkitys kuin てもいいです, hieman muodollisempi/neutraalimpi — かまう kielteisenä tarkoittaa "ei haittaa": 早く終わった人は教室を**出てもかまいません**。／家賃が安ければ、駅から遠く**てもかまいません**。／印鑑がなければ、サインで**もかまいません**。
+- **Synonyymi:** [[～てもかまいません (saa tehdä, ei haittaa)]] (Chuukyuu I Luku 9) on sama lupa muodollisemmin — "ei haittaa vaikka tekisi".
 
 ## Esimerkit
 ![[Lausepankki — Lupa ja tieto#^lupa1]]

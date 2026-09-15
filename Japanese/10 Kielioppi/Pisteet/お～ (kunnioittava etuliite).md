@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "お～"
+ja: お～
 reading: o~
 jlpt: N5
-func: [keigo, etuliite, kunnioitus]
-attaches: ["substantiivi"]
+func:
+  - keigo
+  - etuliite
+  - kunnioitus
+attaches:
+  - substantiivi
 formality: kohtelias
-register: [puhuttu, kirjoitettu]
-similar: ["[[お～になる (kunnioittava toisen teko)]]", "[[お～する (nöyrä oma teko)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 3]]", "[[Minna no Nihongo I#Luku 6]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[お～になる (kunnioittava toisen teko)]]"
+  - "[[お～する (nöyrä oma teko)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 3]]"
+  - "[[Minna no Nihongo I#Luku 6]]"
+status: known
+confidence: 5
+reviewed:
 created: 2026-08-29
-tags: [grammar/keigo, jlpt/n5]
+tags:
+  - grammar/keigo
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

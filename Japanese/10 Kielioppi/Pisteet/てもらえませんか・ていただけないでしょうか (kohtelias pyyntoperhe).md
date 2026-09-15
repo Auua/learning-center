@@ -9,7 +9,7 @@ formality: kohtelias
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vてあげます・Vてもらいます・Vてくれます (teon antaminen)]]", "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[させてもらえませんか family (kausatiivinen kohtelias pyynto)]]"]
 compare: ["[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[させてもらえませんか family (kausatiivinen kohtelias pyynto)]]"]
-sources: ["[[Minna no Nihongo Chuukyuu I#Luku 1]]"]
+sources: ["[[Minna no Nihongo II#Luku 26]]", "[[Minna no Nihongo Chuukyuu I#Luku 1]]"]
 status: new
 confidence: 1
 reviewed:

@@ -1,20 +1,35 @@
 ---
 type: grammar
-ja: "Vなければなりません"
+ja: Vなければなりません
 reading: V-nakereba narimasen
 jlpt: N5
-func: [velvollisuus, pakko]
-attaches: ["[[ない-muoto]]", "[[Ehtomuoto ば]]"]
+func:
+  - velvollisuus
+  - pakko
+attaches:
+  - "[[ない-muoto]]"
+  - "[[Ehtomuoto ば]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vなくても いいです (ei tarvitse)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 17]]", "[[Minna no Nihongo I#Luku 21]]", "[[Minna no Nihongo Chuukyuu I#Luku 7]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vなくても いいです (ei tarvitse)]]"
+  - "[[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]]"
+  - "[[～なくちゃ・～なきゃ (puhekielinen pakko)]]"
+compare:
+  - "[[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 17]]"
+  - "[[Minna no Nihongo I#Luku 21]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 7]]"
+status: shaky
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -33,8 +48,8 @@ tags: [grammar/perusrakenne, jlpt/n5]
 - Rakenne on kirjaimellisesti "ellei tee, ei käy/kelpaa" (なければ = ehtomuoto + kielto, なりません = "ei käy") — kaksi kieltoa tuottavat yhdessä pakon merkityksen, ei kielteistä.
 - Rakenteellisesti yhdistää [[ない-muoto]]:n ja [[Ehtomuoto ば]]:n.
 - **Puhekielinen lyhennys (Luku 21):** なりません voidaan jättää kokonaan pois puhutussa kielessä: もう帰らないと。 (Täytyypä lähteä kotiin.) — と jää roikkumaan lauseen loppuun, kuulija täydentää loppuosan mielessään.
-- **Synonyymi なくてはならない/いけない (Chuukyuu I Luku 7):** täysin sama merkitys kuin なければなりません, vaihdettavissa vapaasti: 図書館で借りた本は2週間以内に**返さなくてはいけない**。
-- **Puhekieliset supistumat なくちゃ/なきゃ (Luku 7):** なくてはいけない → なくちゃ(いけない); なければならない → なきゃ(いけない). Loppuosa いけない/ならない jätetään usein kokonaan pois rennossa puheessa: あしたまでにレポートを**書かなくちゃ**（いけない）んだ。／急が**なきゃ**。
+- **Synonyymi:** [[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]] (Chuukyuu I Luku 7) — sama pakko て-muodon kautta taivutettuna, vapaasti vaihdettavissa.
+- **Puhekieliset supistumat:** [[～なくちゃ・～なきゃ (puhekielinen pakko)]] (Chuukyuu I Luku 7) — なくては → なくちゃ, なければ → なきゃ, loppuosa jää pois.
 
 ## Esimerkit
 ![[Lausepankki — Terveys ja velvollisuudet#^terveys3]]

@@ -3,6 +3,7 @@ type: vocab
 word: "DVD"
 reading: ディーブイディー
 romaji: dii bui dii
+meaning: "DVD"
 pos: noun
 jlpt: N3
 pitch: []

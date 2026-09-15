@@ -3,6 +3,7 @@ type: vocab
 word: "TPO"
 reading: ティーピーオー
 romaji: tii pii oo
+meaning: "tilanteeseen sopiva käytös (aika, paikka, tilaisuus)"
 pos: noun
 jlpt: N2
 pitch: []

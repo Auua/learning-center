@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "N（場所）で"
+ja: N（場所）で
 reading: N (basho) de
 jlpt: N5
-func: [paikka, tapahtumapaikka, partikkeli]
-attaches: ["[[ます-muoto]]"]
+func:
+  - paikka
+  - tapahtumapaikka
+  - partikkeli
+attaches:
+  - "[[ます-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Liikkumisen partikkelit (へ・で・と)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 6]]", "[[Minna no Nihongo I#Luku 21]]", "[[Minna no Nihongo II#Luku 39]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Liikkumisen partikkelit (へ・で・と)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 6]]"
+  - "[[Minna no Nihongo I#Luku 21]]"
+  - "[[Minna no Nihongo II#Luku 39]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "数詞＋助数詞"
+ja: 数詞＋助数詞
 reading: suushi + josuushi
 jlpt: N5
-func: [lukusana, luokittelija, maara]
-attaches: ["substantiivi"]
+func:
+  - lukusana
+  - luokittelija
+  - maara
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N (aika) に]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 11]]"]
-status: new
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N (aika) に]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 11]]"
+status: learning
 confidence: 1
-reviewed: 
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

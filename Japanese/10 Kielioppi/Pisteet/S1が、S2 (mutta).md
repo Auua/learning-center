@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "S1が、S2"
+ja: S1が、S2
 reading: S1 ga, S2
 jlpt: N5
-func: [vastakohta, liitos]
-attaches: ["lause"]
+func:
+  - vastakohta
+  - liitos
+attaches:
+  - lause
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[普通形のに (vaikka, pettymys)]]"]
-compare: ["[[普通形のに (vaikka, pettymys)]]"]
-sources: ["[[Minna no Nihongo I#Luku 8]]", "[[Minna no Nihongo I#Luku 14]]", "[[Minna no Nihongo I#Luku 20]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[普通形のに (vaikka, pettymys)]]"
+compare:
+  - "[[普通形のに (vaikka, pettymys)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 8]]"
+  - "[[Minna no Nihongo I#Luku 14]]"
+  - "[[Minna no Nihongo I#Luku 20]]"
+status: shaky
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

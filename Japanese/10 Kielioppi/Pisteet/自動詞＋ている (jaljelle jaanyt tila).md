@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "自動詞＋ている"
+ja: 自動詞＋ている
 reading: jidoushi + teiru
 jlpt: N4
-func: [tila, tulos]
-attaches: ["[[て-muoto]]"]
+func:
+  - tila
+  - tulos
+attaches:
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[～ている (parhaillaan, tilan tulos)]]"]
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～ている (parhaillaan, tilan tulos)]]"
 compare: []
-sources: ["[[Minna no Nihongo II#Luku 29]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 29]]"
+status: learning
+confidence: 3
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

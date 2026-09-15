@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "Vないでください"
+ja: Vないでください
 reading: V-naide kudasai
 jlpt: N5
-func: [kielteinen-pyynto]
-attaches: ["[[ない-muoto]]"]
+func:
+  - kielteinen-pyynto
+attaches:
+  - "[[ない-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vて ください (pyyntö)]]", "[[Vて・Vないで (tapa, keino)]]"]
-compare: ["[[Vて・Vないで (tapa, keino)]]"]
-sources: ["[[Minna no Nihongo I#Luku 17]]", "[[Minna no Nihongo II#Luku 34]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vて ください (pyyntö)]]"
+  - "[[Vて・Vないで (tapa, keino)]]"
+compare:
+  - "[[Vて・Vないで (tapa, keino)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 17]]"
+  - "[[Minna no Nihongo II#Luku 34]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

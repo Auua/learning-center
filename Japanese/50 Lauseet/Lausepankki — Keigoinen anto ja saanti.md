@@ -1,10 +1,16 @@
 ---
 type: sentences
 topic: Keigoinen anto ja saanti
-grammar: ["[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[てくださいます (kunnioittava anto)]]", "[[てやります (alaspain tehty teko)]]"]
+grammar:
+  - "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]"
+  - "[[てくださいます (kunnioittava anto)]]"
+  - "[[Vてやります (alaspain tehty teko)]]"
 source: "[[Minna no Nihongo II#Luku 41]]"
 created: 2026-08-29
-tags: [sentences, grammar/keigo, jlpt/n4]
+tags:
+  - sentences
+  - grammar/keigo
+  - jlpt/n4
 ---
 
 > [!tip] Käyttö
@@ -35,14 +41,14 @@ tags: [sentences, grammar/keigo, jlpt/n4]
 
 **JA** わたしは息子に紙飛行機を作ってやりました。
 **FI** Tein pojalleni paperilentokoneen.
-**Kielioppi** [[てやります (alaspain tehty teko)]]
+**Kielioppi** [[Vてやります (alaspain tehty teko)]]
 ^kanto4
 
 ---
 
 **JA** お母さん、あの猿にお菓子をやってもいい？……いいえ。あそこにえさをやってはいけないと書いてありますよ。
 **FI** Äiti, saanko antaa tuolle apinalle karkkia? ...Ei, tuolla lukee että ruokkiminen on kielletty.
-**Kielioppi** [[てやります (alaspain tehty teko)]] · [[Vなければ なりません (velvollisuus)]]-tyylinen kielto.
+**Kielioppi** [[Vてやります (alaspain tehty teko)]] · [[Vなければ なりません (velvollisuus)]]-tyylinen kielto.
 ^kanto5
 
 ---

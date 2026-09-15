@@ -1,20 +1,28 @@
 ---
 type: grammar
-ja: "S1か、S2か"
+ja: S1か、S2か
 reading: S1 ka, S2 ka
 jlpt: N5
-func: [vaihtoehtokysymys]
-attaches: ["substantiivilause"]
+func:
+  - vaihtoehtokysymys
+attaches:
+  - substantiivilause
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[AはBです (A on B, peruslause)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 2]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[AはBです (A on B, peruslause)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 2]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

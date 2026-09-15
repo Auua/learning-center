@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "N1やN2［など］"
+ja: N1やN2［など］
 reading: N1 ya N2 [nado]
 jlpt: N5
-func: [luettelointi, esimerkinomaisuus]
-attaches: ["substantiivi"]
+func:
+  - luettelointi
+  - esimerkinomaisuus
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N1とN2 (ja)]]", "[[～とか～とか (epamuodollinen esimerkkilista)]]"]
-compare: ["[[～とか～とか (epamuodollinen esimerkkilista)]]"]
-sources: ["[[Minna no Nihongo I#Luku 10]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N1とN2 (ja)]]"
+  - "[[～とか～とか (epamuodollinen esimerkkilista)]]"
+compare:
+  - "[[～とか～とか (epamuodollinen esimerkkilista)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 10]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

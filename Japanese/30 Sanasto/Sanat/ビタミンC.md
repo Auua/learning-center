@@ -3,6 +3,7 @@ type: vocab
 word: "ビタミンC"
 reading: ビタミンシー
 romaji: bitamin shii
+meaning: "C-vitamiini"
 pos: noun
 jlpt: N3
 pitch: []

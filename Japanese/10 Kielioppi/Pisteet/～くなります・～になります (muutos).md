@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "い-adj（～く）／な-adj・N（～に）なります"
+ja: い-adj（～く）／な-adj・N（～に）なります
 reading: i-adj ku / na-adj・N ni narimasu
 jlpt: N5
-func: [muutos]
-attaches: ["い-adjektiivi/な-adjektiivi"]
+func:
+  - muutos
+attaches:
+  - い-adjektiivi/な-adjektiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[～くします・～にします (tahallinen muutos)]]"]
-compare: ["[[～くします・～にします (tahallinen muutos)]]"]
-sources: ["[[Minna no Nihongo I#Luku 19]]", "[[Minna no Nihongo II#Luku 44]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～くします・～にします (tahallinen muutos)]]"
+compare:
+  - "[[～くします・～にします (tahallinen muutos)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 19]]"
+  - "[[Minna no Nihongo II#Luku 44]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

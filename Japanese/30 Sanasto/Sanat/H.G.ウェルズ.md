@@ -3,6 +3,7 @@ type: vocab
 word: "H.G.ウェルズ"
 reading: エイチジーウェルズ
 romaji: eichi jii weruzu
+meaning: "H. G. Wells (brittiläinen kirjailija, 1866–1946)"
 pos: proper noun
 jlpt: N3
 pitch: []

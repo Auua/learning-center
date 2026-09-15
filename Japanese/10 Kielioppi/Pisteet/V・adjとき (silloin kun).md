@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "V／adjとき"
+ja: V／adjとき
 reading: V/adj toki
 jlpt: N5
-func: [ajanjarjestys, maare]
-attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]", "[[ない-muoto]]"]
+func:
+  - ajanjarjestys
+  - maare
+attaches:
+  - "[[Sanakirjamuoto]]"
+  - "[[た-muoto]]"
+  - "[[ない-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[関係節 (suhteellinen sivulause)]]", "[[Vまえに (ennen)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 23]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[関係節 (suhteellinen sivulause)]]"
+  - "[[Vまえに (ennen)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 23]]"
+status: shaky
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

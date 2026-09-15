@@ -7,19 +7,54 @@ tags: [set]
 ---
 
 > [!abstract] Tilanne
-> Ammatista kertominen — [[Minna no Nihongo I#Luku 15]] sisältää oman 職業-viitesivun, jonka täyttä sanalistaa ei ole tässä (ei löytynyt luotettavasti OCR:sta). Alla jo vaultissa esiintyvät ammattisanat koottuna — täydennä listaa kun näet kirjan oman sivun.
+> Ammatista kertominen ja kysyminen — [[Minna no Nihongo I#Luku 15]], Reference Words & Information ("職業 Occupations"). Sanalista on nyt täydennetty kirjan omalta viitesivulta. Huomaa kolme toistuvaa päätettä, joilla ammatin arvaa: **～員** (organisaation jäsen), **～師/～士** (koulutettu ammattilainen), **～家** (luova tai omistautunut asiantuntija).
 
-## Sanat
+## ～員 — organisaation työntekijä
 | JA | FI |
 |---|---|
-| [[先生]] | opettaja |
-| [[学生]] | opiskelija |
-| [[会社員]] | yrityksen työntekijä |
-| [[銀行員]] | pankkivirkailija |
-| [[医者]] | lääkäri |
-| [[歯医者]] | hammaslääkäri |
-| [[研究者]] | tutkija |
+| [[会社員]]（かいしゃいん） | yrityksen työntekijä |
+| [[公務員]]（こうむいん） | virkamies |
+| [[駅員]]（えきいん） | asemavirkailija |
+| [[銀行員]]（ぎんこういん） | pankkivirkailija |
+| [[郵便局員]]（ゆうびんきょくいん） | postivirkailija |
+| [[店員]]（てんいん） | myyjä |
+
+## ～師・～士 — koulutettu ammatti
+| JA | FI |
+|---|---|
+| [[調理師]]（ちょうりし） | kokki |
+| [[理容師]]（りようし） | parturi |
+| [[美容師]]（びようし） | kampaaja |
+| [[教師]]（きょうし） | opettaja |
+| [[弁護士]]（べんごし） | asianajaja |
+
+## ～家 — asiantuntija tai taiteilija
+| JA | FI |
+|---|---|
+| [[政治家]]（せいじか） | poliitikko |
+| [[画家]]（がか） | taidemaalari |
+| [[作家]]（さっか） | kirjailija |
+| [[音楽家]]（おんがくか） | muusikko |
+| [[建築家]]（けんちくか） | arkkitehti |
+
+## Terveys, turvallisuus ja hallinto
+| JA | FI |
+|---|---|
+| [[研究者]]（けんきゅうしゃ） | tutkija |
+| [[医者]]（いしゃ） | lääkäri |
+| [[看護婦]]（かんごふ） | sairaanhoitaja (nyk. 看護師) |
+| [[運転手]]（うんてんしゅ） | kuljettaja |
+| [[警察官]]（けいさつかん） | poliisi |
+| [[外交官]]（がいこうかん） | diplomaatti |
+
+## Katakana-ammatit
+| JA | FI |
+|---|---|
 | [[エンジニア]] | insinööri |
+| [[デザイナー]] | muotoilija |
+| [[ジャーナリスト]] | toimittaja |
+| [[歌手]]（かしゅ）／[[俳優]]（はいゆう） | laulaja / näyttelijä |
+| [[スポーツ選手]]（スポーツせんしゅ） | urheilija |
 
 ## Kysyminen ja vastaaminen
 | JA | FI |
@@ -30,7 +65,7 @@ tags: [set]
 | ご専門は？ | Mikä on erikoisalanne? |
 
 ## Muistiinpanot
-[[～ている (parhaillaan, tilan tulos)]] (ammatin kuvaus) · [[専門]]
+[[～ている (parhaillaan, tilan tulos)]] (ammatin kuvaus) · [[専門]] · [[先生]]・[[学生]] · [[Setti — Yhteiskunnan tittelit]] (asema organisaatiossa) · [[Setti — Oppiaineet ja tieteenalat]]
 
 ## Sanat (omat muistiinpanot)
 ```base

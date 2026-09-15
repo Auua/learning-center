@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "Vて-form しまいます"
+ja: Vて-form しまいます
 reading: shimaimasu
 jlpt: N4
-func: [valitus, paattyminen, korostus]
-attaches: ["[[て-muoto]]"]
+func:
+  - valitus
+  - paattyminen
+  - korostus
+attaches:
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
 compare: []
-sources: ["[[Minna no Nihongo II#Luku 29]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 29]]"
+status: shaky
+confidence: 2
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

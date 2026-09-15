@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "ここ・そこ・あそこ／こちら・そちら・あちら"
+ja: ここ・そこ・あそこ／こちら・そちら・あちら
 reading: koko/soko/asoko, kochira/sochira/achira
 jlpt: N5
-func: [demonstratiivi, paikka, suunta]
-attaches: ["ei liity taivutusmuotoon"]
+func:
+  - demonstratiivi
+  - paikka
+  - suunta
+attaches:
+  - ei liity taivutusmuotoon
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 3]]", "[[Minna no Nihongo I#Luku 20]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 3]]"
+  - "[[Minna no Nihongo I#Luku 20]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

@@ -3,6 +3,7 @@ type: vocab
 word: "ATM"
 reading: エーティーエム
 romaji: ee tii emu
+meaning: "pankkiautomaatti"
 pos: noun
 jlpt: N2
 pitch: []

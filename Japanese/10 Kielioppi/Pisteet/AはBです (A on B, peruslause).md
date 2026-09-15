@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "AはBです"
+ja: AはBです
 reading: A wa B desu
 jlpt: N5
-func: [kopula, vaite, kysymys, kielto]
-attaches: ["substantiivi"]
+func:
+  - kopula
+  - vaite
+  - kysymys
+  - kielto
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 1]]"]
-status: new
-confidence: 1
-reviewed: 
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 1]]"
+status: known
+confidence: 5
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

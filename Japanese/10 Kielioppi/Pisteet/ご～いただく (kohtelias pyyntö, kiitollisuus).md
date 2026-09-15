@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "ご～いただく"
+ja: ご～いただく
 reading: go~itadaku
 jlpt: N3
-func: [keigo, kenjougo, pyynto]
-attaches: ["[[て-muoto]]"]
+func:
+  - keigo
+  - kenjougo
+  - pyynto
+attaches:
+  - "[[て-muoto]]"
 formality: kohtelias
-register: [puhuttu, kirjoitettu]
-similar: ["[[お～する (nöyrä oma teko)]]", "[[いただく]]"]
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[お～する (nöyrä oma teko)]]"
+  - "[[いただく]]"
 compare: "[[Keigo — kartta]]"
-sources: ["[[Minna no Nihongo Chuukyuu I#Luku 1]]", "[[Minna no Nihongo II#Luku 26]]"]
-status: new
-confidence: 1
-reviewed: 
+sources:
+  - "[[Minna no Nihongo Chuukyuu I#Luku 1]]"
+  - "[[Minna no Nihongo II#Luku 26]]"
+status: learning
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/keigo, jlpt/n3]
+tags:
+  - grammar/keigo
+  - jlpt/n3
 ---
 
 > [!abstract] Ydin

@@ -7,7 +7,10 @@ func: [kaynti, paluu]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～ている (parhaillaan, tilan tulos)]]"]
+similar:
+  - "[[～ている (parhaillaan, tilan tulos)]]"
+  - "[[～てくる・～ていく (muutos ajassa)]]"
+  - "[[～てくる・～ていく (liikkeen suunta)]]"
 compare: []
 sources: ["[[Minna no Nihongo II#Luku 43]]", "[[Minna no Nihongo Chuukyuu I#Luku 6]]", "[[Minna no Nihongo Chuukyuu I#Luku 11]]"]
 status: new
@@ -44,31 +47,10 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ## Sekaannusvaara
 - Älä sekoita [[Vて、Vて (peräkkäisyys)]]:iin — てきます on aina kolmivaiheinen kokonaisuus (mennä-tehdä-palata), jossa paluu on olennainen osa merkitystä, ei vain yksi peräkkäisistä teoista.
 
-## Laajennus 1 — ilmiön ilmaantuminen (Chuukyuu I Luku 6)
-てくる voi kuvata myös **asteittain ilmaantuvaa tai kehittyvää tilaa/ääntä** — ei liikettä paikasta toiseen, vaan muutosta joka etenee kohti nykyhetkeä:
-- 秋祭りの朝、遠くから太鼓の音が**聞こえてきた**。（ääni alkoi kuulua vähitellen）
-- 空が明るく**なってきましたね**。もうすぐ雨がやむでしょう。（tila muuttuu vähitellen）
-- けいこを続けていれば、**わかってきますよ**。（ymmärrys kehittyy vähitellen）
-- 富士山が**見えてきた**。（näkyviin tuleminen vähitellen, esim. matkan edetessä）
-
-Tässä käytössä てくる korostaa muutoksen **suuntaa nykyhetkeen päin ajassa**, ei fyysistä liikettä.
-
-**Jatkuva/kiihtyvä muutos ていく:lla (Chuukyuu I Luku 11):** samalla logiikalla ていく kuvaa muutosta joka jatkuu/etenee **tulevaisuuteen päin**, poispäin nykyhetkestä: 台風の影響で、風がだんだん強くなっ**てきた**（muutos nykyhetkeen asti）。世界中で海外旅行をする人がますます増え**ていくだろう**（muutos jatkuu tulevaisuuteen）。日本の生活に慣れ**てきました**（tähän mennessä tapahtunut totuttautuminen）。
-
-## Laajennus 2 — てくる (lähestyminen) vs. ていく (etääntyminen) (Chuukyuu I Luku 6)
-Kun て-muotoon lisätään suuntaverbi 来る tai 行く, se ilmaisee liikkeen suunnan puhujaan nähden:
-- 鳥が**飛んでいくよ**。北の国へ帰るんだね。（etääntyy puhujasta）
-- サケは生まれた川から海に出て、また生まれた川に**戻ってきます**。（palaa/lähestyy）
-- 大統領が飛行機から**出てきました**。手を振っています。（tulee ulos, lähestyy katsojaa）
-
-| Muoto | Suunta | Esimerkki |
-|---|---|---|
-| てくる | kohti puhujaa/nykyhetkeä | 戻ってくる（palata takaisin, lähestyä） |
-| ていく | poispäin puhujasta | 飛んでいく（lentää pois, etääntyä） |
-
-## Esimerkit (laajennukset)
-![[Lausepankki — Puhekielinen lainaus ja tavat#^puhe11]]
-![[Lausepankki — Puhekielinen lainaus ja tavat#^puhe12]]
+## Laajennukset
+Sama て + 来る/行く -kaava kantaa kahta muuta merkitystä, joilla on omat muistiinpanonsa:
+- [[～てくる・～ていく (muutos ajassa)]] (Chuukyuu I Luku 6, 11) — asteittainen muutos aikajanalla (だんだん強くなってきた, 増えていくだろう).
+- [[～てくる・～ていく (liikkeen suunta)]] (Chuukyuu I Luku 6) — fyysinen suunta puhujaan nähden (鳥が飛んでいく).
 
 ## Kortit
 #flashcards/grammar/n4

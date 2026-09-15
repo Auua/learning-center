@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "Nができます（valmistua）"
+ja: Nができます（valmistua）
 reading: N ga dekimasu
 jlpt: N4
-func: [valmistuminen, syntyminen]
-attaches: ["substantiivi"]
+func:
+  - valmistuminen
+  - syntyminen
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: ["[[Potentiaali える]]"]
-sources: ["[[Minna no Nihongo II#Luku 27]]"]
-status: new
-confidence: 1
+compare:
+  - "[[Potentiaali える]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 27]]"
+status: known
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

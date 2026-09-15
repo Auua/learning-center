@@ -22,52 +22,208 @@ views:
     name: Heikoimmat ensin
     filters:
       and:
-        - 'confidence <= 2'
+        - confidence <= 2
+        - or:
+            - type == "grammar"
+            - type == "compare"
+            - type == "form"
+            - type == "sentences"
     order:
       - file.name
-      - note.type
-      - note.jlpt
-      - note.confidence
-      - note.status
-      - note.reviewed
+      - type
+      - jlpt
+      - confidence
+      - status
+      - reviewed
     sort:
-      - property: note.confidence
+      - property: reviewed
+        direction: DESC
+      - property: confidence
         direction: ASC
-    limit: 40
+    limit: 15
+  - type: table
+    name: Heikoimmat ensin — N4
+    filters:
+      and:
+        - confidence <= 2
+        - jlpt == "N4"
+        - or:
+            - type == "grammar"
+            - type == "compare"
+            - type == "form"
+            - type == "sentences"
+    order:
+      - file.name
+      - type
+      - confidence
+      - status
+      - reviewed
+    sort:
+      - property: confidence
+        direction: ASC
+    limit: 15
+  - type: table
+    name: Heikoimmat ensin — N3
+    filters:
+      and:
+        - confidence <= 2
+        - jlpt == "N3"
+        - or:
+            - type == "grammar"
+            - type == "compare"
+            - type == "form"
+            - type == "sentences"
+    order:
+      - file.name
+      - type
+      - confidence
+      - status
+      - reviewed
+    sort:
+      - property: confidence
+        direction: ASC
+    limit: 15
   - type: table
     name: Uudet
     filters:
       and:
-        - 'status == "new"'
+        - status == "new"
+        - or:
+            - type == "grammar"
+            - type == "compare"
+            - type == "form"
+            - type == "sentences"
     order:
       - file.name
-      - note.type
-      - note.jlpt
-    limit: 40
+      - type
+      - jlpt
+    limit: 15
+  - type: table
+    name: Uudet — N4
+    filters:
+      and:
+        - status == "new"
+        - jlpt == "N4"
+        - or:
+            - type == "grammar"
+            - type == "compare"
+            - type == "form"
+            - type == "sentences"
+    order:
+      - file.name
+      - type
+    limit: 15
+  - type: table
+    name: Uudet — N3
+    filters:
+      and:
+        - status == "new"
+        - jlpt == "N3"
+        - or:
+            - type == "grammar"
+            - type == "compare"
+            - type == "form"
+            - type == "sentences"
+    order:
+      - file.name
+      - type
+    limit: 15
   - type: table
     name: Työn alla
     filters:
       and:
-        - 'status == "learning"'
+        - status == "learning"
     groupBy:
-      property: note.type
+      property: type
       direction: ASC
     order:
       - file.name
-      - note.jlpt
-      - note.confidence
+      - jlpt
+      - confidence
+  - type: table
+    name: Epävarmat
+    filters:
+      and:
+        - status == "shaky"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - jlpt
+      - confidence
+  - type: table
+    name: Epävarmat — N4
+    filters:
+      and:
+        - status == "shaky"
+        - jlpt == "N4"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - confidence
+  - type: table
+    name: Epävarmat — N3
+    filters:
+      and:
+        - status == "shaky"
+        - jlpt == "N3"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - confidence
+  - type: table
+    name: Osatut
+    filters:
+      and:
+        - status == "known"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - jlpt
+      - confidence
+  - type: table
+    name: Osatut — N4
+    filters:
+      and:
+        - status == "known"
+        - jlpt == "N4"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - confidence
+  - type: table
+    name: Osatut — N3
+    filters:
+      and:
+        - status == "known"
+        - jlpt == "N3"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - confidence
   - type: table
     name: Toistuvat virheet
     filters:
       and:
-        - 'type == "mistake"'
-        - 'recurring == true'
-        - 'fixed == false'
+        - type == "mistake"
+        - recurring == true
+        - fixed == false
     order:
       - file.name
-      - note.topic
-      - note.cause
-      - note.date
+      - topic
+      - cause
+      - date
     sort:
-      - property: note.date
+      - property: date
         direction: DESC

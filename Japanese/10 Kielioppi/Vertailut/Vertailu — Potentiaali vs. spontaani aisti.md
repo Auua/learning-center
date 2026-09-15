@@ -1,7 +1,7 @@
 ---
 type: compare
 topic: Potentiaali vs. spontaani aisti
-members: ["[[Potentiaali える]]"]
+members: ["[[Potentiaali える]]", "[[見えます・聞こえます (spontaani aisti)]]"]
 axis: [tahto, tilaisuus, aisti-toimii-itsestaan]
 jlpt: N4
 sources: ["[[Minna no Nihongo II#Luku 27]]", "[[Minna no Nihongo Chuukyuu I#Luku 12]]"]

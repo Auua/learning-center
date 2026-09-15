@@ -42,4 +42,4 @@ views:
 | この写真みたいに切ってください。 | Leikatkaa kuten tässä kuvassa. |
 
 ## Muistiinpanot
-[[Vすぎます (liiallisuus)]] · [[やすいです・にくいです (helppous/vaikeus)]]
+[[Vすぎます (liikaa)]] · [[Vやすい・Vにくい (helppo, vaikea)]]

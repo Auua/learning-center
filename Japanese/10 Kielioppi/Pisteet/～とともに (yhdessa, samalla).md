@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "V辞書形／N＋とともに"
+ja: V辞書形／N＋とともに
 reading: to tomo ni
 jlpt: N2
-func: [samanaikaisuus, liitto]
-attaches: ["[[Sanakirjamuoto]]", "substantiivi"]
+func:
+  - samanaikaisuus
+  - liitto
+attaches:
+  - "[[Sanakirjamuoto]]"
+  - substantiivi
 formality: muodollinen
-register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[Vながら (samalla kun)]]"]
-compare: ["[[Vますながら (samalla kun)]]"]
-sources: ["[[Minna no Nihongo Chuukyuu II#Luku 16]]"]
+register:
+  - kirjoitettu
+  - puhuttu (muodollinen)
+similar:
+  - "[[Vながら (samalla kun)]]"
+compare:
+  - "[[V(-ます)ながら (samalla kun)]]"
+sources:
+  - "[[Minna no Nihongo Chuukyuu II#Luku 16]]"
 status: new
 confidence: 1
 reviewed:
 created: 2026-08-30
-tags: [grammar/perusrakenne, jlpt/n2]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n2
 ---
 
 > [!abstract] Ydin
@@ -34,13 +45,13 @@ tags: [grammar/perusrakenne, jlpt/n2]
 
 ## Nyanssi ja rajoitukset
 - Kirjallinen/muodollinen ilmaus, jossa jälkimmäinen teko esitetään **rinnakkaisena, yhtä tärkeänä** toimena edellisen kanssa — ei toissijaisena.
-- Muodollisempi kuin [[Vますながら (samalla kun)]], joka sopii arkikieleen; とともに on tyypillinen uutis-/liike-elämän tekstissä.
+- Muodollisempi kuin [[V(-ます)ながら (samalla kun)]], joka sopii arkikieleen; とともに on tyypillinen uutis-/liike-elämän tekstissä.
 
 ## Esimerkit
 ![[Lausepankki — Tietoturva ja yllattavat kaanteet#^tie6]]
 
 ## Sekaannusvaara
-- [[Vますながら (samalla kun)]]: neutraali/arkinen samanaikaisuus-ilmaus; とともに on muodollisempi ja korostaa kahden **yhtä tärkeän** toimen rinnakkaisuutta, tyypillinen viralliselle tiedotustekstille.
+- [[V(-ます)ながら (samalla kun)]]: neutraali/arkinen samanaikaisuus-ilmaus; とともに on muodollisempi ja korostaa kahden **yhtä tärkeän** toimen rinnakkaisuutta, tyypillinen viralliselle tiedotustekstille.
 
 ## Kortit
 #flashcards/grammar/n2

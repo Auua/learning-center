@@ -84,12 +84,12 @@ tags: [sentences, grammar/perusrakenne, jlpt/n3]
 
 **JA** 秋祭りの朝、遠くから太鼓の音が聞こえてきた。空が明るくなってきましたね。もうすぐ雨がやむでしょう。
 **FI** Syysjuhlan aamuna rummun ääni alkoi kuulua kaukaa. Taivas on alkanut kirkastua. Kohta sade taitaa loppua.
-**Kielioppi** [[Vてきます (kaynti ja paluu)]] · ilmiön ilmaantuminen.
+**Kielioppi** [[～てくる・～ていく (muutos ajassa)]] · ilmiön ilmaantuminen ja asteittainen muutos.
 ^puhe11
 
 ---
 
 **JA** 見て。鳥が飛んでいくよ。北の国へ帰るんだね。
 **FI** Katso, lintu lentää pois. Se palaa pohjoiseen maahansa.
-**Kielioppi** [[Vてきます (kaynti ja paluu)]] · ていく, etääntyminen.
+**Kielioppi** [[～てくる・～ていく (liikkeen suunta)]] · ていく, etääntyminen puhujasta.
 ^puhe12

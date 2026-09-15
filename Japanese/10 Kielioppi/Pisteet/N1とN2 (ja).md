@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "N1とN2"
+ja: N1とN2
 reading: N1 to N2
 jlpt: N5
-func: [rinnastus, luettelointi]
-attaches: ["substantiivi"]
+func:
+  - rinnastus
+  - luettelointi
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[～と (aina kun, väistämätön seuraus)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 4]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～と (aina kun, väistämätön seuraus)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 4]]"
+status: known
+confidence: 5
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

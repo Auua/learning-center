@@ -1,35 +1,49 @@
 ---
 type: grammar
-ja: "普通形んです"
+ja: 普通形んです
 reading: futsuukei ndesu
 jlpt: N4
-func: [selitys, syy, aihe]
-attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
+func:
+  - selitys
+  - syy
+  - aihe
+attaches:
+  - "[[普通形 (puhekielinen perusmuoto)]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[S1から、S2 (syy)]]", "[[普通形の？ (puhekielinen selittava kysymys)]]"]
-compare: ["[[普通形の？ (puhekielinen selittava kysymys)]]"]
-sources: ["[[Minna no Nihongo II#Luku 26]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[S1から、S2 (syy)]]"
+  - "[[普通形の？ (puhekielinen selittava kysymys)]]"
+compare:
+  - "[[普通形の？ (puhekielinen selittava kysymys)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 26]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
 > んです (puhuttu) / のです (kirjoitettu) selittää syyn, taustan tai tilanteen vahvasti. Liittyy 普通形:aan — な-adjektiivi ja substantiivi ottavat な:n normaalin だ:n sijaan. Kolme päinvastaista käyttöä: kysymyksenä (varmistaa oletetun syyn), vastauksena (antaa syyn), ja んですが (pehmeä aiheenavaus ennen pyyntöä).
+> Puhekielessä 〜んだ
 
 ## Merkitys
 - **FI:** asia on niin että ~ / onko niin että ~?
 - **EN:** it's that ~ / is it that ~?
 
 ## Muodostus
-| Sanaluokka | Kaava | Esimerkki |
-|---|---|---|
-| Verbi/い-adj | 普通形 + んです | 時間が**ないんです**。 |
+| Sanaluokka   | Kaava     | Esimerkki                      |
+| ------------ | --------- | ------------------------------ |
+| Verbi/い-adj  | 普通形 + んです | 時間が**ないんです**。                  |
 | な-adjektiivi | だ→な + んです | 気分が**悪いんです**（い-adj）／静か**なんです** |
-| Substantiivi | だ→な + んです | 学生**なんです** |
+| Substantiivi | だ→な + んです | 学生**なんです**                     |
+|              |           |                                |
 
 ## Kolme käyttötapaa
 1. **んですか — oletetun syyn varmistaminen tai lisätiedon pyytäminen**: 大阪に住んでいた**んですか**。(Oletko siis asunut Osakassa?)

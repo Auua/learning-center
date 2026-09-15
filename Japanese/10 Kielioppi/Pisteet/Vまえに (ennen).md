@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "V辞書形まえに／Nのまえに／期間まえに"
+ja: V辞書形まえに／Nのまえに／期間まえに
 reading: V-dict mae ni / N no mae ni / kikan mae ni
 jlpt: N5
-func: [ajanjarjestys]
-attaches: ["[[Sanakirjamuoto]]"]
+func:
+  - ajanjarjestys
+attaches:
+  - "[[Sanakirjamuoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vてから、V2 (jälkeen)]]", "[[Vたあとで (sen jalkeen kun)]]"]
-compare: ["[[Vたあとで (sen jalkeen kun)]]"]
-sources: ["[[Minna no Nihongo I#Luku 18]]", "[[Minna no Nihongo II#Luku 34]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vてから、V2 (jälkeen)]]"
+  - "[[Vたあとで (sen jalkeen kun)]]"
+compare:
+  - "[[Vたあとで (sen jalkeen kun)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 18]]"
+  - "[[Minna no Nihongo II#Luku 34]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

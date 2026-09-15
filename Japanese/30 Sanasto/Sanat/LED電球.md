@@ -3,6 +3,7 @@ type: vocab
 word: "LED電球"
 reading: エルイーディーでんきゅう
 romaji: eru ii dii denkyuu
+meaning: "LED-lamppu"
 pos: noun
 jlpt: N2
 pitch: []

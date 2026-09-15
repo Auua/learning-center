@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "くれます"
+ja: くれます
 reading: kuremasu
 jlpt: N5
-func: [antaminen, saaminen]
-attaches: ["substantiivi/て-muoto"]
+func:
+  - antaminen
+  - saaminen
+attaches:
+  - substantiivi/て-muoto
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N (人) に あげます・もらいます]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 24]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N (人) に あげます・もらいます]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 24]]"
+status: learning
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

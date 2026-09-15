@@ -59,7 +59,7 @@ tags: [source, textbook]
 **読む・書く** 「働かない『働きアリ』」 s. 29 — selittävä teksti: ehto- ja seuraussuhteiden lukeminen
 **話す・聞く** 「イルワンさんの右に出る人はいないということです」 s. 33 — puheenvuoron jatkaminen ja katkaiseminen, kehuminen ja vaatimattomuus
 **文法・練習** s. 37
-1. という (nimeltään, sellainen että)
+1. という (nimeltään, sellainen että) → [[普通形という。 (lyhennetty kirjallinen kuulopuhe)]]
 2. 〜たびに (aina kun)
 3. 〜に関する (koskien, liittyen)
 4. 〜わけではない (ei tarkoita että aina/kaikki)
@@ -102,7 +102,7 @@ tags: [source, textbook]
 8. 〜ったら (puhekielinen "kun sanoin…", turhautuminen)
 9. 〜にしては (ottaen huomioon että, verrattuna odotukseen)
 10. 〜からには (koska kerran, sen jälkeen kun on päätetty)
-11. 〜でしょ (eikö niin, puhekielinen)
+11. 〜でしょ (eikö niin, puhekielinen) → [[でしょ・だろ (puhekielinen varmistus)]]
 
 **問題** s. 69
 
@@ -159,7 +159,7 @@ tags: [source, textbook]
 **読む・書く** 「日本の誇り、水文化を守れ」 s. 113 — mielipidetekstin lukeminen: pääväitteen erottaminen perusteluista ja esimerkeistä
 **話す・聞く** 「発表：データに基づいてお話ししたいと思います」 s. 117 — tietoon perustuvan esityksen pitäminen, kaavioiden käyttö selittämisessä
 **文法・練習** s. 121
-1. 〜もせずに (tekemättä edes)
+1. 〜もせずに (tekemättä edes) → [[～もせずに (ei edes tehnyt)]]
 2. 〜といえども (vaikka onkin, muodollinen "vaikka")
 3. よほど〜でも (aika lailla, huomattavan paljon)
 4. いかに〜か (kuinka paljon/vakavasti, muodollinen)

@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "疑問詞＋Vたらいいですか"
+ja: 疑問詞＋Vたらいいですか
 reading: gimonshi + V-tara ii desu ka
 jlpt: N4
-func: [neuvo, kysymys]
-attaches: ["[[た-muoto]]"]
+func:
+  - neuvo
+  - kysymys
+attaches:
+  - "[[た-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[～たら (jos, kun)]]"]
-compare: 
-sources: ["[[Minna no Nihongo II#Luku 26]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～たら (jos, kun)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo II#Luku 26]]"
+status: shaky
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

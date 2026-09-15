@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "N（時間）に"
+ja: N（時間）に
 reading: N (jikan) ni
 jlpt: N5
-func: [aika, partikkeli]
-attaches: ["[[ます-muoto]]"]
+func:
+  - aika
+  - partikkeli
+attaches:
+  - "[[ます-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 4]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～から～まで (mistä mihin, alku ja loppu)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 4]]"
+status: known
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

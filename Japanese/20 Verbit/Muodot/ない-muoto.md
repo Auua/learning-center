@@ -33,20 +33,25 @@ tags: [form]
 ```base
 filters:
   and:
-    - 'type == "grammar"'
-    - 'attaches.contains(this)'
+    - type == "grammar"
+    - attaches.contains(this)
 views:
   - type: table
     name: Kieliopit
     order:
       - file.name
-      - note.jlpt
-      - note.func
-      - note.status
-      - note.confidence
+      - jlpt
+      - func
+      - status
+      - confidence
     sort:
-      - property: note.jlpt
+      - property: jlpt
         direction: ASC
+    columnSize:
+      file.name: 488
+      note.func: 408
+      note.confidence: 51
+
 ```
 
 ## Verbit joissa tämä on harjoiteltu

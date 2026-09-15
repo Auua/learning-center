@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "関係節"
+ja: 関係節
 reading: kankeisetsu
 jlpt: N5
-func: [maare, sivulause, nominalisointi]
-attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
+func:
+  - maare
+  - sivulause
+  - nominalisointi
+attaches:
+  - "[[普通形 (puhekielinen perusmuoto)]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[い-adjektiivit ja な-adjektiivit]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 22]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[い-adjektiivit ja な-adjektiivit]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 22]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

@@ -7,8 +7,12 @@ func: [kuulopuhe, vahvistus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形そうです (kuulopuhe)]]"]
-compare: ["[[普通形そうです (kuulopuhe)]]"]
+similar:
+  - "[[普通形そうです (kuulopuhe)]]"
+  - "[[普通形という。 (lyhennetty kirjallinen kuulopuhe)]]"
+compare:
+  - "[[普通形そうです (kuulopuhe)]]"
+  - "[[普通形という。 (lyhennetty kirjallinen kuulopuhe)]]"
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 4]]", "[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -42,9 +46,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ![[Lausepankki — Muodollinen kieli ja kausatiivipassiivi#^muod2]]
 
 ## Laajennus: lyhennetty kirjallinen という。
-Kirjallisessa/tieteellisessä tekstissä ということだ voidaan lyhentää pelkäksi という:ksi lauseen lopussa — sama kuulopuhemerkitys, tiiviimpi kirjallinen tyyli:
-- アリをよく観察すると、働いているアリを横目にただ動き回っているだけのアリたちがいる**という**。（＝いるということだ）
-- 日本で最も古い大学が京都にある**という**。
+Kirjallisessa tekstissä ということだ lyhenee lauseen lopussa pelkäksi という:ksi — ks. [[普通形という。 (lyhennetty kirjallinen kuulopuhe)]] (Chuukyuu II Luku 15).
 
 ## Sekaannusvaara
 - [[普通形そうです (kuulopuhe)]] on neutraalimpi/puhekielisempi kuulopuhemuoto; ということだ on muodollisempi JA sillä on lisäksi vahvistuskäyttö jota そうです:llä ei ole yhtä luontevasti.

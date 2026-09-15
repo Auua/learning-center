@@ -3,6 +3,7 @@ type: vocab
 word: "JR"
 reading: ジェイアール
 romaji: jei aaru
+meaning: "JR (Japan Railway, Japanin rautatieyhtiö)"
 pos: proper noun
 jlpt: N5
 pitch: []

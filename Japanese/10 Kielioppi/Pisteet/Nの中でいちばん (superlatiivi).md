@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "N［の中］で［疑問詞］がいちばんadjですか"
+ja: N［の中］で［疑問詞］がいちばんadjですか
 reading: N [no naka] de [gimonshi] ga ichiban adj desu ka
 jlpt: N5
-func: [superlatiivi, kysymys]
-attaches: ["substantiivi"]
+func:
+  - superlatiivi
+  - kysymys
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N1はN2より (vertailu)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 12]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N1はN2より (vertailu)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 12]]"
+status: shaky
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

@@ -7,8 +7,14 @@ func: [odotus, paattely]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形でしょう (todennakoisyys)]]", "[[Vかもしれません (saattaa olla etta)]]"]
-compare: ["[[普通形でしょう (todennakoisyys)]]", "[[Vかもしれません (saattaa olla etta)]]"]
+similar:
+  - "[[普通形でしょう (todennakoisyys)]]"
+  - "[[Vかもしれません (saattaa olla etta)]]"
+  - "[[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]]"
+compare:
+  - "[[普通形でしょう (todennakoisyys)]]"
+  - "[[Vかもしれません (saattaa olla etta)]]"
+  - "[[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]]"
 sources: ["[[Minna no Nihongo II#Luku 46]]", "[[Minna no Nihongo Chuukyuu I#Luku 10]]"]
 status: new
 confidence: 1
@@ -33,10 +39,9 @@ tags: [grammar/perusrakenne, jlpt/n4]
 | はずなんですが（odotus ei toteutunut） | 5時ごろに来てくれる**はずなんですが**、まだですか。 |
 
 ## Nyanssi ja rajoitukset
-- はず vaatii aina **perustellun syyn** taustalla (亜kataulu, lähetystapa, annettu lääke) — ei sovi pelkkään mutu-tuntumaan (silloin でしょう tai かもしれません).
+- はず vaatii aina **perustellun syyn** taustalla (aikataulu, lähetystapa, annettu lääke) — ei sovi pelkkään mutu-tuntumaan (silloin でしょう tai かもしれません).
 - はずなんですが + kysymys/valitus on yleinen kaava kun odotettu asia ei ole vielä toteutunut: puhuja ilmaisee lievää huolta/hämmennystä.
-- **はずがない/はずはない (Chuukyuu I Luku 10):** vahva kielto — "ei todellakaan voi olla niin", puhuja on täysin varma että jokin EI pidä paikkaansa: 松本さんはこの情報を知っているんですか。……**知らないはずがありません**。彼は部長ですよ。／そんな**はずはないよ**。シュミットさん、今、国へ帰っているよ。
-- **はずだった (Chuukyuu I Luku 10):** kertoo odotuksesta/suunnitelmasta joka **ei toteutunut** — sama toteutumattomuuden logiikka kuin [[Vつもりです (paatetty aikomus)]]:n つもりだった: 山田さんは来ないんですか。……**来るはずだったんです**が、急に都合が悪くなって…。
+- **はずがない ja はずだった:** kielto ("ei voi olla niin") ja toteutumaton odotus ("piti tulla, mutta…") on koottu muistiinpanoon [[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]] (Chuukyuu I Luku 10).
 
 ## Esimerkit
 ![[Lausepankki — Vaiheet ja odotukset#^vaihe6]]

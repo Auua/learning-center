@@ -1,19 +1,37 @@
 ---
 type: grammar
-ja: "～ている"
+ja: ～ている
 reading: teiru
 jlpt: N5
-func: [jatkuva-tekeminen, tila, tapa, kokemus]
-attaches: ["[[て-muoto]]"]
+func:
+  - jatkuva-tekeminen
+  - tila
+  - tapa
+  - kokemus
+attaches:
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[～てある]]"]
-compare: 
-sources: ["[[Genki II]]", "[[Tae Kim — Guide to Japanese]]", "[[Dictionary of Japanese Grammar]]", "[[Minna no Nihongo I#Luku 14]]", "[[Minna no Nihongo I#Luku 15]]", "[[Minna no Nihongo II#Luku 28]]", "[[Minna no Nihongo Chuukyuu I#Luku 11]]"]
-status: learning
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～てある]]"
+  - "[[～ている (elämänhistoria, saavutukset)]]"
+compare:
+sources:
+  - "[[Genki II]]"
+  - "[[Tae Kim — Guide to Japanese]]"
+  - "[[Dictionary of Japanese Grammar]]"
+  - "[[Minna no Nihongo I#Luku 14]]"
+  - "[[Minna no Nihongo I#Luku 15]]"
+  - "[[Minna no Nihongo II#Luku 28]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 11]]"
+status: shaky
 confidence: 3
 created: 2026-08-29
-tags: [grammar/aspekti, jlpt/n5]
+tags:
+  - grammar/aspekti
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -40,7 +58,7 @@ Käytetyt taivutusmuodot: [[て-muoto]]
 | Toistuva teko | tapa | 毎朝走っている = juoksee joka aamu |
 | Kokemus / historia | tulos näkyy nyt | 日本に３回行っている |
 
-**Laajempi historia-käyttö (Chuukyuu I Luku 11):** ている voi kuvata myös elämän aikana kertyneitä saavutuksia/tapahtumia laajemmin kuin pelkkä "olen käynyt X kertaa" — sopii myös kuolleen henkilön elämäntyöhön tai historiallisiin tapahtumiin: モーツァルトは35歳で亡くなるまでに600以上の曲を**作っている**。／エジプトではこれまで何度も遺跡の発掘が**行われている**。／わたしの国はワールドカップで3回**優勝している**。
+**Laajempi historia-käyttö:** elämän tai historian aikana kertyneistä saavutuksista on oma muistiinpanonsa [[～ている (elämänhistoria, saavutukset)]] (Chuukyuu I Luku 11).
 
 ## Nyanssi ja rajoitukset
 - 知る on aina 知っている ("tietää"). Kielto on 知らない, **ei** ×知っていない.

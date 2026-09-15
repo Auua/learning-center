@@ -7,8 +7,15 @@ func: [nominalisointi]
 attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vことができます (kyky)]]", "[[Vたことがあります (kokemus)]]", "[[～ことは・が・を (yleistys ja arvottaminen)]]"]
-compare: ["[[～ことは・が・を (yleistys ja arvottaminen)]]"]
+similar:
+  - "[[Vことができます (kyky)]]"
+  - "[[Vたことがあります (kokemus)]]"
+  - "[[～ことは・が・を (yleistys ja arvottaminen)]]"
+  - "[[～のは Nです (korostusrakenne, cleft)]]"
+  - "[[～のは～からだ (syy predikaattina)]]"
+compare:
+  - "[[～ことは・が・を (yleistys ja arvottaminen)]]"
+  - "[[～のは Nです (korostusrakenne, cleft)]]"
 sources: ["[[Minna no Nihongo II#Luku 38]]"]
 status: new
 confidence: 1
@@ -35,7 +42,7 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ## Nyanssi ja rajoitukset
 - のが on varattu erityisesti mieltymys/taito-adjektiiveille (好き、嫌い、上手、下手、速い、遅い); のは sopii yleisempiin arvioihin (簡単、難しい、おもしろい、危険、大変).
 - のを + 忘れました tarkoittaa "piti tehdä X, mutta unohti sen" — ei "unohti X:n" yleisesti (vrt. かぎを忘れました = "unohsin avaimen [esineenä]").
-- Cleft-rakenne (のは...です) nostaa jonkin ajan/paikan/asian korostetuksi vastaukseksi: 1年でいちばん忙しいのは12月です ("vuoden kiireisin [aika] on joulukuu").
+- **Cleft-rakenne:** korostuskäyttö (…のは…です, …のは…からです) on omissa muistiinpanoissaan [[～のは Nです (korostusrakenne, cleft)]] ja [[～のは～からだ (syy predikaattina)]].
 - しりませんでした vs. しりません: jos vastaaja saa juuri tiedon kysymyksestä, käytetään しりませんでした (jo tuttu [[もう Vました・まだです (jo tehty, ei vielä)]]-teemaan liittyvä nyanssi); jos ei ole minkäänlaista tietoa aiheesta, käytetään しりません.
 
 ## Esimerkit

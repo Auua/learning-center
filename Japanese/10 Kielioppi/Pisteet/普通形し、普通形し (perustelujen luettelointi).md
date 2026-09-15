@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "普通形し、普通形し"
+ja: 普通形し、普通形し
 reading: shi
 jlpt: N4
-func: [perustelu, luettelointi]
-attaches: ["lause"]
+func:
+  - perustelu
+  - luettelointi
+attaches:
+  - lause
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[S1が、S2 (mutta)]]"]
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[S1が、S2 (mutta)]]"
 compare: []
-sources: ["[[Minna no Nihongo II#Luku 28]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 28]]"
+status: shaky
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

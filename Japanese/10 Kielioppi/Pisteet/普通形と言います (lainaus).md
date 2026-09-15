@@ -7,8 +7,11 @@ func: [lainaus, referointi]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形と思います (mielipide)]]"]
-compare: 
+similar:
+  - "[[普通形と思います (mielipide)]]"
+  - "[[～と言っていました・～と伝える (välitetty viesti)]]"
+compare:
+  - "[[～と言っていました・～と伝える (välitetty viesti)]]"
 sources: ["[[Minna no Nihongo I#Luku 21]]", "[[Minna no Nihongo II#Luku 33]]"]
 status: new
 confidence: 1
@@ -33,8 +36,7 @@ tags: [grammar/perusrakenne, jlpt/n5]
 ## Nyanssi ja rajoitukset
 - Epäsuorassa lainauksessa lainatun lauseen aikamuoto **ei muutu** päälauseen mukaan (ei kuten englannin "backshifting") — ミラーさんは出張する（**preesens**）と言いました, vaikka koko lause on menneessä ajassa.
 - Suora lainaus säilyttää täsmälleen alkuperäiset sanat lainausmerkeissä「」.
-- **と言っていました (Luku 33):** ～ていました-muoto (ei pelkkä 言いました) korostaa että lainattu tieto kuultiin/välittyi aiemmin ja on yhä ajankohtaista: グプタさんは30分ぐらいで戻ると言っていました ("Gupta sanoi palaavansa noin 30 minuutissa" — tieto on edelleen relevanttia). Sama epäsuoran lainauksen aikamuotosääntö pätee: 戻る pysyy preesensissä.
-- **伝える (Luku 33):** samaan referointiperheeseen kuuluu myös 伝える ("välittää viesti"): 渡辺さんにあしたのパーティーは6時からだと伝えていただけませんか ("voisitteko kertoa Watanabelle että huomisen juhlat alkavat kuudelta").
+- **Välitetty viesti:** と言っていました ja 伝える muodostavat oman kokonaisuutensa — ks. [[～と言っていました・～と伝える (välitetty viesti)]] (Minna II Luku 33).
 
 ## Esimerkit
 ![[Lausepankki — Mielipiteet ja lainaukset#^mieli3]]

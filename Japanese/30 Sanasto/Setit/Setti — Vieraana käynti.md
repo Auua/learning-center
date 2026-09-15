@@ -25,7 +25,7 @@ tags: [set]
 | [[疲れました]] | Olen väsynyt. | kertoja |
 
 ## Muistiinpanot
-[[N (人) に あげます・もらいます]] · [[お～ (kunnioittava etuliite)]] · [[父]]・[[母]]・[[お父さん]]・[[お母さん]]
+[[N (人) に あげます・もらいます]] · [[お～ (kunnioittava etuliite)]] · [[父]]・[[母]]・[[父・お父さん|お父さん]]・[[母・お母さん|お母さん]]
 
 ## Sanat (omat muistiinpanot)
 ```base

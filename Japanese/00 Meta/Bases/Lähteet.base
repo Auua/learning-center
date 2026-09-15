@@ -14,26 +14,26 @@ views:
     name: Kaikki lähteet
     filters:
       and:
-        - 'type == "source"'
+        - type == "source"
     order:
       - file.name
-      - note.kind
-      - note.level
-      - note.status
-      - note.url
+      - kind
+      - level
+      - status
+      - url
     sort:
-      - property: note.kind
+      - property: kind
         direction: ASC
   - type: table
     name: Tyypeittäin
     filters:
       and:
-        - 'type == "source"'
+        - type == "source"
     groupBy:
-      property: note.kind
+      property: kind
       direction: ASC
     order:
       - file.name
-      - note.level
-      - note.status
-      - note.url
+      - level
+      - status
+      - url

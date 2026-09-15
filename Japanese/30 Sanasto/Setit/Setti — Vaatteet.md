@@ -7,12 +7,13 @@ tags: [set]
 ---
 
 > [!abstract] Tilanne
-> Vaatetussanasto — [[Minna no Nihongo I#Luku 22]]. Huom. eri verbit vaatekappaleen mukaan: [[着る]] (yläosat), [[はく]] (housut/kengät), [[かぶる]] (päähineet), [[かける]] (silmälasit).
+> Vaatetussanasto — [[Minna no Nihongo I#Luku 22]], Reference Words & Information ("衣服 Clothes"). Huom. eri verbit vaatekappaleen mukaan: [[着る]] (yläosat), [[はく]] (housut/kengät), [[かぶる]] (päähineet), [[かける]] (silmälasit).
 
 ## Yläosat ja puvut
 | JA | FI |
 |---|---|
 | [[スーツ]] | puku |
+| [[背広]]（せびろ） | miesten puku (vanhahtava) |
 | [[ワンピース]] | mekko |
 | [[上着]] | takki, jakku |
 | [[ブラウス]] | pusero |
@@ -29,7 +30,7 @@ tags: [set]
 | [[ジーンズ]] | farkut |
 | [[スカート]] | hame |
 | [[くつした]] | sukat |
-| [[パンティストッキング]] | sukkahousut |
+| [[パンティストッキング]]（パンスト） | sukkahousut |
 | [[ハイヒール]] | korkokengät |
 | [[ブーツ]] | saappaat |
 | [[運動靴]] | lenkkitossut |
@@ -49,11 +50,12 @@ tags: [set]
 | JA | FI |
 |---|---|
 | [[着物]] | kimono |
+| [[帯]]（おび） | obi, kimonon vyö |
 | [[ぞうり]] | zori (sandaalit) |
 | [[たび]] | tabi (varvassukat) |
 
 ## Muistiinpanot
-[[着る]] · [[はく]] · [[かぶる]] · [[かける]]
+[[着る]] · [[はく]] · [[かぶる]] · [[かける]] · [[Setti — Mittayksiköt, muodot ja kuviot]] (kankaan kuviot) · [[Setti — Lähikaupat ja palvelut]] (pesula)
 
 ## Sanat (omat muistiinpanot)
 ```base

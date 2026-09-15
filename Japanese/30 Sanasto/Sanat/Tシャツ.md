@@ -3,6 +3,7 @@ type: vocab
 word: "Tシャツ"
 reading: ティーシャツ
 romaji: tii shatsu
+meaning: "t-paita"
 pos: noun
 jlpt: N3
 pitch: []

@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "Nはどうですか／Nはどんな N2ですか"
+ja: Nはどうですか／Nはどんな N2ですか
 reading: N wa dou desu ka / N wa donna N2 desu ka
 jlpt: N5
-func: [mielipide, kuvailu, kysymys]
-attaches: ["substantiivi"]
+func:
+  - mielipide
+  - kuvailu
+  - kysymys
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 8]]", "[[Minna no Nihongo I#Luku 9]]"]
-status: new
-confidence: 1
-reviewed: 
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 8]]"
+  - "[[Minna no Nihongo I#Luku 9]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

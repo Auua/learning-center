@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "Vます-vartalo ましょうか"
+ja: Vます-vartalo ましょうか
 reading: V-vartalo mashou ka
 jlpt: N5
-func: [tarjous, avuliaisuus]
-attaches: ["[[ます-muoto]]"]
+func:
+  - tarjous
+  - avuliaisuus
+attaches:
+  - "[[ます-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vませんか・Vましょう (etkö tulisi, tehdäänkö)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 14]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vませんか・Vましょう (etkö tulisi, tehdäänkö)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 14]]"
+status: known
+confidence: 5
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

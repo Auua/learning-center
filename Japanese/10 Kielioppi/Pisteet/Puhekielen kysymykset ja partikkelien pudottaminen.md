@@ -1,20 +1,28 @@
 ---
 type: grammar
-ja: "普通形の疑問文と助詞の省略"
+ja: 普通形の疑問文と助詞の省略
 reading: futsuukei no gimonbun to joshi no shouryaku
 jlpt: N5
-func: [rekisteri, kysymys]
-attaches: ["[[Sanakirjamuoto]]"]
+func:
+  - rekisteri
+  - kysymys
+attaches:
+  - "[[Sanakirjamuoto]]"
 formality: puhekielinen
-register: [puhuttu]
-similar: ["[[普通形 (puhekielinen perusmuoto)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 20]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+similar:
+  - "[[普通形 (puhekielinen perusmuoto)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 20]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/rekisteri, jlpt/n5]
+tags:
+  - grammar/rekisteri
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

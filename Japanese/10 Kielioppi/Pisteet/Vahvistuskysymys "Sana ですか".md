@@ -1,20 +1,28 @@
 ---
 type: grammar
-ja: "「Sana」ですか"
+ja: 「Sana」ですか
 reading: "[word] desu ka"
 jlpt: N5
-func: [vahvistus, kysymys]
-attaches: ["substantiivi"]
+func:
+  - vahvistus
+  - kysymys
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu]
-similar: ["[[Sね (vahvistus, eikö niin)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 10]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+similar:
+  - "[[Sね (vahvistus, eikö niin)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 10]]"
+status: known
+confidence: 5
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

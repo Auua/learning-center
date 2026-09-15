@@ -31,6 +31,7 @@ tags: [set]
 | [[遊園地]] | huvipuisto |
 | [[体育館]] | urheiluhalli |
 | [[プール]] | uima-allas |
+| [[公園]]（こうえん） | puisto |
 | [[川]] | joki |
 
 ## Koulutus ja uskonto
@@ -55,12 +56,15 @@ tags: [set]
 | [[酒屋]] | alkoholiliike |
 | [[八百屋]] | vihanneskauppa (epäsäännöllinen lukutapa!) |
 | [[コンビニ]] | lähikauppa |
+| [[喫茶店]]（きっさてん） | kahvila |
+| [[スーパー]] | supermarket |
+| [[デパート]] | tavaratalo |
 
 ## Aineet (opiskelu)
 [[経済]]（けいざい, taloustiede）· [[美術]]（びじゅつ, kuvataide）
 
 ## Muistiinpanot
-[[本屋]]・[[～屋]] · [[N (paikka) へ Vます-vartalo に行きます (tarkoitus)]]
+[[本屋]]・[[～屋]] · [[Setti — Lähikaupat ja palvelut]] · [[Setti — Yhteiskunnan tittelit]] · [[N (paikka) へ Vます-vartalo に行きます (tarkoitus)]]
 
 ## Sanat (omat muistiinpanot)
 ```base

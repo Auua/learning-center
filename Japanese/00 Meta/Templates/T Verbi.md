@@ -3,6 +3,7 @@ type: verb
 word: "<% tp.file.title %>"
 reading: 
 romaji: 
+meaning: 
 verbclass: godan
 transitivity: 
 pair: 

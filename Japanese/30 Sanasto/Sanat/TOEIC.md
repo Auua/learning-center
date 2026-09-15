@@ -3,6 +3,7 @@ type: vocab
 word: "TOEIC"
 reading: トーイック
 romaji: tooikku
+meaning: "TOEIC-koe"
 pos: proper noun
 jlpt: N2
 pitch: []

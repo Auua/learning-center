@@ -3,6 +3,7 @@ type: vocab
 word: "SF"
 reading: エスエフ
 romaji: esu efu
+meaning: "scifi-elokuva"
 pos: noun
 jlpt: N5
 pitch: []

@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "それに・それで"
+ja: それに・それで
 reading: sore ni / sore de
 jlpt: N4
-func: [konjunktio, lisays, seuraus]
-attaches: ["lause"]
+func:
+  - konjunktio
+  - lisays
+  - seuraus
+attaches:
+  - lause
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[普通形し、普通形し (perustelujen luettelointi)]]"]
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[普通形し、普通形し (perustelujen luettelointi)]]"
 compare: []
-sources: ["[[Minna no Nihongo II#Luku 28]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 28]]"
+status: known
+confidence: 3
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

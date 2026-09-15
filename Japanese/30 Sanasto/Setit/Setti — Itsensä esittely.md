@@ -38,4 +38,4 @@ views:
 | 何歳ですか。／おいくつですか。 | Kuinka vanha olet? (neutraali／kohtelias) |
 
 ## Muistiinpanot
-[[AはBです (A on B, peruslause)]] · [[N1のN2 (N1:n N2)]] · [[～さん (kohtelias nimen liite)]] · [[私]] · [[あなた]] · [[だれ]]・[[どなた]]
+[[AはBです (A on B, peruslause)]] · [[N1のN2 (N1:n N2)]] · [[～さん (kohtelias nimen liite)]] · [[私]] · [[あなた]] · [[だれ・どなた|だれ]]・[[だれ・どなた|どなた]]

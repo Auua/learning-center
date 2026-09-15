@@ -1,20 +1,27 @@
 ---
 type: grammar
-ja: "どこかで・どこかに"
+ja: どこかで・どこかに
 reading: dokoka de / dokoka ni
 jlpt: N4
-func: [epamaaraisyys]
-attaches: ["lause"]
+func:
+  - epamaaraisyys
+attaches:
+  - lause
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
 compare: []
-sources: ["[[Minna no Nihongo II#Luku 29]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 29]]"
+status: known
+confidence: 3
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

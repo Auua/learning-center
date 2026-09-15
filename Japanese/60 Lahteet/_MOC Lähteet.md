@@ -14,7 +14,7 @@ Oppikirjat: [[Minna no Nihongo I]] · [[Minna no Nihongo II]] · [[Minna no Niho
 Kielioppi: [[Bunpro]] · [[Tae Kim — Guide to Japanese]] · [[Maggie Sensei]]
 Sanakirja: [[Jisho]]
 Lukeminen: [[Satori Reader]] · [[NHK News Web Easy]]
-Kanji: [[WaniKani]]
+Kanji: [[Basic Kanji Book I]] · [[Basic Kanji Book II]] · [[Intermediate Kanji Book I]] · [[Intermediate Kanji Book II]] · [[WaniKani]]
 
 ## Käyttämättömät lähteet
 ```dataview

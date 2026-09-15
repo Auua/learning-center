@@ -3,6 +3,7 @@ type: vocab
 word: "ASEAN諸国"
 reading: アセアンしょこく
 romaji: asean shokoku
+meaning: "ASEAN-maat"
 pos: proper noun
 jlpt: N2
 pitch: []

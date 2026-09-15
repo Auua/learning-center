@@ -1,20 +1,33 @@
 ---
 type: grammar
-ja: "S1から、S2／どうして"
+ja: S1から、S2／どうして
 reading: S1 kara, S2 / doushite
 jlpt: N5
-func: [syy, kysymys]
-attaches: ["lause"]
+func:
+  - syy
+  - kysymys
+attaches:
+  - lause
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[〜ので (pehmea syy)]]"]
-compare: ["[[〜ので (pehmea syy)]]"]
-sources: ["[[Minna no Nihongo I#Luku 9]]", "[[Minna no Nihongo II#Luku 39]]", "[[Minna no Nihongo Chuukyuu I#Luku 8]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[〜ので (pehmea syy)]]"
+  - "[[～のは～からだ (syy predikaattina)]]"
+compare:
+  - "[[〜ので (pehmea syy)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 9]]"
+  - "[[Minna no Nihongo II#Luku 39]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 8]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -35,7 +48,7 @@ tags: [grammar/perusrakenne, jlpt/n5]
 ## Nyanssi ja rajoitukset
 - から voidaan sanoa joko ennen seurausta tai sen jälkeen erillisenä lisäyksenä — molemmat luonnollisia.
 - どうしてですか (yksinään) kysyy syytä johonkin juuri sanottuun, ilman että koko lausetta tarvitsee toistaa.
-- **のは〜からです (Chuukyuu I Luku 8):** から voi toimia myös predikaattina cleft-rakenteen ([[Vのは・Vのが・Vのを (nominalisointi)]]) lopussa, kun perustellaan mikä on syynä: 仕事を辞めたのはなぜですか。……大学院に入って、もっと専門的な勉強をしたかった**からです**。／わたしが結婚したくないのは自由な生活をしたい**からです**。 Tässä からです toimii koko lauseen predikaattina, ei vain liitteenä.
+- **Syy predikaattina:** から voi toimia myös cleft-rakenteen predikaattina (…のは…からです) — ks. [[～のは～からだ (syy predikaattina)]] (Chuukyuu I Luku 8).
 
 ## Sekaannusvaara
 - [[〜ので (pehmea syy)]] ilmaisee saman syy-seuraussuhteen pehmeämmin ja kohteliaammin — から on suorempi ja korostaa henkilökohtaista perustelua, ので esittää syyn objektiivisempana tosiasiana. な-adj/N ottaa だ:n から:n edellä mutta な:n ので:n edellä (邪魔だから vs. 邪魔なので).

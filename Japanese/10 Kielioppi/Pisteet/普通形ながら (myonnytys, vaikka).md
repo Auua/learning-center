@@ -1,24 +1,34 @@
 ---
 type: grammar
-ja: "V(ます-vartalo)／な-adj／N＋ながら（myönnytys）"
+ja: V(ます-vartalo)／な-adj／N＋ながら（myönnytys）
 reading: nagara (myönnytys)
 jlpt: N3
-func: [myonnytys, ristiriita]
-attaches: ["[[ます-muoto]]"]
+func:
+  - myonnytys
+  - ristiriita
+attaches:
+  - "[[ます-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vますながら (samalla kun)]]"]
-compare: ["[[Vますながら (samalla kun)]]"]
-sources: ["[[Minna no Nihongo Chuukyuu II#Luku 13]]"]
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[V(-ます)ながら (samalla kun)]]"
+compare:
+  - "[[V(-ます)ながら (samalla kun)]]"
+sources:
+  - "[[Minna no Nihongo Chuukyuu II#Luku 13]]"
 status: new
 confidence: 1
 reviewed:
 created: 2026-08-30
-tags: [grammar/perusrakenne, jlpt/n3]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n3
 ---
 
 > [!abstract] Ydin
-> Sama muoto kuin [[Vますながら (samalla kun)]], mutta tässä käytössä ながら ei kuvaa samanaikaisuutta vaan **ristiriitaa/myönnytystä**: "vaikka on X, silti Y" — usein yllättävä tai epäjohdonmukainen yhdistelmä.
+> Sama muoto kuin [[V(-ます)ながら (samalla kun)]], mutta tässä käytössä ながら ei kuvaa samanaikaisuutta vaan **ristiriitaa/myönnytystä**: "vaikka on X, silti Y" — usein yllättävä tai epäjohdonmukainen yhdistelmä.
 
 ## Merkitys
 - **FI:** vaikka, siitä huolimatta että
@@ -35,14 +45,14 @@ tags: [grammar/perusrakenne, jlpt/n3]
 
 ## Nyanssi ja rajoitukset
 - Nimi- ja na-adjektiiveilla tarvitaan であり ennen ながら:a (医者であり**ながら**), koska ながら ei voi liittyä suoraan nimisanaan/na-adjektiiviin.
-- Ero samanaikaisuus-ながらsta selviää vain kontekstista: jos lause sisältää selvän ristiriidan (大阪に住んでいながら食べたことがない — "asuu Osakassa mutta ei silti ole syönyt"), kyse on myönnytyksestä; jos kaksi tekoa vain tapahtuvat yhtä aikaa ilman ristiriitaa (音楽を聞きながら勉強する), kyse on [[Vますながら (samalla kun)]]:sta.
+- Ero samanaikaisuus-ながらsta selviää vain kontekstista: jos lause sisältää selvän ristiriidan (大阪に住んでいながら食べたことがない — "asuu Osakassa mutta ei silti ole syönyt"), kyse on myönnytyksestä; jos kaksi tekoa vain tapahtuvat yhtä aikaa ilman ristiriitaa (音楽を聞きながら勉強する), kyse on [[V(-ます)ながら (samalla kun)]]:sta.
 
 ## Esimerkit
 ![[Lausepankki — Kokemuksia ja kielikommelluksia#^kok8]]
 ![[Lausepankki — Kokemuksia ja kielikommelluksia#^kok9]]
 
 ## Sekaannusvaara
-- [[Vますながら (samalla kun)]]: sama muoto, mutta merkitys "samalla kun/yhtä aikaa" ilman ristiriitaa (音楽を聞きながら勉強する). Erottaminen vaatii aina kontekstin: onko kahden asian välillä loogista ristiriitaa (→ myönnytys) vai eivät ne ole ristiriidassa (→ samanaikaisuus).
+- [[V(-ます)ながら (samalla kun)]]: sama muoto, mutta merkitys "samalla kun/yhtä aikaa" ilman ristiriitaa (音楽を聞きながら勉強する). Erottaminen vaatii aina kontekstin: onko kahden asian välillä loogista ristiriitaa (→ myönnytys) vai eivät ne ole ristiriidassa (→ samanaikaisuus).
 
 ## Kortit
 #flashcards/grammar/n3

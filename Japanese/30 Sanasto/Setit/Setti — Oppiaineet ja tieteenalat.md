@@ -57,6 +57,14 @@ tags: [set]
 | [[哲学]] | filosofia |
 | [[宗教学]] | uskontotiede |
 
+## Taide ja liikunta
+| JA | FI |
+|---|---|
+| [[芸術]]（げいじゅつ） | taide (yleisesti) |
+| [[美術]]（びじゅつ） | kuvataide |
+| [[音楽]]（おんがく） | musiikki |
+| [[体育学]]（たいいくがく） | liikuntatiede |
+
 ## Muistiinpanot
 [[専門]] · [[大学院]]
 

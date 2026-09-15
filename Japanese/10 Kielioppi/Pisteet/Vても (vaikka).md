@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "Vても／もし～たら／いくら～ても"
+ja: Vても／もし～たら／いくら～ても
 reading: V-te mo / moshi ~tara / ikura ~te mo
 jlpt: N5
-func: [myonnytys, ehto]
-attaches: ["[[て-muoto]]", "[[た-muoto]]"]
+func:
+  - myonnytys
+  - ehto
+attaches:
+  - "[[て-muoto]]"
+  - "[[た-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[～たら (jos, kun)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 25]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～たら (jos, kun)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 25]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

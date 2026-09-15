@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "N／普通形＋と同時に"
+ja: N／普通形＋と同時に
 reading: to douji ni
 jlpt: N2
-func: [samanaikaisuus, kaksoisominaisuus]
-attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
+func:
+  - samanaikaisuus
+  - kaksoisominaisuus
+attaches:
+  - substantiivi
+  - "[[普通形 (puhekielinen perusmuoto)]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vますながら (samalla kun)]]", "[[～とともに (yhdessa, samalla)]]"]
-compare: ["[[～とともに (yhdessa, samalla)]]"]
-sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[V(-ます)ながら (samalla kun)]]"
+  - "[[～とともに (yhdessa, samalla)]]"
+compare:
+  - "[[～とともに (yhdessa, samalla)]]"
+sources:
+  - "[[Minna no Nihongo Chuukyuu II#Luku 20]]"
 status: new
 confidence: 1
 reviewed:
 created: 2026-08-30
-tags: [grammar/perusrakenne, jlpt/n2]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n2
 ---
 
 > [!abstract] Ydin

@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "N（位置）"
+ja: N（位置）
 reading: ue/shita/mae/ushiro/migi/hidari/naka/soto/tonari/chikaku/aida
 jlpt: N5
-func: [paikka, maare]
-attaches: ["substantiivi"]
+func:
+  - paikka
+  - maare
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[あります・います (olemassaolo)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 10]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[あります・います (olemassaolo)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 10]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -31,19 +40,19 @@ tags: [grammar/perusrakenne, jlpt/n5]
 | Sijaintisana + で (toiminta) | 駅**の近くで**友達に会いました。 |
 
 ## Sijaintisanat koottuna
-| JA | FI |
-|---|---|
-| 上（うえ） | päällä, yllä |
-| 下（した） | alla |
-| 前（まえ） | edessä |
-| 後ろ（うしろ） | takana |
-| 右（みぎ） | oikealla |
-| 左（ひだり） | vasemmalla |
-| 中（なか） | sisällä |
-| 外（そと） | ulkona |
-| 隣（となり） | vieressä |
-| 近く（ちかく） | lähellä |
-| 間（あいだ） | välissä |
+| JA            | FI           |
+| ------------- | ------------ |
+| 上（うえ）         | päällä, yllä |
+| 下（した）         | alla         |
+| 前（まえ）         | edessä       |
+| 後ろ（うしろ）       | takana       |
+| 右（みぎ）         | oikealla     |
+| 左（ひだり）        | vasemmalla   |
+| 中（なか）         | sisällä      |
+| 外（そと）         | ulkona       |
+| 隣（となり）        | vieressä     |
+| 近く（ちかく）       | lähellä      |
+| {間\|あいだ}（あいだ） | välissä      |
 
 ## Nyanssi ja rajoitukset
 - Koska nämä ovat substantiiveja, niiden jälkeen voi tulla mikä tahansa paikkapartikkeli tilanteen mukaan — に (sijainti/olemassaolo) tai で (toimintapaikka), ei kiinteä sääntö vain yhdelle partikkelille.

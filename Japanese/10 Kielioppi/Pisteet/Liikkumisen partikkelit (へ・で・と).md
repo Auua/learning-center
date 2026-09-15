@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "N（場所）へ／N（乗り物）で／N（人）と"
+ja: N（場所）へ／N（乗り物）で／N（人）と
 reading: N (basho) e / N (norimono) de / N (hito) to
 jlpt: N5
-func: [suunta, kulkuvaline, seura]
-attaches: ["[[ます-muoto]]"]
+func:
+  - suunta
+  - kulkuvaline
+  - seura
+attaches:
+  - "[[ます-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N1とN2 (ja)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 5]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N1とN2 (ja)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 5]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

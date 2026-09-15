@@ -30,7 +30,7 @@ AはBです (A on B) · 〜じゃありません (A ei ole B) · 〜か (kysymys
 ### Luku 3
 ここ・そこ・あそこ (täällä / tuolla / tuolla kaukana) · 〜は〜です (paikka: "X on Y:ssä") · numerot ja hinnat (いくらですか = paljonko maksaa)
 ### Luku 4
-Kellonaika (何時ですか) · 〜から〜まで (mistä mihin, aika) · [[ます-muoto]] preesens ja mennyt (myönteinen/kielteinen) · 〜と (luettelointi: "ja")
+Kellonaika (何時ですか) · [[～から～まで (mistä mihin, alku ja loppu)]] (mistä mihin, aika) · [[ます-muoto]] preesens ja mennyt (myönteinen/kielteinen) · 〜と (luettelointi: "ja")
 ### Luku 5
 〜へ行きます (mennä jonnekin) · 〜で (kulkuväline: "millä") · 〜と (seura: "kenen kanssa") · päivämäärät
 ### Luku 6

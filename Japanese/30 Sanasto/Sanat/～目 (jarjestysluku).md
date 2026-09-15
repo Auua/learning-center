@@ -3,6 +3,7 @@ type: vocab
 word: ～目
 reading: ~め
 romaji: ~me
+meaning: "järjestysluku-loppuliite (kolmas, neljäs...)"
 pos: suffix
 jlpt: N5
 pitch: 

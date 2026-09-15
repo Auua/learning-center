@@ -115,7 +115,7 @@ Kansiossa `00 Meta/Bases`. Yksi tiedosto sisältää useita näkymiä välilehti
 | `Sanasto.base` | Kaikki sanat · Seteittäin · Setit |
 | `Kanji.base` | Merkit · Vetomäärän mukaan · Osat ja radikaalit · Sekaannusriski |
 | `JLPT.base` | Kaikki tasot · N5 · N4 · N3 · N2 · N1 |
-| `Kertaus.base` | Heikoimmat ensin · Uudet · Työn alla · Toistuvat virheet |
+| `Kertaus.base` | Heikoimmat ensin (+ N4/N3-versiot) · Uudet (+ N4/N3-versiot) · Työn alla · Toistuvat virheet |
 | `Lähteet.base` | Kaikki lähteet · Tyypeittäin |
 | `Päiväkirja.base` | Opiskeluloki · Virheet · Virheet syyn mukaan |
 

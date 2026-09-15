@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "数量だけ／Nだけ"
+ja: 数量だけ／Nだけ
 reading: suuryou dake / N dake
 jlpt: N5
-func: [rajaus, ainoastaan]
-attaches: ["substantiivi"]
+func:
+  - rajaus
+  - ainoastaan
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[Nしか Vません (vain, pelkastaan)]]"]
-sources: ["[[Minna no Nihongo I#Luku 11]]", "[[Minna no Nihongo Chuukyuu I#Luku 7]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～だけだ・ただ～だけでいい (vain se riittää)]]"
+compare:
+  - "[[Nしか Vません (vain, pelkastaan)]]"
+  - "[[～だけだ・ただ～だけでいい (vain se riittää)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 11]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 7]]"
+status: known
+confidence: 2
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -30,11 +42,8 @@ tags: [grammar/perusrakenne, jlpt/n5]
 | Luku+luokittelija + だけ | 外国人の社員が1人**だけ**います。 |
 | Substantiivi + だけ | 休みは日曜日**だけ**です。 |
 
-## Laajennus — （ただ）〜だけでいい (Chuukyuu I Luku 7)
-だけ yhdistettynä でいい/でいいんです ilmaisee **riittävyyttä**: "vain tämä yksi asia riittää, ei tarvita muuta". ただ korostaa yksinkertaisuutta entisestään.
-- この携帯電話、操作が簡単ですか。……はい。**ただ**このボタンを押す**だけでいい**んです。
-- このラーメン、どうやって作るんですか。……**ただ**お湯を入れる**だけでいい**んです。
-- 気分が悪いんですか。……いいえ、ちょっと雑誌を読んでいる**だけです**。（vain sitä, ei mitään erityistä）
+## Laajennus — teon rajaus ja riittävyys
+Kun だけ rajaa kokonaisen teon ja lisää riittävyyden ("vain tämä riittää"), ks. oma muistiinpano [[～だけだ・ただ～だけでいい (vain se riittää)]] (Chuukyuu I Luku 7).
 
 ## Esimerkit
 ![[Lausepankki — Määrät ja kestot#^maara5]]

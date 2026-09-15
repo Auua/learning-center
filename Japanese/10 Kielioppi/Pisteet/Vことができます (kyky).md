@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "N／Vdictionary form ことができます"
+ja: N／Vdictionary form ことができます
 reading: N / V-dict koto ga dekimasu
 jlpt: N5
-func: [kyky, nominalisointi]
-attaches: ["[[Sanakirjamuoto]]"]
+func:
+  - kyky
+  - nominalisointi
+attaches:
+  - "[[Sanakirjamuoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Potentiaali える]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 18]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Potentiaali える]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 18]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

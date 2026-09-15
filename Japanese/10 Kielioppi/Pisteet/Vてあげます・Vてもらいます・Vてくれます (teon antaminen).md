@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "Vてあげます／Vてもらいます／Vてくれます"
+ja: Vてあげます／Vてもらいます／Vてくれます
 reading: V-te agemasu / V-te moraimasu / V-te kuremasu
 jlpt: N5
-func: [avuliaisuus, kiitollisuus]
-attaches: ["[[て-muoto]]"]
+func:
+  - avuliaisuus
+  - kiitollisuus
+attaches:
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N (人) に あげます・もらいます]]", "[[くれます (joku antaa minulle)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 24]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N (人) に あげます・もらいます]]"
+  - "[[くれます (joku antaa minulle)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 24]]"
+status: learning
+confidence: 2
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

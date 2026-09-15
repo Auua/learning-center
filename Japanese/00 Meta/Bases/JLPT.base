@@ -18,102 +18,108 @@ views:
     name: Kaikki tasot
     filters:
       and:
-        - 'jlpt'
+        - jlpt
     groupBy:
-      property: note.jlpt
+      property: jlpt
       direction: ASC
     order:
       - file.name
-      - note.type
-      - note.status
-      - note.confidence
+      - type
+      - status
+      - confidence
   - type: table
     name: N5
     filters:
       and:
-        - 'jlpt == "N5"'
+        - jlpt == "N5"
+        - '!status.containsAny("known", "learning", "shaky")'
     groupBy:
-      property: note.type
+      property: type
       direction: ASC
     order:
+      - status
       - file.name
-      - note.reading
-      - note.meaning
-      - note.func
-      - note.status
-      - note.confidence
-    sort:
-      - property: note.confidence
-        direction: ASC
+      - reading
+      - onyomi
+      - kunyomi
+      - meaning
+      - func
+      - confidence
+    sort: []
+    columnSize:
+      file.name: 254
+      note.reading: 358
+      note.status: 53
+      note.confidence: 41
   - type: table
     name: N4
     filters:
       and:
-        - 'jlpt == "N4"'
+        - jlpt == "N4"
     groupBy:
-      property: note.type
+      property: type
       direction: ASC
     order:
       - file.name
-      - note.reading
-      - note.meaning
-      - note.func
-      - note.status
-      - note.confidence
+      - reading
+      - meaning
+      - func
+      - status
+      - confidence
     sort:
-      - property: note.confidence
+      - property: confidence
         direction: ASC
   - type: table
     name: N3
     filters:
       and:
-        - 'jlpt == "N3"'
+        - jlpt == "N3"
     groupBy:
-      property: note.type
+      property: type
       direction: ASC
     order:
       - file.name
-      - note.reading
-      - note.meaning
-      - note.func
-      - note.status
-      - note.confidence
+      - reading
+      - meaning
+      - func
+      - status
+      - confidence
     sort:
-      - property: note.confidence
+      - property: confidence
         direction: ASC
   - type: table
     name: N2
     filters:
       and:
-        - 'jlpt == "N2"'
+        - jlpt == "N2"
     groupBy:
-      property: note.type
+      property: type
       direction: ASC
     order:
       - file.name
-      - note.reading
-      - note.meaning
-      - note.func
-      - note.status
-      - note.confidence
+      - reading
+      - meaning
+      - func
+      - status
+      - confidence
     sort:
-      - property: note.confidence
+      - property: confidence
         direction: ASC
   - type: table
     name: N1
     filters:
       and:
-        - 'jlpt == "N1"'
+        - jlpt == "N1"
     groupBy:
-      property: note.type
+      property: type
       direction: ASC
     order:
       - file.name
-      - note.reading
-      - note.meaning
-      - note.func
-      - note.status
-      - note.confidence
+      - reading
+      - meaning
+      - func
+      - status
+      - confidence
     sort:
-      - property: note.confidence
+      - property: confidence
         direction: ASC

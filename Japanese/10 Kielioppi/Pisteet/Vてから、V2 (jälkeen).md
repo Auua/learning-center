@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "V1てから、V2"
+ja: V1てから、V2
 reading: V1-te kara, V2
 jlpt: N5
-func: [jarjestys, ajanjakso]
-attaches: ["[[て-muoto]]"]
+func:
+  - jarjestys
+  - ajanjakso
+attaches:
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vて、Vて (peräkkäisyys)]]", "[[S1から、S2 (syy)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 16]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vて、Vて (peräkkäisyys)]]"
+  - "[[S1から、S2 (syy)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 16]]"
+status: shaky
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

@@ -1,20 +1,28 @@
 ---
 type: grammar
-ja: "Nが欲しいです／Vます-vartalo+たいです"
+ja: Nが欲しいです／Vます-vartalo+たいです
 reading: N ga hoshii desu / V-tai desu
 jlpt: N5
-func: [toive, halu]
-attaches: ["[[ます-muoto]]"]
+func:
+  - toive
+  - halu
+attaches:
+  - "[[ます-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 13]]"]
-status: new
-confidence: 1
-reviewed: 
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 13]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

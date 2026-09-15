@@ -35,18 +35,20 @@ tags:
 ```base
 filters:
   and:
-    - 'kanji.contains(this)'
+    - kanji.contains(this.file.name)
 views:
   - type: table
     name: Sanat
     order:
       - file.name
-      - note.reading
-      - note.jlpt
-      - note.status
+      - reading
+      - jlpt
+      - status
+      - meaning
     sort:
-      - property: note.jlpt
+      - property: jlpt
         direction: ASC
+
 ```
 
 ## Näköisserkut

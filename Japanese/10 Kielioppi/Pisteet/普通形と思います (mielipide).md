@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "普通形と思います"
+ja: 普通形と思います
 reading: futsuukei to omoimasu
 jlpt: N5
-func: [mielipide, olettamus]
-attaches: ["[[Sanakirjamuoto]]", "[[普通形 (puhekielinen perusmuoto)]]"]
+func:
+  - mielipide
+  - olettamus
+attaches:
+  - "[[Sanakirjamuoto]]"
+  - "[[普通形 (puhekielinen perusmuoto)]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[普通形と言います (lainaus)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 21]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[普通形と言います (lainaus)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 21]]"
+status: shaky
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

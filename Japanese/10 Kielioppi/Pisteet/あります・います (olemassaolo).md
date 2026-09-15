@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "Nがあります／います、N1はN2（場所）にあります／います"
+ja: Nがあります／います、N1はN2（場所）にあります／います
 reading: N ga arimasu/imasu, N1 wa N2 (basho) ni arimasu/imasu
 jlpt: N5
-func: [olemassaolo, sijainti, partikkeli]
-attaches: ["substantiivi"]
+func:
+  - olemassaolo
+  - sijainti
+  - partikkeli
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N (paikka) で]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 10]]", "[[Minna no Nihongo I#Luku 21]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N (paikka) で]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 10]]"
+  - "[[Minna no Nihongo I#Luku 21]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

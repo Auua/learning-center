@@ -1,20 +1,33 @@
 ---
 type: grammar
-ja: "Vなくてもいいです"
+ja: Vなくてもいいです
 reading: V-nakute mo ii desu
 jlpt: N5
-func: [tarpeettomuus]
-attaches: ["[[ない-muoto]]", "[[て-muoto]]"]
+func:
+  - tarpeettomuus
+attaches:
+  - "[[ない-muoto]]"
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vなければ なりません (velvollisuus)]]", "[[Vても いいです・Vては いけません (lupa ja kielto)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 17]]", "[[Minna no Nihongo Chuukyuu I#Luku 7]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vなければ なりません (velvollisuus)]]"
+  - "[[Vても いいです・Vては いけません (lupa ja kielto)]]"
+  - "[[～なくてもかまいません (ei tarvitse, ei haittaa)]]"
+compare:
+  - "[[～なくてもかまいません (ei tarvitse, ei haittaa)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 17]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 7]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -32,7 +45,7 @@ tags: [grammar/perusrakenne, jlpt/n5]
 ## Nyanssi ja rajoitukset
 - Ero [[Vなければ なりません (velvollisuus)]]:iin on täydellinen vastakohta samalla ない-pohjalla — älä sekoita muotoja.
 - Lapsetkin voivat olla poikkeus säännöstä: 子どもは払わなくてもいいです (lasten ei tarvitse maksaa).
-- **Synonyymi なくてもかまいません (Chuukyuu I Luku 7):** täysin sama merkitys, hieman muodollisempi — かまう ("välittää") kielteisenä tarkoittaa "ei haittaa vaikkei tekisi": 食べられない物があったら、**食べなくてもかまいません**。／シャワーがあれば、おふろは**なくてもかまいません**。
+- **Synonyymi:** [[～なくてもかまいません (ei tarvitse, ei haittaa)]] (Chuukyuu I Luku 7) on täsmälleen sama merkitys hieman muodollisemmin — かまう ("välittää") kielteisenä: "ei haittaa vaikkei tekisi".
 
 ## Esimerkit
 ![[Lausepankki — Terveys ja velvollisuudet#^terveys5]]

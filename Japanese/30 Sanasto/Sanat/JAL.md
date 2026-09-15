@@ -3,6 +3,7 @@ type: vocab
 word: "JAL"
 reading: ジャル
 romaji: jaru
+meaning: "Japan Airlines"
 pos: proper noun
 jlpt: N4
 pitch: []

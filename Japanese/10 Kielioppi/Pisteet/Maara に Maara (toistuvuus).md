@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "期間に回数"
+ja: 期間に回数
 reading: kikan ni kaisuu
 jlpt: N5
-func: [toistuvuus, frekvenssi]
-attaches: ["substantiivi"]
+func:
+  - toistuvuus
+  - frekvenssi
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N (aika) に]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 11]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N (aika) に]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 11]]"
+status: shaky
+confidence: 2
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

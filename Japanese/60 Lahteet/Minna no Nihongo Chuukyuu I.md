@@ -38,7 +38,7 @@ tags: [source, textbook]
 
 ### Luku 2
 **文法・練習** s. 16
-1. （1）〜たら、〜た　（2）〜たら、〜た → [[～たら (jos, kun)]] (löytö-merkitys)
+1. （1）〜たら、〜た　（2）〜たら、〜た → [[～たら、～た (odottamaton löytö)]] · [[～たら (jos, kun)]]
 2. 〜というのは〜のことだ・〜というのは…ということだ
 3. …という
 4. …ように言う／注意する／伝える／頼む
@@ -92,11 +92,11 @@ tags: [source, textbook]
 ### Luku 6
 **文法・練習** s. 72
 1. （1）〜て…・…って…　（2）〜って… (lainaus puhekielessä)
-2. （1）〜つもりはない　（2）〜つもりだった　（3）〜たつもり・〜ているつもり
+2. （1）〜つもりはない　（2）〜つもりだった　（3）〜たつもり・〜ているつもり → [[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]
 3. 〜てばかりいる・〜ばかり〜ている
 4. …とか
-5. 〜てくる
-6. 〜てくる・〜ていく
+5. 〜てくる → [[～てくる・～ていく (muutos ajassa)]]
+6. 〜てくる・〜ていく → [[～てくる・～ていく (liikkeen suunta)]]
 
 **話す・聞く** 「行かせていただきたいんですが」 s. 77 — luvan pyytäminen ja neuvottelu
 **読む・書く** 「メンタルトレーニング」 s. 81 — こそあど-viittausten kohteen päättely
@@ -104,8 +104,8 @@ tags: [source, textbook]
 
 ### Luku 7
 **文法・練習** s. 86
-1. （1）〜なくてはならない／いけない・〜なくてもかまわない　（2）〜なくちゃ／〜なきゃ［いけない］ → [[ない-muoto]]
-2. …だけだ・［ただ］…だけでいい
+1. （1）〜なくてはならない／いけない・〜なくてもかまわない　（2）〜なくちゃ／〜なきゃ［いけない］ → [[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]] · [[～なくてもかまいません (ei tarvitse, ei haittaa)]] · [[～なくちゃ・～なきゃ (puhekielinen pakko)]] · [[ない-muoto]]
+2. …だけだ・［ただ］…だけでいい → [[～だけだ・ただ～だけでいい (vain se riittää)]]
 3. …かな
 4. （1）〜なんか…　（2）〜なんて…
 5. （1）〜（さ）せる　（2）〜（さ）せられる・〜される → [[Kausatiivi (さ)せる]] · [[Kausatiivipassiivi (さ)せられる]]
@@ -118,11 +118,11 @@ tags: [source, textbook]
 ### Luku 8
 **文法・練習** s. 100
 1. （1）〜あいだ、…　（2）〜あいだに、…
-2. （1）〜まで、…　（2）〜までに、…
+2. （1）〜まで、…　（2）〜までに、… → [[V辞書形まで・までに (verbilause aikarajana)]]
 3. 〜た〜 (mennyt määrite)
 4. 〜によって…
 5. 〜まま、…・〜のまま、…
-6. …からだ
+6. …からだ → [[～のは～からだ (syy predikaattina)]]
 
 **話す・聞く** 「迷子になっちゃったんです」 s. 105 — ihmisen tai esineen yksityiskohtainen kuvailu
 **読む・書く** 「科学者ってどう見える？」 s. 109 — otsikon vastauksen löytäminen, kappaleiden välisen suhteen hahmottaminen
@@ -131,7 +131,7 @@ tags: [source, textbook]
 ### Luku 9
 **文法・練習** s. 114
 1. お〜です（ます-vartalo） → [[Keigo — kartta]]
-2. 〜てもかまわない
+2. 〜てもかまわない → [[～てもかまいません (saa tehdä, ei haittaa)]]
 3. …ほど〜ない・…ほどではない
 4. 〜ほど〜はない／いない
 5. …ため［に］、…・…ためだ
@@ -143,7 +143,7 @@ tags: [source, textbook]
 
 ### Luku 10
 **文法・練習** s. 128
-1. （1）…はずだ　（2）…はずが／はない　（3）…はずだった
+1. （1）…はずだ　（2）…はずが／はない　（3）…はずだった → [[普通形はずです (varma odotus)]] · [[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]]
 2. …ことが／もある
 3. 〜た結果、…・〜の結果、…
 4. （1）〜出す　（2）〜始める・〜終わる・〜続ける　（3）〜忘れる・〜合う・〜換える (yhdysverbit)
@@ -154,14 +154,14 @@ tags: [source, textbook]
 
 ### Luku 11
 **文法・練習** s. 142
-1. 〜てくる・〜ていく
+1. 〜てくる・〜ていく → [[～てくる・～ていく (muutos ajassa)]]
 2. 〜たら［どう］？
-3. …より…ほうが…
+3. …より…ほうが… → [[～より～ほうが (tekojen vertailu)]]
 4. 〜らしい (tyypillisyys)
 5. …らしい (kuulopuhe)
 6. 〜として
 7. （1）〜ず［に］…　（2）〜ず、… (kirjallinen kielto)
-8. …ている → [[～ている (parhaillaan, tilan tulos)]]
+8. …ている → [[～ている (elämänhistoria, saavutukset)]] · [[～ている (parhaillaan, tilan tulos)]]
 
 **話す・聞く** 「お勧めのところ、ありませんか」 s. 147 — ehdotuksen tekeminen ja vastaanottaminen
 **読む・書く** 「白川郷の黄金伝説」 s. 151 — sisällön ennakointi valokuvasta, legendan synnyn syyt
@@ -171,7 +171,7 @@ tags: [source, textbook]
 **文法・練習** s. 156
 1. …もの／もんだから
 2. （1）〜（ら）れる　（2）〜（ら）れる → [[Passiivi (ら)れる]] · [[Potentiaali える]] · [[Vertailu — Potentiaali vs. spontaani aisti]]
-3. 〜たり〜たり
+3. 〜たり〜たり → [[～たり～たり (vaihtelu, epäsäännöllisyys)]]
 4. 〜っぱなし
 5. （1）…おかげで、…・…おかげだ　（2）…せいで、…・…せいだ
 

@@ -3,6 +3,7 @@ type: vocab
 word: "J-pop"
 reading: ジェー・ポップ
 romaji: jee poppu
+meaning: "J-pop (japanilainen pop-musiikki)"
 pos: noun
 jlpt: N2
 pitch: []

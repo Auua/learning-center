@@ -3,6 +3,7 @@ type: vocab
 word: "CD"
 reading: CD
 romaji: 
+meaning: "CD-levy"
 pos: noun
 jlpt: N5
 pitch: []

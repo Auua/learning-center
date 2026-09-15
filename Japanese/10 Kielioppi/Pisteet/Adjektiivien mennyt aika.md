@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "N／な-adj／い-adjの過去形"
+ja: N／な-adj／い-adjの過去形
 reading: kako-kei
 jlpt: N5
-func: [mennyt-aika, adjektiivi]
-attaches: ["い-adjektiivi/な-adjektiivi"]
+func:
+  - mennyt-aika
+  - adjektiivi
+attaches:
+  - い-adjektiivi/な-adjektiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[い-adjektiivit ja な-adjektiivit]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 12]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[い-adjektiivit ja な-adjektiivit]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 12]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

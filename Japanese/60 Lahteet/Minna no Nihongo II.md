@@ -23,21 +23,21 @@ tags: [source, textbook]
 ## Luvut
 
 ### Luku 26
-〜んです (selittävä sävy: "asia on niin että...") · 〜ていただけませんか (kohtelias pyyntö: voisitteko...)
+〜んです (selittävä sävy: "asia on niin että...") · [[てもらえませんか・ていただけないでしょうか (kohtelias pyyntoperhe)]] (〜ていただけませんか, kohtelias pyyntö: voisitteko...)
 ### Luku 27
-[[Potentiaali える]] (kykenevyysmuoto) · 見えます・聞こえます (näkyä/kuulua itsestään) · できます (valmistua, syntyä) · 〜しか〜ません (vain, pelkästään + kielteinen) → [[Vertailu — Potentiaali vs. spontaani aisti]]
+[[Potentiaali える]] (kykenevyysmuoto) · [[見えます・聞こえます (spontaani aisti)]] (näkyä/kuulua itsestään) · できます (valmistua, syntyä) · 〜しか〜ません (vain, pelkästään + kielteinen) → [[Vertailu — Potentiaali vs. spontaani aisti]]
 ### Luku 28
 〜ながら (samalla kun) · 〜ています (tapa, toistuva tottumus) · 〜し、〜し (luettelointi: sekä… että…, perusteluja)
 ### Luku 29
 〜てしまいました (valitettavasti kävi niin että / saatiin päätökseen) · 〜ています intransitiiviverbeillä (jäljelle jäänyt tila)
 ### Luku 30
-〜てあります (on valmiiksi tehty, tila esineessä) · 〜ておきます (tehdä valmiiksi etukäteen) · まだ〜ていません (ei vielä)
+〜てあります (on valmiiksi tehty, tila esineessä) · 〜ておきます (tehdä valmiiksi etukäteen) · [[まだ～ていません (ei ole vielä tehty)]] (ei vielä)
 ### Luku 31
-[[Tahtomuoto よう]] (意向形, "tehdäänpä") · 〜つもりです (aikomus) · 〜予定です (suunnitelma, aikataulu) · まだ〜ていません (ei vielä)
+[[Tahtomuoto よう]] (意向形, "tehdäänpä") · 〜つもりです (aikomus) · 〜予定です (suunnitelma, aikataulu) · [[まだ～ていません (ei ole vielä tehty)]] (ei vielä)
 ### Luku 32
 〜たほうがいいです (kannattaisi tehdä) · 〜でしょう (todennäköisesti, sään ennustus) · 〜かもしれません (saattaa olla että)
 ### Luku 33
-[[Käskymuoto ろ]] ja kieltokäsky (suora käsky ja kieltokäsky) · 〜と書いてあります (siinä lukee että) · 〜という意味です (tarkoittaa sitä että)
+[[Käskymuoto ろ]] ja kieltokäsky (suora käsky ja kieltokäsky) · 〜と書いてあります (siinä lukee että) · 〜という意味です (tarkoittaa sitä että) · [[～と言っていました・～と伝える (välitetty viesti)]] (viestin välittäminen)
 ### Luku 34
 〜とおりに (juuri niin kuin) · 〜あとで (sen jälkeen kun) · 〜ないで (tekemättä jotain) · 〜て (tapa, keino)
 ### Luku 35
@@ -47,7 +47,7 @@ tags: [source, textbook]
 ### Luku 37
 [[Passiivi (ら)れる]] (受身形, passiivi) · 〜によって (jonkin/jonkun toimesta, tekijä) · 〜から作られます (valmistetaan jostakin)
 ### Luku 38
-〜のは・〜のが・〜のを (nominalisointi: tekemisestä substantiivi) · 〜のは Nです (korostusrakenne, "se mikä on X, on Y")
+〜のは・〜のが・〜のを (nominalisointi: tekemisestä substantiivi) · [[～のは Nです (korostusrakenne, cleft)]] ("se mikä on X, on Y")
 ### Luku 39
 〜て (syy) · 〜ので (koska, syy) · intransitiiviverbit (itsestään tapahtuvat verbit)
 ### Luku 40

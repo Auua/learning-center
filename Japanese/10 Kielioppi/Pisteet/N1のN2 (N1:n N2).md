@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "N1のN2"
+ja: N1のN2
 reading: N1 no N2
 jlpt: N5
-func: [kuuluvuus, omistus, maare]
-attaches: ["substantiivi"]
+func:
+  - kuuluvuus
+  - omistus
+  - maare
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 1]]", "[[Minna no Nihongo I#Luku 2]]", "[[Minna no Nihongo I#Luku 3]]"]
-status: new
-confidence: 1
-reviewed: 
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 1]]"
+  - "[[Minna no Nihongo I#Luku 2]]"
+  - "[[Minna no Nihongo I#Luku 3]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

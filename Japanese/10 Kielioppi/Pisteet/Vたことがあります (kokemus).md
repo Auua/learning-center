@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "V た形ことがあります"
+ja: V た形ことがあります
 reading: V-ta koto ga arimasu
 jlpt: N5
-func: [kokemus, nominalisointi]
-attaches: ["[[た-muoto]]"]
+func:
+  - kokemus
+  - nominalisointi
+attaches:
+  - "[[た-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vことができます (kyky)]]", "[[Vことがある・こともある (satunnainen poikkeus)]]"]
-compare: ["[[Vことがある・こともある (satunnainen poikkeus)]]"]
-sources: ["[[Minna no Nihongo I#Luku 19]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vことができます (kyky)]]"
+  - "[[Vことがある・こともある (satunnainen poikkeus)]]"
+compare:
+  - "[[Vことがある・こともある (satunnainen poikkeus)]]"
+  - "[[～ている (elämänhistoria, saavutukset)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 19]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "これ・それ・あれ／この・その・あの"
+ja: これ・それ・あれ／この・その・あの
 reading: kore/sore/are, kono/sono/ano
 jlpt: N5
-func: [demonstratiivi, osoittaminen]
-attaches: ["substantiivi"]
+func:
+  - demonstratiivi
+  - osoittaminen
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 2]]", "[[Minna no Nihongo I#Luku 8]]", "[[Minna no Nihongo I#Luku 16]]", "[[Minna no Nihongo II#Luku 26]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 2]]"
+  - "[[Minna no Nihongo I#Luku 8]]"
+  - "[[Minna no Nihongo I#Luku 16]]"
+  - "[[Minna no Nihongo II#Luku 26]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

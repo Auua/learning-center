@@ -6,7 +6,7 @@ base: 未然形 + れる/られる
 func: [passiivi, karsimyspassiivi, kohteliaisuus]
 jlpt: N4
 sources: ["[[Minna no Nihongo II#Luku 37]]", "[[Minna no Nihongo II#Luku 49]]", "[[Minna no Nihongo Chuukyuu I#Luku 12]]"]
-status: reviewed
+status: shaky
 confidence: 3
 tags: [form]
 ---

@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "N1はN2がadjectiveです"
+ja: N1はN2がadjectiveです
 reading: N1 wa N2 ga adjective desu
 jlpt: N5
-func: [aihe, ominaisuus, partikkeli]
-attaches: ["substantiivi"]
+func:
+  - aihe
+  - ominaisuus
+  - partikkeli
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Nが好きです・上手です (mieltymys, kyky, omistus)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 16]]", "[[Minna no Nihongo II#Luku 42]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Nが好きです・上手です (mieltymys, kyky, omistus)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 16]]"
+  - "[[Minna no Nihongo II#Luku 42]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

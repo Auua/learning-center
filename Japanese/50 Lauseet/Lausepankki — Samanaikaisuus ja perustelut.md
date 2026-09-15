@@ -1,10 +1,17 @@
 ---
 type: sentences
 topic: Samanaikaisuus ja perustelut
-grammar: ["[[Vますながら (samalla kun)]]", "[[～ている (parhaillaan, tilan tulos)]]", "[[普通形し、普通形し (perustelujen luettelointi)]]", "[[それに・それで (lisaksi, niinpa)]]"]
+grammar:
+  - "[[V(-ます)ながら (samalla kun)]]"
+  - "[[～ている (parhaillaan, tilan tulos)]]"
+  - "[[普通形し、普通形し (perustelujen luettelointi)]]"
+  - "[[それに・それで (lisaksi, niinpa)]]"
 source: "[[Minna no Nihongo II#Luku 28]]"
 created: 2026-08-29
-tags: [sentences, grammar/perusrakenne, jlpt/n4]
+tags:
+  - sentences
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!tip] Käyttö
@@ -14,7 +21,7 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 
 **JA** 音楽を聞きながら食事します。
 **FI** Syön samalla kun kuuntelen musiikkia.
-**Kielioppi** [[Vますながら (samalla kun)]] · pääverbi on 食事します.
+**Kielioppi** [[V(-ます)ながら (samalla kun)]] · pääverbi on 食事します.
 ^naga1
 
 ---
@@ -42,7 +49,7 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 
 **JA** いつかコンピューターの会社を作りたいです。……それで今は会社で働きながら夜大学で勉強しています。
 **FI** Haluaisin joskus perustaa tietokoneyrityksen. ...Siksi työskentelen nyt yrityksessä ja opiskelen samalla iltaisin yliopistossa.
-**Kielioppi** [[それに・それで (lisaksi, niinpa)]] · [[Vますながら (samalla kun)]]
+**Kielioppi** [[それに・それで (lisaksi, niinpa)]] · [[V(-ます)ながら (samalla kun)]]
 ^naga5
 
 ---

@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "V1た形り、V2た形りします"
+ja: V1た形り、V2た形りします
 reading: V1-tari, V2-tari shimasu
 jlpt: N5
-func: [esimerkkiluettelo, epatarkka-jarjestys]
-attaches: ["[[た-muoto]]"]
+func:
+  - esimerkkiluettelo
+  - epatarkka-jarjestys
+attaches:
+  - "[[た-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vて、Vて (peräkkäisyys)]]", "[[N1やN2 [など] (ja muun muassa, epätäydellinen lista)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 19]]", "[[Minna no Nihongo Chuukyuu I#Luku 12]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vて、Vて (peräkkäisyys)]]"
+  - "[[～たり～たり (vaihtelu, epäsäännöllisyys)]]"
+compare:
+  - "[[～たり～たり (vaihtelu, epäsäännöllisyys)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 19]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 12]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -38,14 +50,8 @@ tags: [grammar/perusrakenne, jlpt/n5]
 ## Esimerkit
 ![[Lausepankki — Kokemukset ja muutokset#^koke3]]
 
-## Laajennus: vaihtelu/epäsäännöllisyys (sama verbi tai vastapari)
-Chuukyuu I Luku 12:ssa たり,たりする esiintyy myös **saman verbin/vastaparin** kanssa kuvaamassa epäsäännöllistä vaihtelua tai heilahtelua kahden tilan välillä — ei enää esimerkkiluetteloa eri teoista, vaan yhden asian toistuvaa muutosta:
-- 大阪は、明日は雨が**降ったりやんだり**するでしょう。（sää vaihtelee）
-- 最近は書道教室へ**行ったり行かなかったり**します。（epäsäännöllinen osallistuminen）
-- 3月は**暖かかったり寒かったり**して、風邪をひきやすいです。（lämpötila heilahtelee）
-- わたしたちはお互いに**助けたり助けられたりして**暮らしています。（molemminpuolinen, vuoroittainen toiminta — huomaa jälkimmäinen passiivissa）
-
-Tässä käytössä kaava on usein V/adj + たり + V/adj:n **kielteinen tai vastakohtainen muoto** + たり (降る/やむ, 行く/行かない, 暖かい/寒い) — korostaa epätasaisuutta/ennustamattomuutta, ei listaa erillisiä tekoja.
+## Laajennus: vaihtelu ja epäsäännöllisyys
+Kun たり,たり yhdistää vastaparin tai saman verbin myönteisen ja kielteisen muodon (降ったりやんだり, 行ったり行かなかったり), kyse on heilahtelusta kahden tilan välillä — ks. [[～たり～たり (vaihtelu, epäsäännöllisyys)]] (Chuukyuu I Luku 12).
 
 ## Sekaannusvaara
 Vertailu [[Vて、Vて (peräkkäisyys)]]: たり,たりします ei kerro järjestystä eikä ole tyhjentävä lista; て,て kertoo tarkan järjestyksen ja on yleensä täydellinen lista tehdyistä asioista.

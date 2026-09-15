@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "どうやって／どのN"
+ja: どうやって／どのN
 reading: dou yatte / dono N
 jlpt: N5
-func: [kysymys, tapa]
-attaches: ["substantiivi/lause"]
+func:
+  - kysymys
+  - tapa
+attaches:
+  - substantiivi/lause
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 16]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 16]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

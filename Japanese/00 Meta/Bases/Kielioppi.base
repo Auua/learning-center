@@ -20,16 +20,16 @@ views:
     name: Kaikki kieliopit
     filters:
       and:
-        - 'type == "grammar"'
+        - type == "grammar"
     order:
       - file.name
-      - note.jlpt
-      - note.func
-      - note.attaches
-      - note.status
-      - note.confidence
+      - jlpt
+      - func
+      - attaches
+      - status
+      - confidence
     sort:
-      - property: note.jlpt
+      - property: jlpt
         direction: ASC
       - property: file.name
         direction: ASC
@@ -37,40 +37,40 @@ views:
     name: Heikoilla jäillä
     filters:
       and:
-        - 'type == "grammar"'
-        - 'confidence <= 2'
+        - type == "grammar"
+        - confidence <= 2
     order:
       - file.name
-      - note.jlpt
-      - note.confidence
-      - note.status
-      - note.compare
+      - jlpt
+      - confidence
+      - status
+      - compare
     sort:
-      - property: note.confidence
+      - property: confidence
         direction: ASC
   - type: table
     name: Tasoittain
     filters:
       and:
-        - 'type == "grammar"'
+        - type == "grammar"
     groupBy:
-      property: note.jlpt
+      property: jlpt
       direction: ASC
     order:
       - file.name
-      - note.func
-      - note.status
-      - note.confidence
+      - func
+      - status
+      - confidence
   - type: table
     name: Vertailut
     filters:
       and:
-        - 'type == "compare"'
+        - type == "compare"
     order:
       - file.name
-      - note.members
-      - note.jlpt
-      - note.status
+      - members
+      - jlpt
+      - status
     sort:
-      - property: note.jlpt
+      - property: jlpt
         direction: ASC

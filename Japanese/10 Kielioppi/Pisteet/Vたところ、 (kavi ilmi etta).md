@@ -8,7 +8,9 @@ attaches: ["[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vたところに・で (juuri siina kohdassa)]]"]
-compare: ["[[Vたところに・で (juuri siina kohdassa)]]"]
+compare:
+  - "[[Vたところに・で (juuri siina kohdassa)]]"
+  - "[[～たら、～た (odottamaton löytö)]]"
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 16]]"]
 status: new
 confidence: 1

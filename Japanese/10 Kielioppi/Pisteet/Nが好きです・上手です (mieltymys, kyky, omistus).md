@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "Nが好きです／上手です／わかります／あります"
+ja: Nが好きです／上手です／わかります／あります
 reading: N ga suki desu / jouzu desu / wakarimasu / arimasu
 jlpt: N5
-func: [mieltymys, kyky, omistus, partikkeli]
-attaches: ["substantiivi"]
+func:
+  - mieltymys
+  - kyky
+  - omistus
+  - partikkeli
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 9]]"]
-status: new
-confidence: 1
-reviewed: 
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 9]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

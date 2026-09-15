@@ -3,6 +3,7 @@ type: vocab
 word: ～方
 reading: ~かた
 romaji: ~kata
+meaning: "tapa tehdä ~, ~-tapa (tuottava loppuliite)"
 pos: suffix
 jlpt: N5
 pitch: 

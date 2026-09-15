@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "普通形"
+ja: 普通形
 reading: futsuukei
 jlpt: N5
-func: [rekisteri, perusmuoto]
-attaches: ["[[Sanakirjamuoto]]", "[[ない-muoto]]", "[[た-muoto]]"]
+func:
+  - rekisteri
+  - perusmuoto
+attaches:
+  - "[[Sanakirjamuoto]]"
+  - "[[ない-muoto]]"
+  - "[[た-muoto]]"
 formality: puhekielinen
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 20]]"]
-status: new
-confidence: 1
-reviewed: 
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 20]]"
+status: learning
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/rekisteri, jlpt/n5]
+tags:
+  - grammar/rekisteri
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

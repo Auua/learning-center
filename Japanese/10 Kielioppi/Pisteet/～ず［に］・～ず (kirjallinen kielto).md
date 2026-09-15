@@ -7,8 +7,12 @@ func: [kielto, kirjallinen-rekisteri]
 attaches: ["[[ない-muoto]]"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[Vて・Vないで (tapa, keino)]]"]
-compare: ["[[Vて・Vないで (tapa, keino)]]"]
+similar:
+  - "[[Vて・Vないで (tapa, keino)]]"
+  - "[[～もせずに (ei edes tehnyt)]]"
+compare:
+  - "[[Vて・Vないで (tapa, keino)]]"
+  - "[[～もせずに (ei edes tehnyt)]]"
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 11]]", "[[Minna no Nihongo Chuukyuu II#Luku 21]]"]
 status: new
 confidence: 1
@@ -42,11 +46,8 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ![[Lausepankki — Suositukset ja tyypillisyys#^suos10]]
 ![[Lausepankki — Suositukset ja tyypillisyys#^suos11]]
 
-## Laajennus: もせずに (korostava "ei edes tehnyt")
-も lisättynä ennen せずに korostaa, ettei edes kyseistä (usein odotettavaa/helppoa) tekoa tehty:
-- 水を**沸かしもせずに**、そのまま生で飲める国など世界広しといえどもそう多くはない。
-- 父は具合が悪いのに、**医者に行きもせずに**仕事を続けている。
-- 彼は上司の許可を**得もせずに**、新しいプロジェクトを進めた。
+## Laajennus: もせずに
+も lisättynä ずに-rakenteeseen korostaa ettei edes itsestään selvää tekoa tehty (医者に行きもせずに) — ks. [[～もせずに (ei edes tehnyt)]] (Chuukyuu II Luku 21).
 
 ## Sekaannusvaara
 - [[Vて・Vないで (tapa, keino)]] on tämän puhekielinen/neutraali vastine: 火を使わないで料理をしています ↔ 火を使わずに料理をしています (sama merkitys, ず on kirjallisempi/muodollisempi).

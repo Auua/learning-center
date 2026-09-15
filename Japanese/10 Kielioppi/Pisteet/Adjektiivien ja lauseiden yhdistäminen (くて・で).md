@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "い-adj（～くて）／な-adj・N（～で）"
+ja: い-adj（～くて）／な-adj・N（～で）
 reading: i-adj kute / na-adj・N de
 jlpt: N5
-func: [lauseiden-yhdistys, rinnastus]
-attaches: ["い-adjektiivi/な-adjektiivi"]
+func:
+  - lauseiden-yhdistys
+  - rinnastus
+attaches:
+  - い-adjektiivi/な-adjektiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[S1が、S2 (mutta)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 16]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[S1が、S2 (mutta)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 16]]"
+status: shaky
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

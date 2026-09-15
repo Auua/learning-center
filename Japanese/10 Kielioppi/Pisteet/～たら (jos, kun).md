@@ -7,7 +7,12 @@ func: [ehto, aika, loyto]
 attaches: ["[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～ば (jos, ehto)]]", "[[～と (aina kun, väistämätön seuraus)]]", "[[～なら (jos kerran)]]", "[[Vertailu — たら・ば + ta (kontrafaktuaalinen)]]"]
+similar:
+  - "[[～ば (jos, ehto)]]"
+  - "[[～と (aina kun, väistämätön seuraus)]]"
+  - "[[～なら (jos kerran)]]"
+  - "[[Vertailu — たら・ば + ta (kontrafaktuaalinen)]]"
+  - "[[～たら、～た (odottamaton löytö)]]"
 compare: "[[Vertailu — Ehtolauseet と・ば・たら・なら]]"
 sources: ["[[Genki II]]", "[[Bunpro]]", "[[Tae Kim — Guide to Japanese]]", "[[Minna no Nihongo I#Luku 25]]", "[[Minna no Nihongo Chuukyuu I#Luku 2]]", "[[Minna no Nihongo Chuukyuu I#Luku 9]]"]
 status: learning
@@ -40,7 +45,7 @@ Käytetyt taivutusmuodot: [[た-muoto]]
 - **Jälkilause saa olla käsky, pyyntö, kutsu tai toive.** Tämä erottaa たら:n rakenteista [[～と (aina kun, väistämätön seuraus)]] ja [[～ば (jos, ehto)]].
 - Aikajärjestys on kiinteä: A tapahtuu ensin, B sen jälkeen.
 - Menneen ajan jälkilause = **löytö**, ei ehto: 家に帰ったら、誰もいなかった。
-- **Kaksi alatyyppiä (Chuukyuu I Luku 2):** (1) odotettu/luonnollinen seuraus: 窓ガラスをふいたら、部屋が明るくなった (siivous johti luonnolliseen tulokseen); (2) puhdas löytö/yllätys: 家へ帰ったら、母から荷物が届いていた (paluu paljasti jotain, mikä ei ollut seurausta itse teosta vaan sattui samaan aikaan).
+- **Mennyt jälkilause = löytö:** kahdella alatyypillä (teon tulos / puhdas yllätys) on oma muistiinpanonsa [[～たら、～た (odottamaton löytö)]] (Chuukyuu I Luku 2).
 - **Varma tuleva tapahtuma (Luku 25):** kun A on varma tulevaisuudessa (ei "jos" vaan "kun"), たら toimii silti samalla kaavalla: 10時になったら、出かけましょう。 (Lähdetään kun kello on kymmenen.) Jälkilause on tällöin aina preesensissä.
 - **Kontrafaktuaalinen käyttö (Chuukyuu I Luku 9):** kun jälkilause on **mennyt aika** (た形/だった/だろう), koko lause muuttuu **vastoin todellisuutta olevaksi kuvitelmaksi** — "jos X olisi tapahtunut (mutta ei tapahtunut), Y olisi tapahtunut": もう少し時間が**あったら**、最後まで**書けたのに**。（aikaa ei ollut, ei kirjoitettu loppuun asti）／両親が生きて**いたら**、孫の誕生をとても**喜んだだろう**。（vanhemmat eivät ole elossa）. Täysi vertailu ば:n kanssa: ks. [[Vertailu — たら・ば + ta (kontrafaktuaalinen)]].
 

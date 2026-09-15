@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "Nしか〜ません"
+ja: Nしか〜ません
 reading: N shika ~masen
 jlpt: N4
-func: [rajaus, ainoastaan, korostus]
-attaches: ["substantiivi"]
+func:
+  - rajaus
+  - ainoastaan
+  - korostus
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: ["[[Maara だけ・Nだけ]]"]
-sources: ["[[Minna no Nihongo II#Luku 27]]"]
-status: new
-confidence: 1
+compare:
+  - "[[Maara だけ・Nだけ]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 27]]"
+status: known
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

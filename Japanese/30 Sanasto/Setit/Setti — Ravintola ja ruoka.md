@@ -35,7 +35,7 @@ views:
 | お会計をお願いします。 | Saisinko laskun. |
 | 辛くしないでください。 | Ei tulista, kiitos. |
 | ご注文は？ | Mitä saisi olla? (tarjoilija) |
-| ［少々］お待ちください。 | Hetkinen vain. |
+| [[少々お待ちください]]。 | Hetkinen vain. |
 | 別々にお願いします。 | Erikseen (maksettuna), kiitos. |
 
 ## Perussanasto (Luku 6)
@@ -53,15 +53,18 @@ views:
 | [[水]]（みず） | vesi |
 | [[お茶]]（おちゃ） | (vihreä) tee |
 | [[紅茶]]（こうちゃ） | musta tee |
-| [[牛乳]]（ぎゅうにゅう） | maito |
+| [[牛乳]]（ぎゅうにゅう）／[[ミルク]] | maito |
 | [[ジュース]] | mehu |
 | [[ビール]] | olut |
 | ［[[お酒]]］（さけ） | alkoholi, sake |
 
 ## Ruokalistasanasto (Luku 11)
+
+Kirjan メニュー-viitesivu, [[Minna no Nihongo I#Luku 11]].
 | JA | FI |
 |---|---|
 | [[定食]]（ていしょく） | setti-ateria |
+| [[ランチ]] | länsimainen lounasannos |
 | [[カレーライス\|カレー［ライス］]] | curry(riisin kanssa) |
 | [[天丼]]（てんどん） | tempura-riisikulho |
 | [[親子丼]]（おやこどん） | kana-muna-riisikulho |
@@ -86,9 +89,18 @@ views:
 | [[りんご]] | omena |
 | [[みかん]] | mandariini |
 | [[アイスクリーム]] | jäätelö |
+| [[飴]]（あめ） | karamelli |
 | [[すき焼き]]（すきやき） | sukiyaki (liha-vihanneskeitto) |
 | ［[[お寿司\|お］すし]] | sushi |
 | [[刺身]]（さしみ） | sashimi (raaka kala) |
+| [[おにぎり]] | riisipallo |
+| [[天ぷら]]（てんぷら） | tempura |
+| [[うどん]] | udon-nuudelit (vehnä) |
+| [[そば]] | soba-nuudelit (tattari) |
+| [[ラーメン]] | ramen |
+| [[焼きそば]]（やきそば） | paistetut nuudelit |
+| [[お好み焼き]]（おこのみやき） | okonomiyaki |
+| [[コーヒー]]・[[紅茶]]・[[ココア]] | kahvi, musta tee, kaakao |
 
 ## Muistiinpanot
-[[食べる]] · [[飲む]] · [[食事]] · [[おいしい]] · [[Nを V (objekti)]] · [[お～ (kunnioittava etuliite)]] · [[Lukusanat ja luokittelijat]]
+[[食べる]] · [[飲む]] · [[食事]] · [[おいしい]] · [[Nを V (objekti)]] · [[お～ (kunnioittava etuliite)]] · [[Lukusanat ja luokittelijat]] · [[Setti — Ruoanlaitto ja keittiövälineet]]

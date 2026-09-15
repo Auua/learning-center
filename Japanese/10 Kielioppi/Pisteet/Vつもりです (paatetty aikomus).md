@@ -7,8 +7,13 @@ func: [aikomus, paatos]
 attaches: ["lause"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vようと思っています (harkittu aikomus)]]", "[[V予定です (aikataulutettu suunnitelma)]]"]
-compare: ["[[Vertailu — ようと思う vs. つもり vs. 予定]]"]
+similar:
+  - "[[Vようと思っています (harkittu aikomus)]]"
+  - "[[V予定です (aikataulutettu suunnitelma)]]"
+  - "[[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]"
+compare:
+  - "[[Vertailu — ようと思う vs. つもり vs. 予定]]"
+  - "[[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]"
 sources: ["[[Minna no Nihongo II#Luku 31]]", "[[Minna no Nihongo Chuukyuu I#Luku 6]]"]
 status: new
 confidence: 1
@@ -44,17 +49,8 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ![[Lausepankki — Puhekielinen lainaus ja tavat#^puhe1]]
 ![[Lausepankki — Puhekielinen lainaus ja tavat#^puhe2]]
 
-## Laajennukset (Chuukyuu I Luku 6)
-| Kaava | Merkitys | Esimerkki |
-|---|---|---|
-| V(辞書形) + つもりはない | vahva kielteinen aikomus | わたしは同じ会社で一生**働くつもりはありません**。 |
-| V(辞書形) + つもりだった（toteutumaton） | mennyt aikomus joka ei toteutunut | 小川さんのコンサートに**行くつもりでした**が、ちょっと用事ができて…。 |
-| V(た形) + つもり | kuvitteellinen suoritus ("luulen tehneeni") | 欲しい物があっても買わないで、それを**買ったつもりで**貯金することです。 |
-| V(ている) + つもり | oma käsitys tilanteesta, joka ei vastaa todellisuutta | 自分では一生懸命**走っているつもり**なんですけど。 |
-
-- つもりはない on jyrkempi/varmempi kuin つもりです + kielto — vahva päätös olla tekemättä jotain koskaan.
-- つもりだった (menneisyys) kertoo aikomuksesta joka **ei toteutunut** — usein seuraa selitys miksi (けど/が + syy).
-- たつもり/ているつもり kuvaa tilannetta jossa puhujan **oma käsitys** teosta/suorituksesta ei vastaa ulkopuolisen havaintoa tai todellisuutta — usein käytetään kun joku toinen huomauttaa asiasta.
+## Laajennukset
+つもり:n kiistetty, toteutumaton ja kuviteltu variantti (つもりはない, つもりだった, たつもり／ているつもり) on koottu omaan muistiinpanoonsa [[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]] (Chuukyuu I Luku 6).
 
 ## Sekaannusvaara
 Ks. [[Vertailu — ようと思う vs. つもり vs. 予定]] varmuusasteen erottamiseen.

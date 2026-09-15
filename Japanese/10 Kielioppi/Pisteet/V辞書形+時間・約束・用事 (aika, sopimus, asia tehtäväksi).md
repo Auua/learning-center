@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "V辞書形＋時間／約束／用事"
+ja: V辞書形＋時間／約束／用事
 reading: V-dict + jikan/yakusoku/youji
 jlpt: N5
-func: [maare, nominalisointi]
-attaches: ["[[Sanakirjamuoto]]"]
+func:
+  - maare
+  - nominalisointi
+attaches:
+  - "[[Sanakirjamuoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[関係節 (suhteellinen sivulause)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 22]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[関係節 (suhteellinen sivulause)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 22]]"
+status: shaky
+confidence: 2
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

@@ -3,6 +3,7 @@ type: vocab
 word: "NGO"
 reading: エヌジーオー
 romaji: enu jii oo
+meaning: "kansalaisjärjestö"
 pos: noun
 jlpt: N2
 pitch: []

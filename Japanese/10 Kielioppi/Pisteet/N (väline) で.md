@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "N（道具・手段）で"
+ja: N（道具・手段）で
 reading: N (dougu/shudan) de
 jlpt: N5
-func: [valine, tapa, partikkeli]
-attaches: ["[[ます-muoto]]"]
+func:
+  - valine
+  - tapa
+  - partikkeli
+attaches:
+  - "[[ます-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Liikkumisen partikkelit (へ・で・と)]]", "[[N (paikka) で]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 7]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Liikkumisen partikkelit (へ・で・と)]]"
+  - "[[N (paikka) で]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 7]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

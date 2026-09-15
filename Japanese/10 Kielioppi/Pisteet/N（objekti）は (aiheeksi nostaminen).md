@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "N（objekti）は"
+ja: N（objekti）は
 reading: N (objekti) wa
 jlpt: N5
-func: [aihe, korostus, partikkeli]
-attaches: ["substantiivi"]
+func:
+  - aihe
+  - korostus
+  - partikkeli
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Nを V (objekti)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 17]]", "[[Minna no Nihongo II#Luku 26]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Nを V (objekti)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 17]]"
+  - "[[Minna no Nihongo II#Luku 26]]"
+status: known
+confidence: 4
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

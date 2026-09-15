@@ -3,6 +3,7 @@ type: vocab
 word: "NHK"
 reading: エヌエイチケー
 romaji: enu-eichi-kee
+meaning: "NHK (Japanin yleisradioyhtiö)"
 pos: proper noun
 jlpt: N4
 pitch: []

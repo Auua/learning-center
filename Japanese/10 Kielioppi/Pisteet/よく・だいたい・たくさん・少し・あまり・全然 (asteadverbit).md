@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "よく／だいたい／たくさん／少し／あまり／全然"
+ja: よく／だいたい／たくさん／少し／あまり／全然
 reading: yoku / daitai / takusan / sukoshi / amari / zenzen
 jlpt: N5
-func: [adverbi, aste, maara]
-attaches: ["verbi/adjektiivi"]
+func:
+  - adverbi
+  - aste
+  - maara
+attaches:
+  - verbi/adjektiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[とても・あまり (hyvin, ei kovin)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 9]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[とても・あまり (hyvin, ei kovin)]]"
+compare:
+sources:
+  - "[[Minna no Nihongo I#Luku 9]]"
+status: shaky
+confidence: 2
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin

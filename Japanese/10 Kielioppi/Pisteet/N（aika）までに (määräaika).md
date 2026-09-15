@@ -1,20 +1,34 @@
 ---
 type: grammar
-ja: "N（時間）までに"
+ja: N（時間）までに
 reading: N (jikan) made ni
 jlpt: N5
-func: [maaraaika, partikkeli]
-attaches: ["substantiivi"]
+func:
+  - maaraaika
+  - partikkeli
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Liikkumisen partikkelit (へ・で・と)]]"]
-compare: 
-sources: ["[[Minna no Nihongo I#Luku 17]]", "[[Minna no Nihongo Chuukyuu I#Luku 8]]"]
-status: new
-confidence: 1
-reviewed: 
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Liikkumisen partikkelit (へ・で・と)]]"
+  - "[[V辞書形まで・までに (verbilause aikarajana)]]"
+  - "[[～から～まで (mistä mihin, alku ja loppu)]]"
+compare:
+  - "[[～から～まで (mistä mihin, alku ja loppu)]]"
+  - "[[V辞書形まで・までに (verbilause aikarajana)]]"
+sources:
+  - "[[Minna no Nihongo I#Luku 17]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 8]]"
+status: shaky
+confidence: 3
+reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -32,7 +46,7 @@ tags: [grammar/perusrakenne, jlpt/n5]
 ## Nyanssi ja rajoitukset
 - まで (ilman に) merkitsee jatkuvaa kestoa: 5時**まで**働きます (työskentelen viiteen asti, jatkuvasti).
 - までに merkitsee yksittäisen tapahtuman määräaikaa: 5時**までに**終わります (loppuu viimeistään viiteen mennessä, tapahtuma kertaluontoinen).
-- **Lisäesimerkkejä (Chuukyuu I Luku 8):** 子どもが寝る**まで**、本を読んでやります (luen kirjaa koko ajan siihen asti kunnes lapsi nukahtaa — jatkuva toiminta); 息子が帰って来る**までに**、食事を用意しておきます (ateria valmistetaan jossain vaiheessa ennen paluuta — kertaluontoinen valmistelu).
+- **Verbilause aikarajana:** sama まで/までに-ero toimii kokonaisella lauseella (子どもが寝るまで／息子が帰って来るまでに) — ks. [[V辞書形まで・までに (verbilause aikarajana)]] (Chuukyuu I Luku 8).
 - Molemmat voivat liittyä myös verbiin, ei vain kellonaikaan: V(辞書形) + まで/までに.
 
 ## Esimerkit

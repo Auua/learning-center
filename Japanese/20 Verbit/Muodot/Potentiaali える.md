@@ -3,12 +3,17 @@ type: form
 ja: 可能形
 name: Potentiaali える
 base: 可能形
-func: [kyky, mahdollisuus]
+func:
+  - kyky
+  - mahdollisuus
 jlpt: N4
-sources: ["[[Minna no Nihongo II#Luku 27]]", "[[Minna no Nihongo Chuukyuu I#Luku 12]]"]
+sources:
+  - "[[Minna no Nihongo II#Luku 27]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 12]]"
 status: learning
 confidence: 3
-tags: [form]
+tags:
+  - form
 ---
 
 > [!abstract] Mihin tätä tarvitaan
@@ -63,3 +68,6 @@ views:
     order:
       - file.name
 ```
+
+## Ks. myös
+- [[見えます・聞こえます (spontaani aisti)]] — 見える/聞こえる eivät ole potentiaalimuotoja vaan omia verbejään: aisti toimii itsestään. Vertailu: [[Vertailu — Potentiaali vs. spontaani aisti]].
