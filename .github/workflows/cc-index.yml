@@ -1,0 +1,30 @@
+# ADR-040: rebuild the command-center read index whenever vault notes change.
+# Thin caller — the logic is Japanese/00 Meta/Scripts/cc_index.py, runnable locally.
+# The paths filter only matches notes, so the index commit never re-triggers this.
+name: cc-index
+on:
+  push:
+    branches: [main]
+    paths: ['Japanese/**/*.md']
+  workflow_dispatch:
+concurrency:
+  group: cc-index
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 "Japanese/00 Meta/Scripts/cc_index.py"
+      - run: |
+          git config user.name "command-center[bot]"
+          git config user.email "command-center[bot]@users.noreply.github.com"
+          git add .cc/index
+          git diff --cached --quiet || git commit -m "cc: index rebuild"
+          git pull --rebase origin main
+          git push
