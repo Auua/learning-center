@@ -1,2 +1,12 @@
-
+# Copyrighted textbook sources and their PDF-extraction intermediates (runbook step 5)
 /Japanese/60 Lahteet/PDF/
+/Japanese/60 Lahteet/.mnn-rebuild/
+/Japanese/60 Lahteet/.kic-rebuild/
+
+# Editor / OS state
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Python
+__pycache__/
