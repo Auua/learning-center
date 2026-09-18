@@ -13,9 +13,9 @@ similar:
 compare:
   - "[[～と言っていました・～と伝える (välitetty viesti)]]"
 sources: ["[[Minna no Nihongo I#Luku 21]]", "[[Minna no Nihongo II#Luku 33]]"]
-status: new
-confidence: 1
-reviewed: 
+status: learning
+confidence: 2
+reviewed: 2026-09-18
 created: 2026-08-29
 tags: [grammar/perusrakenne, jlpt/n5]
 ---
