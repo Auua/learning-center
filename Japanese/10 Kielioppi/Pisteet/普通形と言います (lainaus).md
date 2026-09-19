@@ -15,7 +15,7 @@ compare:
 sources: ["[[Minna no Nihongo I#Luku 21]]", "[[Minna no Nihongo II#Luku 33]]"]
 status: learning
 confidence: 2
-reviewed: 2026-09-18
+reviewed: 2026-09-19
 created: 2026-08-29
 tags: [grammar/perusrakenne, jlpt/n5]
 ---
