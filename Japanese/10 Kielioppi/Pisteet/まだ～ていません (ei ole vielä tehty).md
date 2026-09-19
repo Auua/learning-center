@@ -21,9 +21,9 @@ compare:
 sources:
   - "[[Minna no Nihongo II#Luku 30]]"
   - "[[Minna no Nihongo II#Luku 31]]"
-status: new
-confidence: 1
-reviewed:
+status: learning
+confidence: 2
+reviewed: 2026-09-19
 created: 2026-09-05
 tags:
   - grammar/perusrakenne
