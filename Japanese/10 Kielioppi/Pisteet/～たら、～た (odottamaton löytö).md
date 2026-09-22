@@ -20,9 +20,9 @@ compare:
   - "[[Vたところ、 (kavi ilmi etta)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu I#Luku 2]]"
-status: new
-confidence: 1
-reviewed:
+status: learning
+confidence: 2
+reviewed: 2026-09-22
 created: 2026-09-05
 tags:
   - grammar/ehto
