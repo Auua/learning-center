@@ -122,9 +122,9 @@
     "Japanese/40 Kanji/Merkit/畑.md: missing onyomi",
     "Japanese/40 Kanji/Merkit/芝.md: missing onyomi"
   ],
-  "generatedAt": "2026-09-24T13:42:55Z",
+  "generatedAt": "2026-09-24T13:43:16Z",
   "schemaVersion": 1,
-  "sha": "d9520c915f1824371a163c3d401c2e623ad4b6a1",
+  "sha": "3fbe6e547e19218e363d207de7051d62a1c54310",
   "shards": {
     "grammar": [
       "grammar.jsonl"
