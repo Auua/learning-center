@@ -19,9 +19,9 @@ compare:
   - "[[～てくる・～ていく (muutos ajassa)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu I#Luku 6]]"
-status: new
-confidence: 1
-reviewed:
+status: learning
+confidence: 2
+reviewed: 2026-09-24
 created: 2026-09-05
 tags:
   - grammar/perusrakenne
