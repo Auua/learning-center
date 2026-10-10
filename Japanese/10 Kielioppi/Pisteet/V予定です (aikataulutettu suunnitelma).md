@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "V(辞書形)予定です"
+ja: V(辞書形)予定です
 reading: yotei desu
 jlpt: N4
-func: [aikataulu, suunnitelma]
-attaches: ["lause"]
+func:
+  - aikataulu
+  - suunnitelma
+attaches:
+  - lause
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vようと思っています (harkittu aikomus)]]", "[[Vつもりです (paatetty aikomus)]]"]
-compare: ["[[Vertailu — ようと思う vs. つもり vs. 予定]]"]
-sources: ["[[Minna no Nihongo II#Luku 31]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vようと思っています (harkittu aikomus)]]"
+  - "[[Vつもりです (paatetty aikomus)]]"
+compare:
+  - "[[Vertailu — ようと思う vs. つもり vs. 予定]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 31]]"
+status: shaky
+confidence: 2
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

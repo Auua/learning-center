@@ -1,12 +1,17 @@
 ---
 type: grammar
-ja: "V(普通形)つもりです"
+ja: V(普通形)つもりです
 reading: tsumori desu
 jlpt: N4
-func: [aikomus, paatos]
-attaches: ["lause"]
+func:
+  - aikomus
+  - paatos
+attaches:
+  - lause
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar:
   - "[[Vようと思っています (harkittu aikomus)]]"
   - "[[V予定です (aikataulutettu suunnitelma)]]"
@@ -14,12 +19,16 @@ similar:
 compare:
   - "[[Vertailu — ようと思う vs. つもり vs. 予定]]"
   - "[[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]"
-sources: ["[[Minna no Nihongo II#Luku 31]]", "[[Minna no Nihongo Chuukyuu I#Luku 6]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 31]]"
+  - "[[Minna no Nihongo Chuukyuu I#Luku 6]]"
+status: known
+confidence: 2
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

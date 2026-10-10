@@ -1,0 +1,32 @@
+---
+type: vocab
+word: "iPS細胞"
+reading: iPSさいぼう
+romaji: iPSsaibou
+meaning: "iPS-solu"
+pos: 
+jlpt: N4
+pitch: []
+opposite: []
+similar: []
+kanji: []
+sets: []
+sources: ["[[Minna no Nihongo II#Luku 49]]"]
+status: new
+confidence: 1
+reviewed: 
+created: 2026-10-10
+tags: [vocab, jlpt/n4, lahde/anki-mnn, anki/fi-auto]
+---
+
+## Merkitys
+- **FI:** iPS-solu
+- **EN:** [iPS] cell
+- **Ääni:** ![[anki_MNN_「iPS」細胞.mp3]]
+
+## Kollokaatiot ja käyttö
+- 
+
+## Kortit
+#flashcards/vocab
+iPS細胞::iPSさいぼう — iPS-solu

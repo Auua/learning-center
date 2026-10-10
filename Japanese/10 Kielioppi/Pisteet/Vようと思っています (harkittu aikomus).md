@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "V(意向形)と思っています"
+ja: V(意向形)と思っています
 reading: you to omotte imasu
 jlpt: N4
-func: [aikomus]
-attaches: ["[[Tahtomuoto よう]]"]
+func:
+  - aikomus
+attaches:
+  - "[[Tahtomuoto よう]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vつもりです (paatetty aikomus)]]", "[[V予定です (aikataulutettu suunnitelma)]]"]
-compare: ["[[Vertailu — ようと思う vs. つもり vs. 予定]]"]
-sources: ["[[Minna no Nihongo II#Luku 31]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vつもりです (paatetty aikomus)]]"
+  - "[[V予定です (aikataulutettu suunnitelma)]]"
+compare:
+  - "[[Vertailu — ようと思う vs. つもり vs. 予定]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 31]]"
+status: shaky
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

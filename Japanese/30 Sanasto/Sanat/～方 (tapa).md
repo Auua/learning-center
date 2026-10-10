@@ -14,12 +14,13 @@ status: new
 confidence: 1
 reviewed: 
 created: 2026-08-29
-tags: [vocab, jlpt/n5]
+tags: [vocab, jlpt/n5, lahde/anki-mnn]
 ---
 
 ## Merkitys
 - **FI:** tapa tehdä ~, ~-tapa (tuottava loppuliite)
 - **EN:** how to ~, the way of ~ing
+- **Ääni:** ![[anki_MNN_～方.mp3]]
 
 ## Kollokaatiot ja käyttö
 - Liittyy [[ます-muoto]]:n vartaloon: 読み方（よみかた, lukutapa）、書き方（かきかた, kirjoitustapa）、使い方（つかいかた, käyttötapa）.
