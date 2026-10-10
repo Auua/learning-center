@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "Vて-form おきます"
+ja: Vて-form おきます
 reading: oite okimasu
 jlpt: N4
-func: [valmistelu, sailyttaminen]
-attaches: ["[[て-muoto]]"]
+func:
+  - valmistelu
+  - sailyttaminen
+attaches:
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vてあります (tarkoituksella tehty tila)]]"]
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vてあります (tarkoituksella tehty tila)]]"
 compare: []
-sources: ["[[Minna no Nihongo II#Luku 30]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 30]]"
+status: learning
+confidence: 2
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

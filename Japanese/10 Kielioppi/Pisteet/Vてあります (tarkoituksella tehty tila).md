@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "他動詞Vて-form あります"
+ja: 他動詞Vて-form あります
 reading: te arimasu
 jlpt: N4
-func: [tila, tarkoituksellisuus]
-attaches: ["[[て-muoto]]"]
+func:
+  - tila
+  - tarkoituksellisuus
+attaches:
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[自動詞＋ている (jaljelle jaanyt tila)]]", "[[～ている (parhaillaan, tilan tulos)]]"]
-compare: ["[[自動詞＋ている (jaljelle jaanyt tila)]]"]
-sources: ["[[Minna no Nihongo II#Luku 30]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[自動詞＋ている (jaljelle jaanyt tila)]]"
+  - "[[～ている (parhaillaan, tilan tulos)]]"
+compare:
+  - "[[自動詞＋ている (jaljelle jaanyt tila)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 30]]"
+status: learning
+confidence: 3
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
