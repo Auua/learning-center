@@ -62,4 +62,4 @@ Mitä ～を通して tarkoittaa ajallisessa merkityksessä?
 
 #flashcards/grammar/n2/vertailu
 
-N＋を通して (similar) :: ～によって (syy, muodollinen)
+N＋を通して (jonkin kautta) (similar) ::: ～によって (syy, muodollinen) (similar)

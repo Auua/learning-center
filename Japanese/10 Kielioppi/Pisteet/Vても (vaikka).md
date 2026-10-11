@@ -96,4 +96,4 @@ Miten Vても eroaa muodosta ～たら?
 
 #flashcards/grammar/n5/vertailu
 
-Vても／もし～たら／いくら～ても (similar) :: ～たら (jos, kun)
+Vても／もし～たら／いくら～ても (vaikka) (similar) ::: ～たら (jos, kun) (similar)

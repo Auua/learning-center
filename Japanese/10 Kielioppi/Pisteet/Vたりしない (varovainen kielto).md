@@ -72,4 +72,4 @@ Peruskaava vaatii kaksi たり-ilmausta esimerkkiluettelona; Vたりしない k�
 
 #flashcards/grammar/n3/vertailu
 
-V(た形)＋り（＋し）ない (similar/compare) :: Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä)
+V(た形)＋り（＋し）ない (varovainen kielto) (similar/compare) ::: Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) (similar/compare)

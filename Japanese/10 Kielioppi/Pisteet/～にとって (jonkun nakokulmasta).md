@@ -73,4 +73,4 @@ Kumpi: にとって vai において, kun puhutaan jonkun subjektiivisesta näk�
 
 #flashcards/grammar/n3/vertailu
 
-N＋にとって (similar/compare) :: ～において (jossakin kontekstissa, muodollinen)
+N＋にとって (jonkun nakokulmasta) (similar/compare) ::: ～において (jossakin kontekstissa, muodollinen) (similar/compare)

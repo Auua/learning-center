@@ -110,7 +110,7 @@ Miten ～てくる・～ていく (muutos) eroaa ～くなります:sta?
 
 #flashcards/grammar/n3/vertailu
 
-Vてくる／Vていく（muutos） (similar) :: Vてきます (kaynti ja paluu)
-Vてくる／Vていく（muutos） (similar/compare) :: ～てくる・～ていく (liikkeen suunta)
-Vてくる／Vていく（muutos） (similar) :: Vようになります (kyvyn tai tilan muutos)
-Vてくる／Vていく（muutos） (similar) :: ～くなります・～になります (muutos)
+Vてくる／Vていく（muutos） (muutos ajassa) (similar) ::: Vてきます (kaynti ja paluu) (similar)
+Vてくる／Vていく（muutos） (muutos ajassa) (similar/compare) ::: ～てくる・～ていく (liikkeen suunta) (similar/compare)
+Vてくる／Vていく（muutos） (muutos ajassa) (similar) ::: Vようになります (kyvyn tai tilan muutos) (similar)
+Vてくる／Vていく（muutos） (muutos ajassa) (similar) ::: ～くなります・～になります (muutos) (similar)

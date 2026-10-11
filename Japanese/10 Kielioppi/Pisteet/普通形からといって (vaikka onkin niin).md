@@ -72,4 +72,4 @@ Miten からといって eroaa わけではない:sta yksinään?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋からといって（〜わけではない） (similar/compare) :: 普通形わけではない (ei tarkoita etta aina)
+普通形＋からといって（〜わけではない） (vaikka onkin niin) (similar/compare) ::: 普通形わけではない (ei tarkoita etta aina) (similar/compare)

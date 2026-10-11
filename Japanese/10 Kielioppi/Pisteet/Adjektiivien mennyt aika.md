@@ -87,4 +87,4 @@ Mikä on yleisin virhe N／な-adj／い-adjの過去形 -muodossa ja miten se v
 
 #flashcards/grammar/n5/vertailu
 
-N／な-adj／い-adjの過去形 (similar) :: い-adjektiivit ja な-adjektiivit
+N／な-adj／い-adjの過去形 (Adjektiivien mennyt aika) (similar) ::: い-adjektiivit ja な-adjektiivit (similar)

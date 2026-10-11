@@ -88,4 +88,4 @@ Muoto on sama; ratkaisee onko tekojen välillä looginen ristiriita (myönnytys,
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)／な-adj／N＋ながら（myönnytys） (similar/compare) :: V(-ます)ながら (samalla kun)
+V(ます-vartalo)／な-adj／N＋ながら（myönnytys） (myonnytys, vaikka) (similar/compare) ::: V(-ます)ながら (samalla kun) (similar/compare)

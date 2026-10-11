@@ -75,5 +75,5 @@ Sama ない形+で, mutta ilman ください se liittää kaksi lausetta kuvaama
 
 #flashcards/grammar/n5/vertailu
 
-Vないでください (similar) :: Vて ください (pyyntö)
-Vないでください (similar/compare) :: Vて・Vないで (tapa, keino)
+Vないでください (kielteinen pyyntö) (similar) ::: Vて ください (pyyntö) (similar)
+Vないでください (kielteinen pyyntö) (similar/compare) ::: Vて・Vないで (tapa, keino) (similar/compare)

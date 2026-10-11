@@ -117,7 +117,7 @@ Sama toteutumattomuuden logiikka, mutta はず koskee odotusta, つもり omaa t
 
 #flashcards/grammar/n3/vertailu
 
-Vつもりはない／Vつもりだった／Vたつもり (similar/compare) :: Vつもりです (paatetty aikomus)
-Vつもりはない／Vつもりだった／Vたつもり (similar) :: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)
-Vつもりはない／Vつもりだった／Vたつもり (similar) :: Vようとする (yrittaa, olla tekemaisillaan)
-Vつもりはない／Vつもりだった／Vたつもり (compare) :: Vertailu — ようと思う vs. つもり vs. 予定
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar/compare) ::: Vつもりです (paatetty aikomus) (similar/compare)
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar) ::: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) (similar)
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar) ::: Vようとする (yrittaa, olla tekemaisillaan) (similar)
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (compare) ::: Vertailu — ようと思う vs. つもり vs. 予定 (compare)

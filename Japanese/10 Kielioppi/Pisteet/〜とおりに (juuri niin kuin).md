@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "V辞書形/Vた形/Nの＋とおりに"
+ja: V辞書形/Vた形/Nの＋とおりに
 reading: toori ni
 jlpt: N4
-func: [tapa, jaljittely]
-attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
+func:
+  - tapa
+  - jaljittely
+attaches:
+  - "[[Sanakirjamuoto]]"
+  - "[[た-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
 compare: []
-sources: ["[[Minna no Nihongo II#Luku 34]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 34]]"
+status: shaky
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -25,19 +34,19 @@ tags: [grammar/perusrakenne, jlpt/n4]
 - **EN:** exactly as, in accordance with
 
 ## Muodostus
-| Kaava | Esimerkki |
-|---|---|
-| V(辞書形) + とおりに | わたしが今から**言うとおりに**、書いてください。 |
-| V(た形) + とおりに | わたしが**するとおりに**、踊ってください。／見た**とおりに**、話してください。 |
-| N + の + とおりに | 説明書**のとおりに**、組み立ててください。／番号**のとおりに**、ボタンを押してください。 |
+| Kaava         | Esimerkki                                        |
+| ------------- | ------------------------------------------------ |
+| V(辞書形) + とおりに | わたしが今から**言うとおりに**、書いてください。                       |
+| V(た形) + とおりに  | わたしが**するとおりに**、踊ってください。／見た**とおりに**、話してください。      |
+| N + の + とおりに  | 説明書**のとおりに**、組み立ててください。／番号**のとおりに**、ボタンを押してください。 |
 
 ## Nyanssi ja rajoitukset
 - 辞書形 sopii kun malli näytetään samanaikaisesti (するとおりに, samanaikainen jäljittely); た形 sopii kun malli on jo tapahtunut/kuultu aiemmin (言ったとおりに, さっき言ったとおりに).
 - N+の+とおりに on yleinen kirjallisten ohjeiden yhteydessä: 説明書のとおりに, マニュアルのとおりに.
 
 ## Esimerkit
-![[Lausepankki — Ohjeet ja jarjestys#^ohje1]]
-![[Lausepankki — Ohjeet ja jarjestys#^ohje2]]
+![[Lausepankki — Ohjeet ja järjestys#^ohje1]]
+![[Lausepankki — Ohjeet ja järjestys#^ohje2]]
 
 ## Kortit
 #flashcards/grammar/n4

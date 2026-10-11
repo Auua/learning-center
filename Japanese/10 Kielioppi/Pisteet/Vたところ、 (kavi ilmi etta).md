@@ -69,5 +69,5 @@ Pilkullinen ところ、 on looginen seuraus/havainto (調べたところ、〜�
 
 #flashcards/grammar/n2/vertailu
 
-V(た形)＋ところ、 (similar/compare) :: Vたところに・で (juuri siina kohdassa)
-V(た形)＋ところ、 (compare) :: ～たら、～た (odottamaton löytö)
+V(た形)＋ところ、 (kavi ilmi etta) (similar/compare) ::: Vたところに・で (juuri siina kohdassa) (similar/compare)
+V(た形)＋ところ、 (kavi ilmi etta) (compare) ::: ～たら、～た (odottamaton löytö) (compare)

@@ -71,4 +71,4 @@ Miten としている eroaa muodosta とみられる?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋としている (similar/compare) :: 普通形とみられる (arvioidaan olevan)
+普通形＋としている (virallinen kanta) (similar/compare) ::: 普通形とみられる (arvioidaan olevan) (similar/compare)

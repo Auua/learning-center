@@ -79,4 +79,4 @@ Merkitys sama; のようだ vaatii の:n ja sopii kirjoitettuun kieleen (ホテ�
 
 #flashcards/grammar/n3/vertailu
 
-Nみたいだ・Nみたいな～・Nみたいに… (similar/compare) :: ～のようだ・～のような・～のように (vertailu, esimerkki)
+Nみたいだ・Nみたいな～・Nみたいに… (puhekielinen vertailu) (similar/compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar/compare)

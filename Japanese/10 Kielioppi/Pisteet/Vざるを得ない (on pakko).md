@@ -81,4 +81,4 @@ Miten Vざるを得ない eroaa Vなければなりません:sta?
 
 #flashcards/grammar/n2/vertailu
 
-V(ない-vartalo)＋ざるを得ない (similar/compare) :: Vなければ なりません (velvollisuus)
+V(ない-vartalo)＋ざるを得ない (on pakko) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)

@@ -73,5 +73,5 @@ Sama verrannollinen merkitys; ほど korostaa astetta, だけ 'juuri sen verran 
 
 #flashcards/grammar/n4/vertailu
 
-Vば〜ほど (similar) :: ～ば (jos, ehto)
-Vば〜ほど (similar/compare) :: Vば～だけ (mita enemman, sita enemman)
+Vば〜ほど (mita enemman, sita) (similar) ::: ～ば (jos, ehto) (similar)
+Vば〜ほど (mita enemman, sita) (similar/compare) ::: Vば～だけ (mita enemman, sita enemman) (similar/compare)

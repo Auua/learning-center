@@ -84,6 +84,6 @@ Passiivin kunnioitusmuoto (帰られる) on monimerkityksinen (voi olla myös pa
 
 #flashcards/grammar/n3/vertailu
 
-お～になる (similar) :: Passiivi (ら)れる
-お～になる (similar) :: お～する (nöyrä oma teko)
-お～になる (compare) :: Keigo — kartta
+お～になる (kunnioittava toisen teko) (similar) ::: Passiivi (ら)れる (similar)
+お～になる (kunnioittava toisen teko) (similar) ::: お～する (nöyrä oma teko) (similar)
+お～になる (kunnioittava toisen teko) (compare) ::: Keigo — kartta (compare)

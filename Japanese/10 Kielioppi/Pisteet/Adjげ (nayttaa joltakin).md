@@ -77,4 +77,4 @@ Kumpi: げ vai そうな, kun halutaan ilmaista ulkoista vaikutelmaa?
 
 #flashcards/grammar/n2/vertailu
 
-Adj（i-vartalo／na-vartalo）＋げ (similar/compare) :: V・adjそうです (ulkonaon perusteella)
+Adj（i-vartalo／na-vartalo）＋げ (nayttaa joltakin) (similar/compare) ::: V・adjそうです (ulkonaon perusteella) (similar/compare)

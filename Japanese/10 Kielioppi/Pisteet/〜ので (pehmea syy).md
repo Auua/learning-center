@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "普通形ので"
+ja: 普通形ので
 reading: node
 jlpt: N4
-func: [syy]
-attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
+func:
+  - syy
+attaches:
+  - "[[普通形 (puhekielinen perusmuoto)]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[S1から、S2 (syy)]]", "[[Vて (tunnereaktion syy)]]"]
-compare: ["[[S1から、S2 (syy)]]"]
-sources: ["[[Minna no Nihongo II#Luku 39]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[S1から、S2 (syy)]]"
+  - "[[Vて (tunnereaktion syy)]]"
+compare:
+  - "[[S1から、S2 (syy)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 39]]"
+status: known
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -80,5 +90,5 @@ Miten な-adjektiivi tai substantiivi muuttuu ennen ので verrattuna から:hon
 
 #flashcards/grammar/n4/vertailu
 
-普通形ので (similar/compare) :: S1から、S2 (syy)
-普通形ので (similar) :: Vて (tunnereaktion syy)
+普通形ので (pehmea syy) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
+普通形ので (pehmea syy) (similar) ::: Vて (tunnereaktion syy) (similar)

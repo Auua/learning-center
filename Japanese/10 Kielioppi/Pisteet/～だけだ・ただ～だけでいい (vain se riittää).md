@@ -106,6 +106,6 @@ Vさえ～ば on ehtolause (kunhan X, niin Y); だけでいい on toteamus siit�
 
 #flashcards/grammar/n3/vertailu
 
-…だけだ／［ただ］…だけでいい (similar/compare) :: Maara だけ・Nだけ
-…だけだ／［ただ］…だけでいい (similar) :: Nしか Vません (vain, pelkastaan)
-…だけだ／［ただ］…だけでいい (similar) :: Vさえ～ば (kunhan vain)
+…だけだ／［ただ］…だけでいい (vain se riittää) (similar/compare) ::: Maara だけ・Nだけ (similar/compare)
+…だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: Nしか Vません (vain, pelkastaan) (similar)
+…だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: Vさえ～ば (kunhan vain) (similar)

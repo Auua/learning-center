@@ -72,4 +72,4 @@ Kyllä: スポーツはあまり好きじゃないんです — implikoi vastako
 
 #flashcards/grammar/n5/vertailu
 
-N（objekti）は (similar) :: Nを V (objekti)
+N（objekti）は (aiheeksi nostaminen) (similar) ::: Nを V (objekti) (similar)

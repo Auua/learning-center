@@ -78,4 +78,4 @@ Miten だって～もん eroaa もの・もんだから:sta?
 
 #flashcards/grammar/n3/vertailu
 
-だって、普通形＋もの・もん (similar/compare) :: もの・もんだから (perusteleva syy)
+だって、普通形＋もの・もん (puhekielinen perustelu) (similar/compare) ::: もの・もんだから (perusteleva syy) (similar/compare)

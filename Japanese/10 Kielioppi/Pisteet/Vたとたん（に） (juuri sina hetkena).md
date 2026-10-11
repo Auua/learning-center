@@ -62,4 +62,4 @@ Konkreettisia, kertaluontoisia hetkiä; ei sovi jatkuviin tai toistuviin tiloihi
 
 #flashcards/grammar/n2/vertailu
 
-V(た形)＋とたん（に） (similar) :: Vたところで (vaikka tekisikin)
+V(た形)＋とたん（に） (juuri sina hetkena) (similar) ::: Vたところで (vaikka tekisikin) (similar)

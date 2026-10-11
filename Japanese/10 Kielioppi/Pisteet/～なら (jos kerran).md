@@ -88,7 +88,7 @@ Miten ～なら eroaa ～たら:sta, kun lause on 日本に行く…、ガイド
 
 #flashcards/grammar/n4/vertailu
 
-～なら (similar) :: ～たら (jos, kun)
-～なら (similar) :: ～ば (jos, ehto)
-～なら (similar) :: ～と (aina kun, väistämätön seuraus)
-～なら (compare) :: Vertailu — Ehtolauseet と・ば・たら・なら
+～なら (jos kerran) (similar) ::: ～たら (jos, kun) (similar)
+～なら (jos kerran) (similar) ::: ～ば (jos, ehto) (similar)
+～なら (jos kerran) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
+～なら (jos kerran) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)

@@ -115,10 +115,10 @@ Ensimmäinen kertoo syyn, jälkimmäinen ajankohdan.
 
 #flashcards/grammar/n4/vertailu
 
-N（原因・理由）で (similar/compare) :: N (paikka) で
-N（原因・理由）で (similar) :: N (väline) で
-N（原因・理由）で (similar) :: N (ryhmä, määrä, aika) で
-N（原因・理由）で (similar/compare) :: 〜ので (pehmea syy)
-N（原因・理由）で (similar/compare) :: S1から、S2 (syy)
-N（原因・理由）で (similar) :: せいで・せいだ (kielteinen syy)
-N（原因・理由）で (similar) :: おかげで・おかげだ (myonteinen syy)
+N（原因・理由）で (N (syy) で) (similar/compare) ::: N (paikka) で (similar/compare)
+N（原因・理由）で (N (syy) で) (similar) ::: N (väline) で (similar)
+N（原因・理由）で (N (syy) で) (similar) ::: N (ryhmä, määrä, aika) で (similar)
+N（原因・理由）で (N (syy) で) (similar/compare) ::: 〜ので (pehmea syy) (similar/compare)
+N（原因・理由）で (N (syy) で) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
+N（原因・理由）で (N (syy) で) (similar) ::: せいで・せいだ (kielteinen syy) (similar)
+N（原因・理由）で (N (syy) で) (similar) ::: おかげで・おかげだ (myonteinen syy) (similar)

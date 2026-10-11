@@ -80,5 +80,5 @@ Sama rakenne, mutta せいで: kielteinen seuraus, syyttävä sävy; おかげ�
 
 #flashcards/grammar/n3/vertailu
 
-普通形（な・の）＋せいで／せいだ (similar/compare) :: おかげで・おかげだ (myonteinen syy)
-普通形（な・の）＋せいで／せいだ (similar) :: S1から、S2 (syy)
+普通形（な・の）＋せいで／せいだ (kielteinen syy) (similar/compare) ::: おかげで・おかげだ (myonteinen syy) (similar/compare)
+普通形（な・の）＋せいで／せいだ (kielteinen syy) (similar) ::: S1から、S2 (syy) (similar)

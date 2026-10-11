@@ -89,7 +89,7 @@ Kumpi: と vai たら: 春になる＿＿、京都に行ってください?
 
 #flashcards/grammar/n4/vertailu
 
-～と (similar) :: ～たら (jos, kun)
-～と (similar) :: ～ば (jos, ehto)
-～と (similar) :: ～なら (jos kerran)
-～と (compare) :: Vertailu — Ehtolauseet と・ば・たら・なら
+～と (aina kun, väistämätön seuraus) (similar) ::: ～たら (jos, kun) (similar)
+～と (aina kun, väistämätön seuraus) (similar) ::: ～ば (jos, ehto) (similar)
+～と (aina kun, väistämätön seuraus) (similar) ::: ～なら (jos kerran) (similar)
+～と (aina kun, väistämätön seuraus) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)

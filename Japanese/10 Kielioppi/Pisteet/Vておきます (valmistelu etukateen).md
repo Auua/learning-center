@@ -95,4 +95,4 @@ Miten Vて-form おきます eroaa muodosta Vてあります?
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form おきます (similar) :: Vてあります (tarkoituksella tehty tila)
+Vて-form おきます (valmistelu etukateen) (similar) ::: Vてあります (tarkoituksella tehty tila) (similar)

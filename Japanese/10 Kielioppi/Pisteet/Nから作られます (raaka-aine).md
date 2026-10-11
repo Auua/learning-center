@@ -68,4 +68,4 @@ Molemmat sopivat; 造る sopii erityisesti suuriin tai teollisiin tuotteisiin (l
 
 #flashcards/grammar/n4/vertailu
 
-N(raaka-aine)から作られます／造られます (similar) :: N（材料）で (valmistusaine)
+N(raaka-aine)から作られます／造られます (raaka-aine) (similar) ::: N（材料）で (valmistusaine) (similar)

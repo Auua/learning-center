@@ -92,4 +92,4 @@ Miten 関係節 eroaa pelkästä adjektiivimääritteestä (高い山)?
 
 #flashcards/grammar/n5/vertailu
 
-関係節 (similar) :: い-adjektiivit ja な-adjektiivit
+関係節 (suhteellinen sivulause) (similar) ::: い-adjektiivit ja な-adjektiivit (similar)

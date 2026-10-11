@@ -75,5 +75,5 @@ Miten Vたばかりです eroaa た形+ところです:sta?
 
 #flashcards/grammar/n4/vertailu
 
-Vた形ばかりです (similar/compare) :: Vところです (kolme vaihetta)
-Vた形ばかりです (similar/compare) :: Vたて (juuri tehty)
+Vた形ばかりです (juuri askettain) (similar/compare) ::: Vところです (kolme vaihetta) (similar/compare)
+Vた形ばかりです (juuri askettain) (similar/compare) ::: Vたて (juuri tehty) (similar/compare)

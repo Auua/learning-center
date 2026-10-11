@@ -77,5 +77,5 @@ Miten んじゃない？ eroaa でしょう？:sta?
 
 #flashcards/grammar/n3/vertailu
 
-普通形んじゃない？ (similar/compare) :: 普通形でしょう？ (varmistus)
-普通形んじゃない？ (similar) :: 普通形んです (selittävä sävy)
+普通形んじゃない？ (pehmea arvaus) (similar/compare) ::: 普通形でしょう？ (varmistus) (similar/compare)
+普通形んじゃない？ (pehmea arvaus) (similar) ::: 普通形んです (selittävä sävy) (similar)

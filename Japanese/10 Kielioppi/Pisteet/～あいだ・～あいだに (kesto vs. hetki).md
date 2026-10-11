@@ -82,4 +82,4 @@ Kumpi: 出かけているあいだ vai 出かけているあいだに, kun lintu
 
 #flashcards/grammar/n3/vertailu
 
-V(ている)／Nのあいだ、…・あいだに、… (similar) :: Vてから、V2 (jälkeen)
+V(ている)／Nのあいだ、…・あいだに、… (kesto vs. hetki) (similar) ::: Vてから、V2 (jälkeen) (similar)

@@ -1,5 +1,5 @@
 {
-  "autoOnSelect": true,
+  "autoOnSelect": false,
   "enableInPdf": true,
   "maxResults": 8,
   "maxSenses": 6,

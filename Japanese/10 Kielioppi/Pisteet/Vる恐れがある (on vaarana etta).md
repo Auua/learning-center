@@ -68,4 +68,4 @@ Miten 恐れがある eroaa rakenteesta 普通形可能性がある?
 
 #flashcards/grammar/n2/vertailu
 
-N／V辞書形＋恐れがある (similar/compare) :: 普通形可能性がある (on mahdollista etta)
+N／V辞書形＋恐れがある (on vaarana etta) (similar/compare) ::: 普通形可能性がある (on mahdollista etta) (similar/compare)

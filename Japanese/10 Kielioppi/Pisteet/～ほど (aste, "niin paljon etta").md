@@ -75,6 +75,6 @@ Miten erotat neljä ほど-rakennetta toisistaan?
 
 #flashcards/grammar/n3/vertailu
 
-普通形／N＋ほど（＋myönteinen predikaatti） (similar/compare) :: ～ほど～ない・ほどではない (vertailu, ei niin)
-普通形／N＋ほど（＋myönteinen predikaatti） (similar) :: ～ほど～はない・いない (superlatiivi)
-普通形／N＋ほど（＋myönteinen predikaatti） (similar) :: Vば〜ほど (mita enemman, sita)
+普通形／N＋ほど（＋myönteinen predikaatti） (aste, "niin paljon etta") (similar/compare) ::: ～ほど～ない・ほどではない (vertailu, ei niin) (similar/compare)
+普通形／N＋ほど（＋myönteinen predikaatti） (aste, "niin paljon etta") (similar) ::: ～ほど～はない・いない (superlatiivi) (similar)
+普通形／N＋ほど（＋myönteinen predikaatti） (aste, "niin paljon etta") (similar) ::: Vば〜ほど (mita enemman, sita) (similar)

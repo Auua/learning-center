@@ -82,6 +82,6 @@ Se täydentää niitä muodollisena, usein kirjallisena vaihtoehtona samalle eht
 
 #flashcards/grammar/n4/vertailu
 
-普通形場合は／Nの場合は (similar) :: ～ば (jos, ehto)
-普通形場合は／Nの場合は (similar) :: ～たら (jos, kun)
-普通形場合は／Nの場合は (compare) :: Vertailu — Ehtolauseet と・ば・たら・なら
+普通形場合は／Nの場合は (siina tapauksessa etta) (similar) ::: ～ば (jos, ehto) (similar)
+普通形場合は／Nの場合は (siina tapauksessa etta) (similar) ::: ～たら (jos, kun) (similar)
+普通形場合は／Nの場合は (siina tapauksessa etta) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)

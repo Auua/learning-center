@@ -83,6 +83,6 @@ Missä järjestyksessä かもしれません, でしょう ja はずです ovat
 
 #flashcards/grammar/n4/vertailu
 
-普通形かもしれません (similar/compare) :: 普通形でしょう (todennakoisyys)
-普通形かもしれません (similar/compare) :: 普通形はずです (varma odotus)
-普通形かもしれません (similar/compare) :: 普通形可能性がある (on mahdollista etta)
+普通形かもしれません (saattaa olla etta) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
+普通形かもしれません (saattaa olla etta) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
+普通形かもしれません (saattaa olla etta) (similar/compare) ::: 普通形可能性がある (on mahdollista etta) (similar/compare)

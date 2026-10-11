@@ -80,4 +80,4 @@ Mitä kaksi partikkelia へ ja に tekevät N（場所）へVます-vartalo に�
 
 #flashcards/grammar/n5/vertailu
 
-N（場所）へVます-vartalo に行きます／来ます／帰ります (similar) :: Liikkumisen partikkelit (へ・で・と)
+N（場所）へVます-vartalo に行きます／来ます／帰ります (tarkoitus) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)

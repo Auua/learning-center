@@ -78,4 +78,4 @@ Miten Vべきだ eroaa muodosta Vなければなりません?
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形＋べきだ・べきではない (similar/compare) :: Vなければ なりません (velvollisuus)
+V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)

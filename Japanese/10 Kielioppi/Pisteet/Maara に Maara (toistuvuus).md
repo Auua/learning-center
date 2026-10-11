@@ -65,4 +65,4 @@ Miksi に on pakollinen 期間に回数 -rakenteessa?
 
 #flashcards/grammar/n5/vertailu
 
-期間に回数 (similar) :: N (aika) に
+期間に回数 (toistuvuus) (similar) ::: N (aika) に (similar)

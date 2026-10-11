@@ -74,4 +74,4 @@ Vないうちに (暗くならないうちに帰りましょう); myönteinen �
 
 #flashcards/grammar/n3/vertailu
 
-普通形（ている）＋うちに (similar) :: ～ないうちに (ennen kuin)
+普通形（ている）＋うちに (ennen kuin liian myohaista) (similar) ::: ～ないうちに (ennen kuin) (similar)

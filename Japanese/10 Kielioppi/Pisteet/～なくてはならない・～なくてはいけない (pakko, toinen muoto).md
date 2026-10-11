@@ -102,6 +102,6 @@ Muistisääntö: mikä partikkeli ratkaisee, onko Vなくて+は／も pakko vai
 
 #flashcards/grammar/n4/vertailu
 
-Vなくてはならない／Vなくてはいけない (similar/compare) :: Vなければ なりません (velvollisuus)
-Vなくてはならない／Vなくてはいけない (similar/compare) :: ～なくちゃ・～なきゃ (puhekielinen pakko)
-Vなくてはならない／Vなくてはいけない (similar) :: ～なくてもかまいません (ei tarvitse, ei haittaa)
+Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)
+Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar/compare) ::: ～なくちゃ・～なきゃ (puhekielinen pakko) (similar/compare)
+Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar) ::: ～なくてもかまいません (ei tarvitse, ei haittaa) (similar)

@@ -67,4 +67,4 @@ Lähellä toisiaan; わりに korostaa enemmän panos/tulos-epäsuhtaa (負担�
 
 #flashcards/grammar/n2/vertailu
 
-N（の）／普通形＋わりに（は） (similar/compare) :: Nにしては (ottaen huomioon etta)
+N（の）／普通形＋わりに（は） (suhteessa odotettuun) (similar/compare) ::: Nにしては (ottaen huomioon etta) (similar/compare)

@@ -78,5 +78,5 @@ Katso verbiä: 違う／変わる → vaihtelun peruste; passiivi-verbi → teki
 
 #flashcards/grammar/n3/vertailu
 
-Nによって（変わる・違う） (similar/compare) :: 〜によって (tekijan merkitseminen, luova teko)
-Nによって（変わる・違う） (similar/compare) :: ～によって (syy, muodollinen)
+Nによって（変わる・違う） (riippuen, vaihtelu) (similar/compare) ::: 〜によって (tekijan merkitseminen, luova teko) (similar/compare)
+Nによって（変わる・違う） (riippuen, vaihtelu) (similar/compare) ::: ～によって (syy, muodollinen) (similar/compare)

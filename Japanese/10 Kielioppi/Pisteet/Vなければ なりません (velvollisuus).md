@@ -93,6 +93,6 @@ Täysin vastakkaiset samalla ない-pohjalla: なければなりません = pakk
 
 #flashcards/grammar/n5/vertailu
 
-Vなければなりません (similar) :: Vなくても いいです (ei tarvitse)
-Vなければなりません (similar/compare) :: ～なくてはならない・～なくてはいけない (pakko, toinen muoto)
-Vなければなりません (similar) :: ～なくちゃ・～なきゃ (puhekielinen pakko)
+Vなければなりません (velvollisuus) (similar) ::: Vなくても いいです (ei tarvitse) (similar)
+Vなければなりません (velvollisuus) (similar/compare) ::: ～なくてはならない・～なくてはいけない (pakko, toinen muoto) (similar/compare)
+Vなければなりません (velvollisuus) (similar) ::: ～なくちゃ・～なきゃ (puhekielinen pakko) (similar)

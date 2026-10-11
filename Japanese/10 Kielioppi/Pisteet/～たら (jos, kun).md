@@ -110,9 +110,9 @@ Kumpi: ば vai たら: 京都に行く＿＿、写真を撮ってください?
 
 #flashcards/grammar/n4/vertailu
 
-～たら (similar) :: ～ば (jos, ehto)
-～たら (similar) :: ～と (aina kun, väistämätön seuraus)
-～たら (similar) :: ～なら (jos kerran)
-～たら (similar) :: Vertailu — たら・ば + ta (kontrafaktuaalinen)
-～たら (similar) :: ～たら、～た (odottamaton löytö)
-～たら (compare) :: Vertailu — Ehtolauseet と・ば・たら・なら
+～たら (jos, kun) (similar) ::: ～ば (jos, ehto) (similar)
+～たら (jos, kun) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
+～たら (jos, kun) (similar) ::: ～なら (jos kerran) (similar)
+～たら (jos, kun) (similar) ::: Vertailu — たら・ば + ta (kontrafaktuaalinen) (similar)
+～たら (jos, kun) (similar) ::: ～たら、～た (odottamaton löytö) (similar)
+～たら (jos, kun) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)

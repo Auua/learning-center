@@ -106,7 +106,7 @@ Samaa rekisteriä, mutta ne ilmaisevat arviota, eivät kuulopuhetta.
 
 #flashcards/grammar/n2/vertailu
 
-普通形という。 (similar/compare) :: 普通形ということだ (muodollinen kuulopuhe, vahvistus)
-普通形という。 (similar) :: 普通形そうです (kuulopuhe)
-普通形という。 (similar) :: 普通形とみられる (arvioidaan olevan)
-普通形という。 (similar) :: 普通形と思われる (nayttaa siltä, uutiskielinen)
+普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar/compare) ::: 普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare)
+普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar) ::: 普通形そうです (kuulopuhe) (similar)
+普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar) ::: 普通形とみられる (arvioidaan olevan) (similar)
+普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar) ::: 普通形と思われる (nayttaa siltä, uutiskielinen) (similar)

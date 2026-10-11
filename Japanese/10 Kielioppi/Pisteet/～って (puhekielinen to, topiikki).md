@@ -74,5 +74,5 @@ Toimii kuten は, mutta rennommin: ワット先生ってどんな先生 = ワッ
 
 #flashcards/grammar/n3/vertailu
 
-～って（引用・主題） (similar) :: 普通形と言います (lainaus)
-～って（引用・主題） (similar) :: N1とN2 (ja)
+～って（引用・主題） (puhekielinen to, topiikki) (similar) ::: 普通形と言います (lainaus) (similar)
+～って（引用・主題） (puhekielinen to, topiikki) (similar) ::: N1とN2 (ja) (similar)

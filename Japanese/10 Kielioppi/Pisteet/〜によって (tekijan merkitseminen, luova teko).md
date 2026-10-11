@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "〜によって"
+ja: 〜によって
 reading: ni yotte
 jlpt: N4
-func: [tekija, passiivi]
-attaches: ["[[Passiivi (ら)れる]]"]
+func:
+  - tekija
+  - passiivi
+attaches:
+  - "[[Passiivi (ら)れる]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[～によって (riippuen, vaihtelu)]]", "[[～によって (syy, muodollinen)]]"]
-compare: ["[[～によって (riippuen, vaihtelu)]]", "[[～によって (syy, muodollinen)]]"]
-sources: ["[[Minna no Nihongo II#Luku 37]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～によって (riippuen, vaihtelu)]]"
+  - "[[～によって (syy, muodollinen)]]"
+compare:
+  - "[[～によって (riippuen, vaihtelu)]]"
+  - "[[～によって (syy, muodollinen)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 37]]"
+status: learning
+confidence: 2
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -81,5 +93,5 @@ Syy-によって merkitsee suoraa muodollista syytä (円高によって経営�
 
 #flashcards/grammar/n4/vertailu
 
-〜によって (similar/compare) :: ～によって (riippuen, vaihtelu)
-〜によって (similar/compare) :: ～によって (syy, muodollinen)
+〜によって (tekijan merkitseminen, luova teko) (similar/compare) ::: ～によって (riippuen, vaihtelu) (similar/compare)
+〜によって (tekijan merkitseminen, luova teko) (similar/compare) ::: ～によって (syy, muodollinen) (similar/compare)

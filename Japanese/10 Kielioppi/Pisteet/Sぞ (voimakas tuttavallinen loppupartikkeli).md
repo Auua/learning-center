@@ -72,4 +72,4 @@ Miten Sぞ eroaa Sよ:sta?
 
 #flashcards/grammar/n3/vertailu
 
-S＋ぞ (similar/compare) :: Sよ (uuden tiedon korostus)
+S＋ぞ (voimakas tuttavallinen loppupartikkeli) (similar/compare) ::: Sよ (uuden tiedon korostus) (similar/compare)

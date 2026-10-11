@@ -78,6 +78,6 @@ Sama て-muoto: peräkkäisyys listaa tahdonalaisia tekoja, tämä merkitsee syy
 
 #flashcards/grammar/n4/vertailu
 
-Vて／Adjくて／Nで（tunnereaktion syy） (similar) :: Vて、Vて (peräkkäisyys)
-Vて／Adjくて／Nで（tunnereaktion syy） (similar) :: S1から、S2 (syy)
-Vて／Adjくて／Nで（tunnereaktion syy） (similar/compare) :: 〜ので (pehmea syy)
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar) ::: Vて、Vて (peräkkäisyys) (similar)
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar) ::: S1から、S2 (syy) (similar)
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar/compare) ::: 〜ので (pehmea syy) (similar/compare)

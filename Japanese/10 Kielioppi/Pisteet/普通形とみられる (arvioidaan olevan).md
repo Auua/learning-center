@@ -78,4 +78,4 @@ Hyvin lähellä toisiaan ja useimmiten vaihtokelpoisia. とみられる on tyypi
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋とみられる・とみている (similar/compare) :: 普通形と思われる (nayttaa siltä, uutiskielinen)
+普通形＋とみられる・とみている (arvioidaan olevan) (similar/compare) ::: 普通形と思われる (nayttaa siltä, uutiskielinen) (similar/compare)

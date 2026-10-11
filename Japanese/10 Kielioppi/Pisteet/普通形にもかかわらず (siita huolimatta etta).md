@@ -74,5 +74,5 @@ Kumpi: にもかかわらず vai ながら, kun halutaan ilmaista myönnytys ark
 
 #flashcards/grammar/n2/vertailu
 
-普通形（な・の）＋にもかかわらず (similar/compare) :: 普通形ながら (myonnytys, vaikka)
-普通形（な・の）＋にもかかわらず (similar) :: たとえ～ても (vaikka kuinka)
+普通形（な・の）＋にもかかわらず (siita huolimatta etta) (similar/compare) ::: 普通形ながら (myonnytys, vaikka) (similar/compare)
+普通形（な・の）＋にもかかわらず (siita huolimatta etta) (similar) ::: たとえ～ても (vaikka kuinka) (similar)

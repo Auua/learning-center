@@ -85,4 +85,4 @@ Aina vastaanottajan tai lähteen, ei lauseen aihetta.
 
 #flashcards/grammar/n5/vertailu
 
-N（人）にあげます／もらいます (similar) :: Keigo — kartta
+N（人）にあげます／もらいます (N (人) に あげます・もらいます) (similar) ::: Keigo — kartta (similar)

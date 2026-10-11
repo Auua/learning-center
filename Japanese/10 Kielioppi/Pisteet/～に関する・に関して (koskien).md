@@ -72,4 +72,4 @@ Perusfunktio sama (aihe), mutta について on neutraalimpi yleiskieltä; に�
 
 #flashcards/grammar/n2/vertailu
 
-N＋に関する＋N2・N＋に関して (similar/compare) :: ～について (aiheesta)
+N＋に関する＋N2・N＋に関して (koskien) (similar/compare) ::: ～について (aiheesta) (similar/compare)

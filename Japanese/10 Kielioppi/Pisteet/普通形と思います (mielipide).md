@@ -90,4 +90,4 @@ Rakenne on sama (と + verbi), mutta と言います lainaa jonkun sanoman, と�
 
 #flashcards/grammar/n5/vertailu
 
-普通形と思います (similar) :: 普通形と言います (lainaus)
+普通形と思います (mielipide) (similar) ::: 普通形と言います (lainaus) (similar)

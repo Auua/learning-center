@@ -82,5 +82,5 @@ Ensimmäinen on käyttötarkoitus-のに (Luku 42, seuraa 使う/必要/かか�
 
 #flashcards/grammar/n4/vertailu
 
-普通形のに（konjunktio） (similar/compare) :: S1が、S2 (mutta)
-普通形のに（konjunktio） (compare) :: Vのに (kayttotarkoitus, kulutus)
+普通形のに（konjunktio） (vaikka, pettymys) (similar/compare) ::: S1が、S2 (mutta) (similar/compare)
+普通形のに（konjunktio） (vaikka, pettymys) (compare) ::: Vのに (kayttotarkoitus, kulutus) (compare)

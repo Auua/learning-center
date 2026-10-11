@@ -95,7 +95,7 @@ Verbin ja edeltävän sanan tyypistä: ajoneuvo + liikeverbi → kulkuväline; p
 
 #flashcards/grammar/n5/vertailu
 
-N（道具・手段）で (similar) :: Liikkumisen partikkelit (へ・で・と)
-N（道具・手段）で (similar) :: N (paikka) で
-N（道具・手段）で (similar) :: N (syy) で
-N（道具・手段）で (similar/compare) :: N (ryhmä, määrä, aika) で
+N（道具・手段）で (N (väline) で) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
+N（道具・手段）で (N (väline) で) (similar) ::: N (paikka) で (similar)
+N（道具・手段）で (N (väline) で) (similar) ::: N (syy) で (similar)
+N（道具・手段）で (N (väline) で) (similar/compare) ::: N (ryhmä, määrä, aika) で (similar/compare)

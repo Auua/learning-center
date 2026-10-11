@@ -88,6 +88,6 @@ Miten Vて-form 来ます eroaa muodosta Vて、Vて?
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form 来ます (similar) :: ～ている (parhaillaan, tilan tulos)
-Vて-form 来ます (similar) :: ～てくる・～ていく (muutos ajassa)
-Vて-form 来ます (similar) :: ～てくる・～ていく (liikkeen suunta)
+Vて-form 来ます (kaynti ja paluu) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
+Vて-form 来ます (kaynti ja paluu) (similar) ::: ～てくる・～ていく (muutos ajassa) (similar)
+Vて-form 来ます (kaynti ja paluu) (similar) ::: ～てくる・～ていく (liikkeen suunta) (similar)

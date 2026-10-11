@@ -84,7 +84,7 @@ Vertaava ようだ tarkoittaa 'on kuin' eikä ole päätelmä: あの病院は�
 
 #flashcards/grammar/n4/vertailu
 
-普通形ようです (similar/compare) :: 普通形そうです (kuulopuhe)
-普通形ようです (similar) :: Vように (jotta, niin etta)
-普通形ようです (similar/compare) :: ～のようだ・～のような・～のように (vertailu, esimerkki)
-普通形ようです (similar/compare) :: 普通形らしい (kuulopuhe, paattely)
+普通形ようです (havaintoon perustuva paattely) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
+普通形ようです (havaintoon perustuva paattely) (similar) ::: Vように (jotta, niin etta) (similar)
+普通形ようです (havaintoon perustuva paattely) (similar/compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar/compare)
+普通形ようです (havaintoon perustuva paattely) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)

@@ -77,4 +77,4 @@ Miten ものだ (yleinen totuus) eroaa もの/もんだから:sta?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋ものだ／ものではない・もんじゃない (similar) :: もの・もんだから (perusteleva syy)
+普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) (similar) ::: もの・もんだから (perusteleva syy) (similar)

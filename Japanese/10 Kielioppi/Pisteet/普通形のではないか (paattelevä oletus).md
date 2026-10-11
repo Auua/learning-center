@@ -72,4 +72,4 @@ Kumpi sopii puhuttuun ja kirjoitettuun kieleen: のではないか vai のでは
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋の（ん）ではないか (similar/compare) :: 普通形のではないだろうか (varovainen oletus)
+普通形＋の（ん）ではないか (paattelevä oletus) (similar/compare) ::: 普通形のではないだろうか (varovainen oletus) (similar/compare)

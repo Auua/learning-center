@@ -94,5 +94,5 @@ Vて、Vて kertoo tarkan järjestyksen ja on yleensä täydellinen lista; た�
 
 #flashcards/grammar/n5/vertailu
 
-V1た形り、V2た形りします (similar) :: Vて、Vて (peräkkäisyys)
-V1た形り、V2た形りします (similar/compare) :: ～たり～たり (vaihtelu, epäsäännöllisyys)
+V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (similar) ::: Vて、Vて (peräkkäisyys) (similar)
+V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (similar/compare) ::: ～たり～たり (vaihtelu, epäsäännöllisyys) (similar/compare)

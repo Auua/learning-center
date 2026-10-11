@@ -71,4 +71,4 @@ Miten 普通形＋としても eroaa たとえ～ても:stä?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋としても (similar/compare) :: たとえ～ても (vaikka kuinka)
+普通形＋としても (vaikka oletettaisiinkin) (similar/compare) ::: たとえ～ても (vaikka kuinka) (similar/compare)

@@ -90,6 +90,6 @@ Nouseva (↗) olettaa kuulijan tietävän ja odottaa myöntävää vastausta; la
 
 #flashcards/grammar/n5/vertailu
 
-普通形でしょう？ (similar) :: Sね (vahvistus, eikö niin)
-普通形でしょう？ (similar/compare) :: 普通形でしょう (todennakoisyys)
-普通形でしょう？ (similar/compare) :: でしょ・だろ (puhekielinen varmistus)
+普通形でしょう？ (varmistus) (similar) ::: Sね (vahvistus, eikö niin) (similar)
+普通形でしょう？ (varmistus) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
+普通形でしょう？ (varmistus) (similar/compare) ::: でしょ・だろ (puhekielinen varmistus) (similar/compare)

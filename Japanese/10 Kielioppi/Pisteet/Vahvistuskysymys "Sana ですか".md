@@ -59,4 +59,4 @@ Poimitaan kuultu sana ja toistetaan se muodossa sana + ですか.
 
 #flashcards/grammar/n5/vertailu
 
-「Sana」ですか (similar) :: Sね (vahvistus, eikö niin)
+「Sana」ですか (Vahvistuskysymys "Sana ですか") (similar) ::: Sね (vahvistus, eikö niin) (similar)

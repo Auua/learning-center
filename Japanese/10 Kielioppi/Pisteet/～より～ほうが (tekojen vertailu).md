@@ -104,6 +104,6 @@ Sama rakenne substantiiveilla (この車はあの車より大きい); teko-verta
 
 #flashcards/grammar/n4/vertailu
 
-V／A より V／A ほうが… (similar/compare) :: N1はN2より (vertailu)
-V／A より V／A ほうが… (similar) :: Vたほうがいいです (kannattaisi tehda)
-V／A より V／A ほうが… (similar) :: ～に比べて (verrattuna)
+V／A より V／A ほうが… (tekojen vertailu) (similar/compare) ::: N1はN2より (vertailu) (similar/compare)
+V／A より V／A ほうが… (tekojen vertailu) (similar) ::: Vたほうがいいです (kannattaisi tehda) (similar)
+V／A より V／A ほうが… (tekojen vertailu) (similar) ::: ～に比べて (verrattuna) (similar)

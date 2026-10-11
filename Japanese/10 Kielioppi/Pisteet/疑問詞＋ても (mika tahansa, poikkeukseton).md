@@ -83,8 +83,8 @@ Miten 疑問詞＋ても eroaa 何でも/どこでも/だれでも/いつでも-
 
 #flashcards/grammar/n3/vertailu
 
-いつ／どこ／何／だれ／どんなに＋ても (similar) :: Vても (vaikka)
-いつ／どこ／何／だれ／どんなに＋ても (similar/compare) :: 何でも
-いつ／どこ／何／だれ／どんなに＋ても (similar/compare) :: どこでも
-いつ／どこ／何／だれ／どんなに＋ても (similar/compare) :: だれでも
-いつ／どこ／何／だれ／どんなに＋ても (similar/compare) :: いつでも
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar) ::: Vても (vaikka) (similar)
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: 何でも (similar/compare)
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: どこでも (similar/compare)
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: だれでも (similar/compare)
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: いつでも (similar/compare)

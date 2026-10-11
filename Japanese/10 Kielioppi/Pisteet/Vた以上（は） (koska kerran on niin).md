@@ -73,4 +73,4 @@ Ulkoiseen tosiasiaan sopii paremmin 以上 (結論が出た以上); omaan päät
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋以上（は） (similar/compare) :: Vからには (koska kerran, paatoksen jalkeen)
+普通形＋以上（は） (koska kerran on niin) (similar/compare) ::: Vからには (koska kerran, paatoksen jalkeen) (similar/compare)

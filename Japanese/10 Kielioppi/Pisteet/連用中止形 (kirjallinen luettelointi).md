@@ -78,4 +78,4 @@ Idea on sama, mutta て-muoto on puhutun/yleisen kielen versio; 連用中止形 
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)、〜／い-adj(くて→く)、〜（連用中止形） (similar/compare) :: Vて、Vて (peräkkäisyys)
+V(ます-vartalo)、〜／い-adj(くて→く)、〜（連用中止形） (kirjallinen luettelointi) (similar/compare) ::: Vて、Vて (peräkkäisyys) (similar/compare)

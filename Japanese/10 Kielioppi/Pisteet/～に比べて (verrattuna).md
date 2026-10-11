@@ -72,4 +72,4 @@ Miten N に比べて eroaa N1はN2より -vertailusta?
 
 #flashcards/grammar/n2/vertailu
 
-N＋に比べて・に比べると (similar/compare) :: N1はN2より (vertailu)
+N＋に比べて・に比べると (verrattuna) (similar/compare) ::: N1はN2より (vertailu) (similar/compare)

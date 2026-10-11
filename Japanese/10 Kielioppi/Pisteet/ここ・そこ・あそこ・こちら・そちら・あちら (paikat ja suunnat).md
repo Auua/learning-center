@@ -95,4 +95,4 @@ Sama etäisyysjärjestelmä, mutta これ-sarja koskee esineitä ja ここ-sarja
 
 #flashcards/grammar/n5/vertailu
 
-ここ・そこ・あそこ／こちら・そちら・あちら (similar) :: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)
+ここ・そこ・あそこ／こちら・そちら・あちら (paikat ja suunnat) (similar) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar)

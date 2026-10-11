@@ -81,4 +81,4 @@ Miten Vたて eroaa Vたばかりです:sta?
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋たて (similar/compare) :: Vたばかりです (juuri askettain)
+V(ます-vartalo)＋たて (juuri tehty) (similar/compare) ::: Vたばかりです (juuri askettain) (similar/compare)

@@ -107,7 +107,7 @@ Miten ～のは～からだ eroaa rakenteesta ～ためだ?
 
 #flashcards/grammar/n3/vertailu
 
-…のは…からだ／からです (similar) :: S1から、S2 (syy)
-…のは…からだ／からです (similar/compare) :: ～のは Nです (korostusrakenne, cleft)
-…のは…からだ／からです (similar) :: Vのは・Vのが・Vのを (nominalisointi)
-…のは…からだ／からです (similar) :: ～ため［に］・ためだ (syy, ei tarkoitus)
+…のは…からだ／からです (syy predikaattina) (similar) ::: S1から、S2 (syy) (similar)
+…のは…からだ／からです (syy predikaattina) (similar/compare) ::: ～のは Nです (korostusrakenne, cleft) (similar/compare)
+…のは…からだ／からです (syy predikaattina) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
+…のは…からだ／からです (syy predikaattina) (similar) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (similar)

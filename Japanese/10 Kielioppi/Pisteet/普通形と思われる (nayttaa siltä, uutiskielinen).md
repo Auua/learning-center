@@ -71,4 +71,4 @@ Hyvin lähellä, rekisteriero on hienovarainen. とみられる on tyypillinen u
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋と思われる (similar/compare) :: 普通形とみられる (arvioidaan olevan)
+普通形＋と思われる (nayttaa siltä, uutiskielinen) (similar/compare) ::: 普通形とみられる (arvioidaan olevan) (similar/compare)

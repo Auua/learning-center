@@ -89,4 +89,4 @@ Kumpi: それに vai それで, kun haluan lisätä uuden perusteen / kertoa seu
 
 #flashcards/grammar/n4/vertailu
 
-それに・それで (similar) :: 普通形し、普通形し (perustelujen luettelointi)
+それに・それで (lisaksi, niinpa) (similar) ::: 普通形し、普通形し (perustelujen luettelointi) (similar)

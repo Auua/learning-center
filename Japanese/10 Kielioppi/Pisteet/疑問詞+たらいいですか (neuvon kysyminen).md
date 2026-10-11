@@ -70,4 +70,4 @@ Mikä lause edeltää 疑問詞＋たらいいですか-kysymystä usein?
 
 #flashcards/grammar/n4/vertailu
 
-疑問詞＋Vたらいいですか (similar) :: ～たら (jos, kun)
+疑問詞＋Vたらいいですか (neuvon kysyminen) (similar) ::: ～たら (jos, kun) (similar)

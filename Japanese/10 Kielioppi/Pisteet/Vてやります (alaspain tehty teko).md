@@ -81,4 +81,4 @@ Miksi 先生に本を読んでやりました on virhe, ja mitä pitäisi käytt
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form やります (similar) :: Vてあげます・Vてもらいます・Vてくれます (teon antaminen)
+Vて-form やります (alaspain tehty teko) (similar) ::: Vてあげます・Vてもらいます・Vてくれます (teon antaminen) (similar)

@@ -68,4 +68,4 @@ Muodollinen, kirjoitettu.
 
 #flashcards/grammar/n2/vertailu
 
-N＋上（は・の） (similar) :: ～において (jossakin kontekstissa, muodollinen)
+N＋上（は・の） (jonkin kannalta) (similar) ::: ～において (jossakin kontekstissa, muodollinen) (similar)

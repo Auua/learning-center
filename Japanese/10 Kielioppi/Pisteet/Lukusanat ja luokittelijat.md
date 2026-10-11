@@ -134,4 +134,4 @@ Väärä luokittelija (esim. 人 esineelle) kuulostaa oudolta; luokittelija opit
 
 #flashcards/grammar/n5/vertailu
 
-数詞＋助数詞 (similar) :: N (aika) に
+数詞＋助数詞 (Lukusanat ja luokittelijat) (similar) ::: N (aika) に (similar)

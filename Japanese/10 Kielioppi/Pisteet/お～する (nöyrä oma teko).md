@@ -87,6 +87,6 @@ Miten お～する eroaa kaavasta お～になる?
 
 #flashcards/grammar/n3/vertailu
 
-お～する (similar) :: お～になる (kunnioittava toisen teko)
-お～する (similar) :: ご～いただく (kohtelias pyyntö, kiitollisuus)
-お～する (compare) :: Keigo — kartta
+お～する (nöyrä oma teko) (similar) ::: お～になる (kunnioittava toisen teko) (similar)
+お～する (nöyrä oma teko) (similar) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar)
+お～する (nöyrä oma teko) (compare) ::: Keigo — kartta (compare)

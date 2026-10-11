@@ -102,6 +102,6 @@ Vるまでもない: ei tarvitse tehdä; もせずに: ei tehty, vaikka olisi pi
 
 #flashcards/grammar/n2/vertailu
 
-V（ます-vartalo）もせずに (similar/compare) :: ～ず［に］・～ず (kirjallinen kielto)
-V（ます-vartalo）もせずに (similar) :: Vて・Vないで (tapa, keino)
-V（ます-vartalo）もせずに (similar) :: Vるまでもない (ei tarvitse edes)
+V（ます-vartalo）もせずに (ei edes tehnyt) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)
+V（ます-vartalo）もせずに (ei edes tehnyt) (similar) ::: Vて・Vないで (tapa, keino) (similar)
+V（ます-vartalo）もせずに (ei edes tehnyt) (similar) ::: Vるまでもない (ei tarvitse edes) (similar)

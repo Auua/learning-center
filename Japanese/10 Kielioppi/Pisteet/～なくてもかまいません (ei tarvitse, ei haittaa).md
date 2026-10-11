@@ -105,6 +105,6 @@ Kumpi: なくても vai なくては, kun tarkoitetaan "ei tarvitse"?
 
 #flashcards/grammar/n4/vertailu
 
-Vなくてもかまいません／かまわない (similar/compare) :: Vなくても いいです (ei tarvitse)
-Vなくてもかまいません／かまわない (similar) :: ～てもかまいません (saa tehdä, ei haittaa)
-Vなくてもかまいません／かまわない (similar) :: ～なくてはならない・～なくてはいけない (pakko, toinen muoto)
+Vなくてもかまいません／かまわない (ei tarvitse, ei haittaa) (similar/compare) ::: Vなくても いいです (ei tarvitse) (similar/compare)
+Vなくてもかまいません／かまわない (ei tarvitse, ei haittaa) (similar) ::: ～てもかまいません (saa tehdä, ei haittaa) (similar)
+Vなくてもかまいません／かまわない (ei tarvitse, ei haittaa) (similar) ::: ～なくてはならない・～なくてはいけない (pakko, toinen muoto) (similar)

@@ -86,5 +86,5 @@ Miten ～のようだ eroaa ～みたいだ:sta?
 
 #flashcards/grammar/n3/vertailu
 
-N／Vのようだ・Nのような～・Nのように… (similar/compare) :: 普通形ようです (havaintoon perustuva paattely)
-N／Vのようだ・Nのような～・Nのように… (similar/compare) :: ～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: ～みたいだ・～みたいな・～みたいに (puhekielinen vertailu) (similar/compare)

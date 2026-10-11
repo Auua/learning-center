@@ -88,6 +88,6 @@ Sama partikkeli, eri rooli: liikeverbi + ajoneuvo → kulkuväline; muu toiminta
 
 #flashcards/grammar/n5/vertailu
 
-N（場所）で (similar) :: Liikkumisen partikkelit (へ・で・と)
-N（場所）で (similar/compare) :: N (syy) で
-N（場所）で (similar) :: N (ryhmä, määrä, aika) で
+N（場所）で (N (paikka) で) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
+N（場所）で (N (paikka) で) (similar/compare) ::: N (syy) で (similar/compare)
+N（場所）で (N (paikka) で) (similar) ::: N (ryhmä, määrä, aika) で (similar)

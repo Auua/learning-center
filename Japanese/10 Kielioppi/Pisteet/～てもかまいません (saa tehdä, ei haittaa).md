@@ -98,6 +98,6 @@ Myönnytys-ても aloittaa lauseen 'vaikka X, silti Y'; tässä ても on osa ki
 
 #flashcards/grammar/n4/vertailu
 
-Vてもかまいません／かまわない (similar/compare) :: Vても いいです・Vては いけません (lupa ja kielto)
-Vてもかまいません／かまわない (similar) :: ～なくてもかまいません (ei tarvitse, ei haittaa)
-Vてもかまいません／かまわない (similar) :: Vても (vaikka)
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar/compare) ::: Vても いいです・Vては いけません (lupa ja kielto) (similar/compare)
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar) ::: ～なくてもかまいません (ei tarvitse, ei haittaa) (similar)
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar) ::: Vても (vaikka) (similar)

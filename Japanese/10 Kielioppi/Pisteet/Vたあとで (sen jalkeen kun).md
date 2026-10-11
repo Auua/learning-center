@@ -75,5 +75,5 @@ Kumpi: 来る vai 来た, kun sanotaan まえに vs. あとで?
 
 #flashcards/grammar/n4/vertailu
 
-Vた形あとで／Nのあとで (similar/compare) :: Vまえに (ennen)
-Vた形あとで／Nのあとで (similar) :: Vてから、V2 (jälkeen)
+Vた形あとで／Nのあとで (sen jalkeen kun) (similar/compare) ::: Vまえに (ennen) (similar/compare)
+Vた形あとで／Nのあとで (sen jalkeen kun) (similar) ::: Vてから、V2 (jälkeen) (similar)

@@ -102,5 +102,5 @@ Miten 普通形んです eroaa S1から、S2-syylauseesta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形んです (similar) :: S1から、S2 (syy)
-普通形んです (similar/compare) :: 普通形の？ (puhekielinen selittava kysymys)
+普通形んです (selittävä sävy) (similar) ::: S1から、S2 (syy) (similar)
+普通形んです (selittävä sävy) (similar/compare) ::: 普通形の？ (puhekielinen selittava kysymys) (similar/compare)

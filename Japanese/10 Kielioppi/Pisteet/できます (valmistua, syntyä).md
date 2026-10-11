@@ -88,4 +88,4 @@ Jos aihe on rakennus/tapahtuma/asia, joka ilmestyy, kyse on 'valmistua, syntyä'
 
 #flashcards/grammar/n4/vertailu
 
-Nができます（valmistua） (compare) :: Potentiaali える
+Nができます（valmistua） (valmistua, syntyä) (compare) ::: Potentiaali える (compare)

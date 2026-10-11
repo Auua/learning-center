@@ -80,5 +80,5 @@ Miten ～と同時に eroaa ～とともに:sta?
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋と同時に (similar) :: V(-ます)ながら (samalla kun)
-N／普通形＋と同時に (similar/compare) :: ～とともに (yhdessa, samalla)
+N／普通形＋と同時に (samaan aikaan kuin) (similar) ::: V(-ます)ながら (samalla kun) (similar)
+N／普通形＋と同時に (samaan aikaan kuin) (similar/compare) ::: ～とともに (yhdessa, samalla) (similar/compare)

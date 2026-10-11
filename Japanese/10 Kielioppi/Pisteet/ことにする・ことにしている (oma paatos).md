@@ -78,4 +78,4 @@ Miten ことにする eroaa rakenteesta ことになる?
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形／ないことにする・ことにしている (similar/compare) :: ことになる・ことになっている (ulkopuolinen paatos)
+V辞書形／ないことにする・ことにしている (oma paatos) (similar/compare) ::: ことになる・ことになっている (ulkopuolinen paatos) (similar/compare)

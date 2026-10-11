@@ -123,3 +123,15 @@ views:
     sort:
       - property: confidence
         direction: ASC
+  - type: table
+    name: JLPT N3
+    filters:
+      and:
+        - jlpt.containsAny("N3", "N4", "N5", "N5–N3")
+        - status == "new"
+    groupBy:
+      property: type
+      direction: ASC
+    sort:
+      - property: jlpt
+        direction: DESC

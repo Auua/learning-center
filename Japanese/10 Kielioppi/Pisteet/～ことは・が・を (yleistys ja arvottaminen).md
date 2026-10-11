@@ -80,5 +80,5 @@ Konkreettinen/havaittu, oma kokemus → の (絵をかくのは楽しいです);
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形ことは／が／を (similar/compare) :: Vのは・Vのが・Vのを (nominalisointi)
-V辞書形ことは／が／を (similar/compare) :: 普通形ということを (raportoitu vaite objektina)
+V辞書形ことは／が／を (yleistys ja arvottaminen) (similar/compare) ::: Vのは・Vのが・Vのを (nominalisointi) (similar/compare)
+V辞書形ことは／が／を (yleistys ja arvottaminen) (similar/compare) ::: 普通形ということを (raportoitu vaite objektina) (similar/compare)

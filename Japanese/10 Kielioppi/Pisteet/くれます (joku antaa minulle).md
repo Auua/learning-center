@@ -90,4 +90,4 @@ Kumpi: あげる, くれる vai もらう, kun toinen antaa minulle?
 
 #flashcards/grammar/n5/vertailu
 
-くれます (similar) :: N (人) に あげます・もらいます
+くれます (joku antaa minulle) (similar) ::: N (人) に あげます・もらいます (similar)

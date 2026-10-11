@@ -72,5 +72,5 @@ Niissä そう/よう on predikaattiin liittyvä pääte (kuulopuhe/päättely);
 
 #flashcards/grammar/n2/vertailu
 
-（普通形）そうであったように・誰でもそうだが (similar/compare) :: 普通形そうです (kuulopuhe)
-（普通形）そうであったように・誰でもそうだが (similar) :: 普通形ようです (havaintoon perustuva paattely)
+（普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
+（普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) (similar) ::: 普通形ようです (havaintoon perustuva paattely) (similar)

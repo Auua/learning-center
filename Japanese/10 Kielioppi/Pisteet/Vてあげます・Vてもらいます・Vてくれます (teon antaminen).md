@@ -87,5 +87,5 @@ Kumpi: ましょうか vai てあげましょうか, kun tarjoudut auttamaan tun
 
 #flashcards/grammar/n5/vertailu
 
-Vてあげます／Vてもらいます／Vてくれます (similar) :: N (人) に あげます・もらいます
-Vてあげます／Vてもらいます／Vてくれます (similar) :: くれます (joku antaa minulle)
+Vてあげます／Vてもらいます／Vてくれます (teon antaminen) (similar) ::: N (人) に あげます・もらいます (similar)
+Vてあげます／Vてもらいます／Vてくれます (teon antaminen) (similar) ::: くれます (joku antaa minulle) (similar)

@@ -96,4 +96,4 @@ Miten S1が、S2 eroaa 普通形のに (vaikka, pettymys) -rakenteesta?
 
 #flashcards/grammar/n5/vertailu
 
-S1が、S2 (similar/compare) :: 普通形のに (vaikka, pettymys)
+S1が、S2 (mutta) (similar/compare) ::: 普通形のに (vaikka, pettymys) (similar/compare)

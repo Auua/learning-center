@@ -88,4 +88,4 @@ Mikä on Vてもいいです:n muodollisempi synonyymi?
 
 #flashcards/grammar/n5/vertailu
 
-Vてもいいです／Vてはいけません (similar/compare) :: ～てもかまいません (saa tehdä, ei haittaa)
+Vてもいいです／Vてはいけません (lupa ja kielto) (similar/compare) ::: ～てもかまいません (saa tehdä, ei haittaa) (similar/compare)

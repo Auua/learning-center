@@ -79,4 +79,4 @@ Mikä on täydempi kielteinen vastaus kuin まだです?
 
 #flashcards/grammar/n5/vertailu
 
-もうVました／まだです (similar/compare) :: まだ～ていません (ei ole vielä tehty)
+もうVました／まだです (jo tehty, ei vielä) (similar/compare) ::: まだ～ていません (ei ole vielä tehty) (similar/compare)

@@ -67,4 +67,4 @@ Kumpi: として vai としては: 先生＿＿話す vs. お土産＿＿、ク�
 
 #flashcards/grammar/n2/vertailu
 
-N＋としては (similar/compare) :: ～として (roolissa, ominaisuudessa)
+N＋としては (nakokulmasta katsottuna) (similar/compare) ::: ～として (roolissa, ominaisuudessa) (similar/compare)

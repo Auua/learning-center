@@ -104,6 +104,6 @@ Miten ～のはNです eroaa aiheeksi nostamisesta は:lla?
 
 #flashcards/grammar/n4/vertailu
 
-…のは N です (similar) :: Vのは・Vのが・Vのを (nominalisointi)
-…のは N です (similar/compare) :: ～のは～からだ (syy predikaattina)
-…のは N です (similar) :: N（objekti）は (aiheeksi nostaminen)
+…のは N です (korostusrakenne, cleft) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
+…のは N です (korostusrakenne, cleft) (similar/compare) ::: ～のは～からだ (syy predikaattina) (similar/compare)
+…のは N です (korostusrakenne, cleft) (similar) ::: N（objekti）は (aiheeksi nostaminen) (similar)

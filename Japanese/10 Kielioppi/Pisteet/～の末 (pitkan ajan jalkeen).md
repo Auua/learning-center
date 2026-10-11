@@ -64,4 +64,4 @@ Mitkä adverbit liittyvät usein ～の末-lauseeseen?
 
 #flashcards/grammar/n2/vertailu
 
-N（期間）＋の末（に）・Vた末（に） (similar) :: Vてはじめて (vasta silloin kun)
+N（期間）＋の末（に）・Vた末（に） (pitkan ajan jalkeen) (similar) ::: Vてはじめて (vasta silloin kun) (similar)

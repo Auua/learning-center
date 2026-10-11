@@ -103,7 +103,7 @@ Miten つもりだった eroaa Vようとする-rakenteesta?
 
 #flashcards/grammar/n4/vertailu
 
-V(普通形)つもりです (similar) :: Vようと思っています (harkittu aikomus)
-V(普通形)つもりです (similar) :: V予定です (aikataulutettu suunnitelma)
-V(普通形)つもりです (similar/compare) :: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)
-V(普通形)つもりです (compare) :: Vertailu — ようと思う vs. つもり vs. 予定
+V(普通形)つもりです (paatetty aikomus) (similar) ::: Vようと思っています (harkittu aikomus) (similar)
+V(普通形)つもりです (paatetty aikomus) (similar) ::: V予定です (aikataulutettu suunnitelma) (similar)
+V(普通形)つもりです (paatetty aikomus) (similar/compare) ::: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) (similar/compare)
+V(普通形)つもりです (paatetty aikomus) (compare) ::: Vertailu — ようと思う vs. つもり vs. 予定 (compare)

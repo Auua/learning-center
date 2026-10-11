@@ -72,4 +72,4 @@ Miten N に及ぶ eroaa ～にわたって:sta?
 
 #flashcards/grammar/n1/vertailu
 
-N（laajuus）＋に及ぶ・にまで及ぶ (similar/compare) :: ～に［も］わたって (koko ajan・alueen)
+N（laajuus）＋に及ぶ・にまで及ぶ (ulottua, nousta jopa) (similar/compare) ::: ～に［も］わたって (koko ajan・alueen) (similar/compare)

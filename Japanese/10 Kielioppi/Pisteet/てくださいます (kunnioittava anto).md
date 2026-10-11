@@ -84,5 +84,5 @@ Miten てくださる eroaa ていただく:sta, vaikka tapahtuma on sama?
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form くださいます (similar) :: Vてあげます・Vてもらいます・Vてくれます (teon antaminen)
-Vて-form くださいます (similar/compare) :: ご～いただく (kohtelias pyyntö, kiitollisuus)
+Vて-form くださいます (kunnioittava anto) (similar) ::: Vてあげます・Vてもらいます・Vてくれます (teon antaminen) (similar)
+Vて-form くださいます (kunnioittava anto) (similar/compare) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar/compare)

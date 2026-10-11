@@ -84,4 +84,4 @@ Miten 泳げませんでした ja 泳げなくなりました eroavat?
 
 #flashcards/grammar/n4/vertailu
 
-V(potentiaali/普通形)ようになります (similar) :: Vように (jotta, niin etta)
+V(potentiaali/普通形)ようになります (kyvyn tai tilan muutos) (similar) ::: Vように (jotta, niin etta) (similar)

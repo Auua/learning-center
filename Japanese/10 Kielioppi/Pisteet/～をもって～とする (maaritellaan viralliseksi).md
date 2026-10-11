@@ -62,4 +62,4 @@ N toimii virallisena perustana tai kriteerinä, jolle status tai päätös raken
 
 #flashcards/grammar/n1/vertailu
 
-N＋をもって＋N2とする (similar) :: ～を通して (jonkin kautta)
+N＋をもって＋N2とする (maaritellaan viralliseksi) (similar) ::: ～を通して (jonkin kautta) (similar)

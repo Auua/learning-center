@@ -76,6 +76,6 @@ Miten 普通形とか eroaa muodosta 普通形んだって？?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋とか (similar) :: 普通形そうです (kuulopuhe)
-普通形＋とか (similar) :: 普通形んだって？ (puhekielinen kuulopuhe)
-普通形＋とか (compare) :: ～とか～とか (epamuodollinen esimerkkilista)
+普通形＋とか (puhekielinen kuulopuhe, epavarma) (similar) ::: 普通形そうです (kuulopuhe) (similar)
+普通形＋とか (puhekielinen kuulopuhe, epavarma) (similar) ::: 普通形んだって？ (puhekielinen kuulopuhe) (similar)
+普通形＋とか (puhekielinen kuulopuhe, epavarma) (compare) ::: ～とか～とか (epamuodollinen esimerkkilista) (compare)

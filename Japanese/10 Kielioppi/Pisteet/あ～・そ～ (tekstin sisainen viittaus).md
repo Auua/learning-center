@@ -78,4 +78,4 @@ Ei; valinta perustuu siihen, tunteeko kuulija asian jo (あ) vai kuuleeko siitä
 
 #flashcards/grammar/n3/vertailu
 
-あ～・そ～（文脈指示） (similar/compare) :: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)
+あ～・そ～（文脈指示） (tekstin sisainen viittaus) (similar/compare) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar/compare)

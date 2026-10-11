@@ -75,4 +75,4 @@ Tyypillisyys-らしい liittyy suoraan substantiiviin (学生らしい服); kuul
 
 #flashcards/grammar/n3/vertailu
 
-Nらしい〜・Nらしくない (similar/compare) :: 普通形らしい (kuulopuhe, paattely)
+Nらしい〜・Nらしくない (tyypillisyys) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)

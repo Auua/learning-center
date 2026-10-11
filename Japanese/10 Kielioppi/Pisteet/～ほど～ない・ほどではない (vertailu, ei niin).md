@@ -79,4 +79,4 @@ Sama vertailu eri suunnasta: より toteaa suoran eron (AはBより高い); ほ�
 
 #flashcards/grammar/n3/vertailu
 
-N/Vほど〜ない・ほどではない (similar/compare) :: N1はN2より (vertailu)
+N/Vほど〜ない・ほどではない (vertailu, ei niin) (similar/compare) ::: N1はN2より (vertailu) (similar/compare)

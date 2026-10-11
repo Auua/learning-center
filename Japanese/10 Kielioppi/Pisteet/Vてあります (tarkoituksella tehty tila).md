@@ -93,5 +93,5 @@ Miten 他動詞Vてあります eroaa muodosta 自動詞＋ている?
 
 #flashcards/grammar/n4/vertailu
 
-他動詞Vて-form あります (similar/compare) :: 自動詞＋ている (jaljelle jaanyt tila)
-他動詞Vて-form あります (similar) :: ～ている (parhaillaan, tilan tulos)
+他動詞Vて-form あります (tarkoituksella tehty tila) (similar/compare) ::: 自動詞＋ている (jaljelle jaanyt tila) (similar/compare)
+他動詞Vて-form あります (tarkoituksella tehty tila) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)

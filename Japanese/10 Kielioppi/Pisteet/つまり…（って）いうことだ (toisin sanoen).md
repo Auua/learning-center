@@ -68,4 +68,4 @@ Puhekielinen supistuma.
 
 #flashcards/grammar/n3/vertailu
 
-つまり、普通形＋（って）いうことだ (similar) :: 普通形ということを (raportoitu vaite objektina)
+つまり、普通形＋（って）いうことだ (toisin sanoen) (similar) ::: 普通形ということを (raportoitu vaite objektina) (similar)

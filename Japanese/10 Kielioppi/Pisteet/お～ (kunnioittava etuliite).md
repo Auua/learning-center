@@ -81,5 +81,5 @@ Ne käyttävät samaa お:ta, mutta rakentavat sen ympärille kokonaisen verbimu
 
 #flashcards/grammar/n5/vertailu
 
-お～ (similar) :: お～になる (kunnioittava toisen teko)
-お～ (similar) :: お～する (nöyrä oma teko)
+お～ (kunnioittava etuliite) (similar) ::: お～になる (kunnioittava toisen teko) (similar)
+お～ (kunnioittava etuliite) (similar) ::: お～する (nöyrä oma teko) (similar)

@@ -74,5 +74,5 @@ Miten ざる eroaa ず:sta (Vざる～ vs. ～ず)?
 
 #flashcards/grammar/n1/vertailu
 
-V(ない-vartalo)＋ざる＋N (similar) :: Vざるを得ない (on pakko)
-V(ない-vartalo)＋ざる＋N (similar/compare) :: ～ず［に］・～ず (kirjallinen kielto)
+V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) (similar) ::: Vざるを得ない (on pakko) (similar)
+V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)

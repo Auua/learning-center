@@ -77,5 +77,5 @@ Miten のではないだろうか eroaa んじゃない？:stä?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋の（ん）ではないだろうか (similar/compare) :: 普通形んじゃない？ (pehmea arvaus)
-普通形＋の（ん）ではないだろうか (similar) :: 普通形でしょう (todennakoisyys)
+普通形＋の（ん）ではないだろうか (varovainen oletus) (similar/compare) ::: 普通形んじゃない？ (pehmea arvaus) (similar/compare)
+普通形＋の（ん）ではないだろうか (varovainen oletus) (similar) ::: 普通形でしょう (todennakoisyys) (similar)

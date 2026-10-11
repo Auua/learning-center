@@ -94,4 +94,4 @@ Miten kuuden asteadverbin asteikko eroaa parista とても・あまり?
 
 #flashcards/grammar/n5/vertailu
 
-よく／だいたい／たくさん／少し／あまり／全然 (similar) :: とても・あまり (hyvin, ei kovin)
+よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: とても・あまり (hyvin, ei kovin) (similar)

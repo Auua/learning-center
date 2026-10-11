@@ -77,6 +77,6 @@ Ei, se on kohteliaisuuskonventio, joka antaa kuulijalle näennäisesti helpomman
 
 #flashcards/grammar/n3/vertailu
 
-〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (similar) :: Vてあげます・Vてもらいます・Vてくれます (teon antaminen)
-〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (similar/compare) :: ご～いただく (kohtelias pyyntö, kiitollisuus)
-〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (similar/compare) :: させてもらえませんか family (kausatiivinen kohtelias pyynto)
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar) ::: Vてあげます・Vてもらいます・Vてくれます (teon antaminen) (similar)
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar/compare)
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: させてもらえませんか family (kausatiivinen kohtelias pyynto) (similar/compare)

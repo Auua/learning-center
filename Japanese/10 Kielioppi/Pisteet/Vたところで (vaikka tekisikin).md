@@ -71,5 +71,5 @@ Miten kolme ところ-rakennetta (たところに・で / たところ、 / た�
 
 #flashcards/grammar/n2/vertailu
 
-V(た形)＋ところで（＋kielteinen/tyhja seuraus） (similar/compare) :: Vたところ、 (kavi ilmi etta)
-V(た形)＋ところで（＋kielteinen/tyhja seuraus） (similar) :: Vたところに・で (juuri siina kohdassa)
+V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) (similar/compare) ::: Vたところ、 (kavi ilmi etta) (similar/compare)
+V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) (similar) ::: Vたところに・で (juuri siina kohdassa) (similar)

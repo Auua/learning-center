@@ -114,7 +114,7 @@ Molemmat kääntyvät helposti 'ei tarvitse/ei voi', mutta はずがない koske
 
 #flashcards/grammar/n3/vertailu
 
-普通形はずがない／はずはない／はずだった (similar/compare) :: 普通形はずです (varma odotus)
-普通形はずがない／はずはない／はずだった (similar) :: 普通形に違いない (varmasti on niin)
-普通形はずがない／はずはない／はずだった (similar) :: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)
-普通形はずがない／はずはない／はずだった (similar) :: 普通形わけではない (ei tarkoita etta aina)
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar) ::: 普通形に違いない (varmasti on niin) (similar)
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar) ::: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) (similar)
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar) ::: 普通形わけではない (ei tarkoita etta aina) (similar)

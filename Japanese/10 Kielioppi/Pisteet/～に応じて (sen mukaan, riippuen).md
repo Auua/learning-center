@@ -71,4 +71,4 @@ Miten N に応じて eroaa N によって (vaihtelu) -rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-N＋に応じて (similar/compare) :: ～によって (riippuen, vaihtelu)
+N＋に応じて (sen mukaan, riippuen) (similar/compare) ::: ～によって (riippuen, vaihtelu) (similar/compare)

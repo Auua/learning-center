@@ -83,4 +83,4 @@ Kumpi: わけだ vai はずです, kun tehdään johtopäätös jo kerrotusta to
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋わけだ／わけである (similar/compare) :: 普通形はずです (varma odotus)
+普通形＋わけだ／わけである (johtopaatos, siis) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)

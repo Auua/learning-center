@@ -96,7 +96,7 @@ Miten 富士山が見える eroaa 富士山が見られる:stä?
 
 #flashcards/grammar/n4/vertailu
 
-Nが見えます／Nが聞こえます (similar) :: Potentiaali える
-Nが見えます／Nが聞こえます (similar) :: できます (valmistua, syntyä)
-Nが見えます／Nが聞こえます (similar) :: 自動詞＋ている (jaljelle jaanyt tila)
-Nが見えます／Nが聞こえます (compare) :: Vertailu — Potentiaali vs. spontaani aisti
+Nが見えます／Nが聞こえます (spontaani aisti) (similar) ::: Potentiaali える (similar)
+Nが見えます／Nが聞こえます (spontaani aisti) (similar) ::: できます (valmistua, syntyä) (similar)
+Nが見えます／Nが聞こえます (spontaani aisti) (similar) ::: 自動詞＋ている (jaljelle jaanyt tila) (similar)
+Nが見えます／Nが聞こえます (spontaani aisti) (compare) ::: Vertailu — Potentiaali vs. spontaani aisti (compare)

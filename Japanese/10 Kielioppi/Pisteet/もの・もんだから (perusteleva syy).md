@@ -82,6 +82,6 @@ Miten もの・もんだから eroaa tavallisesta から-syystä?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋もの／もんだから (similar/compare) :: S1から、S2 (syy)
-普通形＋もの／もんだから (similar) :: 普通形ので (pehmea syy)
-普通形＋もの／もんだから (similar/compare) :: だって～もん (puhekielinen perustelu)
+普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
+普通形＋もの／もんだから (perusteleva syy) (similar) ::: 普通形ので (pehmea syy) (similar)
+普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: だって～もん (puhekielinen perustelu) (similar/compare)

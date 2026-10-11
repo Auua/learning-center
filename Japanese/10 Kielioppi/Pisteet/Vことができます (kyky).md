@@ -84,5 +84,5 @@ Ei ole: molemmat tarkoittavat samaa kykyä. Jälkimmäinen on muodollisempi ja p
 
 #flashcards/grammar/n5/vertailu
 
-N／Vdictionary form ことができます (similar) :: Potentiaali える
-N／Vdictionary form ことができます (similar/compare) :: Vこと (nominalisointi, abstrakti tekeminen)
+N／Vdictionary form ことができます (kyky) (similar) ::: Potentiaali える (similar)
+N／Vdictionary form ことができます (kyky) (similar/compare) ::: Vこと (nominalisointi, abstrakti tekeminen) (similar/compare)

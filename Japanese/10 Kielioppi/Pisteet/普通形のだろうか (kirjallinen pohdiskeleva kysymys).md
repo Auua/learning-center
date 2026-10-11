@@ -78,4 +78,4 @@ Se ei odota vastausta kuulijalta/lukijalta vaan on retorinen pohdiskelun väline
 
 #flashcards/grammar/n3/vertailu
 
-普通形のだろうか (similar) :: 普通形んです (selittävä sävy)
+普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar) ::: 普通形んです (selittävä sävy) (similar)

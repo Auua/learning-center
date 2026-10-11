@@ -78,5 +78,5 @@ Miten ということを eroaa muodosta 普通形という～ (raportoitu sisäl
 
 #flashcards/grammar/n3/vertailu
 
-普通形ということを／こと (similar/compare) :: ～ことは・が・を (yleistys ja arvottaminen)
-普通形ということを／こと (similar) :: 普通形という～ (raportoitu sisalto)
+普通形ということを／こと (raportoitu vaite objektina) (similar/compare) ::: ～ことは・が・を (yleistys ja arvottaminen) (similar/compare)
+普通形ということを／こと (raportoitu vaite objektina) (similar) ::: 普通形という～ (raportoitu sisalto) (similar)

@@ -78,5 +78,5 @@ Miten ばかり + ている eroaa だけ-rajauksesta?
 
 #flashcards/grammar/n3/vertailu
 
-V(て-form)ばかりいる・Nばかり V(ている) (similar) :: Maara だけ・Nだけ
-V(て-form)ばかりいる・Nばかり V(ている) (similar) :: Nしか Vません (vain, pelkastaan)
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: Maara だけ・Nだけ (similar)
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: Nしか Vません (vain, pelkastaan) (similar)

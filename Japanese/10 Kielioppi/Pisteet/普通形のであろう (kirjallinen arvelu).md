@@ -72,4 +72,4 @@ Miten 普通形のであろう eroaa 普通形でしょう:sta?
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋のであろう (similar/compare) :: 普通形でしょう (todennakoisyys)
+普通形＋のであろう (kirjallinen arvelu) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)

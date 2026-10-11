@@ -79,6 +79,6 @@ Tulevaisuuteen suuntautuva tahdonalainen tavoite → tarkoitus-ために (店を
 
 #flashcards/grammar/n3/vertailu
 
-普通形ため（に）／ためだ（原因・理由） (similar/compare) :: Vために・Nのために (tarkoitusta varten)
-普通形ため（に）／ためだ（原因・理由） (similar) :: S1から、S2 (syy)
-普通形ため（に）／ためだ（原因・理由） (similar) :: 〜ので (pehmea syy)
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar/compare) ::: Vために・Nのために (tarkoitusta varten) (similar/compare)
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar) ::: S1から、S2 (syy) (similar)
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar) ::: 〜ので (pehmea syy) (similar)

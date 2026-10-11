@@ -108,11 +108,11 @@ Miten Vの (nominalisointi) eroaa muodosta Vことができます?
 
 #flashcards/grammar/n4/vertailu
 
-V辞書形＋の (similar/compare) :: Vこと (nominalisointi, abstrakti tekeminen)
-V辞書形＋の (similar) :: ます-vartalo substantiivina (連用形名詞)
-V辞書形＋の (similar) :: Vことができます (kyky)
-V辞書形＋の (similar) :: Vたことがあります (kokemus)
-V辞書形＋の (similar/compare) :: ～ことは・が・を (yleistys ja arvottaminen)
-V辞書形＋の (similar/compare) :: ～のは Nです (korostusrakenne, cleft)
-V辞書形＋の (similar) :: ～のは～からだ (syy predikaattina)
-V辞書形＋の (compare) :: Vertailu — の vs. こと (nominalisointi)
+V辞書形＋の (nominalisointi) (similar/compare) ::: Vこと (nominalisointi, abstrakti tekeminen) (similar/compare)
+V辞書形＋の (nominalisointi) (similar) ::: ます-vartalo substantiivina (連用形名詞) (similar)
+V辞書形＋の (nominalisointi) (similar) ::: Vことができます (kyky) (similar)
+V辞書形＋の (nominalisointi) (similar) ::: Vたことがあります (kokemus) (similar)
+V辞書形＋の (nominalisointi) (similar/compare) ::: ～ことは・が・を (yleistys ja arvottaminen) (similar/compare)
+V辞書形＋の (nominalisointi) (similar/compare) ::: ～のは Nです (korostusrakenne, cleft) (similar/compare)
+V辞書形＋の (nominalisointi) (similar) ::: ～のは～からだ (syy predikaattina) (similar)
+V辞書形＋の (nominalisointi) (compare) ::: Vertailu — の vs. こと (nominalisointi) (compare)

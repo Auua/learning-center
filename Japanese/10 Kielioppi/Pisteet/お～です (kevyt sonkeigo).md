@@ -77,5 +77,5 @@ Miten お～です eroaa kaavasta お～になる (molemmat 尊敬語)?
 
 #flashcards/grammar/n3/vertailu
 
-お＋（ます-vartalo）＋です (similar/compare) :: お～になる (kunnioittava toisen teko)
-お＋（ます-vartalo）＋です (compare) :: Keigo — kartta
+お＋（ます-vartalo）＋です (kevyt sonkeigo) (similar/compare) ::: お～になる (kunnioittava toisen teko) (similar/compare)
+お＋（ます-vartalo）＋です (kevyt sonkeigo) (compare) ::: Keigo — kartta (compare)

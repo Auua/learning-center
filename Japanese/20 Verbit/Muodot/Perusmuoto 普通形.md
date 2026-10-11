@@ -1,15 +1,22 @@
 ---
 type: form
 ja: 普通形
-name: "Perusmuoto 普通形"
+name: Perusmuoto 普通形
 base: 辞書形・ない形・た形・なかった形
-func: [perusmuoto, ei-kohtelias, puhekieli, liitosmuoto]
+func:
+  - perusmuoto
+  - ei-kohtelias
+  - puhekieli
+  - liitosmuoto
 jlpt: N4
-sources: ["[[Minna no Nihongo I#Luku 20]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo I#Luku 20]]"
+status: known
+confidence: 4
 created: 2026-10-11
-tags: [form, jlpt/n4]
+tags:
+  - form
+  - jlpt/n4
 ---
 
 > [!abstract] Mihin tätä tarvitaan

@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "普通形かどうか"
+ja: 普通形かどうか
 reading: ka dou ka
 jlpt: N4
-func: [epasuora-kysymys, epavarmuus]
-attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
+func:
+  - epasuora-kysymys
+  - epavarmuus
+attaches:
+  - "[[普通形 (puhekielinen perusmuoto)]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[疑問詞＋か (upotettu kysymys)]]"]
-compare: ["[[疑問詞＋か (upotettu kysymys)]]"]
-sources: ["[[Minna no Nihongo II#Luku 40]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[疑問詞＋か (upotettu kysymys)]]"
+compare:
+  - "[[疑問詞＋か (upotettu kysymys)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 40]]"
+status: shaky
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -77,4 +87,4 @@ Pelkkä か (疑問詞＋か); かどうか on kyllä/ei-kysymyksille.
 
 #flashcards/grammar/n4/vertailu
 
-普通形かどうか (similar/compare) :: 疑問詞＋か (upotettu kysymys)
+普通形かどうか (jompikumpi, epavarmuus) (similar/compare) ::: 疑問詞＋か (upotettu kysymys) (similar/compare)

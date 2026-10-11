@@ -63,5 +63,5 @@ Miten よね eroaa pelkästä よ:sta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形＋よね (similar) :: Sよ (uuden tiedon korostus)
-普通形＋よね (similar) :: Sね (vahvistus, eikö niin)
+普通形＋よね (varmistava loppupartikkeli) (similar) ::: Sよ (uuden tiedon korostus) (similar)
+普通形＋よね (varmistava loppupartikkeli) (similar) ::: Sね (vahvistus, eikö niin) (similar)

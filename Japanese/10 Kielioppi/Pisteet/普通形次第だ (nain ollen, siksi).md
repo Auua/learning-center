@@ -62,4 +62,4 @@ Mitä でございます lisää 次第です:hen?
 
 #flashcards/grammar/n1/vertailu
 
-普通形（た形）＋次第だ・次第でございます (similar) :: 普通形んです (selittävä sävy)
+普通形（た形）＋次第だ・次第でございます (nain ollen, siksi) (similar) ::: 普通形んです (selittävä sävy) (similar)

@@ -62,4 +62,4 @@ Pysyvää tilaa, joka jatkuu niin kauan kuin ehto ei täyty; ei kertaluontoista 
 
 #flashcards/grammar/n2/vertailu
 
-V(ない形)＋かぎり（は） (similar) :: ～ば (jos, ehto)
+V(ない形)＋かぎり（は） (ellei, niin kauan kuin ei) (similar) ::: ～ば (jos, ehto) (similar)

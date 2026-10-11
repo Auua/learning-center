@@ -66,4 +66,4 @@ Kumpi on yleiskielisempi: ばかりでなく vai だけでなく?
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋ばかりでなく（〜も） (similar/compare) :: ～だけでなく (ei pelkastaan vaan myos)
+N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) (similar/compare) ::: ～だけでなく (ei pelkastaan vaan myos) (similar/compare)

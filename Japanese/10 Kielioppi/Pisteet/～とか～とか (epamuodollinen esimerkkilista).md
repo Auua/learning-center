@@ -77,4 +77,4 @@ Miten とか～とか eroaa や…など-luettelosta?
 
 #flashcards/grammar/n3/vertailu
 
-N/普通形とか、N/普通形とか（…すればいい） (similar/compare) :: 普通形とか (puhekielinen kuulopuhe, epavarma)
+N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) (similar/compare) ::: 普通形とか (puhekielinen kuulopuhe, epavarma) (similar/compare)

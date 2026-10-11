@@ -97,8 +97,8 @@ Miten 普通形そうです eroaa muodosta 普通形ようです?
 
 #flashcards/grammar/n4/vertailu
 
-普通形そうです（伝聞） (similar) :: そうです (niin on)
-普通形そうです（伝聞） (similar/compare) :: V・adjそうです (ulkonaon perusteella)
-普通形そうです（伝聞） (similar/compare) :: 普通形ようです (havaintoon perustuva paattely)
-普通形そうです（伝聞） (similar/compare) :: 普通形ということだ (muodollinen kuulopuhe, vahvistus)
-普通形そうです（伝聞） (similar/compare) :: 普通形らしい (kuulopuhe, paattely)
+普通形そうです（伝聞） (kuulopuhe) (similar) ::: そうです (niin on) (similar)
+普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: V・adjそうです (ulkonaon perusteella) (similar/compare)
+普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
+普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare)
+普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)

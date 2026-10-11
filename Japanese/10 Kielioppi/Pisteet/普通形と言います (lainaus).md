@@ -77,5 +77,5 @@ Rakenne on sama, mutta と言います lainaa jonkun sanoman, と思います il
 
 #flashcards/grammar/n5/vertailu
 
-「S」と言います／普通形と言いました (similar) :: 普通形と思います (mielipide)
-「S」と言います／普通形と言いました (similar/compare) :: ～と言っていました・～と伝える (välitetty viesti)
+「S」と言います／普通形と言いました (lainaus) (similar) ::: 普通形と思います (mielipide) (similar)
+「S」と言います／普通形と言いました (lainaus) (similar/compare) ::: ～と言っていました・～と伝える (välitetty viesti) (similar/compare)

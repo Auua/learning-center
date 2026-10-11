@@ -84,5 +84,5 @@ Kumpi: ように言う vai suora lainaus 「〜しなさい」と言う, kun ker
 
 #flashcards/grammar/n3/vertailu
 
-V(辞書形/ない形)ように言う／注意する／伝える／頼む (similar/compare) :: 普通形と言います (lainaus)
-V(辞書形/ない形)ように言う／注意する／伝える／頼む (similar) :: Vように (jotta, niin etta)
+V(辞書形/ない形)ように言う／注意する／伝える／頼む (epasuora kehotus) (similar/compare) ::: 普通形と言います (lainaus) (similar/compare)
+V(辞書形/ない形)ように言う／注意する／伝える／頼む (epasuora kehotus) (similar) ::: Vように (jotta, niin etta) (similar)

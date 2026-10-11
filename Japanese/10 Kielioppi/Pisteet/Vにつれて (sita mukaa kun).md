@@ -72,4 +72,4 @@ Miten Vにつれて eroaa muodosta Vば〜ほど?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Nの＋につれて (similar/compare) :: Vば〜ほど (mita enemman, sita)
+V辞書形／Nの＋につれて (sita mukaa kun) (similar/compare) ::: Vば〜ほど (mita enemman, sita) (similar/compare)

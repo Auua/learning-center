@@ -84,4 +84,4 @@ Miten 引っ越すことになりました eroaa lauseesta 引っ越すことに
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形／ないことになる・ことになっている (similar/compare) :: ことにする・ことにしている (oma paatos)
+V辞書形／ないことになる・ことになっている (ulkopuolinen paatos) (similar/compare) ::: ことにする・ことにしている (oma paatos) (similar/compare)

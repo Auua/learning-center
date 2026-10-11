@@ -72,5 +72,5 @@ Miten といえども eroaa たとえ～ても:stä?
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋といえども (similar/compare) :: たとえ～ても (vaikka kuinka)
-N／普通形＋といえども (similar) :: 普通形にもかかわらず (siita huolimatta etta)
+N／普通形＋といえども (vaikka onkin, muodollinen) (similar/compare) ::: たとえ～ても (vaikka kuinka) (similar/compare)
+N／普通形＋といえども (vaikka onkin, muodollinen) (similar) ::: 普通形にもかかわらず (siita huolimatta etta) (similar)

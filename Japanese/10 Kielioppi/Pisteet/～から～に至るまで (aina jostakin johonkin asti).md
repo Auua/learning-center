@@ -71,4 +71,4 @@ Kumpi: から〜にかけて vai から〜に至るまで, kun halutaan korostaa
 
 #flashcards/grammar/n1/vertailu
 
-N1から　N2に至るまで (similar/compare) :: ～から～にかけて (jostakin johonkin, vali)
+N1から　N2に至るまで (aina jostakin johonkin asti) (similar/compare) ::: ～から～にかけて (jostakin johonkin, vali) (similar/compare)

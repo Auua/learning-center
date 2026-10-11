@@ -104,5 +104,5 @@ Kuulopuhe-そうです liittyy koko 普通形-lauseeseen ja välittää ulkopuol
 
 #flashcards/grammar/n5/vertailu
 
-そうです／そうじゃありません (similar/compare) :: V・adjそうです (ulkonaon perusteella)
-そうです／そうじゃありません (similar/compare) :: 普通形そうです (kuulopuhe)
+そうです／そうじゃありません (niin on) (similar/compare) ::: V・adjそうです (ulkonaon perusteella) (similar/compare)
+そうです／そうじゃありません (niin on) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)

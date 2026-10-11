@@ -70,4 +70,4 @@ Samaan こそあど-sarjaan kuin これ/この, それ/その, あれ/あの, �
 
 #flashcards/grammar/n5/vertailu
 
-どうやって／どのN (similar) :: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)
+どうやって／どのN (miten, mikä näistä) (similar) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar)

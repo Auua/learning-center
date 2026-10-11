@@ -86,6 +86,6 @@ Erisnimi-という esittelee nimen (村上春樹という作家); lause-とい�
 
 #flashcards/grammar/n3/vertailu
 
-NをNと言う・Nという～ (similar) :: 普通形と言います (lainaus)
-NをNと言う・Nという～ (similar/compare) :: 普通形という～ (raportoitu sisalto)
-NをNと言う・Nという～ (similar/compare) :: ～というのは～のことだ・ということだ (maaritelma)
+NをNと言う・Nという～ (nimeaminen) (similar) ::: 普通形と言います (lainaus) (similar)
+NをNと言う・Nという～ (nimeaminen) (similar/compare) ::: 普通形という～ (raportoitu sisalto) (similar/compare)
+NをNと言う・Nという～ (nimeaminen) (similar/compare) ::: ～というのは～のことだ・ということだ (maaritelma) (similar/compare)

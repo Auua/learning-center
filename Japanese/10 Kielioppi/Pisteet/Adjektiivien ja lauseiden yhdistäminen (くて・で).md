@@ -88,4 +88,4 @@ Miten くて/で eroaa が:stä (S1が、S2) kahden asian yhdistämisessä?
 
 #flashcards/grammar/n5/vertailu
 
-い-adj（～くて）／な-adj・N（～で） (similar) :: S1が、S2 (mutta)
+い-adj（～くて）／な-adj・N（～で） (くて・で) (similar) ::: S1が、S2 (mutta) (similar)

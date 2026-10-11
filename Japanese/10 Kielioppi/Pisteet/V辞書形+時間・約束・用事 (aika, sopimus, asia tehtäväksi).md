@@ -58,4 +58,4 @@ V辞書形＋用事 + mitä tulee perään? :: V辞書形 + 用事がありま�
 
 #flashcards/grammar/n5/vertailu
 
-V辞書形＋時間／約束／用事 (similar) :: 関係節 (suhteellinen sivulause)
+V辞書形＋時間／約束／用事 (aika, sopimus, asia tehtäväksi) (similar) ::: 関係節 (suhteellinen sivulause) (similar)

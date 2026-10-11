@@ -82,5 +82,5 @@ Nimeämisessä という:n edellä on erisnimi; tässä sen edellä on kokonaine
 
 #flashcards/grammar/n3/vertailu
 
-普通形という～ (similar/compare) :: ～を～と言う・～という～ (nimeaminen)
-普通形という～ (similar) :: 普通形と言います (lainaus)
+普通形という～ (raportoitu sisalto) (similar/compare) ::: ～を～と言う・～という～ (nimeaminen) (similar/compare)
+普通形という～ (raportoitu sisalto) (similar) ::: 普通形と言います (lainaus) (similar)

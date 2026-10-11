@@ -81,4 +81,4 @@ Ratkaisee kysymyksen tyyppi: kysymyssanallinen (avoin) kysymys käyttää pelkk�
 
 #flashcards/grammar/n4/vertailu
 
-疑問詞＋普通形＋か (similar/compare) :: 〜かどうか (jompikumpi, epavarmuus)
+疑問詞＋普通形＋か (upotettu kysymys) (similar/compare) ::: 〜かどうか (jompikumpi, epavarmuus) (similar/compare)

@@ -81,5 +81,5 @@ Kumpi: と vai や［など］, kun luetellaan substantiiveja?
 
 #flashcards/grammar/n5/vertailu
 
-N1やN2［など］ (similar) :: N1とN2 (ja)
-N1やN2［など］ (similar/compare) :: ～とか～とか (epamuodollinen esimerkkilista)
+N1やN2［など］ (ja muun muassa, epätäydellinen lista) (similar) ::: N1とN2 (ja) (similar)
+N1やN2［など］ (ja muun muassa, epätäydellinen lista) (similar/compare) ::: ～とか～とか (epamuodollinen esimerkkilista) (similar/compare)

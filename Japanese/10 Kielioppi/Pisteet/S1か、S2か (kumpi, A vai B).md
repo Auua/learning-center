@@ -77,4 +77,4 @@ Peruskysymys (yksi väite + か) odottaa はい/いいえ-vastausta; S1か、S2�
 
 #flashcards/grammar/n5/vertailu
 
-S1か、S2か (similar) :: AはBです (A on B, peruslause)
+S1か、S2か (kumpi, A vai B) (similar) ::: AはBです (A on B, peruslause) (similar)

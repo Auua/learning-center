@@ -80,5 +80,5 @@ Rakenne on sama, mutta おかげで: myönteinen seuraus, kiitollisuus; せい�
 
 #flashcards/grammar/n3/vertailu
 
-普通形（な・の）＋おかげで／おかげだ (similar/compare) :: せいで・せいだ (kielteinen syy)
-普通形（な・の）＋おかげで／おかげだ (similar) :: S1から、S2 (syy)
+普通形（な・の）＋おかげで／おかげだ (myonteinen syy) (similar/compare) ::: せいで・せいだ (kielteinen syy) (similar/compare)
+普通形（な・の）＋おかげで／おかげだ (myonteinen syy) (similar) ::: S1から、S2 (syy) (similar)

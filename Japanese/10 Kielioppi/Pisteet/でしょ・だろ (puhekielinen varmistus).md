@@ -109,7 +109,7 @@ Miten でしょ eroaa partikkelista ね?
 
 #flashcards/grammar/n3/vertailu
 
-…でしょ／…だろ (similar/compare) :: 普通形でしょう？ (varmistus)
-…でしょ／…だろ (similar) :: Sね (vahvistus, eikö niin)
-…でしょ／…だろ (similar) :: ～ちゃう・～とく・～てる (puhekieliset supistumat)
-…でしょ／…だろ (similar) :: 普通形よね (varmistava loppupartikkeli)
+…でしょ／…だろ (puhekielinen varmistus) (similar/compare) ::: 普通形でしょう？ (varmistus) (similar/compare)
+…でしょ／…だろ (puhekielinen varmistus) (similar) ::: Sね (vahvistus, eikö niin) (similar)
+…でしょ／…だろ (puhekielinen varmistus) (similar) ::: ～ちゃう・～とく・～てる (puhekieliset supistumat) (similar)
+…でしょ／…だろ (puhekielinen varmistus) (similar) ::: 普通形よね (varmistava loppupartikkeli) (similar)

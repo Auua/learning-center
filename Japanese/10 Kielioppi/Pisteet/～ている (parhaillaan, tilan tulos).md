@@ -132,5 +132,5 @@ Kumpi: 住んでいた vai 住んでいる, kun halutaan sanoa 'asun nyt'?
 
 #flashcards/grammar/n5/vertailu
 
-～ている (similar) :: ～てある
-～ている (similar) :: ～ている (elämänhistoria, saavutukset)
+～ている (parhaillaan, tilan tulos) (similar) ::: ～てある (similar)
+～ている (parhaillaan, tilan tulos) (similar) ::: ～ている (elämänhistoria, saavutukset) (similar)

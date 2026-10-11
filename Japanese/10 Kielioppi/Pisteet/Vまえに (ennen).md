@@ -93,5 +93,5 @@ Kumpi: まえに vai あとで, kun verbi on 辞書形 vs. た形?
 
 #flashcards/grammar/n5/vertailu
 
-V辞書形まえに／Nのまえに／期間まえに (similar) :: Vてから、V2 (jälkeen)
-V辞書形まえに／Nのまえに／期間まえに (similar/compare) :: Vたあとで (sen jalkeen kun)
+V辞書形まえに／Nのまえに／期間まえに (ennen) (similar) ::: Vてから、V2 (jälkeen) (similar)
+V辞書形まえに／Nのまえに／期間まえに (ennen) (similar/compare) ::: Vたあとで (sen jalkeen kun) (similar/compare)

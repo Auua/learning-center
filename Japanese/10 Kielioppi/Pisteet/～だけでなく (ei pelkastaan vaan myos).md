@@ -64,5 +64,5 @@ Puhekielisempi supistuma.
 
 #flashcards/grammar/n3/vertailu
 
-N／普通形＋だけでなく（〜も） (similar) :: N1もN2も (molemmat)
-N／普通形＋だけでなく（〜も） (similar/compare) :: ～ばかりでなく (ei ainoastaan, vaan myos)
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar) ::: N1もN2も (molemmat) (similar)
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar/compare) ::: ～ばかりでなく (ei ainoastaan, vaan myos) (similar/compare)

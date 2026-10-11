@@ -1,14 +1,24 @@
 ---
 type: compare
 topic: の vs. こと (nominalisointi)
-members: ["[[Vのは・Vのが・Vのを (nominalisointi)]]", "[[Vこと (nominalisointi, abstrakti tekeminen)]]", "[[ます-vartalo substantiivina (連用形名詞)]]"]
-axis: [konkreettinen-abstrakti, havainto, predikaatti-です]
+members:
+  - "[[Vのは・Vのが・Vのを (nominalisointi)]]"
+  - "[[Vこと (nominalisointi, abstrakti tekeminen)]]"
+  - "[[ます-vartalo substantiivina (連用形名詞)]]"
+axis:
+  - konkreettinen-abstrakti
+  - havainto
+  - predikaatti-です
 jlpt: N4
-sources: ["[[Minna no Nihongo I#Luku 18]]", "[[Minna no Nihongo II#Luku 38]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo I#Luku 18]]"
+  - "[[Minna no Nihongo II#Luku 38]]"
+status: shaky
+confidence: 3
 created: 2026-10-11
-tags: [compare, jlpt/n4]
+tags:
+  - compare
+  - jlpt/n4
 ---
 
 > [!question] Milloin kumpi?

@@ -76,5 +76,5 @@ vastaus
 
 #flashcards/grammar/<% j.toLowerCase() %>/vertailu
 
-<% tp.file.title %> (similar) :: toinen rakenne
-<% tp.file.title %> (compare) :: toinen rakenne
+<% tp.file.title %> (similar) ::: toisen rakenteen otsikko (similar)
+<% tp.file.title %> (compare) ::: toisen rakenteen otsikko (compare)

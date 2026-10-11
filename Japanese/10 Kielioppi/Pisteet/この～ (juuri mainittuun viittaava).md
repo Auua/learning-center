@@ -62,4 +62,4 @@ Lainaus ensin, sitten この + selittävä jatko.
 
 #flashcards/grammar/n2/vertailu
 
-「lainaus」。この＋N (similar) :: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat)
+「lainaus」。この＋N (juuri mainittuun viittaava) (similar) ::: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) (similar)

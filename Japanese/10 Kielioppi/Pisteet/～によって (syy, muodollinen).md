@@ -83,5 +83,5 @@ Passiivi luovasta teosta → tekijä (ライト兄弟によって発明された
 
 #flashcards/grammar/n2/vertailu
 
-N（syy）＋によって (similar/compare) :: 〜によって (tekijan merkitseminen, luova teko)
-N（syy）＋によって (similar/compare) :: ～によって (riippuen, vaihtelu)
+N（syy）＋によって (syy, muodollinen) (similar/compare) ::: 〜によって (tekijan merkitseminen, luova teko) (similar/compare)
+N（syy）＋によって (syy, muodollinen) (similar/compare) ::: ～によって (riippuen, vaihtelu) (similar/compare)

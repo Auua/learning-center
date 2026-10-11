@@ -80,4 +80,4 @@ Miten 〜になります eroaa 〜にします:sta?
 
 #flashcards/grammar/n5/vertailu
 
-い-adj（～く）／な-adj・N（～に）なります (similar/compare) :: ～くします・～にします (tahallinen muutos)
+い-adj（～く）／な-adj・N（～に）なります (muutos) (similar/compare) ::: ～くします・～にします (tahallinen muutos) (similar/compare)

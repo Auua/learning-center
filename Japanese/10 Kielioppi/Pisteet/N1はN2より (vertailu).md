@@ -99,4 +99,4 @@ Mikä ero on より ja のほうが rooleilla samassa vertailussa?
 
 #flashcards/grammar/n5/vertailu
 
-N1はN2より／N1とN2とどちらが／N1のほうが (similar/compare) :: ～より～ほうが (tekojen vertailu)
+N1はN2より／N1とN2とどちらが／N1のほうが (vertailu) (similar/compare) ::: ～より～ほうが (tekojen vertailu) (similar/compare)

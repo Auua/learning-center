@@ -84,6 +84,6 @@ Vなくてもいいです = ei ole pakko, ei kiellettyä eikä pakollista; Vて�
 
 #flashcards/grammar/n5/vertailu
 
-Vなくてもいいです (similar) :: Vなければ なりません (velvollisuus)
-Vなくてもいいです (similar) :: Vても いいです・Vては いけません (lupa ja kielto)
-Vなくてもいいです (similar/compare) :: ～なくてもかまいません (ei tarvitse, ei haittaa)
+Vなくてもいいです (ei tarvitse) (similar) ::: Vなければ なりません (velvollisuus) (similar)
+Vなくてもいいです (ei tarvitse) (similar) ::: Vても いいです・Vては いけません (lupa ja kielto) (similar)
+Vなくてもいいです (ei tarvitse) (similar/compare) ::: ～なくてもかまいません (ei tarvitse, ei haittaa) (similar/compare)

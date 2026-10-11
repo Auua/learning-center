@@ -72,4 +72,4 @@ Miten ～をはじめ eroaa rakenteesta ～といった?
 
 #flashcards/grammar/n2/vertailu
 
-N＋をはじめ（として）、N2など (similar/compare) :: ～といった (esimerkiksi tallainen kuin)
+N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) (similar/compare) ::: ～といった (esimerkiksi tallainen kuin) (similar/compare)

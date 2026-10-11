@@ -78,5 +78,5 @@ Kumpi: Sね vai Sよ, kun haluat kertoa kuulijalle uutta tietoa?
 
 #flashcards/grammar/n5/vertailu
 
-Sよ (similar) :: Sね (vahvistus, eikö niin)
-Sよ (similar) :: 普通形よね (varmistava loppupartikkeli)
+Sよ (uuden tiedon korostus) (similar) ::: Sね (vahvistus, eikö niin) (similar)
+Sよ (uuden tiedon korostus) (similar) ::: 普通形よね (varmistava loppupartikkeli) (similar)

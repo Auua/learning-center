@@ -67,4 +67,4 @@ V辞書形＋上で vaatii verbin ja kuvaa prosessia, jonka puitteissa jokin pä
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Nの＋上で (similar/compare) :: N上 (jonkin kannalta)
+V辞書形／Nの＋上で (ottaen huomioon, sen suhteen) (similar/compare) ::: N上 (jonkin kannalta) (similar/compare)

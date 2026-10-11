@@ -86,4 +86,4 @@ Aina が.
 
 #flashcards/grammar/n5/vertailu
 
-N［の中］で［疑問詞］がいちばんadjですか (similar) :: N1はN2より (vertailu)
+N［の中］で［疑問詞］がいちばんadjですか (superlatiivi) (similar) ::: N1はN2より (vertailu) (similar)

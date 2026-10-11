@@ -67,5 +67,5 @@ Merkitys sama; 際 on muodollinen vastine (kirjalliset ohjeet, virallinen ilmoit
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Vた形／Nの＋際［に］ (similar/compare) :: ～とき (ajankohta)
-V辞書形／Vた形／Nの＋際［に］ (similar) :: ～あいだ・～あいだに (kesto vs. hetki)
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar/compare) ::: ～とき (ajankohta) (similar/compare)
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar) ::: ～あいだ・～あいだに (kesto vs. hetki) (similar)

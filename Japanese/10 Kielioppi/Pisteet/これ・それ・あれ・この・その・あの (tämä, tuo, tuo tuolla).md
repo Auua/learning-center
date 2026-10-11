@@ -104,4 +104,4 @@ Sama etäisyysjärjestelmä, mutta これ-sarja koskee esineitä ja ここ-sarja
 
 #flashcards/grammar/n5/vertailu
 
-これ・それ・あれ／この・その・あの (similar) :: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat)
+これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) (similar) ::: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) (similar)

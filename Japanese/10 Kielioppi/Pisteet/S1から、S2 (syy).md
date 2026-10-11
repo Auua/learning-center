@@ -102,5 +102,5 @@ Miten な-adjektiivi/substantiivi liitetään から:aan verrattuna ので:on?
 
 #flashcards/grammar/n5/vertailu
 
-S1から、S2／どうして (similar/compare) :: 〜ので (pehmea syy)
-S1から、S2／どうして (similar) :: ～のは～からだ (syy predikaattina)
+S1から、S2／どうして (syy) (similar/compare) ::: 〜ので (pehmea syy) (similar/compare)
+S1から、S2／どうして (syy) (similar) ::: ～のは～からだ (syy predikaattina) (similar)

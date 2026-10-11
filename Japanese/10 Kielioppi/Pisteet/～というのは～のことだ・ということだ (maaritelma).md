@@ -78,4 +78,4 @@ Miten ～というのは～のことだ eroaa nimeämisestä ～を～と言う?
 
 #flashcards/grammar/n3/vertailu
 
-NというのはNのことだ・NというのはSということだ (similar/compare) :: ～を～と言う・～という～ (nimeaminen)
+NというのはNのことだ・NというのはSということだ (maaritelma) (similar/compare) ::: ～を～と言う・～という～ (nimeaminen) (similar/compare)

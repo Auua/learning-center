@@ -101,6 +101,6 @@ Vてきます sisältää aina paluun (行ってきます = menen ja palaan); �
 
 #flashcards/grammar/n4/vertailu
 
-Vてくる／Vていく（suunta） (similar) :: Vてきます (kaynti ja paluu)
-Vてくる／Vていく（suunta） (similar/compare) :: ～てくる・～ていく (muutos ajassa)
-Vてくる／Vていく（suunta） (similar) :: Liikkumisen partikkelit (へ・で・と)
+Vてくる／Vていく（suunta） (liikkeen suunta) (similar) ::: Vてきます (kaynti ja paluu) (similar)
+Vてくる／Vていく（suunta） (liikkeen suunta) (similar/compare) ::: ～てくる・～ていく (muutos ajassa) (similar/compare)
+Vてくる／Vていく（suunta） (liikkeen suunta) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)

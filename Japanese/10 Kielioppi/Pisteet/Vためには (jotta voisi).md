@@ -71,4 +71,4 @@ Miten Vためには eroaa Vために:sta?
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形＋ためには (similar/compare) :: Vために・Nのために (tarkoitusta varten)
+V辞書形＋ためには (jotta voisi) (similar/compare) ::: Vために・Nのために (tarkoitusta varten) (similar/compare)

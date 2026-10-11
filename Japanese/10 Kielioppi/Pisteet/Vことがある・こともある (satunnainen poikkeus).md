@@ -81,4 +81,4 @@ Miten 止まることがある eroaa muodosta 止まったことがある?
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形ことがある・こともある (similar/compare) :: Vたことがあります (kokemus)
+V辞書形ことがある・こともある (satunnainen poikkeus) (similar/compare) ::: Vたことがあります (kokemus) (similar/compare)

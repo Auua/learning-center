@@ -63,4 +63,4 @@ Miten Vたびに eroaa 〜とき-rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Nの＋たびに (similar) :: ～とき (ajankohta)
+V辞書形／Nの＋たびに (aina kun) (similar) ::: ～とき (ajankohta) (similar)

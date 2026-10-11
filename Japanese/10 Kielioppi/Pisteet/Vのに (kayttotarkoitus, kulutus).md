@@ -84,5 +84,5 @@ Miten Vのに (käyttötarkoitus) eroaa muodosta 普通形のに?
 
 #flashcards/grammar/n4/vertailu
 
-V辞書形のに (similar) :: Vのは・Vのが・Vのを (nominalisointi)
-V辞書形のに (similar/compare) :: 普通形のに (vaikka, pettymys)
+V辞書形のに (kayttotarkoitus, kulutus) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
+V辞書形のに (kayttotarkoitus, kulutus) (similar/compare) ::: 普通形のに (vaikka, pettymys) (similar/compare)

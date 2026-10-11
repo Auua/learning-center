@@ -72,4 +72,4 @@ Miten Nのあまり（に） eroaa あまり〜ない -rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋あまり（に） (similar/compare) :: とても・あまり (hyvin, ei kovin)
+N／普通形＋あまり（に） (liiallisen vuoksi) (similar/compare) ::: とても・あまり (hyvin, ei kovin) (similar/compare)

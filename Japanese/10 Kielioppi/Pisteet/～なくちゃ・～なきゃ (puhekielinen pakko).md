@@ -101,6 +101,6 @@ Ei lisäämällä です, vaan käyttämällä Vなければなりません tai 
 
 #flashcards/grammar/n3/vertailu
 
-Vなくちゃ／Vなきゃ［いけない］ (similar) :: Vなければ なりません (velvollisuus)
-Vなくちゃ／Vなきゃ［いけない］ (similar/compare) :: ～なくてはならない・～なくてはいけない (pakko, toinen muoto)
-Vなくちゃ／Vなきゃ［いけない］ (similar) :: ～ちゃう・～とく・～てる (puhekieliset supistumat)
+Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar) ::: Vなければ なりません (velvollisuus) (similar)
+Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar/compare) ::: ～なくてはならない・～なくてはいけない (pakko, toinen muoto) (similar/compare)
+Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar) ::: ～ちゃう・～とく・～てる (puhekieliset supistumat) (similar)

@@ -82,4 +82,4 @@ Miten 電気がついている eroaa 電気がつけっぱなしだ:sta?
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋っぱなし (similar/compare) :: ～ている (parhaillaan, tilan tulos)
+V(ます-vartalo)＋っぱなし (huolimattomuus, unohdus) (similar/compare) ::: ～ている (parhaillaan, tilan tulos) (similar/compare)

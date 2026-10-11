@@ -82,4 +82,4 @@ Miten N において eroaa N にとって:sta?
 
 #flashcards/grammar/n2/vertailu
 
-N＋において（は）・における＋N (similar/compare) :: ～にとって (jonkun nakokulmasta)
+N＋において（は）・における＋N (jossakin kontekstissa, muodollinen) (similar/compare) ::: ～にとって (jonkun nakokulmasta) (similar/compare)

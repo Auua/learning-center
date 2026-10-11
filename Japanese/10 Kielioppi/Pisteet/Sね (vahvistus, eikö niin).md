@@ -80,5 +80,5 @@ Miten Sね eroaa Sよ:sta?
 
 #flashcards/grammar/n5/vertailu
 
-Sね (similar) :: Sよ (uuden tiedon korostus)
-Sね (similar) :: 普通形よね (varmistava loppupartikkeli)
+Sね (vahvistus, eikö niin) (similar) ::: Sよ (uuden tiedon korostus) (similar)
+Sね (vahvistus, eikö niin) (similar) ::: 普通形よね (varmistava loppupartikkeli) (similar)

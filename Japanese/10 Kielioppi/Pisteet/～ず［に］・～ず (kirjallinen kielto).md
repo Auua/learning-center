@@ -92,5 +92,5 @@ Merkitys on sama (火を使わないで／使わずに料理をしています),
 
 #flashcards/grammar/n3/vertailu
 
-V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (similar/compare) :: Vて・Vないで (tapa, keino)
-V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (similar/compare) :: ～もせずに (ei edes tehnyt)
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: Vて・Vないで (tapa, keino) (similar/compare)
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: ～もせずに (ei edes tehnyt) (similar/compare)

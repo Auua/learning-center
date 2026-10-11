@@ -101,6 +101,6 @@ Löytö kuvaa todella tapahtunutta havaintoa; kontrafaktuaalinen mennyt jälkila
 
 #flashcards/grammar/n4/vertailu
 
-…たら、…た (similar) :: ～たら (jos, kun)
-…たら、…た (similar/compare) :: Vたところ、 (kavi ilmi etta)
-…たら、…た (similar) :: ～と (aina kun, väistämätön seuraus)
+…たら、…た (odottamaton löytö) (similar) ::: ～たら (jos, kun) (similar)
+…たら、…た (odottamaton löytö) (similar/compare) ::: Vたところ、 (kavi ilmi etta) (similar/compare)
+…たら、…た (odottamaton löytö) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)

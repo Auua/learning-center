@@ -1,20 +1,29 @@
 ---
 type: grammar
-ja: "〜と書いてあります・〜という意味です"
+ja: 〜と書いてあります・〜という意味です
 reading: to kaite arimasu / to iu imi desu
 jlpt: N4
-func: [lainaus, selittaminen]
-attaches: ["lause"]
+func:
+  - lainaus
+  - selittaminen
+attaches:
+  - lause
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[普通形と言います (lainaus)]]"]
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[普通形と言います (lainaus)]]"
 compare: []
-sources: ["[[Minna no Nihongo II#Luku 33]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 33]]"
+status: shaky
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -39,9 +48,11 @@ tags: [grammar/perusrakenne, jlpt/n4]
 - どういう意味ですか on vakiokysymys kun ei ymmärrä sanan/merkin/symbolin merkitystä.
 
 ## Esimerkit
-![[Lausepankki — Kyltit ja lainaukset#^kyltti1]]
 ![[Lausepankki — Kyltit ja lainaukset#^kyltti2]]
 ![[Lausepankki — Kyltit ja lainaukset#^kyltti3]]
+![[Lausepankki — Kyltit ja lainaukset#^kyltti6]]
+![[Lausepankki — Kyltit ja lainaukset#^kyltti7]]
+![[Lausepankki — Kyltit ja lainaukset#^kyltti8]]
 
 ## Sekaannusvaara
 - と書いてあります kertoo mitä kyltissä/paperissa lukee (kirjoitettu sisältö); という意味です selittää merkityksen. Usein käytetään peräkkäin: ensin kysytään mitä lukee, sitten mitä se tarkoittaa.
@@ -80,4 +91,4 @@ Miten 〜と書いてあります eroaa rakenteesta 〜という意味です?
 
 #flashcards/grammar/n4/vertailu
 
-〜と書いてあります・〜という意味です (similar) :: 普通形と言います (lainaus)
+〜と書いてあります・〜という意味です (kylttien selittaminen) (similar) ::: 普通形と言います (lainaus) (similar)

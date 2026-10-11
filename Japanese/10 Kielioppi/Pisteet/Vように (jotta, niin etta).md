@@ -82,4 +82,4 @@ Sama kirjoitusasu, eri kielioppi: tarkoitus-ように jatkuu toisella verbillä/
 
 #flashcards/grammar/n4/vertailu
 
-V(potentiaali/ei-tahdonalainen)ように (similar/compare) :: 普通形ようです (havaintoon perustuva paattely)
+V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)

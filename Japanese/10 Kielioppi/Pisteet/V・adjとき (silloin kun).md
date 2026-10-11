@@ -93,5 +93,5 @@ Miten とき eroaa Vまえに verbin muodon valinnassa?
 
 #flashcards/grammar/n5/vertailu
 
-V／adjとき (similar) :: 関係節 (suhteellinen sivulause)
-V／adjとき (similar) :: Vまえに (ennen)
+V／adjとき (silloin kun) (similar) ::: 関係節 (suhteellinen sivulause) (similar)
+V／adjとき (silloin kun) (similar) ::: Vまえに (ennen) (similar)

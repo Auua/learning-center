@@ -100,5 +100,5 @@ Ulkonäkö-そうです liitetään vartaloon; kuulopuhe-そうです liittyy su
 
 #flashcards/grammar/n4/vertailu
 
-V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (similar/compare) :: そうです (niin on)
-V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (similar/compare) :: 普通形そうです (kuulopuhe)
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (similar/compare) ::: そうです (niin on) (similar/compare)
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)

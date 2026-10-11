@@ -79,5 +79,5 @@ Miten 数量だけ／Nだけ eroaa Nしか Vませんistä?
 
 #flashcards/grammar/n5/vertailu
 
-数量だけ／Nだけ (similar/compare) :: ～だけだ・ただ～だけでいい (vain se riittää)
-数量だけ／Nだけ (compare) :: Nしか Vません (vain, pelkastaan)
+数量だけ／Nだけ (Maara だけ・Nだけ) (similar/compare) ::: ～だけだ・ただ～だけでいい (vain se riittää) (similar/compare)
+数量だけ／Nだけ (Maara だけ・Nだけ) (compare) ::: Nしか Vません (vain, pelkastaan) (compare)

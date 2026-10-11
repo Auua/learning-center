@@ -81,5 +81,5 @@ Kyllä: ところ voi tarkoittaa myös paikkaa (曲がったところに, 'juuri
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形/ている/た形)ところです (similar/compare) :: Vたばかりです (juuri askettain)
-V(辞書形/ている/た形)ところです (similar/compare) :: Vたところに・で (juuri siina kohdassa)
+V(辞書形/ている/た形)ところです (kolme vaihetta) (similar/compare) ::: Vたばかりです (juuri askettain) (similar/compare)
+V(辞書形/ている/た形)ところです (kolme vaihetta) (similar/compare) ::: Vたところに・で (juuri siina kohdassa) (similar/compare)

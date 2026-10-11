@@ -71,4 +71,4 @@ Esimerkiksi esimiehelle tai arvostetulle henkilölle; sävy on suora vaikka koht
 
 #flashcards/grammar/n5/vertailu
 
-Vてください (similar) :: Vませんか・Vましょう (etkö tulisi, tehdäänkö)
+Vてください (pyyntö) (similar) ::: Vませんか・Vましょう (etkö tulisi, tehdäänkö) (similar)

@@ -84,6 +84,6 @@ Tarkoitus-ために ilmaisee tulevaa tahdonalaista tavoitetta; syy-ために ilm
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形)ために／Nのために (similar/compare) :: Vように (jotta, niin etta)
-V(辞書形)ために／Nのために (similar/compare) :: ～ため［に］・ためだ (syy, ei tarkoitus)
-V(辞書形)ために／Nのために (similar/compare) :: Vためには (jotta voisi)
+V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: Vように (jotta, niin etta) (similar/compare)
+V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (similar/compare)
+V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: Vためには (jotta voisi) (similar/compare)

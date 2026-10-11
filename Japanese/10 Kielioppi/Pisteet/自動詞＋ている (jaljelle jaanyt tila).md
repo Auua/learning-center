@@ -92,4 +92,4 @@ Miksi ×自動販売機を壊れています on virhe?
 
 #flashcards/grammar/n4/vertailu
 
-自動詞＋ている (similar) :: ～ている (parhaillaan, tilan tulos)
+自動詞＋ている (jaljelle jaanyt tila) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)

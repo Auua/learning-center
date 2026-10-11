@@ -72,4 +72,4 @@ Sama merkitys eri rakenteella; ば〜ただけ korostaa panostuksen ja tuloksen 
 
 #flashcards/grammar/n2/vertailu
 
-V(ば形)＋V(た形)＋だけ (similar/compare) :: Vば〜ほど (mita enemman, sita)
+V(ば形)＋V(た形)＋だけ (mita enemman, sita enemman) (similar/compare) ::: Vば〜ほど (mita enemman, sita) (similar/compare)

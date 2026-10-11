@@ -85,5 +85,5 @@ Miksi ということだ eikä そうです, kun haluan vahvistaa kuullun viesti
 
 #flashcards/grammar/n3/vertailu
 
-普通形ということだ (similar/compare) :: 普通形そうです (kuulopuhe)
-普通形ということだ (similar/compare) :: 普通形という。 (lyhennetty kirjallinen kuulopuhe)
+普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
+普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare) ::: 普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar/compare)

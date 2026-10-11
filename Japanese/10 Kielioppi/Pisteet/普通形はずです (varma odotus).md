@@ -90,6 +90,6 @@ Miten はず eroaa でしょう:sta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形はずです (similar/compare) :: 普通形でしょう (todennakoisyys)
-普通形はずです (similar/compare) :: Vかもしれません (saattaa olla etta)
-普通形はずです (similar/compare) :: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)
+普通形はずです (varma odotus) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
+普通形はずです (varma odotus) (similar/compare) ::: Vかもしれません (saattaa olla etta) (similar/compare)
+普通形はずです (varma odotus) (similar/compare) ::: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) (similar/compare)

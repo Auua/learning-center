@@ -74,4 +74,4 @@ Miten Vるところだった eroaa muodosta Vるところです?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形＋ところだった (similar/compare) :: Vところです (kolme vaihetta)
+V辞書形＋ところだった (oli juuri vahalla tapahtua) (similar/compare) ::: Vところです (kolme vaihetta) (similar/compare)

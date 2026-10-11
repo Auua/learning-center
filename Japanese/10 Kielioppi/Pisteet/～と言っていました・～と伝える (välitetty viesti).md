@@ -107,6 +107,6 @@ Miten …と伝える eroaa ようにいう/伝える -epäsuorasta kehotuksesta
 
 #flashcards/grammar/n4/vertailu
 
-…と言っていました／…と伝える (similar/compare) :: 普通形と言います (lainaus)
-…と言っていました／…と伝える (similar) :: 普通形そうです (kuulopuhe)
-…と言っていました／…と伝える (similar) :: Vようにいう・注意する・伝える・頼む (epasuora kehotus)
+…と言っていました／…と伝える (välitetty viesti) (similar/compare) ::: 普通形と言います (lainaus) (similar/compare)
+…と言っていました／…と伝える (välitetty viesti) (similar) ::: 普通形そうです (kuulopuhe) (similar)
+…と言っていました／…と伝える (välitetty viesti) (similar) ::: Vようにいう・注意する・伝える・頼む (epasuora kehotus) (similar)

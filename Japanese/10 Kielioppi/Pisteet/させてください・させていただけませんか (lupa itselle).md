@@ -84,6 +84,6 @@ Miten させてください liittyy rakenteeseen させてもらえませんか?
 
 #flashcards/grammar/n4/vertailu
 
-V使役形＋てください／ていただけませんか (similar) :: Vて ください (pyyntö)
-V使役形＋てください／ていただけませんか (similar/compare) :: ご～いただく (kohtelias pyyntö, kiitollisuus)
-V使役形＋てください／ていただけませんか (similar/compare) :: させてもらえませんか family (kausatiivinen kohtelias pyynto)
+V使役形＋てください／ていただけませんか (lupa itselle) (similar) ::: Vて ください (pyyntö) (similar)
+V使役形＋てください／ていただけませんか (lupa itselle) (similar/compare) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar/compare)
+V使役形＋てください／ていただけませんか (lupa itselle) (similar/compare) ::: させてもらえませんか family (kausatiivinen kohtelias pyynto) (similar/compare)

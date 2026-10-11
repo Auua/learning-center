@@ -85,5 +85,5 @@ Mikä on Vないで (tapa, keino):n muodollinen vastine?
 
 #flashcards/grammar/n4/vertailu
 
-Vて／Vないで（tapa, keino） (similar) :: Vないで ください (kielteinen pyyntö)
-Vて／Vないで（tapa, keino） (similar/compare) :: ～ず［に］・～ず (kirjallinen kielto)
+Vて／Vないで（tapa, keino） (tapa, keino) (similar) ::: Vないで ください (kielteinen pyyntö) (similar)
+Vて／Vないで（tapa, keino） (tapa, keino) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)

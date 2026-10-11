@@ -101,6 +101,6 @@ Mikä ero on 食べていません ja 食べませんでした välillä?
 
 #flashcards/grammar/n5/vertailu
 
-まだVていません (similar/compare) :: もう Vました・まだです (jo tehty, ei vielä)
-まだVていません (similar) :: Vてあります (tarkoituksella tehty tila)
-まだVていません (similar) :: Vておきます (valmistelu etukateen)
+まだVていません (ei ole vielä tehty) (similar/compare) ::: もう Vました・まだです (jo tehty, ei vielä) (similar/compare)
+まだVていません (ei ole vielä tehty) (similar) ::: Vてあります (tarkoituksella tehty tila) (similar)
+まだVていません (ei ole vielä tehty) (similar) ::: Vておきます (valmistelu etukateen) (similar)

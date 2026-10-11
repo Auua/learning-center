@@ -96,4 +96,4 @@ Aina に; で vaatii aktiivisen toimintaverbin (駅で買います), kun あり�
 
 #flashcards/grammar/n5/vertailu
 
-Nがあります／います、N1はN2（場所）にあります／います (similar) :: N (paikka) で
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar) ::: N (paikka) で (similar)

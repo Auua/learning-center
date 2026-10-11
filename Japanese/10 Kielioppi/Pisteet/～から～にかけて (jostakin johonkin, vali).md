@@ -63,4 +63,4 @@ Laajempaan, usein toistuvaan ilmiöön (sää, tapahtumasarja), ei yksittäiseen
 
 #flashcards/grammar/n2/vertailu
 
-N1（aika／paikka）から　N2にかけて (similar) :: N（aika）までに (määräaika)
+N1（aika／paikka）から　N2にかけて (jostakin johonkin, vali) (similar) ::: N（aika）までに (määräaika) (similar)

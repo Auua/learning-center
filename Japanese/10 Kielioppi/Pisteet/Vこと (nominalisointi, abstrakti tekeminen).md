@@ -1,12 +1,18 @@
 ---
 type: grammar
-ja: "V辞書形＋こと"
+ja: V辞書形＋こと
 reading: koto
-jlpt: N5
-func: [nominalisointi]
-attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]", "[[ない-muoto]]"]
+jlpt: N3
+func:
+  - nominalisointi
+attaches:
+  - "[[Sanakirjamuoto]]"
+  - "[[た-muoto]]"
+  - "[[ない-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar:
   - "[[Vのは・Vのが・Vのを (nominalisointi)]]"
   - "[[Vことができます (kyky)]]"
@@ -19,12 +25,15 @@ compare:
   - "[[Vのは・Vのが・Vのを (nominalisointi)]]"
   - "[[Vertailu — の vs. こと (nominalisointi)]]"
   - "[[ます-vartalo substantiivina (連用形名詞)]]"
-sources: ["[[Minna no Nihongo I#Luku 18]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo I#Luku 18]]"
+status: known
+confidence: 3
 reviewed:
 created: 2026-10-11
-tags: [grammar/perusrakenne, jlpt/n5]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n5
 ---
 
 > [!abstract] Ydin
@@ -103,11 +112,11 @@ Ennen です の ei toimi nominalisoijana vaan muodostaisi selittävän ので�
 
 #flashcards/grammar/n5/vertailu
 
-V辞書形＋こと (similar/compare) :: Vのは・Vのが・Vのを (nominalisointi)
-V辞書形＋こと (similar) :: Vことができます (kyky)
-V辞書形＋こと (similar) :: Vたことがあります (kokemus)
-V辞書形＋こと (similar) :: ～ことは・が・を (yleistys ja arvottaminen)
-V辞書形＋こと (similar) :: ことにする・ことにしている (oma paatos)
-V辞書形＋こと (similar) :: ことになる・ことになっている (ulkopuolinen paatos)
-V辞書形＋こと (similar/compare) :: ます-vartalo substantiivina (連用形名詞)
-V辞書形＋こと (compare) :: Vertailu — の vs. こと (nominalisointi)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar/compare) ::: Vのは・Vのが・Vのを (nominalisointi) (similar/compare)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: Vことができます (kyky) (similar)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: Vたことがあります (kokemus) (similar)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: ～ことは・が・を (yleistys ja arvottaminen) (similar)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: ことにする・ことにしている (oma paatos) (similar)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: ことになる・ことになっている (ulkopuolinen paatos) (similar)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar/compare) ::: ます-vartalo substantiivina (連用形名詞) (similar/compare)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (compare) ::: Vertailu — の vs. こと (nominalisointi) (compare)

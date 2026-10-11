@@ -77,4 +77,4 @@ Vところです käyttää ところ:a ajallisena vaiheen ilmaisimena; Vたと�
 
 #flashcards/grammar/n3/vertailu
 
-V(た形)ところに／で (similar/compare) :: Vところです (kolme vaihetta)
+V(た形)ところに／で (juuri siina kohdassa) (similar/compare) ::: Vところです (kolme vaihetta) (similar/compare)

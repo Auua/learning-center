@@ -82,6 +82,6 @@ Miten ようにしている eroaa muodosta ことにしている?
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形/ない形)ようにしています (similar) :: Vように (jotta, niin etta)
-V(辞書形/ない形)ようにしています (similar) :: Vようになります (kyvyn tai tilan muutos)
-V(辞書形/ない形)ようにしています (similar/compare) :: ことにする・ことにしている (oma paatos)
+V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar) ::: Vように (jotta, niin etta) (similar)
+V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar) ::: Vようになります (kyvyn tai tilan muutos) (similar)
+V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar/compare) ::: ことにする・ことにしている (oma paatos) (similar/compare)

@@ -84,4 +84,4 @@ Miten ～さん eroaa ～ちゃん:sta ja ～くん:sta?
 
 #flashcards/grammar/n5/vertailu
 
-～さん (similar) :: ～ちゃん・～くん
+～さん (kohtelias nimen liite) (similar) ::: ～ちゃん・～くん (similar)

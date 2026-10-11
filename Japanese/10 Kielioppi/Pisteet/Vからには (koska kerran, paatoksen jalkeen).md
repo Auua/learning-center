@@ -68,4 +68,4 @@ Miten Vからには eroaa S1から、S2 -syyrakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Vた形＋からには (similar) :: S1から、S2 (syy)
+V辞書形／Vた形＋からには (koska kerran, paatoksen jalkeen) (similar) ::: S1から、S2 (syy) (similar)

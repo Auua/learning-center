@@ -72,4 +72,4 @@ Miten ～ほどのものじゃない eroaa yleisestä ほど～ない-vertailust
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋ほどのものじゃない・ではない (similar/compare) :: ～ほど～ない・ほどではない (vertailu, ei niin)
+N／普通形＋ほどのものじゃない・ではない (ei niin suuri asia) (similar/compare) ::: ～ほど～ない・ほどではない (vertailu, ei niin) (similar/compare)

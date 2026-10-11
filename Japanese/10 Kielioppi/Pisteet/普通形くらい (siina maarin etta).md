@@ -78,4 +78,4 @@ Kumpi: くらい vai ほど, kun haluan kirjallisemman sävyn?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋くらいだ (similar/compare) :: ～ほど (aste, \"niin paljon etta\")
+普通形＋くらいだ (siina maarin etta) (similar/compare) ::: ～ほど (aste, \"niin paljon etta\") (similar/compare)

@@ -87,6 +87,6 @@ Miten でしょう eroaa はずです:sta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形でしょう（↘） (similar/compare) :: 普通形でしょう？ (varmistus)
-普通形でしょう（↘） (similar/compare) :: 普通形はずです (varma odotus)
-普通形でしょう（↘） (similar/compare) :: 普通形だろう・だろうと思う (kirjallinen ennuste)
+普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: 普通形でしょう？ (varmistus) (similar/compare)
+普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
+普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: 普通形だろう・だろうと思う (kirjallinen ennuste) (similar/compare)

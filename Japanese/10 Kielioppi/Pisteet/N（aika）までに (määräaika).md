@@ -86,6 +86,6 @@ Kertaluontoinen tapahtuma (palauttaminen, valmistuminen) → までに; jatkuva 
 
 #flashcards/grammar/n5/vertailu
 
-N（時間）までに (similar) :: Liikkumisen partikkelit (へ・で・と)
-N（時間）までに (similar/compare) :: V辞書形まで・までに (verbilause aikarajana)
-N（時間）までに (similar/compare) :: ～から～まで (mistä mihin, alku ja loppu)
+N（時間）までに (määräaika) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
+N（時間）までに (määräaika) (similar/compare) ::: V辞書形まで・までに (verbilause aikarajana) (similar/compare)
+N（時間）までに (määräaika) (similar/compare) ::: ～から～まで (mistä mihin, alku ja loppu) (similar/compare)

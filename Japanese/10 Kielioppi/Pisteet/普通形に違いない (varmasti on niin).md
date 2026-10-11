@@ -71,4 +71,4 @@ Miten に違いない eroaa はずです:sta?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋に違いない (similar/compare) :: 普通形はずです (varma odotus)
+普通形＋に違いない (varmasti on niin) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)

@@ -96,4 +96,4 @@ Eivät; ne ovat substantiiveja, jotka liitetään edeltävään sanaan の:lla (
 
 #flashcards/grammar/n5/vertailu
 
-N（位置） (similar) :: あります・います (olemassaolo)
+N（位置） (Paikkasanat 上・下・前・後ろ) (similar) ::: あります・います (olemassaolo) (similar)

@@ -78,5 +78,5 @@ Miten わけではない eroaa わけだ:sta?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋わけではない（必ずしも〜わけではない） (similar/compare) :: 普通形わけだ (johtopaatos, siis)
-普通形＋わけではない（必ずしも〜わけではない） (similar/compare) :: 普通形からといって (vaikka onkin niin)
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar/compare) ::: 普通形わけだ (johtopaatos, siis) (similar/compare)
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar/compare) ::: 普通形からといって (vaikka onkin niin) (similar/compare)

@@ -73,4 +73,4 @@ Miten Vたらどう？ eroaa Vたほうがいいです:sta?
 
 #flashcards/grammar/n3/vertailu
 
-V(た形)らどう？／たら？ (similar/compare) :: Vたほうがいいです (kannattaisi tehda)
+V(た形)らどう？／たら？ (ehdotus) (similar/compare) ::: Vたほうがいいです (kannattaisi tehda) (similar/compare)

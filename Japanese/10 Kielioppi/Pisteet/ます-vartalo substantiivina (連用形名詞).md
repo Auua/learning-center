@@ -128,7 +128,7 @@ Miten 話し合い eroaa muodosta 話すこと?
 
 #flashcards/grammar/n4/vertailu
 
-V(ます-vartalo) → N（連用形名詞） (similar/compare) :: Vこと (nominalisointi, abstrakti tekeminen)
-V(ます-vartalo) → N（連用形名詞） (similar) :: Vのは・Vのが・Vのを (nominalisointi)
-V(ます-vartalo) → N（連用形名詞） (similar) :: ～方 (tapa)
-V(ます-vartalo) → N（連用形名詞） (similar/compare) :: 連用中止形 (kirjallinen luettelointi)
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar/compare) ::: Vこと (nominalisointi, abstrakti tekeminen) (similar/compare)
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: ～方 (tapa) (similar)
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar/compare) ::: 連用中止形 (kirjallinen luettelointi) (similar/compare)

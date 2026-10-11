@@ -110,7 +110,7 @@ Miten 全部でいくらですか eroaa lauseesta 全部を買いました?
 
 #flashcards/grammar/n4/vertailu
 
-N（人数・数量・時間・金額）で (similar/compare) :: N (väline) で
-N（人数・数量・時間・金額）で (similar) :: N (syy) で
-N（人数・数量・時間・金額）で (similar) :: N (paikka) で
-N（人数・数量・時間・金額）で (similar/compare) :: Liikkumisen partikkelit (へ・で・と)
+N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) (similar/compare) ::: N (väline) で (similar/compare)
+N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) (similar) ::: N (syy) で (similar)
+N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) (similar) ::: N (paikka) で (similar)
+N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) (similar/compare) ::: Liikkumisen partikkelit (へ・で・と) (similar/compare)

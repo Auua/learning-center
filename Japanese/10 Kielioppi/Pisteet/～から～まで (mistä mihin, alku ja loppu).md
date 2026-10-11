@@ -104,7 +104,7 @@ Syy-から liittyy lauseeseen, aika/paikka-から〜まで substantiiviin.
 
 #flashcards/grammar/n5/vertailu
 
-N（aika/paikka）から N（aika/paikka）まで (similar) :: N (aika) に
-N（aika/paikka）から N（aika/paikka）まで (similar) :: V辞書形まで・までに (verbilause aikarajana)
-N（aika/paikka）から N（aika/paikka）まで (similar/compare) :: N（aika）までに (määräaika)
-N（aika/paikka）から N（aika/paikka）まで (similar) :: ～から～にかけて (jostakin johonkin, vali)
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: N (aika) に (similar)
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: V辞書形まで・までに (verbilause aikarajana) (similar)
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar/compare) ::: N（aika）までに (määräaika) (similar/compare)
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: ～から～にかけて (jostakin johonkin, vali) (similar)

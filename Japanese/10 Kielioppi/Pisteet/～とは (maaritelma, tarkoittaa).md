@@ -72,4 +72,4 @@ Funktio on sama; というのは on pidempi ja puhekielisempi, とは sen tiivis
 
 #flashcards/grammar/n3/vertailu
 
-N＋とは (similar/compare) :: ～というのは～のことだ・ということだ (maaritelma)
+N＋とは (maaritelma, tarkoittaa) (similar/compare) ::: ～というのは～のことだ・ということだ (maaritelma) (similar/compare)

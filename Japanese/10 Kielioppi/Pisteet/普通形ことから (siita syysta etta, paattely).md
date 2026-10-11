@@ -63,4 +63,4 @@ Päättelyn perustana: 発見されたことから〜と考えられる ('koska 
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋ことから (similar) :: S1から、S2 (syy)
+普通形＋ことから (siita syysta etta, paattely) (similar) ::: S1から、S2 (syy) (similar)

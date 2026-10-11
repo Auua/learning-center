@@ -83,4 +83,4 @@ N1とN2:n と listaa substantiiveja ('A ja B'); ～と (N4) yhdistää lauseita 
 
 #flashcards/grammar/n5/vertailu
 
-N1とN2 (similar) :: ～と (aina kun, väistämätön seuraus)
+N1とN2 (ja) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)

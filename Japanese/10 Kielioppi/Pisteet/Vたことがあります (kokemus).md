@@ -88,6 +88,6 @@ Sama runko, mutta た形 = elämänkokemus; 辞書形 = 'joskus käy niin että'
 
 #flashcards/grammar/n5/vertailu
 
-V た形ことがあります (similar) :: Vことができます (kyky)
-V た形ことがあります (similar/compare) :: Vことがある・こともある (satunnainen poikkeus)
-V た形ことがあります (compare) :: ～ている (elämänhistoria, saavutukset)
+V た形ことがあります (kokemus) (similar) ::: Vことができます (kyky) (similar)
+V た形ことがあります (kokemus) (similar/compare) ::: Vことがある・こともある (satunnainen poikkeus) (similar/compare)
+V た形ことがあります (kokemus) (compare) ::: ～ている (elämänhistoria, saavutukset) (compare)

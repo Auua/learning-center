@@ -91,4 +91,4 @@ Miten 1人だけいます eroaa lauseesta 1人しかいません?
 
 #flashcards/grammar/n4/vertailu
 
-Nしか〜ません (compare) :: Maara だけ・Nだけ
+Nしか〜ません (vain, pelkastaan) (compare) ::: Maara だけ・Nだけ (compare)

@@ -62,4 +62,4 @@ Sävyn 'tämäkin on yksi mahdollisuus muiden joukossa'.
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋可能性がある・可能性もある (similar) :: Vかもしれません (saattaa olla etta)
+普通形＋可能性がある・可能性もある (on mahdollista etta) (similar) ::: Vかもしれません (saattaa olla etta) (similar)

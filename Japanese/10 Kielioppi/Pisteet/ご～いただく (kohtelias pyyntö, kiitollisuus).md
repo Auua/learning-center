@@ -96,6 +96,6 @@ Miten ご～いただく eroaa kaavasta お～する (molemmat 謙譲語)?
 
 #flashcards/grammar/n3/vertailu
 
-ご～いただく (similar) :: お～する (nöyrä oma teko)
-ご～いただく (similar) :: いただく
-ご～いただく (compare) :: Keigo — kartta
+ご～いただく (kohtelias pyyntö, kiitollisuus) (similar) ::: お～する (nöyrä oma teko) (similar)
+ご～いただく (kohtelias pyyntö, kiitollisuus) (similar) ::: いただく (similar)
+ご～いただく (kohtelias pyyntö, kiitollisuus) (compare) ::: Keigo — kartta (compare)

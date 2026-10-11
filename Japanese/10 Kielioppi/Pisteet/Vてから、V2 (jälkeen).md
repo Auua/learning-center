@@ -78,5 +78,5 @@ Miten V1てから、V2 eroaa muodosta Vて、Vて?
 
 #flashcards/grammar/n5/vertailu
 
-V1てから、V2 (similar) :: Vて、Vて (peräkkäisyys)
-V1てから、V2 (similar) :: S1から、S2 (syy)
+V1てから、V2 (jälkeen) (similar) ::: Vて、Vて (peräkkäisyys) (similar)
+V1てから、V2 (jälkeen) (similar) ::: S1から、S2 (syy) (similar)

@@ -86,4 +86,4 @@ Tässä on kaksi partikkelia peräkkäin (は koko aiheelle, が osalle); Nが�
 
 #flashcards/grammar/n5/vertailu
 
-N1はN2がadjectiveです (similar) :: Nが好きです・上手です (mieltymys, kyky, omistus)
+N1はN2がadjectiveです (aihe-ominaisuus) (similar) ::: Nが好きです・上手です (mieltymys, kyky, omistus) (similar)

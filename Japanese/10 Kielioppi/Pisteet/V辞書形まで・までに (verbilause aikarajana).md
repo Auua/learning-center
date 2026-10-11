@@ -111,7 +111,7 @@ Miten までに eroaa rakenteesta 普通形うちに?
 
 #flashcards/grammar/n4/vertailu
 
-V（辞書形）まで、…／V（辞書形）までに、… (similar/compare) :: N（aika）までに (määräaika)
-V（辞書形）まで、…／V（辞書形）までに、… (similar) :: ～から～まで (mistä mihin, alku ja loppu)
-V（辞書形）まで、…／V（辞書形）までに、… (similar) :: 普通形うちに (ennen kuin liian myohaista)
-V（辞書形）まで、…／V（辞書形）までに、… (similar) :: ～あいだ・～あいだに (kesto vs. hetki)
+V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) (similar/compare) ::: N（aika）までに (määräaika) (similar/compare)
+V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) (similar) ::: ～から～まで (mistä mihin, alku ja loppu) (similar)
+V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) (similar) ::: 普通形うちに (ennen kuin liian myohaista) (similar)
+V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) (similar) ::: ～あいだ・～あいだに (kesto vs. hetki) (similar)

@@ -77,4 +77,4 @@ Miten Vて、Vて eroaa muodosta Vてから?
 
 #flashcards/grammar/n5/vertailu
 
-Vて、Vて (similar) :: Vてから、V2 (jälkeen)
+Vて、Vて (peräkkäisyys) (similar) ::: Vてから、V2 (jälkeen) (similar)

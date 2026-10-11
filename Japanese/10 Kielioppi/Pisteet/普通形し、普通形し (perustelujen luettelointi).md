@@ -92,4 +92,4 @@ Miten し-luettelointi eroaa S1が、S2 (mutta) -rakenteesta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形し、普通形し (similar) :: S1が、S2 (mutta)
+普通形し、普通形し (perustelujen luettelointi) (similar) ::: S1が、S2 (mutta) (similar)

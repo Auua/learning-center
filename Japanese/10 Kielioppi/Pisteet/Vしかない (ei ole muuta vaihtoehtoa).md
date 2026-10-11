@@ -71,4 +71,4 @@ Molemmat ilmaisevat pakon. しかない korostaa, ettei muita vaihtoehtoja ole j
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形＋しかない (similar/compare) :: Vざるを得ない (on pakko)
+V辞書形＋しかない (ei ole muuta vaihtoehtoa) (similar/compare) ::: Vざるを得ない (on pakko) (similar/compare)

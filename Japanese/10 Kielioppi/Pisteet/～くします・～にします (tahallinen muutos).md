@@ -82,4 +82,4 @@ Miten 部屋がきれいになりました eroaa 部屋をきれいにしまし�
 
 #flashcards/grammar/n4/vertailu
 
-い-adj（～く）／な-adj・N（～に）します (similar/compare) :: ～くなります・～になります (muutos)
+い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) (similar/compare) ::: ～くなります・～になります (muutos) (similar/compare)

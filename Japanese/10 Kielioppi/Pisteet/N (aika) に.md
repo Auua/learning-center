@@ -91,4 +91,4 @@ Ratkaisevaa on, sisältääkö aikasana luvun, ei se onko se ajankohta laajassa 
 
 #flashcards/grammar/n5/vertailu
 
-N（時間）に (similar) :: ～から～まで (mistä mihin, alku ja loppu)
+N（時間）に (N (aika) に) (similar) ::: ～から～まで (mistä mihin, alku ja loppu) (similar)

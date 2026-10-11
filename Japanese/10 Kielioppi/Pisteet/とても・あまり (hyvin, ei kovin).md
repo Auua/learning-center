@@ -72,4 +72,4 @@ Sekä い- että な-adjektiiveihin samalla tavalla.
 
 #flashcards/grammar/n5/vertailu
 
-とても／あまり (similar/compare) :: Nのあまり（に） (liiallisen vuoksi)
+とても／あまり (hyvin, ei kovin) (similar/compare) ::: Nのあまり（に） (liiallisen vuoksi) (similar/compare)

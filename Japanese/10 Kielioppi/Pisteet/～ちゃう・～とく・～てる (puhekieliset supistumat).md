@@ -76,6 +76,6 @@ Ei: ne ovat puhtaasti puhekielisiä, eivät sovi kirjalliseen tai muodolliseen k
 
 #flashcards/grammar/n3/vertailu
 
-～ちゃう・～とく・～てる (similar) :: Vてしまいます (valitettavasti, loppuun asti)
-～ちゃう・～とく・～てる (similar) :: Vておきます (valmistelu etukateen)
-～ちゃう・～とく・～てる (similar) :: ～ている (parhaillaan, tilan tulos)
+～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: Vてしまいます (valitettavasti, loppuun asti) (similar)
+～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: Vておきます (valmistelu etukateen) (similar)
+～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)

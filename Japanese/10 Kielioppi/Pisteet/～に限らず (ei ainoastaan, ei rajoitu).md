@@ -71,5 +71,5 @@ Miten N に限らず eroaa rakenteesta N に限って?
 
 #flashcards/grammar/n2/vertailu
 
-N＋に限らず (similar) :: ～だけでなく (ei pelkastaan vaan myos)
-N＋に限らず (similar/compare) :: N・普通形に限って (juuri silloin, ikava sattuma)
+N＋に限らず (ei ainoastaan, ei rajoitu) (similar) ::: ～だけでなく (ei pelkastaan vaan myos) (similar)
+N＋に限らず (ei ainoastaan, ei rajoitu) (similar/compare) ::: N・普通形に限って (juuri silloin, ikava sattuma) (similar/compare)

@@ -78,4 +78,4 @@ Molemmat ovat pohdiskelevia; かな on arkinen ja puhuttu, のだろうか on mu
 
 #flashcards/grammar/n3/vertailu
 
-普通形かな (similar/compare) :: 普通形のだろうか (kirjallinen pohdiskeleva kysymys)
+普通形かな (itselle esitetty pohdinta) (similar/compare) ::: 普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar/compare)

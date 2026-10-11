@@ -79,4 +79,4 @@ Miten の？ eroaa んです:sta?
 
 #flashcards/grammar/n3/vertailu
 
-普通形の？（kysymys/selitys） (similar/compare) :: 普通形んです (selittävä sävy)
+普通形の？（kysymys/selitys） (puhekielinen selittava kysymys) (similar/compare) ::: 普通形んです (selittävä sävy) (similar/compare)

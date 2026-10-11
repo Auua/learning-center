@@ -62,4 +62,4 @@ Vahvempi ja muodollisempi; korostaa laskettavaa kokonaisuutta, jonka jokainen yk
 
 #flashcards/grammar/n1/vertailu
 
-N（yksikko）として＋kielteinen predikaatti (similar) :: 決して～ない (ei missaan nimessa)
+N（yksikko）として＋kielteinen predikaatti (ei kertaakaan) (similar) ::: 決して～ない (ei missaan nimessa) (similar)
