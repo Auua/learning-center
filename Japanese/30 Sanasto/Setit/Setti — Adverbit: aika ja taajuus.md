@@ -47,3 +47,20 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+先ほど ja 後ほど: mitkä ovat niiden arkivastineet?
+?
+Arkivastineet さっき ja 後で; muodolliset vastineet työelämässä ja asiakaspalvelussa (後ほどご連絡します).
+
+やっと vs ついに?
+?
+やっと sisältää helpotuksen (odotettu asia toteutui); ついに on neutraali ja käy myös ikävistä lopputuloksista. 二度と vaatii kielteisen verbin.
+
+#flashcards/setti/teema
+
+Setti — Adverbit: aika ja taajuus: sano ainakin viisi sanaa
+?
+そろそろ (kohta), やっと (vihdoin), ついに (lopulta), まず (ensinnäkin), とっくに (jo kauan sitten), いきなり (yhtäkkiä), そのうち (ennen pitkää), しょっちゅう (jatkuvasti), たびたび (toistuvasti), 相変わらず (kuten ennenkin), 先ほど (äsken (kohtelias)), 後ほど (myöhemmin (kohtelias))…

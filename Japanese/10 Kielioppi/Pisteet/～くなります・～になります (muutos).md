@@ -55,3 +55,29 @@ tags:
 寒くなります vs 元気になります — miksi eri pääte (く/に)?
 ?
 寒い on い-adjektiivi (い→く), 元気 on な-adjektiivi (+に) — sama vaihtologiikka kuin くて/で-lauseiden yhdistämisessä.
+
+#flashcards/grammar/n5/muodostus
+
+〜くなります + い-adjektiivi :: い → く + なります — esim. 寒くなります。
+〜になります + な-adjektiivi :: な-adj + に + なります — esim. 元気になります。
+〜になります + substantiivi :: N + に + なります — esim. 25歳になります。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä yhteistä on 〜くなります・〜になります-muotojen ja くて/で-yhdistämisen vaihdolla?
+?
+Sama く/に (くて/で) -vaihtokaava toistuu monessa rakenteessa; se kannattaa oppia kokonaisuutena.
+
+Miten なります eroaa します-muodosta?
+?
+なります kuvaa luonnollista muutosta, ei jonkun aiheuttamaa; します (Luku 44) on tahallinen muutos.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten 〜になります eroaa 〜にします:sta?
+?
+なります: muutos tapahtuu itsestään; します: joku saa muutoksen aikaan tahallaan.
+
+#flashcards/grammar/n5/vertailu
+
+い-adj（～く）／な-adj・N（～に）なります (similar/compare) :: ～くします・～にします (tahallinen muutos)

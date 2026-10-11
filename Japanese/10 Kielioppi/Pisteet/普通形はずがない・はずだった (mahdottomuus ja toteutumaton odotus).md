@@ -73,3 +73,48 @@ Käytetyt taivutusmuodot: [[普通形 (puhekielinen perusmuoto)]]
 Mitä はずだった kertoo?
 ?
 Perusteltu odotus tai suunnitelma joka ei toteutunut — perässä seuraa yleensä selitys esteestä (急に都合が悪くなって…).
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋はずがない／はずはない :: 普通形 + はずがない／はずはない (looginen mahdottomuus). Esim. 知らないはずがありません。彼は部長ですよ。
+V(辞書形)＋はずだった :: V(辞書形) + はずだった (toteutumaton odotus). Esim. 来るはずだったんですが、急に…。
+N/な-adjektiivi + はずがない :: Nの／な-adj な + はず(がない). Esim. 休みのはずがない。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä はずがない aina edellyttää taustalleen?
+?
+Nimettävän perusteen, esim. 彼は部長ですよ (asema) tai tiedetty tosiasia; ilman perustetta sopii pikemminkin ないでしょう.
+
+Mitä 知らないはずがない tarkoittaa?
+?
+'Ei voi olla ettei tietäisi' eli hän varmasti tietää (kaksoiskielto).
+
+Mihin はずだった + が/けど johtaa?
+?
+Selitykseen siitä mikä meni pieleen; sama kaava kuin つもりだった:lla.
+
+Mihin tilanteeseen そんなはずはない on kiinteä reaktio?
+?
+Toisen juuri esittämän tiedon kiistämiseen.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten はずがない eroaa はずです:sta?
+?
+はずです on myönteinen perusmuoto ('pitäisi olla niin'); はずがない on sen kielto ja はずだった sen toteutumaton menneen ajan muoto.
+
+Miten はずがない eroaa に違いない:sta?
+?
+に違いない on vahva myönteinen päättely; はずがない on sen peilikuva kielteisenä.
+
+Miten はずがない (mahdotonta) eroaa なくてもいい:stä (ei tarvitse)?
+?
+Molemmat kääntyvät helposti 'ei tarvitse/ei voi', mutta はずがない koskee päättelyä, なくてもいい velvollisuutta.
+
+#flashcards/grammar/n3/vertailu
+
+普通形はずがない／はずはない／はずだった (similar/compare) :: 普通形はずです (varma odotus)
+普通形はずがない／はずはない／はずだった (similar) :: 普通形に違いない (varmasti on niin)
+普通形はずがない／はずはない／はずだった (similar) :: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)
+普通形はずがない／はずはない／はずだった (similar) :: 普通形わけではない (ei tarkoita etta aina)

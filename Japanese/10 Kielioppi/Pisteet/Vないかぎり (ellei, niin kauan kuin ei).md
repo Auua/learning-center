@@ -45,3 +45,21 @@ tags: [grammar/perusrakenne, jlpt/n2]
 あきらめ＿＿＿＿、チャンスは必ず来ると思う。(pysyvä tila joka jatkuu ellei ehto täyty)
 ?
 ないかぎり — "ellei, niin kauan kuin ei", rajaa tilan kestoa kielteisellä ehdolla.
+
+#flashcards/grammar/n2/muodostus
+
+V(ない形)＋かぎり(は) + verbi :: V(ない形) + かぎり. 例: あきらめないかぎり、チャンスは必ず来ると思う。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä on ぬ rakenteessa V(ない形)＋かぎり(は)?
+?
+Klassinen, kirjallisempi kieltomuoto ない:n sijaan; molemmat esiintyvät (切りさかぬかぎり).
+
+Millaista tilaa V(ない形)＋かぎり(は) korostaa?
+?
+Pysyvää tilaa, joka jatkuu niin kauan kuin ehto ei täyty; ei kertaluontoista tapahtumaa.
+
+#flashcards/grammar/n2/vertailu
+
+V(ない形)＋かぎり（は） (similar) :: ～ば (jos, ehto)

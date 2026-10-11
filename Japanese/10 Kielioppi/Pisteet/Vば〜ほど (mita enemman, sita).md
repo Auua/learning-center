@@ -49,3 +49,29 @@ tags: [grammar/ehto, jlpt/n4]
 年を取れば取るほど元気になりますね。 — mitä tämä tarkoittaa?
 ?
 "Mitä vanhemmaksi tulee, sitä energisemmäksi tulee" — progressiivinen suhde iän ja energisyyden välillä.
+
+#flashcards/grammar/n4/muodostus
+
+Vば〜ほど + い-adjektiivi :: い-adj(ければ) + い-adj(い) + ほど. 例: 野菜は新しければ新しいほどおいしいです。
+Vば〜ほど + verbi :: V(ば) + V(辞書形) + ほど. 例: 年を取れば取るほど元気になりますね。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten sana toistuu rakenteessa Vば〜ほど?
+?
+Aina kahdesti: kerran ehtomuodossa ば, kerran perusmuodossa ennen ほど:ta; ei kahta eri sanaa.
+
+Miten な-adjektiivit ja substantiivit toimivat rakenteessa Vば〜ほど?
+?
+Samalla kaavalla なら(ば)...な+ほど, mutta yleisimmät esimerkit ovat い-adjektiiveilla ja verbeillä.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten Vば〜ほど eroaa muodosta Vば〜だけ?
+?
+Sama verrannollinen merkitys; ほど korostaa astetta, だけ 'juuri sen verran kuin' (panostuksen ja tuloksen vastaavuutta).
+
+#flashcards/grammar/n4/vertailu
+
+Vば〜ほど (similar) :: ～ば (jos, ehto)
+Vば〜ほど (similar/compare) :: Vば～だけ (mita enemman, sita enemman)

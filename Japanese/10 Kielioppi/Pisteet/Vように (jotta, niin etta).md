@@ -54,3 +54,32 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi ei sanota ×日本語が話せるために?
 ?
 ため(に) vaatii tahdonalaisen verbin; 話せる on potentiaali (ei-tahdonalainen) — siksi ように, ei ため(に).
+
+#flashcards/grammar/n4/muodostus
+
+V(potentiaali/ei-tahdonalainen)ように + potentiaali :: Potentiaali + ように. 例: 速く泳げるように、毎日練習しています。
+V(potentiaali/ei-tahdonalainen)ように + kielto :: ない-muoto + ように. 例: 忘れないように、つけてあるんです。
+
+#flashcards/grammar/n4/nyanssi
+
+Minkä verbien kanssa ように käytetään tarkoitusta ilmaistaessa?
+?
+Ei-tahdonalaisten (potentiaali, kielto, tilaverbit kuten わかる, 見える); tahdonalaisille käytetään ため(に): 会うために行きます.
+
+Mitä tarkoittaa rakenne ように…してください?
+?
+Yleinen kohtelias pyyntömuoto: 'pyrkikää siihen että...' (絶対に遅れないようにしてください).
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: ため(に) vai ように, kun tavoite on päivittäin opiskella japania?
+?
+Verbin tahdonalaisuus ratkaisee: ため(に) tahdonalaiselle päätavoitteelle (日本語を勉強するために日本へ来ました); ように ei-tahdonalaiselle kyvylle/tilalle (日本語が話せるように毎日勉強しています).
+
+Miten tarkoitus-ように erotetaan ようです-päättelystä?
+?
+Sama kirjoitusasu, eri kielioppi: tarkoitus-ように jatkuu toisella verbillä/lauseella, päättely-ようです päättää lauseen.
+
+#flashcards/grammar/n4/vertailu
+
+V(potentiaali/ei-tahdonalainen)ように (similar/compare) :: 普通形ようです (havaintoon perustuva paattely)

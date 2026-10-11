@@ -27,5 +27,8 @@ tags: [vocab, jlpt/n2]
 - 
 
 ## Kortit
-#flashcards/vocab
-TOEIC::トーイック — TOEIC-koe
+#flashcards/vocab/n2
+
+TOEIC :: トーイック - TOEIC-koe
+トーイック :: TOEIC - TOEIC-koe
+TOEIC-koe :: TOEIC - トーイック

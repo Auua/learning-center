@@ -46,3 +46,22 @@ tags: [grammar/perusrakenne, jlpt/n4]
 冬の寒い朝ってなかなかベッドから出られない＿＿＿。(varmistus, melko varma puhuja)
 ?
 よね — yhdistää uuden tiedon painotuksen (よ) ja samanmielisyyden haun (ね).
+
+#flashcards/grammar/n4/muodostus
+
+普通形＋よね :: 普通形 + よね. Esim. 冬の寒い朝ってなかなかベッドから出られないよね。(Kylmänä talviaamuna on vaikea nousta sängystä, eikö niin?)
+
+#flashcards/grammar/n4/nyanssi
+
+Milloin よね sopii paremmin kuin pelkkä ね?
+?
+Kun puhuja on melko varma väitteestään mutta pehmentää sitä hakemalla kuulijan vahvistusta (esittää yhteisen kokemuksen/mielipiteen todennäköisenä totuutena).
+
+Miten よね eroaa pelkästä よ:sta?
+?
+よね on pehmeämpi: ei tyrkytä tietoa yhtä suoraan vaan kutsuu kuulijan mukaan keskusteluun.
+
+#flashcards/grammar/n4/vertailu
+
+普通形＋よね (similar) :: Sよ (uuden tiedon korostus)
+普通形＋よね (similar) :: Sね (vahvistus, eikö niin)

@@ -44,3 +44,18 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+ごめんください ::: Huhuu, onko ketään kotona?
+いらっしゃい ::: Tervetuloa.
+どうぞお上がりください ::: Olkaa hyvä ja tulkaa sisään.
+失礼します ::: Suokaa anteeksi (että häiritsen/tulen sisään).
+［〜は］いかがですか ::: Saisitteko/haluaisitteko ~?
+いただきます ::: Kiitos, otan mielelläni.
+［〜、］すてきですね ::: Miten kaunis/hieno ~!
+ただいま ::: Kotona taas! (kirjaimellisesti "juuri nyt")
+お帰りなさい ::: Tervetuloa kotiin.
+すごいですね ::: Mahtavaa!/Huikeaa!
+疲れました ::: Olen väsynyt.

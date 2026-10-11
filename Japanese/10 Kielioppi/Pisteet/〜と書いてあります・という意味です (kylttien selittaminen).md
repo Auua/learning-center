@@ -56,3 +56,28 @@ tags: [grammar/perusrakenne, jlpt/n4]
 立入禁止は入るな＿＿＿＿＿＿。(selittää merkitys)
 ?
 という意味です — selittää mitä kielto tarkoittaa.
+
+#flashcards/grammar/n4/muodostus
+
+〜と書いてあります + mitä lainataan? :: 「S」+ と書いてあります: lainaa kirjoitetun sisällön. Esim. 「止まれ」と書いてあります.
+〜という意味です + mihin liittyy? :: 普通形／N + という意味です: selittää merkityksen. Esim. 立入禁止は入るなという意味です.
+
+#flashcards/grammar/n4/nyanssi
+
+Millä muodolla 〜という意味です:n sisältö selitetään?
+?
+Aina 普通形:lla; edessä voi olla esim. kieltokäsky (入るな) tai potentiaali (洗える).
+
+Millä kysymyksellä kysytään 〜という意味です -rakenteessa merkitystä, jota ei ymmärrä?
+?
+どういう意味ですか, vakiokysymys sanan, merkin tai symbolin merkityksestä.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten 〜と書いてあります eroaa rakenteesta 〜という意味です?
+?
+と書いてあります kertoo mitä kyltissä tai paperissa lukee; という意味です selittää mitä se tarkoittaa.
+
+#flashcards/grammar/n4/vertailu
+
+〜と書いてあります・〜という意味です (similar) :: 普通形と言います (lainaus)

@@ -1,3 +1,4 @@
+<%* const j = await tp.system.suggester(["N5","N4","N3","N2","N1"], ["N5","N4","N3","N2","N1"], false, "JLPT-taso"); -%>
 ---
 type: verb
 word: "<% tp.file.title %>"
@@ -9,19 +10,20 @@ transitivity:
 pair: 
 opposite: []
 similar: []
-jlpt: 
+jlpt: <% j %>
 kanji: []
 sets: []
 sources: []
 status: new
 confidence: 1
 created: <% tp.date.now("YYYY-MM-DD") %>
-tags: [verb]
+tags: [verb, jlpt/<% j.toLowerCase() %>]
 ---
 
 ## Merkitys
 - **FI:** 
 - **EN:** 
+- **Ääni:** 
 
 ## Taivutus
 | Muoto | Myönteinen | Kielteinen |
@@ -41,9 +43,36 @@ tags: [verb]
 ## Kollokaatiot
 - 
 
-## Esimerkit
+## Sekoitan tähän
 - 
 
+## Esimerkit
+- 日本語の lause — suomi/englanti ![[lause-ääni.mp3]]
+<!-- vaihtoehtoisesti upotus lausepankista: ![[Lausepankki — Aihe#^tunnus]] -->
+
 ## Kortit
-#flashcards/verb 
-<% tp.file.title %>::
+#flashcards/verbs/<% j.toLowerCase() %>
+
+<% tp.file.title %> :: reading - meaning
+reading :: <% tp.file.title %> - meaning
+meaning :: <% tp.file.title %> - reading
+![[ääni.mp3]] ::: <% tp.file.title %> - meaning
+
+<% tp.file.title %> (pair) :: pair
+<% tp.file.title %> (opposite) :: opposite
+<% tp.file.title %> (similar) :: similar
+
+日本語の lause ::: suomi/englanti
+![[lause-ääni.mp3]] ::: suomi/englanti
+
+#flashcards/verbs/<% j.toLowerCase() %>/kollokaatio
+
+kollokaatio
+??
+suomi/englanti
+
+#flashcards/verbs/<% j.toLowerCase() %>/sekoitan
+
+kysymys
+?
+vastaus

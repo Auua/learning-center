@@ -62,3 +62,37 @@ Vertailu [[Vて、Vて (peräkkäisyys)]]: たり,たりします ei kerro järj
 日曜日はテニスをしたり、映画を見たりします。 — kerrotaanko tässä tapahtumien järjestystä?
 ?
 Ei — たり,たりします vain listaa esimerkkejä siitä mitä tehdään, ei kerro missä järjestyksessä tai että nämä olisivat ainoat teot.
+
+#flashcards/grammar/n5/muodostus
+
+Vたり、Vたりします + nykyaika :: V1（た形）+ り、V2（た形）+ り + します. Esim. 日曜日はテニスをしたり、映画を見たりします。
+Vたり、Vたりします + mennyt aika :: Aikamuoto vain viimeisessä します-osassa: ...たり、...たりしました. Esim. 日曜日はテニスをしたり、映画を見たりしました。
+
+#flashcards/grammar/n5/nyanssi
+
+Kertooko Vたり、Vたりします tekojen järjestyksen?
+?
+Ei. Järjestystä ei ilmaista, toisin kuin Vて、Vて-rakenteessa.
+
+Onko Vたり、Vたりします tyhjentävä luettelo?
+?
+Ei. Se implikoi, että tehtiin myös muuta kuin mainitut esimerkit.
+
+Millaisille teoille Vたり、Vたりします ei sovi?
+?
+Täysin rutiininomaisille, joka päivä samalla tavalla tehtäville teoille (herääminen, syöminen); sopii vaihteleviin vapaa-ajan aktiviteetteihin.
+
+Mihin aikamuoto ilmaistaan rakenteessa Vたり、Vたりします?
+?
+Vasta viimeisen します-osan kohdalla.
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: Vたり、Vたりします vai Vて、Vて, kun järjestys on tärkeä?
+?
+Vて、Vて kertoo tarkan järjestyksen ja on yleensä täydellinen lista; たり、たり ei kerro järjestystä eikä ole tyhjentävä.
+
+#flashcards/grammar/n5/vertailu
+
+V1た形り、V2た形りします (similar) :: Vて、Vて (peräkkäisyys)
+V1た形り、V2た形りします (similar/compare) :: ～たり～たり (vaihtelu, epäsäännöllisyys)

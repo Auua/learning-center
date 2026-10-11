@@ -54,3 +54,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on 村上春樹という作家と会社を辞めたといううわさ?
 ?
 村上春樹という作家 esittelee erisnimen (Chapter 1:n という); 会社を辞めたといううわさ kuvaa kokonaisen väitteen sisällön (tämän luvun という).
+
+#flashcards/grammar/n3/muodostus
+
+普通形 + という + substantiivi (記事, うわさ, 規則, 話) :: Esim. 彼が会社を辞めたといううわさを聞きました。 (kuulin huhun että hän lopetti)
+普通形 + という + 事件 / 規則 :: Esim. ごみを分けて出すという規則はなかなか守られていません。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä という tekee rakenteessa 普通形 + という + N?
+?
+Toimii sisällön ja sitä kuvaavan substantiivin liimana; edellä on kokonainen lause (sisältö), ei erisnimi.
+
+Mitkä ovat yleisiä jälkisubstantiiveja rakenteessa 普通形という～?
+?
+記事, うわさ, 規則/法律, 事件, 話.
+
+Miten vastataan kysymykseen どんな話を聞いたんですか tällä rakenteella?
+?
+Esim. この辺りは昔、海だったという話を聞きました。
+
+#flashcards/grammar/n3/sekaannus
+
+Miten という～ (sisältö) eroaa nimeämis-という:sta (村上春樹という作家)?
+?
+Nimeämisessä という:n edellä on erisnimi; tässä sen edellä on kokonainen lause/tapahtuma (会社を辞めたといううわさ). Kysy: onko edellä nimi vai kokonainen väite?
+
+#flashcards/grammar/n3/vertailu
+
+普通形という～ (similar/compare) :: ～を～と言う・～という～ (nimeaminen)
+普通形という～ (similar) :: 普通形と言います (lainaus)

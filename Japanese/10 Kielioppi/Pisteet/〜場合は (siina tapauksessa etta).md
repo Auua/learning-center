@@ -54,3 +54,34 @@ Ks. [[Vertailu — Ehtolauseet と・ば・たら・なら]] — 場合は täyd
 Miksi 場合は sopii käyttöohjeisiin paremmin kuin たら?
 ?
 場合は on muodollisempi ja neutraalimpi — sopii kirjallisiin sääntöihin/ohjeisiin paremmin kuin puhekielisempi たら.
+
+#flashcards/grammar/n4/muodostus
+
+〜場合は + verbi／い-adjektiivi :: 普通形 + 場合は. Esim. カードをなくした場合は、すぐ連絡してください.
+〜場合は + substantiivi :: N + の + 場合は. Esim. 火事や地震の場合は、エレベーターを使わないでください.
+
+#flashcards/grammar/n4/nyanssi
+
+Millaiseen tekstiin 〜場合は sopii erityisen hyvin ja miten se eroaa たら:sta?
+?
+Kirjallisiin ohjeisiin, sääntöihin ja virallisiin tiedotteisiin; vähemmän puhekielinen kuin たら.
+
+Millaista tilannetta 〜場合は usein kuvaa?
+?
+Poikkeuksellista tai ei-toivottua tilannetta, johon annetaan valmis toimintaohje.
+
+Mikä ilmaus viittaa takaisin juuri mainittuun tilanteeseen 〜場合は -rakenteessa?
+?
+その場合は.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten 〜場合は liittyy ehtolauseisiin と・ば・たら・なら?
+?
+Se täydentää niitä muodollisena, usein kirjallisena vaihtoehtona samalle ehtomerkitykselle.
+
+#flashcards/grammar/n4/vertailu
+
+普通形場合は／Nの場合は (similar) :: ～ば (jos, ehto)
+普通形場合は／Nの場合は (similar) :: ～たら (jos, kun)
+普通形場合は／Nの場合は (compare) :: Vertailu — Ehtolauseet と・ば・たら・なら

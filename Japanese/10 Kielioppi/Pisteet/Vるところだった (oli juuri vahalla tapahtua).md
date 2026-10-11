@@ -50,3 +50,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 気づくのが遅れたら、火事になる＿＿＿＿＿＿。(vältetty vaaratilanne)
 ?
 ところだった — "oli juuri vähällä tapahtua", tapahtuma ei lopulta toteutunut.
+
+#flashcards/grammar/n2/muodostus
+
+V辞書形＋ところだった + sanakirjamuoto :: V辞書形 + ところだった. 例: 気づくのが遅れたら、火事になるところだった。
+V辞書形＋ところだった + もう少しで :: もう少しで + V辞書形 + ところだった. 例: もう少しで大変なことになるところでした。
+
+#flashcards/grammar/n2/nyanssi
+
+Mikä näkökulma V辞書形＋ところだった vaatii?
+?
+Jälkikäteisen: tapahtuma ei lopulta toteutunut, usein onnekkaan sattuman tai väliintulon ansiosta.
+
+Mitkä sanat usein edeltävät rakennetta ところだった?
+?
+もう少しで ja 危うく; ne vahvistavat 'juuri ja juuri' -sävyä.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten Vるところだった eroaa muodosta Vるところです?
+?
+これから食べるところです viittaa lähitulevaisuuteen ('olen juuri aloittamassa'); るところだった viittaa menneisyyteen ja vältettyyn tapahtumaan, joka ei koskaan toteutunut.
+
+#flashcards/grammar/n2/vertailu
+
+V辞書形＋ところだった (similar/compare) :: Vところです (kolme vaihetta)

@@ -65,3 +65,31 @@ tags:
 Mikä partikkeli on aina 自動詞＋ている-rakenteessa?
 ?
 が — tekijää ei ilmaista, vain tila.
+
+#flashcards/grammar/n4/muodostus
+
+自動詞＋ている (tuloksena oleva tila) :: 自動詞 (intransitiivi) + ている. Esim. 窓が閉まっています。(Ikkuna on kiinni.)
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä partikkeli on aina 自動詞＋ている-lauseessa ja miksi?
+?
+が, ei を, koska tekijää ei mainita eikä se ole kieliopillisesti läsnä.
+
+Miten 自動詞＋ている eroaa transitiivi + てある -rakenteesta?
+?
+てある kertoo että joku teki sen tarkoituksella; 自動詞＋ている ei ota kantaa tekijään.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten 窓を閉める ja 窓が閉まっている eroavat?
+?
+窓を閉める on transitiivinen teko (joku sulkee); 窓が閉まっている on intransitiivinen tila (ikkuna on kiinni).
+
+Miksi ×自動販売機を壊れています on virhe?
+?
+壊れる on aina intransitiivinen, joten partikkeli on が: 自動販売機が壊れています.
+
+#flashcards/grammar/n4/vertailu
+
+自動詞＋ている (similar) :: ～ている (parhaillaan, tilan tulos)

@@ -15,11 +15,13 @@ register:
   - kirjoitettu
 similar:
   - "[[Liikkumisen partikkelit (へ・で・と)]]"
+  - "[[N (syy) で]]"
+  - "[[N (ryhmä, määrä, aika) で]]"
 compare:
+  - "[[N (syy) で]]"
 sources:
   - "[[Minna no Nihongo I#Luku 6]]"
   - "[[Minna no Nihongo I#Luku 21]]"
-  - "[[Minna no Nihongo II#Luku 39]]"
 status: known
 confidence: 4
 reviewed:
@@ -45,7 +47,7 @@ tags:
 - Ei käy staattisen olemisen kanssa (あります/います) — silloin käytetään に:tä, ei で:tä: ×駅で新聞があります → ○駅に新聞があります (myöhemmin, [[Minna no Nihongo I#Luku 10]]).
 - で vaatii aina **toimintaverbin** — paikka jossa jotain aktiivisesti tapahtuu, ei paikka jossa jokin vain sijaitsee.
 - **Luku 21:n laajennus:** で voi merkitä myös **tilaisuuden**, jossa jotain tehdään (ei vain fyysistä paikkaa): 会議で意見を言いました。 (Sanoin mielipiteeni kokouksessa.)
-- **Luku 39:n laajennus — syyn merkitseminen:** で voi merkitä myös **tapahtuman syyn**, kun jälkilause kuvaa seurauksen intransitiiviverbillä: 地震でビルが倒れました。（maanjäristys aiheutti rakennuksen kaatumisen）事故でバスが遅れたんです。（onnettomuus aiheutti bussin myöhästymisen）事故で人が大勢死にました。 Rakenne on lyhyt eikä vaadi verbimuotoa lainkaan syy-osalle — pelkkä N+で riittää.
+- Syyn merkitseminen (事故でバスが遅れた, Minna II L32/L39) on omana muistiinpanonaan: [[N (syy) で]].
 
 ## Esimerkit
 ![[Lausepankki — Ruoka ja vapaa-aika#^ruoka3]]
@@ -63,3 +65,29 @@ Merkitsee paikan jossa ostotapahtuma tehdään ("asemalla") — ei kulkuvälinet
 Miksi で ei käy あります/います-lauseissa?
 ?
 で vaatii aktiivisen toiminnan; pelkkä olemassaolo/sijainti ilmaistaan に:llä.
+
+#flashcards/grammar/n5/muodostus
+
+N（場所）で + toimintaverbi :: N（paikka）+ で + V. Esim. 駅で新聞を買います。
+
+#flashcards/grammar/n5/nyanssi
+
+Miksi N（場所）で ei käy olemisverbien あります／います kanssa?
+?
+Staattiseen olemiseen käytetään に: ○駅に新聞があります, ×駅で新聞があります. で vaatii toimintaverbin.
+
+Voiko N（場所）で merkitä muutakin kuin fyysistä paikkaa?
+?
+Kyllä, myös tilaisuuden, jossa jotain tehdään: 会議で意見を言いました。
+
+#flashcards/grammar/n5/sekaannus
+
+Miten paikka-で eroaa kulkuvälineen で:stä (電車で行きます)?
+?
+Sama partikkeli, eri rooli: liikeverbi + ajoneuvo → kulkuväline; muu toimintaverbi + paikka → toimintapaikka.
+
+#flashcards/grammar/n5/vertailu
+
+N（場所）で (similar) :: Liikkumisen partikkelit (へ・で・と)
+N（場所）で (similar/compare) :: N (syy) で
+N（場所）で (similar) :: N (ryhmä, määrä, aika) で

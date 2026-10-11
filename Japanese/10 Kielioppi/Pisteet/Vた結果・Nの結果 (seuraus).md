@@ -47,3 +47,22 @@ tags: [grammar/perusrakenne, jlpt/n3]
 妻と＿＿＿＿＿＿、わたしたちは両親といっしょに住むことにした。(相談する, seuraus)
 ?
 相談した結果 — た形 + 結果, ilmaisee keskusteluprosessin lopputuloksen.
+
+#flashcards/grammar/n3/muodostus
+
+結果 + verbi (た形) :: V(た形) + 結果、… Esim. 妻と相談した結果、両親といっしょに住むことにした。
+結果 + substantiivi :: N + の + 結果、… Esim. 調査の結果、沖縄県の女性がいちばん長生きすることがわかりました。
+
+#flashcards/grammar/n3/nyanssi
+
+Millainen on etulause rakenteessa Vた結果・Nの結果?
+?
+Prosessi tai toimenpide, joka johti lopputulokseen (相談する, 話し合う, 調査する, 交渉する); ei sovi pelkkään syy-seuraukseen ilman prosessin vaihetta.
+
+Missä yhteyksissä Nの結果 on tyypillinen?
+?
+Tutkimustulosten ja virallisten ilmoitusten kaavoissa: 調査/アンケート/投票 + の結果.
+
+Miten 結果 sävyltään eroaa から/ので-syystä?
+?
+Muodollisempi ja tarkempi; ilmaisee nimenomaan lopputuloksen prosessin päätteeksi.

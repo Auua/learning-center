@@ -68,3 +68,16 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+風呂場 vs 洗面所 vs トイレ?
+?
+風呂場 = kylpyamme ja suihku; 洗面所 = lavuaari ja pesukone; トイレ = pelkkä wc. "Missä on vessa" = トイレはどこですか.
+
+#flashcards/setti/teema
+
+Setti — Koti ja huonekalut: sano ainakin viisi sanaa
+?
+フィルム (filmi), 電池 (paristo), 箱 (laatikko), スイッチ (katkaisija), 冷蔵庫 (jääkaappi), テーブル (pöytä), ベッド (sänky), 棚 (hylly), ドア (ovi), 窓 (ikkuna), ポスト (postilaatikko), ビル ((toimisto/liike)rakennus)…

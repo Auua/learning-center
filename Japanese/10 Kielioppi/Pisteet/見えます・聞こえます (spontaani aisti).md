@@ -68,3 +68,35 @@ tags:
 見える vs. 見られる?
 ?
 見える = näkyy itsestään ilman tahtoa; 見られる = pystyn/saan tilaisuuden katsoa (potentiaali).
+
+#flashcards/grammar/n4/muodostus
+
+N が 見えます／聞こえます :: N + が + 見えます／聞こえます. Esim. 窓から海が見えます。(Ikkunasta näkyy meri.)
+見えます／聞こえます (kielteinen) :: 何も見えません。／よく聞こえません。
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä partikkeli merkitsee kohteen 見えます/聞こえます-verbien kanssa?
+?
+Aina が, ei を, koska puhuja ei tee mitään vaan ilmiö vain tapahtuu hänelle.
+
+Miten 見える/聞こえる eroavat 見られる/聞ける-potentiaalimuodoista?
+?
+見える/聞こえる kuvaavat itsestään syntyvää aistihavaintoa; potentiaali kuvaa tilaisuutta tai kykyä: 映画が見られる (pääsen katsomaan).
+
+Voiko 見える/聞こえる-verbeistä muodostaa potentiaalin?
+?
+Ei (×見えられる); ne ovat jo itsessään 'tapahtuu itsestään' -verbejä.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten 富士山が見える eroaa 富士山が見られる:stä?
+?
+見える = näkyy juuri nyt (itsestään); 見られる = on mahdollista päästä näkemään.
+
+#flashcards/grammar/n4/vertailu
+
+Nが見えます／Nが聞こえます (similar) :: Potentiaali える
+Nが見えます／Nが聞こえます (similar) :: できます (valmistua, syntyä)
+Nが見えます／Nが聞こえます (similar) :: 自動詞＋ている (jaljelle jaanyt tila)
+Nが見えます／Nが聞こえます (compare) :: Vertailu — Potentiaali vs. spontaani aisti

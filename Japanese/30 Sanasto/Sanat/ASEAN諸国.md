@@ -27,5 +27,8 @@ tags: [vocab, jlpt/n2]
 - 
 
 ## Kortit
-#flashcards/vocab
-ASEAN諸国::アセアンしょこく — ASEAN-maat
+#flashcards/vocab/n2
+
+ASEAN諸国 :: アセアンしょこく - ASEAN-maat
+アセアンしょこく :: ASEAN諸国 - ASEAN-maat
+ASEAN-maat :: ASEAN諸国 - アセアンしょこく

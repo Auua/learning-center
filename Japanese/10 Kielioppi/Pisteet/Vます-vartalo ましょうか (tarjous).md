@@ -61,3 +61,27 @@ Puhuja tarjoutuu lainaamaan sateenvarjon kuulijalle — puhuja toimii, kuulija h
 Miten Vましょうか eroaa Vましょう:sta?
 ?
 Vましょう on yhteinen ehdotus ("tehdään me"), Vましょうか on tarjous ("teenkö minä sinulle") — か kääntää suunnan.
+
+#flashcards/grammar/n5/muodostus
+
+Vます-vartalo ましょうか + ます-vartalo :: ます-vartalo + ましょうか. 例: 傘を貸しましょうか。 Vastaus: ええ、お願いします。 / いいえ、けっこうです。
+
+#flashcards/grammar/n5/nyanssi
+
+Kuka toimii ja kuka hyötyy rakenteessa Vましょうか?
+?
+Puhuja tarjoutuu tekemään kuulijan puolesta ('teenkö minä?'); kuulija vain hyötyy.
+
+Miten Vましょうか-tarjoukseen kieltäydytään kohteliaasti?
+?
+いいえ、けっこうです。 ('ei kiitos'); myöntävä vastaus on ええ、お願いします。
+
+#flashcards/grammar/n5/sekaannus
+
+Miten Vましょうか eroaa muodosta Vましょう?
+?
+Vましょう on yhteinen ehdotus ('tehdään yhdessä'); か:n lisääminen kääntää suunnan tarjoukseksi ('teenkö minä sinulle').
+
+#flashcards/grammar/n5/vertailu
+
+Vます-vartalo ましょうか (similar) :: Vませんか・Vましょう (etkö tulisi, tehdäänkö)

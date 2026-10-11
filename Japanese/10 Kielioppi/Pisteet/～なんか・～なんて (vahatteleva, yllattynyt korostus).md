@@ -55,3 +55,29 @@ tags: [grammar/perusrakenne, jlpt/n3]
 わたし＿＿＿だめですよ。ほかにいい人がいますよ。(vahattely)
 ?
 なんか — vähättelee itseään, vaatimaton kieltäytyminen.
+
+#flashcards/grammar/n3/muodostus
+
+Nなんか + vähättelevä/kielteinen lause :: N + なんか + kielteinen/vähättelevä lause. Esim. わたしなんかだめですよ。 / お金なんか要らないわ。
+Nなんか + 気にしない(で) :: N + なんか + 気にしない(で). Esim. 点数なんか気にしないで。
+普通形なんて + 信じられない／知らなかった :: 普通形 + なんて + 信じられない／知らなかった. Esim. 彼が医者になるなんて信じられない。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä sävyä Nなんか ilmaisee ja mihin sitä usein käytetään?
+?
+Vähättelee substantiivin arvoa; usein vaatimattomuuteen itsestä (わたしなんか) tai lohduttamiseen (お金なんか気にしないで).
+
+Mihin sanaluokkiin Nなんて voi liittyä toisin kuin なんか?
+?
+なんて voi seurata sekä substantiivia että kokonaista lausetta (普通形); ilmaisee voimakasta yllätystä, usein negatiivisesti värittynyttä epäuskoa.
+
+Missä rekisterissä なんか／なんて toimivat?
+?
+Puhekielisiä, tunnepitoisia korostuskeinoja; eivät sovi muodolliseen tekstiin.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten なんか ja なんて eroavat tunnesävyltään?
+?
+なんか vähättelee (asia on pieni/merkityksetön); なんて ilmaisee yllätystä (asia on uskomaton/järkyttävä).

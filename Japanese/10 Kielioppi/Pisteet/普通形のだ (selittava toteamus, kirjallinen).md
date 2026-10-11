@@ -49,3 +49,28 @@ tags: [grammar/perusrakenne, jlpt/n3]
 一言でいえば、鈴木家は音楽一家な＿＿。(kirjallinen selittävä toteamus)
 ?
 のだ — んです:n kirjallinen vastine, tiivistää/korostaa edellä sanotun ydinajatuksen.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋のだ／なのだ／なのである :: 普通形 + のだ／なのである. Esim. 2人しか合格しなかったのである。; 鈴木家は音楽一家なのだ。(Suzukin perhe on musiikkiperhe.)
+普通形＋んだね (puhekielinen) :: N/な-adj + なんだね. Esim. 僕たち2人だけの秘密なんだね。
+
+#flashcards/grammar/n3/nyanssi
+
+Missä tekstilajeissa 普通形のだ/なのである esiintyy ja mitä se tekee?
+?
+Esseiden ja kertomusten loppulauseissa, joissa se tiivistää edellä esitetyn havainnon tai johtopäätöksen.
+
+Missä järjestyksessä のだ-muodot ovat muodollisuudeltaan: なのである, なのだ, んだ?
+?
+なのである on muodollisin/kirjallisin, なのだ hieman kevyempi, んだ/んだね puhekielisin.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten 普通形のだ eroaa 普通形んです:sta?
+?
+Sama selittävä/korostava funktio; ero on rekisterissä: んです on puhekielinen, のだ/なのである sen muodollinen kirjoitettuun tekstiin sopiva vastine.
+
+#flashcards/grammar/n3/vertailu
+
+普通形＋のだ／なのだ／なのである (similar/compare) :: 普通形んです (selittävä sävy)

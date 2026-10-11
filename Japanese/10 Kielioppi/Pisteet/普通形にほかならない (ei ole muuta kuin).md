@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n1]
 この成功は、あなたの努力の結果＿＿＿＿＿＿＿。(vahvin mahdollinen "ei mitään muuta kuin")
 ?
 にほかなりません — sulkee pois kaikki muut selitykset, vahvin korostava väite.
+
+#flashcards/grammar/n1/muodostus
+
+〜にほかならない + substantiivi :: N + にほかならない. Esim. この成功は、あなたの努力の結果にほかなりません。(Tämä menestys on pelkkää ponnistelujesi tulosta.)
+〜からにほかならない + 普通形 :: 普通形 + からにほかならない. Esim. このような事故が起きたのは、会社の管理体制が甘かったからにほかなりません。
+
+#flashcards/grammar/n1/nyanssi
+
+Millaisiin tilanteisiin にほかならない sopii ja miksi?
+?
+Se on erittäin painokas ilmaus, joka sulkee pois kaikki muut selitykset; sopii esseisiin, puheisiin ja väitteisiin.
+
+Mitä 〜からにほかならない-kaava ilmaisee?
+?
+Syyn korostamista: 'syy on nimenomaan ja ainoastaan tämä'.

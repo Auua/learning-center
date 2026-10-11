@@ -66,3 +66,33 @@ Vertailu [[Vなくても いいです (ei tarvitse)]]: なければなりませ�
 なければなりません — miksi kaksi kieltoa tuottavat myöntävän merkityksen?
 ?
 Kirjaimellisesti "ellei tee, ei kelpaa" — kaksoiskielto muodostaa pakon: on tehtävä, koska tekemättä jättäminen ei ole vaihtoehto.
+
+#flashcards/grammar/n5/muodostus
+
+Vなければなりません + verbi :: ない-muoto (ない → なければ) + なりません. 例: 薬を飲まなければなりません。
+
+#flashcards/grammar/n5/nyanssi
+
+Miten Vなければなりません voi lyhentyä puhekielessä?
+?
+なりません jää pois: もう帰らないと。 ('Täytyypä lähteä kotiin'); と jää roikkumaan ja kuulija täydentää lopun.
+
+Mistä osista Vなければなりません rakentuu?
+?
+Ei-muodosta ja ehtomuodosta ば: なければ ('ellei') + なりません ('ei käy'); kaksi kieltoa tuottaa pakon.
+
+Mitkä ovat Vなければなりません:n synonyymi ja puhekieliset supistumat?
+?
+Synonyymi ～なくてはならない/いけない. Puhekieli: なくては → なくちゃ, なければ → なきゃ, loppuosa jää pois.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten Vなければなりません eroaa muodosta Vなくてもいいです?
+?
+Täysin vastakkaiset samalla ない-pohjalla: なければなりません = pakko tehdä; なくてもいいです = ei tarvitse (saa jos haluaa).
+
+#flashcards/grammar/n5/vertailu
+
+Vなければなりません (similar) :: Vなくても いいです (ei tarvitse)
+Vなければなりません (similar/compare) :: ～なくてはならない・～なくてはいけない (pakko, toinen muoto)
+Vなければなりません (similar) :: ～なくちゃ・～なきゃ (puhekielinen pakko)

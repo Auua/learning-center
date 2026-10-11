@@ -54,3 +54,34 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Mitä eroa on ようになりました:lla ja ようにしています:lla?
 ?
 ようになりました kuvaa jo tapahtunutta muutosta (tulos); ようにしています kuvaa jatkuvaa tietoista yritystä (prosessi).
+
+#flashcards/grammar/n4/muodostus
+
+V(辞書形/ない形)ようにしています + sanakirjamuoto :: V(辞書形) + ようにしています. 例: 毎日日記を書くようにしています。
+V(辞書形/ない形)ようにしています + kielteinen :: V(ない形) + ようにしています. 例: できるだけ食べないようにしています。
+
+#flashcards/grammar/n4/nyanssi
+
+Mitä ようにしています ilmaisee?
+?
+Tietoista, jatkuvaa pyrkimystä tehdä jotain tavakseen; muutos ei välttämättä ole vielä täydellinen.
+
+Millaisessa puheessa ようにしています on tyypillinen?
+?
+Terveys- ja elämäntapapuheessa: 運動する、野菜を食べる、早く寝る + ようにしています.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten ようにしています eroaa muodosta ようになりました?
+?
+ようになりました = jo tapahtunut muutos (tulos); ようにしています = jatkuva tietoinen yritys (prosessi), ei välttämättä vielä automaattinen tapa.
+
+Miten ようにしている eroaa muodosta ことにしている?
+?
+ことにしている kuvaa vakiintunutta päätöstä tai sääntöä (毎晩日記を書くことにしています); ようにしている on vielä kesken oleva pyrkimys kohti tapaa.
+
+#flashcards/grammar/n4/vertailu
+
+V(辞書形/ない形)ようにしています (similar) :: Vように (jotta, niin etta)
+V(辞書形/ない形)ようにしています (similar) :: Vようになります (kyvyn tai tilan muutos)
+V(辞書形/ない形)ようにしています (similar/compare) :: ことにする・ことにしている (oma paatos)

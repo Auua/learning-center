@@ -22,10 +22,14 @@ tags: [vocab, jlpt/n4, lahde/anki-mnn, anki/fi-auto]
 ## Merkitys
 - **FI:** kilometri
 - **EN:** kilometer
+- **Ääni:** ![[tts_648497c1a4f8.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 
 
 ## Kortit
-#flashcards/vocab
-キロ（km）::キロ（km） — kilometri
+#flashcards/vocab/n4
+
+キロ（km） :: kilometri
+kilometri :: キロ（km）
+![[tts_648497c1a4f8.m4a]] ::: キロ（km） - kilometri

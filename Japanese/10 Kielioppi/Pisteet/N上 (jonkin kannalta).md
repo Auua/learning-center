@@ -46,3 +46,26 @@ tags: [grammar/perusrakenne, jlpt/n2]
 この本は子どもの教育＿＿、問題がある。(muodollinen näkökulma-liite)
 ?
 上 — kiinteä liite joka rajaa näkökulman ("kasvatuksen kannalta"), muodollinen.
+
+#flashcards/grammar/n2/muodostus
+
+N＋上（は・の） + predikaatti :: N + 上、… Esim. 交通安全上、非常に危険である。
+N＋上（は・の） + substantiivi :: N + 上の + N2. Esim. 番組編成上の穴埋め.
+
+#flashcards/grammar/n2/nyanssi
+
+Miten N上 kirjoitetaan ja liitetään?
+?
+Kiinteä liite ilman partikkelia: 交通安全上 (ei ×交通安全の上).
+
+Millaisiin substantiiveihin N上 rajoittuu?
+?
+Tiettyihin abstrakteihin (外交上, 安全上, 教育上, 経験上, 立場上); ei vapaasti mille tahansa sanalle.
+
+Mikä on N上:n rekisteri?
+?
+Muodollinen, kirjoitettu.
+
+#flashcards/grammar/n2/vertailu
+
+N＋上（は・の） (similar) :: ～において (jossakin kontekstissa, muodollinen)

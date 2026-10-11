@@ -75,3 +75,49 @@ Käytetyt taivutusmuodot: [[Sanakirjamuoto]], [[た-muoto]], [[～ている (par
 Mitä 走っているつもりなんですけど tarkoittaa?
 ?
 Puhujan oma käsitys ("minusta tuntuu että juoksen täysillä") ei vastaa ulkopuolisen havaintoa — ているつもり merkitsee juuri tätä ristiriitaa.
+
+#flashcards/grammar/n3/muodostus
+
+Vつもりはない + mihin verbin muotoon? :: V(辞書形) + つもりはない — jyrkkä kielteinen päätös. 例: 一生働くつもりはありません。
+Vつもりだった + mihin verbin muotoon? :: V(辞書形) + つもりだった — toteutumaton aikomus. 例: コンサートに行くつもりでしたが…。
+Vたつもり(で) + mihin verbin muotoon? :: V(た形) + つもり(で) — kuviteltu suoritus. 例: それを買ったつもりで貯金する。
+Vているつもり + mihin verbin muotoon? :: V(ている) + つもり — oma käsitys ei vastaa todellisuutta. 例: 一生懸命走っているつもりなんですけど。
+
+#flashcards/grammar/n3/nyanssi
+
+Miten Vつもりはない eroaa muodosta つもりじゃありません?
+?
+つもりはない on jyrkempi: se kiistää koko aikomuksen olemassaolon, ei vain sen sisältöä.
+
+Mitä lausetta Vつもりだった + が/けど yleensä seuraa?
+?
+Selitys siitä, miksi suunnitelma kaatui, esim. 用事ができて…
+
+Missä tilanteessa Vたつもりで on tavallinen?
+?
+Säästämis- ja itsekurineuvoissa: 'kuvittele ostaneesi' ja pane rahat säästöön.
+
+Milloin Vているつもり esiintyy usein?
+?
+Kun joku toinen huomauttaa ristiriidasta; puhuja puolustautuu omalla käsityksellään.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten Vつもりはない・つもりだった・たつもり liittyy perusmuotoon Vつもりです?
+?
+Vつもりです on perusmerkitys (vakaa aikomus tulevasta); nämä kolme ovat sen kiistetty, toteutumaton ja kuviteltu variantti.
+
+Miten つもりだった eroaa muodosta Vようとした?
+?
+ようとした kertoo itse yrittämisen hetkestä; つもりだった suunnitelmasta joka jäi tekemättä.
+
+Miten つもり eroaa muodosta はず (はずだった)?
+?
+Sama toteutumattomuuden logiikka, mutta はず koskee odotusta, つもり omaa tahtoa.
+
+#flashcards/grammar/n3/vertailu
+
+Vつもりはない／Vつもりだった／Vたつもり (similar/compare) :: Vつもりです (paatetty aikomus)
+Vつもりはない／Vつもりだった／Vたつもり (similar) :: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)
+Vつもりはない／Vつもりだった／Vたつもり (similar) :: Vようとする (yrittaa, olla tekemaisillaan)
+Vつもりはない／Vつもりだった／Vたつもり (compare) :: Vertailu — ようと思う vs. つもり vs. 予定

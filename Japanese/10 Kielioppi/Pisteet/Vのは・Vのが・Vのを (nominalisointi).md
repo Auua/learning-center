@@ -8,12 +8,16 @@ attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar:
+  - "[[Vこと (nominalisointi, abstrakti tekeminen)]]"
+  - "[[ます-vartalo substantiivina (連用形名詞)]]"
   - "[[Vことができます (kyky)]]"
   - "[[Vたことがあります (kokemus)]]"
   - "[[～ことは・が・を (yleistys ja arvottaminen)]]"
   - "[[～のは Nです (korostusrakenne, cleft)]]"
   - "[[～のは～からだ (syy predikaattina)]]"
 compare:
+  - "[[Vこと (nominalisointi, abstrakti tekeminen)]]"
+  - "[[Vertailu — の vs. こと (nominalisointi)]]"
   - "[[～ことは・が・を (yleistys ja arvottaminen)]]"
   - "[[～のは Nです (korostusrakenne, cleft)]]"
 sources: ["[[Minna no Nihongo II#Luku 38]]"]
@@ -52,6 +56,7 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ![[Lausepankki — Nominalisointi#^nomi4]]
 
 ## Sekaannusvaara
+- こと-nominalisointi omana muistiinpanonaan: [[Vこと (nominalisointi, abstrakti tekeminen)]]; rajanveto: [[Vertailu — の vs. こと (nominalisointi)]]. Vakiintuneet vartalosubstantiivit (始まり, 話し合い): [[ます-vartalo substantiivina (連用形名詞)]].
 - Älä sekoita [[Vことができます (kyky)]]:iin — こと on toinen nominalisoiva sana, mutta tässä luvussa käytetään systemaattisesti の:ta, ei こと:a näissä tapauksissa.
 - Ks. [[～ことは・が・を (yleistys ja arvottaminen)]] (Chuukyuu I Luku 1): こと sopii yleisiin/abstrakteihin toteamuksiin, の sopii konkreettiseen havaittuun tapahtumaan — 絵をかくのは楽しいです (oma kokemus) vs. 絵をかくことはいい趣味です (yleinen periaate).
 
@@ -69,3 +74,45 @@ tags: [grammar/perusrakenne, jlpt/n4]
 わたしが日本へ来たのは去年の3月です。 — mikä rakenne tämä on?
 ?
 Cleft-rakenne のは...です, joka korostaa/identifioi ajan (去年の3月) vastauksena implisiittiseen kysymykseen "milloin tulit Japaniin?".
+
+#flashcards/grammar/n4/muodostus
+
+V辞書形＋の + のは (arvio) :: V(辞書形) + のは + adjektiivi; yleinen arvio. 例: 絵をかくのは楽しいです。
+V辞書形＋の + のが (mieltymys/taito) :: V(辞書形) + のが + 好き/上手/速い jne. 例: 星を見るのが好きです。
+V辞書形＋の + のを (unohtaa/tietää) :: V(辞書形) + のを + 忘れました/知っていますか. 例: 財布を持って来るのを忘れました。
+V(た形)＋のは Nです (korostus) :: V(た形) + のは + N です; cleft-rakenne. 例: わたしが日本へ来たのは去年の3月です。
+
+#flashcards/grammar/n4/nyanssi
+
+Milloin Vのが ja milloin Vのは?
+?
+のが mieltymys/taito-adjektiivien kanssa (好き, 嫌い, 上手, 下手, 速い, 遅い); のは yleisemmissä arvioissa (簡単, 難しい, おもしろい, 危険, 大変).
+
+Mitä Vのを忘れました tarkoittaa?
+?
+'Piti tehdä X, mutta unohti sen'; ei yleisesti 'unohti X:n' (vrt. かぎを忘れました = unohdin avaimen esineenä).
+
+Milloin しりませんでした ja milloin しりません (Vのを知っていますか-vastauksessa)?
+?
+しりませんでした, jos vastaaja saa tiedon juuri kysymyksestä; しりません, jos aiheesta ei ole mitään tietoa.
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: Vの vai Vこと, kun kyse on konkreettisesta havaitusta tapahtumasta vai yleisestä periaatteesta?
+?
+の sopii konkreettiseen havaittuun tapahtumaan (絵をかくのは楽しいです, oma kokemus); こと yleiseen/abstraktiin toteamukseen (絵をかくことはいい趣味です).
+
+Miten Vの (nominalisointi) eroaa muodosta Vことができます?
+?
+こと on toinen nominalisoiva sana, mutta tässä luvussa käytetään systemaattisesti の:ta; älä sekoita Vことができます (kyky) -rakenteeseen.
+
+#flashcards/grammar/n4/vertailu
+
+V辞書形＋の (similar/compare) :: Vこと (nominalisointi, abstrakti tekeminen)
+V辞書形＋の (similar) :: ます-vartalo substantiivina (連用形名詞)
+V辞書形＋の (similar) :: Vことができます (kyky)
+V辞書形＋の (similar) :: Vたことがあります (kokemus)
+V辞書形＋の (similar/compare) :: ～ことは・が・を (yleistys ja arvottaminen)
+V辞書形＋の (similar/compare) :: ～のは Nです (korostusrakenne, cleft)
+V辞書形＋の (similar) :: ～のは～からだ (syy predikaattina)
+V辞書形＋の (compare) :: Vertailu — の vs. こと (nominalisointi)

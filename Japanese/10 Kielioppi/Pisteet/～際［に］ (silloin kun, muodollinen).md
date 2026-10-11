@@ -47,3 +47,25 @@ tags: [grammar/perusrakenne, jlpt/n2]
 外出の＿＿、必ずフロントに鍵をお預けください。(muodollinen "silloin kun")
 ?
 際［に］ — とき:n muodollinen vastine, käytetään virallisissa ohjeissa.
+
+#flashcards/grammar/n2/muodostus
+
+～際 + verbi :: V辞書形／Vた形 + 際［に］. Esim. テレビアニメの魅力を考える際、マンガの存在を無視して語ることはできない。
+～の際 + substantiivi :: N + の + 際. Esim. 外出の際、必ずフロントに鍵をお預けください。
+
+#flashcards/grammar/n2/nyanssi
+
+Missä tilanteissa 際［に］ on luonteva ja missä ei?
+?
+Luonteva virallisissa ohjeissa, kylttiteksteissä ja uutisissa; ei sovi rentoon puhekieleen.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten 際［に］ eroaa rakenteesta とき?
+?
+Merkitys sama; 際 on muodollinen vastine (kirjalliset ohjeet, virallinen ilmoitus), とき neutraali/puhekielinen.
+
+#flashcards/grammar/n2/vertailu
+
+V辞書形／Vた形／Nの＋際［に］ (similar/compare) :: ～とき (ajankohta)
+V辞書形／Vた形／Nの＋際［に］ (similar) :: ～あいだ・～あいだに (kesto vs. hetki)

@@ -47,3 +47,23 @@ tags: [grammar/perusrakenne, jlpt/n2]
 このゲーム機は子ども＿＿＿＿＿、大人にも人気がある。(muodollisempi "ei pelkästään")
 ?
 ばかりでなく — だけでなく:n muodollisempi vastine.
+
+#flashcards/grammar/n2/muodostus
+
+～ばかりでなく + substantiivi／普通形 :: N／普通形 + ばかりでなく、N2も. Esim. ここは温泉ばかりでなく、釣りや山登りも楽しめます。
+
+#flashcards/grammar/n2/nyanssi
+
+Miten ～ばかりでなく eroaa sävyltään だけでなく-rakenteesta?
+?
+Merkitys on käytännössä sama, mutta ばかりでなく on hieman muodollisempi/kirjallisempi, yleinen uutis- ja raportointitekstissä.
+
+#flashcards/grammar/n2/sekaannus
+
+Kumpi on yleiskielisempi: ばかりでなく vai だけでなく?
+?
+だけでなく on hieman puhekielisempi/yleiskielisempi; ばかりでなく kirjallisempi.
+
+#flashcards/grammar/n2/vertailu
+
+N／普通形＋ばかりでなく（〜も） (similar/compare) :: ～だけでなく (ei pelkastaan vaan myos)

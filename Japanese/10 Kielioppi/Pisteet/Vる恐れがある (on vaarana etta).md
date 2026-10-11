@@ -48,3 +48,24 @@ tags: [grammar/perusrakenne, jlpt/n2]
 台風13号は九州に＿＿＿＿＿＿＿。(varoitus vaarasta)
 ?
 上陸する恐れがあります — "on vaarana että", rajoittunut kielteisiin/vaarallisiin mahdollisuuksiin.
+
+#flashcards/grammar/n2/muodostus
+
+N／V辞書形＋恐れがある + substantiivi :: N + の恐れがある. Esim. 絶滅の恐れのある鳥類 (uhanalaiset linnut).
+N／V辞書形＋恐れがある + verbi (sanakirjamuoto) :: V辞書形 + 恐れがある. Esim. 台風は九州に上陸する恐れがあります.
+
+#flashcards/grammar/n2/nyanssi
+
+Millaisesta mahdollisuudesta N／V辞書形＋恐れがある puhuu ja missä sitä käytetään?
+?
+Aina kielteisestä tai vaarallisesta mahdollisuudesta (onnettomuus, sairaus, tuho); tyypillinen sääennusteissa, turvallisuusohjeissa ja uutisissa.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten 恐れがある eroaa rakenteesta 普通形可能性がある?
+?
+可能性がある on neutraali ja sopii myös myönteiseen tulevaisuuteen; 恐れがある vain kielteisiin/vaarallisiin mahdollisuuksiin.
+
+#flashcards/grammar/n2/vertailu
+
+N／V辞書形＋恐れがある (similar/compare) :: 普通形可能性がある (on mahdollista etta)

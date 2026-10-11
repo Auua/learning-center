@@ -70,3 +70,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Ihmisen elämänkaari: sano ainakin viisi sanaa
+?
+0 歳 (vauva), 6 歳 (lapsi), 18 歳 (nuori aikuinen), 40 歳 (keski-ikäinen), 70 歳 (vanhus), 保育園（ほいくえん） (päiväkoti (kokopäivähoito)), 幼稚園（ようちえん） (esikoulu), 小学校 (alakoulu), 中学校 (yläkoulu), 高等学校 (lukio), 大学 (yliopisto), 短大（たんだい） (kaksivuotinen korkeakoulu)…

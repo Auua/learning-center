@@ -63,3 +63,33 @@ tags:
 Mitä ero on し:llä ja から:lla?
 ?
 から on suora syy yhdelle seuraukselle; し luettelee useita rinnakkaisia perusteluja, usein vihjaten "ja muitakin syitä olisi".
+
+#flashcards/grammar/n4/muodostus
+
+V (普通形) + し :: Esim. 地下鉄は速いし、安いし、地下鉄で行きましょう。
+い-adjektiivi + し :: Esim. 熱もあるし、頭も痛いし、きょうは休みます。
+な-adjektiivi / substantiivi + だ + し :: Esim. 熱心だし、まじめだし、それに経験もあります。; さくら大学は父が出た大学だし、いい先生も多いし。
+
+#flashcards/grammar/n4/nyanssi
+
+Montako し-lausetta tyypillisesti käytetään ja mikä on viimeisen lauseen rooli?
+?
+Vähintään kaksi, usein 2-3; viimeinen lause on lopputulos tai päätös.
+
+Miten し eroaa から:sta syyn ilmaisussa?
+?
+し ei ilmaise suoraa syy-seuraussuhdetta vaan luettelee rinnakkaisia perusteluja ja vihjaa, että muitakin syitä olisi.
+
+Mikä partikkeli esiintyy usein し-lauseissa korostamassa lisäystä?
+?
+も, aiheen jälkeen: 力も強いし、経験もあります.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten し-luettelointi eroaa S1が、S2 (mutta) -rakenteesta?
+?
+が yhdistää kaksi vastakkaista lausetta; し luettelee samansuuntaisia, toisiaan tukevia perusteluja.
+
+#flashcards/grammar/n4/vertailu
+
+普通形し、普通形し (similar) :: S1が、S2 (mutta)

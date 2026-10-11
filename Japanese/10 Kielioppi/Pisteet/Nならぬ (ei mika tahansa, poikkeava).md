@@ -45,3 +45,21 @@ tags: [grammar/perusrakenne, jlpt/n1]
 駅前に＿＿＿＿＿＿「ウォーターショップ」が開店するそうだ。(odotetun sijasta yllättävä)
 ?
 コーヒーショップならぬ — "ei kahvila vaan yllättäen", torjuu odotetun ja esittää poikkeavan.
+
+#flashcards/grammar/n1/muodostus
+
+N1ならぬN2 + substantiivi :: N1 + ならぬ + N2. Esim. 神ならぬ私には、予想もできなかった。
+
+#flashcards/grammar/n1/nyanssi
+
+Mitä N1ならぬN2 ilmaisee?
+?
+Torjuu odotetun tai tavallisen N1:n ja esittää sen sijaan poikkeavan tai yllättävän N2:n: 'ei N1 vaan N2'.
+
+Mikä on N1ならぬN2:n tyylitaso?
+?
+Kirjallinen ja vanhahtava; ぬ on klassinen kieltopääte (vrt. ざる).
+
+Millainen N1 on tyypillisesti rakenteessa N1ならぬN2?
+?
+Joko korkeampi/ihanteellisempi kategoria (神, 天才) tai odotettu asia (コーヒーショップ), jonka tilalla on yllättävä N2.

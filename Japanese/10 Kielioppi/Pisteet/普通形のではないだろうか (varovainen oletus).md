@@ -49,3 +49,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 日本経済の回復には少し時間がかかる＿＿＿＿＿＿＿＿。(varovainen kirjoitettu mielipide)
 ?
 のではないだろうか — kaksinkertainen kielteinen kysymys joka ilmaisee varovaisen myönteisen väitteen.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋のではないだろうか :: 普通形 + のではないだろうか. Esim. 日本経済の回復には少し時間がかかるのではないだろうか。(Japanin talouden elpyminen vie ehkä hieman aikaa.)
+普通形＋んじゃないだろうか (puhekielinen) :: 普通形 + んじゃないだろうか. Esim. 何かあったんじゃないだろうか。
+
+#flashcards/grammar/n3/nyanssi
+
+Missä tekstilajissa のではないだろうか on erityisen yleinen ja miksi?
+?
+Kirjoitetussa mielipidetekstissä (esseet, uutisanalyysit); se pehmentää kirjoittajan oman väitteen objektiivisemman kuuloiseksi.
+
+Onko のではないだろうか:n ではない todellinen kielto?
+?
+Ei; kaksinkertainen kielteinen rakenne (ではない + だろうか) on kokonaisuutena myönteinen varovainen väite.
+
+Millaiseen tyyliin んじゃないだろうか sopii?
+?
+Se on puhekielisempi supistuma ja sopii myös keskusteluun.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten のではないだろうか eroaa んじゃない？:stä?
+?
+んじゃない？ on lyhyempi, puhekielisempi eikä sisällä だろうか:n pohdiskelevaa sävyä; のではないだろうか sopii kirjoitettuun tekstiin ja pidempään perusteltuun päättelyyn.
+
+#flashcards/grammar/n3/vertailu
+
+普通形＋の（ん）ではないだろうか (similar/compare) :: 普通形んじゃない？ (pehmea arvaus)
+普通形＋の（ん）ではないだろうか (similar) :: 普通形でしょう (todennakoisyys)

@@ -49,3 +49,24 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+痛い vs つらい?
+?
+痛い = fyysinen kipu; つらい = henkinen raskaus. つらい kirjoitetaan samalla kanjilla kuin 辛い (からい, tulinen) — lukutapa ratkaisee.
+
+だるい vs しんどい?
+?
+だるい = kehon raukeutta (kuume, krapula); しんどい = tehtävän raskautta (alun perin Kansain murretta).
+
+心細い ↔ 心強い?
+?
+Sama rakenne 心 + adjektiivi, vastakkaiset merkitykset: epävarma/turvaton olo vs. rohkaiseva/turvallinen olo.
+
+#flashcards/setti/teema
+
+Setti — Adjektiivit: keho ja olotila: sano ainakin viisi sanaa
+?
+痛い (kipeä), かゆい (kutiseva), だるい (veltto), 眠たい (uninen), しんどい (uuvuttava), つらい (rankka), 心細い (turvaton), 心強い (rohkaiseva), 安心 (huoleton), 満足 (tyytyväinen), 退屈 (pitkästyttävä), 気楽 (huoleton)

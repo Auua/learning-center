@@ -68,3 +68,30 @@ N1 = IMC (johon kuulutaan), N2 = 社員 (työntekijä). Suomeksi "IMC:n työntek
 Miksi の voi joskus seistä yksin lauseen lopussa?
 ?
 Se korvaa koko N1のN2-rakenteen jälkiosan (N2), kun asia on jo selvä keskustelusta: このかばんはわたしの(かばん)です。
+
+#flashcards/grammar/n5/muodostus
+
+N1のN2 + ryhmä ja jäsen (kuuluvuus) :: N1 (ryhmä) + の + N2 (jäsen). Esim. IMCの社員 = IMC:n työntekijä.
+N1のN2 + aihe :: N1 (aihe) + の + N2. Esim. コンピューターの本 = tietokoneita käsittelevä kirja.
+N1のN2 + omistaja :: わたし + の (+ N2). Esim. わたしの（本） = minun (kirjani).
+N1のN2 + valmistaja/alkuperä :: maa／yritys + の + tuote. Esim. 日本のコンピューター = Japanissa valmistettu tietokone.
+
+#flashcards/grammar/n5/nyanssi
+
+Milloin N2 voi jättää pois N1のN2 -rakenteessa?
+?
+Kun N2 on jo selvä kontekstista: この傘はわたしのです。
+
+Mikä poikkeus koskee N1のN2:n lyhennettä の, kun N2 on henkilö?
+?
+Lyhennettä ei voi käyttää, jos N2 on henkilö.
+
+Mihin N1のN2 ei sovi?
+?
+Ei käy, kun N1 ja N2 eivät ole substantiiveja; adjektiivien yhdistämiseen käytetään muita rakenteita.
+
+#flashcards/grammar/n5/sekaannus
+
+Voiko N1のN2 -järjestyksen kääntää kuten suomen genetiivin?
+?
+Ei: järjestys N1の N2 on kiinteä, esim. 本の表紙 on aina tässä järjestyksessä.

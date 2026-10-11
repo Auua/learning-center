@@ -52,3 +52,20 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+いい［お］天気ですね。 ::: Kaunis ilma, eikö olekin?
+お出かけですか。 ::: Oletteko lähdössä ulos?
+ちょっと〜まで。 ::: Käyn vain ~:ssa. (lyhyt asia)
+行っていらっしゃい。 ::: Näkemiin, tule takaisin (sanotaan lähtijälle).
+行ってまいります。 ::: Näkemiin, olen kohta takaisin (sanoo lähtijä).
+いらっしゃいませ。 ::: Tervetuloa (asiakaspalvelu).
+〜でお願いします。 ::: ~:na/menetelmällä, kiitos (esim. 速達でお願いします).
+
+#flashcards/setti/teema
+
+Setti — Postissa: sano ainakin viisi sanaa
+?
+葉書 (postikortti), 封筒 (kirjekuori), 速達（そくたつ） (pikapostina), 書留 (kirjattu (lähetys)), エアメール・航空便 (lentoposti), 船便 (laivaposti), 外国 (ulkomaa)

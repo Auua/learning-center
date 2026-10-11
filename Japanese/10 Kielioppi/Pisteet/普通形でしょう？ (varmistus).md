@@ -62,3 +62,34 @@ Arkipuheessa でしょう？ supistuu muotoon でしょ／だろ ja muuttuu muis
 北海道は寒かったでしょう？ — mitä puhuja olettaa?
 ?
 Puhuja olettaa jo tietävänsä/uskovansa että Hokkaidossa oli kylmä ja odottaa kuulijan vahvistavan tämän.
+
+#flashcards/grammar/n5/muodostus
+
+普通形 + でしょう？（↗） :: Esim. あしたパーティーに行くでしょう？ (menethän huomenna juhliin?)
+い-adjektiivi + でしょう？ :: Esim. 北海道は寒かったでしょう？ (Hokkaidolla oli varmaan kylmä?)
+
+#flashcards/grammar/n5/nyanssi
+
+Miten でしょう？ eroaa ね-partikkelista?
+?
+でしょう？ olettaa puhujan tietävän asiasta jo jotain ja odottaa lähes varmaa myöntävää vastausta; ね on yleisempi, kevyempi myötäilypartikkeli.
+
+Voiko でしょう？-kysymykseen vastata kielteisesti?
+?
+Kyllä, jos oletus oli väärä: 北海道は寒かったでしょう？ → いいえ、そんなに寒くなかったです。
+
+Miksi でしょう？ muuttuu arkipuheessa muotoon でしょ／だろ?
+?
+Supistumana se muuttuu muistutukseksi itsestäänselvyydestä (ks. でしょ・だろ).
+
+#flashcards/grammar/n5/sekaannus
+
+Miten nouseva でしょう？ eroaa laskevasta でしょう:sta?
+?
+Nouseva (↗) olettaa kuulijan tietävän ja odottaa myöntävää vastausta; laskeva (↘) on pelkkä oma ennustus ilman vahvistuksen odotusta.
+
+#flashcards/grammar/n5/vertailu
+
+普通形でしょう？ (similar) :: Sね (vahvistus, eikö niin)
+普通形でしょう？ (similar/compare) :: 普通形でしょう (todennakoisyys)
+普通形でしょう？ (similar/compare) :: でしょ・だろ (puhekielinen varmistus)

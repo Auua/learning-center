@@ -65,3 +65,26 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+どんな 気持ちでしたか。 ::: Miltä tuntui?
+合格して、うれしかったです。 ::: Olin iloinen, kun pääsin läpi.
+試合を 見て、はらはらしました。 ::: Ottelua katsoessa jännitti.
+
+#flashcards/setti/ero
+
+うれしい vs 楽しい?
+?
+うれしい = hetkellinen ilo tapahtuneesta; 楽しい = tekemisen kestävä mukavuus. Suomen "kiva" peittää molemmat.
+
+どきどき vs はらはら vs わくわく?
+?
+どきどき = oma syke nousee; はらはら = katsot sivusta ja pelkäät toisen puolesta; わくわく = odotat innolla jotain mukavaa.
+
+#flashcards/setti/teema
+
+Setti — Tunteet ja mielialat: sano ainakin viisi sanaa
+?
+うれしい (iloinen), 楽しい（たのしい） (mukava), 寂しい（さびしい） (yksinäinen), 悲しい（かなしい） (surullinen), おもしろい (kiinnostava), うらやましい (kateellinen), 恥ずかしい（はずかしい） (nolostunut), 懐かしい（なつかしい） (kaipaava), びっくりする (säikähtää), がっかりする (pettyä), うっとりする (haltioitua), いらいらする (ärsyyntyä)…

@@ -49,3 +49,30 @@ tags: [grammar/perusrakenne, jlpt/n2]
 情報管理を厳しくしていた＿＿＿＿＿＿＿、今回の事態が起きたことは遺憾である。(vahva muodollinen myönnytys)
 ?
 にもかかわらず — "siitä huolimatta että", muodollinen ja voimakas ristiriidan ilmaus.
+
+#flashcards/grammar/n2/muodostus
+
+〜にもかかわらず + 普通形 :: 普通形 + にもかかわらず. Esim. 一生懸命勉強したにもかかわらず、試験に合格できなかった。(Opiskelin ahkerasti, mutta en silti läpäissyt koetta.)
+〜にもかかわらず + substantiivi :: N + にもかかわらず. Esim. 年末のお忙しい時期にもかかわらず、〜(Kiireisestä vuodenlopusta huolimatta)
+〜にもかかわらず + な-adjektiivi :: な-adj + であるにもかかわらず (note-esimerkissä lyhyesti 高齢にもかかわらず)
+
+#flashcards/grammar/n2/nyanssi
+
+Miten にもかかわらず eroaa sävyltään ja rekisteriltään ながら-myönnytyksestä?
+?
+Se on muodollisempi ja voimakkaampi; sopii virallisiin puheisiin, raportteihin ja uutisiin.
+
+Minkä sävyn にもかかわらず usein sisältää?
+?
+Lievän kritiikin tai yllättyneisyyden sävyn: odotettiin X:ää, mutta Y ei tapahtunut vaikka pitäisi.
+
+#flashcards/grammar/n2/sekaannus
+
+Kumpi: にもかかわらず vai ながら, kun halutaan ilmaista myönnytys arkikeskustelussa?
+?
+ながら on neutraalimpi ja sopii arkikeskusteluun; にもかかわらず on muodollisempi ja voimakkaampi, tyypillinen kirjoitetussa tai virallisessa tekstissä.
+
+#flashcards/grammar/n2/vertailu
+
+普通形（な・の）＋にもかかわらず (similar/compare) :: 普通形ながら (myonnytys, vaikka)
+普通形（な・の）＋にもかかわらず (similar) :: たとえ～ても (vaikka kuinka)

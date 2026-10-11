@@ -72,3 +72,34 @@ Sama merkitys (kielteinen です), じゃありません on puhekielinen, では
 Miten "も" eroaa "は":sta käytössä?
 ?
 も korvaa は:n kokonaan silloin kun väite koskee myös edellistä aihetta samalla tavalla — ei käytetä molempia yhdessä.
+
+#flashcards/grammar/n5/muodostus
+
+AはBです + vahvistava väite :: N1は N2です. Esim. わたしはマイク・ミラーです。
+AはBです + kielto :: N1は N2じゃありません (muodollinen: では ありません). Esim. サントスさんは学生じゃありません。
+AはBです + kysymys :: N1は N2ですか. Esim. ミラーさんは会社員ですか。
+AはBです + 'myös' :: N1も N2です (も korvaa は:n). Esim. サントスさんも会社員です。
+
+#flashcards/grammar/n5/nyanssi
+
+Mikä on AはBです -lauseen は:n rooli ja ääntäminen?
+?
+Aihepartikkeli (ei subjektipartikkeli), ääntyy わ.
+
+Mikä ero on じゃありません ja では ありません välillä AはBです -rakenteessa?
+?
+じゃありません on puhekielinen, では ありません muodollinen/kirjallinen.
+
+Voiko AはBです -rakenteessa käyttää は ja も yhdessä (×サントスさんはも)?
+?
+Ei; も korvaa は:n kokonaan: サントスさんも.
+
+Muuttuuko sanajärjestys AはBです -kysymyksessä kysymyssanalla (だれ, なんさい)?
+?
+Ei; sanajärjestys pysyy samana ja か lisätään silti loppuun.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten AはBです -rakenteen は eroaa が:stä?
+?
+は ja が eroavat siinä, korostetaanko koko lausetta vai vain uutta tietoa.

@@ -62,3 +62,32 @@ tags:
 すてきなネクタイですね。 … ええ、佐藤さんがくれました。 — miksi が eikä は?
 ?
 Uutta tietoa antava subjekti (kuka antoi) merkitään が:lla, samaan tapaan kuin muutkin uuden tiedon subjektit.
+
+#flashcards/grammar/n5/muodostus
+
+くれます + antaja puhujalle :: N は わたしに Nを くれました. Esim. 佐藤さんはわたしにクリスマスカードをくれました.
+くれます + antaja puhujan perheenjäsenelle :: N は (perheenjäsen)に Nを くれました. Esim. 佐藤さんは妹にお菓子をくれました.
+
+#flashcards/grammar/n5/nyanssi
+
+Voiko vastaanottajan puhuja itse tai tämän perhe -tilanteessa sanoa あげます?
+?
+Ei; ×さとうさんはわたしに…をあげました on virhe, käytetään くれます.
+
+Miten くれる ja もらう kuvaavat saman tapahtuman?
+?
+くれる: antaja on subjekti; もらう: saaja on subjekti.
+
+Voiko わたしに jättää pois くれます-lauseesta?
+?
+Kyllä, usein kun vastaanottaja on ilmiselvästi puhuja itse.
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: あげる, くれる vai もらう, kun toinen antaa minulle?
+?
+くれる (antaja subjektina) tai もらう (minä subjektina); あげる = minä→toinen.
+
+#flashcards/grammar/n5/vertailu
+
+くれます (similar) :: N (人) に あげます・もらいます

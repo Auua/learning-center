@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 いくら状況を説明した＿＿＿＿、警察は信じないだろう。(turha myönnytys)
 ?
 ところで — "vaikka tekisikin", jälkilause osoittaa hyödyttömyyden.
+
+#flashcards/grammar/n2/muodostus
+
+Vたところで + verbi (た形) :: V(た形) + ところで、+ turha/kielteinen seuraus. Esim. いくら状況を説明したところで、警察は信じないだろう。
+
+#flashcards/grammar/n2/nyanssi
+
+Millainen on jälkilause rakenteessa Vたところで?
+?
+Lähes aina kielteinen: teko on hyödytön, turha tai riittämätön halutun tuloksen saavuttamiseksi; sävy on lievän pessimistinen/realistinen.
+
+Miten Vたところで eroaa いくら〜ても:sta?
+?
+Samantyyppinen, mutta たところで on tiiviimpi ja korostaa erityisesti hyödyttömyyttä.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten kolme ところ-rakennetta (たところに・で / たところ、 / たところで) erotetaan?
+?
+たところに・で = ajallinen yhteensattuma; たところ、 = looginen seuraus/havainto; たところで = myönnytys 'vaikka tekisikin, turhaa' (jälkilause kielteinen/hyödytön).
+
+#flashcards/grammar/n2/vertailu
+
+V(た形)＋ところで（＋kielteinen/tyhja seuraus） (similar/compare) :: Vたところ、 (kavi ilmi etta)
+V(た形)＋ところで（＋kielteinen/tyhja seuraus） (similar) :: Vたところに・で (juuri siina kohdassa)

@@ -46,3 +46,17 @@ tags: [grammar/perusrakenne, jlpt/n2]
 太鼓＿＿＿＿＿、佐渡の「鬼太鼓」が有名ですよね。(assosiaatio, aiheen esittely)
 ?
 といえば — "jos puhutaan X:stä", liittää aiheeseen välittömän assosiaation.
+
+#flashcards/grammar/n2/muodostus
+
+N + といえば／というと／といったら :: N + といえば — esim. 温泉といえば、まず城崎温泉を思い浮かべますね。（というと, といったら vastaavasti）
+
+#flashcards/grammar/n2/nyanssi
+
+Mihin ～といえば on erityisen hyödyllinen keskustelussa?
+?
+Aiheen vaihtoon: otetaan toisen mainitsema sana ja siirrytään siitä assosioituun uuteen aiheeseen (落とし物といえば、…).
+
+Miten といえば, というと ja といったら eroavat toisistaan?
+?
+Ne ovat lähes vaihtokelpoisia; といったら on hieman puhekielisempi ja tunnepitoisempi.

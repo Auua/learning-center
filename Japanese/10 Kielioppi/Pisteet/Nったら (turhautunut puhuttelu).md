@@ -46,3 +46,17 @@ tags: [grammar/perusrakenne, jlpt/n2]
 林さん＿＿＿＿、海外出張なのにパスポートを忘れて、飛行機に乗れなかったのよ。(lempeä turhautunut puhuttelu)
 ?
 ったら — puhekielinen puhuttelupartikkeli, lievä turhautunut/huvittunut moite läheisestä henkilöstä.
+
+#flashcards/grammar/n2/muodostus
+
+N＋ったら + nimi tai sana :: N（nimi/sana）+ ったら. Esim. お母さんったら、どうして子どもの名前を間違えて呼ぶのよ。
+
+#flashcards/grammar/n2/nyanssi
+
+Mikä on N＋ったら:n sävy?
+?
+Yleensä lempeä tai huvittunut moite (turhautuminen, hämmästys), ei vihainen; käytetään läheisistä ihmisistä, lemmikeistä.
+
+Miten N＋ったら voidaan jatkaa?
+?
+Voi seistä yksin (優太ったら。) tai jatkua lauseella, joka selittää mistä on kyse.

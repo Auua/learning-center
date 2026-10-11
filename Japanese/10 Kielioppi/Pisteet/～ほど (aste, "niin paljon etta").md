@@ -51,3 +51,30 @@ tags: [grammar/perusrakenne, jlpt/n3]
 このカレーは涙が出る＿＿＿辛い。(aste, elävä esimerkki)
 ?
 ほど — kuvaa astetta konkreettisen seurauksen kautta, "niin X että Y".
+
+#flashcards/grammar/n3/muodostus
+
+～ほど + substantiivi :: N + ほど + adj/V. Esim. 佃煮にするほどあった。
+～ほど + 普通形 (aste-esimerkki) :: 普通形 + ほど + adj. Esim. このカレーは涙が出るほど辛い。
+
+#flashcards/grammar/n3/nyanssi
+
+Miten myönteinen ～ほど (aste) eroaa vertailevasta ほど～ない?
+?
+Myönteinen ほど ei vertaa kahta asiaa, vaan kuvaa yhden asian astetta elävän, konkreettisen seurauksen kautta.
+
+Millainen vertailukohta on tyypillinen asteen ～ほど-rakenteessa?
+?
+Usein liioiteltu tai dramaattinen esimerkki, esim. 涙が出るほど辛い, 誰も気づかないほど静かだ.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten erotat neljä ほど-rakennetta toisistaan?
+?
+(1) aste/esimerkki, myönteinen; (2) ほど～ない = vertailu, kielteinen; (3) ほど～はない = superlatiivi; (4) Vば〜ほど = kahden muuttujan yhtäaikainen kasvu.
+
+#flashcards/grammar/n3/vertailu
+
+普通形／N＋ほど（＋myönteinen predikaatti） (similar/compare) :: ～ほど～ない・ほどではない (vertailu, ei niin)
+普通形／N＋ほど（＋myönteinen predikaatti） (similar) :: ～ほど～はない・いない (superlatiivi)
+普通形／N＋ほど（＋myönteinen predikaatti） (similar) :: Vば〜ほど (mita enemman, sita)

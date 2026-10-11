@@ -71,3 +71,40 @@ Käytetyt taivutusmuodot: [[ない-muoto]] → なくて
 Miksi かまいません kuulostaa huomaavaisemmalta kuin いいです?
 ?
 かまう = "välittää, olla väliä" — kielteisenä puhuja sanoo ettei asia haittaa häntä, ei vain että se on sallittua.
+
+#flashcards/grammar/n4/muodostus
+
+Vなくてもかまいません／かまわない + ない-muoto (verbi) :: ない-muoto (ない→なくて) + も + かまいません. Esim. 食べなくてもかまいません。
+Vなくてもかまいません／かまわない + い-adjektiivi :: い-adj (くない→くなくて) + もかまいません. Esim. 新しくなくてもかまいません。
+Vなくてもかまいません／かまわない + substantiivi／な-adjektiivi :: じゃなくて + もかまいません. Esim. 新品じゃなくてもかまいません。
+Vなくてもかまいません／かまわない, perusmuoto (arkinen) :: 〜なくてもかまわない
+
+#flashcards/grammar/n4/nyanssi
+
+Miksi Vなくてもかまいません kuulostaa huomaavaisemmalta kuin いいです?
+?
+かまう = "välittää, olla väliä"; kielteisenä puhuja vakuuttaa ettei asia haittaa häntä.
+
+Missä tilanteessa Vなくてもかまいません on tyypillinen vastaus?
+?
+Toisen huoleen tai anteeksipyyntöön, esim. 食べられない物があったら、食べなくてもかまいません。
+
+Voiko なくてもかまいません -rakenteen liittää suoraan substantiiviin ilman verbiä?
+?
+Kyllä: おふろはなくてもかまいません (ammetta ei tarvita).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten なくてもかまいません eroaa なくてもいいです:sta?
+?
+Merkitys sama; いいです on arkisempi, かまいません sopii kun puhutaan toisen vaivannäöstä tai halutaan kuulostaa kohteliaalta.
+
+Kumpi: なくても vai なくては, kun tarkoitetaan "ei tarvitse"?
+?
+なくても (+かまいません) = ei tarvitse; なくては (+いけない) = on pakko.
+
+#flashcards/grammar/n4/vertailu
+
+Vなくてもかまいません／かまわない (similar/compare) :: Vなくても いいです (ei tarvitse)
+Vなくてもかまいません／かまわない (similar) :: ～てもかまいません (saa tehdä, ei haittaa)
+Vなくてもかまいません／かまわない (similar) :: ～なくてはならない・～なくてはいけない (pakko, toinen muoto)

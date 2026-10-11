@@ -51,3 +51,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Tavaratalo: sano ainakin viisi sanaa
+?
+屋上（おくじょう） (huvipuisto katolla), 8階 (ruokala), 7階 (kellot), 6階 (urheiluvälineet), 5階 (lastenvaatteet), 4階 (huonekalut), 3階 (miesten vaatteet), 2階 (naisten vaatteet), 1階 (kengät), B1階 (elintarvikkeet), B2階 (pysäköintialue), デパート (tavaratalo)…

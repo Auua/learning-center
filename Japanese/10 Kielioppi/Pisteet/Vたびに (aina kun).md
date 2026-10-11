@@ -45,3 +45,22 @@ tags: [grammar/perusrakenne, jlpt/n2]
 このアパートは電車が通る＿＿＿＿揺れる。(toistuva säännönmukaisuus)
 ?
 たびに — "aina kun", jälkilause toteutuu joka kerta.
+
+#flashcards/grammar/n2/muodostus
+
+Vたびに + verbi :: V辞書形 + たびに. Esim. このアパートは電車が通るたびに揺れる。
+Vたびに + substantiivi :: N + の + たびに. Esim. 旅行のたびに新しいことを発見する。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä Vたびに korostaa?
+?
+Säännönmukaista toistuvuutta: jälkilause on lähes aina totta joka kerta, ei vain joskus.
+
+Miten Vたびに eroaa 〜とき-rakenteesta?
+?
+とき viittaa yhteen kertaan tai ajankohtaan; たびに vaatii toistuvan tai yleistetyn tilanteen.
+
+#flashcards/grammar/n2/vertailu
+
+V辞書形／Nの＋たびに (similar) :: ～とき (ajankohta)

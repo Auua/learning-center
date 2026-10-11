@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n2]
 ＿＿＿＿＿＿、「本当にそんな名水、まだ残っているのかいな」と疑いたくなる。(oma rohkea mielipide)
 ?
 私に言わせれば — "jos minä saisin sanoa", esittää oman mielipiteen suorasukaisesti.
+
+#flashcards/grammar/n2/muodostus
+
+～に言わせれば + oma mielipide :: 私に言わせれば + väite. Esim. 私に言わせれば、…と疑いたくなる。
+～に言わせれば／言わせると／言わせたら + kolmas henkilö :: N + に言わせれば／言わせると／言わせたら. Esim. 経済の専門家に言わせれば、円はこれからもっと高くなるらしい。
+
+#flashcards/grammar/n2/nyanssi
+
+Mihin 私に言わせれば -ilmausta tyypillisesti käytetään?
+?
+Oman, usein rohkean tai poikkeavan mielipiteen esittämiseen vahvasti.
+
+Mitä N に言わせれば tarkoittaa, kun N on joku muu kuin puhuja?
+?
+Esittää kuvitteellisen/oletetun mielipiteen kyseisen henkilön tai ryhmän puolesta (専門家に言わせれば).

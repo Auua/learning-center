@@ -85,3 +85,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Oppiaineet ja tieteenalat: sano ainakin viisi sanaa
+?
+医学 (lääketiede), 薬学 (farmasia), 化学 (kemia), 生化学 (biokemia), 生物学 (biologia), 農学 (maatalousoppi), 地学 (geotiede), 地理学 (maantiede), 数学 (matematiikka), 物理学 (fysiikka), 天文学 (tähtitiede), 環境科学 (ympäristötiede)…

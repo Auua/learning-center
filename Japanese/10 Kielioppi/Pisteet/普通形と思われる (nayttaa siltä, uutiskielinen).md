@@ -48,3 +48,27 @@ tags: [grammar/perusrakenne, jlpt/n1]
 エコロジーは世界中で必要な思想だ＿＿＿＿＿。(objektiivinen analyyttinen arvio)
 ?
 と思われる — häivyttää arvion tekijän, esittää sen objektiivisena/yleisesti hyväksyttynä.
+
+#flashcards/grammar/n1/muodostus
+
+普通形＋と思われる :: 普通形 + と思われる. Esim. 世界の経済の混乱はこの先5、6年は続くと思われる。(Maailmantalouden sekavuuden ajatellaan jatkuvan 5-6 vuotta.)
+
+#flashcards/grammar/n1/nyanssi
+
+Mitä passiivimuoto 普通形と思われる tekee arvion esittämiselle?
+?
+Häivyttää sen KUKA ajattelee ja esittää arvion yleisesti hyväksyttynä/objektiivisena; tyypillistä akateemisessa ja analyyttisessä tekstissä.
+
+Miten 普通形と思われる eroaa muodollisuudeltaan muodosta と思う?
+?
+Se on muodollisempi kuin と思う (jossa subjekti on eksplisiittinen) ja sopii esseisiin ja tutkimusteksteihin.
+
+#flashcards/grammar/n1/sekaannus
+
+Miten 普通形と思われる eroaa 普通形とみられる:sta?
+?
+Hyvin lähellä, rekisteriero on hienovarainen. とみられる on tyypillinen uutiskielessä (rikos-/talousuutiset); と思われる sopii laajemmin akateemiseen tekstiin ja henkilökohtaisempaan pohdintaan.
+
+#flashcards/grammar/n1/vertailu
+
+普通形＋と思われる (similar/compare) :: 普通形とみられる (arvioidaan olevan)

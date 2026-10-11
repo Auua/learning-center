@@ -57,3 +57,33 @@ Kirjallisessa tekstissä ということだ lyhenee lauseen lopussa pelkäksi �
 部長に30分ほど遅れると伝えてください。……はい、30分ほど遅れる＿＿＿＿＿＿＿ね。
 ?
 ということです — vahvistaa juuri kuullun viestin sisällön varmistaakseen ymmärryksen.
+
+#flashcards/grammar/n3/muodostus
+
+N/lähde によると、普通形 + ということです (virallinen kuulopuhe) :: Esim. 課長の話では、今年の忘年会は中止になったということです。
+普通形 + ということですね (vahvistus) :: Esim. 30分ほど遅れるということですね。 (eli myöhästyy noin 30 minuuttia, oikein?)
+
+#flashcards/grammar/n3/nyanssi
+
+Miten ということだ eroaa そうです:sta rekisteriltä?
+?
+ということだ on muodollisempi ja kirjallisempi; sopii virallisiin tiedotteisiin, uutisiin ja liike-elämän raportointiin.
+
+Missä tilanteessa ということですね on erityisen yleinen?
+?
+Puhelinviestien ja tehtävien toistamisessa: toistetaan mitä juuri kuultiin ymmärryksen varmistamiseksi.
+
+Millä ilmauksilla ということだ:n lähde yleensä ilmaistaan?
+?
+〜によると, 〜の話では, 〜の説明によると.
+
+#flashcards/grammar/n3/sekaannus
+
+Miksi ということだ eikä そうです, kun haluan vahvistaa kuullun viestin sisällön?
+?
+ということだ on muodollisempi JA sillä on vahvistuskäyttö (…ということですね), jota そうです:llä ei ole yhtä luontevasti.
+
+#flashcards/grammar/n3/vertailu
+
+普通形ということだ (similar/compare) :: 普通形そうです (kuulopuhe)
+普通形ということだ (similar/compare) :: 普通形という。 (lyhennetty kirjallinen kuulopuhe)

@@ -54,3 +54,27 @@ Vertailu [[Vてから、V2 (jälkeen)]]: から korostaa selvästi että V2 tapa
 朝ジョギングをして、シャワーを浴びて、会社へ行きます。 — mikä verbi kantaa lauseen aikamuodon?
 ?
 Vain viimeinen verbi (行きます) — muut ovat て-muodossa riippumatta ajasta.
+
+#flashcards/grammar/n5/muodostus
+
+Vて、Vて (peräkkäisyys) + verbit :: V1(て) + V2(て) + V3(aikamuoto). 例: 朝ジョギングをして、シャワーを浴びて、会社へ行きます。
+
+#flashcards/grammar/n5/nyanssi
+
+Mikä verbi kantaa aikamuodon rakenteessa Vて、Vて?
+?
+Vain viimeinen verbi; väliverbit ovat aina て-muodossa riippumatta lauseen ajasta.
+
+Missä järjestyksessä teot ovat rakenteessa Vて、Vて?
+?
+Tapahtumajärjestyksen mukaisessa: lauseen järjestys vastaa todellista järjestystä.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten Vて、Vて eroaa muodosta Vてから?
+?
+から korostaa, että V2 tapahtuu vasta V1:n päätyttyä; pelkkä て,て on neutraali peräkkäisten tekojen listaus.
+
+#flashcards/grammar/n5/vertailu
+
+Vて、Vて (similar) :: Vてから、V2 (jälkeen)

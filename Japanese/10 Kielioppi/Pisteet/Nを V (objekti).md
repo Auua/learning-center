@@ -58,3 +58,18 @@ tags:
 サッカーをします — miksi しますverb eikä joku muu?
 ?
 します toimii yleisverbinä laajalle joukolle substantiiveja: urheilu, kokoukset, tehtävät — opetellaan yhdistelminä.
+
+#flashcards/grammar/n5/muodostus
+
+Nを V + objekti :: N（objekti）+ を + V. Esim. ジュースを飲みます。
+Nを V + をします (urheilu, tilaisuus, toiminta) :: Urheilu／tilaisuus／toiminta + をします. Esim. サッカーをします, 会議をします, 宿題をします。
+
+#flashcards/grammar/n5/nyanssi
+
+Miten を ääntyy ja missä sitä käytetään (Nを V)?
+?
+Ääntyy kuten お, mutta käytetään vain partikkelina, ei koskaan sanan alussa.
+
+Miten Nをします tulisi opetella?
+?
+Kokonaisina yhdistelminä (サッカーをします, 宿題をします), ei mekaanisena sääntönä; kattaa laajan sanajoukon.

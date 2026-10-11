@@ -54,3 +54,39 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Mikä ero on でしょう↘:llä ja でしょう？↗:llä?
 ?
 ↘ on oma ennustus/arvaus epävarmasta asiasta; ↗ pyytää kuulijalta vahvistusta jo oletettuun asiaan.
+
+#flashcards/grammar/n4/muodostus
+
+普通形 + でしょう（↘） :: Esim. あしたは雪が降るでしょう。 (huomenna luultavasti sataa lunta)
+な-adjektiivi / substantiivi + でしょう :: Esim. 大丈夫でしょう。仕事のストレスでしょう。
+普通形 + でしょうか (kohtelias arvaus) :: Esim. 日本の経済はどうなるでしょうか。
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä ratkaisee, onko でしょう ennuste vai vahvistuksen pyyntö?
+?
+Intonaatio: laskeva (↘) = ennustus/arvaus; nouseva (↗) = vahvistuksen pyytäminen.
+
+Missä でしょう on erityisen yleinen ennustuksessa?
+?
+Sääennusteissa (天気予報): あしたは晴れでしょう。
+
+Mihin でしょうか sopii?
+?
+Kohteliaaseen arvion kysymiseen jostain epävarmasta: 何の病気でしょうか。
+
+#flashcards/grammar/n4/sekaannus
+
+Miten laskeva でしょう (↘) eroaa nousevasta でしょう？ (↗)?
+?
+Nouseva olettaa kuulijan olevan samaa mieltä ja odottaa myöntävää vastausta; laskeva on pelkkä oma arvaus tulevasta eikä odota vahvistusta.
+
+Miten でしょう eroaa はずです:sta?
+?
+はずです on vahvempi ja vaatii konkreettisen perusteen (aikataulu, fakta); でしょう on yleisempi arvaus ilman välttämätöntä nimettävää syytä.
+
+#flashcards/grammar/n4/vertailu
+
+普通形でしょう（↘） (similar/compare) :: 普通形でしょう？ (varmistus)
+普通形でしょう（↘） (similar/compare) :: 普通形はずです (varma odotus)
+普通形でしょう（↘） (similar/compare) :: 普通形だろう・だろうと思う (kirjallinen ennuste)

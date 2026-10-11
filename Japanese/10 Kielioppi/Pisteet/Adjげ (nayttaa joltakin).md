@@ -49,3 +49,32 @@ tags: [grammar/perusrakenne, jlpt/n2]
 社長は工場を閉じることになったと説明し、悔し＿＿だった。(ulkoinen vaikutelma, kirjallinen)
 ?
 げ — liitetään adjektiivin vartaloon, kuvaa ulkoista vaikutelmaa, kirjallisempi kuin そうな.
+
+#flashcards/grammar/n2/muodostus
+
+Adj（i-vartalo／na-vartalo）＋げ + い-adjektiivi :: い pois + げ + に／な. Esim. 悲しげに言う, 悔しげだった.
+Adj（i-vartalo／na-vartalo）＋げ + な-adjektiivi／substantiivi :: vartalo + げ. Esim. 得意げに話していた.
+
+#flashcards/grammar/n2/nyanssi
+
+Miten Adj（i-vartalo／na-vartalo）＋げ taipuu lauseessa?
+?
+Kuin な-adjektiivi: げな + N, げに + V (adverbimuoto).
+
+Kuinka vapaasti Adj（i-vartalo／na-vartalo）＋げ muodostuu?
+?
+Rajoittuu vakiintuneisiin yhdistelmiin (悲しげ, 得意げ, 悔しげ, 寂しげ, 嬉しげ); ei yhtä vapaasti kuin そうな.
+
+Missä tyylilajissa Adj（i-vartalo／na-vartalo）＋げ on tyypillinen?
+?
+Kirjallisempi ja tarinankerronnallinen; tyypillinen kaunokirjallisuudessa ja kertomuksissa.
+
+#flashcards/grammar/n2/sekaannus
+
+Kumpi: げ vai そうな, kun halutaan ilmaista ulkoista vaikutelmaa?
+?
+そうな on tuottavampi ja yleisempi kaikissa rekistereissä; げ on rajoittuneempi ja kirjallisempi (悲しげに言った).
+
+#flashcards/grammar/n2/vertailu
+
+Adj（i-vartalo／na-vartalo）＋げ (similar/compare) :: V・adjそうです (ulkonaon perusteella)

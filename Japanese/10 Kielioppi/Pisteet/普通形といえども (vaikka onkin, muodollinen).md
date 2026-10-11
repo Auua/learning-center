@@ -48,3 +48,29 @@ tags: [grammar/perusrakenne, jlpt/n1]
 名医＿＿＿＿＿、すべての患者を救うことはできない。(muodollinen kirjallinen myönnytys)
 ?
 といえども — "vaikka onkin", erittäin muodollinen/kirjallinen myönnytysilmaus.
+
+#flashcards/grammar/n1/muodostus
+
+N + といえども :: Esim. 名医といえども、すべての患者を救うことはできない。 (vaikka onkin huippulääkäri)
+普通形 + といえども :: Esim. 広い日本といえども、旅行したいところはたくさんある。; どんな大金持ちといえども、お金で解決できない悩みがあるはずだ。
+
+#flashcards/grammar/n1/nyanssi
+
+Missä rekisterissä といえども esiintyy?
+?
+Erittäin kirjallisessa tai muodollisessa; arkikeskustelussa vanhahtava. Tyypillinen esseissä, puheissa ja kirjallisessa retoriikassa.
+
+Miten といえども usein rakentuu?
+?
+Laajaan yleistykseen, jota sitten rajoitetaan ('vaikka X onkin laaja/mahtava kategoria, silti ...').
+
+#flashcards/grammar/n1/sekaannus
+
+Miten といえども eroaa たとえ～ても:stä?
+?
+たとえ～ても on neutraalimpi ja yleiskielisempi myönnytys; といえども on selvästi muodollisempi ja kirjallisempi, tyypillinen retoriselle tekstille.
+
+#flashcards/grammar/n1/vertailu
+
+N／普通形＋といえども (similar/compare) :: たとえ～ても (vaikka kuinka)
+N／普通形＋といえども (similar) :: 普通形にもかかわらず (siita huolimatta etta)

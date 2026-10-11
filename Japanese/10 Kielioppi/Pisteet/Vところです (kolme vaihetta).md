@@ -56,3 +56,30 @@ Ks. myös [[Vたところに・で (juuri siina kohdassa)]] (Chuukyuu I Luku 5):
 Mikä ero on 会議は始まるところです:llä ja 会議は始まっているところです:llä?
 ?
 始まるところ = kokous on juuri alkamaisillaan (ei vielä alkanut); 始まっているところ olisi outo koska 始まる on hetkiverbi — sen sijaan käytetään esim. 続いているところ jatkuvasta tapahtumasta.
+
+#flashcards/grammar/n4/muodostus
+
+V(辞書形/ている/た形)ところです + sanakirjamuoto :: V(辞書形) + ところです — juuri alkamassa. 例: 会議は今から始まるところです。
+V(辞書形/ている/た形)ところです + ている-muoto :: V(ている) + ところです — käynnissä juuri nyt. 例: 今調べているところです。
+V(辞書形/ている/た形)ところです + た-muoto :: V(た形) + ところです — juuri päättynyt. 例: たった今帰ったところです。
+
+#flashcards/grammar/n4/nyanssi
+
+Mihin aikaan ところです viittaa?
+?
+Tarkasti nykyhetkeen; ei sovellu menneisyyden tai tulevaisuuden kaukaisiin tapahtumiin.
+
+Miten V-たところ eroaa muodosta Vたばかり ajallisen tarkkuuden osalta?
+?
+ところ korostaa juuri tätä hetkeä (たった今); ばかり voi kattaa laajemman äskettäisen ajanjakson (先月, 先週).
+
+#flashcards/grammar/n4/sekaannus
+
+Voiko ところ tarkoittaa muutakin kuin aikaa rakenteessa Vところです / Vたところに?
+?
+Kyllä: ところ voi tarkoittaa myös paikkaa (曲がったところに, 'juuri siinä kohdassa mihin käännyin'); erota kontekstista.
+
+#flashcards/grammar/n4/vertailu
+
+V(辞書形/ている/た形)ところです (similar/compare) :: Vたばかりです (juuri askettain)
+V(辞書形/ている/た形)ところです (similar/compare) :: Vたところに・で (juuri siina kohdassa)

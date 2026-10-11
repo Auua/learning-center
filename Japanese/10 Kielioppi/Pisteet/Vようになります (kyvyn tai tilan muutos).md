@@ -55,3 +55,33 @@ tags: [grammar/perusrakenne, jlpt/n4]
 工場ができてから、この近くの海では＿＿＿＿＿＿＿＿。(泳げる, muutos negatiiviseen)
 ?
 泳げなくなりました — kyky/mahdollisuus hävisi muutoksen myötä, ei "ei koskaan osannut".
+
+#flashcards/grammar/n4/muodostus
+
+V(potentiaali/普通形)ようになります + potentiaali :: Potentiaali + ようになりました. 例: やっと自転車に乗れるようになりました。
+V(potentiaali/普通形)ようになります + kielto :: Potentiaali (kielto) + なくなりました. 例: 泳げなくなりました。
+V(potentiaali/普通形)ようになります + toive :: ようになりたいです. 例: 早く弾けるようになりたいです。
+
+#flashcards/grammar/n4/nyanssi
+
+Millaista muutosta ようになります kuvaa?
+?
+Asteittaista muutosta, prosessia ja ajan kulumista (harjoittelun tai totuttelun tulos); ei äkillistä kertaluonteista muutosta.
+
+Mitä ～なくなりました ilmaisee rakenteen ようになります kielteisenä vastaparina?
+?
+Kyvyn tai mahdollisuuden häviämistä ajan myötä, esim. ympäristön muuttuessa: 泳げなくなりました ('ei voi enää uida siellä').
+
+#flashcards/grammar/n4/sekaannus
+
+Miten ようになります eroaa muodosta ように (tavoite)?
+?
+ように ilmaisee tavoitteen ('jotta'); ようになります kertoo jo tapahtuneen tai tapahtuvan muutoksen.
+
+Miten 泳げませんでした ja 泳げなくなりました eroavat?
+?
+泳げませんでした: ei koskaan osannut. 泳げなくなりました: osasi ennen, mutta ei enää; muutos vaatii aina taustalla syyn (esim. 工場ができてから).
+
+#flashcards/grammar/n4/vertailu
+
+V(potentiaali/普通形)ようになります (similar) :: Vように (jotta, niin etta)

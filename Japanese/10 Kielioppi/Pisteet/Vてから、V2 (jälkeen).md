@@ -55,3 +55,28 @@ Vertailu [[S1から、S2 (syy)]]: sama から, mutta täysin eri rooli — lause
 コンサートが終わってから、レストランで食事しました。 — miksi が eikä は sivulauseen subjektina?
 ?
 Sivulauseen oma subjekti (コンサート) eroaa päälauseen tekijästä, joten se merkitään が:lla, ei は:lla.
+
+#flashcards/grammar/n5/muodostus
+
+V1てから、V2 + verbi :: V1(て-muoto) + から、V2. 例: 国へ帰ってから、父の会社で働きます。
+
+#flashcards/grammar/n5/nyanssi
+
+Mikä on sivulauseen subjektin merkintä rakenteessa V1てから、V2, kun subjekti eroaa päälauseen subjektista?
+?
+Merkitään が:lla: コンサートが終わってから、レストランで食事しました。
+
+#flashcards/grammar/n5/sekaannus
+
+Miten V1てから、V2:n から eroaa syytä ilmaisevasta から?
+?
+Lauseen loppuinen から (predikaatin jälkeen) on syy; て-muodon jälkeinen から on ajallinen järjestys.
+
+Miten V1てから、V2 eroaa muodosta Vて、Vて?
+?
+てから korostaa 'vasta sen jälkeen'; pelkkä て on neutraali listaus.
+
+#flashcards/grammar/n5/vertailu
+
+V1てから、V2 (similar) :: Vて、Vて (peräkkäisyys)
+V1てから、V2 (similar) :: S1から、S2 (syy)

@@ -65,3 +65,16 @@ views:
 
 ## Muistiinpanot
 [[あります・います (olemassaolo)]] · [[Paikkasanat 上・下・前・後ろ]]
+
+## Kortit
+#flashcards/setti/ero
+
+横 vs 隣 vs そば?
+?
+横 = kyljessä kiinni tai rinnalla (テレビの横); 隣 = vieressä samaa lajia (隣の家); そば = lähellä, ei tarkkaa kohtaa.
+
+#flashcards/setti/teema
+
+Setti — Sijaintisanat: sano ainakin viisi sanaa
+?
+上（うえ） (päällä), 下（した） (alla), 前（まえ） (edessä), 後ろ（うしろ） (takana), 中（なか） (sisällä), 外（そと） (ulkona), そば (vieressä), 横（よこ） (sivulla), 隣（となり） (naapurissa (samaa lajia)), 奥（おく） (perällä), 手前（てまえ） (tällä puolen), 真ん中（まんなか） (keskellä)…

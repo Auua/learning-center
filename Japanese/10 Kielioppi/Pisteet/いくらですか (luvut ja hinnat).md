@@ -69,3 +69,28 @@ Japani vaihtaa uuteen yksikköön (万) 10 000:n kohdalla, ei 1000:n — suomen 
 一階 vs 三階 — miksi eri ääntämys?
 ?
 ～階-loppuliitteen ääntäminen (かい/がい, か/っかい) muuttuu edeltävän luvun mukaan epäsäännöllisesti — opetellaan tapauskohtaisesti.
+
+#flashcards/grammar/n5/muodostus
+
+いくらですか + hinnan kysyminen :: N は いくらですか. Esim. この時計はいくらですか.
+いくらですか + kerroksen kysyminen :: 何階（なんがい）ですか.
+
+#flashcards/grammar/n5/nyanssi
+
+Miten luku 18 600 luetaan japaniksi (いくらですか, suuret luvut)?
+?
+一万八千六百 (いちまんはっせんろっぴゃく); luetaan 万-lohkoissa (10 000), ei tuhannen lohkoissa.
+
+Miten ～階 ääntyy eri luvuilla (いくらですか-osio, kerrokset)?
+?
+一階（いっかい）, 三階（さんがい）, 何階（なんがい）; ääntämismuutokset opeteltava yksitellen.
+
+Mikä on でございます (いくらですか-yhteydessä)?
+?
+です:n hyvin muodollinen versio, jota kuulee liikkeissä myyjän käyttämänä.
+
+#flashcards/grammar/n5/sekaannus
+
+Miksi suomalainen 'tuhat'-ajattelu aiheuttaa virheitä japanin suurissa luvuissa (いくらですか)?
+?
+Japani ryhmittelee luvut 10 000:n (万) välein; 10 000 on 一万, ei '10 千'.

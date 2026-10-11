@@ -63,3 +63,34 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miksi する:n ず-muoto on せず eikä しず?
 ?
 する on epäsäännöllinen verbi jonka ない-vartalo on せ (しない ei せない), joten ず-muoto on せず.
+
+#flashcards/grammar/n3/muodostus
+
+V ない-vartalo + ずに (tapa/keino) :: Vない-vartalo + ずに + V2 — esim. あわてずに落ち着いて行動してください。
+V ない-vartalo + ず、 (syy/rinnastus) :: Vない-vartalo + ず、+ V2 — esim. 子どもの熱が一日中下がらず、心配しました。
+する + ず (epäsäännöllinen) :: せず (ei ×しず) — esim. 休みの日は何もせず、うちでのんびりしていた。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä on する:n muoto ず-rakenteessa (～ず)?
+?
+Epäsäännöllinen せず, ei ×しず.
+
+Voiko ずに-rakenteen に jättää pois?
+?
+Kyllä, erityisesti kirjallisessa tekstissä tai kun ず päättää lausekkeen ennen pilkkua.
+
+Mitä pelkkä ず + pilkku (ilman に:tä) ilmaisee?
+?
+Samaan tapaan kuin なくて: syyn tai rinnastaa kaksi tilaa (硬すぎず、軟らかすぎず, ei liian kova eikä liian pehmeä).
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ～ず［に］eroaa Vないで:stä?
+?
+Merkitys on sama (火を使わないで／使わずに料理をしています), mutta ず on kirjallisempi ja muodollisempi.
+
+#flashcards/grammar/n3/vertailu
+
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (similar/compare) :: Vて・Vないで (tapa, keino)
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (similar/compare) :: ～もせずに (ei edes tehnyt)

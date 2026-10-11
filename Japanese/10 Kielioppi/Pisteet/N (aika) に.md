@@ -62,3 +62,33 @@ Suomenkielinen ajattelee helposti "aina kun on aikasana, tarvitaan partikkeli" �
 6時に起きます — miksi tässä on に?
 ?
 6時 sisältää luvun (kellonaika) — hetkellinen, lukua sisältävä ajankohta vaatii に:n.
+
+#flashcards/grammar/n5/muodostus
+
+N（時間）に + kellonaika/päivämäärä :: Aika + に + V. Esim. 6時に起きます。
+N（時間）に + viikonpäivä :: Viikonpäivä + ［に］ (に valinnainen). Esim. 日曜日［に］奈良へ行きます。
+N（時間）に + suhteellinen aikasana :: Ei に:tä: aikasana + V. Esim. きのう勉強しました。
+
+#flashcards/grammar/n5/nyanssi
+
+Milloin N（時間）に on pakollinen?
+?
+Kun aikasana sisältää luvun, esim. 6時に, 7月2日に.
+
+Onko N（時間）に pakollinen viikonpäivien kanssa?
+?
+Ei, se on valinnainen: 日曜日に ja 日曜日 käyvät molemmat.
+
+Millä sanoilla N（時間）に ei koskaan käytetä?
+?
+Suhteellisilla ajanilmauksilla ilman lukua: きのう, きょう, あした, まいあさ, こんばん.
+
+#flashcards/grammar/n5/sekaannus
+
+Mikä on N（時間）に -säännön ydin: onko sana 'ajankohta' vai sisältääkö se luvun?
+?
+Ratkaisevaa on, sisältääkö aikasana luvun, ei se onko se ajankohta laajassa mielessä.
+
+#flashcards/grammar/n5/vertailu
+
+N（時間）に (similar) :: ～から～まで (mistä mihin, alku ja loppu)

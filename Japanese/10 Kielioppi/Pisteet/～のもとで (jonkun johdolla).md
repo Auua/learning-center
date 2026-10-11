@@ -44,3 +44,17 @@ tags: [grammar/perusrakenne, jlpt/n2]
 4歳のときに親を亡くし、田舎の祖父母＿＿＿＿育てられた。(jonkun huolenpidon alla)
 ?
 のもとで — "jonkun johdolla/ohjauksessa", auktoriteetin vaikutuspiirissä.
+
+#flashcards/grammar/n2/muodostus
+
+～のもとで + henkilö／auktoriteetti :: N + のもとで. Esim. 新しい監督のもとでチーム全員優勝を目指して頑張っている。
+
+#flashcards/grammar/n2/nyanssi
+
+Millaista N:ää ～のもとで vaatii?
+?
+Henkilön (opettaja, mestari, huoltaja) tai auktoriteetin, jonka vaikutuspiirissä toiminta tapahtuu.
+
+Missä tyypillisessä suhteessa ～のもとで esiintyy?
+?
+Oppipoika-mestari- tai kasvatussuhteessa, esim. 田舎の祖父母のもとで育てられた.

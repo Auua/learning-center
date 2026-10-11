@@ -72,3 +72,36 @@ Osallistuminen on epäsäännöllistä — sama verbi myönteisenä ja kielteise
 Miten erotan "esimerkkilistan" ja "vaihtelun" toisistaan?
 ?
 Jos verbit ovat toistensa vastakohtia tai sama verbi kahdessa muodossa (降る/やむ, 行く/行かない), kyse on vaihtelusta; eri teot samasta aiheesta = esimerkkilista.
+
+#flashcards/grammar/n3/muodostus
+
+V1たり + V1:n vastakohtaたり + する (vastapari) :: V1（た形）り + vastakohta（た形）り + する — esim. 雨が降ったりやんだりする。
+Vたり + V:n kielteinen なかったり + する :: V（た）り + V（なかった）り + する — esim. 教室へ行ったり行かなかったりします。
+A かったり／だったり + する (adjektiivipari) :: い-adj かったり, な-adj/N だったり — esim. 暖かかったり寒かったりして。
+Vたり + V:n passiivi たり + する (molemminpuolisuus) :: 助けたり助けられたりして。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä ～たり～たり kuvaa, kun se yhdistää vastaparin tai saman verbin myönteisen ja kielteisen muodon?
+?
+Heilahtelua tai ennustamattomuutta kahden tilan välillä (降ったりやんだり), ei erillisten tekojen luetteloa.
+
+Mihin ～たり～たり -rakenteen aikamuoto ja kohteliaisuus tulevat?
+?
+Vasta viimeiseen する:iin: 降ったりやんだりするでしょう.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten vaihtelu-たり～たり eroaa esimerkkitekoja luettelevasta Vたり、Vたりします:sta?
+?
+Luettelo-たり listaa eri tekoja (テニスをしたり、映画を見たり); vaihtelu-たり kuvaa yhtä asiaa kahdessa vastakkaisessa tilassa (vastapari tai sama verbi kahdessa muodossa).
+
+Miten ～たり～たり (vaihtelu) eroaa ～によって:sta?
+?
+によって kertoo mistä vaihtelu riippuu (国によって違う); たり～たり kuvaa vaihtelua itsessään ilman syytä.
+
+#flashcards/grammar/n3/vertailu
+
+V／Aたり V／Aたりする（vaihtelu） (similar/compare) :: Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä)
+V／Aたり V／Aたりする（vaihtelu） (similar) :: ～によって (riippuen, vaihtelu)
+V／Aたり V／Aたりする（vaihtelu） (similar) :: Vことがある・こともある (satunnainen poikkeus)

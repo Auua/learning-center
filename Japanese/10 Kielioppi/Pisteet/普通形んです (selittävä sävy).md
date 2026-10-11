@@ -73,3 +73,34 @@ Varmistaa puhujan tekemän oletuksen (arvasi syyn murteen käytölle) — kysyy 
 わたしはマイク・ミラーなんです。 — miksi tämä on virhe?
 ?
 んです vaatii selitys-/syy-kontekstin — pelkkä itsensä esittely ilman mitään selitettävää ei sovi tähän rakenteeseen.
+
+#flashcards/grammar/n4/muodostus
+
+普通形 + んです (verbi/い-adjektiivi) :: V/い-adj 普通形 + んです. Esim. 時間がないんです。(Asia on niin, ettei ole aikaa.)
+な-adjektiivi + んです :: な-adj: だ→な + んです. Esim. 静かなんです。
+Substantiivi + んです :: N: だ→な + んです. Esim. 学生なんです。
+
+#flashcards/grammar/n4/nyanssi
+
+Milloin んです ei kannata käyttää?
+?
+Pelkän faktan toteamiseen ilman selitys-/syy-sävyä: わたしはマイク・ミラーです (ei ×マイク・ミラーなんです).
+
+Miksi んですか voi kuulostaa tunkeilevalta?
+?
+Väärässä tilanteessa se sisältää usein yllättyneisyyden, epäilyn tai uteliaisuuden sävyn.
+
+Mitkä kolme käyttötapaa 普通形んです-rakenteella on?
+?
+んですか (oletetun syyn varmistus), んです (syyn antaminen vastauksena) ja んですが (pehmeä aiheenavaus ennen pyyntöä tai kutsua).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten 普通形んです eroaa S1から、S2-syylauseesta?
+?
+から liittää kaksi lausetta suoraan syy-seuraussuhteeseen samassa virkkeessä; んです seisoo usein omana virkkeenään edellisen kysymyksen tai havainnon selityksenä.
+
+#flashcards/grammar/n4/vertailu
+
+普通形んです (similar) :: S1から、S2 (syy)
+普通形んです (similar/compare) :: 普通形の？ (puhekielinen selittava kysymys)

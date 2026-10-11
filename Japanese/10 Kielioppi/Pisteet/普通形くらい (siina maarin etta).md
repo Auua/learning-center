@@ -49,3 +49,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 このかばんはとてもよくできていて、偽物とは思えない＿＿＿＿。(elävä esimerkki asteesta)
 ?
 くらいだ — ほど:n puhekielisempi vastine, kuvaa astetta esimerkin kautta.
+
+#flashcards/grammar/n3/muodostus
+
+普通形 + くらいだ :: Esim. このかばんはとてもよくできていて、偽物とは思えないくらいだ。 (niin hyvin tehty ettei uskoisi väärennökseksi)
+N + も + V + くらいだ :: Esim. アメリカには尺八を教える大学もあるくらいだ。 (jopa yliopistoja opettaa shakuhachia)
+普通形 + くらい + adjektiivi :: Määreenä: この本は中学生でも読めるくらい簡単な英語で書かれている。
+
+#flashcards/grammar/n3/nyanssi
+
+Miten くらいだ ja ほど ovat läheisiä toiminnaltaan?
+?
+Molemmat kuvaavat astetta elävän, usein lievästi liioittelevan esimerkin kautta.
+
+Mitä rekisteriä くらい edustaa verrattuna ほど:on?
+?
+くらい on hieman puhekielisempi ja yleisempi arkikeskustelussa; ほど sopii myös kirjallisempaan tyyliin.
+
+Miten くらい + adj toimii (中学生でも読めるくらい簡単な)?
+?
+Adjektiivin määreenä: kuvaa missä määrin adjektiivi pätee.
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi: くらい vai ほど, kun haluan kirjallisemman sävyn?
+?
+ほど on kirjallisempi/muodollisempi; funktio on sama, くらい on puhekielisempi ja yhtä yleinen arkikäytössä.
+
+#flashcards/grammar/n3/vertailu
+
+普通形＋くらいだ (similar/compare) :: ～ほど (aste, \"niin paljon etta\")

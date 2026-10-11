@@ -55,3 +55,23 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on 友達からもらったメール:llä ja 友達からのメール:llä?
 ?
 Molemmat tarkoittavat samaa; jälkimmäinen (partikkeli+の) on kompaktimpi ja kirjallisempi tapa ilmaista sama asia ilman erillistä relatiivilausetta.
+
+#flashcards/grammar/n3/muodostus
+
+N との N / N での N :: N + との + N = 'kanssa oleva' (友達との約束); N + での + N = 'ssa tapahtuva' (日本での生活)
+N からの N / N までの N :: N + からの + N = 'sta tuleva' (母からの手紙); N + までの + N = 'hin asti oleva' (空港までのアクセス)
+N への N :: N + への + N = 'lle suuntautuva'. Esim. これは恋人へのプレゼントです。 (lahja rakkaalle)
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä hyötyä partikkeli+の -ketjusta on verrattuna relatiivilauseeseen (友達からもらったメール)?
+?
+Tiivistää lauseen: 友達からのメール on kompaktimpi ja kirjallisempi kuin 友達からもらったメール.
+
+Mitkä partikkelit voivat saada の:n ketjussa partikkeli+の, ja mikä on に:n asema?
+?
+と, で, から, まで, へ; に:aa ei yleensä käytetä tällä tavalla samalla tuottavuudella.
+
+Missä yhteyksissä partikkeli+の on erityisen yleinen?
+?
+Otsikoissa, kutsuissa ja muodollisissa ilmoituksissa: 東京への出張, 先生からのメッセージ.

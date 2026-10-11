@@ -60,3 +60,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Adjektiivit ja ominaisuudet: sano ainakin viisi sanaa
+?
+ハンサム (komea), きれい (kaunis), 有名 (kuuluisa), 便利 (käytännöllinen), すてき (hieno), 暇 (vapaa (aikaa)), 難しい (vaikea), 易しい (helppo), おもしろい (mielenkiintoinen), 忙しい (kiireinen), 楽しい (mukava), 町 (kaupunki)…

@@ -48,3 +48,27 @@ tags: [grammar/perusrakenne, jlpt/n2]
 たとえ彼女が本当にそう言った＿＿＿＿、彼女に対する私の愛は変わらない。(hypoteesin myöntäminen)
 ?
 としても — "vaikka oletettaisiinkin että", myöntää hypoteesin ennen sen vaikutuksen kumoamista.
+
+#flashcards/grammar/n2/muodostus
+
+普通形＋としても + (たとえ) + 普通形 :: 普通形 + としても, usein たとえ + 普通形 + としても. Esim. たとえ天と地がひっくり返ったとしても、私は驚かない。(Vaikka taivas ja maa kääntyisivät ylösalaisin, en yllättyisi.)
+
+#flashcards/grammar/n2/nyanssi
+
+Millaisiin oletuksiin 普通形＋としても sopii erityisen luontevasti?
+?
+Hypoteettisiin, epätodennäköisiin tai äärimmäisiin oletuksiin; korostaa ettei edes äärimmäinen oletus muuttaisi lopputulosta.
+
+Mikä sana vahvistaa 普通形＋としても-rakennetta usein?
+?
+たとえ, joka yhdistyy rakenteeseen luontevasti samaan tapaan kuin たとえ～ても:n kanssa.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten 普通形＋としても eroaa たとえ～ても:stä?
+?
+ても liittyy suoraan verbiin/adjektiiviin; としても liittyy erityisesti oletukseen/väitteeseen (usein ~だ + としても) ja sopii tilanteisiin, joissa hypoteesi myönnetään ennen sen kumoamista.
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋としても (similar/compare) :: たとえ～ても (vaikka kuinka)

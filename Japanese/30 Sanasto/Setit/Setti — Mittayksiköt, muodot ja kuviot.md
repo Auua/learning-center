@@ -91,3 +91,16 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+ミリ, センチ, キロ: mitä lyhennetään?
+?
+Pitkä muoto lyhenee puhekielessä (ミリメートル→ミリ, センチメートル→センチ, キロメートル/グラム→キロ); キロ = kilometri tai kilo asiayhteydestä.
+
+#flashcards/setti/teema
+
+Setti — Mittayksiköt, muodot ja kuviot: sano ainakin viisi sanaa
+?
+平方センチメートル（cm²） (neliösenttimetri), 平方メートル（m²） (neliömetri), 平方キロメートル（km²） (neliökilometri), 立方センチメートル（cm³） (kuutiosenttimetri), 立方メートル（m³） (kuutiometri), ミリリットル（ml） (millilitra), シーシー（cc） (kuutiosenttimetri), リットル（ℓ） (litra), ミリメートル（mm） (millimetri), センチメートル（cm） (senttimetri), [[～メートル\ (metri), キロメートル（km） (kilometri)…

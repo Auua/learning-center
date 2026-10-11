@@ -51,3 +51,18 @@ tags:
 1か月に2回 — mitä kukin osa tarkoittaa?
 ?
 1か月 = ajanjakso (yksi kuukausi), に = sitoo kertamäärän jaksoon, 2回 = kaksi kertaa. Yhteensä: "kahdesti kuukaudessa".
+
+#flashcards/grammar/n5/muodostus
+
+期間に回数 + ajanjakso + kertamäärä :: Ajanjakso + に + luku + 回. Esim. 1か月に2回映画を見ます。
+期間に回数 + muu toistuva teko :: Ajanjakso + に + luku + luokittelija. Esim. 1週間に3回テニスをします。
+
+#flashcards/grammar/n5/nyanssi
+
+Miksi に on pakollinen 期間に回数 -rakenteessa?
+?
+に sitoo kertamäärän nimenomaan siihen ajanjaksoon; ilman sitä lauseella olisi eri merkitys.
+
+#flashcards/grammar/n5/vertailu
+
+期間に回数 (similar) :: N (aika) に

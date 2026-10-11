@@ -38,3 +38,48 @@ tags: [compare, jlpt/n4]
 窓から海が＿＿＿。(見る)
 ?
 見える — aisti toimii itsestään, ei tahdonalaista kykyä.
+
+#flashcards/compare/n4/saanto
+
+Potentiaali vs. spontaani aisti: mikä kysymys ratkaisee valinnan?
+?
+Toimiiko aisti itsestään, vai onko minulla kyky tai tilaisuus?
+
+見える・聞こえる vs. 見られる・聞ける: muistisääntö?
+?
+える-loppuiset (見える・聞こえる) = maailma tekee sen minulle; られる/ける (potentiaali) = minä pystyn.
+
+#flashcards/compare/n4/rakenne
+
+見える ::: näkyy itsestään, ilman että katson tarkoituksella
+見える (esimerkki) :: 窓から海が見える。
+見られる ::: pystyn / saan tilaisuuden katsoa
+見られる (esimerkki) :: 今夜その映画が見られる。
+聞こえる ::: kuuluu itsestään
+聞こえる (esimerkki) :: 音楽が聞こえる。
+聞ける ::: pystyn kuuntelemaan / saan kuulla
+聞ける (esimerkki) :: やっと本人の話が聞ける。
+
+#flashcards/compare/n4/minimipari
+
+富士山が見える vs. 富士山が見られる: mikä ero?
+?
+Näkyy juuri nyt vs. on mahdollista käydä katsomassa.
+
+声が聞こえない vs. 話が聞けない: mikä ero?
+?
+En kuule vs. minulle ei anneta tilaisuutta kuunnella.
+
+#flashcards/compare/n4/testi
+
+ここから富士山が＿＿＿。(näkyy itsestään)
+?
+見える
+
+チケットがあるので、その映画が＿＿＿。(on tilaisuus)
+?
+見られる
+
+隣の部屋の音楽が＿＿＿。(kuuluu itsestään)
+?
+聞こえる

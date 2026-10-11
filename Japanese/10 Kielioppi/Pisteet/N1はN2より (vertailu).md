@@ -66,3 +66,37 @@ Kysymys koskee valintaa kahden nimetyn vaihtoehdon väliltä — silloin kysymys
 この車はあの車より大きいです — mikä on より:n rooli?
 ?
 Merkitsee vertailukohteen: "tämä auto on ISOMPI KUIN tuo auto" — より osoittaa mihin verrataan.
+
+#flashcards/grammar/n5/muodostus
+
+N1はN2より／N1とN2とどちらが／N1のほうが + vertailukohta :: N1 は N2 より adj です. Esim. この車はあの車より大きいです。
+N1はN2より／N1とN2とどちらが／N1のほうが + vertailukysymys :: N1 と N2 と どちらが adj ですか. Esim. サッカーと野球とどちらがおもしろいですか。
+N1はN2より／N1とN2とどちらが／N1のほうが + vastaus :: N1 の ほうが adj です. Esim. サッカーのほうがおもしろいです。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä kysymyssanaa N1とN2とどちらが käyttää kahden vaihtoehdon välillä?
+?
+Aina どちら, ei koskaan 何 tai だれ, vaikka vertailtavat olisivat ihmisiä.
+
+Mitä vastaukseen käytetään N1はN2より-vertailussa (ei より:n toistoa)?
+?
+のほうが.
+
+Miten vastataan, kun kumpikaan ei voita vertailussa N1とN2とどちらが?
+?
+どちらも (molemmat): 海も山もどちらも好きです。
+
+Voiko より／ほうが -vertailu koskea myös tekoja?
+?
+Kyllä, katso ～より～ほうが (tekojen vertailu).
+
+#flashcards/grammar/n5/sekaannus
+
+Mikä ero on より ja のほうが rooleilla samassa vertailussa?
+?
+より merkitsee vertailukohteen (mihin verrataan); のほうが merkitsee voittajan (kumpi on enemmän).
+
+#flashcards/grammar/n5/vertailu
+
+N1はN2より／N1とN2とどちらが／N1のほうが (similar/compare) :: ～より～ほうが (tekojen vertailu)

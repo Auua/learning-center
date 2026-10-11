@@ -45,3 +45,17 @@ tags: [grammar/perusrakenne, jlpt/n3]
 野球は世界的には＿＿＿＿ポピュラーなスポーツとは言えない。(ehdoton kielto)
 ?
 決して — vahvistaa kiellon ehdottomaksi, vaatii aina kielteisen predikaatin.
+
+#flashcards/grammar/n3/muodostus
+
+決して + 普通形（ない） :: 決して + 〜ない (kielteinen predikaatti lauseen lopussa). Esim. 野球は世界的には決してポピュラーなスポーツとは言えない。(Baseball ei ole maailmanlaajuisesti missään nimessä suosittu laji.)
+
+#flashcards/grammar/n3/nyanssi
+
+Millaisen predikaatin 決して～ない vaatii lauseen loppuun?
+?
+Aina kielteisen (ではない, 〜ようとしない, 〜とは言えない); ei koskaan myönteisen lauseen kanssa.
+
+Miten 決して eroaa pelkästä ない-kiellosta?
+?
+Se on vahvempi: sulkee pois kaikki poikkeukset ehdottomasti.

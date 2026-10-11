@@ -45,3 +45,19 @@ tags: [grammar/perusrakenne, jlpt/n2]
 ＿＿＿＿＿＿、40年ぶりに訪ねた故郷の小学校がなくなっていた。(puhujan tunnereaktio koko lauseeseen)
 ?
 驚いたことに — tunnesana + ことに aloittaa lauseen, kommentoi koko seuraavaa tapahtumaa.
+
+#flashcards/grammar/n2/muodostus
+
+Adj（普通形）＋ことに、＋S + い-adjektiivi :: い-adj + ことに、S. Esim. 悲しいことに、…
+Adj（普通形）＋ことに、＋S + な-adjektiivi :: な-adj + なことに、S. Esim. 不思議なことに、祖父が亡くなった日に息子が生まれた。
+Adj（普通形）＋ことに、＋S + verbi (た-muoto) :: Vた + ことに、S. Esim. 驚いたことに、…
+
+#flashcards/grammar/n2/nyanssi
+
+Mihin Adj（普通形）＋ことに、＋S -tunnesana kohdistuu?
+?
+Puhujan omaan reaktioon koko seuraavaa tapahtumaa kohtaan, ei mihinkään lauseen sisäiseen osaan.
+
+Missä yhteydessä Adj（普通形）＋ことに、＋S on tyypillinen?
+?
+Tarinankerronnassa ja esseissä, nostamaan esiin kiinnostava tai yllättävä fakta.

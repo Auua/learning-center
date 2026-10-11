@@ -60,3 +60,27 @@ tags:
 辞書、持ってる？ — mikä tässä on lyhennetty?
 ?
 持っている → 持ってる: ている-muodon い on pudotettu, hyvin yleistä puhekielessä.
+
+#flashcards/grammar/n5/muodostus
+
+普通形の疑問文と助詞の省略 + verbi/普通形 (kysymys) :: 普通形 + ↗ (nouseva intonaatio, ei か). Esim. コーヒーを飲む？
+普通形の疑問文と助詞の省略 + substantiivi/な-adjektiivi (kysymys) :: Substantiivi/な-adj + ↗, だ jätetään pois. Esim. 今晩暇？
+普通形の疑問文と助詞の省略 + ている (puhekielinen lyhenne) :: ている → てる, い putoaa. Esim. 辞書、持って［い］る？
+
+#flashcards/grammar/n5/nyanssi
+
+Mitkä partikkelit voi pudottaa puhekielessä (普通形の疑問文と助詞の省略) ja mitä ei?
+?
+Vain を/は/が voivat kadota, kun konteksti tekee ne tarpeettomiksi. で、に、から、まで、と ja muut merkitykseltään välttämättömät partikkelit eivät putoa.
+
+Miten 暇？-kysymykseen vastataan puhekielessä sukupuolen mukaan?
+?
+Miehet voivat sanoa 暇だ／暇だよ, naiset useimmiten vain 暇／暇よ. だ on perinteisesti miehisempi.
+
+Mitkä ovat はい/いいえ:n puhekieliset vastineet?
+?
+うん ja ううん.
+
+#flashcards/grammar/n5/vertailu
+
+普通形の疑問文と助詞の省略 (similar) :: 普通形 (puhekielinen perusmuoto)

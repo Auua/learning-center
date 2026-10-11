@@ -53,3 +53,32 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi ×先生に本を読んでやりました on virhe?
 ?
 やる sopii vain eläimille, kasveille tai selvästi nuoremmille/alemmille — ei koskaan ylemmälle henkilölle kuten opettajalle.
+
+#flashcards/grammar/n4/muodostus
+
+Vて-form やります + verbi :: V(て-muoto) + やりました. 例: わたしは息子に紙飛行機を作ってやりました。
+やる + esine (N を やる) :: N + を + やる; esineen antaminen alaspäin. 例: あの猿にお菓子をやってもいい?
+
+#flashcards/grammar/n4/nyanssi
+
+Kenelle Vて-form やります voidaan käyttää?
+?
+Vain eläimille, kasveille ja selvästi nuoremmille/alemmille (oma lapsi, pienempi sisarus); vertaiselle tai ylemmälle käytetään てあげる.
+
+Esiintyykö alaspäin-やる myös ilman て-muotoa?
+?
+Kyllä: 花に水をやる (kastella kukkia), 猫にえさをやる (ruokkia kissaa).
+
+Miten nykypuhekieli suhtautuu rakenteeseen Vて-form やります lapsesta puhuttaessa?
+?
+やる voi kuulostaa karulta; monet käyttävät nykyään てあげる myös lapsista, mutta MNN opettaa perinteisen erottelun.
+
+#flashcards/grammar/n4/sekaannus
+
+Miksi 先生に本を読んでやりました on virhe, ja mitä pitäisi käyttää?
+?
+やる ei sovi ylemmälle tai vertaiselle; suunta on aina alaspäin (eläin/kasvi/lapsi). Ylemmälle käytetään てあげる-sarjaa.
+
+#flashcards/grammar/n4/vertailu
+
+Vて-form やります (similar) :: Vてあげます・Vてもらいます・Vてくれます (teon antaminen)

@@ -55,4 +55,25 @@ tags:
 
 わたしは元気ですから、心配しないでください。 — mikä rakenne tässä on?
 ?
-[[ない-muoto]] (心配し) + ないでください — pyyntö olla tekemättä jotain (olemasta huolissaan).
+ない-muoto (心配し) + ないでください — pyyntö olla tekemättä jotain (olemasta huolissaan).
+
+#flashcards/grammar/n5/muodostus
+
+Vないでください + verbi :: ない-muoto + で + ください. 例: ここで写真を撮らないでください。
+
+#flashcards/grammar/n5/nyanssi
+
+Miten objekti nostetaan aiheeksi rakenteessa Vないでください?
+?
+は:lla korostukseksi: 荷物はここに置かないでください。
+
+#flashcards/grammar/n5/sekaannus
+
+Miten Vないでください eroaa muodosta Vないで (tapa, keino)?
+?
+Sama ない形+で, mutta ilman ください se liittää kaksi lausetta kuvaamaan tapaa (バスに乗らないで、歩いています), ei pyydä mitään.
+
+#flashcards/grammar/n5/vertailu
+
+Vないでください (similar) :: Vて ください (pyyntö)
+Vないでください (similar/compare) :: Vて・Vないで (tapa, keino)

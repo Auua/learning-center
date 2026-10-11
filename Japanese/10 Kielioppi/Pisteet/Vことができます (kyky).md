@@ -14,7 +14,9 @@ register:
   - kirjoitettu
 similar:
   - "[[Potentiaali える]]"
+  - "[[Vこと (nominalisointi, abstrakti tekeminen)]]"
 compare:
+  - "[[Vこと (nominalisointi, abstrakti tekeminen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 18]]"
 status: known
@@ -42,7 +44,7 @@ tags:
 
 ## Nyanssi ja rajoitukset
 - できます korvaa myös monta [[Potentiaali える]]-muotoa arkikielessä — できます on yleisverbi, kun taas potentiaali (例: 読める) on suora verbin taivutus. Molemmat toimivat, ことができます on hieman muodollisempi.
-- こと muuttaa verbin lauseen sisällä substantiiviksi ("lukeminen") — sama periaate kuin monissa muissa nominalisoivissa rakenteissa.
+- こと muuttaa verbin lauseen sisällä substantiiviksi ("lukeminen") — perusmekanismi: [[Vこと (nominalisointi, abstrakti tekeminen)]].
 
 ## Esimerkit
 ![[Lausepankki — Kyky ja harrastukset#^kyky1]]
@@ -57,3 +59,30 @@ Vertailu [[Potentiaali える]]: 漢字が読めます (suora taivutus) ja 漢�
 漢字を読むことができます — mikä on ことの tehtävä?
 ?
 Muuttaa verbin (読む) substantiiviksi ("lukeminen"), jotta が できます voi liittyä siihen — verbi ei voi ottaa が:ta suoraan.
+
+#flashcards/grammar/n5/muodostus
+
+ことができます + substantiivi :: N + が + できます. Esim. ミラーさんは日本語ができます。
+ことができます + verbi (sanakirjamuoto) :: Sanakirjamuoto + こと + が + できます. Esim. 漢字を読むことができます。
+ことが + harrastuksen ilmaisu (わたしの趣味は〜) :: わたしの趣味は + sanakirjamuoto + ことです. Esim. わたしの趣味は音楽を聞くことです。
+
+#flashcards/grammar/n5/nyanssi
+
+Miten ことができます eroaa potentiaalimuodosta (読める)?
+?
+Molemmat toimivat; できます on yleisverbi, potentiaali on suora verbin taivutus. ことができます on hieman muodollisempi.
+
+Miksi verbin kanssa tarvitaan こと rakenteessa ことができます?
+?
+こと muuttaa verbin lauseen sisällä substantiiviksi (lukeminen), jolle できます voi ottaa が-partikkelin.
+
+#flashcards/grammar/n5/sekaannus
+
+Onko 漢字が読めます vai 漢字を読むことができます ero merkitykseltään?
+?
+Ei ole: molemmat tarkoittavat samaa kykyä. Jälkimmäinen on muodollisempi ja pidempi ilmaus.
+
+#flashcards/grammar/n5/vertailu
+
+N／Vdictionary form ことができます (similar) :: Potentiaali える
+N／Vdictionary form ことができます (similar/compare) :: Vこと (nominalisointi, abstrakti tekeminen)

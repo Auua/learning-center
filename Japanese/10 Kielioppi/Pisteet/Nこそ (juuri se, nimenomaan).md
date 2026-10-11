@@ -47,3 +47,23 @@ tags: [grammar/perusrakenne, jlpt/n2]
 どうぞよろしくお願いします。……＿＿＿＿＿どうぞよろしく。(kohtelias vastavuoroisuus)
 ?
 こちらこそ — "juuri minä/me", vahva korostus, kohtelias vastaus tervehdykseen.
+
+#flashcards/grammar/n2/muodostus
+
+N＋こそ・V（て形）こそ + substantiivi :: N + こそ. Esim. 今年こそ、いい人に出会えますように。
+N＋こそ・V（て形）こそ + partikkeli に :: N + にこそ. Esim. あなたにこそ聞いてほしいのです。
+N＋こそ・V（て形）こそ + verbi (て-muoto) :: Vて + こそ. Esim. 使えてこそ意味がある。
+
+#flashcards/grammar/n2/nyanssi
+
+Mikä on N＋こそ-partikkelin perusvoima?
+?
+Vahvin korostuspartikkeli: sulkee pois kaikki muut ja nostaa esiin juuri tämän kohteen.
+
+Mikä kohtelias vastausilmaus perustuu N＋こそ:iin?
+?
+こちらこそ — vastaus ilmaukseen よろしくお願いします.
+
+Mitä V（て形）こそ + 意味がある／価値がある ilmaisee?
+?
+'Vasta X:n tehtyään on todella arvokasta' — tuottava rakenne.

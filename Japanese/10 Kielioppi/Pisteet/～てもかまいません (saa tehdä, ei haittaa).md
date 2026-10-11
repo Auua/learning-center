@@ -69,3 +69,35 @@ Käytetyt taivutusmuodot: [[て-muoto]]
 Mitä eroa on てもいいです ja てもかまいません -ilmauksilla?
 ?
 Merkitys on sama; てもいいです antaa luvan suoraan, てもかまいません on muodollisempi ja korostaa ettei asia häiritse puhujaa.
+
+#flashcards/grammar/n4/muodostus
+
+〜てもかまいません + verbi :: て-muoto + もかまいません — esim. 教室を出てもかまいません。
+〜てもかまいません + い-adjektiivi :: くて + もかまいません — esim. 駅から遠くてもかまいません。
+〜てもかまいません + な-adjektiivi/substantiivi :: で + もかまいません — esim. サインでもかまいません。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten ～てもかまいません yleensä ilmaisee puhujan joustoa ehtolauseen jälkeen?
+?
+Esim. 家賃が安ければ、駅から遠くてもかまいません: 'kunhan X, niin Y ei haittaa' — puhuja kertoo ettei asia ole hänelle este.
+
+Miten ～てもかまいませんか eroaa てもいいですか:sta?
+?
+Se on kohtelias lupakysymys, hieman muodollisempi kuin てもいいですか.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten ～てもかまいません eroaa ～てもいいです:sta?
+?
+てもいいです antaa luvan suoraan (saa tehdä); てもかまいません toteaa ettei tekeminen häiritse (ei haittaa). Kielto on molemmissa てはいけません, ×てはかまいません ei ole olemassa.
+
+Miten lupailmaus ～てもかまいません eroaa myönnytys-ても:sta (vaikka)?
+?
+Myönnytys-ても aloittaa lauseen 'vaikka X, silti Y'; tässä ても on osa kiinteää lupailmausta.
+
+#flashcards/grammar/n4/vertailu
+
+Vてもかまいません／かまわない (similar/compare) :: Vても いいです・Vては いけません (lupa ja kielto)
+Vてもかまいません／かまわない (similar) :: ～なくてもかまいません (ei tarvitse, ei haittaa)
+Vてもかまいません／かまわない (similar) :: Vても (vaikka)

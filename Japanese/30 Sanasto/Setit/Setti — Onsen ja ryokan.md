@@ -42,3 +42,13 @@ views:
 
 ## Muistiinpanot
 [[温泉]] · [[神社]] · [[食事]]
+
+## Kortit
+#flashcards/setti/fraasi
+
+予約した田中です。 ::: Minulla on varaus, nimi Tanaka.
+{一泊\ ::: いっぱく}二食付きでお願いします。
+夕食は何時からですか。 ::: Mihin aikaan illallinen alkaa?
+タトゥーがあるのですが、大丈夫でしょうか。 ::: Minulla on tatuointi — sopiiko se?
+貸切風呂は予約が必要ですか。 ::: Pitääkö yksityiskylpy varata?
+露天風呂はありますか。 ::: Onko ulkoallasta?

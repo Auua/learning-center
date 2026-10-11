@@ -49,3 +49,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 もう少し早く家を出る＿＿＿＿＿。電車に乗り遅れてしまった。(katumus tekemättä jääneestä)
 ?
 べきだった — moraalinen/periaatteellinen velvollisuus joka jäi täyttämättä, katumuksen sävy.
+
+#flashcards/grammar/n3/muodostus
+
+V辞書形＋べきだ + myönteinen :: V辞書形 + べきだ. 例: 豊かな国は貧しい国を援助するべきだ。
+V辞書形＋べきだ + kielteinen :: V辞書形 + べきではない. 例: 子どもの前で夫婦げんかをすべきではない。
+V辞書形＋べきだ + menneisyys :: V辞書形 + べきだった. 例: もう少し早く家を出るべきだった。
+
+#flashcards/grammar/n3/nyanssi
+
+Millaisiin teksteihin V辞書形＋べきだ sopii?
+?
+Mielipideteksteihin ja argumentointiin; ilmaisee puhujan oman arvion siitä, mikä on oikein.
+
+Mitkä ovat する:n muodot rakenteessa べきだ?
+?
+すべき tai するべき; molemmat hyväksyttyjä.
+
+Mitä べきだった ilmaisee?
+?
+Katumusta tekemättä jääneestä velvollisuudesta.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten Vべきだ eroaa muodosta Vなければなりません?
+?
+なければならない viittaa ulkoiseen sääntöön tai pakkoon; べきだ ilmaisee puhujan oman moraalisen/periaatteellisen arvion.
+
+#flashcards/grammar/n3/vertailu
+
+V辞書形＋べきだ・べきではない (similar/compare) :: Vなければ なりません (velvollisuus)

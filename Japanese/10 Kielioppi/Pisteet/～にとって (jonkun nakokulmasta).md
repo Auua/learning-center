@@ -50,3 +50,27 @@ tags: [grammar/perusrakenne, jlpt/n3]
 留学生＿＿＿＿奨学金がもらえるかどうかは重要な問題だ。(jonkun näkökulmasta)
 ?
 にとって — jonkun henkilön/tahon näkökulmasta, vaatii elollisen kokijan.
+
+#flashcards/grammar/n3/muodostus
+
+～にとって + substantiivi (elollinen taho) :: N + にとって + arvio. Esim. 留学生にとって奨学金がもらえるかどうかは重要な問題だ。
+
+#flashcards/grammar/n3/nyanssi
+
+Millaista tahoa N にとって vaatii?
+?
+Elollisen/kokevan tahon (henkilö, ryhmä); ei sovi elottomille asioille.
+
+Millainen predikaatti N にとって -lauseessa tyypillisesti on?
+?
+Arvottava ilmaus (大切だ, 重要だ, 楽しみだ, 欠かせない), joka kuvaa miltä asia tuntuu kyseisen tahon kannalta.
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi: にとって vai において, kun puhutaan jonkun subjektiivisesta näkökulmasta?
+?
+にとって (私にとって); において on muodollinen objektiivinen konteksti (日本において) eikä vaadi elollista tahoa.
+
+#flashcards/grammar/n3/vertailu
+
+N＋にとって (similar/compare) :: ～において (jossakin kontekstissa, muodollinen)

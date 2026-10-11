@@ -58,7 +58,7 @@ Menneen ajan adjektiivit · 〜より (vertailu: "enemmän kuin") · 〜のほ�
 ### Luku 17
 [[ない-muoto]] (nai-muoto) · 〜ないでください (pyyntö: "älä tee") · 〜なければなりません (pakko: on pakko tehdä) · 〜なくてもいいです (ei tarvitse tehdä)
 ### Luku 18
-[[Sanakirjamuoto]] (sanakirjamuoto) · 〜ことができます (kyetä tekemään, taito) · 〜のが好きです (pitää tekemisestä) · 〜まえに (ennen kuin)
+[[Sanakirjamuoto]] (sanakirjamuoto) · 〜ことができます (kyetä tekemään, taito) · [[Vこと (nominalisointi, abstrakti tekeminen)]] (趣味は〜ことです) · 〜のが好きです (pitää tekemisestä) · 〜まえに (ennen kuin)
 ### Luku 19
 [[た-muoto]] (ta-muoto) · 〜たことがあります (kokemus: on joskus tehnyt) · 〜たり〜たりします (mm. muuta, esimerkkiluettelo tekemisistä) · 〜くなります/〜になります (muuttua joksikin)
 ### Luku 20

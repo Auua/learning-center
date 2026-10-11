@@ -45,3 +45,17 @@ tags: [grammar/perusrakenne, jlpt/n2]
 病気になって＿＿＿＿健康の大切さが分かった。(oivallus joka syntyi vasta kokemuksen myötä)
 ?
 はじめて — "vasta silloin kun", korostaa ettei ymmärrystä ollut ennen tätä kokemusta.
+
+#flashcards/grammar/n2/muodostus
+
+V(て形)＋はじめて + mitä jälkilause on? :: V(て形) + はじめて、+ oivallus. 例: 病気になってはじめて健康の大切さが分かった。
+
+#flashcards/grammar/n2/nyanssi
+
+Millainen jälkilauseen tulee olla rakenteessa V(て形)＋はじめて?
+?
+Lähes aina ymmärrys tai oivallus (わかった, 知った, 気づいた), ei mikä tahansa teko.
+
+Mitä V(て形)＋はじめて implisiittisesti korostaa?
+?
+Ettei ymmärrystä ollut ennen kyseistä kokemusta; käytetään usein elämänkokemuksen tuomasta viisaudesta.

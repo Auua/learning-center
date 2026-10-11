@@ -27,5 +27,8 @@ tags: [vocab, jlpt/n2]
 - 
 
 ## Kortit
-#flashcards/vocab
-LED電球::エルイーディーでんきゅう — LED-lamppu
+#flashcards/vocab/n2
+
+LED電球 :: エルイーディーでんきゅう - LED-lamppu
+エルイーディーでんきゅう :: LED電球 - LED-lamppu
+LED-lamppu :: LED電球 - エルイーディーでんきゅう

@@ -41,3 +41,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Kirjoitusjärjestelmät: sano ainakin viisi sanaa
+?
+絵 (kuva), 字 (kirjain), 漢字 (kanji), ひらがな (hiragana), かたかな (katakana), ローマ字 (latinalaiset aakkoset), 細かいお金 (pikkuraha), チケット (lippu (esim. konsertti))

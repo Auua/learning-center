@@ -27,5 +27,8 @@ tags: [vocab, jlpt/n2]
 - 
 
 ## Kortit
-#flashcards/vocab
-win-win::ウィンウィン — molemmille edullinen
+#flashcards/vocab/n2
+
+win-win :: ウィンウィン - molemmille edullinen
+ウィンウィン :: win-win - molemmille edullinen
+molemmille edullinen :: win-win - ウィンウィン

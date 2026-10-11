@@ -60,3 +60,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Värit ja maut: sano ainakin viisi sanaa
+?
+白（しろ） (valkoinen), 黒（くろ） (musta), 赤（あか） (punainen), 青（あお） (sininen), 黄色（きいろ） (keltainen), 茶色（ちゃいろ） (ruskea), ピンク (pinkki), オレンジ (oranssi), 緑 (vihreä), グレー (harmaa), 紫 (violetti), ベージュ (beige)…

@@ -27,5 +27,8 @@ tags: [vocab, jlpt/n2]
 - 
 
 ## Kortit
-#flashcards/vocab
-TPO::ティーピーオー — tilanteeseen sopiva käytös (aika, paikka, tilaisuus)
+#flashcards/vocab/n2
+
+TPO :: ティーピーオー - tilanteeseen sopiva käytös (aika, paikka, tilaisuus)
+ティーピーオー :: TPO - tilanteeseen sopiva käytös (aika, paikka, tilaisuus)
+tilanteeseen sopiva käytös (aika, paikka, tilaisuus) :: TPO - ティーピーオー

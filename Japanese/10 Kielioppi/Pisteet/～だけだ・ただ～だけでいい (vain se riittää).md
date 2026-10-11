@@ -72,3 +72,40 @@ Käytetyt taivutusmuodot: [[Sanakirjamuoto]], [[～ている (parhaillaan, tilan
 いいえ、ちょっと雑誌を読んでいるだけです。 — mitä puhuja tekee tällä rakenteella?
 ?
 Torjuu kuulijan pidemmälle menevän tulkinnan: "en ole sairas, luen vain lehteä" — ているだけです rajaa tilanteen vaarattomaksi.
+
+#flashcards/grammar/n3/muodostus
+
+V辞書形 + だけでいい :: V（辞書形）+ だけでいい — esim. このボタンを押すだけでいいんです。
+ただ + V辞書形 + だけでいい :: ただ + V（辞書形）+ だけでいい — esim. ただお湯を入れるだけでいいんです。
+V（ている）+ だけです :: V（ている）+ だけです — esim. 雑誌を読んでいるだけです。
+N + だけです :: N + だけです — esim. 休みは日曜日だけです。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä ただ lisää lauseeseen ただ…だけでいい?
+?
+Se ei ole pakollinen mutta korostaa vaivattomuutta; tyypillinen ohjeissa ja tuote-esittelyissä.
+
+Mihin Vているだけです sopii keskustelussa?
+?
+Kohteliaaseen liiallisen tulkinnan torjumiseen: 気分が悪いんですか。……いいえ、ちょっと雑誌を読んでいるだけです。
+
+Miten だけ-rajaus eroaa しか-rakenteesta predikaatin kannalta?
+?
+だけ-rakenteessa predikaatti on myönteinen; しか vaatii kielteisen predikaatin.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ～だけだ・だけでいい eroaa Nだけ/Maara だけ -rajauksesta?
+?
+Maara/Nだけ rajaa määrän tai substantiivin (1人だけ); tämä rajaa teon ja lisää riittävyyden (押すだけでいい).
+
+Miten ～だけでいい eroaa Vさえ～ば:sta?
+?
+Vさえ～ば on ehtolause (kunhan X, niin Y); だけでいい on toteamus siitä mitä riittää tehdä.
+
+#flashcards/grammar/n3/vertailu
+
+…だけだ／［ただ］…だけでいい (similar/compare) :: Maara だけ・Nだけ
+…だけだ／［ただ］…だけでいい (similar) :: Nしか Vません (vain, pelkastaan)
+…だけだ／［ただ］…だけでいい (similar) :: Vさえ～ば (kunhan vain)

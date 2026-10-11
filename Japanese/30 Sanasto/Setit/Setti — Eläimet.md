@@ -40,3 +40,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Eläimet: sano ainakin viisi sanaa
+?
+動物 (eläin), 馬 (hevonen), 犬（いぬ） (koira), 猫（ねこ） (kissa), 牧場 (laidun), ペット (lemmikki), 鳥（とり） (lintu)

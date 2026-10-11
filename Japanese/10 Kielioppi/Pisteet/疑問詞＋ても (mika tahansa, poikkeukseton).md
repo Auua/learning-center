@@ -55,3 +55,36 @@ tags: [grammar/perusrakenne, jlpt/n3]
 どんなに立派な人でも欠点はあります。 — mitä どんなに tässä korostaa?
 ?
 Ääripään korostus: vaikka kuinka arvostettu/hieno henkilö tahansa, poikkeusta ei ole — kaikilla on virheitä.
+
+#flashcards/grammar/n3/muodostus
+
+疑問詞＋V ても (いつ/どこ/何/だれ) :: いつ／どこ／何／だれ + V(ても). Esim. だれに聞いても「日本は食べ物が高い」と言う。(Keneltä tahansa kysyy, sanoo että Japanissa ruoka on kallista.)
+どんなに＋adjektiivi＋ても :: どんなに + adj(ても). Esim. どんなに立派な人でも欠点はあります。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä ero on Vても:n ja 疑問詞＋ても:n välillä?
+?
+疑問詞＋ても laajentaa Vても:ta: kysymyssana tekee ehdosta universaalin ('mikä/kuka/milloin/miten tahansa').
+
+Mihin どんなに + adj + ても sopii?
+?
+Ääripään korostamiseen: どんなに疲れていても、頑張ります (vaikka kuinka väsynyt olisin, jatkan).
+
+Miten 疑問詞＋ても voi käyttää kehumiseen?
+?
+Luonnehtimaan jotakuta poikkeuksettoman hyväksi: 何を着ても似合います, どこへ行っても困らないでしょう.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten 疑問詞＋ても eroaa 何でも/どこでも/だれでも/いつでも-muodoista?
+?
+でも-liite korostaa valinnanvapautta/poikkeuksettomuutta yhdessä lauseessa ilman toistoa; 疑問詞＋ても vaatii aina oman verbin/predikaatin ja on rakenteellisesti raskaampi.
+
+#flashcards/grammar/n3/vertailu
+
+いつ／どこ／何／だれ／どんなに＋ても (similar) :: Vても (vaikka)
+いつ／どこ／何／だれ／どんなに＋ても (similar/compare) :: 何でも
+いつ／どこ／何／だれ／どんなに＋ても (similar/compare) :: どこでも
+いつ／どこ／何／だれ／どんなに＋ても (similar/compare) :: だれでも
+いつ／どこ／何／だれ／どんなに＋ても (similar/compare) :: いつでも

@@ -87,3 +87,16 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+煮る vs ゆでる vs 炊く?
+?
+Kaikki "keittää": 煮る = maustetussa liemessä; ゆでる = pelkässä vedessä, vesi pois (pasta, muna); 炊く = riisin keittäminen.
+
+#flashcards/setti/teema
+
+Setti — Ruoanlaitto ja keittiövälineet: sano ainakin viisi sanaa
+?
+煮る（にる） (keittää), 焼く（やく） (grillata), 揚げる（あげる） (uppopaistaa), いためる (kuullottaa pannulla), ゆでる (keittää vedessä), 蒸す（むす） (höyryttää), 炊く（たく） (keittää riisi), むく (kuoria), 刻む（きざむ） (pilkkoa), かき混ぜる（かきまぜる） (sekoittaa), しょうゆ (soijakastike), 砂糖（さとう） (sokeri)…

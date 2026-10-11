@@ -50,3 +50,32 @@ tags: [grammar/perusrakenne, jlpt/n3]
 コンピューターは本当に人々の生活を便利にした＿＿＿＿＿＿。(pohdiskeleva, kirjallinen)
 ?
 のだろうか — retorinen, pohdiskeleva kysymys, ei odota suoraa vastausta.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋のだろうか :: 普通形 + のだろうか. Esim. 地球の未来はどうなるのだろうか。(Mitähän maapallon tulevaisuudelle tapahtuu?)
+どうすれば + 普通形 + のだろうか :: どうすれば + 普通形 + のだろうか. Esim. どうすればこの地球から戦争をなくすことができるのだろうか。
+
+#flashcards/grammar/n3/nyanssi
+
+Miksi kirjoittaja käyttää 普通形のだろうか-kysymystä esseessä?
+?
+Esittääkseen retorisen kysymyksen, joka johdattaa lukijaa pohtimaan; vastausta ei odoteta.
+
+Mikä on 普通形のだろうか:n puhutumpi/kohteliaampi vastine?
+?
+のでしょうか (地球の未来はどうなるのでしょうか); だろうか on kirjallisempi ja muodollisempi.
+
+Mitä 普通形のだろうか usein ilmaisee sisällöltään?
+?
+Epäilyä tai kyseenalaistamista vallitsevasta oletuksesta, esim. onko teknologia todella tehnyt elämästä helpompaa.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten 普通形のだろうか eroaa tavallisesta kysymyksestä?
+?
+Se ei odota vastausta kuulijalta/lukijalta vaan on retorinen pohdiskelun väline, usein esseen tai kappaleen aloituksena tai lopetuksena.
+
+#flashcards/grammar/n3/vertailu
+
+普通形のだろうか (similar) :: 普通形んです (selittävä sävy)

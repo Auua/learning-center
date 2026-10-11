@@ -50,3 +50,29 @@ tags: [grammar/perusrakenne, jlpt/n3]
 もっと＿＿＿＿服にしたら。(gakusei, tyypillisyys)
 ?
 学生らしい — N + らしい, kuvaa mielikuvaa tyypillisestä opiskelijasta.
+
+#flashcards/grammar/n3/muodostus
+
+Nらしい + substantiivi :: N + らしい + N. Esim. 学生らしい服にしたら。
+Nらしい (predikaattina) :: N + らしい. Esim. 暖かくて、春らしい日が続いています。
+Nらしくない (kielteinen) :: N + らしくない. Esim. いつものあなたらしくないよ。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä Nらしい ilmaisee?
+?
+Miten joku/jokin ihanteellisesti vastaa mielikuvaa luokastaan (学生らしい服 = opiskelijalle sopiva vaate).
+
+Milloin Nらしくない on yleinen?
+?
+Kun joku käyttäytyy odotustensa vastaisesti: いつものあなたらしくないよ (tämä ei ole sinun tyylistäsi).
+
+#flashcards/grammar/n3/sekaannus
+
+Miten tyypillisyys-らしい eroaa kuulopuhe-らしい:sta?
+?
+Tyypillisyys-らしい liittyy suoraan substantiiviin (学生らしい服); kuulopuhe-らしい liittyy 普通形-lauseeseen (婚約したらしいよ = kuulemma kihlautui).
+
+#flashcards/grammar/n3/vertailu
+
+Nらしい〜・Nらしくない (similar/compare) :: 普通形らしい (kuulopuhe, paattely)

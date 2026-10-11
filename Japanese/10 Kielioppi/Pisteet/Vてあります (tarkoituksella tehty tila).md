@@ -66,3 +66,32 @@ tags:
 Miksi 地図がはってあります käyttää が:ta eikä を:ta, vaikka はる on transitiivinen?
 ?
 てある-rakenteessa huomio on tuloksena olevassa tilassa, ei tekijässä — partikkeli on siksi aina が.
+
+#flashcards/grammar/n4/muodostus
+
+他動詞Vて-form あります + verbi :: Transitiiviverbi (て-muoto) + あります. 例: 交番に町の地図がはってあります。
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä partikkeli on rakenteessa 他動詞Vてあります, vaikka verbi on transitiivinen?
+?
+Aina が (地図がはってあります, ei を), koska huomio on tuloksena olevassa tilassa, ei tekijässä.
+
+Voiko tekijän mainita rakenteessa 他動詞Vてあります?
+?
+Ei; jos tekijä pitää mainita, käytetään tavallista transitiivilausetta (地図をはりました).
+
+Miten 窓が閉まっている ja 窓が閉めてある eroavat?
+?
+閉まっている on pelkkä tila (ei kerro tarkoituksesta); 閉めてある: joku sulki sen tarkoituksella valmiiksi.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten 他動詞Vてあります eroaa muodosta 自動詞＋ている?
+?
+自動詞＋ている käyttää intransitiivia eikä ota kantaa tekijään (窓が閉まっている); てある käyttää transitiivia ja vihjaa aina tarkoituksellisuudesta (窓が閉めてある).
+
+#flashcards/grammar/n4/vertailu
+
+他動詞Vて-form あります (similar/compare) :: 自動詞＋ている (jaljelle jaanyt tila)
+他動詞Vて-form あります (similar) :: ～ている (parhaillaan, tilan tulos)

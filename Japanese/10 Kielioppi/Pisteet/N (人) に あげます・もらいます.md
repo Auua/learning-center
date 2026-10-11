@@ -62,3 +62,27 @@ Vertaa myöhempään [[Keigo — kartta]]:n antamis-/saamisverbien kartta (あ�
 Miksi 銀行からお金を借りました, ei 銀行にお金を借りました?
 ?
 Kun lähde on organisaatio (ei henkilö), käytetään vain から:aa, ei に:tä.
+
+#flashcards/grammar/n5/muodostus
+
+N（人）にあげます／もらいます + antava suunta (あげる・貸す・送る・教える) :: Vastaanottaja + に. Esim. 木村さんに花をあげました。
+N（人）にあげます／もらいます + saava suunta (もらう・借りる・習う) :: Lähde + に (tai から). Esim. 山田さんに花をもらいました。
+N（人）にあげます／もらいます + organisaatio (koulu, yritys, pankki) :: Vain から. Esim. 銀行からお金を借りました。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä partikkelia もらう／借りる／習う käyttää henkilön kanssa, ja mikä on organisaation kanssa?
+?
+Henkilön kanssa に tai から (sama merkitys); organisaation (yritys, koulu, pankki) kanssa vain から.
+
+Mitä partikkelia 送る tai 電話をかける voi käyttää に:n lisäksi?
+?
+へ, kun kohde on paikka tai taho: 会社に／へ電話をかけます。
+
+Mitä に osoittaa N（人）にあげます／もらいます -rakenteessa?
+?
+Aina vastaanottajan tai lähteen, ei lauseen aihetta.
+
+#flashcards/grammar/n5/vertailu
+
+N（人）にあげます／もらいます (similar) :: Keigo — kartta

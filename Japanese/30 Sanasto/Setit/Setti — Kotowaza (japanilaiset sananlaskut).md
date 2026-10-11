@@ -54,3 +54,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Kotowaza (ことわざ) — japanilaiset sananlaskut: sano ainakin viisi sanaa
+?
+情けは人のためならず（なさけはひとのためならず） (Hyvän tekeminen palkitaan lopulta tekijäänsä itseään — EI tarkoita "ei kannata olla ystävällinen" (yleinen väärinkäsitys), 笑う門には福来る（わらうかどにはふくきたる） (Iloisuus/positiivisuus tuo hyvää tullessaan), 石の上にも三年（いしのうえにもさんねん） (Sinnikkyys palkitaan — jopa kylmä kivi lämpenee kolmen vuoden istumisesta), 住めば都（すめばみやこ） (Mihin tahansa paikkaan voi tottua ja pitää sitä hyvänä), 猿も木から落ちる（さるもきからおちる） (Kuka tahansa asiantuntijakin voi joskus mokata), 案ずるより産むがやすし（あんずるよりうむがやすし） (Tekeminen on usein helpompaa kuin siitä etukäteen huolehtiminen), 聞くは一時の恥、聞かぬは一生の恥（きくはいっときのはじ、きかぬはいっしょうのはじ） (Parempi kysyä ja hävetä hetki kuin olla kysymättä ja katua koko elämä), 高みの見物（たかみのけんぶつ） (Seurata sivusta osallistumatta), 気が置けない人（きがおけないひと） (Läheinen ihminen), 三人寄れば文殊の知恵（さんにんよればもんじゅのちえ） (Kaksi (tai useampi) päätä on parempi kuin yksi), 立てば芍薬、座れば牡丹、歩く姿は百合の花（たてばしゃくやく、すわればぼたん、あるくすがたはゆりのはな） (Kuvaa naisen kauneutta joka asennossa), ちりも積もれば山となる（ちりもつもればやまとなる） (Pienistä puroista kasvaa iso joki — pienetkin panostukset kasvavat suuriksi ajan myötä)…

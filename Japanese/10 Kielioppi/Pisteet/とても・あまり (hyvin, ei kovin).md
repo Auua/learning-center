@@ -54,3 +54,22 @@ tags:
 あまり — miksi se lähes aina esiintyy kielteisen muodon kanssa?
 ?
 あまり tarkoittaa "ei kovin/kovinkaan" — merkitys on itsessään lieventävä kielto, joten se yhdistyy luontevasti kielteiseen predikaattiin.
+
+#flashcards/grammar/n5/muodostus
+
+とても + adjektiivi (myöntävä lause) :: とても + adj. Esim. ペキンはとても寒いです。 (Peking on hyvin kylmä)
+あまり + adjektiivi (kielteinen lause) :: あまり + adj + ない. Esim. シャンハイはあまり寒くないです。 (Shanghai ei ole kovin kylmä)
+
+#flashcards/grammar/n5/nyanssi
+
+Minkä muodon kanssa あまり yleensä esiintyy?
+?
+Lähes aina kielteisen predikaatin kanssa; あまり ilman kielteistä muotoa on alkeistasolla epätavallista.
+
+Mihin adjektiivityyppeihin とても・あまり liittyvät?
+?
+Sekä い- että な-adjektiiveihin samalla tavalla.
+
+#flashcards/grammar/n5/vertailu
+
+とても／あまり (similar/compare) :: Nのあまり（に） (liiallisen vuoksi)

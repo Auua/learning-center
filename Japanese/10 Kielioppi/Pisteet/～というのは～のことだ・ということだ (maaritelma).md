@@ -53,3 +53,29 @@ tags: [grammar/perusrakenne, jlpt/n3]
 「地球にやさしい」というのはどういう意味ですか。……地球を守るために、地球を汚さない＿＿＿＿＿＿。
 ?
 ということです — selitys on kokonainen lause/toiminta, ei pelkkä substantiivi.
+
+#flashcards/grammar/n3/muodostus
+
+N1というのは N2のことだ :: N1 + というのは + N2 + のことだ — esim. 外来語というのは日本語になった外国語のことだ。
+Nというのは + 普通形 + ということだ :: N + というのは + 普通形 + ということだ — esim. 地球を守るというのは、地球を汚さないということです。
+Nというのは どういう意味ですか :: N + というのは + どういう意味ですか — esim. 「地球にやさしい」というのはどういう意味ですか。
+
+#flashcards/grammar/n3/nyanssi
+
+Milloin Nというのは～ということだ sopii paremmin kuin のことだ?
+?
+ということだ kun selitys on kokonainen lause/toiminta; のことだ kun selitys on toinen substantiivi, joka vastaa suoraan ensimmäistä.
+
+Miten ～というのは aloitetaan selitys tuntemattomasta sanasta?
+?
+Kysyjä sanoo esim. 〜というのはどういう意味ですか; vastaus alkaa usein 〜というのは.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ～というのは～のことだ eroaa nimeämisestä ～を～と言う?
+?
+と言う lähtee konkreettisesta asiasta ja antaa sille nimen (畳の部屋を和室と言います); というのは lähtee jo mainitusta termistä ja selittää sen merkityksen. Suunta on käänteinen.
+
+#flashcards/grammar/n3/vertailu
+
+NというのはNのことだ・NというのはSということだ (similar/compare) :: ～を～と言う・～という～ (nimeaminen)

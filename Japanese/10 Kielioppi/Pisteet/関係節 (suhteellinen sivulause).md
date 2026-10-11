@@ -65,3 +65,31 @@ Sivulauseen oma subjekti merkitään aina が:lla riippumatta siitä mitä parti
 ワンさんが働いている病院 — mikä partikkeli katosi ja miksi?
 ?
 で (病院で働いています) katosi, koska 病院 on nyt määritettävä substantiivi eikä tarvitse enää omaa partikkeliaan sivulauseen sisällä.
+
+#flashcards/grammar/n5/muodostus
+
+関係節 + substantiivi :: Täysi lause 普通形:ssa suoraan substantiivin eteen, määritettävän sanan oma partikkeli (を/が/に) poistetaan. Esim. わたしが先週見た映画 (elokuva jonka näin viime viikolla).
+
+#flashcards/grammar/n5/nyanssi
+
+Mikä partikkeli merkitsee sivulauseen subjektin 関係節:ssä?
+?
+が, ei は: ミラーさんが作ったケーキ (kakku jonka Miller teki).
+
+Mitä 関係節 + substantiivi -lausekkeelle tapahtuu päälausessa?
+?
+Se käyttäytyy kuin tavallinen substantiivi ja ottaa partikkelin roolinsa mukaan: 〜が好きです, 〜を買いました, 〜に猫がいました.
+
+Miten 関係節 muodostetaan 'pitkä, mustahiuksinen henkilö' -tyyppisessä adjektiivilauseessa?
+?
+Samoin: 背が高くて髪が黒い人; myös な-adj/substantiivilauseet: 親切できれいな人, 65歳の人.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten 関係節 eroaa pelkästä adjektiivimääritteestä (高い山)?
+?
+関係節 määrittää kokonaisella lauseella, joka voi sisältää oman subjektin, objektin ja verbin.
+
+#flashcards/grammar/n5/vertailu
+
+関係節 (similar) :: い-adjektiivit ja な-adjektiivit

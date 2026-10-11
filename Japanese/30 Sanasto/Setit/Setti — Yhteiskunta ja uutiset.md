@@ -51,3 +51,19 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+最近（さいきん） ::: viime aikoina
+たぶん ::: luultavasti
+きっと ::: varmasti
+～について ::: koskien ~:aa
+しかたがありません。 ::: Sille ei voi mitään.
+[[すごいですね\ ::: すごい！]]
+
+#flashcards/setti/teema
+
+Setti — Yhteiskunta ja uutiset: sano ainakin viisi sanaa
+?
+ニュース (uutiset), 意見 (mielipide), ユーモア (huumori), デザイン (design), 交通 (liikenne), ラッシュ (ruuhka-aika)

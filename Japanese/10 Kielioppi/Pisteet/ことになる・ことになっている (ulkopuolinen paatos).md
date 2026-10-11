@@ -54,3 +54,34 @@ Ks. [[ことにする・ことにしている (oma paatos)]]: 引っ越すこと
 Miksi ことになりました on kohteliaampi tapa ilmoittaa muutosta kuin ことにしました, kun kyseessä on esim. työsiirto?
 ?
 ことになりました ei korosta omaa tahtoa vaan esittää muutoksen ulkopuolisten olosuhteiden seurauksena — vaatimattomampi, vähemmän itsekeskeinen sävy.
+
+#flashcards/grammar/n3/muodostus
+
+V辞書形ことになる + ulkopuolinen päätös :: V辞書形 + ことになりました. Esim. 夫の転勤で広島へ引っ越すことになりました.
+Vない形ことになる + kielteinen päätös :: Vない形 + ことになりました. Esim. 田中さんは家庭の事情で旅行に参加しないことになりました.
+V辞書形ことになっている + sääntö tai aikataulu :: V辞書形 + ことになっています. Esim. 来週の水曜日に出張することになっています.
+Vない形ことになっている + vakiintunut kielto :: Vない形 + ことになっています. Esim. 道にごみを捨ててはいけないことになっています.
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä ことになる korostaa puhujan roolista päätöksessä?
+?
+Ettei puhuja itse valinnut tilannetta; se 'kävi niin' olosuhteiden tai jonkun toisen päätöksen takia.
+
+Mitä ことになっている kuvaa?
+?
+Pysyvää, usein virallista järjestelyä, sääntöä tai aikataulua; 'on sovittu että' / 'on tapana että'.
+
+Miksi ことになりました sopii omasta, muiden tekemästä päätöksestä ilmoittamiseen (esim. työsiirto)?
+?
+Se välttää kuulostamasta siltä, että puhuja itse valitsi tilanteen.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten 引っ越すことになりました eroaa lauseesta 引っ越すことにしました?
+?
+ことになる: jouduin/päädyin muuttamaan (ulkopuolinen syy, esim. työsiirto); ことにする: minä päätin muuttaa (oma valinta).
+
+#flashcards/grammar/n3/vertailu
+
+V辞書形／ないことになる・ことになっている (similar/compare) :: ことにする・ことにしている (oma paatos)

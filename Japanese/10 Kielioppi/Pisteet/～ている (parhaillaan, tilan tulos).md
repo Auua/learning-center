@@ -97,3 +97,40 @@ Kaksi kuvaa: 🎬 (film käy) = kestoverbi. 📷 (valokuva otettu, tulos jää) 
 知る — miten sanotaan "en tiedä"?
 ?
 知らない. Ei 知っていない, vaikka myönteinen on 知っている.
+
+#flashcards/grammar/n5/muodostus
+
+～ている + verbi (て-muoto + いる) :: て-muoto + いる — 食べて → 食べている; puhekielessä 食べてる; kohteliaasti 食べています
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä ～ている tarkoittaa kestoverbin kanssa vs. hetkiverbin kanssa?
+?
+Kestoverbi (食べる, 読む): teko käynnissä (本を読んでいる); hetkiverbi (結婚する, 死ぬ): tilan tulos (結婚している = on naimisissa).
+
+Mikä on 知る-verbin ～ている-muoto ja kielto?
+?
+Aina 知っている (tietää); kielto on 知らない, ei ×知っていない.
+
+Miten 窓が開けてある eroaa 窓が開いている:sta?
+?
+開けてある: joku avasi tarkoituksella ja tulos on näkyvissä; 開いている: ikkuna on vain auki.
+
+Mitä ～ている ilmaisee ammatin ja harrastuksen yhteydessä?
+?
+Toistuvaa tapaa tai pitkäkestoista toimintaa: 大学で教えています, 休みの日はたいてい絵をかいています.
+
+#flashcards/grammar/n5/sekaannus
+
+Mitä ×結婚しています tarkoittaa, ja miten se eroaa 'menossa naimisiin' -merkityksestä?
+?
+結婚しています = on naimisissa (tila), ei 'on menossa naimisiin'.
+
+Kumpi: 住んでいた vai 住んでいる, kun halutaan sanoa 'asun nyt'?
+?
+住んでいる = asun nyt; suomen 'olen asunut' ≠ 住んでいた.
+
+#flashcards/grammar/n5/vertailu
+
+～ている (similar) :: ～てある
+～ている (similar) :: ～ている (elämänhistoria, saavutukset)

@@ -49,3 +49,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Lahjananto ja juhlat: sano ainakin viisi sanaa
+?
+お年玉 (uudenvuoden rahalahja lapsille), 入学祝い (kouluun pääsyn lahja), 卒業祝い (valmistujaislahja), 結婚祝い (häälahja), 出産祝い (vauvalahja), お中元 (kesälahja (heinä-elokuu)), お歳暮 (vuodenvaihdelahja huolenpitäjälle), お香典 (surunvalittelurahat), お見舞い (vierailulahja sairaalle), ワゴン車 (farmariauto), 弁当 (eväät), 母の日 (äitienpäivä)

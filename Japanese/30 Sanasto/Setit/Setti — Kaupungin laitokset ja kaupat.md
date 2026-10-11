@@ -83,3 +83,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Kaupungin laitokset ja kaupat: sano ainakin viisi sanaa
+?
+市役所 (kaupungintalo), 交番 (poliisilaatikko), 警察署 (poliisiasema), 消防署 (paloasema), 大使館 (suurlähetystö), 入国管理局 (maahanmuuttovirasto), 博物館 (museo), 美術館 (taidemuseo), 図書館 (kirjasto), 映画館 (elokuvateatteri), 動物園 (eläintarha), 植物園 (kasvitieteellinen puutarha)…

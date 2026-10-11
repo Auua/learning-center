@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n2]
 ＿＿＿＿英語が堪能な人でも、そう簡単には訳せないだろう。(äärimmäisen esimerkin korostus)
 ?
 よほど — vahvistaa esimerkin äärimmäisyyttä, "aika lailla/huomattavan paljon".
+
+#flashcards/grammar/n2/muodostus
+
+よほど～でも + substantiivi (määrite + N) :: よほど + N + でも. Esim. よほど日本語が苦手な人でも俳句を理解するのは難しい。 (jopa hyvin huono japanin taitaja ...)
+よほど～でも + adjektiivi/lause-määrite :: よほど + (lause) + N + でも. Esim. よほど英語が堪能な人でも、そう簡単には訳せないだろう。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä よほど lisää ~でも-myönnytykseen?
+?
+Korostaa, että kyseessä on poikkeuksellisen korkea tai matala aste ominaisuutta ('jopa se, joka on todella X'); kynnys on hyvin korkealla.
+
+Millainen jälkilause よほど～でも -rakenteessa tavallisesti on?
+?
+Usein negatiivinen tai osoittaa vaikeuden ylittämättömyyden, korostaen kuinka äärimmäinen tapaus tarvittaisiin.

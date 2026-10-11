@@ -45,3 +45,19 @@ tags: [grammar/perusrakenne, jlpt/n2]
 優太君は6歳＿＿＿＿大きいね。(odotustasoon verrattuna yllättävä ominaisuus)
 ?
 にしては — vertaa odotukseen (6-vuotiaalta odotettuun kokoon) ja toteaa poikkeaman.
+
+#flashcards/grammar/n2/muodostus
+
+N／普通形（た形）＋にしては + substantiivi :: N + にしては. Esim. 優太君は6歳にしては大きいね。
+N／普通形（た形）＋にしては + verbi (た-muoto) :: 普通形（た形）+ にしては. Esim. このレポートは一晩で書いたにしてはよくできている。
+それにしては :: Itsenäinen, viittaa juuri mainittuun. Esim. それにしてはお上手ですね。
+
+#flashcards/grammar/n2/nyanssi
+
+Miten Nにしては toimii?
+?
+N asettaa odotustason ja predikaatti kertoo miten todellisuus poikkeaa siitä, useimmiten myönteisesti.
+
+Mihin それにしては viittaa?
+?
+Juuri äsken mainittuun tietoon ilman sen toistamista.

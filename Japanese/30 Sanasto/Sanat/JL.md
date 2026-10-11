@@ -28,5 +28,8 @@ tags: [vocab, jlpt/n4, lahde/anki-mnn, anki/fi-auto]
 - 
 
 ## Kortit
-#flashcards/vocab
-JL::JL — Japan Airlines (JAL)
+#flashcards/vocab/n4
+
+JL :: Japan Airlines (JAL)
+Japan Airlines (JAL) :: JL
+![[anki_MNN_JL.mp3]] ::: JL - Japan Airlines (JAL)

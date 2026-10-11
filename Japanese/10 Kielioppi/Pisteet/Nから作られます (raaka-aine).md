@@ -47,3 +47,25 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ビールは＿＿＿＿造られます。(麦)
 ?
 麦から — raaka-aine joka muuttuu tunnistamattomaksi prosessissa käyttää から:ta, ei で:tä.
+
+#flashcards/grammar/n4/muodostus
+
+N(raaka-aine)から作られます／造られます + raaka-aine :: 原料 + から + 作られます／造られます. Esim. ビールは麦から造られます。
+
+#flashcards/grammar/n4/nyanssi
+
+Milloin raaka-aineen jälkeen käytetään から (N(raaka-aine)から作られます)?
+?
+Kun prosessi muuttaa aineen tunnistamattomaksi (vilja → olut, soija → soijakastike).
+
+Milloin から:n sijaan käytetään で raaka-aineen merkitsemiseen?
+?
+Kun materiaali on yhä tunnistettavissa lopputuloksessa, esim. この机は木でできています.
+
+Miten 作る ja 造る eroavat rakenteessa N(raaka-aine)から作られます／造られます?
+?
+Molemmat sopivat; 造る sopii erityisesti suuriin tai teollisiin tuotteisiin (laivat, oluet, rakennukset).
+
+#flashcards/grammar/n4/vertailu
+
+N(raaka-aine)から作られます／造られます (similar) :: N（材料）で (valmistusaine)

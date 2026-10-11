@@ -27,5 +27,8 @@ tags: [vocab, jlpt/n2]
 - 
 
 ## Kortit
-#flashcards/vocab
-J-pop::ジェー・ポップ — J-pop (japanilainen pop-musiikki)
+#flashcards/vocab/n2
+
+J-pop :: ジェー・ポップ - J-pop (japanilainen pop-musiikki)
+ジェー・ポップ :: J-pop - J-pop (japanilainen pop-musiikki)
+J-pop (japanilainen pop-musiikki) :: J-pop - ジェー・ポップ

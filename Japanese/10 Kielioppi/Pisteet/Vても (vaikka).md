@@ -66,3 +66,34 @@ Vertailu [[～たら (jos, kun)]]: たら kertoo mitä tapahtuu **A:n seurauksen
 いくら高くても、買います。 — mitä いくら korostaa?
 ?
 Korostaa asteen suuruutta ("vaikka KUINKA kallista tahansa") — vahvistaa ても:n käänteistä merkitystä.
+
+#flashcards/grammar/n5/muodostus
+
+Vても + verbi :: て-muoto + も. 例: 雨が降っても、洗濯します。
+Vても + い-adjektiivi :: くて + も. 例: 安くても、買いません。
+Vても + な-adjektiivi/substantiivi :: で + も. 例: 便利でも、使いません。日曜日でも、働きます。
+もし + 〜たら ja いくら + 〜ても (Vても) :: もし + 〜たら: もし1億円あったら、旅行したいです。 いくら + 〜ても: いくら考えても、わかりません。
+
+#flashcards/grammar/n5/nyanssi
+
+Millainen on Vても-lauseen seuraus odotukseen nähden?
+?
+Käänteinen ehto: seuraus on vastoin odotettua (いくら高くても買います).
+
+Mitä もし ja いくら lisäävät rakenteessa Vても?
+?
+もし korostaa puhujan oletusta/kuvitelmaa (yhdessä たら), いくら asteen suuruutta (yhdessä ても).
+
+Voiko もし/いくら jättää pois rakenteesta Vても?
+?
+Voi; ～たら ja ～ても kantavat merkityksen itsekin, もし/いくら vain varoittavat etukäteen mitä on tulossa.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten Vても eroaa muodosta ～たら?
+?
+たら: B seuraa A:sta loogisesti (jos sataa, en mene). ても: B tapahtuu A:sta huolimatta (vaikka sataa, menen).
+
+#flashcards/grammar/n5/vertailu
+
+Vても／もし～たら／いくら～ても (similar) :: ～たら (jos, kun)

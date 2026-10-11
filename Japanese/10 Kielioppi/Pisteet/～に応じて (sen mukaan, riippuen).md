@@ -48,3 +48,27 @@ tags: [grammar/perusrakenne, jlpt/n2]
 市は市民の要望＿＿＿＿、図書館を夜9時まで開くことにした。(aktiivinen mukautuminen pyyntöön)
 ?
 に応じて — mukautuu/vastaa johonkin pyyntöön tai tarpeeseen.
+
+#flashcards/grammar/n2/muodostus
+
+～に応じて + substantiivi :: N + に応じて. Esim. 市は市民の要望に応じて、図書館を夜9時まで開くことにした。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä N に応じて korostaa pelkän riippuvuussuhteen sijaan?
+?
+Aktiivista mukautumista tai vastaamista pyyntöön, tarpeeseen tai muutokseen.
+
+Missä yhteyksissä N に応じて on yleinen?
+?
+Virallisissa ja liike-elämän konteksteissa, joissa yritys, laitos tai hallinto vastaa asiakkaan/kansalaisen tarpeeseen.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten N に応じて eroaa N によって (vaihtelu) -rakenteesta?
+?
+によって kuvaa passiivista vaihtelua/riippuvuutta (国によって違う); に応じて kuvaa aktiivista, usein tietoista mukautumista pyyntöön tai tarpeeseen.
+
+#flashcards/grammar/n2/vertailu
+
+N＋に応じて (similar/compare) :: ～によって (riippuen, vaihtelu)

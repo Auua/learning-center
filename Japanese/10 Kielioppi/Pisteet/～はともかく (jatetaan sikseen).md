@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n2]
 あのレストランは値段＿＿＿＿＿、味はいい。(sivuutus, keskitytään toiseen asiaan)
 ?
 はともかく — "jätetään sikseen", siirtää huomion toiseen, usein tärkeämpään asiaan.
+
+#flashcards/grammar/n2/muodostus
+
+～はともかく + substantiivi :: N + はともかく、+ toinen näkökulma. Esim. あのレストランは値段はともかく、味はいい。
+～はともかく + 普通形か :: 普通形か + はともかく. Esim. 参加するかどうかはともかく、申し込みだけはしておこう。
+
+#flashcards/grammar/n2/nyanssi
+
+Onko ～はともかく:n sivuuttama asia merkityksetön?
+?
+Ei: puhuja vain päättää keskittyä tässä yhteydessä johonkin muuhun.
+
+Mikä on tyypillinen kaava N1はともかく?
+?
+N1はともかく、N2は〜: vertaa implisiittisesti kahta ominaisuutta ja korostaa jälkimmäistä.

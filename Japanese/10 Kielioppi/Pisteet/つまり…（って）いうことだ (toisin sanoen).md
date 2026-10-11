@@ -45,3 +45,27 @@ tags: [grammar/perusrakenne, jlpt/n3]
 僕の父と太郎のお父さんは兄弟だ。＿＿＿＿、僕と太郎はいとこ同士ってことだ。(tiivistys)
 ?
 つまり — "toisin sanoen", tiivistää edellä sanotun ytimekkäästi.
+
+#flashcards/grammar/n3/muodostus
+
+つまり、普通形 + ということだ :: Tiivistää edellisen: つまり、1割は留学生ということだ。 (toisin sanoen 10 % on vaihto-opiskelijoita)
+つまり、普通形 + ってことだ (puhekielinen) :: つまり、僕と太郎はいとこ同士ってことだ。 (toisin sanoen olemme serkuksia)
+つまり、〜ということですか (varmistava kysymys) :: Kuulija tiivistää puhutun ja varmistaa: つまり、ルーズだということですか。 (eli hän on huolimaton?)
+
+#flashcards/grammar/n3/nyanssi
+
+Voiko つまり käyttää ilman ということだ:ta?
+?
+Kyllä, jos konteksti on selvä; täysi つまり…ということです on muodollisempaa tekstiä (つまり、親の影響は大きいということです).
+
+Miten kuulija voi käyttää つまり keskustelussa?
+?
+Aloittamaan oman tulkintansa tai johtopäätöksensä puhujan sanomasta, mikä ylläpitää keskustelua.
+
+Mikä ってことだ on suhteessa ということだ:hon?
+?
+Puhekielinen supistuma.
+
+#flashcards/grammar/n3/vertailu
+
+つまり、普通形＋（って）いうことだ (similar) :: 普通形ということを (raportoitu vaite objektina)

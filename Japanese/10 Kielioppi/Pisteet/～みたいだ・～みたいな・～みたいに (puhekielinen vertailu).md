@@ -54,3 +54,29 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miksi ×ホテルのみたいです on virhe?
 ?
 みたい ei koskaan ota の:ta edelleen — の kuuluu vain ようだ-perheeseen, ei みたいだ-perheeseen.
+
+#flashcards/grammar/n3/muodostus
+
+～みたいだ + substantiivi :: N + みたいだ. Esim. このロボット、本物の犬みたいだ。
+～みたいな + substantiivi :: N + みたいな + N. Esim. てんぷらみたいな料理は世界中にありますからね。
+～みたいに + verbi／adjektiivi :: N + みたいに + V/adj. Esim. 鳥みたいに空を飛びたいと思っていた。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä on suurin rakenteellinen ero ～みたいだ:n ja ～のようだ:n välillä?
+?
+みたい liittyy suoraan substantiiviin ilman の:ta (犬みたいだ, ei ×犬のみたいだ).
+
+Missä rekisterissä ～みたいだ toimii?
+?
+Puhtaasti puhekielessä; muodollisessa kirjoitetussa tekstissä käytetään のようだ:a.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ～みたいだ eroaa ～のようだ:sta muodon ja rekisterin osalta?
+?
+Merkitys sama; のようだ vaatii の:n ja sopii kirjoitettuun kieleen (ホテルのようです), みたいだ ei ota の:ta ja on puhekielinen (ホテルみたいです).
+
+#flashcards/grammar/n3/vertailu
+
+Nみたいだ・Nみたいな～・Nみたいに… (similar/compare) :: ～のようだ・～のような・～のように (vertailu, esimerkki)

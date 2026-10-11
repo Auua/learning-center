@@ -59,3 +59,29 @@ tags:
 警察は、犯人を追う＿＿＿＿＿、近所の住人に注意を呼びかけている。(kaksi yhtä tärkeää rinnakkaista toimea)
 ?
 とともに — muodollinen "samalla kun/yhdessä", korostaa kahden rinnakkaisen toimen yhtäläistä tärkeyttä.
+
+#flashcards/grammar/n2/muodostus
+
+N + とともに :: N + とともに — esim. MNK社は当該会員におわびの書面を送るとともに、…
+V辞書形 + とともに :: V（辞書形）+ とともに — esim. 社名を変更するとともに、新たなホームページを立ち上げた。
+
+#flashcards/grammar/n2/nyanssi
+
+Millaisen suhteen とともに luo kahden toimen välille?
+?
+Rinnakkaisen, yhtä tärkeän: jälkimmäinen teko ei ole toissijainen vaan yhtä tärkeä kuin edellinen.
+
+Missä teksteissä とともに on tyypillinen?
+?
+Kirjallisessa ja muodollisessa kielessä, erityisesti uutis- ja liike-elämän teksteissä.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten とともに eroaa ながら-rakenteesta?
+?
+ながら on neutraali ja arkinen samanaikaisuus; とともに on muodollisempi ja korostaa kahden yhtä tärkeän toimen rinnakkaisuutta (virallinen tiedotus).
+
+#flashcards/grammar/n2/vertailu
+
+V辞書形／N＋とともに (similar) :: Vながら (samalla kun)
+V辞書形／N＋とともに (compare) :: V(-ます)ながら (samalla kun)

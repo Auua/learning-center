@@ -62,3 +62,30 @@ Nuoruus ja elinvoima ovat samansuuntaisia, toisiaan tukevia ominaisuuksia — ei
 この部屋は狭くて、きれいです — miksi tämä on virhe?
 ?
 Pieni ja siisti tuntuvat tässä ristiriitaisilta ominaisuuksilta — oikea muoto on 狭いですが、きれいです (が-vastakohta).
+
+#flashcards/grammar/n5/muodostus
+
+い-adj（～くて）／な-adj・N（～で） + い-adjektiivi :: い → くて. Esim. 若くて、元気です。
+い-adj（～くて）／な-adj・N（～で） + な-adjektiivi :: です → で. Esim. ハンサムで、親切です。
+い-adj（～くて）／な-adj・N（～で） + substantiivi :: です → で. Esim. インドネシア人で、留学生です。
+い-adj（～くて）／な-adj・N（～で） + いい (poikkeus) :: いい → よくて. Esim. 天気がよくて、暑かったです。
+
+#flashcards/grammar/n5/nyanssi
+
+Millaisia ominaisuuksia い-adj（～くて）／な-adj・N（～で） voi yhdistää, ja mitä käytetään ristiriitaisille?
+?
+Vain samansuuntaisia ominaisuuksia. Ristiriitaisille käytetään S1が、S2: この部屋は狭いですが、きれいです。
+
+Voiko い-adj（～くて）／な-adj・N（～で） -rakenteella yhdistää myös eri aiheita?
+?
+Kyllä, esim. カリナさんは学生で、マリアさんは主婦です。
+
+#flashcards/grammar/n5/sekaannus
+
+Miten くて/で eroaa が:stä (S1が、S2) kahden asian yhdistämisessä?
+?
+くて/で = samansuuntaiset, täydentävät ominaisuudet; が = vastakkaiset tai yllättävät ominaisuudet.
+
+#flashcards/grammar/n5/vertailu
+
+い-adj（～くて）／な-adj・N（～で） (similar) :: S1が、S2 (mutta)

@@ -49,3 +49,27 @@ tags: [grammar/perusrakenne, jlpt/n3]
 彼女は、たとえ疲れていても、それを口に出し＿＿＿＿。(pehmeä, esimerkinomainen kielto)
 ?
 たりしない — yksi V-たり + しない, "ei tekisi mitään sellaista kuin".
+
+#flashcards/grammar/n3/muodostus
+
+Vたりしない + verbi (た形) :: V(た形) + り + しない. Esim. あの社長は何があってもやめたりしない。
+
+#flashcards/grammar/n3/nyanssi
+
+Montako たり-ilmausta rakenteessa Vたりしない on, ja mitä se tekee kiellolle?
+?
+Vain yksi (ei paria). たり pehmentää kieltoa esimerkinomaiseksi: 'en ainakaan tekisi tuollaista'.
+
+Mihin Vたりしない usein liittyy?
+?
+Luonteen tai tavan kuvailuun: kuvataan mitä joku EI koskaan tekisi, esimerkin kautta eikä absoluuttisena kieltona.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten Vたりしない eroaa Vたり、Vたりします:sta?
+?
+Peruskaava vaatii kaksi たり-ilmausta esimerkkiluettelona; Vたりしない käyttää vain yhtä たり + しない pehmentämään yksittäistä kieltoa. Muoto näyttää samalta mutta logiikka on eri.
+
+#flashcards/grammar/n3/vertailu
+
+V(た形)＋り（＋し）ない (similar/compare) :: Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä)

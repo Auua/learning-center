@@ -47,3 +47,22 @@ tags: [grammar/perusrakenne, jlpt/n3]
 駅の近くに＿＿＿＿自転車がずっと置いてあります。(壊れる, kuvaileva maarite)
 ?
 壊れた — た形 + N, kuvaa esineen pysyvää tilaa (jo rikkoutunut).
+
+#flashcards/grammar/n3/muodostus
+
+V(た形)＋N + yksi määrite :: V(た形) + N. Esim. 駅の近くに壊れた自転車がずっと置いてあります。
+V(た形)＋N + useita määritteitä :: Useita た形-määritteitä peräkkäin. Esim. 短いズボンをはいて、かばんを持った男の子です。
+
+#flashcards/grammar/n3/nyanssi
+
+Mihin tarkoitukseen V(た形)＋N -määritettä erityisesti käytetään?
+?
+Ihmisten ja esineiden tunnistettavaksi kuvailuun ulkonäön perusteella (kadonneen kuvaus, jonkun osoittaminen joukosta).
+
+Miten useita määritteitä ketjutetaan ennen substantiivia (V(た形)＋N)?
+?
+て-muodolla ennen viimeistä た-määritettä: 眼鏡をかけて、帽子をかぶった人.
+
+Miten V(た形)＋N eroaa ている+N -määritteestä?
+?
+た+N korostaa että tila on jo muodostunut tai valmis (壊れた自転車); ている+N voi korostaa käynnissä olevaa tekoa kontekstista riippuen.

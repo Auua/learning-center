@@ -55,3 +55,28 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+確かに vs 確か; 別に vs 別?
+?
+確か = jos oikein muistan (epävarma); 確かに = totta kai (varma). 別に on kieltävä vastaus ("ei erityisesti"); 意外と on kiteytynyt adverbi.
+
+ぜひ: milloin sitä käytetään?
+?
+Kehotuksissa ja toiveissa (ぜひ来てください, ぜひ行きたい), ei neutraalista tulevaisuudesta.
+
+やはり vs やっぱり?
+?
+Sama sana: やっぱり on puhekieli, やはり kirjallinen ja muodollinen; puheessa myös やっぱ.
+
+決して ja 別に: mitä ne vaativat?
+?
+Kielteisen verbin (決して忘れません, 別に気にしない). まさか esiintyy usein yksinään huudahduksena.
+
+#flashcards/setti/teema
+
+Setti — Adverbit: varmuus ja asenne: sano ainakin viisi sanaa
+?
+ぜひ (ehdottomasti), 本当に (todella), 確かに (varmasti), やはり (kuten arvata saattoi), もしかして (ehkä), もしかしたら (ehkä), まさか (eihän), 案外 (odottamattoman), どうやら (ilmeisesti), とにかく (joka tapauksessa), ちなみに (muuten), どうせ (kuitenkin)…

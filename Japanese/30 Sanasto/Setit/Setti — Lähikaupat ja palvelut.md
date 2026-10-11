@@ -73,3 +73,18 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+これ、お願いします。 ::: Tämä, kiitos.
+いつ できますか。 ::: Milloin tämä on valmis?
+あしたの 夕方 できます。 ::: Huomenna iltapäivällä.
+この しみ、取れますか。 ::: Lähteekö tämä tahra?
+洗ったら 縮みますか。 ::: Kutistuuko tämä pesussa?
+
+#flashcards/setti/teema
+
+Setti — Lähikaupat ja palvelut: sano ainakin viisi sanaa
+?
+写真屋（しゃしんや） (valokuvausliike), 現像（げんぞう） (filmin kehitys), プリント (vedostus), 焼き増し（やきまし） (lisäkopio), 引き伸ばし（ひきのばし） (suurennos), ネガ (negatiivi), スライド (dia), サービスサイズ (vakiokoko (n. 9×13 cm)), パノラマサイズ (panoraamakoko), クリーニング屋 (pesula), ドライクリーニング (kuivapesu), 水洗い（みずあらい） (vesipesu)…

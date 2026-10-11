@@ -94,3 +94,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Ruoka-aineet: sano ainakin viisi sanaa
+?
+きゅうり (kurkku), トマト (tomaatti), なす (munakoiso), まめ (pavut), キャベツ (kaali), ねぎ (kevätsipuli), はくさい (kiinankaali), ほうれんそう (pinaatti), レタス (lehtisalaatti), じゃがいも (peruna), だいこん (daikon-retikka), たまねぎ (sipuli)…

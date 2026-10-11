@@ -45,3 +45,21 @@ tags: [grammar/perusrakenne, jlpt/n2]
 「コモンズの悲劇」という有名な言葉がある。＿＿言葉は重要な意味をもつ。(juuri lainattuun viittaaminen)
 ?
 この — juuri esitetty lainaus on läsnä/tuore, siksi この eikä その.
+
+#flashcards/grammar/n2/muodostus
+
+この～ + lainauksen jälkeen :: 「lainaus」。この + N. Esim. 「生きるべきか死ぬべきか」。この言葉はハムレットに出てくる.
+
+#flashcards/grammar/n2/nyanssi
+
+Miksi tekstissä juuri esitettyyn lainaukseen viitataan この eikä その sanalla?
+?
+Lainaus on kirjoittajalle ja lukijalle läsnä ja tuore; その viittaisi kauempana mainittuun tai puhekumppanin tietoon.
+
+Mikä on この～-rakenteen tyypillinen käyttö esseissä?
+?
+Lainaus ensin, sitten この + selittävä jatko.
+
+#flashcards/grammar/n2/vertailu
+
+「lainaus」。この＋N (similar) :: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat)

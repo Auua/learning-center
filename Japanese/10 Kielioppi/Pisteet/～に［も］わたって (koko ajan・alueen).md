@@ -49,3 +49,29 @@ tags: [grammar/perusrakenne, jlpt/n2]
 田中先生は7年間＿＿＿＿このテーマについて研究してきた。(koko ajan kattava kesto)
 ?
 にわたって — kattaa koko mainitun ajan/alueen laajuudeltaan, muodollinen.
+
+#flashcards/grammar/n2/muodostus
+
+～にわたって + kesto :: N (期間) + にわたって. Esim. 手術は3時間にわたって行われた。
+～にわたって + alue／laajuus :: N (範囲) + にわたって. Esim. 砂漠は東西450キロにわたって広がっている。
+～にもわたって + yllättävän suuri määrä :: N + にもわたって. Esim. 10分間にもわたって描かれる。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä も lisää rakenteeseen N にわたって?
+?
+Korostuksen "jopa niin pitkän/laajan": käytetään kun luku on yllättävän suuri kontekstiin nähden (1秒 vs. 10分間にもわたって).
+
+Millaisen ilmauksen N にわたって vaatii eteensä?
+?
+Konkreettisen mitattavan määrän (aikaa, matkaa, kertoja); ei sovi epämääräisiin ilmauksiin.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten N にわたって eroaa ～あいだ:sta?
+?
+あいだ on yleiskielinen kestoilmaus; にわたって on muodollisempi ja korostaa laajuutta/kattavuutta koko mainitun määrän yli, usein suurten lukujen kanssa.
+
+#flashcards/grammar/n2/vertailu
+
+N（期間／範囲）＋に［も］わたって (similar/compare) :: ～あいだ・～あいだに (kesto vs. hetki)

@@ -51,3 +51,29 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi あとで käyttää た形:ää mutta まえに käyttää 辞書形:ää?
 ?
 Muistisääntönä: あとで katsoo taaksepäin jo tapahtuneeseen (た形), まえに katsoo eteenpäin vielä tapahtumattomaan (辞書形).
+
+#flashcards/grammar/n4/muodostus
+
+Vたあとで + verbi :: V(た形) + あとで. Esim. ごはんを食べたあとで、歯を磨きます。
+Vたあとで + substantiivi (teko) :: N（teko-substantiivi）+ の + あとで. Esim. 仕事のあとで、飲みに行きませんか。
+
+#flashcards/grammar/n4/nyanssi
+
+Missä muodossa verbi on あとで:n edellä (Vたあとで)?
+?
+Aina た形:ssä, ei 辞書形:ssä; vastakohta まえに:lle.
+
+Miten Vたあとで eroaa Vてから:sta?
+?
+Merkitys on lähes identtinen; てから on hieman puhekielisempi ja korostaa peräkkäisyyttä voimakkaammin.
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: 来る vai 来た, kun sanotaan まえに vs. あとで?
+?
+まえに vaatii aina 辞書形:n (来るまえに), あとで aina た形:n (来たあとで). Vastakkaiset suunnat, vastakkaiset verbimuodot.
+
+#flashcards/grammar/n4/vertailu
+
+Vた形あとで／Nのあとで (similar/compare) :: Vまえに (ennen)
+Vた形あとで／Nのあとで (similar) :: Vてから、V2 (jälkeen)

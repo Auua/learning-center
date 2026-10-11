@@ -47,3 +47,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Doraemon-lukukappale: sano ainakin viisi sanaa
+?
+子どもたち (lapset), 大好き (pitää todella paljon), 漫画 (sarjakuva), 主人公 (päähenkilö), 形 (muoto), ロボット (robotti), 不思議 (ihmeellinen), ポケット (tasku), 例えば (esimerkiksi), 自由に (vapaasti), 空 (taivas), 飛ぶ (lentää)…

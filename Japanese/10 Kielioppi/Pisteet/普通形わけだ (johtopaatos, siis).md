@@ -55,3 +55,32 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on わけだ:llä ja はずだ:llä?
 ?
 わけだ on jälkikäteinen johtopäätös jo tiedetystä tosiasiasta; はずだ on ennakko-odotus, joka voi vielä osoittautua vääräksi.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋わけだ :: 普通形 + わけだ. Esim. このチーズは…20グラム少なくなっている。値上げをしたわけだ。(Eli hintaa on nostettu.)
+普通形＋わけである (kirjallinen) :: 普通形 + わけである. Esim. 江戸時代は…260年余り続いたわけである。
+
+#flashcards/grammar/n3/nyanssi
+
+Mihin わけだ-päätelmä perustuu?
+?
+Aina annettuun tietoon/tosiasioihin: puhuja ei arvaa vaan päättelee loogisesti mitä jo mainitut tosiasiat tarkoittavat.
+
+Miten わけだ eroaa はずです:sta?
+?
+はず ilmaisee odotuksen, joka voi koskea tulevaisuutta tai tuntematonta tietoa; わけだ selittää/tulkitsee jo tiedettyä tosiasiaa uudelleen.
+
+Miten わけである eroaa わけだ:sta?
+?
+わけである on muodollisempi ja kirjallisempi muoto.
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi: わけだ vai はずです, kun tehdään johtopäätös jo kerrotusta tosiasiasta?
+?
+わけだ on jälkikäteinen johtopäätös jo tiedetystä (katsoo taaksepäin); はず on ennakko-odotus, joka voi osoittautua vääräksi uuden tiedon myötä.
+
+#flashcards/grammar/n3/vertailu
+
+普通形＋わけだ／わけである (similar/compare) :: 普通形はずです (varma odotus)

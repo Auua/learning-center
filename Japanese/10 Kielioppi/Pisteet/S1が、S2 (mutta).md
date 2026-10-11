@@ -61,3 +61,39 @@ Vertailu [[普通形のに (vaikka, pettymys)]]: が on neutraali, tunneväritö
 日本の食べ物はおいしいですが、高いです。 — mikä が:n rooli tässä on?
 ?
 Yhdistää kaksi lausetta ("on herkullista" / "on kallista") merkityksessä "mutta" — ei ole subjektipartikkeli tässä.
+
+#flashcards/grammar/n5/muodostus
+
+S1が、S2 + predikaattimuoto :: S1（predikaattimuoto）+ が、S2。 Esim. 日本の食べ物はおいしいですが、高いです。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä S1が、S2 yhdistää, ja voiko sillä yhdistää substantiiveja?
+?
+Kaksi täydellistä lausetta, joilla kummallakin on oma predikaatti. Substantiivien yhdistämiseen ei käytetä sitä (vrt. N1とN2).
+
+Onko S1が、S2 aina jyrkkä vastakohta?
+?
+Ei. Sävy on neutraalimpi kuin suomen 'mutta' joskus, ja が toimii myös pehmentävänä liitoksena.
+
+Mitä tapahtuu が:n merkitykselle lauseissa すみませんが／しつれいですが?
+?
+Lauseen alussa se menettää 'mutta'-merkityksensä ja toimii kohteliaana aloitusliitoksena ennen pyyntöä.
+
+Mikä on S1が、S2:n puhekielinen vastine?
+?
+けど. Sillä on samat kaksi käyttöä (vastakohta ja pehmentävä liitos), esim. 辛いけど、おいしい。
+
+#flashcards/grammar/n5/sekaannus
+
+Miten konjunktio-が (S1が、S2) erotetaan subjektipartikkeli-が:sta?
+?
+Konjunktio-が seuraa kokonaista lausetta; subjektipartikkeli-が seuraa yksittäistä substantiivia (esim. これが好きです).
+
+Miten S1が、S2 eroaa 普通形のに (vaikka, pettymys) -rakenteesta?
+?
+が on neutraali, tunneväritön vastakohta; のに lisää yllätyksen/pettymyksen sävyn. 約束をしましたが、来ませんでした (toteamus) vs. 約束をしたのに、来ませんでした (pettymys).
+
+#flashcards/grammar/n5/vertailu
+
+S1が、S2 (similar/compare) :: 普通形のに (vaikka, pettymys)

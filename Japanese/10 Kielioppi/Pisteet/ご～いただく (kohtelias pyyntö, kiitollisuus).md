@@ -67,3 +67,35 @@ Sen, jolta puhuja **vastaanottaa** teon/palveluksen — vaikka rakenne on 謙譲
 紹介していただけませんか — mitä tämä pyytää ja miten kohtelias se on?
 ?
 "Voisitteko suositella minulle...?" — hyvin kohtelias pyyntö, kohteliaampi kuin 紹介してもらえませんか.
+
+#flashcards/grammar/n3/muodostus
+
+ご～いただく + verbi (て-muoto) :: Vて-muoto + いただく. Esim. 待っていただく.
+ご～いただく + する-verbi (kanji + する) :: ご + 名詞 + いただく. Esim. 確認する → ご確認いただく.
+ご～いただく + kohtelias pyyntö :: 〜ていただけませんか／ますか. Esim. 手伝っていただけませんか (voisitteko auttaa minua?).
+
+#flashcards/grammar/n3/nyanssi
+
+Miten ご～いただく eroaa 〜てもらう-pyynnöstä rekisteriltään?
+?
+Muodollisempi; kuuluu liike-elämän ja virallisten tilanteiden kieleen.
+
+Mitä ご～いただく (ilman kysymysmuotoa) ilmaisee?
+?
+Kiitollisuutta jälkikäteen ('kiitos, että teitte ~'), ei pyyntöä.
+
+Miksi 〜ていただけませんか／ないでしょうか on kohteliaampi kuin 〜ていただけますか?
+?
+Koska ne muotoillaan kielteisesti ja epäsuoremmin.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ご～いただく eroaa kaavasta お～する (molemmat 謙譲語)?
+?
+お～する laskee oman tekoni; ご～いただく nostaa kohteliaasti esiin toisen teon, josta hyödyn tai kiitän.
+
+#flashcards/grammar/n3/vertailu
+
+ご～いただく (similar) :: お～する (nöyrä oma teko)
+ご～いただく (similar) :: いただく
+ご～いただく (compare) :: Keigo — kartta

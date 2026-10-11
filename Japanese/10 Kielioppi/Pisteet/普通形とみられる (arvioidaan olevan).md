@@ -50,3 +50,32 @@ tags: [grammar/perusrakenne, jlpt/n2]
 犯人は車で逃げた＿＿＿＿＿。(uutiskielinen objektiivinen arvio)
 ?
 とみられる — "arvioidaan olevan", tyypillinen uutiskielen ilmaus.
+
+#flashcards/grammar/n2/muodostus
+
+普通形＋とみられる + (passiivi, objektiivinen arvio) :: 普通形 + とみられる. Esim. 犯人は車で逃げたとみられる。(Rikollisen arvioidaan paenneen autolla.)
+普通形＋とみている + (aktiivi, jonkun näkemys) :: 普通形 + とみている. Esim. 自動車業界は東南アジアでの自動車の需要はまだまだ伸びるとみている。(Autoala katsoo kysynnän vielä kasvavan.)
+
+#flashcards/grammar/n2/nyanssi
+
+Millaista sävyä 普通形＋とみられる kantaa ja missä sitä käytetään?
+?
+Arvio esitetään ilman selvää lähdettä ('katsotaan yleisesti olevan'); tyypillistä uutiskieltä, erityisesti rikos- ja talousuutisia.
+
+Mitä eroa on とみられる:lla ja とみている:lla?
+?
+とみている (aktiivi) nimeää selkeämmin kuka arvioi (esim. 自動車業界は〜とみている); とみられる on passiivi ilman selvää arvioijaa.
+
+Sopiiko 普通形＋とみられる arkikeskusteluun?
+?
+Ei; se on uutiskielen ilmaus.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten 普通形とみられる eroaa 普通形と思われる:sta?
+?
+Hyvin lähellä toisiaan ja useimmiten vaihtokelpoisia. とみられる on tyypillisin rikos-/talousuutisissa; と思われる sopii laajemmin myös akateemiseen/analyyttiseen pohdintaan.
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋とみられる・とみている (similar/compare) :: 普通形と思われる (nayttaa siltä, uutiskielinen)

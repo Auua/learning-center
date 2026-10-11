@@ -70,3 +70,43 @@ Käytetyt taivutusmuodot: [[普通形 (puhekielinen perusmuoto)]] ennen と
 Miten 伝える eroaa 言う:sta?
 ?
 伝える välittää viestin kolmannelle osapuolelle (渡辺さんに…と伝えていただけませんか), 言う vain kertoo mitä sanottiin.
+
+#flashcards/grammar/n4/muodostus
+
+普通形 + と言っていました :: 普通形 + と言っていました — esim. グプタさんは30分で戻ると言っていました。
+N に + 普通形 + と伝えます :: N に + 普通形 + と伝えます — viestin välittäminen.
+N に + 普通形 + と伝えていただけませんか :: Kohtelias pyyntö välittää viesti.
+
+#flashcards/grammar/n4/nyanssi
+
+Taipuuko lainatun lauseen aikamuoto päälauseen mukana (…と言っていました)?
+?
+Ei: 戻ると言っていました, ei ×戻ったと, vaikka sanominen tapahtui menneisyydessä.
+
+Miksi valitaan 言っていました eikä pelkkä 言いました viestiä välitettäessä?
+?
+Koska tieto välitetään eteenpäin ja on yhä voimassa; tyypillistä työpaikan viesteissä.
+
+Miten vastaanottaja ilmaistaan verbillä 伝える?
+?
+Partikkelilla に; kohtelias pyyntö muodostetaan ていただけませんか-rakenteella.
+
+Missä muodossa lainattu sisältö on kohteliaassakin …と言っていました-lauseessa?
+?
+普通形-muodossa ennen と.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten …と言っていました eroaa そうです-kuulopuheesta?
+?
+そうです ei välttämättä nimeä lähdettä; と言っていました nimeää aina kuka sanoi.
+
+Miten …と伝える eroaa ようにいう/伝える -epäsuorasta kehotuksesta?
+?
+ように välittää kehotuksen; と välittää tiedon.
+
+#flashcards/grammar/n4/vertailu
+
+…と言っていました／…と伝える (similar/compare) :: 普通形と言います (lainaus)
+…と言っていました／…と伝える (similar) :: 普通形そうです (kuulopuhe)
+…と言っていました／…と伝える (similar) :: Vようにいう・注意する・伝える・頼む (epasuora kehotus)

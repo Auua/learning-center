@@ -51,3 +51,24 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+Luonteen vastaparit: mitkä viisi?
+?
+消極的 ↔ 積極的 · 慎重 ↔ 大胆 · 陽気 ↔ 内気 · 正直 ↔ ずるい
+
+ずるい!: mitä se arkipuheessa usein tarkoittaa?
+?
+Leikkisä valitus "epistä!" — kun toinen saa jotain mitä itse ei saa. Ei aina moraalinen syytös.
+
+情けない vs みっともない?
+?
+情けない = pettymys ("miten surkeaa"); みっともない = häpeä muiden silmissä ("noloa katsella").
+
+#flashcards/setti/teema
+
+Setti — Adjektiivit: luonne ja asenne: sano ainakin viisi sanaa
+?
+ずるい (epärehellinen), 情けない (surkea), 頼もしい (luotettava), みっともない (noloa), 正直 (rehellinen), 慎重 (varovainen), 冷静 (rauhallinen), 真剣 (tosissaan), 大胆 (rohkea), 純粋 (puhdas), 消極的 (passiivinen), 陽気 (iloinen)…

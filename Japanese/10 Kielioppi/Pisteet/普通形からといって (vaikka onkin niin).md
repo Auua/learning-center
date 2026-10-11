@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 新聞に書いてある＿＿＿＿＿＿、必ずしも正しいわけではない。(virheellisen päättelyn torjunta)
 ?
 からといって — "vaikka onkin niin että", torjuu liian suoraviivaisen johtopäätöksen.
+
+#flashcards/grammar/n2/muodostus
+
+普通形 + からといって、〜わけではない :: Esim. 新聞に書いてあるからといって、必ずしも正しいわけではない。 (vaikka lehdessä lukee, ei se aina pidä paikkaansa)
+な-adjektiivi / substantiivi + だからといって :: Esim. 外国人だからといって、わがままは言えません。 (vaikka on ulkomaalainen, ei saa olla itsekäs)
+
+#flashcards/grammar/n2/nyanssi
+
+Minkälaista päättelyä からといって torjuu?
+?
+Yleistä, hätiköityä oletusta ('koska A, niin varmasti B'); puhuja huomauttaa, ettei looginen hyppäys ole pätevä.
+
+Millainen jälkilause からといって-rakenteessa on?
+?
+Lähes aina わけではない, いけない tai muu lievä kielto tai varoitus.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten からといって eroaa わけではない:sta yksinään?
+?
+わけではない yksinään kieltää yleistyksen osittain; からといって lisää eteen väärän päättelyn premissin, jota torjutaan ('vaikka A, ei silti B').
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋からといって（〜わけではない） (similar/compare) :: 普通形わけではない (ei tarkoita etta aina)

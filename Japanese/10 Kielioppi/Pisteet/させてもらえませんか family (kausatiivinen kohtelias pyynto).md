@@ -49,3 +49,29 @@ tags: [grammar/keigo, jlpt/n3]
 今度の仕事はぜひ私に＿＿＿＿＿＿＿＿＿＿＿＿か。(担当する, erittäin kohtelias)
 ?
 担当させていただけないでしょうか — kausatiivi + kielteinen kysymys + でしょうか, korkein kohteliaisuustaso.
+
+#flashcards/grammar/n3/muodostus
+
+させてもらえませんか + perus :: Kausatiivi + てもらえませんか. Esim. 写真を1枚撮らせてもらえませんか.
+させていただけないでしょうか + kohtelias :: Kausatiivi + ていただけないでしょうか. Esim. ちょっとインタビューさせてもらえないでしょうか.
+
+#flashcards/grammar/n3/nyanssi
+
+Miksi させてもらえませんか on kohteliaampi kuin させてください?
+?
+Potentiaali + kielteinen kysymys pehmentää pyynnön entisestään.
+
+Mikä on yleinen kaava pyynnön muotoilussa (させていただけないでしょうか)?
+?
+Syy tai tilanne ensin (んですが), sitten pyyntö: 図書館にないので、先生の本をコピーさせていただけないでしょうか.
+
+#flashcards/grammar/n3/sekaannus
+
+Milloin valita させてもらえませんか/させていただけないでしょうか eikä させてください?
+?
+Kun tilanne vaatii erityistä varovaisuutta (esimieheltä pyytäminen, iso palvelus); させてください on suorempi perus kohtelias pyyntö.
+
+#flashcards/grammar/n3/vertailu
+
+〜（さ）せてもらえませんか・〜（さ）せていただけないでしょうか (similar/compare) :: させてください・させていただけませんか (lupa itselle)
+〜（さ）せてもらえませんか・〜（さ）せていただけないでしょうか (similar) :: てもらえませんか・ていただけないでしょうか (kohtelias pyyntoperhe)

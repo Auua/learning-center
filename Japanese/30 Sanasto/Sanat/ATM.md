@@ -27,5 +27,8 @@ tags: [vocab, jlpt/n2]
 - 
 
 ## Kortit
-#flashcards/vocab
-ATM::エーティーエム — pankkiautomaatti
+#flashcards/vocab/n2
+
+ATM :: エーティーエム - pankkiautomaatti
+エーティーエム :: ATM - pankkiautomaatti
+pankkiautomaatti :: ATM - エーティーエム

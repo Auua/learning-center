@@ -64,3 +64,26 @@ Vertailu [[Nを V (objekti)]]: を merkitsee suoraa tekemisen kohdetta (テニ�
 上手です omasta taidosta — sopiiko?
 ?
 Ei kohteliasta — 上手 on arvio jonka kuulija/kolmas antaa toisesta. Omasta osaamisesta kehuminen näin kuulostaa itsekehulta.
+
+#flashcards/grammar/n5/muodostus
+
+Nが好きです／上手です／わかります／あります + 好き／嫌い :: N が 好き／嫌いです. Esim. イタリア料理が好きです。
+Nが好きです／上手です／わかります／あります + 上手／下手 :: N が 上手／下手です. Esim. 絵が上手です。
+Nが好きです／上手です／わかります／あります + わかります :: N が わかります. Esim. 日本語がわかります。
+Nが好きです／上手です／わかります／あります + あります (omistus) :: N が あります. Esim. 車があります。
+
+#flashcards/grammar/n5/nyanssi
+
+Miksi Nが好きです -rakenteessa kohde merkitään が:lla eikä を:lla?
+?
+Kohde ei ole tekemisen suora objekti vaan asian aihe tai lähde, johon tunne, kyky tai tieto kohdistuu.
+
+Kenen taidosta Nが上手です voidaan kohteliaasti sanoa?
+?
+Toisen; omasta taidosta 上手です on epäkohteliasta kehumista, mutta omasta puutteesta voi sanoa 下手です.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten テニスをします eroaa lauseesta テニスが好きです (を vs が)?
+?
+を merkitsee suoraa tekemisen kohdetta (itse pelaaminen); が merkitsee tunteen, kyvyn tai tiedon kohdetta (pitäminen pelistä).

@@ -66,3 +66,25 @@ Yleisin virhe on lisätä な い-adjektiivin eteen (×高いな山) tai jättä
 親切な先生 vs 高い山 — miksi toisessa on な ja toisessa ei?
 ?
 親切 on な-adjektiivi (tarvitsee な substantiivin edessä), 高い on い-adjektiivi (liittyy suoraan, ei tarvitse mitään väliin).
+
+#flashcards/grammar/n5/muodostus
+
+い-adjektiivi／な-adjektiivi + predikaattina :: な-adj (な pois) + です: 親切です; い-adj (い mukana) + です: 高いです.
+い-adjektiivi／な-adjektiivi + kielteinen :: な-adj + じゃありません: 静かじゃありません; い-adj (い→く) + ない［です］: 高くない［です］.
+い-adjektiivi／な-adjektiivi + substantiivin määritteenä :: な-adj + な + N: 親切な先生; い-adj (い mukana) + N: 高い山.
+
+#flashcards/grammar/n5/nyanssi
+
+Mikä on い-adjektiivi いい／よい kielteinen muoto (い-adjektiivi／な-adjektiivi)?
+?
+よくない, ei ×いくない; ainoa poikkeus, joka on opeteltava erikseen.
+
+Voiko です olla substantiivin edessä い- tai な-adjektiivin kanssa (い-adjektiivi／な-adjektiivi)?
+?
+Ei; です kuuluu vain predikaattiasemaan (×高いです山, ×親切なです). な-adjektiivi saa substantiivin edessä な:n.
+
+#flashcards/grammar/n5/sekaannus
+
+Mitkä ovat yleisimmät virheet い-adjektiivin ja な-adjektiivin liittämisessä substantiiviin?
+?
+Lisätään な い-adjektiivin eteen (×高いな山) tai jätetään な pois な-adjektiivista (×親切先生); tarkista ensin adjektiivin ryhmä.

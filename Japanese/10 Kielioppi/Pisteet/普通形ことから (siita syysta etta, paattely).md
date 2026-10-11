@@ -45,3 +45,22 @@ tags: [grammar/perusrakenne, jlpt/n2]
 「九月」は夜が長く月が美しい＿＿＿＿「長月」と名づけられていた。(nimen alkuperän selitys)
 ?
 ことから — selittää mistä syystä nimi/tapa on syntynyt.
+
+#flashcards/grammar/n2/muodostus
+
+普通形 + ことから (nimen / käytännön alkuperä) :: Esim. 「九月」は夜が長く月が美しいことから「長月」と名づけられていた。 (nimetty sillä perusteella että ...)
+普通形 + ことから (päättely) :: Esim. 発掘調査で指輪やネックレスが発見されたことから、この墓は身分の高い人のものだと考えられる。
+
+#flashcards/grammar/n2/nyanssi
+
+Millaisen tekstin selittämiseen ～ことから sopii erityisen hyvin?
+?
+Nimien, paikannimien ja käytäntöjen alkuperän selittämiseen ('X nimettiin/tehtiin näin, koska Y'), etymologinen ja selittävä teksti.
+
+Miten ～ことから voi ilmaista päättelyä?
+?
+Päättelyn perustana: 発見されたことから〜と考えられる ('koska löydettiin, päätellään että').
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋ことから (similar) :: S1から、S2 (syy)

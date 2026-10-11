@@ -49,3 +49,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 娘に電話をしてもなかなか出ないんです。……携帯電話をどこかに＿＿＿＿＿＿＿か。(pehmea arvaus)
 ?
 忘れたんじゃないです — んじゃないですか, varovainen arvaus mahdollisesta syystä.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋んじゃない？ (pehmeä arvaus) :: 普通形 + んじゃない？ Esim. どこか悪いんじゃない？一度病院で診てもらったほうがいいよ。
+〜たらいいんじゃない？ (pehmeä ehdotus) :: V-た + らいいんじゃない？ Esim. インターネットで調べたらいいんじゃない？
+
+#flashcards/grammar/n3/nyanssi
+
+Millainen on んじゃない？:n kohtelias ja puhekielisin muoto?
+?
+Kohtelias muoto on んじゃないですか; puhekielisin on んじゃない (nouseva intonaatio).
+
+Mihin んじゃないですか-rakennetta voi käyttää lohduttamiseen?
+?
+Huolen vähättelyyn: 心配ないんじゃないですか (ei kai tarvitse olla huolissaan).
+
+Miksi たらいいんじゃない？ on pehmeämpi kuin たほうがいいです?
+?
+Se on varovainen ehdotus ilman suoraa käskyä.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten んじゃない？ eroaa でしょう？:sta?
+?
+でしょう？ olettaa kuulijan olevan samaa mieltä jo tunnetusta asiasta; んじゃない？ on varovaisempi arvaus epävarmasta asiasta, ei niinkään vahvistuksen pyyntö.
+
+#flashcards/grammar/n3/vertailu
+
+普通形んじゃない？ (similar/compare) :: 普通形でしょう？ (varmistus)
+普通形んじゃない？ (similar) :: 普通形んです (selittävä sävy)

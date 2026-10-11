@@ -70,3 +70,16 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+Kehon osat: kanji vai kana?
+?
+Arkikäytössä 頭・顔・目・耳・鼻・口・歯・首・肩・胸・背中・腕・手・指・腰・足 kanjilla; ひじ・ひざ・つめ・しり・あご yleensä kanalla (肘・膝・爪・尻・顎 harvinaisia).
+
+#flashcards/setti/teema
+
+Setti — Kehon osat: sano ainakin viisi sanaa
+?
+頭（あたま） (pää), 髪（かみ） (hiukset), 顔（かお） (kasvot), 目（め） (silmä), 耳（みみ） (korva), 鼻（はな） (nenä), 口（くち） (suu), 歯（は） (hammas), あご (leuka), のど (kurkku), 首（くび） (kaula), 体（からだ） (keho)…

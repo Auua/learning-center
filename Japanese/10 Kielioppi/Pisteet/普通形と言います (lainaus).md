@@ -53,3 +53,29 @@ Rakenteellisesti identtinen [[普通形と思います (mielipide)]]:n kanssa (�
 ミラーさんは来週東京へ出張すると言いました。 — miksi 出張する eikä 出張した, vaikka koko lause on menneessä ajassa?
 ?
 Epäsuorassa lainauksessa lainatun lauseen aikamuoto pysyy sellaisena kuin alkuperäinen puhuja sen sanoi — ei "taannu" päälauseen mukana kuten englannissa.
+
+#flashcards/grammar/n5/muodostus
+
+「S」と言います + (suora lainaus) :: 「S」 + と言います. Esim. 寝るまえに「お休みなさい」と言います。
+普通形 + と言いました (epäsuora lainaus) :: 普通形 + と言いました. Esim. ミラーさんは来週東京へ出張すると言いました。(Miller sanoi lähtevänsä ensi viikolla Tokioon työmatkalle.)
+
+#flashcards/grammar/n5/nyanssi
+
+Muuttuuko lainatun lauseen aikamuoto epäsuorassa lainauksessa 普通形と言いました, kun päälause on menneessä ajassa?
+?
+Ei muutu (ei 'backshiftingia' kuten englannissa): ミラーさんは出張する（preesens）と言いました.
+
+Mitä suora lainaus と言います edellyttää lainatulta tekstiltä?
+?
+Alkuperäiset sanat säilytetään täsmälleen lainausmerkeissä 「」.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten 普通形と言います eroaa 普通形と思います:sta?
+?
+Rakenne on sama, mutta と言います lainaa jonkun sanoman, と思います ilmaisee puhujan oman mielipiteen.
+
+#flashcards/grammar/n5/vertailu
+
+「S」と言います／普通形と言いました (similar) :: 普通形と思います (mielipide)
+「S」と言います／普通形と言いました (similar/compare) :: ～と言っていました・～と伝える (välitetty viesti)

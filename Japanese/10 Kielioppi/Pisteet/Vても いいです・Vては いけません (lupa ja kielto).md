@@ -69,3 +69,23 @@ Kohtelias, epäsuora kieltäytyminen — lause jätetään tarkoituksella kesken
 Milloin いいえ、いけません sopii vastaukseksi?
 ?
 Vain kun puhuja on selvästi arvovallassa kuulijaan nähden (esim. opettaja oppilaalle) — muuten käytetään kohteliaampaa epäsuoraa kieltäytymistä.
+
+#flashcards/grammar/n5/muodostus
+
+Vてもいいです + verbi (lupa) :: て-muoto + もいいです. 例: 写真を撮ってもいいです。
+Vてもいいですか + verbi (lupakysymys) :: て-muoto + もいいですか. 例: たばこを吸ってもいいですか。
+Vてはいけません + verbi (kielto) :: て-muoto + はいけません. 例: ここでたばこを吸ってはいけません。
+
+#flashcards/grammar/n5/nyanssi
+
+Millainen kielto on Vてはいけません?
+?
+Ehdoton kielto, esim. sääntöjen ilmoittamiseen (禁煙ですから、吸ってはいけません); ei sovi alemmalta ylemmälle.
+
+Mikä on Vてもいいです:n muodollisempi synonyymi?
+?
+～てもかまいません ('ei haittaa vaikka tekisi').
+
+#flashcards/grammar/n5/vertailu
+
+Vてもいいです／Vてはいけません (similar/compare) :: ～てもかまいません (saa tehdä, ei haittaa)

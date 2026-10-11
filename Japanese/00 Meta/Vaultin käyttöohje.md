@@ -67,7 +67,13 @@ Kaksisuuntainen:::kortti
 Pidempi kysymys?
 ?
 Pidempi vastaus.
+
+Kaksisuuntainen monirivinen
+??
+Vastaus (kysytään myös toisinpäin)
 ```
+
+Sanat ja verbit (`#flashcards/vocab/n3`, `#flashcards/verb/n2`) ovat kaksisuuntaisia `:::`-kortteja, ja tasotagi tulee muistiinpanon `jlpt`-kentästä. Lausepankkien lopussa on `JA (kielioppi) ?? FI (kielioppi)` -kortit (`#flashcards/lauseet`), ja kunkin taivutusmuodon sivulla `muoto: verbi ::: muoto` -kortit jokaiselle verbityypille (`#flashcards/verb/muoto`). Kielioppikortit ovat tilannekysymyksiä, ja ne on jätetty yksisuuntaisiksi.
 
 - **Obsidianissa:** SR-plugin kerää ne suoraan.
 - **Ankiin:** `python3 "00 Meta/Scripts/sr_to_anki.py"` tuottaa tiedoston `00 Meta/Scripts/anki_export.tsv`.
@@ -78,6 +84,17 @@ Anki-tuonti kerran:
 3. File → Import → valitse TSV → *Existing notes: Update* → ensimmäinen kenttä on UID
 
 UID on vakaa tiiviste, joten sama kortti päivittyy eikä monistu. Jos muutat kortin etupuolta, syntyy uusi kortti — muuta mieluummin takapuolta.
+
+## Ääni
+Sanoissa ja verbeissä on rivi `- **Ääni:** ![[…]]`, lausepankin lauseissa `**Ääni** ![[…]]`. Anki-äänet ovat `anki_*.mp3` ja macOS-synteesillä (Kyoko) luodut `tts_*.m4a`; molemmat kansioissa `70 Visuaalinen/Audio/` ja gitignoressa, eli ne ovat vain tällä koneella.
+
+```
+python3 "00 Meta/Scripts/enrich.py" words-audio --levels N2,N1    # ääni muille tasoille
+python3 "00 Meta/Scripts/enrich.py" sentences-audio               # uusille lausepankin lauseille
+python3 "00 Meta/Scripts/enrich.py" sentence-cards                # päivittää lausekortit
+python3 "00 Meta/Scripts/enrich.py" forms                         # päivittää verbityyppikortit
+```
+Skripti on idempotentti: se täydentää vain puuttuvan eikä koske jo olemassa oleviin ääniin.
 
 ## Ylläpito
 ```

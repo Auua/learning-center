@@ -45,3 +45,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Maat, kansallisuudet ja kielet: sano ainakin viisi sanaa
+?
+Maa (国) (Kansallisuus (国+人)), アメリカ (Yhdysvallat) (アメリカ人), イギリス (Iso-Britannia) (イギリス人), インド (Intia) (インド人), インドネシア (Indonesia) (インドネシア人), 韓国（かんこく, Etelä-Korea） (韓国人), タイ (Thaimaa) (タイ人), 中国（ちゅうごく, Kiina） (中国人), ドイツ (Saksa) (ドイツ人), 日本（にほん, Japani） (日本人), フランス (Ranska) (フランス人), ブラジル (Brasilia) (ブラジル人)

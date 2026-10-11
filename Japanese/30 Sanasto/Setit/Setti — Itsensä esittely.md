@@ -39,3 +39,13 @@ views:
 
 ## Muistiinpanot
 [[AはBです (A on B, peruslause)]] · [[N1のN2 (N1:n N2)]] · [[～さん (kohtelias nimen liite)]] · [[私]] · [[あなた]] · [[だれ・どなた|だれ]]・[[だれ・どなた|どなた]]
+
+## Kortit
+#flashcards/setti/fraasi
+
+初めまして。 ::: Hauska tavata. (kirjaim. "tapaan ensimmäistä kertaa")
+どうぞよろしく［お願いします］。 ::: Hauska tutustua. / Toivottavasti tulemme toimeen.
+失礼ですが、お名前は? ::: Anteeksi, mikä on nimenne?
+こちらは～さんです。 ::: Tässä on [nimi].
+～から来ました。 ::: Tulin ~:sta.
+何歳ですか。／おいくつですか。 ::: Kuinka vanha olet? (neutraali／kohtelias)

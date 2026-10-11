@@ -27,6 +27,16 @@ tags: [vocab, jlpt/n4, lahde/anki-mnn, anki/fi-auto]
 ## Kollokaatiot ja käyttö
 - 
 
+## Esimerkit
+- iPS細胞の研究は進んでいます。 — iPS-solujen tutkimus etenee. ![[tts_bfb582498234.m4a]]
+
 ## Kortit
-#flashcards/vocab
-iPS細胞::iPSさいぼう — iPS-solu
+#flashcards/vocab/n4
+
+iPS細胞 :: iPSさいぼう - iPS-solu
+iPSさいぼう :: iPS細胞 - iPS-solu
+iPS-solu :: iPS細胞 - iPSさいぼう
+![[anki_MNN_「iPS」細胞.mp3]] ::: iPS細胞 - iPS-solu
+
+iPS細胞の研究は進んでいます。 ::: iPS-solujen tutkimus etenee.
+![[tts_bfb582498234.m4a]] ::: iPS-solujen tutkimus etenee.

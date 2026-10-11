@@ -60,3 +60,24 @@ tags:
 Miksi コーヒーを飲みたいですか ei sovi tarjoukseksi?
 ?
 たいですか kysyy suoraan halusta, mikä kuulostaa töksähtävältä tarjouksena — kohteliaampi on ［お］コーヒーはいかがですか.
+
+#flashcards/grammar/n5/muodostus
+
+Nが欲しいです (halu saada jokin) :: N が 欲しいです — esim. わたしは友達が欲しいです。
+Vます-vartalo + たいです (halu tehdä) :: ます-vartalo + たいです — esim. わたしは沖縄へ行きたいです。
+Objekti + を/が + V-vartalo + たい :: てんぷらを／が食べたいです。
+Kielteinen: 欲しい・〜たい :: 欲しくないです／〜たくないです (taipuvat kuin い-adjektiivi)
+
+#flashcards/grammar/n5/nyanssi
+
+Voiko ～が欲しい・～たい kertoa kolmannen henkilön halusta?
+?
+Ei: ×彼は車が欲しいです on virhe. Rakenne koskee vain puhujaa (tai kysymyksessä kuulijaa); kolmannen halu ilmaistaan esim. 〜たがっている.
+
+Kumpi partikkeli, を vai が, ～たい-lauseen objektin kanssa?
+?
+Kumpikin käy; が on hieman yleisempi kun halu korostuu.
+
+Miksi ～たいですか ei sovi tarjoukseksi (コーヒーを飲みたいですか)?
+?
+Se kysyy suoraan halusta ja kuulostaa töksähtävältä; käytä ［お］いかがですか tai 〜ませんか.

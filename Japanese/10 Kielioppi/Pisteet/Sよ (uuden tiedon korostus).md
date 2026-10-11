@@ -55,3 +55,28 @@ Vertailu: [[Sね (vahvistus, eikö niin)]] hakee samanmielisyyttä/vahvistusta j
 Sね vs Sよ — milloin kumpaakin käytetään?
 ?
 ね: kuulija todennäköisesti jo tietää/on samaa mieltä, haetaan vahvistusta. よ: kuulija ei vielä tiedä, korostetaan uutta tietoa.
+
+#flashcards/grammar/n5/muodostus
+
+Sよ + lause :: Lause + よ. Esim. 350円ですよ。
+
+#flashcards/grammar/n5/nyanssi
+
+Milloin Sよ:tä käytetään?
+?
+Kun kerrotaan jotain, mitä kuulija ei todennäköisesti tiedä, esim. hintatieto, varoitus tai korjaus.
+
+Mitä riskiä liialliseen よ:n käyttöön liittyy?
+?
+Se voi kuulostaa jyrkältä tai opettavaiselta; sävy riippuu paljon äänenpainosta.
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: Sね vai Sよ, kun haluat kertoa kuulijalle uutta tietoa?
+?
+よ tuo esiin uutta tietoa; ね hakisi samanmielisyyttä jaetusta tiedosta. Molemmat voi yhdistää: ～ですよね.
+
+#flashcards/grammar/n5/vertailu
+
+Sよ (similar) :: Sね (vahvistus, eikö niin)
+Sよ (similar) :: 普通形よね (varmistava loppupartikkeli)

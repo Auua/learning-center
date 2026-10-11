@@ -45,3 +45,21 @@ tags: [grammar/perusrakenne, jlpt/n3]
 携帯電話は場所によってはつながらなくなる＿＿＿＿＿＿。(muodollinen, objektiivinen mahdollisuus)
 ?
 可能性もある — かもしれない:tä muodollisempi/objektiivisempi mahdollisuuden ilmaus.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋可能性がある :: 普通形 + 可能性がある／可能性もある. Esim. これから大きく伸びる可能性がある。(On mahdollista, että hän kehittyy paljon.)
+
+#flashcards/grammar/n3/nyanssi
+
+Miten 可能性がある eroaa かもしれない:stä?
+?
+Se on objektiivisempi ja muodollisempi; sopii raportteihin, ennusteisiin ja analyyseihin.
+
+Mitä 可能性もある lisää merkitykseen?
+?
+Sävyn 'tämäkin on yksi mahdollisuus muiden joukossa'.
+
+#flashcards/grammar/n3/vertailu
+
+普通形＋可能性がある・可能性もある (similar) :: Vかもしれません (saattaa olla etta)

@@ -60,3 +60,34 @@ Ei sekoiteta pelkkään menneeseen aikamuotoon (Vました) — ことがあり�
 北海道へ行ったことがあります vs 去年北海道へ行きました — mikä ero?
 ?
 ことがあります korostaa kokemuksen olemassaoloa (joskus, milloin tahansa); pelkkä mennyt aika kertoo tarkan ajankohdan tapahtumasta.
+
+#flashcards/grammar/n5/muodostus
+
+Vたことがあります + た-muoto :: た-muoto + こと + が + あります. Esim. 馬に乗ったことがあります。
+Vたことがあります + kielto :: 一度も〜たことがありません (ei koskaan).
+
+#flashcards/grammar/n5/nyanssi
+
+Miten Vたことがあります eroaa pelkästä mennestä ajasta (去年馬に乗りました)?
+?
+Pelkkä mennyt aika kertoo, että asia tapahtui tiettynä aikana; たことがあります korostaa kokemuksen olemassaoloa ajasta riippumatta.
+
+Mitkä sanat täydentävät usein rakennetta Vたことがあります?
+?
+一度 (kerran) ja kielteisen kanssa 一度も (ei koskaan).
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: Vました vai Vたことがあります, kun vastataan kysymykseen 'oletko koskaan ...?'?
+?
+Aina Vたことがあります, koska kysytään kokemuksen olemassaoloa eikä ajankohtaa.
+
+Miten Vたことがあります eroaa muodosta V辞書形ことがある?
+?
+Sama runko, mutta た形 = elämänkokemus; 辞書形 = 'joskus käy niin että'. Verbimuoto ratkaisee merkityksen.
+
+#flashcards/grammar/n5/vertailu
+
+V た形ことがあります (similar) :: Vことができます (kyky)
+V た形ことがあります (similar/compare) :: Vことがある・こともある (satunnainen poikkeus)
+V た形ことがあります (compare) :: ～ている (elämänhistoria, saavutukset)

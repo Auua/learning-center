@@ -49,3 +49,24 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+うまい vs おいしい: mikä ero?
+?
+Sama merkitys, mutta うまい on rento ja perinteisesti miesten puhetta; おいしい on neutraali ja turvallinen. うまい tarkoittaa myös "taitava" (日本語がうまい).
+
+しょっぱい vs 塩辛い: mikä ero?
+?
+Merkitys sama; しょっぱい on arkinen puhekielen sana, 塩辛い neutraalimpi ja kirjallisempi.
+
+ぬるい: mistä sanotaan?
+?
+"Ei enää kuuma, ei vielä kylmä" — juomista ja kylpyvedestä, ei säästä (siihen 暖かい).
+
+#flashcards/setti/teema
+
+Setti — Adjektiivit: aistit ja laatu: sano ainakin viisi sanaa
+?
+うまい (herkullinen), くさい (haiseva), しょっぱい (suolainen (puhek.)), ぬるい (haalea), まぶしい (häikäisevä), 騒がしい (meluisa), 分厚い (paksu), 細長い (kapea ja pitkä), 素早い (nopea), 新鮮 (tuore), 上品 (hienostunut), 下品 (karkea)

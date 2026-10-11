@@ -65,3 +65,33 @@ Vertailu [[とても・あまり (hyvin, ei kovin)]] (Luku 8): とても/あま�
 あまり わかりません vs 全然 わかりません — ero?
 ?
 あまり = "ei kovin hyvin" (jonkin verran ymmärrystä on), 全然 = "ei ollenkaan" (ei mitään ymmärrystä).
+
+#flashcards/grammar/n5/muodostus
+
+よく・だいたい・少し + わかります (myönteinen aste) :: Aste: よく わかります (hyvin) > だいたい わかります (suurin piirtein) > 少し わかります (vähän)
+あまり・全然 + kielteinen predikaatti :: あまり わかりません／あまり ありません (ei kovin); 全然 わかりません／全然 ありません (ei ollenkaan)
+たくさん + あります (määrä) :: たくさん あります = on paljon (määrä); 少し あります = on vähän
+
+#flashcards/grammar/n5/nyanssi
+
+Minkä predikaatin kanssa あまり ja 全然 esiintyvät alkeistasolla?
+?
+Käytännössä aina kielteisen predikaatin kanssa.
+
+Mitä 少し ja 全然 voivat modifioida verbien lisäksi?
+?
+Adjektiiveja: 少し寒いです (vähän kylmä), 全然おもしろくないです (ei yhtään mielenkiintoinen).
+
+Mikä on たくさん:n ja よく/だいたい:n ero asteadverbeissa?
+?
+たくさん koskee määrää (esineitä, rahaa); よく/だいたい koskevat laatua tai astetta (ymmärtäminen, taito). Älä sekoita ulottuvuuksia.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten kuuden asteadverbin asteikko eroaa parista とても・あまり?
+?
+とても/あまり on kaksinapainen pari (paljon / ei paljon); tämä asteikko on kuusiportainen ja erottaa lisäksi määrän ja laadun ulottuvuudet.
+
+#flashcards/grammar/n5/vertailu
+
+よく／だいたい／たくさん／少し／あまり／全然 (similar) :: とても・あまり (hyvin, ei kovin)

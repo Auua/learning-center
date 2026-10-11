@@ -50,3 +50,32 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ＿＿＿美しい山はありません。(富士山, superlatiivi)
 ?
 富士山ほど — ほど + koko luokan kielto, "mikään vuori ei ole yhtä kaunis kuin Fuji".
+
+#flashcards/grammar/n3/muodostus
+
+～ほど～ものはない (esine／asia) :: N + ほど + adj + ものはない. Esim. 富士山ほど美しい山はありません。
+～ほど～人はいない (henkilö) :: N + ほど + adj + 人はいない. Esim. タワポンさんほど勉強に熱心な人はいない。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä on ～ほど～はない -rakenne ajatuksena ja sävyltään?
+?
+Superlatiivin kiertoilmaus: "mikään ei ole yhtä X kuin tämä"; sama tulos kuin いちばん, mutta kohteliaampi/kirjallisempi.
+
+Milloin ～ほど～ -rakenteessa käytetään はない ja milloin はいない?
+?
+Asiat (もの) ottavat はない, ihmiset (人) はいない; valinta elollisuuden mukaan.
+
+Miten tavallisen いちばん-väitteen voi muuttaa ～ほど～はない -muotoon?
+?
+子どもの寝顔がいちばんかわいい → 子どもの寝顔ほどかわいいものはない.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ほど～はない／いない eroaa rakenteesta ほど～ない?
+?
+ほど～はない kieltää koko luokan (mikään muu ei ole) ja tuottaa superlatiivin; ほど～ない vertaa vain kahta nimettyä asiaa.
+
+#flashcards/grammar/n3/vertailu
+
+Nほど〜はない・いない (similar/compare) :: ～ほど～ない・ほどではない (vertailu, ei niin)

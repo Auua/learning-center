@@ -50,3 +50,32 @@ tags: [grammar/keigo, jlpt/n3]
 課長、お客様がロビーで＿＿＿＿＿。(待つ, kevyt sonkeigo)
 ?
 お待ちです — お + ます-vartalo + です, kevyempi 尊敬語 kuin お待ちになっています.
+
+#flashcards/grammar/n3/muodostus
+
+お～です + mihin liittyy? :: お + ます-vartalo + です. Esim. お待ちです, お決まりですか, どちらにお勤めですか.
+
+#flashcards/grammar/n3/nyanssi
+
+Millaisia ilmauksia お＋ます-vartalo＋です kuvaa ja miten se eroaa お～になる:sta rakenteellisesti?
+?
+Tilaa tai valmiutta; です korvaa になる:n ja tuottaa tiiviimmän, usein kysymysmuotoisen ilmauksen.
+
+Mitä asiakaspalvelun kysymyksiä お～です -kaavalla muodostetaan?
+?
+お決まりですか (oletteko päättäneet), お済みですか (oletteko valmiit), お持ちですか (onko teillä mukana).
+
+Sopiiko お～です kaikille verbeille kuten お～になる?
+?
+Ei; rajoittuu enimmäkseen tila- ja valmiusverbeihin.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten お～です eroaa kaavasta お～になる (molemmat 尊敬語)?
+?
+お～になる sopii laajemmin aktiivisiin tekoihin (お読みになる); お～です on tiiviimpi ja korostaa tilaa tai valmiutta.
+
+#flashcards/grammar/n3/vertailu
+
+お＋（ます-vartalo）＋です (similar/compare) :: お～になる (kunnioittava toisen teko)
+お＋（ます-vartalo）＋です (compare) :: Keigo — kartta

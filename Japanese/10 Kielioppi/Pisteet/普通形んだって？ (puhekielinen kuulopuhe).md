@@ -49,3 +49,28 @@ tags: [grammar/perusrakenne, jlpt/n3]
 田中さんが結婚する＿＿＿＿？(puhekielinen kuulopuhekysymys)
 ?
 んだって — "kuulin että... eikö niin?", hyvin puhekielinen kuulopuhemuoto.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋んだって？ :: 普通形 + んだって？ Esim. 山田さん、会社を辞めるんだって？(Yamada kuulemma lähtee yhtiöstä?)
+
+#flashcards/grammar/n3/nyanssi
+
+Millaisessa tilanteessa 普通形んだって？ sopii?
+?
+Tuttavallisessa keskustelussa, usein kysymyksenä joka aloittaa uuden aiheen ('kuulin X:stä, onko totta?'); ei muodolliseen tai kirjalliseen rekisteriin.
+
+Mistä んだって:n って-pääte tulee?
+?
+Se on puhekielinen supistuma muodosta ということだ (と言っていた → って); んだ tuo mukaan selittävän sävyn.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten んだって eroaa そうです/らしい-kuulopuhemuodoista?
+?
+そうです/らしい ovat neutraalimpia ja kohteliaampia, yleensä toteamuksia; んだって on niiden puhekielisin vastine ja usein kysymyksen muodossa.
+
+#flashcards/grammar/n3/vertailu
+
+普通形（の）＋んだって？ (similar/compare) :: 普通形そうです (kuulopuhe)
+普通形（の）＋んだって？ (similar/compare) :: 普通形らしい (kuulopuhe, paattely)

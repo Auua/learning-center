@@ -50,3 +50,33 @@ tags: [grammar/perusrakenne, jlpt/n1]
 彼女が他人の悪口を言うなんてことは＿＿＿＿＿。(kielteinen kirjallinen mahdollisuus, kiinteä ilmaus)
 ?
 ありえない — "ei ole mahdollista", kielteinen muoto on えない, ei ×うない.
+
+#flashcards/grammar/n1/muodostus
+
+V(ます-vartalo)＋うる・える／えない + myönteinen :: V(ます-vartalo) + うる／える. Esim. 今のうちに変更しないと、将来重大な問題が起こりうる。
+V(ます-vartalo)＋うる・える／えない + kielteinen :: V(ます-vartalo) + えない. Esim. 人間が知りえない病気が存在する。
+V(ます-vartalo)＋うる・える／えない + kiinteä ilmaus ありえない :: ありえない (ei voi olla mahdollista). Esim. 彼女が他人の悪口を言うなんてことはありえない。
+
+#flashcards/grammar/n1/nyanssi
+
+Mikä on V(ます-vartalo)＋うる・える／えない -rakenteen kielteinen muoto?
+?
+Aina えない, ei ×うない. Huomaa epäsäännöllisyys.
+
+Millä tasolla ありうる／ありえない ovat käytössä, vaikka うる on kirjallinen?
+?
+Ne ovat erittäin yleisiä kiinteitä ilmauksia myös puhekielessä.
+
+Millaisiin yhteyksiin V(ます-vartalo)＋うる・える／えない sopii?
+?
+Esseisiin ja väitteisiin yleisistä mahdollisuuksista; muodollisempi ja abstraktimpi kuin Potentiaali える. Ei henkilökohtaiseen kykyyn.
+
+#flashcards/grammar/n1/sekaannus
+
+Miten V(ます-vartalo)＋うる・える／えない eroaa Potentiaali える-muodosta?
+?
+Potentiaali える ilmaisee henkilökohtaista kykyä (泳げる, osaan uida); うる/える on kirjallinen, abstrakti 'on mahdollista että' eikä liity taitoon.
+
+#flashcards/grammar/n1/vertailu
+
+V(ます-vartalo)＋うる・える／えない (similar/compare) :: Potentiaali える

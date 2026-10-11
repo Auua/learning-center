@@ -40,3 +40,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Japanilainen perinnehuone: sano ainakin viisi sanaa
+?
+畳 (tatami-matto), 和室（わしつ） (japanilaistyylinen huone), 座布団 (istuintyyny), 正座 (polvillaan istuminen (perinteinen tapa)), おじぎ (kumarrus), 伝統的 (perinteinen), 旅館 (japanilainen perinnemajatalo)

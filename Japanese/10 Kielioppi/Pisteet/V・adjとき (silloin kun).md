@@ -67,3 +67,31 @@ Vertailu [[Vまえに (ennen)]]: まえに käyttää **aina** perusmuotoa riipp
 国へ帰るとき、かばんを買いました vs 国へ帰ったとき、かばんを買いました — mikä ero?
 ?
 帰る**とき** = ostin laukun ennen kuin saavuin kotimaahan (matkalla). 帰った**とき** = ostin laukun vasta kotimaassa, saavuttuani sinne.
+
+#flashcards/grammar/n5/muodostus
+
+V／adjとき + verbi :: Sanakirjamuoto tai ない-muoto + とき. Esim. 図書館で本を借りるとき、カードが要ります.
+V／adjとき + い-adjektiivi :: い + とき. Esim. 若いとき、あまり勉強しませんでした.
+V／adjとき + な-adjektiivi :: な + とき. Esim. 暇なとき、遊びに来ませんか.
+V／adjとき + substantiivi :: の + とき. Esim. 子どものとき、よく川で泳ぎました.
+
+#flashcards/grammar/n5/nyanssi
+
+Mikä ero on V辞書形とき ja V た形とき merkityksessä?
+?
+辞書形とき: teko ei ole vielä tapahtunut päälauseen hetkellä (帰るとき = matkalla); た形とき: teko on jo tapahtunut (帰ったとき = perillä).
+
+Riippuuko adjektiivin tai substantiivin + とき aikamuoto päälauseen ajasta?
+?
+Ei; esim. 子どものとき toimii yhtä lailla menneessä ja nykyisessä päälauseessa.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten とき eroaa Vまえに verbin muodon valinnassa?
+?
+まえに käyttää aina perusmuotoa; とき:n kanssa perusmuodon ja た-muodon valinta kantaa merkityksen (kesken vs valmis).
+
+#flashcards/grammar/n5/vertailu
+
+V／adjとき (similar) :: 関係節 (suhteellinen sivulause)
+V／adjとき (similar) :: Vまえに (ennen)

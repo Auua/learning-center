@@ -48,3 +48,27 @@ tags: [grammar/perusrakenne, jlpt/n1]
 自転車のねじから人工衛星の部品＿＿＿＿＿、どれもこの工場で作っています。(täydellinen kattavuus)
 ?
 に至るまで — "aina jostakin johonkin asti", korostaa täydellistä poikkeuksetonta kattavuutta.
+
+#flashcards/grammar/n1/muodostus
+
+N1から N2に至るまで + lause :: N1から、N2に至るまで — esim. この歌は子どもからお年寄りに至るまで、みんなに親しまれています。
+
+#flashcards/grammar/n1/nyanssi
+
+Mitä N1 から N2 に至るまで korostaa?
+?
+Täydellistä, poikkeuksetonta kattavuutta kahden ääripään välillä; käytetään usein liioittelevasti vaikutuksen tehostamiseksi.
+
+Millainen rekisteri on N1 から N2 に至るまで verrattuna にかけて-rakenteeseen?
+?
+Muodollisempi ja voimakkaampi kuin から〜にかけて.
+
+#flashcards/grammar/n1/sekaannus
+
+Kumpi: から〜にかけて vai から〜に至るまで, kun halutaan korostaa kategorioiden täydellistä kattavuutta?
+?
+に至るまで korostaa täydellistä, poikkeuksetonta kattavuutta; にかけて viittaa epätarkkaan aika-/paikkaväliin (usein sää tai tapahtumat).
+
+#flashcards/grammar/n1/vertailu
+
+N1から　N2に至るまで (similar/compare) :: ～から～にかけて (jostakin johonkin, vali)

@@ -45,3 +45,17 @@ tags: [grammar/perusrakenne, jlpt/n2]
 結婚し＿＿ずっと、横浜に住んでいる。(jatkuva tila nykyhetkeen)
 ?
 て以来 — "siitä lähtien kun", jälkilause kuvaa keskeytyksetöntä jatkuvuutta nykyhetkeen.
+
+#flashcards/grammar/n2/muodostus
+
+V(て形)＋以来 + mitä jälkilause on? :: V(て形) + 以来、+ jatkuva tila. 例: 結婚して以来ずっと、横浜に住んでいる。
+
+#flashcards/grammar/n2/nyanssi
+
+Millainen jälkilauseen tulee olla rakenteessa V(て形)＋以来?
+?
+Jatkuva tila tai toistuva/pysyvä muutos, joka on kestänyt siitä hetkestä nykyhetkeen; ei kertaluontoinen tapahtuma.
+
+Mitkä ilmaukset usein vahvistavat rakenteen V(て形)＋以来 jatkuvuutta?
+?
+ずっと, 一度も〜ない ja 〜ようになった.

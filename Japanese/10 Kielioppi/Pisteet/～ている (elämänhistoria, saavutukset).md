@@ -71,3 +71,35 @@ Käytetyt taivutusmuodot: [[て-muoto]]
 Mitä eroa on 3回優勝している ja 3回優勝したことがある -ilmauksilla?
 ?
 優勝している esittää saavutuksen objektiivisena kertymänä (uutis-/tietokirjatyyli); したことがある korostaa kokemusta jonkun omasta näkökulmasta.
+
+#flashcards/grammar/n3/muodostus
+
+…ている + henkilön elämäntyö :: V（て形）+ いる — esim. モーツァルトは600以上の曲を作っている。
+…ている + historialliset tapahtumat (passiivi) :: V（て形）+ いる — esim. 発掘が何度も行われている。
+…ている + lukumäärä (saavutukset) :: 回数 + V（て形）いる — esim. 3回優勝している。
+
+#flashcards/grammar/n3/nyanssi
+
+Voiko …ている (elämänhistoria) kuvata kuollutta henkilöä?
+?
+Kyllä: tulos (teokset, saavutukset) on yhä olemassa vaikka tekijä ei ole.
+
+Millaisissa teksteissä …ている (elämänhistoria, saavutukset) on tyypillinen?
+?
+Tietokirjoissa, elämäkerroissa, urheilu- ja tiedeuutisissa; rekisteri on toteava, usein mukana これまで, 何度も tai lukumäärä.
+
+Milloin …ている ei sovi, vaan pelkkä た?
+?
+Yksittäiseen kertaluontoiseen tapahtumaan, jolla ei ole nykyhetkeen ulottuvaa merkitystä.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten …ている (saavutukset) eroaa Vたことがあります:sta?
+?
+たことがある kertoo puhujan omasta kokemuksesta; …ている esittää kertymän objektiivisena tietona kenestä tahansa, myös kuolleesta.
+
+#flashcards/grammar/n3/vertailu
+
+…ている（keskeytymätön tulos, elämänhistoria） (similar) :: ～ている (parhaillaan, tilan tulos)
+…ている（keskeytymätön tulos, elämänhistoria） (similar/compare) :: Vたことがあります (kokemus)
+…ている（keskeytymätön tulos, elämänhistoria） (similar) :: Vた結果・Nの結果 (seuraus)

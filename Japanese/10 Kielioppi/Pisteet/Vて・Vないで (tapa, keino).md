@@ -56,3 +56,34 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Mitä eroa on Vて:llä ja Vないで:llä tässä käytössä?
 ?
 Vて kuvaa mitä tehtiin/mukana ollen (傘をもって); Vないで kuvaa mitä jätettiin tekemättä (傘をもたないで) — molemmat kuvaavat pääteon tapaa.
+
+#flashcards/grammar/n4/muodostus
+
+Vて／Vないで (tapa, keino) + myönteinen tapa :: V(て-muoto) + V2; て kuvaa, miten V2 tehdään. 例: 傘をもって、出かけます。
+Vて／Vないで (tapa, keino) + kielteinen tapa :: V(ない形) + で + V2; V2 tehdään ilman V1:tä. 例: 傘をもたないで、出かけます。
+Vないで (tapa, keino) + ruokailutottumus ja kulkutapa :: 例: コーヒーは砂糖を入れないで飲みます。 / バスに乗らないで、駅まで歩いているんです。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten て toimii rakenteessa Vて／Vないで (tapa, keino)?
+?
+Se ei liitä kahta erillistä tapahtumaa, vaan kuvaa millä tavalla tai varustuksella V2 tehdään; usein käännettävissä '-nä' tai 'mukana'.
+
+Miten ないで eroaa なくて rakenteessa Vて／Vないで (tapa, keino)?
+?
+ないで liittää kaksi lausetta tavan/tekemättömyyden merkityksessä; なくて ilmaisee syyn.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten Vないで (tapa, keino) eroaa muodosta Vないでください?
+?
+Sama ない形+で, mutta ilman ください: liittää kaksi lausetta kuvaamaan tapaa, ei pyydä mitään (バスに乗らないで、歩いています).
+
+Mikä on Vないで (tapa, keino):n muodollinen vastine?
+?
+～ず(に): バスに乗らずに、駅まで歩いています — sama merkitys, muodollisempi rekisteri.
+
+#flashcards/grammar/n4/vertailu
+
+Vて／Vないで（tapa, keino） (similar) :: Vないで ください (kielteinen pyyntö)
+Vて／Vないで（tapa, keino） (similar/compare) :: ～ず［に］・～ず (kirjallinen kielto)

@@ -50,3 +50,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 息子は外で遊ばないで、＿＿＿＿＿＿＿＿＿んです。(ゲームする, liiallinen keskittyminen)
 ?
 ゲームしてばかりいる — てばかりいる, moittiva sävy liiallisesta pelaamisesta.
+
+#flashcards/grammar/n3/muodostus
+
+Vて-muoto + ばかりいる :: V（て-muoto）+ ばかりいる — esim. 息子はゲームしてばかりいるんです。
+N + ばかり + V（ている） :: N + ばかり + V（ている）— esim. 漫画ばかり読んでいるけど、もっといろいろな本を読んだほうがいいよ。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä ero on Vてばかりいる- ja Nばかり Vている -muodoilla?
+?
+Merkitys on sama; Vてばかり korostaa verbiä, Nばかり Vている kohdetta/objektia.
+
+Millaisen arvion ～てばかりいる yleensä sisältää?
+?
+Puhujan negatiivisen arvion: liiallisuus tai tasapainon puute, joka tulisi korjata.
+
+Mikä kaava on yleinen neuvomisessa ～ばかりいる-rakenteella?
+?
+〜ばかりいないで、たまには〜したほうがいいよ (älä tee pelkästään sitä, tee joskus myös tätä).
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ばかり + ている eroaa だけ-rajauksesta?
+?
+だけ on neutraali määrän rajaus; ばかり + いる/ている kantaa aina moitteen tai huolen sävyn liiallisesta toistuvuudesta.
+
+#flashcards/grammar/n3/vertailu
+
+V(て-form)ばかりいる・Nばかり V(ている) (similar) :: Maara だけ・Nだけ
+V(て-form)ばかりいる・Nばかり V(ている) (similar) :: Nしか Vません (vain, pelkastaan)

@@ -49,3 +49,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 お父さんの誕生日のプレゼントは何が＿＿＿。(itselle esitetty pohdinta)
 ?
 いいかな — puhekielinen pohdiskelu, ei suora kysymys kuulijalle vaikka kutsuu osallistumaan.
+
+#flashcards/grammar/n3/muodostus
+
+普通形 + かな :: Esim. お父さんの誕生日のプレゼントは何がいいかな。 (mahtaisiko ... olla hyvä)
+N + かな :: Esim. ピンクのセーターはどうかな。
+V (意向形) + かな :: Esim. お祭りに行こうかな。 (taidanpa mennä festivaalille)
+
+#flashcards/grammar/n3/nyanssi
+
+Kenelle かな-kysymys on osoitettu?
+?
+Itselle ääneen miettien, ei suoraan kuulijalle; kuulija voi silti osallistua pohdintaan.
+
+Minkä sävyn 意向形 + かな (行こうかな) antaa?
+?
+Vielä päättämätön aikomus: 'taidanpa mennä, tai sitten en'.
+
+Missä rekisterissä かな sopii käytettäväksi?
+?
+Puhtaasti puhekielessä: itsekseen mietiskelyyn tai rentoon yhteiseen pohdintaan ystävien kesken.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten かな eroaa 普通形のだろうか:sta?
+?
+Molemmat ovat pohdiskelevia; かな on arkinen ja puhuttu, のだろうか on muodollinen ja kirjallinen (esseet, pohdiskelevat tekstit).
+
+#flashcards/grammar/n3/vertailu
+
+普通形かな (similar/compare) :: 普通形のだろうか (kirjallinen pohdiskeleva kysymys)

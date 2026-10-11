@@ -56,3 +56,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on ようとしない:llä ja 〜ない:llä (esim. 聞こうとしない vs. 聞かない)?
 ?
 聞こうとしない korostaa aktiivista haluttomuutta edes yrittää; 聞かない on neutraalimpi toteamus siitä ettei kuuntele.
+
+#flashcards/grammar/n3/muodostus
+
+V(意向形)とする + keskeytynyt yritys :: Tahtomuoto よう + とした + とき/ら. 例: 電話に出ようとしたら、切れてしまった。
+V(意向形)とする + epäonnistunut yritys :: Tahtomuoto よう + としたが、〜られない. 例: 彼女のことを忘れようとしたが、忘れられない。
+V(意向形)とする + kieltäytyminen yrittämästä :: Tahtomuoto よう + としない. 例: 彼はほかの人の意見を聞こうとしない。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä ようとしたとき/たら korostaa?
+?
+Ajallista keskeytystä: yritys oli juuri alkamassa, kun jotain muuta tapahtui.
+
+Mitä ようとしない kuvaa?
+?
+Jatkuvaa asennetta tai luonnetta: henkilö ei ole edes halukas yrittämään, ei vain epäonnistunut kerran.
+
+Miten ようとする eroaa muodosta たい?
+?
+たい on suora halu; ようとする korostaa yrittämisen tekoa tai hetkeä, usein juuri ennen epäonnistumista tai keskeytystä.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ようとした eroaa muodosta つもりだった?
+?
+ようとした kertoo itse yrittämisen hetkestä; つもりだった suunnitelmasta joka jäi tekemättä.
+
+Mikä rakenne kuvaa epäonnistunutta yritystä (やめようとしたんですが、やめられなかった)?
+?
+ようとする (yritti) yhdessä potentiaalin kieltomuodon られない kanssa (ei onnistunut).

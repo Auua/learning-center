@@ -54,3 +54,23 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Missä である:ta EI koskaan käytetä?
 ?
 Puhutussa kielessä — se on rajattu kirjoitettuun, muodolliseen tekstiin (essee, uutinen, tietosanakirja).
+
+#flashcards/grammar/n3/muodostus
+
+N + である／であった :: N + である (menneessä であった) — esim. 地球は宇宙で最も美しい星の一つである。20世紀は戦争の世紀であった。
+な-adjektiivi + であってほしい :: な-adj + であってほしい — esim. 21世紀は平和であってほしい。
+〜のである (painotus) :: 普通形 + のである — esim. 世界中の人々が平和を願っているのである。
+
+#flashcards/grammar/n3/nyanssi
+
+Missä rekisterissä ～である toimii?
+?
+Vain kirjoitetussa, muodollisessa tekstissä (esseet, tutkielmat, artikkelit, tietosanakirjat); puheessa です/だ.
+
+Miten い-adjektiivi liittyy ～である-rakenteeseen?
+?
+Muuttumattomana: 美しい星である, ei ×美しいである.
+
+Mitä のである tekee kirjoitetussa tekstissä?
+?
+Kirjallinen korostusrakenne, samantyyppinen kuin puhutun んです; päättää usein kappaleen tai perustelee edellä sanotun.

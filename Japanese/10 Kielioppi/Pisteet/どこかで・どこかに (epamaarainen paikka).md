@@ -58,3 +58,25 @@ tags:
 Mitä eroa on どこかで:llä ja どこかに:llä?
 ?
 で = paikka jossa aktiivinen teko tapahtui; に = paikka johon jokin passiivisesti jäi/asettui.
+
+#flashcards/grammar/n4/muodostus
+
+どこか + で :: どこか + で + teko. Esim. どこかで財布をなくしました。 (hukkasin lompakon jossain)
+どこか + に :: どこか + に + jää/asetetaan. Esim. どこかに置き忘れました。 (jäi jonnekin)
+Muut kysymyssanat + か :: だれか (joku), 何か (jokin), いつか (joskus), どれか
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä ero on どこかで ja どこかに välillä?
+?
+で merkitsee paikkaa, jossa toiminta tapahtui (aktiivinen teko); に merkitsee paikkaa, johon jokin jäi tai asettui (passiivinen sijainti).
+
+Mitä か-liite tekee kysymyssanalle (どこ → どこか)?
+?
+Tekee siitä epämääräisen viittauksen ('jossain, en tiedä missä'); sama periaate toimii kaikilla kysymyssanoilla.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten どこか eroaa どこでも:sta?
+?
+か-liite on epämääräinen ('jossain, en tiedä'); でも-liite kattaa kaiken poikkeuksetta ('missä tahansa'). Sama pätee 何か/何でも, だれか/だれでも, いつか/いつでも.

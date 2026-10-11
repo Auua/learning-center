@@ -57,3 +57,29 @@ Vertailu [[N1とN2 (ja)]]: と = "täsmälleen nämä kaikki", や［など］ =
 手紙や写真があります vs 手紙と写真があります — ero?
 ?
 や: laatikossa on kirjeitä, valokuvia ja mahdollisesti muuta (esimerkkejä). と: laatikossa on tismalleen kirjeitä ja valokuvia, ei mitään muuta.
+
+#flashcards/grammar/n5/muodostus
+
+N1やN2［など］ + substantiivit :: N1 や N2 = esimerkkejä, ei täydellinen lista. Esim. 箱の中に手紙や写真があります。
+N1やN2［など］ + など :: N1 や N2 など = lista jatkuu selvästi. Esim. 箱の中に手紙や写真などがあります。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä など tekee N1やN2［など］-rakenteessa?
+?
+Valinnainen, mutta tekee listan epätäydellisyyden yksiselitteisemmäksi.
+
+Milloin N1やN2［など］ ei käytetä?
+?
+Kun lista on tarkoituksella tyhjentävä; silloin と.
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: と vai や［など］, kun luetellaan substantiiveja?
+?
+と = täsmälleen nämä kaikki (täydellinen lista); や［など］ = näitä esimerkkeinä, on muitakin.
+
+#flashcards/grammar/n5/vertailu
+
+N1やN2［など］ (similar) :: N1とN2 (ja)
+N1やN2［など］ (similar/compare) :: ～とか～とか (epamuodollinen esimerkkilista)

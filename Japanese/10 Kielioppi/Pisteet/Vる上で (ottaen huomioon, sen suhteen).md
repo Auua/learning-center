@@ -48,3 +48,23 @@ tags: [grammar/perusrakenne, jlpt/n2]
 人間が成長する＿＿、愛情は欠かせないものだ。(toiminnan/prosessin konteksti)
 ?
 上で — "sen suhteen kun", vaatii verbin, kuvaa prosessia jonka aikana jokin on tärkeää.
+
+#flashcards/grammar/n2/muodostus
+
+V辞書形＋上で + mihin liittyy? :: V辞書形 + 上で. Esim. 人間が成長する上で、愛情は欠かせない.
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä sanaluokkaa V辞書形／Nの＋上で vaatii edellään ja mitä se ilmaisee?
+?
+Verbin sanakirjamuodon; kuvaa toimintaa tai prosessia, jonka puitteissa jokin seikka on tärkeä.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten V辞書形＋上で eroaa rakenteesta N上 (教育上, 安全上)?
+?
+V辞書形＋上で vaatii verbin ja kuvaa prosessia, jonka puitteissa jokin pätee; N上 on kiinteä liite abstrakteille substantiiveille ilman verbiä.
+
+#flashcards/grammar/n2/vertailu
+
+V辞書形／Nの＋上で (similar/compare) :: N上 (jonkin kannalta)

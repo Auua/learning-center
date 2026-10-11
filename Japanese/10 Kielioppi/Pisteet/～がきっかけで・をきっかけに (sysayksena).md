@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n2]
 小学生の頃プラネタリウムを見た＿＿＿＿＿＿、宇宙に興味を持つようになった。(pysyvän muutoksen alkusysäys)
 ?
 ことがきっかけで — pieni tapahtuma joka johti pysyvään kiinnostuksen/tavan muutokseen.
+
+#flashcards/grammar/n2/muodostus
+
+N / 普通形の + がきっかけで :: N + がきっかけで — esim. 小学生の頃プラネタリウムを見たことがきっかけで、宇宙に興味を持つようになった。
+N + をきっかけに :: N + をきっかけに — esim. 今回のビル火災をきっかけに、各階にスプリンクラーの設置が義務づけられた。
+
+#flashcards/grammar/n2/nyanssi
+
+Millainen jälkilause tyypillisesti seuraa 〜がきっかけで・をきっかけに -rakennetta?
+?
+Lähes aina 〜ようになる: pysyvä muutos tapaan tai kiinnostukseen; kyse on käännekohdasta, ei hetkellisestä seurauksesta.
+
+Miten がきっかけで ja をきっかけに eroavat käyttösävyltään?
+?
+がきっかけで on henkilökohtaisempi (oma tarina); をきっかけに sopii myös laajempiin, yhteiskunnallisiin muutoksiin (火災をきっかけに法律が変わった).

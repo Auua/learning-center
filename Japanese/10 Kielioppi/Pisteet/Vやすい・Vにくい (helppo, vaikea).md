@@ -53,3 +53,24 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Mitä eroa on 使いやすい:n kahdella mahdollisella merkityksellä?
 ?
 (1) "Helppo minulle käyttää" (tekijän näkökulma) tai (2) esineen oma taipumus/ominaisuus — konteksti ratkaisee kumpi on kyseessä.
+
+#flashcards/grammar/n4/muodostus
+
+V(ます-vartalo)やすい :: ます-vartalo + やすい — helppo tehdä tai altis. 例: このパソコンは使いやすいです。 / 白いシャツは汚れやすいです。
+V(ます-vartalo)にくい :: ます-vartalo + にくい — vaikea tehdä tai ei helposti tapahdu. 例: 東京は住みにくいです。 / 雨の日は洗濯物が乾きにくい。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten Vやすい・Vにくい taipuvat?
+?
+Kuten tavalliset い-adjektiivit: 使いやすくなります, 割れにくくて、安全です.
+
+Mitkä kaksi merkitystä Vやすい・Vにくい:llä on ja miten ne erotetaan?
+?
+(1) tekijän näkökulmasta helppo/vaikea tehdä (使いやすい); (2) kohteen oma taipumus (汚れやすい). Konteksti ratkaisee.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten Vやすい eroaa potentiaalimuodosta?
+?
+やすい/にくい kertoo helppoudesta tai taipumuksesta, ei kyvystä tai mahdollisuudesta: 使いやすい ei tarkoita 'voin käyttää' vaan 'on helppo käyttää'.

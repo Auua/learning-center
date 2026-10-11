@@ -58,3 +58,28 @@ Tätä kevyttä substantiivi-etuliitettä ei pidä sekoittaa myöhempiin verbika
 お国 — miksi ei koskaan わたしのお国?
 ?
 お-etuliite on kunnioittava, ei koskaan omasta asiasta — omasta maasta sanotaan pelkkä 国.
+
+#flashcards/grammar/n5/muodostus
+
+お～ + mihin sanaan liitetään? :: お + kuulijaan tai kolmanteen henkilöön liittyvä sana. Esim. お国, お名前.
+
+#flashcards/grammar/n5/nyanssi
+
+Voiko お～ liittää omaan sanaan kunnioituksen merkiksi (×わたしのお国)?
+?
+Ei; aidossa kunnioituksessa ei omaan itseen liittyvään sanaan.
+
+Mitä 美化語 tarkoittaa お～-etuliitteen yhteydessä?
+?
+Vakiintunut kaunistava käyttö (お酒, お花見, おちゃ, おかね), jossa お voi liittyä omaankin tekemiseen: わたしはお酒を飲みます.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten substantiivietuliite お～ eroaa kaavoista お～になる ja お～する?
+?
+Ne käyttävät samaa お:ta, mutta rakentavat sen ympärille kokonaisen verbimuodon: になる toisen teko, する oma teko; etuliite vain nostaa substantiivia.
+
+#flashcards/grammar/n5/vertailu
+
+お～ (similar) :: お～になる (kunnioittava toisen teko)
+お～ (similar) :: お～する (nöyrä oma teko)

@@ -55,3 +55,30 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miksi ×彼は日本へ行きたいです on epäluonnollinen?
 ?
 たい sopii vain 1. persoonan omalle halulle suorassa toteamuksessa; kolmannesta persoonasta käytetään たがっている/たがる.
+
+#flashcards/grammar/n3/muodostus
+
+V たい-vartalo + たがる (toistuva halu) :: Vたい-vartalo + がる — esim. 父は新しい製品が出ると、すぐに買いたがります。
+V + たがっている (juuri nyt havaittu halu) :: Vたい-vartalo + がっている — esim. 娘は歌手になりたがっています。
+V ない-vartalo + たがらない (haluttomuus) :: Vたがらない — esim. 最近、結婚したがらない若者が増えています。
+Tunneadjektiivi/欲しい + がる :: い-adj-vartalo + がる — esim. 母はとても不安がります／子どもは友達の物を欲しがります。
+
+#flashcards/grammar/n3/nyanssi
+
+Milloin たがる/たがっている on pakollinen たい:n sijaan?
+?
+Kun kuvataan jonkun muun kuin puhujan halua suorassa toteamuksessa (×彼は行きたいです on epäluonnollinen).
+
+Mitä がる-pääte kertoo puhujan tiedosta toisen tunteesta (～たがる)?
+?
+Se korostaa ulkoista havaintoa: puhuja päättelee toisen tunteen käytöksestä tai ilmeestä, ei tiedä sitä varmasti.
+
+Millä muilla adjektiiveilla がる toimii kuin たい-muodolla?
+?
+Tunneadjektiiveilla: 恥ずかしがる (näyttää nolostuneelta), 残念がる (pettyneeltä), 痛がる (kipeältä).
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi: 恥ずかしがっています vai 恥ずかしいです?
+?
+Persoona ratkaisee: ulkoisesti havaittu toisen tila → がっています; oma suora tunnekokemus → 恥ずかしいです.

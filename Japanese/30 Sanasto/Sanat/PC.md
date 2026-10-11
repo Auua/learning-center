@@ -27,5 +27,8 @@ tags: [vocab, jlpt/n2]
 - 
 
 ## Kortit
-#flashcards/vocab
-PC::ピーシー — tietokone (henkilökohtainen)
+#flashcards/vocab/n2
+
+PC :: ピーシー - tietokone (henkilökohtainen)
+ピーシー :: PC - tietokone (henkilökohtainen)
+tietokone (henkilökohtainen) :: PC - ピーシー

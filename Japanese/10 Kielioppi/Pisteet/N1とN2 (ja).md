@@ -56,6 +56,31 @@ Vertailu: [[～と (aina kun, väistämätön seuraus)]] (N4, [[Minna no Nihongo
 ?
 Yhdistää kaksi substantiivia täydelliseksi listaksi: "lauantai JA sunnuntai" (ei mitään muuta).
 
-Miten tämä と eroaa myöhemmin opittavasta [[～と (aina kun, väistämätön seuraus)]]-kieliopista?
+Miten tämä と eroaa myöhemmin opittavasta ～と (aina kun, väistämätön seuraus)-kieliopista?
 ?
 Tämä と yhdistää substantiiveja (N1とN2). Myöhempi ～と yhdistää lauseita ja tarkoittaa "aina kun X tapahtuu, Y seuraa automaattisesti."
+
+#flashcards/grammar/n5/muodostus
+
+N1とN2 + kaksi substantiivia :: N1 と N2. Esim. 土曜日と日曜日
+N1とN2 + useampi substantiivi :: N1 と N2 と N3 — sama kaava jatkuu.
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä N1とN2 listaa, ja mitä käytetään epätäydelliselle listalle?
+?
+と listaa kaiken (täydellinen lista); esimerkkilistaan käytetään 〜や〜（など）.
+
+Mitä N1とN2 yhdistää ja mitä ei?
+?
+Vain substantiiveja, ei lauseita.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten N1とN2 (ja) と eroaa lauseita yhdistävästä ～と (aina kun)?
+?
+N1とN2:n と listaa substantiiveja ('A ja B'); ～と (N4) yhdistää lauseita merkityksessä 'aina kun X, niin Y'.
+
+#flashcards/grammar/n5/vertailu
+
+N1とN2 (similar) :: ～と (aina kun, väistämätön seuraus)

@@ -54,3 +54,31 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on たて:llä ja たばかり:lla?
 ?
 たて on rajoittuneempi ja korostaa tuoreutta (usein ruoka, elämäntilanteet); たばかり on yleiskäyttöisempi mille tahansa juuri tapahtuneelle teolle.
+
+#flashcards/grammar/n3/muodostus
+
+Vたて + verbi (ます-vartalo) :: V(ます-vartalo) + たて（の＋N）. Esim. しぼりたての牛乳はおいしい。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä Vたて korostaa?
+?
+Tuoreutta ja juuri tapahtunutta alkua: tila on vielä hyvin uusi, ei vain mennyt teko.
+
+Missä yhteyksissä Vたて yleisimmin esiintyy?
+?
+Ruoka-aiheissa (焼きたて, しぼりたて), mutta myös elämäntilanteissa (来日したて, 入社したて, 結婚したて).
+
+Mikä partikkeli tarvitaan Vたて:n ja seuraavan substantiivin väliin?
+?
+の: 焼きたてのパン.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten Vたて eroaa Vたばかりです:sta?
+?
+たばかり on yleiskäyttöisempi ja kuvaa mitä tahansa juuri tapahtunutta tekoa (来たばかりです); たて on rajoittuneempi kiinteisiin ilmauksiin ja korostaa tuoreutta/uutuutta tilana.
+
+#flashcards/grammar/n3/vertailu
+
+V(ます-vartalo)＋たて (similar/compare) :: Vたばかりです (juuri askettain)

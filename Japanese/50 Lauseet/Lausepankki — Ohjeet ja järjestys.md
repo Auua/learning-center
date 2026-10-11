@@ -15,6 +15,7 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 **JA** わたしがするとおりに、踊ってください。
 **FI** Tanssikaa juuri niin kuin minä teen.
 **Kielioppi** [[〜とおりに (juuri niin kuin)]] · 辞書形, samanaikainen jäljittely.
+**Ääni** ![[tts_5017e46526d1.m4a]]
 ^ohje1
 
 ---
@@ -22,6 +23,7 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 **JA** この テーブルは自分で組み立てるんですか。……ええ、説明書のとおりに、組み立ててください。簡単です。
 **FI** Kootaanko tämä pöytä itse? ...Kyllä, kootkaa se ohjekirjan mukaan. Se on helppoa.
 **Kielioppi** [[〜とおりに (juuri niin kuin)]] · N + の + とおりに.
+**Ääni** ![[tts_624883d30c02.m4a]]
 ^ohje2
 
 ---
@@ -29,6 +31,7 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 **JA** ごはんを食べたあとで、歯を磨きます。
 **FI** Pesen hampaani syötyäni.
 **Kielioppi** [[Vたあとで (sen jalkeen kun)]] · た形.
+**Ääni** ![[tts_a2aa6a6c619f.m4a]]
 ^ohje3
 
 ---
@@ -36,6 +39,7 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 **JA** 甘いお菓子を食べたあとで、お茶を飲むと、おいしいんですよ。
 **FI** Kun juo teetä makean makeisen syömisen jälkeen, se maistuu hyvältä.
 **Kielioppi** [[Vたあとで (sen jalkeen kun)]] · [[～と (aina kun, väistämätön seuraus)]]
+**Ääni** ![[tts_0134364de5a7.m4a]]
 ^ohje4
 
 ---
@@ -43,6 +47,7 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 **JA** これはしょうゆをつけるんですか。……いいえ、何もつけないで食べてください。
 **FI** Laitetaanko tähän soijakastiketta? ...Ei, syökää ilman mitään lisäämättä.
 **Kielioppi** [[Vて・Vないで (tapa, keino)]] · ないで, tapa/keino.
+**Ääni** ![[tts_f024e540bc53.m4a]]
 ^ohje5
 
 ---
@@ -50,6 +55,7 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 **JA** 少し細くなりましたね。ダイエットしたんですか。……いいえ。バスに乗らないで、駅まで歩いているんです。
 **FI** Olette laihtunut vähän. Oletteko dieetillä? ...En. Kävelen asemalle ottamatta bussia.
 **Kielioppi** [[Vて・Vないで (tapa, keino)]] · [[～ている (parhaillaan, tilan tulos)]], toistuva tapa.
+**Ääni** ![[tts_a8fcd30d90b1.m4a]]
 ^ohje6
 
 ---
@@ -57,6 +63,7 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 **JA** どこで財布を落としたんですか。……わかりません。うちへ帰ったあとで、気がついたんです。
 **FI** Missä hukkasitte lompakkonne? ...En tiedä. Huomasin sen kotiin palattuani.
 **Kielioppi** [[Vたあとで (sen jalkeen kun)]] · 気がつく.
+**Ääni** ![[tts_42c6c2863d76.m4a]]
 ^ohje7
 
 ---
@@ -64,4 +71,58 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 **JA** 甘いお菓子を先にどうぞ。……えっ、先にお菓子を食べるんですか。……ええ。甘いお菓子を食べたあとで、お茶を飲むと、おいしいんですよ。
 **FI** Olkaa hyvä, syökää makeinen ensin. ...Mitä, syödäänkö makeinen ensin? ...Niin, kun juo teetä sen jälkeen kun on syönyt makean makeisen, se maistuu hyvältä.
 **Kielioppi** [[Vたあとで (sen jalkeen kun)]]
+**Ääni** ![[tts_6fdb658cc4c5.m4a]]
 ^ohje8
+
+## Kortit
+<!-- lausekortit:alku -->
+#flashcards/lauseet
+
+わたしがするとおりに、踊ってください。
+[[〜とおりに (juuri niin kuin)]]
+??
+Tanssikaa juuri niin kuin minä teen.
+[[〜とおりに (juuri niin kuin)]]
+
+この テーブルは自分で組み立てるんですか。……ええ、説明書のとおりに、組み立ててください。簡単です。
+[[〜とおりに (juuri niin kuin)]]
+??
+Kootaanko tämä pöytä itse? ...Kyllä, kootkaa se ohjekirjan mukaan. Se on helppoa.
+[[〜とおりに (juuri niin kuin)]]
+
+ごはんを食べたあとで、歯を磨きます。
+[[Vたあとで (sen jalkeen kun)]]
+??
+Pesen hampaani syötyäni.
+[[Vたあとで (sen jalkeen kun)]]
+
+甘いお菓子を食べたあとで、お茶を飲むと、おいしいんですよ。
+[[Vたあとで (sen jalkeen kun)]]
+??
+Kun juo teetä makean makeisen syömisen jälkeen, se maistuu hyvältä.
+[[Vたあとで (sen jalkeen kun)]]
+
+これはしょうゆをつけるんですか。……いいえ、何もつけないで食べてください。
+[[Vて・Vないで (tapa, keino)]]
+??
+Laitetaanko tähän soijakastiketta? ...Ei, syökää ilman mitään lisäämättä.
+[[Vて・Vないで (tapa, keino)]]
+
+少し細くなりましたね。ダイエットしたんですか。……いいえ。バスに乗らないで、駅まで歩いているんです。
+[[Vて・Vないで (tapa, keino)]]
+??
+Olette laihtunut vähän. Oletteko dieetillä? ...En. Kävelen asemalle ottamatta bussia.
+[[Vて・Vないで (tapa, keino)]]
+
+どこで財布を落としたんですか。……わかりません。うちへ帰ったあとで、気がついたんです。
+[[Vたあとで (sen jalkeen kun)]]
+??
+Missä hukkasitte lompakkonne? ...En tiedä. Huomasin sen kotiin palattuani.
+[[Vたあとで (sen jalkeen kun)]]
+
+甘いお菓子を先にどうぞ。……えっ、先にお菓子を食べるんですか。……ええ。甘いお菓子を食べたあとで、お茶を飲むと、おいしいんですよ。
+[[Vたあとで (sen jalkeen kun)]]
+??
+Olkaa hyvä, syökää makeinen ensin. ...Mitä, syödäänkö makeinen ensin? ...Niin, kun juo teetä sen jälkeen kun on syönyt makean makeisen, se maistuu hyvältä.
+[[Vたあとで (sen jalkeen kun)]]
+<!-- lausekortit:loppu -->

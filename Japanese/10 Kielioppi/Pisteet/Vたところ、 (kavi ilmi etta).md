@@ -50,3 +50,24 @@ tags: [grammar/perusrakenne, jlpt/n2]
 不審に思って振込口座名を調べた＿＿＿＿、既に口座は閉じられていた。(toiminnan seurauksena tehty havainto)
 ?
 ところ、 — "kun tein X, kävi ilmi että Y", looginen seuraus/havainto.
+
+#flashcards/grammar/n2/muodostus
+
+Vたところ、 + verbi (た形) :: V(た形) + ところ、+ havainto. Esim. 身分証明書が必要かどうか確かめたところ、不要だということだった。
+
+#flashcards/grammar/n2/nyanssi
+
+Millainen on jälkilause rakenteessa Vたところ、?
+?
+Puhujan tahdosta riippumaton havainto tai tulos, ei suunniteltu seuraus; usein yllättävä löytö tutkimuksen tai kyselyn jälkeen.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten Vたところ、 eroaa muodosta Vたところに・で?
+?
+Pilkullinen ところ、 on looginen seuraus/havainto (調べたところ、〜ことが分かった); ところに／で on ajallinen tai paikallinen yhteensattuma (シャワーを浴びているところに電話が鳴った).
+
+#flashcards/grammar/n2/vertailu
+
+V(た形)＋ところ、 (similar/compare) :: Vたところに・で (juuri siina kohdassa)
+V(た形)＋ところ、 (compare) :: ～たら、～た (odottamaton löytö)

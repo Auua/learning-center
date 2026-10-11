@@ -22,10 +22,15 @@ tags: [vocab, jlpt/n3]
 ## Merkitys
 - **FI:** H. G. Wells (brittiläinen kirjailija, 1866–1946)
 - **EN:** H. G. Wells, British author (1866-1946)
+- **Ääni:** ![[tts_290225836d1c.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 
 
 ## Kortit
-#flashcards/vocab
-H.G.ウェルズ::エイチジーウェルズ — H. G. Wells (brittiläinen kirjailija, 1866–1946)
+#flashcards/vocab/n3
+
+H.G.ウェルズ :: エイチジーウェルズ - H. G. Wells (brittiläinen kirjailija, 1866–1946)
+エイチジーウェルズ :: H.G.ウェルズ - H. G. Wells (brittiläinen kirjailija, 1866–1946)
+H. G. Wells (brittiläinen kirjailija, 1866–1946) :: H.G.ウェルズ - エイチジーウェルズ
+![[tts_290225836d1c.m4a]] ::: H.G.ウェルズ - H. G. Wells (brittiläinen kirjailija, 1866–1946)

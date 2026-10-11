@@ -49,3 +49,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 世界の若者が＿＿＿＿、環境問題について話し合った。(集まる, kirjallinen luettelointi)
 ?
 集まり — ます-vartalo peräkkäisen kirjallisen luetteloinnin ensimmäisenä osana, ei て-muoto.
+
+#flashcards/grammar/n3/muodostus
+
+連用中止形 + verbi :: V(ます-vartalo)、V(ます-vartalo)、V(loppumuoto). Esim. 世界の若者が集まり、環境問題について話し合った。
+連用中止形 + い-adjektiivi :: い-adj (い→く)、い-adj(く)、… Esim. 摩周湖は、深く、青く、静かで、絵のように美しかった。
+連用中止形 + 〜ている :: V(ている→ており). Esim. 東京にはさまざまな国の人が住んでおり、外国語を聞く機会が多い。
+
+#flashcards/grammar/n3/nyanssi
+
+Missä rekisterissä 連用中止形 on käytössä?
+?
+Vain kirjoitetussa, muodollisessa tekstissä (esseet, uutiset, kuvaukset); ei koskaan puhekielessä.
+
+Miten ～ている muuttuu 連用中止形-rekisterissä?
+?
+Muotoon ～ており: 住んでいる → 住んでおり.
+
+Mihin 連用中止形:aa usein käytetään?
+?
+Kolmen tai useamman asian listaamiseen peräkkäin tyylikkäämmin kuin て-muodolla.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten 連用中止形 eroaa Vて、Vて-peräkkäisyydestä?
+?
+Idea on sama, mutta て-muoto on puhutun/yleisen kielen versio; 連用中止形 on sen muodollinen kirjallinen vastine.
+
+#flashcards/grammar/n3/vertailu
+
+V(ます-vartalo)、〜／い-adj(くて→く)、〜（連用中止形） (similar/compare) :: Vて、Vて (peräkkäisyys)

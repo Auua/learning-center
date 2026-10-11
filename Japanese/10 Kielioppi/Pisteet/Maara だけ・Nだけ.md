@@ -59,3 +59,25 @@ Kun だけ rajaa kokonaisen teon ja lisää riittävyyden ("vain tämä riittä�
 休みは日曜日だけです。 — mitä だけ rajaa?
 ?
 Vapaapäiviä on täsmälleen yksi (sunnuntai), ei muita — だけ sulkee pois kaikki muut vaihtoehdot.
+
+#flashcards/grammar/n5/muodostus
+
+数量だけ／Nだけ + luku+luokittelija :: Luku+luokittelija + だけ. Esim. 外国人の社員が1人だけいます。
+数量だけ／Nだけ + substantiivi :: N + だけ. Esim. 休みは日曜日だけです。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä 数量だけ／Nだけ rajaa?
+?
+Määrän tai asian täsmälleen sanottuun: 'vain tämä, ei muuta eikä enempää'.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten 数量だけ／Nだけ eroaa Nしか Vませんistä?
+?
+しか vaatii aina kielteisen predikaatin ja on tunnepitoisempi ('valitettavan vähän'); だけ toimii myönteisenä ja kielteisenä ja on neutraali.
+
+#flashcards/grammar/n5/vertailu
+
+数量だけ／Nだけ (similar/compare) :: ～だけだ・ただ～だけでいい (vain se riittää)
+数量だけ／Nだけ (compare) :: Nしか Vません (vain, pelkastaan)

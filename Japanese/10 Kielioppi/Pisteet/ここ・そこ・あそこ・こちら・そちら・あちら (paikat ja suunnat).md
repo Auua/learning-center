@@ -67,3 +67,32 @@ Kun halutaan olla kohteliaampi, esim. asiakaspalvelutilanteessa tai puhuttaessa 
 どちら voi kysyä kahta asiaa — mitä?
 ?
 Sekä suuntaa/paikkaa (kohteliaasti) että organisaation/koulun/kotimaan nimeä: 会社はどちらですか。
+
+#flashcards/grammar/n5/muodostus
+
+ここ・そこ・あそこ + paikka (lähellä puhujaa / kuulijaa / kaukana) :: ここ (puhujan lähellä), そこ (kuulijan lähellä), あそこ (kaukana molemmista), kysymys どこ.
+こちら・そちら・あちら + suunta tai kohtelias paikka :: こちら, そちら, あちら, kysymys どちら; puhekielinen こっち・そっち・あっち・どっち.
+
+#flashcards/grammar/n5/nyanssi
+
+Miksi こちら-sarja eroaa ここ-sarjasta kun viitataan paikkaan?
+?
+こちら/そちら/あちら on kohteliaampi, sopii asiakaspalveluun.
+
+Milloin こっち/そっち/あっち/どっち sopii?
+?
+Puhekielinen, rento; läheisille ystäville, ei asiakaspalveluun.
+
+Mitä どこ ja どちら voivat kysyä paikan lisäksi?
+?
+Organisaation, koulun tai yrityksen nimeä; eivät esineitä (silloin どの/どれ).
+
+#flashcards/grammar/n5/sekaannus
+
+Miten ここ・そこ・あそこ eroaa sarjasta これ・それ・あれ?
+?
+Sama etäisyysjärjestelmä, mutta これ-sarja koskee esineitä ja ここ-sarja paikkoja/suuntia.
+
+#flashcards/grammar/n5/vertailu
+
+ここ・そこ・あそこ／こちら・そちら・あちら (similar) :: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)

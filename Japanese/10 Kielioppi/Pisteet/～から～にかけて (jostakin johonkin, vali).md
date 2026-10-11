@@ -45,3 +45,22 @@ tags: [grammar/perusrakenne, jlpt/n2]
 秋から翌年＿＿＿＿4か月間ロボットづくりをさせる。(epätarkka, jatkuva aikaväli)
 ?
 にかけて — "jostakin johonkin", epätarkka jatkuva/toistuva aika-/paikkaväli.
+
+#flashcards/grammar/n2/muodostus
+
+N1（aika）から N2（aika）にかけて + lause :: N1（aika）から N2（aika）にかけて — esim. 台風8号は今夜から明日にかけて上陸する見込みです。
+N1（paikka）から N2（paikka）にかけて + lause :: N1（paikka）から N2（paikka）にかけて — esim. 関東から東北にかけていろいろな都市でコンサートを開いた。
+
+#flashcards/grammar/n2/nyanssi
+
+Miten N1 から N2 にかけて eroaa まで:sta välin kuvauksessa?
+?
+まで merkitsee tarkkaa päättymispistettä (5時まで); にかけて kuvaa epätarkkaa, jatkuvaa tai toistuvaa väliä ilman selvää alkua ja loppua.
+
+Millaiseen tapahtumaan N1 から N2 にかけて sopii?
+?
+Laajempaan, usein toistuvaan ilmiöön (sää, tapahtumasarja), ei yksittäiseen kertaluontoiseen tapahtumaan.
+
+#flashcards/grammar/n2/vertailu
+
+N1（aika／paikka）から　N2にかけて (similar) :: N（aika）までに (määräaika)

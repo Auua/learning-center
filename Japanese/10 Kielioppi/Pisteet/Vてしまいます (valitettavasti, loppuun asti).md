@@ -66,3 +66,29 @@ tags:
 すみません。この手紙を＿＿＿＿＿＿から、お先にどうぞ。(書く)
 ?
 書いてしまいます — tässä ei valitus vaan "saan kirjoitettua loppuun", tahdonalainen saavutus.
+
+#flashcards/grammar/n4/muodostus
+
+Vて-form しまいます + verbi (loppuun asti) :: V(て-muoto) + しまいます. 例: この手紙を書いてしまいますから、お先にどうぞ。
+Vて-form しまいます + verbi (valitettava vahinko) :: V(て-muoto) + しまいました. 例: 電車に傘を忘れてしまいました。
+Vて-form しまいます + puhekielinen lyhennys :: 忘れてしまった → 忘れちゃった, 飲んでしまった → 飲んじゃった.
+
+#flashcards/grammar/n4/nyanssi
+
+Miten tunnistat, onko Vて-form しまいます 'loppuun asti' vai 'valitettavasti'?
+?
+Kontekstista: tahdonalainen verbi ja saavutus tarkoittaa loppuun asti; vahinko, myöhästyminen, unohtaminen tai menetys tarkoittaa valitettavasti.
+
+Mihin rakenteeseen Vて-form しまいます (valitettavasti) usein yhdistyy?
+?
+ん-です-selitykseen: ～てしまったんですが, pahoitteleva sävy pyynnön tai valituksen edellä.
+
+Missä Vて-form しまいます:n puhekielinen ちゃう/じゃう ei sovi?
+?
+Kirjoitettuun kieleen eikä JLPT-vastaukseksi. じゃう tulee でしまう-verbeistä.
+
+#flashcards/grammar/n4/sekaannus
+
+Pitääkö Vて-form しまいます aina kääntää 'valitettavasti'?
+?
+Ei; neutraalissa saavutuksessa (kirje kirjoitettu loppuun) merkitys on 'saan tehtyä valmiiksi', ei valitus.

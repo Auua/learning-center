@@ -47,3 +47,18 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+ちょっと使い方を教えてください。 ::: Voisitteko näyttää miten tätä käytetään?
+お引き出しですか。 ::: Nostatteko rahaa?
+まずここを押してください。 ::: Painakaa ensin tästä.
+次に〜。 ::: Seuraavaksi ~.
+それから〜。 ::: Sen jälkeen ~.
+
+#flashcards/setti/teema
+
+Setti — Pankkiautomaatilla: sano ainakin viisi sanaa
+?
+キャッシュカード (pankkikortti), 暗証番号 (PIN-koodi), 金額 (rahasumma), 確認 (vahvistus), ボタン (painike)

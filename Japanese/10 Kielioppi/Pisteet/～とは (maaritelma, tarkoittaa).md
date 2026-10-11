@@ -49,3 +49,27 @@ tags: [grammar/perusrakenne, jlpt/n3]
 夕刊＿＿、夕方に発行する新聞のことだ。(määritelmä)
 ?
 とは — merkitsee määriteltävää käsitettä, tiivis ja hieman muodollinen.
+
+#flashcards/grammar/n3/muodostus
+
+N + とは + määritelmä :: N + とは、普通形 + ことだ — esim. 外食とは、レストランなどで食事をすることだ。／夕刊とは、夕方に発行する新聞のことだ。
+
+#flashcards/grammar/n3/nyanssi
+
+Millaisissa yhteyksissä Nとは toimii?
+?
+Sekä kirjoitetussa määritelmätekstissä (夕刊とは〜のことだ) että retorisessa kysymyksessä, jossa käsitteen merkitystä pohditaan (家族とはいったい何か).
+
+Miten Nとは suhtautuu というのは-rakenteeseen?
+?
+Samaan määrittelyfunktioon, mutta tiiviimpi ja hieman muodollisempi.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ～とは (määritelmä) eroaa ～というのは～のことだ:sta?
+?
+Funktio on sama; というのは on pidempi ja puhekielisempi, とは sen tiivistetty, hieman kirjallisempi vastine.
+
+#flashcards/grammar/n3/vertailu
+
+N＋とは (similar/compare) :: ～というのは～のことだ・ということだ (maaritelma)

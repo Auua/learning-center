@@ -49,3 +49,33 @@ tags: [grammar/perusrakenne, jlpt/n2]
 お嬢さんが近々結婚なさる＿＿。おめでとうございます。(epävarma kuulopuhe, kohtelias konteksti)
 ?
 とか — lauseenloppuinen epävarma kuulopuhepääte, eri kielioppi kuin esimerkkejä listaava とか〜とか.
+
+#flashcards/grammar/n2/muodostus
+
+普通形 + とか (lauseen lopussa) :: Esim. 隣のご主人、2週間前から入院しているとか。 (naapurin isäntä on kuulemma sairaalassa)
+
+#flashcards/grammar/n2/nyanssi
+
+Miten 普通形とか eroaa そうです:sta varmuudessa?
+?
+Epävarmempi ja kevyempi; puhuja ei ole täysin varma tiedon tarkkuudesta tai lähteestä, usein toisen käden tietoa.
+
+Sopiiko 普通形とか kohteliaaseen puheeseen?
+?
+Kyllä, sopii kohteliaan puheen sekaan (なさる jne.), toisin kuin hyvin tuttavallinen んだって.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten lauseen loppuinen とか eroaa muodosta ～とか～とか?
+?
+～とか～とか listaa esimerkkejä (コーヒーとか紅茶とか); lauseen loppuinen とか on epävarma kuulopuhepääte. Täysin eri kielioppi samalla sanalla.
+
+Miten 普通形とか eroaa muodosta 普通形んだって？?
+?
+んだって on tuttavallisempi ja usein kysyvä; とか on epävarmempi ja kevyempi toteamus, sopii myös kohteliaampaan puheeseen.
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋とか (similar) :: 普通形そうです (kuulopuhe)
+普通形＋とか (similar) :: 普通形んだって？ (puhekielinen kuulopuhe)
+普通形＋とか (compare) :: ～とか～とか (epamuodollinen esimerkkilista)

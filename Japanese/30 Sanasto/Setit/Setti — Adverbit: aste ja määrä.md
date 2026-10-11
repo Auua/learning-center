@@ -47,3 +47,20 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+ちっとも ja そんなに: mitä ne vaativat?
+?
+Kielteisen verbin: そんなに寒くなかった, ちっともわからない (sama logiikka kuin あまり).
+
+けっこう: kaksi merkitystä?
+?
+けっこう高い = aika kallis (aste); いいえ、けっこうです = ei kiitos, riittää (kohtelias kieltäytyminen).
+
+#flashcards/setti/teema
+
+Setti — Adverbit: aste ja määrä: sano ainakin viisi sanaa
+?
+すごく (tosi), かなり (melko), ずいぶん (aika lailla), けっこう (melko), だいぶ (huomattavasti), わりと (suhteellisen), 意外と (yllättävän), そんなに (niin (paljon)), こんなに (näin (paljon)), あんなに (noin (paljon)), どんどん (vauhdilla), なるべく (mahdollisimman)…

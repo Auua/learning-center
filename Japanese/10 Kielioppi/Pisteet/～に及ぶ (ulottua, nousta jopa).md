@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n1]
 昨日の国際会議は8時間＿＿＿＿。(yllättävän suuri laajuus/kesto)
 ?
 に及んだ — "ulottui/nousi jopa", korostaa yllättävän suurta lopputulosta.
+
+#flashcards/grammar/n1/muodostus
+
+N に及ぶ + määrä／laajuus :: N + に及ぶ. Esim. 昨日の国際会議は8時間に及んだ。
+N にまで及ぶ + laajentuminen :: N + にまで及ぶ. Esim. 大津波の被害はインドからインドの海岸にまで及んだ。
+
+#flashcards/grammar/n1/nyanssi
+
+Mitä N に及ぶ usein korostaa lopputuloksesta?
+?
+Että tulos on yllättävän suuri tai laaja odotukseen nähden (8時間に及んだ = peräti kahdeksan tuntia).
+
+Mikä pari on tyypillinen ～にとどまらず … にまで及ぶ -rakenteessa?
+?
+"Ei rajoitu X:ään vaan ulottuu jopa Y:hyn", esim. 国内問題にとどまらず国際問題にまで及び.
+
+#flashcards/grammar/n1/sekaannus
+
+Miten N に及ぶ eroaa ～にわたって:sta?
+?
+にわたって korostaa kattavuutta koko ajan/alueen yli tasaisesti; に及ぶ korostaa saavutettua ääriarvoa/laajuutta, usein yllättävän suurta lukua.
+
+#flashcards/grammar/n1/vertailu
+
+N（laajuus）＋に及ぶ・にまで及ぶ (similar/compare) :: ～に［も］わたって (koko ajan・alueen)

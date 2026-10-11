@@ -69,3 +69,38 @@ Syy voidaan ilmoittaa jälkikäteen omana lyhyenä lisäyksenä sen jälkeen kun
 どうしてですか。 — mihin tätä käytetään?
 ?
 Kysytään syytä siihen mitä toinen juuri sanoi, ilman että pitää muotoilla koko kysymystä uudelleen.
+
+#flashcards/grammar/n5/muodostus
+
+S1から、S2 (syy ensin) :: S1（syy）から、S2（seuraus）。 Esim. 時間がありません**から**、新聞を読みません。
+S1から、S2 (syy jälkikäteen) :: S2。S1から。 Syy lisätään erillisenä lauseena perään. Esim. 新聞を読みません。時間がありませんから。
+どうして + S (syyn kysyminen) :: どうして + S か。 Vastaus: S1から。 Esim. どうして新聞を読みませんか。 – 時間がありませんから。
+
+#flashcards/grammar/n5/nyanssi
+
+Voiko S1から、S2 -rakenteessa syyn sanoa myös seurauksen jälkeen?
+?
+Kyllä. から-syy voidaan sanoa ennen seurausta tai sen jälkeen erillisenä lisäyksenä, molemmat ovat luonnollisia.
+
+Mitä tarkoittaa pelkkä どうしてですか?
+?
+Se kysyy syytä johonkin juuri sanottuun ilman, että koko lausetta tarvitsee toistaa.
+
+Missä muussa roolissa S1から voi toimia kuin syylauseena?
+?
+Cleft-rakenteen predikaattina (…のは…からです), jolloin syy on predikaattina.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten S1から eroaa 〜ので-syystä?
+?
+ので ilmaisee syyn pehmeämmin ja objektiivisempana tosiasiana; から on suorempi ja korostaa henkilökohtaista perustelua.
+
+Miten な-adjektiivi/substantiivi liitetään から:aan verrattuna ので:on?
+?
+から:n edellä on だ, ので:n edellä な (邪魔だから vs. 邪魔なので).
+
+#flashcards/grammar/n5/vertailu
+
+S1から、S2／どうして (similar/compare) :: 〜ので (pehmea syy)
+S1から、S2／どうして (similar) :: ～のは～からだ (syy predikaattina)

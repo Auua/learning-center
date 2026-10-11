@@ -54,3 +54,29 @@ tags: [grammar/keigo, jlpt/n3]
 Miksi kielteinen kysymysmuoto (もらえませんか) on kohteliaampi kuin myöntävä (もらえますか)?
 ?
 Kielteinen muoto antaa kuulijalle näennäisesti helpomman mahdollisuuden kieltäytyä — kohteliaisuuskonventio, ei todellinen epäilys.
+
+#flashcards/grammar/n3/muodostus
+
+〜てもらえませんか + verbi (て-muoto) :: V(て) + もらえませんか (perustaso). Esim. 荷物を降ろすのを手伝ってもらえませんか。
+〜てもらえないでしょうか + verbi (て-muoto) :: V(て) + もらえないでしょうか (kohteliaampi). Esim. この書類の書き方を教えてもらえないでしょうか。
+〜ていただけないでしょうか + verbi (て-muoto) :: V(て) + いただけないでしょうか (erittäin kohtelias). Esim. わたしたちの結婚式でスピーチをしていただけないでしょうか。
+
+#flashcards/grammar/n3/nyanssi
+
+Missä kohteliaisuusjärjestyksessä pyyntömuodot てくれますか, てもらえますか, ていただけますか ja ていただけないでしょうか ovat?
+?
+Nousevasti: てくれますか < てもらえますか (potentiaali pehmentää) < ていただけますか (謙譲語 いただく) < ていただけないでしょうか (kielteinen + でしょうか, epäsuorin ja varovaisin).
+
+Miksi pyynnön edellä kannattaa usein selittää tilanne んですが-muodolla?
+?
+Se vähentää painetta ja tekee pyynnöstä luontevamman: 道に迷ってしまったんですが、ちょっと教えていただけないでしょうか。
+
+Onko てもらえませんか-muodon kielteisyys todellinen kielto?
+?
+Ei, se on kohteliaisuuskonventio, joka antaa kuulijalle näennäisesti helpomman tavan kieltäytyä.
+
+#flashcards/grammar/n3/vertailu
+
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (similar) :: Vてあげます・Vてもらいます・Vてくれます (teon antaminen)
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (similar/compare) :: ご～いただく (kohtelias pyyntö, kiitollisuus)
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (similar/compare) :: させてもらえませんか family (kausatiivinen kohtelias pyynto)

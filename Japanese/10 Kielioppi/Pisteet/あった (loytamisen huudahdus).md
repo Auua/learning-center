@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ワイングラス、どこにしまったかな。あ、＿＿＿＿、＿＿＿＿。(löytämisen huudahdus)
 ?
 あった、あった — た形 käytetään huudahduksena juuri löydetystä asiasta, vaikka tapahtuma on nyt.
+
+#flashcards/grammar/n3/muodostus
+
+あった／いた（huudahdus） + esine :: あ、あった、あった. Esim. ワイングラス、どこにしまったかな。あ、あった、あった.
+あった／いた（huudahdus） + olento :: おー、いた、いた. Esim. チロ! どこにいるんだ。おー、いた、いた.
+
+#flashcards/grammar/n3/nyanssi
+
+Miksi löytämisen huudahduksessa käytetään mennyttä muotoa (あった) vaikka löytyminen tapahtuu nyt?
+?
+Etsitty asia 'oli jo siellä' ennen kuin sen huomasi; sama logiikka kuin わかった.
+
+Miten あった／いた yleensä sanotaan huudahduksena?
+?
+Usein kahdesti (あった、あった／いた、いた) korostamaan helpotusta tai iloa.

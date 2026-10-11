@@ -57,3 +57,25 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miksi 飲んでしまう supistuu muotoon 飲んじゃう eikä 飲んちゃう?
 ?
 でしまう-yhdistelmä soinnillistuu じゃう:ksi (で→じ), koska alkuperäinen oli で- ei て-muotoinen.
+
+#flashcards/grammar/n3/muodostus
+
+てしまう／でしまう → supistuma :: てしまう → ちゃう, でしまう → じゃう — esim. 目が覚めてしまった → 目が覚めちゃった／飲んでしまう → 飲んじゃう
+ておく／でおく → supistuma :: ておく → とく, でおく → どく — esim. つけておいて → つけといて／読んでおく → 読んどく
+ている／でいる → supistuma :: ている → てる, でいる → でる — esim. 続けている → 続けてる／死んでいる → 死んでる
+
+#flashcards/grammar/n3/nyanssi
+
+Mistä riippuu, tuleeko ちゃう・とく・てる -supistumassa ちゃう vai じゃう (とく/どく, てる/でる)?
+?
+Alkuperäisestä て-muodosta: て → ちゃう/とく/てる; で → じゃう/どく/でる.
+
+Voiko ちゃう・とく・てる -supistumia käyttää kirjoitetussa tekstissä?
+?
+Ei: ne ovat puhtaasti puhekielisiä, eivät sovi kirjalliseen tai muodolliseen kieleen; merkitys on sama kuin täydellä muodolla.
+
+#flashcards/grammar/n3/vertailu
+
+～ちゃう・～とく・～てる (similar) :: Vてしまいます (valitettavasti, loppuun asti)
+～ちゃう・～とく・～てる (similar) :: Vておきます (valmistelu etukateen)
+～ちゃう・～とく・～てる (similar) :: ～ている (parhaillaan, tilan tulos)

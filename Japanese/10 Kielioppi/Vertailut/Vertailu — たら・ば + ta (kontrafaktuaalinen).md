@@ -41,3 +41,60 @@ Aikaa EI ollut tarpeeksi, ja tehtävää EI saatu kirjoitettua loppuun — koko 
 Mikä on tunnistemerkki kontrafaktuaaliselle たら/ば-käytölle?
 ?
 Jälkilauseen mennyt aikamuoto (た形, だった, だろう, たのに/んですが) — paljastaa että kyse on jo menneestä, toteutumattomasta tilanteesta.
+
+#flashcards/compare/n3/saanto
+
+Milloin たら/ば-ehto on kontrafaktuaalinen (反事実的用法)?
+?
+Kun jälkilause on menneessä ajassa (た形, だっただろう, たのに) vaikka etulause on たら/ば — lause kuvaa jotain, joka ei todellisuudessa tapahtunut.
+
+Mikä on kontrafaktuaalisen たら/ば-käytön muistisääntö?
+?
+Jälkilauseen mennyt aikamuoto paljastaa, että lause on kuvitelma menneisyydestä eikä tavallinen tulevaisuuteen suuntautuva ehto.
+
+#flashcards/compare/n3/rakenne
+
+たら + た形 + のに (esimerkki) :: もう少し時間があったら、最後まで書けたのに。
+たら + だろう (esimerkki) :: 両親が生きていたら、孫の誕生をとても喜んだだろう。
+ば + た + んですが (esimerkki) :: もう少し安ければ、買ったんですが。
+ていたら + のに (esimerkki) :: あなたが参加していたら、もっと楽しかったのに。
+
+もう少し時間があったら、最後まで書けたのに。 Mikä oli todellisuus?
+?
+Aikaa ei ollut, ei kirjoitettu loppuun.
+
+両親が生きていたら、孫の誕生をとても喜んだだろう。 Mikä oli todellisuus?
+?
+Vanhemmat eivät ole elossa.
+
+もう少し安ければ、買ったんですが。 Mikä oli todellisuus?
+?
+Ei ollut tarpeeksi halpa, ei ostettu.
+
+あなたが参加していたら、もっと楽しかったのに。 Mikä oli todellisuus?
+?
+Et osallistunut.
+
+#flashcards/compare/n3/minimipari
+
+雨が降ったら、行きません vs. 雨が降っていたら、行かなかったのに: mikä ero?
+?
+Edellinen on tulevaisuuden ehto; jälkimmäinen menneisyyden kuvitelma — todellisuudessa ei satanut, joten mentiin.
+
+安ければ、買います vs. 安ければ、買ったんですが: mikä ero?
+?
+Edellinen: avoin mahdollisuus. Jälkimmäinen: mahdollisuus on jo mennyt, ei toteutunut.
+
+#flashcards/compare/n3/testi
+
+もう少し早く＿＿＿、間に合ったのに。(出る)
+?
+出ていたら — kontrafaktuaalinen, jälkilauseessa のに
+
+天気がよかっ＿＿＿、海に行ったんですが。
+?
+たら — toteutumaton mahdollisuus, んですが
+
+お金が＿＿＿、買ったんですが。(ある, ば)
+?
+あれば — ば + た + んですが

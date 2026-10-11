@@ -77,3 +77,40 @@ Muutos on edennyt vähitellen menneisyydestä juuri tähän hetkeen asti — ei 
 Milloin käytetään ていく eikä てくる?
 ?
 Kun muutos jatkuu nykyhetkestä eteenpäin tulevaisuuteen — usein ennusteissa: 増えていくだろう.
+
+#flashcards/grammar/n3/muodostus
+
+Vてくる (muutos menneisyydestä nykyhetkeen) :: V（て形）+ くる — esim. 風がだんだん強くなってきた。
+Vてくる (ilmiön ilmaantuminen/taito kehittyy) :: 聞こえてきた, わかってきますよ.
+Vていく (muutos nykyhetkestä tulevaisuuteen) :: V（て形）+ いく — esim. 旅行をする人が増えていくだろう。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitkä adverbit kuuluvat tyypillisesti ～てくる・～ていく (muutos) -rakenteeseen?
+?
+だんだん, ますます, 少しずつ — ne tekevät asteittaisuuden näkyväksi.
+
+Mihin ～ていく (muutos) tyypillisesti liittyy?
+?
+Tulevaisuuteen katsovaan ennusteeseen (だろう, でしょう, と思われる).
+
+Mitä 日本の生活に慣れてきました ilmaisee (てきた)?
+?
+Kertynyttä muutosta menneisyydestä nykyhetkeen: olen vähitellen tottunut.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ～てくる (muutos) eroaa Vてきます:sta?
+?
+Vてきます on konkreettinen kolmivaiheinen käynti (mennä–tehdä–palata: 買ってきます); muutos-てくる ei liiku mihinkään.
+
+Miten ～てくる・～ていく (muutos) eroaa ～くなります:sta?
+?
+なります kertoo muutoksen tapahtuneen; てくる/ていく lisää siihen asteittaisuuden ja suunnan aikajanalla.
+
+#flashcards/grammar/n3/vertailu
+
+Vてくる／Vていく（muutos） (similar) :: Vてきます (kaynti ja paluu)
+Vてくる／Vていく（muutos） (similar/compare) :: ～てくる・～ていく (liikkeen suunta)
+Vてくる／Vていく（muutos） (similar) :: Vようになります (kyvyn tai tilan muutos)
+Vてくる／Vていく（muutos） (similar) :: ～くなります・～になります (muutos)

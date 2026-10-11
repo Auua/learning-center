@@ -48,3 +48,27 @@ tags: [grammar/perusrakenne, jlpt/n3]
 医者になる＿＿＿＿、国家試験に合格しなければならない。(välttämätön edellytys)
 ?
 ためには — korostaa は:lla että tämä on välttämätön edellytys tavoitteen saavuttamiseksi.
+
+#flashcards/grammar/n3/muodostus
+
+Vためには + verbi (辞書形) :: V辞書形 + ためには、+ välttämätön ehto. Esim. 医者になるためには、国家試験に合格しなければならない。
+
+#flashcards/grammar/n3/nyanssi
+
+Millainen on jälkilause rakenteessa Vためには?
+?
+Lähes aina välttämättömyys tai neuvo (必要だ, なければならない, たほうがいい), ei vapaaehtoinen valinta.
+
+Mitä は lisää rakenteessa ためには?
+?
+は tekee tavoitteesta topiikin ja korostaa sen saavuttamisen välttämätöntä edellytystä.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten Vためには eroaa Vために:sta?
+?
+ために ilman は on neutraali tarkoitusilmaus; ためには korostaa välttämätöntä edellytystä, ja jälkilause on lähes aina pakko tai neuvo.
+
+#flashcards/grammar/n3/vertailu
+
+V辞書形＋ためには (similar/compare) :: Vために・Nのために (tarkoitusta varten)

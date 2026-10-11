@@ -45,3 +45,21 @@ tags: [grammar/perusrakenne, jlpt/n2]
 箱のふたを開けた＿＿＿＿、中から子猫が飛び出した。(välitön yllättävä seuraus)
 ?
 とたん — "juuri sillä hetkellä kun", jälkimmäinen tapahtuma on äkillinen ja yllättävä.
+
+#flashcards/grammar/n2/muodostus
+
+Vたとたん（に） + verbi (た形) :: V(た形) + とたん（に）. Esim. 箱のふたを開けたとたん、中から子猫が飛び出した。
+
+#flashcards/grammar/n2/nyanssi
+
+Millainen on jälkimmäinen tapahtuma rakenteessa Vたとたん（に）?
+?
+Aina yllättävä, äkillinen ja tahdosta riippumaton; ei koskaan suunniteltu seuraus.
+
+Millaisia tapahtumia Vたとたん（に） yhdistää?
+?
+Konkreettisia, kertaluontoisia hetkiä; ei sovi jatkuviin tai toistuviin tiloihin.
+
+#flashcards/grammar/n2/vertailu
+
+V(た形)＋とたん（に） (similar) :: Vたところで (vaikka tekisikin)

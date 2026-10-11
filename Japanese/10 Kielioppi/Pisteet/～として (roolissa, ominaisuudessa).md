@@ -46,3 +46,17 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ノーベルはダイナマイトを発明した＿＿＿＿知られています。(kagakusha, rooli)
 ?
 科学者として — N + として, luonnehdinta/rooli jonka kautta henkilö tunnetaan.
+
+#flashcards/grammar/n3/muodostus
+
+N + として + predikaatti :: N + として — esim. ノーベルはダイナマイトを発明した科学者として知られています。
+
+#flashcards/grammar/n3/nyanssi
+
+Voiko sama henkilö esiintyä useassa roolissa N として -rakenteella samassa lauseessa?
+?
+Kyllä: キムさんは昼は学生として…、夜は韓国語の先生として… — として korostaa kulloistakin asemaa.
+
+Mikä on yleinen kaava, jolla として ilmaisee tunnettuutta?
+?
+〜として知られている / 認められている (tunnetaan/tunnustetaan X:nä).

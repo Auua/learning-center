@@ -61,3 +61,30 @@ Yleisin virhe: い-adjektiiviin lisätään でした (×寒いでした). Muist
 Mikä on い-adjektiivin mennyt kielteinen muoto?
 ?
 い→く + なかった［です］. Esim. 楽しくなかったです.
+
+#flashcards/grammar/n5/muodostus
+
+N／な-adj／い-adjの過去形 + substantiivi (mennyt myönteinen ja kielteinen) :: Nでした / Nじゃありませんでした
+N／な-adj／い-adjの過去形 + な-adjektiivi (mennyt myönteinen ja kielteinen) :: 静かでした / 静かじゃありませんでした
+N／な-adj／い-adjの過去形 + い-adjektiivi, mennyt myönteinen :: い → かった + です. Esim. 暑かったです.
+N／な-adj／い-adjの過去形 + い-adjektiivi, mennyt kielteinen :: い → くなかった + です. Esim. 暑くなかったです.
+
+#flashcards/grammar/n5/nyanssi
+
+Miksi N／な-adj／い-adjの過去形 -muodossa ×暑いでした on virhe?
+?
+い-adjektiivi taipuu itse (い→かった); です on vain kohteliaisuuspääte eikä taivu でした:ksi い-adjektiivin kanssa.
+
+Mikä on N／な-adj／い-adjの過去形 -muodon kielteinen mennyt aika な-adjektiiville ja substantiiville?
+?
+Pitkä muoto じゃありませんでした (esim. 静かじゃありませんでした).
+
+#flashcards/grammar/n5/sekaannus
+
+Mikä on yleisin virhe N／な-adj／い-adjの過去形 -muodossa ja miten se vältetään?
+?
+い-adjektiiviin lisätään でした (×寒いでした). い-adjektiivi taipuu itse, な-adjektiivi/substantiivi tarvitsee です:n taipumaan.
+
+#flashcards/grammar/n5/vertailu
+
+N／な-adj／い-adjの過去形 (similar) :: い-adjektiivit ja な-adjektiivit

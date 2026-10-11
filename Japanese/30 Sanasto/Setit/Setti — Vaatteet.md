@@ -74,3 +74,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Vaatteet: sano ainakin viisi sanaa
+?
+スーツ (puku), 背広（せびろ） (miesten puku (vanhahtava)), ワンピース (mekko), 上着 (takki), ブラウス (pusero), ワイシャツ ((valkoinen) kauluspaita), セーター (villapaita), コート (takki), オーバーコート (päällystakki), レインコート (sadetakki), ズボン／パンツ (housut), ジーンズ (farkut)…

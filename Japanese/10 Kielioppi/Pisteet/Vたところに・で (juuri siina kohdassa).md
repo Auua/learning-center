@@ -49,3 +49,32 @@ tags: [grammar/perusrakenne, jlpt/n3]
 げんき病院はどこですか。……あのコンビニの角を＿＿＿＿＿＿＿＿ありますよ。(曲がる, paikan maarittely)
 ?
 曲がったところに — た形 + ところに, tarkka paikka käännöksen jälkeen.
+
+#flashcards/grammar/n3/muodostus
+
+Vたところに + olemassaolo (あります/います) :: V(た形) + ところに + あります/います. Esim. コンビニの角を曲がったところにありますよ。
+Vたところで + toiminta (odottaa, pysähtyä) :: V(た形) + ところで + toiminta. Esim. 駅の改札を出たところで待ってるよ。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä ところ tarkoittaa rakenteessa Vたところに・で?
+?
+Fyysistä pistettä tai paikkaa, joka määrittyy liikkeen tai teon päätepisteenä (kääntymisen, ylityksen tai ulostulon jälkeen).
+
+Missä tilanteissa Vたところに・で yleisesti esiintyy?
+?
+Reittien selittämisessä ja tapaamispaikkojen sopimisessa, esim. ohjeena taksin kuljettajalle.
+
+Milloin valitaan に ja milloin で rakenteessa Vたところに・で?
+?
+に staattiselle sijainnille (あります), で toiminnalle joka tapahtuu siinä paikassa (待ってる, 止めてください).
+
+#flashcards/grammar/n3/sekaannus
+
+Miten Vたところに・で eroaa Vところです-rakenteesta?
+?
+Vところです käyttää ところ:a ajallisena vaiheen ilmaisimena; Vたところに・で käyttää sitä paikkana, joka syntyy teon seurauksena.
+
+#flashcards/grammar/n3/vertailu
+
+V(た形)ところに／で (similar/compare) :: Vところです (kolme vaihetta)

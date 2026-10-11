@@ -49,3 +49,27 @@ tags: [grammar/perusrakenne, jlpt/n3]
 気をつけろ。このあたりは毒へビがいる＿。(vahva, karkea varoitus)
 ?
 ぞ — voimakas, tuttavallinen loppupartikkeli, usein varoituksissa.
+
+#flashcards/grammar/n3/muodostus
+
+S ぞ + lause (普通形) :: S + ぞ. Esim. すごい音楽があるぞ。
+
+#flashcards/grammar/n3/nyanssi
+
+Missä rekisterissä loppupartikkelia ぞ käytetään?
+?
+Karkeassa, tuttavallisessa rekisterissä, perinteisesti enemmän miesten puheessa läheisten kesken tai itsekseen puhuttaessa. Ei sovi kohteliaaseen tai muodolliseen puheeseen.
+
+Mihin tilanteisiin S+ぞ tyypillisesti liittyy?
+?
+Varoitukseen, huomion herättämiseen tai innostuneeseen huudahdukseen.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten Sぞ eroaa Sよ:sta?
+?
+よ on neutraalimpi ja sukupuolineutraalimpi uuden tiedon korostus; ぞ on karkeampi ja rajoittuu tuttavalliseen/miehiseen rekisteriin.
+
+#flashcards/grammar/n3/vertailu
+
+S＋ぞ (similar/compare) :: Sよ (uuden tiedon korostus)

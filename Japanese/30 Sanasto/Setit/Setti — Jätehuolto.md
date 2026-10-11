@@ -52,3 +52,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Jätehuolto: sano ainakin viisi sanaa
+?
+ごみ (roska), 燃えるごみ／可燃ごみ (palava jäte), 燃えないごみ／不燃ごみ (palamaton jäte), 資源ごみ (kierrätysjäte), 粗大ごみ (suurjäte (huonekalut yms.)), 紙くず (paperijäte), 生ごみ (biojäte), ガラス製品 (lasituotteet), プラスチック製品 (muovituotteet), 金属製台所用品 (metalliset keittiövälineet), 家具 (huonekalu), 家庭電化製品 (kodinkoneet)…

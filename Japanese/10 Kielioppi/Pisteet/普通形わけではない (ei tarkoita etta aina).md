@@ -50,3 +50,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 この店は人気があるが、必ずしも毎日大勢の客が入る＿＿＿＿＿＿。(osittainen kielto, poikkeukset mahdollisia)
 ?
 わけではない — kieltää yleistyksen osittain, myöntää poikkeukset.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋わけではない :: 普通形 + わけではない (usein 必ずしも kanssa). Esim. この店は人気があるが、必ずしも毎日大勢の客が入るわけではない。
+わけではないが、わけでもない :: 〜わけではないが、〜わけでもない: ei kumpaakaan ääripäätä, 'ei voi sanoa kumpaakaan'.
+
+#flashcards/grammar/n3/nyanssi
+
+Miten 普通形わけではない eroaa tavallisesta kieltomuodosta?
+?
+Se ei ole täydellinen kielto: myöntää säännön/yleistyksen mutta huomauttaa poikkeuksista.
+
+Mikä sana esiintyy usein わけではない:n parina?
+?
+必ずしも ('ei välttämättä aina niin').
+
+Mitä わけでもない lisää わけではない:n perään?
+?
+Osoittaa ettei kumpikaan ääripää pidä paikkaansa (harmaa alue).
+
+#flashcards/grammar/n3/sekaannus
+
+Miten わけではない eroaa わけだ:sta?
+?
+わけだ on myönteinen johtopäätös jo tiedetystä tosiasiasta; わけではない kieltää yleistyksen osittain eikä tee johtopäätöstä.
+
+#flashcards/grammar/n3/vertailu
+
+普通形＋わけではない（必ずしも〜わけではない） (similar/compare) :: 普通形わけだ (johtopaatos, siis)
+普通形＋わけではない（必ずしも〜わけではない） (similar/compare) :: 普通形からといって (vaikka onkin niin)

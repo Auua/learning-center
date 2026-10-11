@@ -45,3 +45,21 @@ tags: [grammar/perusrakenne, jlpt/n2]
 茶道＿＿＿＿、行儀作法だけでなく、和の心を学んだ。(kokemuksen kautta oppiminen)
 ?
 を通して — "jonkin kautta", korostaa prosessin kautta saavutettua oppimista/kasvua.
+
+#flashcards/grammar/n2/muodostus
+
+～を通して + oppimis-/kokemustulos :: N + を通して + tulos. Esim. 茶道を通して、行儀作法だけでなく、和の心を学んだ。
+
+#flashcards/grammar/n2/nyanssi
+
+Millainen predikaatti on tyypillinen ～を通して-lauseessa?
+?
+Oppimista tai kasvua kuvaava (身につく, 学ぶ, 養われる, 理解が深まる): korostaa prosessin kautta saavutettua kehitystä.
+
+Mitä ～を通して tarkoittaa ajallisessa merkityksessä?
+?
+"Koko ... ajan": 一年を通して = koko vuoden ajan.
+
+#flashcards/grammar/n2/vertailu
+
+N＋を通して (similar) :: ～によって (syy, muodollinen)

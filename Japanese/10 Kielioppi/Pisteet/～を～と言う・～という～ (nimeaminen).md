@@ -57,3 +57,35 @@ tags: [grammar/perusrakenne, jlpt/n3]
 村上春樹という作家を知っていますか。 — mikä という:n tehtävä tässä on?
 ?
 Esittelee kuulijalle mahdollisesti tuntemattoman erisnimen (村上春樹) siltana yleiskäsitteeseen (作家).
+
+#flashcards/grammar/n3/muodostus
+
+N1をN2と言う (termin määrittely) :: N1 + を + N2 + と言います. Esim. 畳の部屋を和室と言います。
+Nという + yleiskäsite (tuntematon erisnimi) :: N (tuntematon) + という + N. Esim. 村上春樹という作家を知っていますか。
+Nという方／人 (kohtelias esittely) :: N + という + 方/人. Esim. 岡田さんという方から電話がありました。
+
+#flashcards/grammar/n3/nyanssi
+
+Mihin kysymykseen ～を～と言う vastaa?
+?
+Kysymykseen "mitä tämä on nimeltään / miksi tätä kutsutaan", esim. これは日本語で何と言いますか。
+
+Mitä という esittelee rakenteessa Nという～?
+?
+Nimen, joka on kuulijalle todennäköisesti tuntematon; silta erisnimen ja yleiskäsitteen välillä (X-niminen kirjailija).
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ～を～と言う eroaa lainaavasta と言います (ミラーさんは出張すると言いました)?
+?
+Lainaava と言います siteeraa puhetta/mielipidettä; nimeämisessä nimetään käsitteitä (料理を何と言いますか).
+
+Miten Nという～ (erisnimi) eroaa lause + という + N -rakenteesta (会社を辞めたといううわさ)?
+?
+Erisnimi-という esittelee nimen (村上春樹という作家); lause-という kuvailee kokonaisen lauseen sisällön ennen substantiivia.
+
+#flashcards/grammar/n3/vertailu
+
+NをNと言う・Nという～ (similar) :: 普通形と言います (lainaus)
+NをNと言う・Nという～ (similar/compare) :: 普通形という～ (raportoitu sisalto)
+NをNと言う・Nという～ (similar/compare) :: ～というのは～のことだ・ということだ (maaritelma)

@@ -53,3 +53,33 @@ tags: [grammar/perusrakenne, jlpt/n4]
 今晩のおかずは何＿＿＿しましょうか。(valinta)
 ?
 に — substantiivi + にする, valintatilanteen vakiokaava.
+
+#flashcards/grammar/n4/muodostus
+
+〜くします + い-adjektiivi :: い → く + します — esim. 音を大きくします。
+〜にします + な-adjektiivi :: な-adj + に + します — esim. 部屋をきれいにします。
+〜にします + substantiivi :: N + に + します — esim. 今晩のおかずは何にしましょうか。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten 〜くします・〜にします eroaa なります-muodosta, vaikka muoto on sama?
+?
+なります: muutos tapahtuu itsestään; します: joku aiheuttaa muutoksen tarkoituksella. Sama く/に-kaava, eri tekijä.
+
+Mitä Nにします tarkoittaa valintatilanteessa?
+?
+Valintaa: 何にしますか (mitä otat?), コーヒーにします (otan kahvia).
+
+Miten pyydetään kampaajalla/räätälillä vielä lyhyemmäksi (〜くします)?
+?
+もう少し短くしてください (leikatkaa vielä vähän lyhyemmäksi).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten 部屋がきれいになりました eroaa 部屋をきれいにしました:sta?
+?
+なりました: huone tuli siistiksi, tekijää ei kerrota (が); しました: joku siivosi sen tarkoituksella (を) — partikkeli vaihtuu が→を kun subjektista tulee tekijä.
+
+#flashcards/grammar/n4/vertailu
+
+い-adj（～く）／な-adj・N（～に）します (similar/compare) :: ～くなります・～になります (muutos)

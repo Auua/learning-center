@@ -56,3 +56,35 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on ホテルのようです:llä ja ホテルにいるようです:llä?
 ?
 ホテルのようです vertaa jotain hotelliin (muistuttaa, ei ole); ホテルにいるようです päättelisi havainnosta että joku on hotellissa (todennäköisesti totta).
+
+#flashcards/grammar/n3/muodostus
+
+～のようだ (vertaus) + substantiivi :: N + のようだ. Esim. あの病院はきれいで、まるでホテルのようです。
+～のような + substantiivi :: N + のような + N2. Esim. 奈良のような町が好きです。
+～のように + verbi／adjektiivi :: N + のように + V/adj. Esim. 子どものように泣いた。
+この／その／あの + ように (annettu malli) :: この／その／あの + よう + に. Esim. この例のように書いてください。
+
+#flashcards/grammar/n3/nyanssi
+
+Minkä sanan kanssa ～のようだ esiintyy usein vertausta vahvistamassa?
+?
+まるで: まるで海のようです (on ihan kuin meri).
+
+Miten のような ja のように eroavat syntaktisesti?
+?
+のような määrittää seuraavaa substantiivia; のように määrittää verbiä/adjektiivia.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten vertaus-のようだ eroaa päättely-ようですta?
+?
+Vertaus: mihin asia muistuttaa (ホテルのようです, ei ole hotelli); päättely: mitä puhuja luulee totta havainnon perusteella (隣にだれかいるようです).
+
+Miten ～のようだ eroaa ～みたいだ:sta?
+?
+みたいだ on puhekielinen vastine: sama merkitys ilman の:ta (犬みたいだ vs. 犬のようだ).
+
+#flashcards/grammar/n3/vertailu
+
+N／Vのようだ・Nのような～・Nのように… (similar/compare) :: 普通形ようです (havaintoon perustuva paattely)
+N／Vのようだ・Nのような～・Nのように… (similar/compare) :: ～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)

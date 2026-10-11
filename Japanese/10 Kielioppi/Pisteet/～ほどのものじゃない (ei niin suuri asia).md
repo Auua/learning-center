@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 確かに優勝はしましたが、国民栄誉賞をいただく＿＿＿＿＿＿＿＿＿。(vaatimaton vähättely)
 ?
 ほどのものじゃありません — "ei ole niin suuri asia kuin", kohtelias vaatimattomuuden ilmaisu.
+
+#flashcards/grammar/n2/muodostus
+
+～ほどのものじゃない + nimitys :: N + と言える／と呼べる + ほどのものじゃない. Esim. 庭と言えるほどのものじゃありません。
+～ほどのものではなかった + verbi :: V + ほどのものではなかった. Esim. 会社を休むほどのものではなかった。
+
+#flashcards/grammar/n2/nyanssi
+
+Missä tilanteessa ～ほどのものじゃない on tyypillinen?
+?
+Vaatimattomuuden ilmaisuun, kun joku on juuri kehunut puhujaa tai hänen omaisuuttaan/saavutustaan.
+
+Mikä implisiittinen vertailu ～ほどのものじゃない -rakenteessa piilee?
+?
+X ei yllä siihen tasoon, jota nimitys tai kehu antaisi ymmärtää.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten ～ほどのものじゃない eroaa yleisestä ほど～ない-vertailusta?
+?
+ほど～ない vertaa kahta asiaa (AはBほど〜ない); ほどのものじゃない on erikoistunut idiomi vaatimattomuuden/vähättelyn ilmaisuun.
+
+#flashcards/grammar/n2/vertailu
+
+N／普通形＋ほどのものじゃない・ではない (similar/compare) :: ～ほど～ない・ほどではない (vertailu, ei niin)

@@ -62,3 +62,28 @@ Muistuttaa [[Nが好きです・上手です (mieltymys, kyky, omistus)]]:n が-
 背が高い — miten tämä käännetään suoraan ja mitä se tarkoittaa?
 ?
 Kirjaimellisesti "selkä/pää on korkea" — idiomaattisesti "on pitkä (henkilöstä)".
+
+#flashcards/grammar/n5/muodostus
+
+N1はN2がadjectiveです + yleinen kaava :: N1 は N2 が adj です. Esim. 大阪は食べ物がおいしいです。
+N1はN2がadjectiveです + henkilö ja kehonosa :: Henkilö は kehonosa が adj です. Esim. マリアさんは髪が長いです。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä idiomeja syntyy kaavasta N1はN2がadjectiveです?
+?
+Esim. 背が高い (pitkä) ja 頭がいい (fiksu); koko ilmaus toimii yhtenä adjektiivimaisena kokonaisuutena.
+
+Mikä voi olla N1はN2がadjectiveです -rakenteen が-osa substantiivin sijaan?
+?
+Myös kokonainen alilause: そのバッグは入れる所がたくさんありますね.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten N1はN2がadjective eroaa Nが好きです -kaavasta?
+?
+Tässä on kaksi partikkelia peräkkäin (は koko aiheelle, が osalle); Nが好きです -kaavassa on vain yksi が ilman は:ta.
+
+#flashcards/grammar/n5/vertailu
+
+N1はN2がadjectiveです (similar) :: Nが好きです・上手です (mieltymys, kyky, omistus)

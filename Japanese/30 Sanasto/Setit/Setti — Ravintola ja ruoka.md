@@ -104,3 +104,20 @@ Kirjan メニュー-viitesivu, [[Minna no Nihongo I#Luku 11]].
 
 ## Muistiinpanot
 [[食べる]] · [[飲む]] · [[食事]] · [[おいしい]] · [[Nを V (objekti)]] · [[お～ (kunnioittava etuliite)]] · [[Lukusanat ja luokittelijat]] · [[Setti — Ruoanlaitto ja keittiövälineet]]
+
+## Kortit
+#flashcards/setti/fraasi
+
+おすすめは何ですか。 ::: Mitä suosittelette?
+これをください。 ::: Tämä, kiitos.
+お会計をお願いします。 ::: Saisinko laskun.
+辛くしないでください。 ::: Ei tulista, kiitos.
+ご注文は？ ::: Mitä saisi olla? (tarjoilija)
+少々お待ちください。 ::: Hetkinen vain.
+別々にお願いします。 ::: Erikseen (maksettuna), kiitos.
+
+#flashcards/setti/teema
+
+Setti — Ravintola ja ruoka: sano ainakin viisi sanaa
+?
+朝ごはん (aamiainen), 昼ごはん (lounas), 晩ごはん (illallinen), パン (leipä), 卵（たまご） (muna), 肉（にく） (liha), 魚（さかな） (kala), 野菜（やさい） (vihannes), 果物（くだもの） (hedelmä), 水（みず） (vesi), お茶（おちゃ） ((vihreä) tee), 紅茶（こうちゃ） (musta tee)…

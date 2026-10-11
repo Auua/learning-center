@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 どんなスポーツも練習すれば練習した＿＿上手になる。(panostus vastaa suoraan tulosta)
 ?
 だけ — "sitä enemmän mitä", panostuksen määrä vastaa suoraan tulokseen.
+
+#flashcards/grammar/n2/muodostus
+
+V(ば形)＋V(た形)＋だけ + verbi :: V(ば形) + V(た形) + だけ. 例: どんなスポーツも練習すれば練習しただけ上手になる。
+V(ば形)＋V(た形)＋だけ + い-adjektiivi :: い-adj(ければ) + い-adj(い) + だけ. 例: 苦労は大きければ大きいだけ財産になる。
+
+#flashcards/grammar/n2/nyanssi
+
+Miten sama sana toistuu rakenteessa V(ば形)＋V(た形)＋だけ?
+?
+Ensin ば-muodossa (ehto), sitten た形+だけ (toteutunut määrä); korostaa, että panostuksen määrä vastaa suoraan tulosta.
+
+Miten だけ eroaa ほど:sta rakenteissa Vば〜だけ ja Vば〜ほど?
+?
+Käytännössä vaihtokelpoisia, mutta だけ korostaa 'juuri sen verran kuin', ほど astetta.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten Vば〜ただけ eroaa muodosta Vば〜ほど?
+?
+Sama merkitys eri rakenteella; ば〜ただけ korostaa panostuksen ja tuloksen suoraa vastaavuutta ('juuri niin paljon kuin teit').
+
+#flashcards/grammar/n2/vertailu
+
+V(ば形)＋V(た形)＋だけ (similar/compare) :: Vば〜ほど (mita enemman, sita)

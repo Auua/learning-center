@@ -50,3 +50,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 どうして泣いている＿？(puhekielinen kysymys)
 ?
 の？ — nouseva の, utelias/selittävä kysymys havaitusta tilanteesta.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋の？ (nouseva intonaatio) :: 普通形 + の？↗. Esim. 今年、「日本語能力試験」を受けるの？(Aiotko osallistua tänä vuonna kokeeseen?)
+普通形＋の。 (laskeva, selitys) :: 普通形 + の。↘. Esim. ううん。お母さんがいないの。(Ei... äiti ei ole kotona.)
+な-adjektiivi/substantiivi + の？ :: な-adj/N + な + の？ Esim. 元気なの？
+
+#flashcards/grammar/n3/nyanssi
+
+Missä tilanteissa 普通形の？ on sopiva?
+?
+Vain puhekielessä läheisten kesken (perhe, ystävät); ei koskaan muodollisessa tai kohteliaassa puheessa.
+
+Mikä on oikea muoto 'oletko kunnossa?' -tyyppisessä の？-kysymyksessä na-adjektiivilla?
+?
+元気なの？ (な ennen の, samoin kuin んです-rakenteessa), ei ×元気だの？.
+
+Miten 普通形の？ eroaa tyyliltään んですか-kysymyksestä?
+?
+Sama selittävä sävy, mutta ilman です:ää, vielä rennompi puhekielinen muoto.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten の？ eroaa んです:sta?
+?
+んです(か) on kohteliaampi ja yleisempi serkku; の ilman ん:ää ja です:ää on puhtaasti puhekielinen versio samasta selittävästä logiikasta.
+
+#flashcards/grammar/n3/vertailu
+
+普通形の？（kysymys/selitys） (similar/compare) :: 普通形んです (selittävä sävy)

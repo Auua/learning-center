@@ -29,3 +29,20 @@ views:
 
 ## Valmiit fraasit
 - 
+
+## Kortit
+#flashcards/setti/fraasi
+
+日本語のfraasi ::: suomi
+
+#flashcards/setti/ero
+
+A vs B: mikä ero?
+?
+ero
+
+#flashcards/setti/teema
+
+Setti — <% tp.file.title %>: sano ainakin viisi sanaa
+?
+sana (käännös), sana (käännös), …

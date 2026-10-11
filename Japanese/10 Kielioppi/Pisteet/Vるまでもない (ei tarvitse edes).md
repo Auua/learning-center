@@ -45,3 +45,17 @@ tags: [grammar/perusrakenne, jlpt/n2]
 このことの真偽は＿＿＿＿＿＿。(itsestäänselvyyden vuoksi tarpeeton teko)
 ?
 確かめるまでもない — "ei tarvitse edes", asia on jo niin selvä ettei toimenpide toisi lisäarvoa.
+
+#flashcards/grammar/n2/muodostus
+
+V辞書形＋までもない + mihin liittyy? :: V辞書形 + までもない. Esim. 聞くまでもない (ei tarvitse edes kysyä).
+
+#flashcards/grammar/n2/nyanssi
+
+Miten V辞書形＋までもない eroaa pelkästä vapaaehtoisuudesta (なくてもいい)?
+?
+までもない korostaa, että asia on jo niin itsestäänselvä, ettei toimenpide toisi lisäarvoa.
+
+Mikä on V辞書形＋までもない -rakenteen yleinen kiinteä ilmaus?
+?
+言うまでもない, 'sanomattakin selvää'.

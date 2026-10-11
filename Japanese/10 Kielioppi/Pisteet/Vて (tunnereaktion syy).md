@@ -53,3 +53,31 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi 話が複雑で、よくわかりませんでした käyttää で:tä eikä でした:ää?
 ?
 な-adj/N-tyyppisen syyn て-vastine on で (ei でした, vaikka lause on menneessä ajassa) — vain viimeinen predikaatti kantaa aikamuodon.
+
+#flashcards/grammar/n4/muodostus
+
+Vて／Adjくて／Nで (tunnereaktion syy) + verbi :: V(て-muoto) + tunnereaktio. 例: ニュースを聞いて、びっくりしました。
+Vて／Adjくて／Nで (tunnereaktion syy) + い-adjektiivi :: い-adj(くて) + tunnereaktio. 例: 話が複雑で、よくわかりませんでした。
+Vて／Adjくて／Nで (tunnereaktion syy) + な-adjektiivi/substantiivi :: な-adj/N + で + tunnereaktio. 例: 部屋が狭くて、邪魔なので、友達にあげました。
+
+#flashcards/grammar/n4/nyanssi
+
+Millaisia reaktioita Vて／Adjくて／Nで (tunnereaktion syy) voi ilmaista syynä?
+?
+Vain tahdottomia tunnetiloja/reaktioita (びっくりする、がっかりする、安心する、困る、心配する). Tahdonalaisissa päätöksissä käytetään から tai ので.
+
+Millaista jälkilausetta Vて (tunnereaktion syy) ei voi seurata?
+?
+Käskyä, pyyntöä tai ehdotusta; jälkilause on aina kuvaus tunteesta tai tilasta.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten Vて (tunnereaktion syy) eroaa muodosta Vて、Vて (peräkkäisyys)?
+?
+Sama て-muoto: peräkkäisyys listaa tahdonalaisia tekoja, tämä merkitsee syytä tahdottomalle reaktiolle. Ero on merkityksessä, ei rakenteessa.
+
+#flashcards/grammar/n4/vertailu
+
+Vて／Adjくて／Nで（tunnereaktion syy） (similar) :: Vて、Vて (peräkkäisyys)
+Vて／Adjくて／Nで（tunnereaktion syy） (similar) :: S1から、S2 (syy)
+Vて／Adjくて／Nで（tunnereaktion syy） (similar/compare) :: 〜ので (pehmea syy)

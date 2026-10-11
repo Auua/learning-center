@@ -62,3 +62,34 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Mitä eroa on はずです:llä ja でしょう:lla?
 ?
 はず vaatii aina nimettävissä olevan perusteen (aikataulu, fakta); でしょう on yleisempi arvaus ilman välttämätöntä konkreettista syytä.
+
+#flashcards/grammar/n4/muodostus
+
+普通形＋はずです :: 普通形 + はずです. Esim. 書類は速達で出しましたから、あした着くはずです。(Lähetin asiakirjat pikapostina, joten ne saapuvat huomenna.)
+普通形＋はずなんですが (odotus ei toteutunut) :: 普通形 + はずなんですが. Esim. 5時ごろに来てくれるはずなんですが、まだですか。
+
+#flashcards/grammar/n4/nyanssi
+
+Mitä はずです aina vaatii taustalleen?
+?
+Perustellun syyn (aikataulu, lähetystapa, annettu lääke); ei sovi pelkkään mutu-tuntumaan, jolloin käytetään でしょう tai かもしれません.
+
+Mitä はずなんですが + kysymys/valitus ilmaisee?
+?
+Että odotettu asia ei ole vielä toteutunut; puhuja ilmaisee lievää huolta tai hämmennystä.
+
+#flashcards/grammar/n4/sekaannus
+
+Missä varmuusjärjestyksessä かもしれません, でしょう ja はずです ovat?
+?
+かもしれません (heikoin, mahdollisuus) < でしょう (keskitaso, yleinen arvaus) < はずです (vahvin, perusteltu looginen odotus).
+
+Miten はず eroaa でしょう:sta?
+?
+はず:n taustalla on aina konkreettinen, nimettävissä oleva syy.
+
+#flashcards/grammar/n4/vertailu
+
+普通形はずです (similar/compare) :: 普通形でしょう (todennakoisyys)
+普通形はずです (similar/compare) :: Vかもしれません (saattaa olla etta)
+普通形はずです (similar/compare) :: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)

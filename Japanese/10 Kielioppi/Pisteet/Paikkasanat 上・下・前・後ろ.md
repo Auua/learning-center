@@ -72,3 +72,28 @@ tags:
 郵便局は銀行の隣にあります。 — mikä rakenne tässä on?
 ?
 N1は N2（paikka）に あります, jossa paikka on ilmaistu 隣（vieressä）+ の + 銀行.
+
+#flashcards/grammar/n5/muodostus
+
+N（位置） + sijaintisana (olemassaolo) :: N の 上／下／前／後ろ／右／左／中／外／隣／近く／間 + に. Esim. 机の上に写真があります。
+N（位置） + sijaintisana (toimintapaikka) :: N の + sijaintisana + で. Esim. 駅の近くで友達に会いました。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä partikkelia sijaintisanan (N（位置）) perään liitetään?
+?
+Mikä tahansa tilanteen mukaan: に (sijainti/olemassaolo) tai で (toimintapaikka).
+
+Montako vertailukohtaa 間 vaatii (N（位置）)?
+?
+Kaksi: AとBの間.
+
+#flashcards/grammar/n5/sekaannus
+
+Ovatko paikkasanat 上・下・前・後ろ prepositioita?
+?
+Eivät; ne ovat substantiiveja, jotka liitetään edeltävään sanaan の:lla (N1のN2-rakenne).
+
+#flashcards/grammar/n5/vertailu
+
+N（位置） (similar) :: あります・います (olemassaolo)

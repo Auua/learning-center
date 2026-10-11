@@ -62,3 +62,33 @@ tags:
 Mikä partikkeli katoaa しか:n edestä muttei koskaan säily?
 ?
 は, を ja が katoavat; muut partikkelit (に, で, から) säilyvät ennen しか:ta.
+
+#flashcards/grammar/n4/muodostus
+
+Nしか〜ません + substantiivi/määrä :: N + しか + kielteinen predikaatti. Esim. わたしの会社は1週間しか休めません。
+Nしか〜ません + だけ-lauseen muuntaminen :: だけ + myönteinen → しか + kielteinen. Esim. ひらがなだけ書けます → ひらがなしか書けません。
+Nしか〜ません + は／を／が :: は, を ja が poistuvat しか:n edestä. Esim. お酒は少ししか飲めません。
+
+#flashcards/grammar/n4/nyanssi
+
+Millainen predikaatti Nしか〜ません vaatii?
+?
+Aina kielteisen; ×しか〜ます on virhe.
+
+Mikä sävyero on しか:lla ja だけ:llä?
+?
+しか korostaa puhujan tunnetta ('valitettavan vähän'), だけ on neutraali.
+
+Mitkä partikkelit häviävät ja mitkä säilyvät Nしか〜ません -rakenteessa?
+?
+は, を, が katoavat; に, で, から jne. säilyvät しか:n edellä.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten 1人だけいます eroaa lauseesta 1人しかいません?
+?
+だけ = neutraali toteamus; しか = 'vain yksi, valitettavasti'; しか on aina kielteinen ja tunnepitoisempi.
+
+#flashcards/grammar/n4/vertailu
+
+Nしか〜ません (compare) :: Maara だけ・Nだけ

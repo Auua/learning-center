@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 このキャラクターは、子ども＿＿＿＿大人にも人気がある。(laajennus, ei rajoitu vain)
 ?
 に限らず — "ei rajoitu vain X:ään", laajentaa väitteen koskemaan muitakin.
+
+#flashcards/grammar/n2/muodostus
+
+～に限らず + substantiivi :: N + に限らず、N2でも. Esim. 子どもに限らず大人にも人気がある。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä N に限らず erityisesti korostaa verrattuna だけでなく-rakenteeseen?
+?
+Ettei asia ole rajoittunut yhteen tapaukseen; sopii kun halutaan kumota oletettu rajoitus.
+
+Mikä on N に限らず -rakenteen kieliopillinen juuri?
+?
+限る (rajoittua) kielteisessä muodossa; N に限って käyttää samaa verbiä myönteisenä ja merkitsee muuta.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten N に限らず eroaa rakenteesta N に限って?
+?
+に限らず laajentaa väitteen koskemaan muitakin; に限って korostaa juuri kyseistä tapausta eikä laajenna sitä.
+
+#flashcards/grammar/n2/vertailu
+
+N＋に限らず (similar) :: ～だけでなく (ei pelkastaan vaan myos)
+N＋に限らず (similar/compare) :: N・普通形に限って (juuri silloin, ikava sattuma)

@@ -49,3 +49,32 @@ tags: [grammar/perusrakenne, jlpt/n3]
 試合の前になると、すごく緊張するんです。……ガムをかむ＿＿＿、好きな音楽を聞く＿＿＿すればいいですよ。
 ?
 とか, とか — rento esimerkkilista neuvonannossa, kaksi vaihtoehtoista ratkaisua.
+
+#flashcards/grammar/n3/muodostus
+
+N + とか、N + とか :: N + とか、N + とか + 言う/する — esim. 「愛してる」とか「すてきだよ」とか言いませんね。
+V辞書形 + とか、V辞書形 + とか + すればいい :: ガムをかむとか、好きな音楽を聞くとかすればいいですよ。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä とか voi listata, mitä や…など ei?
+?
+Kokonaisia toimintoja/lauseita (verbi + とか), ei vain substantiiveja; hyödyllinen etenkin neuvonannossa.
+
+Missä rekisterissä とか～とか toimii?
+?
+Erittäin puhekielinen: rentoon keskusteluun, ei kirjoitettuun tekstiin.
+
+Mitä 〜とか〜とかすればいい ilmaisee?
+?
+Tyypillinen neuvomiskaava: kaksi tai useampia vaihtoehtoisia ratkaisuja ilman että kumpaakaan täytyy valita tarkasti.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten とか～とか eroaa や…など-luettelosta?
+?
+や…など on hieman muodollisempi ja rajoittuu substantiiveihin; とか on rennompi ja toimii myös kokonaisille verbi-ilmauksille.
+
+#flashcards/grammar/n3/vertailu
+
+N/普通形とか、N/普通形とか（…すればいい） (similar/compare) :: 普通形とか (puhekielinen kuulopuhe, epavarma)

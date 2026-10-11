@@ -59,3 +59,28 @@ tags:
 Kumpi verbi on lauseen pääasia ながら-rakenteessa: ensimmäinen vai toinen?
 ?
 Toinen (jälkimmäinen) verbi on pääasia; ながら-verbi on sivutoiminto.
+
+#flashcards/grammar/n4/muodostus
+
+ながら + verbi (ます-vartalo) :: V(ます-vartalo) + ながら + V2. Esim. 音楽を聞きながら食事します。
+ながら + する-verbi :: する-verbi: ます-vartalo + ながら. Esim. 働きながら大学で勉強しています。
+
+#flashcards/grammar/n4/nyanssi
+
+Voiko Vながら yhdistää kahden eri tekijän teot?
+?
+Ei. Molempien tekojen täytyy olla saman tekijän tekemiä samaan aikaan.
+
+Kumpi verbi on pääverbi lauseessa V1ながらV2?
+?
+Jälkimmäinen (V2). ながら-verbi on sivutoiminto: 音楽を聞きながら食事します = syön (pääasia) ja samalla kuuntelen musiikkia.
+
+Miten ながら kuvaa elämäntapaa?
+?
+Esim. 働きながら大学で勉強しています = opiskelee yliopistossa työn ohella.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten Vながら eroaa Vたり、Vたりします-rakenteesta?
+?
+ながら ilmaisee samanaikaisia tekoja; たり luettelee vaihtoehtoisia/peräkkäisiä tekoja, ei samanaikaisia.

@@ -47,3 +47,23 @@ tags: [grammar/perusrakenne, jlpt/n2]
 湯川秀樹、利根川進＿＿＿＿ノーベル賞受賞者に京都大学出身者が多い。(esimerkkejä + yläkäsite)
 ?
 といった — luettelee esimerkkejä joita seuraa yläkäsite (ノーベル賞受賞者).
+
+#flashcards/grammar/n2/muodostus
+
+N1、N2 + といった + N3 :: N1、N2 + といった + N3 (yläkäsite) — esim. 湯川秀樹、利根川進といったノーベル賞受賞者に京都大学出身者が多い。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä といった vaatii aina perässään?
+?
+Yläkäsitteen (N3), joka luokittelee esimerkit; pelkkä 'N1、N2といった' ilman N3:a ei ole täydellinen.
+
+Missä rekisterissä といった on suhteessa や…など ja をはじめ?
+?
+Kirjoitettuun, hieman muodollisempaan tyyliin kuin や…など, mutta ei yhtä muodollinen kuin 〜をはじめ.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten ～といった eroaa や…など-esimerkkiluettelosta?
+?
+といった vaatii aina eksplisiittisen yläkäsitteen perässään (N3); や…など voi jättää sen implisiittiseksi.

@@ -61,3 +61,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Kyltit ja opasteet: sano ainakin viisi sanaa
+?
+営業中（えいぎょうちゅう） (avoinna), 準備中（じゅんびちゅう） (valmistellaan), 閉店（へいてん） (suljettu), 定休日（ていきゅうび） (säännöllinen vapaapäivä), 化粧室（けしょうしつ） (wc (kohtelias)), 禁煙席（きんえんせき） (savuton paikka), 予約席（よやくせき） (varattu paikka), 非常口（ひじょうぐち） (hätäuloskäynti), 火気厳禁（かきげんきん） (tulenarkaa), 割れ物注意（われものちゅうい） (särkyvää), 運転初心者（うんてんしょしんしゃ） (aloitteleva kuljettaja), 工事中（こうじちゅう） (työmaa)…

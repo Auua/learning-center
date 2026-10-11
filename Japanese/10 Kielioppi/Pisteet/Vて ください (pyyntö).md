@@ -52,4 +52,23 @@ tags:
 
 すみませんが、塩を取ってください。 — mikä が:n rooli tässä?
 ?
-Kevyt, merkitykseään menettänyt liitos joka pehmentää pyynnön aloitusta — ei "mutta"-merkitystä, ks. [[S1が、S2 (mutta)]].
+Kevyt, merkitykseään menettänyt liitos joka pehmentää pyynnön aloitusta — ei "mutta"-merkitystä, ks. S1が、S2 (mutta).
+
+#flashcards/grammar/n5/muodostus
+
+Vてください + verbi :: て-muoto + ください. 例: ここに名前を書いてください。
+Vてください + pehmentävä aloitus :: すみませんが／しつれいですが + てください. 例: すみませんが、塩を取ってください。
+
+#flashcards/grammar/n5/nyanssi
+
+Mikä on が:n rooli lauseessa すみませんが、Vてください?
+?
+Kevyt liitos, joka pehmentää pyynnön aloitusta; が ei tarkoita tässä 'mutta'.
+
+Kenelle Vてください ei sovi?
+?
+Esimerkiksi esimiehelle tai arvostetulle henkilölle; sävy on suora vaikka kohtelias, ja silloin tarvitaan keigoa.
+
+#flashcards/grammar/n5/vertailu
+
+Vてください (similar) :: Vませんか・Vましょう (etkö tulisi, tehdäänkö)

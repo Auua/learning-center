@@ -86,3 +86,22 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+いいですね。 ::: Hyvä idea. / Kuulostaa hyvältä.
+わかりました。 ::: Selvä, ymmärretty.
+[[一緒に\ ::: いっしょに]]
+じゃ、また［あした］。 ::: No niin, nähdään [huomenna].
+［〜、］いっしょにいかがですか。 ::: Lähtisitkö mukaan ~? (kutsu)
+［〜は］ちょっと…。 ::: ~ on vähän hankala (kohtelias kieltäytyminen, lause jää kesken)
+だめですか。 ::: Eikö siis onnistu?
+また今度お願いします。 ::: Pyydä minut mukaan seuraavalla kerralla.
+残念です［ね］。 ::: Sepä harmi.
+
+#flashcards/setti/teema
+
+Setti — Harrastukset ja vapaa-aika: sano ainakin viisi sanaa
+?
+テニス (tennis), サッカー (jalkapallo), 映画 (elokuva), ［お］花見 (kukkien (kirsikankukkien) katselu), スポーツ (urheilu), 野球 (baseball), ダンス (tanssi), 音楽 (musiikki), 歌 (laulu), クラシック (klassinen musiikki), ジャズ (jazz), コンサート (konsertti)…

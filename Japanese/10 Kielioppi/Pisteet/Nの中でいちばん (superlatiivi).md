@@ -64,3 +64,26 @@ tags:
 1年でいつがいちばん寒いですか — mikä kysymyssana ja miksi?
 ?
 いつ, koska kysytään ajankohtaa (kuukautta/vuodenaikaa) vuoden sisällä.
+
+#flashcards/grammar/n5/muodostus
+
+N［の中］で［疑問詞］がいちばんadjですか + kategoria :: N［の中］で + 何／どこ／だれ／いつ + が + いちばん + adj + ですか. Esim. 日本料理の中で何がいちばんおいしいですか。
+N［の中］で［疑問詞］がいちばんadjですか + vastaus :: N2 が いちばん adj です. Esim. てんぷらがいちばんおいしいです。
+
+#flashcards/grammar/n5/nyanssi
+
+Mikä kysymyssana valitaan kategorian mukaan rakenteessa Nの中でいちばん?
+?
+Asiat 何, paikat どこ, ihmiset だれ, ajat いつ.
+
+Milloin の中で voi jättää pois rakenteesta Nの中でいちばん?
+?
+Kun kategoria on selvä kontekstista (esim. 1年で).
+
+Millä partikkelilla kysymyssanasubjekti merkitään rakenteessa Nの中でいちばん?
+?
+Aina が.
+
+#flashcards/grammar/n5/vertailu
+
+N［の中］で［疑問詞］がいちばんadjですか (similar) :: N1はN2より (vertailu)

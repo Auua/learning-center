@@ -52,3 +52,22 @@ tags:
 大学までどうやって行きますか。 — millainen vastaus odotetaan?
 ?
 Koko reitin kuvaus (esim. kulkuväline + vaihdot), ei pelkkä yksittäinen sana.
+
+#flashcards/grammar/n5/muodostus
+
+どうやって + verbi :: どうやって + V ますか. Esim. 大学までどうやって行きますか。 (miten pääset yliopistolle?)
+どの + substantiivi :: どの + N. Esim. サントスさんはどの人ですか。 (mikä näistä ihmisistä on Santos?)
+
+#flashcards/grammar/n5/nyanssi
+
+Millainen vastaus どうやって-kysymykseen odotetaan?
+?
+Koko reitti tai menetelmä yksityiskohtineen, ei vain yksi sana.
+
+Mihin sarjaan どの kuuluu ja mitä se tarkoittaa?
+?
+Samaan こそあど-sarjaan kuin これ/この, それ/その, あれ/あの, どれ/どの; 'mikä [substantiivi]' kolmen tai useamman vaihtoehdon joukosta.
+
+#flashcards/grammar/n5/vertailu
+
+どうやって／どのN (similar) :: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)

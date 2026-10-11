@@ -70,3 +70,43 @@ Käytetyt taivutusmuodot: [[普通形 (puhekielinen perusmuoto)]]
 Miten erotan lopettavan という:n substantiivia määrittävästä という:sta?
 ?
 Lopettava という päättää lauseen (…あるという。); määrittävää seuraa aina substantiivi (…という作家).
+
+#flashcards/grammar/n2/muodostus
+
+普通形 + という。(lauseen lopussa) :: Esim. 日本で最も古い大学が京都にあるという。 (kerrotaan että vanhin yliopisto on Kiotossa)
+Kohtelias teksti: 〜といいます／〜ということです :: Kohteliaassa tekstissä という。 korvautuu muodoilla 〜といいます／〜ということです.
+
+#flashcards/grammar/n2/nyanssi
+
+Missä rekisterissä 普通形という。 esiintyy, ja mitä puheessa käytetään?
+?
+Vain kirjoitetussa kielessä (tietokirjat, esseet, tieteelliset tekstit, uutiset); puheessa そうです tai ということです.
+
+Mitä lauseen lopussa 普通形という。-rakenteessa ei ole?
+?
+Ei だ:ta eikä です:ää; lause päättyy suoraan という:hun, mikä tekee sävystä toteavan ja persoonattoman.
+
+Nimetäänkö lähde 普通形という。-lauseessa?
+?
+Yleensä ei; tieto esitetään yleisesti tunnettuna tai muualta peräisin olevana.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten lyhennetty という。 eroaa muodosta ということだ?
+?
+ということだ on täysi muoto, jolla on lisäksi vahvistuskäyttö (…ということですね); lyhennetyllä という:lla on vain kuulopuhemerkitys.
+
+Miten lauseen päättävä という。 eroaa substantiivia määrittävästä という:sta (村上春樹という作家)?
+?
+Nimeämisessä tai sisältöä kuvaavassa rakenteessa という määrittää substantiivia; tässä se päättää koko lauseen kuulopuheena.
+
+Miten 普通形という。 eroaa muodoista とみられる ja と思われる?
+?
+Samaa rekisteriä, mutta ne ilmaisevat arviota, eivät kuulopuhetta.
+
+#flashcards/grammar/n2/vertailu
+
+普通形という。 (similar/compare) :: 普通形ということだ (muodollinen kuulopuhe, vahvistus)
+普通形という。 (similar) :: 普通形そうです (kuulopuhe)
+普通形という。 (similar) :: 普通形とみられる (arvioidaan olevan)
+普通形という。 (similar) :: 普通形と思われる (nayttaa siltä, uutiskielinen)

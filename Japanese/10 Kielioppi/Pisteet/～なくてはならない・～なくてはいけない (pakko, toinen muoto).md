@@ -70,3 +70,38 @@ Käytetyt taivutusmuodot: [[ない-muoto]] → なくて
 なくてはいけない vs. なくてもいい — mikä ratkaisee merkityksen?
 ?
 Partikkeli: は tuottaa pakon ("jos ei tee, ei käy"), も tuottaa luvan jättää tekemättä ("ei haittaa vaikkei tekisi").
+
+#flashcards/grammar/n4/muodostus
+
+Vなくてはならない／Vなくてはいけない + ない-muoto (verbi) :: ない-muoto (ない→なくて) + は + いけない／ならない. Esim. 本は2週間以内に返さなくてはいけない。 / 規則は守らなくてはならない。
+Vなくてはならない／Vなくてはいけない, kohtelias muoto :: なくては + いけません／なりません. Esim. 返さなくてはいけません。
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä on Vなくてはならない／Vなくてはいけない -rakenteen kirjaimellinen logiikka?
+?
+"Jos ei tee, ei käy" — sama kaksoiskiellon logiikka kuin なければならない:ssa, mutta ehto ilmaistaan て-muodolla + は.
+
+Mikä ero on いけない:lla ja ならない:lla Vなくてはいけない／ならない -rakenteessa?
+?
+いけない painottaa tilannekohtaista pakkoa, ならない yleistä sääntöä/normia; ero on hienovarainen ja käytännössä muodot vaihtelevat vapaasti.
+
+Mikä on Vなくてはならない／Vなくてはいけない -rakenteen kielteinen vastine?
+?
+なくてもかまいません／なくてもいいです: なくてはいけない = pakko, なくてもいい = ei tarvitse.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten Vなくてはならない／いけない eroaa Vなければなりません-rakenteesta?
+?
+Merkitys on sama, mutta taivutuspolku eri: なければ tulee ehtomuodosta ば, なくては て-muodosta. Älä sekoita vaiheita (×なけなくては).
+
+Muistisääntö: mikä partikkeli ratkaisee, onko Vなくて+は／も pakko vai ei?
+?
+なくて＋は = pakko, なくて＋も = ei pakkoa.
+
+#flashcards/grammar/n4/vertailu
+
+Vなくてはならない／Vなくてはいけない (similar/compare) :: Vなければ なりません (velvollisuus)
+Vなくてはならない／Vなくてはいけない (similar/compare) :: ～なくちゃ・～なきゃ (puhekielinen pakko)
+Vなくてはならない／Vなくてはいけない (similar) :: ～なくてもかまいません (ei tarvitse, ei haittaa)

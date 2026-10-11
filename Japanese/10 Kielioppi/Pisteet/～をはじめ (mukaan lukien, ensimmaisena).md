@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 白神山地にはクマゲラ＿＿＿＿、多種多様な動植物が見られます。(edustavin esimerkki ensin)
 ?
 をはじめ — nostaa esiin edustavimman/tärkeimmän esimerkin ennen muita.
+
+#flashcards/grammar/n2/muodostus
+
+～をはじめ + esimerkkien luettelo :: N + をはじめ、N2など. Esim. 白神山地にはクマゲラをはじめ、多種多様な動植物が見られます。
+～をはじめ + henkilö :: N (henkilö) + をはじめ. Esim. 市長をはじめ、皆様のご協力で今日のこの日を迎えることができました。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä ～をはじめ nostaa esiin luettelossa?
+?
+Yhden ensisijaisen/edustavimman esimerkin, jonka jälkeen muut seuraavat.
+
+Mitä ～をはじめ ilmaisee henkilöluettelossa?
+?
+Kunnioitusta: arvokkain henkilö nimetään ensin (市長をはじめ).
+
+#flashcards/grammar/n2/sekaannus
+
+Miten ～をはじめ eroaa rakenteesta ～といった?
+?
+といった listaa tasavertaisia esimerkkejä ilman hierarkiaa; をはじめ nostaa yhden ensisijaisen esimerkin muiden edelle.
+
+#flashcards/grammar/n2/vertailu
+
+N＋をはじめ（として）、N2など (similar/compare) :: ～といった (esimerkiksi tallainen kuin)

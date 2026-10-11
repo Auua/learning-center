@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n2]
 この映画は、事実＿＿＿＿＿作られている。(konkreettinen perusta)
 ?
 に基づいて — "perustuen johonkin", vaatii konkreettisen perustan (data, tosiasia, kokemus).
+
+#flashcards/grammar/n2/muodostus
+
+N に基づいて + verbi :: N + に基づいて + V. Esim. この映画は、事実に基づいて作られている。
+N に基づいた + substantiivi :: N + に基づいた + N2. Esim. 調査結果に基づいた新しいサービス
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä N に基づいて vaatii perustakseen ja missä rekisterissä se toimii?
+?
+Konkreettisen perustan (データ, 事実, 経験, 調査結果); muodollinen, tyypillinen esityksissä ja raporteissa.
+
+Miten に基づいた toimii lauseessa?
+?
+Adnominaalisena määritteenä substantiivin edessä: N に基づいた N2.

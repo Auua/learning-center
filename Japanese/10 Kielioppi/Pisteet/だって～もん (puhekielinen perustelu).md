@@ -50,3 +50,32 @@ tags: [grammar/perusrakenne, jlpt/n3]
 どうしてうそをついたの? ……＿＿＿、だれも僕の言うことを聞いてくれないんだ＿＿。(puolustautuva vastaus)
 ?
 だって ... もん — puhekielinen puolustautuva perustelu, alkaa aina だって:llä.
+
+#flashcards/grammar/n3/muodostus
+
+だって、普通形 + もの・もん (selittävä perustelu) :: だって、普通形 + んだもの／んだもん. Esim. どうしてケータイばかり見ているの? ……だって、することがないんだもの。
+だって、〜 + なんだもの (substantiivi/な-adjektiivi) :: だって + N/na-adj + なんだもの／もん. Esim. このお皿、新婚時代の思い出がいっぱいなんだもの。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä on だって～もん -rakenteen sävy ja milloin sitä käytetään?
+?
+Erittäin puhekielinen, usein lapsellinen tai vetoava; puolustautuminen tai oman käytöksen selittäminen hieman kärsimättömästi.
+
+Mikä ero on もの ja もん välillä (だって～もの/もん)?
+?
+もん on もの:n vielä puhekielisempi supistuma.
+
+Millä tavalla だって～もん alkaa aina, toisin kuin もの・もんだから?
+?
+Alkaa aina だって:llä vastauksena kysymykseen tai moitteeseen; もの・もんだから voi esiintyä itsenäisesti lauseen keskellä ilman だって-alkua.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten だって～もん eroaa もの・もんだから:sta?
+?
+もんだから jatkaa kokonaista selittävää lausetta (usein kohteliaammassa kontekstissa); だって～もん on aina だって-alkuinen puolustautuva vastaus, tyypillisesti lapsen tai läheisen puheessa.
+
+#flashcards/grammar/n3/vertailu
+
+だって、普通形＋もの・もん (similar/compare) :: もの・もんだから (perusteleva syy)

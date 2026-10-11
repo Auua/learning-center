@@ -45,3 +45,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Liikennevälineet: sano ainakin viisi sanaa
+?
+飛行機 (lentokone), 船 (laiva), 電車 ((sähkö)juna), 地下鉄 (metro), 新幹線 (Shinkansen), バス (bussi), タクシー (taksi), 自転車 (polkupyörä), 普通 (paikallisjuna), 急行 (pikajuna), 特急 (erikoispikajuna)

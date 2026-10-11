@@ -67,3 +67,33 @@ Ensimmäinen kertoo mitä pöydällä ON (uusi tieto, が); jälkimmäinen kerto
 チリソースはありませんか — miksi kielteinen muoto kysymyksessä?
 ?
 Kohteliaampi/varovaisempi tapa kysyä saatavuutta — valmistautuu jo mahdolliseen kielteiseen vastaukseen.
+
+#flashcards/grammar/n5/muodostus
+
+あります・います + elottomat ja kasvit (uusi tieto) :: N(elotön/kasvi)が あります. Esim. 机の上に写真があります.
+あります・います + ihmiset ja eläimet (uusi tieto) :: N(ihminen/eläin)が います. Esim. 公園に猫がいます.
+あります・います + tuttu asia ja sen paikka :: N1は N2(paikka)に あります／います. Esim. 東京ディズニーランドは千葉県にあります.
+
+#flashcards/grammar/n5/nyanssi
+
+Mihin kysymykseen vastataan が-versiolla ja mihin は-versiolla (あります・います)?
+?
+が: 'mitä/ketä siellä on?' (paikka tunnetaan); は: 'missä se on?' (asia tunnetaan, paikka on uusi tieto).
+
+Miksi ありませんか on kohteliaampi tapa kysyä saatavuutta kuin ありますか?
+?
+Se valmistautuu jo etukäteen mahdolliseen kielteiseen vastaukseen.
+
+Mitä あります tarkoittaa, kun N2 on tapahtuma (試合, 祭り, 事故)?
+?
+'Järjestetään, pidetään' (Luku 21): 東京でサッカーの試合があります.
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: に vai で あります・います -verbin kanssa, ja miksi?
+?
+Aina に; で vaatii aktiivisen toimintaverbin (駅で買います), kun あります/います kuvaa paikallaan oloa.
+
+#flashcards/grammar/n5/vertailu
+
+Nがあります／います、N1はN2（場所）にあります／います (similar) :: N (paikka) で

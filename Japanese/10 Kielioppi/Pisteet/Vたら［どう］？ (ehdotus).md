@@ -49,3 +49,28 @@ tags: [grammar/perusrakenne, jlpt/n3]
 子どもが歯医者に行きたがらなくて、困ってるんです。……インターネットで調べてみ＿＿＿＿＿＿＿か。(ehdotus)
 ?
 たらどうです — kevyt, rento ehdotus kokeilla jotain.
+
+#flashcards/grammar/n3/muodostus
+
+V(た形)らどう？ + kohtelias :: V(た形) + らどうですか. Esim. インターネットで調べてみたらどうですか。
+V(た形)らどう？ + lyhyt puhekielinen :: V(た形) + ら？ Esim. お酒をやめたら？
+
+#flashcards/grammar/n3/nyanssi
+
+Millä tasolla V(た形)ら？ (ilman どう) on ehdotuksena?
+?
+Kaikkein rennoin muoto, sopii vain hyvin läheisille.
+
+Miten V(た形)らどうですか sävyltään sijoittuu?
+?
+Kohteliaampi mutta silti suora ehdotus; luontevaa ystävien ja tuttavien kesken neuvomistilanteissa.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten Vたらどう？ eroaa Vたほうがいいです:sta?
+?
+たらどう on kevyempi, ehdotuksenomainen ('kokeilepa tätä'); たほうがいい on painokkaampi suositus tai neuvo.
+
+#flashcards/grammar/n3/vertailu
+
+V(た形)らどう？／たら？ (similar/compare) :: Vたほうがいいです (kannattaisi tehda)

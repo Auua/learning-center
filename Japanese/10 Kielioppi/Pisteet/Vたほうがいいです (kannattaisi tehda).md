@@ -53,3 +53,28 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi myönteinen neuvo käyttää た形:ää eikä 辞書形:ää?
 ?
 Kielioppisääntö vain on niin — ほうがいい vertaa kahta vaihtoehtoa ja myönteinen puoli on aina た形:ssä; muista ulkoa, ei loogisesti johdettavissa.
+
+#flashcards/grammar/n4/muodostus
+
+Vほうがいいです + myönteinen neuvo :: V(た形) + ほうがいいです. Esim. 毎日運動したほうがいいです。
+Vほうがいいです + kielteinen neuvo :: V(ない形) + ほうがいいです. Esim. 現金で持って行かないほうがいいですよ。
+
+#flashcards/grammar/n4/nyanssi
+
+Miksi myönteinen neuvo ei käytä 辞書形:ää rakenteessa Vたほうがいいです?
+?
+Myönteinen neuvo käyttää た形:ää, vaikka neuvo koskee tulevaisuutta: 病院へ行ったほうがいいです. ×行くほうがいい kuulostaisi vertailulta kahden vaihtoehdon välillä, ei neuvolta.
+
+Mikä partikkeli lisätään usein loppuun neuvoa antaessa (ほうがいいです)?
+?
+よ, korostamaan hyödyllistä neuvoa kuulijalle: 行かないほうがいいですよ.
+
+Miten kielteinen neuvo muodostetaan rakenteessa ほうがいいです?
+?
+Aina ～ないほうがいいです, ei koskaan ×ほうがよくないです.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten ほうがいいです eroaa 疑問詞+たらいいですか-rakenteesta?
+?
+たらいいですか kysyy neuvoa; ほうがいいです antaa neuvon.

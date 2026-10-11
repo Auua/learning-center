@@ -53,3 +53,35 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on から:lla ja ものですから:lla?
 ?
 から on neutraali syy; ものですから on selittelevä/puolusteleva, käytetään usein anteeksipyynnön yhteydessä.
+
+#flashcards/grammar/n3/muodostus
+
+普通形 + ものですから (kohtelias) :: Esim. 海外に出張していたものですから、ご連絡が遅れて申し訳ありません。
+普通形 + もんだから (puhekielinen) :: Esim. 引っ越しのあと、ずっと忙しかったもんだから。
+な-adjektiivi / substantiivi + な + ものですから :: Esim. 子どもがまだ小さいものですから。
+
+#flashcards/grammar/n3/nyanssi
+
+Minkälaisessa tilanteessa もの・もんだから yleensä esiintyy ja mikä on sävy?
+?
+Selityksenä tai puolusteluna jollekin negatiiviselle (myöhästyminen, kieltäytyminen, unohtaminen); sävy pehmeämpi ja henkilökohtaisempi kuin から.
+
+Milloin もの・もんだから ei sovi?
+?
+Neutraaleihin, tunteettomiin syy-seuraussuhteisiin (esim. tieteellinen selitys); silloin から/ので on luontevampi.
+
+Mikä on もんだから:n rekisteri verrattuna ものですから:an?
+?
+もんだから on selvästi puhekielisempi; ei käytetä muodollisessa kirjoituksessa.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten もの・もんだから eroaa tavallisesta から-syystä?
+?
+から on neutraali syy-ilmaus; もの／もんだから lisää selittelevän tai puolustelevan sävyn, usein anteeksipyynnön yhteydessä.
+
+#flashcards/grammar/n3/vertailu
+
+普通形＋もの／もんだから (similar/compare) :: S1から、S2 (syy)
+普通形＋もの／もんだから (similar) :: 普通形ので (pehmea syy)
+普通形＋もの／もんだから (similar/compare) :: だって～もん (puhekielinen perustelu)

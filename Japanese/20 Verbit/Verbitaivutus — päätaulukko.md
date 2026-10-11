@@ -113,6 +113,7 @@ Sama sääntö kuin [[て-muoto]]-muistiinpanossa; た-muoto on identtinen mutta
 | 〜方（かた） | tekemisen tapa | 書き方 — kirjoitustapa |
 | 〜なさい | pehmeä käsky | 起きなさい — nouse ylös |
 | 〜始める／〜終わる／〜続ける | alkaa／lopettaa／jatkaa | 食べ始める — alkaa syödä |
+| （pelkkä vartalo） | substantiivi, [[ます-vartalo substantiivina (連用形名詞)]] | 始まり — alku, 話し合い — keskustelu |
 
 ### て-muotoon
 
@@ -154,6 +155,8 @@ Sama sääntö kuin [[て-muoto]]-muistiinpanossa; た-muoto on identtinen mutta
 | Pääte | Suomeksi | Esimerkki |
 | --- | --- | --- |
 | 〜ことができる | osaa／voi tehdä | 書くことができる — osaa kirjoittaa |
+| 〜こと | tekeminen (käsite), [[Vこと (nominalisointi, abstrakti tekeminen)]] | 夢は話すことだ — unelma on puhua |
+| 〜の | tekeminen (havainto), [[Vのは・Vのが・Vのを (nominalisointi)]] | 走るのが好き — pidän juoksemisesta |
 | 〜前に | ennen kuin | 食べる前に — ennen syömistä |
 | 〜つもりだ | aikoo tehdä | 買うつもりだ — aion ostaa |
 | 〜ために | jotta／varten | 話すために — puhuakseen |

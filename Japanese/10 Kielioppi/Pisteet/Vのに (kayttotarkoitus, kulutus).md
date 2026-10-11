@@ -55,3 +55,34 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ビデオを修理するのに3週間もかかりました。 — mikä on のに:n rooli tässä?
 ?
 Nimeää tekemisen (ビデオの修理) jota varten aika (3週間) kului — käyttötarkoitus/kulutusrakenne, ei "vaikka"-konjunktio.
+
+#flashcards/grammar/n4/muodostus
+
+V辞書形のに + 使います :: V(辞書形) + のに + 使います. 例: このはさみは花を切るのに使います。
+V辞書形のに + 必要です/かかります :: V(辞書形) + のに + 必要です/かかります. 例: ビデオを修理するのに3週間もかかりました。
+V辞書形のに + 便利です/役に立ちます :: V(辞書形) + のに + 便利です/役に立ちます. 例: 旅行や仕事に便利なんです。
+
+#flashcards/grammar/n4/nyanssi
+
+Mihin predikaatteihin V辞書形のに (käyttötarkoitus) rajoittuu?
+?
+使う, 必要だ, かかる, 便利だ/役に立つ; ei yleiskäyttöinen.
+
+Miten V辞書形のに (käyttötarkoitus) erotetaan konjunktiosta のに ('vaikka')?
+?
+Sama kirjoitusasu, eri rakenne: käyttötarkoitus-のに on keskellä lausetta ja nimeää käyttötarkoituksen ennen edellä mainittuja predikaatteja.
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: Vのに vai Vために, kun tarkoitus on yleinen tavoite?
+?
+ために; のに rajoittuu käyttötarkoitus/kulutus-konteksteihin (使う, 必要, かかる).
+
+Miten Vのに (käyttötarkoitus) eroaa muodosta 普通形のに?
+?
+普通形のに tarkoittaa 'vaikka' ja ilmaisee pettymystä tai yllätystä; täysin eri kielioppi.
+
+#flashcards/grammar/n4/vertailu
+
+V辞書形のに (similar) :: Vのは・Vのが・Vのを (nominalisointi)
+V辞書形のに (similar/compare) :: 普通形のに (vaikka, pettymys)

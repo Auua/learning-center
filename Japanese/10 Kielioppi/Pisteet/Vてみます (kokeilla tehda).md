@@ -52,3 +52,18 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi 見てみたいです ei ole toistovirhe?
 ?
 Ensimmäinen 見て on konkreettinen "katsoa"-teko; jälkimmäinen みたい on apuverbi joka lisää "kokeilla"-merkityksen — kaksi eri funktiota.
+
+#flashcards/grammar/n4/muodostus
+
+Vて-form みます + verbi :: V(て-muoto) + みます. 例: 宇宙から地球を見てみたいです。
+Vて-form みます + lupakysymys :: V(て-muoto) + みてもいいですか. 例: この服を着てみてもいいですか。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten みる kirjoitetaan rakenteessa Vて-form みます ja miksi?
+?
+Hiraganalla (みる), koska se on apuverbi 'kokeilla', ei kirjaimellinen 'katsoa'.
+
+Missä tilanteessa Vて-form みます on erityisen yleinen?
+?
+Kaupassa sovittaessa: 着てみてもいいですか (saanko kokeilla päälle).

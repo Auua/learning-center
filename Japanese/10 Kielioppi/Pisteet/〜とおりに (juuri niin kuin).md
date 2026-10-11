@@ -49,3 +49,19 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi する とおりに käyttää 辞書形:ää mutta 言った とおりに käyttää た形:ää?
 ?
 辞書形 sopii samanaikaiseen jäljittelyyn (malli näytetään juuri nyt); た形 sopii kun malli/ohje annettiin jo aiemmin.
+
+#flashcards/grammar/n4/muodostus
+
+〜とおりに + verbi (辞書形) :: V辞書形 + とおりに. Esim. わたしが今から言うとおりに、書いてください.
+〜とおりに + verbi (た形) :: Vた形 + とおりに. Esim. 見たとおりに、話してください.
+〜とおりに + substantiivi :: N + の + とおりに. Esim. 説明書のとおりに、組み立ててください.
+
+#flashcards/grammar/n4/nyanssi
+
+Milloin 〜とおりに:n edellä käytetään 辞書形 ja milloin た形?
+?
+辞書形, kun malli näytetään samanaikaisesti (するとおりに); た形, kun malli on jo tapahtunut tai kuultu aiemmin (言ったとおりに).
+
+Missä yhteydessä N＋の＋とおりに on yleinen?
+?
+Kirjallisten ohjeiden yhteydessä: 説明書のとおりに, マニュアルのとおりに.

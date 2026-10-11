@@ -61,3 +61,24 @@ Vませんか jättää enemmän tilaa kieltäytyä ("etkö tulisi?"), Vまし�
 いっしょに飲みませんか。 ええ、飲みましょう。 — mikä tässä vuoropuhelussa tapahtuu?
 ?
 Ensin kohtelias kutsu (ませんか), sitten myönteinen vastaus samalla verbillä mutta ましょう-muodossa.
+
+#flashcards/grammar/n5/muodostus
+
+Vませんか + ます-vartalo (kutsu) :: ます-vartalo + ませんか — kohtelias kutsu. 例: いっしょに京都へ行きませんか。
+Vましょう + ます-vartalo (ehdotus) :: ます-vartalo + ましょう — suorempi ehdotus. 例: ちょっと休みましょう。
+
+#flashcards/grammar/n5/nyanssi
+
+Miten Vましょう toimii vastauksena Vませんか-kutsuun?
+?
+Myönteisenä vastauksena samalla verbillä: いっしょに昼ごはんを食べませんか。→ ええ、食べましょう。
+
+Mitä でも tarkoittaa lauseessa ちょっとビールでも飲みませんか?
+?
+Ei 'mutta' vaan 'tai jotain sen kaltaista'; antaa esimerkin ja pehmentää ehdotusta.
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: Vませんか vai Vましょう, kun halutaan jättää tilaa kieltäytyä?
+?
+Vませんか; se on kohteliaampi ja varovaisempi. Vましょう on suorempi ja olettaa myöntävän vastauksen.

@@ -48,3 +48,27 @@ tags: [grammar/perusrakenne, jlpt/n2]
 政府は景気が回復するまでは消費税を上げない＿＿＿＿＿。(virallinen ilmoitettu kanta)
 ?
 としている — raportoi nimetyn tahon virallisen ilmoituksen/kannan.
+
+#flashcards/grammar/n2/muodostus
+
+主語は、普通形 + としている :: Esim. 政府は景気が回復するまでは消費税を上げないとしている。 (hallitus ilmoittaa ettei nosta veroa ennen kuin talous toipuu)
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä 普通形としている vaatii subjektiksi?
+?
+Eksplisiittisen lausujan tai tahon (企業, 政府, 学校側); kertoo mitä he ovat virallisesti ilmoittaneet, ei toimittajan omaa arviota.
+
+Missä 普通形としている on yleinen?
+?
+Uutiskielessä virallisten lausuntojen epäsuorassa lainaamisessa.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten としている eroaa muodosta とみられる?
+?
+とみられる on ulkopuolinen, objektiivinen arvio (usein ilman nimettyä lähdettä); としている raportoi nimetyn tahon oman virallisen ilmoituksen tai kannan.
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋としている (similar/compare) :: 普通形とみられる (arvioidaan olevan)

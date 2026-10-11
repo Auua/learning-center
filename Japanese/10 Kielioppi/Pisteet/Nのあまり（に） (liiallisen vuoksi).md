@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 彼は驚きの＿＿＿＿、手に持っていたカップを落としてしまった。(voimakkaan tunteen äärimmäinen seuraus)
 ?
 あまりに — "liiallisen tunteen vuoksi", johtaa yllättävään/äärimmäiseen seuraukseen.
+
+#flashcards/grammar/n2/muodostus
+
+N／普通形＋あまり（に） + substantiivi :: N + の + あまり（に）. Esim. 驚きのあまりに、カップを落としてしまった。
+N／普通形＋あまり（に） + verbi (辞書形) :: 普通形（辞書形）+ あまり. Esim. 心配するあまり、つい電話をしては嫌がられている。
+
+#flashcards/grammar/n2/nyanssi
+
+Millainen jälkilause N／普通形＋あまり（に） -rakenteessa on tyypillinen?
+?
+Yllättävä, usein kielteinen tai äärimmäinen seuraus, ei neutraali tulos.
+
+Mikä on あまり:n sanaluokka rakenteessa N／普通形＋あまり（に）?
+?
+Substantiivi ('liiallisuus'), jota seuraa に; ei adverbi kuten あまり〜ない.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten Nのあまり（に） eroaa あまり〜ない -rakenteesta?
+?
+あまり〜ない = 'ei kovin' (astetta lieventävä); あまり（に） = tunteen liiallisuus, joka johtaa äärimmäiseen seuraukseen. Täysin eri kielioppi.
+
+#flashcards/grammar/n2/vertailu
+
+N／普通形＋あまり（に） (similar/compare) :: とても・あまり (hyvin, ei kovin)

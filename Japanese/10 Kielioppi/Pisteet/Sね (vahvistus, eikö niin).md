@@ -56,3 +56,29 @@ Vertailu: myöhemmin opittava [[Sよ (uuden tiedon korostus)]] on vastakkainen s
 やまと美術館ですね。 — mitä ね tässä tekee?
 ?
 Varmistaa/toistaa juuri kuullun tiedon oikein ymmärretyksi — tyypillistä puhelinpalvelussa.
+
+#flashcards/grammar/n5/muodostus
+
+Sね + myötätunto :: Lause + ね. Esim. 大変ですね。
+Sね + tiedon varmistus :: Lause + ね toistetun tiedon oikean ymmärtämisen varmistamiseen. Esim. 871の6813ですね。
+
+#flashcards/grammar/n5/nyanssi
+
+Milloin Sね:tä käytetään kuullun tiedon yhteydessä?
+?
+Kun toistetaan juuri kuultu tieto (esim. puhelinnumero, nimi) varmistamaan, että se ymmärrettiin oikein. Hyvin yleistä asiakaspalvelussa (やまと美術館ですね).
+
+Millainen sävy ね:llä on ja mikä on sen riski?
+?
+Sävy on aina pehmentävä ja kutsuva. Liian usein toistettuna voi kuulostaa lapselliselta.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten Sね eroaa Sよ:sta?
+?
+ね hakee samanmielisyyttä tai vahvistusta; よ välittää uutta tietoa kuulijalle jämäkästi. Yhdessä: ～ですよね (uusi tieto + vahvistuksen haku).
+
+#flashcards/grammar/n5/vertailu
+
+Sね (similar) :: Sよ (uuden tiedon korostus)
+Sね (similar) :: 普通形よね (varmistava loppupartikkeli)

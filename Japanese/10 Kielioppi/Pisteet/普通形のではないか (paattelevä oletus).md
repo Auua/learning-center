@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n3]
 組織には偉大なる脇役たちがいないと、組織は徐々に疲弊していく＿＿＿＿＿。(suora päätelmä, pehmennetty kysymysmuoto)
 ?
 のではないか — kaksinkertainen kielteinen kysymys, ilmaisee varovaisen myönteisen päätelmän.
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋のではないか :: 普通形 + のではないか. Esim. 留学している息子から何の連絡もない。何かあったのではないか。
+普通形＋んじゃないか (puhekielinen) :: 普通形 + んじゃないか. Esim. 何か事故でもあったんじゃないかと心配している。
+
+#flashcards/grammar/n3/nyanssi
+
+Miten のではないか eroaa のではないだろうか:sta?
+?
+Looginen rakenne on sama (kaksinkertainen kielto = varovainen myönteinen väite), mutta のではないか on lyhyempi ja hieman suorempi; だろうか lisää pohdiskelevan sävyn ja pehmentää väitettä lisää.
+
+Mitä lauseenloppuja のではないか:n perään usein tulee?
+?
+と思う, と心配している, との事だ jne. täydentämään lausetta.
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi sopii puhuttuun ja kirjoitettuun kieleen: のではないか vai のではないだろうか?
+?
+のではないか sopii molempiin ja on suorempi; のではないだろうか on pohdiskelevampi ja sopii erityisesti kirjoitettuun mielipidetekstiin.
+
+#flashcards/grammar/n3/vertailu
+
+普通形＋の（ん）ではないか (similar/compare) :: 普通形のではないだろうか (varovainen oletus)

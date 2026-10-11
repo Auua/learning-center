@@ -53,3 +53,32 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miten erotat 行くことがある:n ja 行ったことがある:n toisistaan?
 ?
 行くことがある (辞書形) = joskus käy niin että menen (toistuva mahdollisuus); 行ったことがある (た形) = olen joskus käynyt (elämänkokemus).
+
+#flashcards/grammar/n3/muodostus
+
+V辞書形ことがある・こともある + 辞書形 :: V(辞書形) + ことがある. Esim. たまに雪で止まることがある。
+V辞書形ことがある・こともある + ない形 :: V(ない形) + こともある. Esim. 見ないこともあります。
+
+#flashcards/grammar/n3/nyanssi
+
+Miten verbimuoto ratkaisee Vことがある:n merkityksen?
+?
+辞書形+ことがある = satunnainen poikkeus (joskus käy niin); た形+ことがある = elämänkokemus. Sama runko, eri verbimuoto, täysin eri merkitys.
+
+Minkä tyyppisten adverbien kanssa 辞書形ことがある esiintyy usein?
+?
+いつも/めったに/たまに-tyyppisten kanssa, jotka osoittavat mikä on normaali ja mikä poikkeus: いつもは〜が、たまに〜ことがある.
+
+Mikä on ero ことがある ja こともある välillä (辞書形)?
+?
+こともある (も korostaa) on hieman pehmeämpi/yllättyneempi sävy kuin がある.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten 止まることがある eroaa muodosta 止まったことがある?
+?
+辞書形: joskus pysähtyy, toistuva mahdollisuus. た形: on pysähtynyt kerran, yksittäinen elämänkokemus. Verbimuoto on ainoa vihje.
+
+#flashcards/grammar/n3/vertailu
+
+V辞書形ことがある・こともある (similar/compare) :: Vたことがあります (kokemus)

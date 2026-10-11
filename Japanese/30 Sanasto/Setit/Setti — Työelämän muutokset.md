@@ -46,3 +46,13 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+［転勤、］おめでとうございます。 ::: Onnittelut [siirrosta]!
+いろいろお世話になりました。 ::: Kiitos kaikesta avusta.
+体に気をつけて。 ::: Pidä huolta itsestäsi.
+頑張ってください。 ::: Tee parhaasi!/Onnea matkaan!
+どうぞお元気で。 ::: Voi hyvin! (pitkän eron jäähyväiset)
+一杯飲みましょう。 ::: Otetaan yhdet.

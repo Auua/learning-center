@@ -54,3 +54,31 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Voiko samaa tapahtumaa ilmaista sekä おかげで:llä että せいで:llä?
 ?
 Kyllä — jos puhuja näkee saman tapahtuman myönteisenä, käytetään おかげで; jos kielteisenä, せいで. Esim. 台風のせいで旅行に行けなくなった ↔ 台風のおかげで休みになってうれしかった.
+
+#flashcards/grammar/n3/muodostus
+
+せいで + verbi／い-adjektiivi :: 普通形 + せいで、+ kielteinen seuraus. Esim. 急に休んだせいで、チームに迷惑をかけた.
+せいで + な-adjektiivi :: な-adj + な + せいで.
+せいで + substantiivi :: N + の + せいで. Esim. 風邪薬のせいで、眠くなってきました.
+せいだ + predikaattina :: N2は N1の せいだ. Esim. 子どもが本を読まなくなったのは、テレビのせいだ.
+
+#flashcards/grammar/n3/nyanssi
+
+Minkä sävyinen seuraus せいで vaatii?
+?
+Kielteisen seurauksen; sisältää usein syyttävän sävyn ('jonkun tai jonkin vika').
+
+Mihin のは〜せいだ -rakenne on tarkoitettu?
+?
+Cleft-rakenne, joka korostaa syytettävää asiaa.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten せいで eroaa rakenteesta おかげで?
+?
+Sama rakenne, mutta せいで: kielteinen seuraus, syyttävä sävy; おかげで: myönteinen seuraus. Sama tapahtuma (台風) voi olla kummallakin puhujan näkökulman mukaan.
+
+#flashcards/grammar/n3/vertailu
+
+普通形（な・の）＋せいで／せいだ (similar/compare) :: おかげで・おかげだ (myonteinen syy)
+普通形（な・の）＋せいで／せいだ (similar) :: S1から、S2 (syy)

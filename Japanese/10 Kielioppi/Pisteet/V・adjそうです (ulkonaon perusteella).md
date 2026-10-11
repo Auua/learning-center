@@ -63,3 +63,42 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi わたしはうれしそうです kuulostaa oudolta?
 ?
 そうです ilmaisee ulkonäöstä pääteltyä asiaa — omaa tunnetta ei tarvitse päätellä ulkonäöstä, joten sitä ei käytetä ensimmäisestä persoonasta tunneadjektiiveilla.
+
+#flashcards/grammar/n4/muodostus
+
+V・adjそうです + verbi (ます-vartalo) :: V(ます-vartalo) + そうです, tapahtuma on juuri alkamaisillaan. Esim. 今にも雨が降りそうです.
+V・adjそうです + い-adjektiivi :: い-adj (い pois) + そうです, näyttää siltä. Esim. おいしそうですね.
+V・adjそうです + な-adjektiivi :: な-adj + そうです. Esim. まじめそうですね.
+そう + substantiivin määrite (そうな + N) :: そう + な + N. Esim. 怖そうな犬ですね.
+そう + verbin/adjektiivin määrite (そうに + V/adj) :: そう + に + V/adj. Esim. 楽しそうに歌っています.
+V・adjそうです + kielteinen ulkonäkö :: ない → なさそう. Esim. 楽しくなさそうだね.
+V(ます-vartalo)＋そうもない :: Vます-vartalo + そうもない: vahva kielteinen ennuste. Esim. ミーティングはまだ終わりそうもありません.
+
+#flashcards/grammar/n4/nyanssi
+
+Mitkä ovat V・adjそうです -rakenteen epäsäännölliset muodot い-adjektiiveilla いい ja ない?
+?
+いい → よさそう (ei いそう), ない → なさそう (ei なそう).
+
+Miten そうもない eroaa pelkästä なさそう (V・adjそうです)?
+?
+そうもない on vahvempi kielteinen ennuste: tapahtuma ei näytä toteutuvan lainkaan annetuissa olosuhteissa.
+
+Kenen tunteesta V・adjそうです voidaan käyttää tunneadjektiivien (うれしい, 悲しい) kanssa?
+?
+Toisen henkilön tunteesta (ミラーさんはうれしそうです); omaa tunnetta ei tarvitse päätellä ulkonäöstä.
+
+Mihin aikaan viittaa verbi + そうです?
+?
+Tulevaan, juuri alkamaisillaan olevaan tapahtumaan, usein 今にも/もうすぐ-adverbien kanssa.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten ulkonäkö-そうです eroaa kuulopuhe-そうです:sta (普通形そうです)?
+?
+Ulkonäkö-そうです liitetään vartaloon; kuulopuhe-そうです liittyy suoraan koko 普通形-lauseeseen (サラリーマンだそうです, 'kuulemma').
+
+#flashcards/grammar/n4/vertailu
+
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (similar/compare) :: そうです (niin on)
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (similar/compare) :: 普通形そうです (kuulopuhe)

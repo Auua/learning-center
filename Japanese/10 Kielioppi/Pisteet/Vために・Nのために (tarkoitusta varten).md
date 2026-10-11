@@ -55,3 +55,35 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi 泳げるように eikä 泳げるために?
 ?
 Potentiaalimuoto (泳げる) on ei-tahdonalainen — sille käytetään aina ように, ei ために.
+
+#flashcards/grammar/n4/muodostus
+
+V(辞書形)ために + tahdonalainen verbi :: V(辞書形, tahdonalainen) + ために. Esim. 将来自分の店を持つために、貯金しています。
+Nのために + substantiivi :: N + の + ために. Esim. 健康のために、何かしていますか。
+Nのために + henkilö (hyödynsaaja) :: Henkilö + の + ために. Esim. ある女の人のために、作った曲です。
+
+#flashcards/grammar/n4/nyanssi
+
+Millainen verbin täytyy olla ennen ために (V(辞書形)ために)?
+?
+Tahdonalainen 辞書形; ei potentiaali, ei kielto, ei tilaverbi (niissä käytetään ように).
+
+Mitä kahta merkitystä N+のために voi ilmaista?
+?
+(1) tavoite tai päämäärä (健康のために, terveyden vuoksi) tai (2) hyödynsaaja, jolle jotain tehdään (女の人のために).
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: ために vai ように, kun verbi on tahdonalainen vai ei-tahdonalainen?
+?
+Tahdonalainen verbi → ために; ei-tahdonalainen (potentiaali, kielto) → ように.
+
+Miten tarkoitus-ために eroaa syy-ために:sta (ため［に］・ためだ)?
+?
+Tarkoitus-ために ilmaisee tulevaa tahdonalaista tavoitetta; syy-ために ilmaisee objektiivisen, jo tapahtuneen syyn (ビザを取らなかったために、入国できなかった).
+
+#flashcards/grammar/n4/vertailu
+
+V(辞書形)ために／Nのために (similar/compare) :: Vように (jotta, niin etta)
+V(辞書形)ために／Nのために (similar/compare) :: ～ため［に］・ためだ (syy, ei tarkoitus)
+V(辞書形)ために／Nのために (similar/compare) :: Vためには (jotta voisi)

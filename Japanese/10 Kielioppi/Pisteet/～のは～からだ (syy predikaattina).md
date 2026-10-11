@@ -71,3 +71,43 @@ Käytetyt taivutusmuodot: [[普通形 (puhekielinen perusmuoto)]] + の (nominal
 Miten のは…からです eroaa tavallisesta から-syylauseesta?
 ?
 Tavallisessa lauseessa から liittää syyn seuraukseen; tässä selitettävä asia nostetaan のは-osaan ja syy jää lauseen lopun predikaatiksi korostettuna.
+
+#flashcards/grammar/n3/muodostus
+
+～のは～からだ + 普通形 :: V(普通形) + のは + V(普通形) + からです. Esim. わたしが結婚したくないのは自由な生活をしたいからです。
+…のはなぜですか + vastaus からです :: Kysymys …のはなぜですか → vastaus …からです. Esim. 仕事を辞めたのはなぜですか。……勉強をしたかったからです。
+
+#flashcards/grammar/n3/nyanssi
+
+Miten ～のは～からだ liittyy なぜ／どうして-kysymyksiin?
+?
+Kysymys nostaa asian のは-osaan ja vastaus antaa syyn からです-predikaattina.
+
+Millainen sävy ～のは～からだ -rakenteella on?
+?
+Selittävä ja jäsentävä; sopii haastatteluihin, esseisiin ja perusteluihin, joissa syy esitetään painokkaasti lopussa.
+
+Miten からです muuttuu puhekielessä ～のは～からだ-rakenteessa?
+?
+からだ tai からなんです.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ～のは～からだ eroaa rakenteesta S1から、S2?
+?
+S1から、S2:ssa から on lauseiden välinen liite (koska X, niin Y); tässä からです on itse predikaatti ja korostus on siinä mikä syy on.
+
+Miten ～のは～からだ eroaa rakenteesta ～のはNです?
+?
+Sama cleft-kehys, mutta ～のはNです:n loppuun tulee substantiivi (aika, paikka, henkilö), tässä syy.
+
+Miten ～のは～からだ eroaa rakenteesta ～ためだ?
+?
+ためだ on muodollisempi ja kirjallisempi tapa ilmaista syy predikaattina.
+
+#flashcards/grammar/n3/vertailu
+
+…のは…からだ／からです (similar) :: S1から、S2 (syy)
+…のは…からだ／からです (similar/compare) :: ～のは Nです (korostusrakenne, cleft)
+…のは…からだ／からです (similar) :: Vのは・Vのが・Vのを (nominalisointi)
+…のは…からだ／からです (similar) :: ～ため［に］・ためだ (syy, ei tarkoitus)

@@ -48,3 +48,27 @@ tags: [grammar/perusrakenne, jlpt/n3]
 誰も手伝ってくれないなら、私がやる＿＿＿＿。(ainoa jäljellä oleva vaihtoehto)
 ?
 しかない — "ei ole muuta vaihtoehtoa kuin", kaikki muut mahdollisuudet suljettu pois.
+
+#flashcards/grammar/n3/muodostus
+
+V辞書形＋しかない + verbi :: V辞書形 + しかない. Esim. 誰も手伝ってくれないなら、私がやるしかない。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä Vしかない implikoi muista vaihtoehdoista?
+?
+Muut vaihtoehdot on jo tutkittu ja hylätty tai suljettu pois; jäljelle jää vain yksi tie.
+
+Millainen sävy Vしかない:llä usein on?
+?
+Alistunut tai passiivinen; kuvaa tilanteen sanelemaa ainoaa vaihtoehtoa.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten Vしかない eroaa Vざるを得ない:sta?
+?
+Molemmat ilmaisevat pakon. しかない korostaa, ettei muita vaihtoehtoja ole jäljellä; ざるを得ない korostaa vastentahtoisuutta tehdä ei-toivottua tekoa.
+
+#flashcards/grammar/n3/vertailu
+
+V辞書形＋しかない (similar/compare) :: Vざるを得ない (on pakko)

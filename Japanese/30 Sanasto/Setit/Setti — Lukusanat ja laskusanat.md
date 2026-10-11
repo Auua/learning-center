@@ -111,3 +111,32 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+りんごを 三つ ください。 ::: Kolme omenaa, kiitos.
+全部で いくらですか。 ::: Paljonko yhteensä?
+家族は 何人ですか。 ::: Montako henkeä perheessänne on?
+どのくらい かかりますか。 ::: Kuinka kauan siihen menee?
+ビールを 一杯 飲みましょう。 ::: Otetaan yksi olut.
+
+#flashcards/setti/ero
+
+十 japanilaisessa lukusarjassa?
+?
+とお, ei じゅう. Yhdestätoista eteenpäin käytetään kiinalaisperäisiä lukuja (十一個).
+
+一人 ja 二人: poikkeus?
+?
+ひとり ja ふたり ovat japanilaisesta sarjasta; 三人 (さんにん) alkaen kaava on säännöllinen.
+
+～時間 vs ～時, ～か月 vs ～月?
+?
+三時 = kello kolme, 三時間 = kolme tuntia; 三月 = maaliskuu, 三か月 = kolme kuukautta.
+
+#flashcards/setti/teema
+
+Setti — Lukusanat ja laskusanat: sano ainakin viisi sanaa
+?
+一つ (yksi), 二つ (kaksi), 三つ (kolme), 四つ (neljä), 五つ (viisi), 六つ (kuusi), 七つ (seitsemän), 八つ (kahdeksan), 九つ (yhdeksän), [[十（とお）\ (kymmenen), いくつ (montako), [[～人（にん）\ (henkilöä)…

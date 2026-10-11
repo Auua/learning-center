@@ -46,3 +46,22 @@ tags: [grammar/perusrakenne, jlpt/n2]
 5年間の受験勉強＿＿、ようやく国家試験に合格できた。(pitkän vaivalloisen prosessin jälkeen)
 ?
 の末 — korostaa pitkän/vaivalloisen prosessin kestoa ennen lopputulosta.
+
+#flashcards/grammar/n2/muodostus
+
+～の末（に） + kesto／prosessi :: N (kesto) + の末（に）. Esim. 5年間の受験勉強の末、ようやく国家試験に合格できた。
+～た末（に） + verbi :: V(た形) + 末（に）. Esim. 苦労した末、画家はやっと作品を完成させることができた。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä ～の末 erityisesti korostaa lopputuloksesta?
+?
+Prosessin pituutta ja vaivaa ennen lopputulosta; ei sovi hetkellisiin tai vaivattomiin tapahtumiin.
+
+Mitkä adverbit liittyvät usein ～の末-lauseeseen?
+?
+とうとう, やっと, ようやく: korostavat pitkän odotuksen päättymistä.
+
+#flashcards/grammar/n2/vertailu
+
+N（期間）＋の末（に）・Vた末（に） (similar) :: Vてはじめて (vasta silloin kun)

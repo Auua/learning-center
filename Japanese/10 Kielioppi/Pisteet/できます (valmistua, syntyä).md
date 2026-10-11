@@ -60,3 +60,32 @@ tags:
 友達ができました。 — mitä tämä tarkoittaa?
 ?
 Sain (uusia) ystäviä — idiomi, ei kirjaimellinen käännös "ystävä voitiin".
+
+#flashcards/grammar/n4/muodostus
+
+Nができます (valmistua, syntyä) :: N + が + できます. Esim. 駅の前に大きいスーパーができました。 (aseman eteen on tullut iso supermarket)
+Nができます (idiomi: ystävä) :: 友達ができました。 (sain ystävän/ystäviä)
+
+#flashcards/grammar/n4/nyanssi
+
+Mitä できます tarkoittaa Nができます-rakenteessa, ja mitä se ei tarkoita?
+?
+'Valmistua, syntyä, tulla olemassaolevaksi'; ei 'osata/pystyä'. Aihe on asia, joka ilmestyy, ei tekijä.
+
+Miten 友達ができる käännetään ja miksi ei suoraan?
+?
+'Ystävä syntyy minulle' eli sain ystävän; yleinen idiomi, jota ei käännetä 'ystävä voidaan'.
+
+Minkälaisista asioista できます (valmistua) tavallisesti sanotaan?
+?
+Rakennuksista, palveluista ja tapahtumista: 空港ができました, 写真ができました (kuva on valmistunut).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten tunnistan, onko できます 'valmistua' vai potentiaali 'osata tehdä'?
+?
+Jos aihe on rakennus/tapahtuma/asia, joka ilmestyy, kyse on 'valmistua, syntyä'; potentiaalissa できる on する:n potentiaali (osata tehdä).
+
+#flashcards/grammar/n4/vertailu
+
+Nができます（valmistua） (compare) :: Potentiaali える

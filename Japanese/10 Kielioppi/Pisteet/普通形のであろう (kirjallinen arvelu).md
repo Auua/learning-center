@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n1]
 ガリレオは「それでも地球は回る」と言った。地動説への強い信念があった＿＿＿＿＿。(kirjallinen pohdiskeleva päätelmä)
 ?
 のであろう — でしょう:n kirjallinen vastine, kirjoittajan pohdiskeleva päätelmä.
+
+#flashcards/grammar/n1/muodostus
+
+普通形＋のであろう :: 普通形 + のであろう. Esim. ガリレオは…地動説への強い信念があったのであろう。(Galileolla lienee ollut vahva usko heliosentriseen malliin.)
+普通形＋のだろう (yleisempi vastine) :: 普通形 + のだろう. Esim. 洋子さんは先に帰った。保育所に子どもを迎えに行ったのだろう。
+
+#flashcards/grammar/n1/nyanssi
+
+Missä のであろう eroaa のだろう:sta ja missä sitä käytetään?
+?
+のであろう on selvästi kirjallisempi; käytetään esseissä, uutisanalyyseissä ja kaunokirjallisuudessa.
+
+Mihin のであろう-päätelmä perustuu?
+?
+Aina näkyvään vihjeeseen tai havaintoon, josta kirjoittaja tekee pohdiskelevan päätelmän.
+
+#flashcards/grammar/n1/sekaannus
+
+Miten 普通形のであろう eroaa 普通形でしょう:sta?
+?
+でしょう on puhe-/yleiskielinen todennäköisyysilmaus; のであろう on sen kirjallinen, pohdiskelevampi vastine kirjoitetussa analyyttisessä tekstissä.
+
+#flashcards/grammar/n1/vertailu
+
+普通形＋のであろう (similar/compare) :: 普通形でしょう (todennakoisyys)

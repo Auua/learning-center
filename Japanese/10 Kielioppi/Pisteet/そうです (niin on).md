@@ -71,3 +71,38 @@ Miksi そうです ei sovi kysymykseen "だれですか"?
 そうですか — mihin tätä käytetään?
 ?
 Uuden tiedon vastaanottamiseen, "vai niin" / "ymmärrän" — ei kysymys, vaan kuittaus.
+
+#flashcards/grammar/n5/muodostus
+
+そうです + myönteinen vastaus :: はい、そうです. Esim. それはテレホンカードですか。→ はい、そうです.
+そうです + kielteinen vastaus :: いいえ、そうじゃありません／いいえ、違います.
+そうですか + uuden tiedon vastaanotto :: そうですか: 'vai niin'. Esim. この傘はシュミットさんのです。→ そうですか.
+
+#flashcards/grammar/n5/nyanssi
+
+Millaiseen kysymykseen そうです voi vastata?
+?
+Vain substantiivilauseeseen (N+ですか); ei kysymyssanakysymykseen (だれ, 何, どこ).
+
+Miten そうですか-intonaatio vaikuttaa merkitykseen?
+?
+Laskeva: neutraali 'vai niin'; nouseva: voi kuulostaa epäuskoiselta ('ai niinkö?').
+
+Miten そうですか eroaa sanasta そうですね?
+?
+そうですか vastaanottaa uutta tietoa; そうですね osoittaa samaa mieltä jostain jo yhteisesti havaitusta (esim. sää).
+
+#flashcards/grammar/n5/sekaannus
+
+Miten そうです (niin on) eroaa ulkonäkö-そうです:sta (V・adjそうです)?
+?
+Ulkonäkö-そうです liittyy verbin/adjektiivin vartaloon (降りそう, 'näyttää siltä'); tämä on itsenäinen viittaus koko edelliseen substantiivilauseeseen.
+
+Miten そうです (niin on) eroaa kuulopuhe-そうです:sta?
+?
+Kuulopuhe-そうです liittyy koko 普通形-lauseeseen ja välittää ulkopuolelta kuultua tietoa ('kuulemma'); tämä vahvistaa tai kieltää edellisen lauseen.
+
+#flashcards/grammar/n5/vertailu
+
+そうです／そうじゃありません (similar/compare) :: V・adjそうです (ulkonaon perusteella)
+そうです／そうじゃありません (similar/compare) :: 普通形そうです (kuulopuhe)

@@ -56,3 +56,28 @@ Vertailu [[Liikkumisen partikkelit (へ・で・と)]]: へ osoittaa edelleen su
 神戸へインド料理を食べに行きます — mikä on に:n rooli?
 ?
 に osoittaa tarkoituksen (miksi mennään) — ます-vartalo (食べ) + に kertoo mitä siellä tehdään.
+
+#flashcards/grammar/n5/muodostus
+
+N（場所）へVます-vartalo に行きます + verbi :: N（paikka）へ + ます-vartalo + に + 行く／来る／帰る. Esim. 神戸へインド料理を食べに行きます。
+N（場所）へVます-vartalo に行きます + tekoa ilmaiseva substantiivi :: N + に + liikeverbi. Esim. フランスへ料理の勉強に行きます。
+
+#flashcards/grammar/n5/nyanssi
+
+Millainen verbi voi olla N（場所）へVます-vartalo に行きます -rakenteen vartalona?
+?
+Aina toimintaverbi (食べる, 買う, 見る), ei koskaan toinen liikeverbi.
+
+Millainen substantiivin on oltava N（場所）へVます-vartalo に行きます -rakenteen substantiivi-versiossa?
+?
+Tekoa tai toimintaa ilmaiseva sana (勉強, 買い物, 旅行).
+
+#flashcards/grammar/n5/sekaannus
+
+Mitä kaksi partikkelia へ ja に tekevät N（場所）へVます-vartalo に行きます -lauseessa?
+?
+へ osoittaa suunnan, に kertoo tarkoituksen. Kaksi eri partikkelia kahdessa eri roolissa.
+
+#flashcards/grammar/n5/vertailu
+
+N（場所）へVます-vartalo に行きます／来ます／帰ります (similar) :: Liikkumisen partikkelit (へ・で・と)

@@ -72,3 +72,44 @@ Ei — でしょ muistuttaa itsestäänselvyydestä ja pohjustaa ohjetta; vastau
 Milloin でしょ ei sovi?
 ?
 Kohteliaissa tilanteissa ja ylempiarvoiselle puhuttaessa — supistuma on selvästi tuttavallista arkipuhetta.
+
+#flashcards/grammar/n3/muodostus
+
+普通形 + でしょ :: Muistutus tai lempeä moite. Esim. サッカーの練習に行くんでしょ。 (な-adj/N ilman だ:ta)
+普通形 + だろ :: Rennompi, miehinen sävy. Esim. 誘ったのは君だろ。
+普通形 + だろう (toteava) :: Itsestäänselvyyden toteaminen. Esim. もう寝る時間だろう。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä on でしょ-supistuman tyypillinen sävy ja tilanne?
+?
+Aikuinen muistuttaa lasta tai läheistä siitä, minkä tämä jo tietää; lempeän moittiva, ei tiedustelu.
+
+Miten でしょ ja だろ eroavat käyttäjän ja sävyn suhteen?
+?
+だろ on suora ja miehinen; naisten ja neutraalissa puheessa でしょ.
+
+Kenelle でしょ・だろ ei sovi?
+?
+Ei ylempiarvoiselle eikä asiakkaalle; supistuma on selvästi tuttavallinen.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten でしょ eroaa muodosta 普通形でしょう？ (varmistus)?
+?
+でしょう？ (kohtelias, nouseva) odottaa kuulijan vahvistusta; でしょ toteaa asian, jonka kuulija jo tietää, eikä vastausta oikeasti odoteta.
+
+Miten でしょ eroaa ennusteesta 普通形でしょう (laskeva)?
+?
+Laskeva でしょう on todennäköisyysennuste; でしょ-supistuma muistuttaa tunnetusta asiasta.
+
+Miten でしょ eroaa partikkelista ね?
+?
+ね hakee myötäilyä tasavertaiselta; でしょ vetoaa siihen, mikä on jo kaikkien tiedossa.
+
+#flashcards/grammar/n3/vertailu
+
+…でしょ／…だろ (similar/compare) :: 普通形でしょう？ (varmistus)
+…でしょ／…だろ (similar) :: Sね (vahvistus, eikö niin)
+…でしょ／…だろ (similar) :: ～ちゃう・～とく・～てる (puhekieliset supistumat)
+…でしょ／…だろ (similar) :: 普通形よね (varmistava loppupartikkeli)

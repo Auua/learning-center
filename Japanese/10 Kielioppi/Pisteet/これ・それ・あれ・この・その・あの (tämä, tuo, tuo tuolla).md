@@ -72,3 +72,36 @@ Vertailu: [[ここ・そこ・あそこ]] (paikat, [[Minna no Nihongo I#Luku 3]]
 あの方 vs あの人 — ero?
 ?
 Sama merkitys ("tuo henkilö"), あの方 on kohteliaampi.
+
+#flashcards/grammar/n5/muodostus
+
+これ・それ・あれ + itsenäinen substantiivi :: これ (lähellä puhujaa), それ (lähellä kuulijaa), あれ (kaukana molemmista), kysymys どれ.
+この・その・あの + määrite :: この／その／あの + N, kysymys どの + N. Esim. その本.
+
+#flashcards/grammar/n5/nyanssi
+
+Voiko これ・それ・あれ seistä suoraan substantiivin edessä?
+?
+Ei (×これ本); silloin käytetään この/その/あの.
+
+Miten あの voi viitata henkilöön kunnioittavasti?
+?
+あの方, kohteliaampi kuin あの人.
+
+Milloin どれ ja milloin どちら?
+?
+どれ kun vaihtoehtoja on kolme tai enemmän; kahden välillä どちら.
+
+Mitä こんな／そんな／あんな (Luku 26) ilmaisevat verrattuna この-sarjaan?
+?
+Laatua ('tällainen/tuollainen'), ei fyysistä osoittamista: こんな家がほしいです.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten これ・それ・あれ eroaa sarjasta ここ・そこ・あそこ?
+?
+Sama etäisyysjärjestelmä, mutta これ-sarja koskee esineitä ja ここ-sarja paikkoja.
+
+#flashcards/grammar/n5/vertailu
+
+これ・それ・あれ／この・その・あの (similar) :: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat)

@@ -53,3 +53,29 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miksi あの方 sopii kun molemmat tuntevat小川さんの entuudestaan?
 ?
 あ-sarja käytetään kun puhuja olettaa kuulijankin jo tuntevan viitatun asian/henkilön yhteisestä tiedosta.
+
+#flashcards/grammar/n3/muodostus
+
+あ～ (あの方, あの人) + milloin? :: あの／あの方／あの人: molemmat osapuolet tuntevat kohteen. Esim. あの方、今年の4月に転勤されましたよ.
+そ～ (その, その人) + milloin? :: その／そこ／その人: juuri kuultu, kuulijalle uusi tieto. Esim. 鈴木さん？その人、近所の人ですか.
+そのとき・そのころ + milloin? :: Viittaa juuri mainittuun aikaan kirjoitetussa tekstissä. Esim. そのころは、まだ緑もたくさんありました.
+
+#flashcards/grammar/n3/nyanssi
+
+Milloin あ～ ja milloin そ～ valitaan, kun viitataan jo mainittuun asiaan?
+?
+あ: puhuja olettaa kuulijan tuntevan asian (yhteinen tieto); そ: kuulija kuulee asiasta nyt ensimmäistä kertaa.
+
+Mitä sarjaa käytetään kirjoitetussa tekstissä viittaamaan edellisessä lauseessa mainittuun?
+?
+Järjestelmällisesti そ:ta (asia, aika, paikka); tekstin sisäinen koheesio.
+
+#flashcards/grammar/n3/sekaannus
+
+Perustuuko あ～・そ～ -valinta fyysiseen etäisyyteen, kuten これ・それ・あれ?
+?
+Ei; valinta perustuu siihen, tunteeko kuulija asian jo (あ) vai kuuleeko siitä vasta nyt (そ).
+
+#flashcards/grammar/n3/vertailu
+
+あ～・そ～（文脈指示） (similar/compare) :: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)

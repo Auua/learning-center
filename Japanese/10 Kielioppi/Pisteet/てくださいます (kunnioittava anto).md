@@ -55,3 +55,34 @@ tags: [grammar/keigo, jlpt/n4]
 Mitä eroa on 先生が教えてくださいました:lla ja 先生に教えていただきました:lla?
 ?
 Molemmat kuvaavat samaa tapahtumaa, mutta てくださる nostaa tekijän (先生) kunniaa; ていただく laskee puhujaa ja korostaa saatua palvelusta.
+
+#flashcards/grammar/n4/muodostus
+
+〜てくださいます + verbi (て-muoto) :: V(て-muoto) + くださいました. Esim. 部長の奥さんはわたしにお茶を教えてくださいました。
+〜てくださいませんか (pyyntö) :: V(て-muoto) + くださいませんか. Esim. ちょっと教えてくださいませんか。
+〜てくださって + kiitos :: V(て-muoto) + くださって、ありがとうございました. Esim. 荷物を預かってくださって、ありがとうございました。
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä on てくださる suhteessa てくれる:hon ja kuka on tekijä?
+?
+てくださる on てくれる:n 尊敬語; tekijä on kunnioitettava henkilö ja vastaanottaja usein puhuja itse (jätetään usein pois lauseesta).
+
+Miten てくださいませんか eroaa てもらえませんか:sta ja ていただけませんか:sta kohteliaisuudessa?
+?
+Hieman muodollisempi kuin てもらえませんか, mutta ei yhtä muodollinen kuin ていただけませんか.
+
+Mitä kaavaa käytetään kiittämiseen jälkikäteen jonkun ystävällisyydestä?
+?
+〜てくださって、ありがとうございました.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten てくださる eroaa ていただく:sta, vaikka tapahtuma on sama?
+?
+てくださる nostaa suoraan tekijän kunniaa (先生が教えてくださいました); ていただく laskee puhujaa ja korostaa saatua palvelusta (先生に教えていただきました).
+
+#flashcards/grammar/n4/vertailu
+
+Vて-form くださいます (similar) :: Vてあげます・Vてもらいます・Vてくれます (teon antaminen)
+Vて-form くださいます (similar/compare) :: ご～いただく (kohtelias pyyntö, kiitollisuus)

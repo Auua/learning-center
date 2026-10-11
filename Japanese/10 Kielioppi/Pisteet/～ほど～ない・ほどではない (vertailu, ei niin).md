@@ -50,3 +50,33 @@ tags: [grammar/perusrakenne, jlpt/n3]
 平日は休日＿＿＿込んでいません。(vertailu, ei niin paljon)
 ?
 ほど — vertailukohta (休日) on korkeampi piste,平日 jää sen alle.
+
+#flashcards/grammar/n3/muodostus
+
+～ほど + kielteinen adjektiivi (substantiivi) :: N + ほど + adj(ない). Esim. 今日は昨日ほど寒くなかったよ。
+～ほど + kielteinen adjektiivi (普通形) :: 普通形 + ほど + adj(ない). Esim. 交渉は考えていたほど簡単じゃなかったです。
+～ほどじゃない／ではない :: N + ほど + adj/V + じゃない／ではない. Esim. 人に自慢するほどじゃありません。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä on ほど～ない-rakenteessa vertailukohta suhteessa subjektiin?
+?
+Ennen ほど:a oleva vertailukohta on aina korkeampi/voimakkaampi piste; subjekti jää sen alapuolelle.
+
+Mihin ほど～ない-rakenteessa ほど voi liittyä, ja mitä se tuottaa?
+?
+Myös kokonaiseen lauseeseen: 思っていたほど… (kuin olin luullut); sopii odotuksen ja todellisuuden vertailuun.
+
+Mikä sävy ほどではない-muodolla on?
+?
+Hieman muodollisempi ja pehmeämpi kuin ほど + adjektiivin suora kielto.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten ほど～ない eroaa rakenteesta N1はN2より?
+?
+Sama vertailu eri suunnasta: より toteaa suoran eron (AはBより高い); ほど～ない kielteisenä alarajana (BはAほど高くない).
+
+#flashcards/grammar/n3/vertailu
+
+N/Vほど〜ない・ほどではない (similar/compare) :: N1はN2より (vertailu)

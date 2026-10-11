@@ -55,3 +55,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Asemalla: sano ainakin viisi sanaa
+?
+切符売り場 (lipunmyynti), 自動券売機 (lipunmyyntiautomaatti), 精算機 (maksunselvitysautomaatti), 改札口 (lipuntarkastusportti), 出口 (uloskäynti), 入口 (sisäänkäynti), 東口・西口・南口・北口・中央口 (itä-/länsi-/etelä-/pohjois-/keskiuloskäynti), ホーム (laituri), 売店 (kioski), コインロッカー (säilytyslokero), タクシー乗り場 (taksiasema), バスターミナル (bussiterminaali)…

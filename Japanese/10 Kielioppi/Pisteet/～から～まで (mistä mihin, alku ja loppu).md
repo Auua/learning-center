@@ -71,3 +71,40 @@ tags:
 5時まで働きます vs. 5時までに終わります — mikä ero?
 ?
 まで = toiminta jatkuu koko ajan siihen asti; までに = kertaluontoinen tapahtuma viimeistään siihen mennessä.
+
+#flashcards/grammar/n5/muodostus
+
+N（aika/paikka）から N（aika/paikka）まで + V :: N（aika）から N（aika）まで + V — esim. 9時から5時まで働きます。
+N（aika）から N（aika）まで + です (ilman verbiä) :: N から N までです — esim. 銀行は9時から3時までです。
+Vain から tai vain まで (toinen pää pois) :: から yksin kertoo alun, まで yksin lopun — esim. 10時から会議です。／駅まで歩きます。
+
+#flashcards/grammar/n5/nyanssi
+
+Miten kysytään kestoa, kun puhutaan N から N まで -ajasta?
+?
+Kestoa kysytään sanoilla どのぐらい / 何時間, ei から〜まで-rakenteella.
+
+Voiko から tai まで:n perään lisätä に aikailmauksessa (9時から＿)?
+?
+Ei: ×9時からに. Älä lisää に:tä から/まで:n perään aikailmauksissa.
+
+Voiko から〜まで-lause päättyä ilman verbiä?
+?
+Kyllä, ajanjakson kanssa lause voi päättyä pelkkään です: 昼休みは12時から1時までです。
+
+#flashcards/grammar/n5/sekaannus
+
+Miten から〜まで eroaa から〜にかけて:sta?
+?
+から〜まで ilmoittaa täsmälliset päätepisteet; から〜にかけて on epätarkka, muodollisempi vastine, jossa rajat ovat sumeat.
+
+Miten から〜まで (substantiivien välillä) eroaa syy-merkityksen S から -lauseesta?
+?
+Syy-から liittyy lauseeseen, aika/paikka-から〜まで substantiiviin.
+
+#flashcards/grammar/n5/vertailu
+
+N（aika/paikka）から N（aika/paikka）まで (similar) :: N (aika) に
+N（aika/paikka）から N（aika/paikka）まで (similar) :: V辞書形まで・までに (verbilause aikarajana)
+N（aika/paikka）から N（aika/paikka）まで (similar/compare) :: N（aika）までに (määräaika)
+N（aika/paikka）から N（aika/paikka）まで (similar) :: ～から～にかけて (jostakin johonkin, vali)

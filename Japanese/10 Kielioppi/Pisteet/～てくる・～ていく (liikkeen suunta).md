@@ -73,3 +73,34 @@ Poispäin puhujasta — ていく merkitsee etääntymisen puhujan sijainnista k
 Miten sama tapahtuma voi olla sekä てくる että ていく?
 ?
 Suunta määräytyy puhujan sijainnin mukaan: kohti puhujaa = てくる, puhujasta poispäin = ていく.
+
+#flashcards/grammar/n4/muodostus
+
+Vてくる (suunta puhujaa kohti) :: V（て形）+ くる — esim. 富士山が見えてきた／子どもが走ってきた。
+Vていく (suunta puhujasta poispäin) :: V（て形）+ いく — esim. 鳥が飛んでいくよ。
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä on kiintopiste, kun valitaan ～てくる vai ～ていく (suunta)?
+?
+Puhujan sijainti: sama tapahtuma kuvataan てくる:lla tai ていく:lla sen mukaan, kummalta puolelta sitä katsotaan.
+
+Millaisten verbien kanssa ～てくる・～ていく (suunta) on yleinen?
+?
+Liikeverbien (飛ぶ, 走る, 歩く, 帰る) ja havaintoverbien (見えてくる = tulee näkyviin).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten liikkeen suunta ～てくる・～ていく eroaa muutos ajassa -käytöstä?
+?
+Suunta-käytössä jokin liikkuu fyysisesti tilassa (鳥が飛んでいく); muutos-käytössä jokin muuttuu ajassa (だんだん増えていく).
+
+Miten 飛んでいく eroaa Vてきます:sta?
+?
+Vてきます sisältää aina paluun (行ってきます = menen ja palaan); 飛んでいく ei lupaa paluuta.
+
+#flashcards/grammar/n4/vertailu
+
+Vてくる／Vていく（suunta） (similar) :: Vてきます (kaynti ja paluu)
+Vてくる／Vていく（suunta） (similar/compare) :: ～てくる・～ていく (muutos ajassa)
+Vてくる／Vていく（suunta） (similar) :: Liikkumisen partikkelit (へ・で・と)

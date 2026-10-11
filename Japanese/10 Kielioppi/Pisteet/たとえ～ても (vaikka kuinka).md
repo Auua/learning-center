@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ＿＿＿今回の実験に失敗しても、またチャレンジするつもりだ。(vahvistava "vaikka")
 ?
 たとえ — vahvistaa ても-myönnytystä, "vaikka kuinka X tahansa".
+
+#flashcards/grammar/n3/muodostus
+
+たとえ～ても + verbi :: たとえ + Vて形 + も. Esim. たとえ今回の実験に失敗しても、またチャレンジするつもりだ。 (vaikka koe epäonnistuisi, yritän uudelleen)
+たとえ～ても + substantiivi / な-adjektiivi :: たとえ + N/na-adj + でも. Esim. たとえ妻でも、宇宙に行きたいという僕を止めることはできない。
+
+#flashcards/grammar/n3/nyanssi
+
+Voiko たとえ～ても -lauseen sanoa ilman たとえ:ä? Mitä たとえ lisää?
+?
+Kyllä, ても yksin riittää kieliopillisesti; たとえ tekee vastakohtaisuudesta voimakkaamman ja ehdottomamman.
+
+Minkälaisissa tilanteissa たとえ～ても sopii erityisen hyvin?
+?
+Kun korostetaan, ettei mikään olosuhde muuta lopputulosta; usein päättäväisyyden tai periaatteen ilmaisuun.

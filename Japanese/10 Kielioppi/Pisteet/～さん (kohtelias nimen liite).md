@@ -60,3 +60,28 @@ Ei koskaan — さん on aina toisesta henkilöstä.
 Miksi あなた ei aina sovi, vaikka tarkoittaa "sinä"?
 ?
 Kun kuulijan nimi on tiedossa, nimi+さん on kohteliaampi ja luonnollisempi valinta kuin あなた.
+
+#flashcards/grammar/n5/muodostus
+
+Sukunimi + さん :: Yleisin tapa, sopii aikuiselle kenelle tahansa — esim. ミラーさん, 佐藤さん.
+Etunimi + さん :: Tutummin, usein lapsille/nuorille aikuisille — esim. マイクさん.
+
+#flashcards/grammar/n5/nyanssi
+
+Voiko ～さん liittää puhujan omaan nimeen?
+?
+Ei: ×わたしはミラーさんです on virhe; さん liitetään vain kuulijan tai kolmannen henkilön nimeen.
+
+Mitä käytetään あなた:n sijaan, kun kuulijan nimi tiedetään (～さん)?
+?
+Nimi + さん; あなた voi kuulostaa epäkohteliaalta tutulle henkilölle.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten ～さん eroaa ～ちゃん:sta ja ～くん:sta?
+?
+ちゃん (usein lapsen nimen perässä) ja くん (usein pojan/nuoremman miehen) ovat vähemmän muodollisia eivätkä sovi vieraalle aikuiselle; さん on kohtelias.
+
+#flashcards/grammar/n5/vertailu
+
+～さん (similar) :: ～ちゃん・～くん

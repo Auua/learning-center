@@ -70,3 +70,40 @@ Käytetyt taivutusmuodot: [[Sanakirjamuoto]], い/な-adjektiivien perusmuodot
 Miten Vたほうがいいです eroaa tästä rakenteesta?
 ?
 たほうがいい on neuvo yhdestä teosta (mennyt muoto + ほうが); より〜ほうが vertailee kahta vaihtoehtoa, ja verbit ovat 辞書形-muodossa.
+
+#flashcards/grammar/n4/muodostus
+
+V より V ほうが + verbi (辞書形) :: V(辞書形) + より + V(辞書形) + ほうが + adj. Esim. 入るより出るほうがずっと大変です。
+A より A ほうが + adjektiivi :: adj + より + adj + ほうが + いい. Esim. 家族は少ないより多いほうがいいよ。
+V より + kielteinen verbi (ない形) :: V(ない形) + より + V ほうが. Esim. 行かないより行くほうがいい。
+N より V ほうが + substantiivi vs. verbi :: N + より + V(辞書形) + ほうが. Esim. 電話よりメールで送るほうが早い。
+
+#flashcards/grammar/n4/nyanssi
+
+Missä muodossa vertailtavat ovat V／A より V／A ほうが -rakenteessa?
+?
+Molemmat samassa muodossa (辞書形 vs. 辞書形, adjektiivi vs. adjektiivi); rakenne on symmetrinen.
+
+Mitä な-adjektiivi ja substantiivi saavat ennen ほうが:ta?
+?
+な-adjektiivi な, substantiivi の: にぎやかなほうがいい, 日本語のほうが.
+
+Mihin ～より～ほうが tyypillisesti päättyy mielipiteissä ja neuvoissa?
+?
+～ほうがいい, joka päättää lauseen suositukseksi.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten V より V ほうが eroaa neuvosta Vたほうがいい?
+?
+Vたほうがいい on neuvo yhdestä teosta (た形), ei kahden vaihtoehdon vertailu: 行ったほうがいい (neuvo) vs. 行くより行かないほうがいい (vertailu).
+
+Miten teko-vertailu eroaa rakenteesta N1はN2より?
+?
+Sama rakenne substantiiveilla (この車はあの車より大きい); teko-vertailu laajentaa sen teoiksi ja lausekkeiksi.
+
+#flashcards/grammar/n4/vertailu
+
+V／A より V／A ほうが… (similar/compare) :: N1はN2より (vertailu)
+V／A より V／A ほうが… (similar) :: Vたほうがいいです (kannattaisi tehda)
+V／A より V／A ほうが… (similar) :: ～に比べて (verrattuna)

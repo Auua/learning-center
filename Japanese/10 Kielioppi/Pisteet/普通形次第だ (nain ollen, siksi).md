@@ -45,3 +45,21 @@ tags: [grammar/perusrakenne, jlpt/n1]
 関係者が情報を共有すべきだと考え、皆様にお知らせした＿＿＿＿。(muodollinen selitys taustalle)
 ?
 次第です — "näin ollen, tästä syystä", muodollinen kirjekielen selitys tapahtumaketjulle.
+
+#flashcards/grammar/n1/muodostus
+
+普通形（た形）＋次第だ :: 普通形 (た形) + 次第です／次第でございます. Esim. 皆様にお知らせした次第です。(Näin ollen ilmoitimme asiasta kaikille.)
+
+#flashcards/grammar/n1/nyanssi
+
+Missä tekstilajissa 次第だ/次第です esiintyy ja mitä se tekee?
+?
+Erittäin muodollisissa liikekirjeissä ja puheissa; selittää kohteliaasti tapahtumaketjun taustan ennen pyyntöä tai ilmoitusta.
+
+Mitä でございます lisää 次第です:hen?
+?
+でございます on です:n vielä kohteliaampi muoto, tyypillinen kirjallisessa liike-etiketissä.
+
+#flashcards/grammar/n1/vertailu
+
+普通形（た形）＋次第だ・次第でございます (similar) :: 普通形んです (selittävä sävy)

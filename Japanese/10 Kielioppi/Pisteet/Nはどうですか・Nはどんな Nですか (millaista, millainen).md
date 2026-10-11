@@ -57,3 +57,23 @@ tags:
 日本の生活はどうですか vs 奈良はどんな町ですか — mikä ero kysymyksissä?
 ?
 どうですか kysyy yleisvaikutelmaa/mielipidettä; どんな町ですか pyytää kuvailemaan kaupunkia tarkemmin sen ominaisuuksien kautta.
+
+#flashcards/grammar/n5/muodostus
+
+Nはどうですか／Nはどんな N2ですか + mielipidekysymys :: N は どうですか. Esim. 日本の生活はどうですか。
+Nはどうですか／Nはどんな N2ですか + kuvailupyyntö :: N1 は どんな N2ですか (N2 = kategoria). Esim. 奈良はどんな町ですか。
+Nはどうですか／Nはどんな N2ですか + esimerkin valinta (Luku 9) :: どんな N が好きですか. Esim. どんなスポーツが好きですか。
+
+#flashcards/grammar/n5/nyanssi
+
+Milloin Nはどうですか sopii?
+?
+Vain asioihin, jotka kuulija on kokenut (asunut, käynyt, tavannut).
+
+Voiko どんな esiintyä yksinään kuten どう?
+?
+Ei; どんな vaatii aina perässään substantiivin.
+
+Miten どんな Nですか ja どんな N が好きですか eroavat?
+?
+Ensimmäinen pyytää kuvailemaan N1:tä adjektiiveilla; jälkimmäinen pyytää nimeämään yhden konkreettisen esimerkin kategoriasta (urheilu → jalkapallo).

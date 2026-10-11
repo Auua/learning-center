@@ -57,3 +57,33 @@ tags:
 あした来なくてもいいです — mitä tämä tarkoittaa?
 ?
 Ei ole pakko tulla huomenna — vapaaehtoista, ei kiellettyä eikä pakollista.
+
+#flashcards/grammar/n5/muodostus
+
+Vなくてもいいです + verbi :: ない-muoto (ない → なくて) + もいいです. 例: あした来なくてもいいです。
+
+#flashcards/grammar/n5/nyanssi
+
+Mikä on Vなくてもいいです:n suhde muotoon Vなければなりません?
+?
+Täydellinen vastakohta samalla ない-pohjalla: ei tarvitse vs. täytyy; älä sekoita muotoja.
+
+Mikä on Vなくてもいいです:n muodollisempi synonyymi?
+?
+～なくてもかまいません: sama merkitys, かまう ('välittää') kielteisenä, 'ei haittaa vaikkei tekisi'.
+
+Miten sanot 'lasten ei tarvitse maksaa' rakenteella Vなくてもいいです?
+?
+子どもは払わなくてもいいです。
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: Vなくてもいいです vai Vてはいけません, kun asia on vapaaehtoinen?
+?
+Vなくてもいいです = ei ole pakko, ei kiellettyä eikä pakollista; Vてはいけません on ehdoton kielto.
+
+#flashcards/grammar/n5/vertailu
+
+Vなくてもいいです (similar) :: Vなければ なりません (velvollisuus)
+Vなくてもいいです (similar) :: Vても いいです・Vては いけません (lupa ja kielto)
+Vなくてもいいです (similar/compare) :: ～なくてもかまいません (ei tarvitse, ei haittaa)

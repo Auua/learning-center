@@ -69,3 +69,38 @@ Ei — mennyt jälkilause tekee lauseesta löydön: kotiin tullessa selvisi ett�
 Mitkä kaksi alatyyppiä たら＋mennyt jälkilause voi olla?
 ?
 (1) teon luonnollinen tulos (ふいたら、明るくなった) ja (2) puhdas löytö joka ei johtunut teosta (帰ったら、届いていた).
+
+#flashcards/grammar/n4/muodostus
+
+…たら、…た + alatyyppi 1 (teon luonnollinen tulos) :: V（た形）+ ら、V（た形）— esim. 窓ガラスをふいたら、部屋が明るくなった。
+…たら、…た + alatyyppi 2 (puhdas löytö/yllätys) :: V（た形）+ ら、V（た形）— esim. 家へ帰ったら、母から荷物が届いていた。
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä ero on ～たら、～た -löydön alatyypeillä (tulos vs. yllätys)?
+?
+(1) jälkilause on suora seuraus omasta teosta (ふいたら明るくなった); (2) jälkilause ei ole teon seuraus, se vain paljastui samalla (帰ったら荷物が届いていた).
+
+Miksi ～たら、～た -löydössä on usein ていた/てあった jälkilauseessa?
+?
+Puhuja on löydön havaitsija, ei aiheuttaja.
+
+Voiko ～たら、～た -rakenteen jälkilauseessa olla käsky, pyyntö tai toive?
+?
+Ei: mennyt aika sulkee ne pois (toisin kuin preesensjälkilauseisessa ～たら:ssa).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten ～たら、～た eroaa Vたところ:sta?
+?
+Sama löytömerkitys, mutta Vたところ on muodollinen kirjallinen vastine: 問い合わせたところ、すでに終了していた.
+
+Miten ～たら、～た (löytö) eroaa kontrafaktuaalisesta ～たら、～たのに?
+?
+Löytö kuvaa todella tapahtunutta havaintoa; kontrafaktuaalinen mennyt jälkilause (…たら、…たのに) kuvaa toteutumatonta kuvitelmaa.
+
+#flashcards/grammar/n4/vertailu
+
+…たら、…た (similar) :: ～たら (jos, kun)
+…たら、…た (similar/compare) :: Vたところ、 (kavi ilmi etta)
+…たら、…た (similar) :: ～と (aina kun, väistämätön seuraus)

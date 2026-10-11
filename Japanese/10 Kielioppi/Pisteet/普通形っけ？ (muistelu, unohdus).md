@@ -46,3 +46,21 @@ tags: [grammar/perusrakenne, jlpt/n3]
 今日は何曜日だった＿＿＿？(unohdetun tiedon palauttaminen mieleen)
 ?
 っけ — puhekielinen loppupartikkeli, "miten se olikaan", käytetään usein た形:n kanssa.
+
+#flashcards/grammar/n3/muodostus
+
+普通形（た形）+ っけ？ :: Esim. 今日は何曜日だったっけ? (mikä päivä tänään olikaan?); 荷物はいつ届くんだったっけ?
+
+#flashcards/grammar/n3/nyanssi
+
+Miksi っけ-kysymys käyttää lähes aina た形:a, vaikka kysytään nykyhetkestä (今日は何曜日だったっけ)?
+?
+Muistelu viittaa siihen, että tieto oli aiemmin tiedossa mutta on unohtunut; だっけ ilman た:ta ei käytetä.
+
+Minkä tyylin っけ edustaa?
+?
+Erittäin puhekielinen; sopii vain rentoon ja tuttavalliseen keskusteluun.
+
+Mitä って tekee ennen っけ:a (『銀河鉄道999』って、どんな話だったっけ)?
+?
+Merkitsee usein aiheen nostamista ennen muistelukysymystä.

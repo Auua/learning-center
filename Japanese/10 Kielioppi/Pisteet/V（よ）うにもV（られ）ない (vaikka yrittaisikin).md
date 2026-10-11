@@ -45,3 +45,17 @@ tags: [grammar/perusrakenne, jlpt/n1]
 寒さで地面が凍って、車を＿＿＿＿＿＿＿＿。(ulkoisen esteen aiheuttama mahdottomuus)
 ?
 動かそうにも動かせない — sama verbi tahtomuodossa + potentiaalin kielto, "vaikka yrittäisikin, ei voi".
+
+#flashcards/grammar/n1/muodostus
+
+V(意向形)にも＋V(potentiaali)ない :: V意向形 + にも + sama verbi potentiaalin kieltomuodossa. Esim. 帰ろうにも帰れない (vaikka haluaisin lähteä, en voi).
+
+#flashcards/grammar/n1/nyanssi
+
+Miten verbi toistuu rakenteessa V(意向形)にも＋V(potentiaali)ない?
+?
+Sama verbi esiintyy kahdesti: ensin tahtomuodossa (yritys), sitten potentiaalin kielteisenä (kyvyttömyys).
+
+Millainen syy mahdottomuuteen on rakenteessa V（よ）うにもV（られ）ない?
+?
+Aina ulkoinen este (aikataulu, olosuhteet, tekninen ongelma), ei sisäinen kyvyttömyys.

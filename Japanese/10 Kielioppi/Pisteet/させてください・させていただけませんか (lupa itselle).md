@@ -55,3 +55,35 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Mitä eroa on 窓を開けてください:llä ja 窓を開けさせてください:llä?
 ?
 開けてください pyytää TOISTA avaamaan ikkunan; 開けさせてください pyytää lupaa avata ikkuna ITSE — vastakkaiset suunnat.
+
+#flashcards/grammar/n4/muodostus
+
+させてください + kausatiivi (perus) :: Kausatiivi + てください. Esim. しばらくここに車を止めさせてください.
+させていただけませんか + kausatiivi (kohtelias) :: Kausatiivi + ていただけませんか. Esim. 7日から10日間ほど休ませていただけませんか.
+させていただきたいんですが + kausatiivi (epäsuora) :: Kausatiivi + ていただきたいんですが. Esim. 国へ帰らせていただきたいんですが.
+
+#flashcards/grammar/n4/nyanssi
+
+Missä järjestyksessä kohteliaisuus nousee: させてください, させていただけませんか, させていただきたいんですが?
+?
+させてください (perus) < させていただけませんか (kysymysmuoto) < させていただきたいんですが (epäsuora, varovaisin).
+
+Missä tilanteissa させていただけませんか on yleinen?
+?
+Työelämässä lomien ja vapaiden pyytämisessä ja kun pyydetään lupaa poiketa normaalista.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten させてください eroaa rakenteesta Vてください?
+?
+Vてください pyytää toista tekemään (窓を開けてください); させてください pyytää lupaa itse tehdä (窓を開けさせてください = anna minun avata).
+
+Miten させてください liittyy rakenteeseen させてもらえませんか?
+?
+させてもらえませんか on vielä kohteliaampi laajennus: させてください → させてもらえませんか → させていただけないでしょうか.
+
+#flashcards/grammar/n4/vertailu
+
+V使役形＋てください／ていただけませんか (similar) :: Vて ください (pyyntö)
+V使役形＋てください／ていただけませんか (similar/compare) :: ご～いただく (kohtelias pyyntö, kiitollisuus)
+V使役形＋てください／ていただけませんか (similar/compare) :: させてもらえませんか family (kausatiivinen kohtelias pyynto)

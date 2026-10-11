@@ -57,3 +57,26 @@ tags:
 もう昼ごはんを食べましたか。 — miksi vastaus ei voi olla 食べませんでした?
 ?
 食べませんでした tarkoittaisi "en syönyt [yleisesti]" — oikea kielteinen vastaus "en ole vielä syönyt" on まだです.
+
+#flashcards/grammar/n5/muodostus
+
+もう + Vましたか (kysymys) :: もう + V-ました + か = onko jo tehty ~? Vastaus: はい、もう + Vました.
+いいえ、まだです (kielteinen vastaus) :: Kielteinen vastaus on erillinen ilmaus まだです ('ei vielä'), ei Vませんでした. Laajennus: まだです。これから食べます。
+
+#flashcards/grammar/n5/nyanssi
+
+Miksi もう〜ましたか-kysymykseen ei vastata Vませんでした?
+?
+Se tarkoittaisi 'en tehnyt sitä (silloin)' yleisesti, ei 'en ole vielä tehnyt'; まだです on ainoa oikea kielteinen vastaus.
+
+Miten まだです voidaan laajentaa vastauksessa?
+?
+Jatkolla, esim. まだです。これから食べます。 (Ei vielä. Aion syödä ihan kohta.)
+
+Mikä on täydempi kielteinen vastaus kuin まだです?
+?
+まだ～ていません, joka täsmentää mitä ei vielä ole tehty (まだ決めていません).
+
+#flashcards/grammar/n5/vertailu
+
+もうVました／まだです (similar/compare) :: まだ～ていません (ei ole vielä tehty)

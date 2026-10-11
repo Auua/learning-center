@@ -45,3 +45,17 @@ tags: [grammar/perusrakenne, jlpt/n2]
 日本の経済力を考えると、国際社会における日本の責任は大きい＿＿＿。(perusteltu johtopäätös)
 ?
 と言える — "voidaan sanoa että", pehmeä mutta perusteltu johtopäätös.
+
+#flashcards/grammar/n2/muodostus
+
+普通形＋と言える :: 普通形 + と言える. Esim. 日本の経済力を考えると、国際社会における日本の責任は大きいと言える。(Voidaan sanoa, että Japanin vastuu on suuri.)
+
+#flashcards/grammar/n2/nyanssi
+
+Millaisena väitteenä 普通形と言える esitetään ja missä sitä käytetään?
+?
+Perusteltuna johtopäätöksenä ('voidaan sanoa että'), tyypillisesti edellä esitettyyn dataan/perusteluun nojaten; argumentoivan ja analyyttisen tekstin vakiokalustoa.
+
+Miten 普通形と言える tehdään vielä varovaisemmaksi väitteeksi?
+?
+Yhdistämällä se muotoon のではないでしょうか: と言えるのではないでしょうか.

@@ -60,3 +60,31 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä 合う lisää verbin merkitykseen?
 ?
 Molemminpuolisuuden: 助け合う = auttaa TOISIAAN (ei vain yksisuuntaisesti).
+
+#flashcards/grammar/n3/muodostus
+
+V(ます-vartalo)＋出す :: ます-vartalo + 出す — äkillinen alku. 例: 赤ちゃんが急に泣き出した。
+V(ます-vartalo)＋始める/終わる/続ける :: ます-vartalo + 始める/終わる/続ける — alku/loppu/jatkuvuus. 例: 4歳のとき、ピアノを習い始めました。
+V(ます-vartalo)＋忘れる :: ます-vartalo + 忘れる — unohtaa tehdä. 例: 最近、祖母はよくガスを消し忘れる。
+V(ます-vartalo)＋合う :: ます-vartalo + 合う — molemminpuolisuus. 例: お互いに助け合いましょう。
+V(ます-vartalo)＋換える :: ます-vartalo + 換える — vaihtaa. 例: 新宿駅で2番線に乗り換えてください。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä ます-vartalo＋出す korostaa verrattuna 始める:een?
+?
+Äkillisyyttä ja yllättävyyttä, erityisesti tahattomia tunnereaktioita (震え出す, 泣き出す, 笑い出す); 始める on neutraalimpi aloitus.
+
+Mitä 合う lisää yhdysverbiin (ます-vartalo＋合う)?
+?
+Molemminpuolisuuden: 助け合う, 話し合う, 愛し合う (toisiaan).
+
+Mitä 忘れる tarkoittaa yhdysverbissä (ます-vartalo＋忘れる)?
+?
+'Unohtaa tehdä jokin toimenpide' (~し忘れる), ei 'unohtaa jokin asia'.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten 泣き出した eroaa muodosta 泣き始めた?
+?
+出す tuo mukaan äkillisyyden ja hallitsemattomuuden sävyn; 始める on neutraali alku.

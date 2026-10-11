@@ -54,3 +54,27 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Milloin käytetään かどうか eikä pelkkää か:ta?
 ?
 かどうか sopii kun alkuperäinen kysymys on kyllä/ei-tyyppinen; pelkkä か sopii kysymyssanalliselle (どこ, いつ, 何) kysymykselle.
+
+#flashcards/grammar/n4/muodostus
+
+普通形かどうか + mihin liittyy? :: V/adj/N 普通形 + かどうか、+ pääverbi. Esim. 台風9号は東京へ来るかどうか、まだわかりません.
+
+#flashcards/grammar/n4/nyanssi
+
+Milloin 普通形かどうか käy upotettuun kysymykseen?
+?
+Vain kun alkuperäinen kysymys on kyllä/ei-tyyppinen eli ei sisällä kysymyssanaa; muuten käytetään 疑問詞＋か.
+
+Missä muodossa sana on ennen かどうか?
+?
+Aina 普通形, kuten tavallisessa upotetussa kysymyksessä.
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: かどうか vai pelkkä か, kun alkuperäinen kysymys sisältää kysymyssanan (どこ, いつ, 何)?
+?
+Pelkkä か (疑問詞＋か); かどうか on kyllä/ei-kysymyksille.
+
+#flashcards/grammar/n4/vertailu
+
+普通形かどうか (similar/compare) :: 疑問詞＋か (upotettu kysymys)

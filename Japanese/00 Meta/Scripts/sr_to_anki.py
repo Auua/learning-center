@@ -9,6 +9,9 @@ Tuetut muodot (sen jälkeen kun rivillä on esiintynyt #flashcards-tagi):
     Etu
     ?
     Taka               monirivinen kortti
+    Etu
+    ??
+    Taka               monirivinen kaksisuuntainen kortti (tuottaa kaksi korttia)
 
 Ajo:
     python3 "00 Meta/Scripts/sr_to_anki.py"
@@ -108,7 +111,7 @@ def parse_file(path: Path, vault: Path):
             i += 1
             continue
 
-        if stripped == "?":
+        if stripped in ("?", "??"):
             front_lines = []
             j = i - 1
             while j >= 0 and lines[j].strip() and not lines[j].strip().startswith("#"):
@@ -124,6 +127,8 @@ def parse_file(path: Path, vault: Path):
             front, back = clean("\n".join(front_lines)), clean("\n".join(back_lines))
             if front and back:
                 cards.append((front, back, rel, tags))
+                if stripped == "??":
+                    cards.append((back, front, rel, tags))
             i = k
             continue
 

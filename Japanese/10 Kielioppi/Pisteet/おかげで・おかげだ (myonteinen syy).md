@@ -54,3 +54,31 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on おかげで:llä ja せいで:llä?
 ?
 おかげで vaatii myönteisen seurauksen (kiitollisuus); せいで vaatii kielteisen seurauksen (syyttäminen). Sama tapahtuma voidaan kehystää kummalla tahansa näkökulman mukaan.
+
+#flashcards/grammar/n3/muodostus
+
+おかげで + verbi／い-adjektiivi :: 普通形 + おかげで、+ myönteinen seuraus. Esim. 手伝ってもらったおかげで、準備が早く終わりました.
+おかげで + な-adjektiivi :: な-adj + な + おかげで. Esim. 気候が温暖なおかげで、米が年に2回とれる.
+おかげで + substantiivi :: N + の + おかげで. Esim. 便利な電気製品のおかげで、家事が楽になった.
+おかげだ + predikaattina :: N2は N1の おかげだ／です. Esim. 経験ができたのは、皆さんのおかげです.
+
+#flashcards/grammar/n3/nyanssi
+
+Minkä laatuinen seuraus おかげで vaatii?
+?
+Myönteisen; kielteiselle seuraukselle käytetään せいで.
+
+Miten sama tapahtuma voi olla sekä おかげで että せいで (おかげで・おかげだ)?
+?
+Puhujan näkökulma ratkaisee: 台風のせいで旅行に行けない (kielteinen) vs. 台風のおかげで休みになってうれしい (myönteinen).
+
+#flashcards/grammar/n3/sekaannus
+
+Miten おかげで eroaa せいで?
+?
+Rakenne on sama, mutta おかげで: myönteinen seuraus, kiitollisuus; せいで: kielteinen seuraus, moittiva sävy.
+
+#flashcards/grammar/n3/vertailu
+
+普通形（な・の）＋おかげで／おかげだ (similar/compare) :: せいで・せいだ (kielteinen syy)
+普通形（な・の）＋おかげで／おかげだ (similar) :: S1から、S2 (syy)

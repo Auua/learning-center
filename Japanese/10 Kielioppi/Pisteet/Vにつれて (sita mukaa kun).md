@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 日本語が分かってくる＿＿＿＿、日本での生活が楽しくなった。(rinnakkainen asteittainen muutos)
 ?
 につれて — "sitä mukaa kun", kaksi rinnakkaista vähittäistä muutosta.
+
+#flashcards/grammar/n2/muodostus
+
+V辞書形／Nの＋につれて + verbi :: V辞書形(ている) + につれて. 例: 時間が経つにつれて、腹が立ってきた。
+V辞書形／Nの＋につれて + substantiivi :: N + の + につれて. 例: ケータイなどの機器が普及するにつれて、人間関係が変わってきた。
+
+#flashcards/grammar/n2/nyanssi
+
+Millaisia muutoksia V辞書形／Nの＋につれて yhdistää?
+?
+Vähittäisiä, jatkuvia muutoksia molemmissa puolissa; ei sovi kertaluontoisiin tapahtumiin.
+
+Millaiseen muotoon V辞書形／Nの＋につれて-lauseen jälkilause usein päättyy?
+?
+〜てくる/〜ていく, mikä korostaa asteittaisuutta.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten Vにつれて eroaa muodosta Vば〜ほど?
+?
+ば〜ほど toistaa saman sanan hypoteettisessa muodossa; につれて yhdistää kaksi eri ilmiötä, jotka etenevät rinnakkain ajassa, eikä ole ehtorakenne.
+
+#flashcards/grammar/n2/vertailu
+
+V辞書形／Nの＋につれて (similar/compare) :: Vば〜ほど (mita enemman, sita)

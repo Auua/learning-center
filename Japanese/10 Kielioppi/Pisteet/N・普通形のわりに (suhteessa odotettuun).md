@@ -47,3 +47,24 @@ tags: [grammar/perusrakenne, jlpt/n2]
 映画「王様のスピーチ」はタイトル＿＿＿＿＿おもしろかった。(epäsuhta odotukseen)
 ?
 のわりには — "suhteessa odotettuun", toteaa epäsuhdan panoksen/taustan ja tuloksen välillä.
+
+#flashcards/grammar/n2/muodostus
+
+N（の）／普通形＋わりに（は） + substantiivi :: N + の + わりに（は）. Esim. 映画はタイトルのわりにはおもしろかった。
+N（の）／普通形＋わりに（は） + 普通形 :: 普通形 + わりに（は）. Esim. 母は年を取っているわりにおしゃれです。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä N（の）／普通形＋わりに（は） toteaa?
+?
+Epäsuhdan kahden asian välillä (panos vs. tulos, tausta vs. nykytila); usein myönteisesti yllättynyt sävy.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten わりに eroaa にしては:sta?
+?
+Lähellä toisiaan; わりに korostaa enemmän panos/tulos-epäsuhtaa (負担のわりに恩恵が少ない), にしては sopii yleisemmin mihin tahansa odotustason vertailuun.
+
+#flashcards/grammar/n2/vertailu
+
+N（の）／普通形＋わりに（は） (similar/compare) :: Nにしては (ottaen huomioon etta)

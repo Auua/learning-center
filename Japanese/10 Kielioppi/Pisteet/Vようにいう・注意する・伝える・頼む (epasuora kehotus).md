@@ -54,3 +54,35 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on ように言う:lla ja と言う:lla?
 ?
 と言う lainaa toteamuksen sellaisenaan; ように言う raportoi käskyn/pyynnön epäsuorasti muuttaen sen ように-muotoon.
+
+#flashcards/grammar/n3/muodostus
+
+V(辞書形/ない形)ように言う + sanakirjamuoto :: V(辞書形) + ように言われました. 例: 先生にあしたまでにレポートを出すように言われました。
+V(辞書形/ない形)ように注意する + kielto :: V(ない形) + ように注意されました. 例: ごみは月曜日以外には出さないように注意されました。
+V(辞書形/ない形)ように伝える :: V(辞書形) + ように伝えてください. 例: ミラーさんにすぐ会議室へ来るように伝えてください。
+V(辞書形/ない形)ように頼む :: V(辞書形) + ように頼みました. 例: 妻にもっと勉強するように頼みました。
+
+#flashcards/grammar/n3/nyanssi
+
+Miten ように言う eroaa lainauksesta と言う?
+?
+と言う lainaa toteamuksen sellaisenaan; ように言う raportoi käskyn tai pyynnön epäsuorasti, jolloin käskymuoto muuttuu ように-rakenteeksi.
+
+Milloin ように言う/注意する yleensä on passiivissa?
+?
+Kun puhuja itse on käskyn tai varoituksen kohde: 両親にうそをつかないように注意されました.
+
+Miten verbit 言う, 注意する, 伝える ja 頼む eroavat sävyltään (ように-rakenteessa)?
+?
+言う neutraali kertoa; 注意する varoittaa/huomauttaa; 伝える välittää viestin kolmannelle; 頼む pyytää.
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi: ように言う vai suora lainaus 「〜しなさい」と言う, kun kerrotaan toisen käskystä?
+?
+ように-raportointi on luontevampi arkikielessä; suora lainaus on mahdollinen mutta muodollisempi ja suorempi.
+
+#flashcards/grammar/n3/vertailu
+
+V(辞書形/ない形)ように言う／注意する／伝える／頼む (similar/compare) :: 普通形と言います (lainaus)
+V(辞書形/ない形)ように言う／注意する／伝える／頼む (similar) :: Vように (jotta, niin etta)

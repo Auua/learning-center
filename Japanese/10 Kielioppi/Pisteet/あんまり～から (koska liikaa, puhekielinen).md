@@ -46,3 +46,21 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ＿＿＿＿落ち込んでいるから、人身事故でも起こしたのかと思った。(puhekielinen vahvistava syy)
 ?
 あんまり — puhekielinen vahvistus (あまりに/とても), korostaa äärimmäisyyttä syylauseessa.
+
+#flashcards/grammar/n3/muodostus
+
+あんまり～から + mihin liittyy? :: あんまり + 普通形 + から. Esim. あんまり遅いから、心配したよ.
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä あんまり～から ilmaisee ja mikä on sen rekisteri?
+?
+Puhekielinen あまりに/とても-muoto, joka korostaa äärimmäisyyttä, joka johti jälkimmäiseen reaktioon; ei sovi kirjoitettuun tekstiin.
+
+Minkä rakenteen kanssa あんまり～から yhdistyy usein?
+?
+もんだから: tehostaa puhekielistä selittelevää sävyä.
+
+#flashcards/grammar/n3/vertailu
+
+あんまり＋普通形＋から (similar) :: S1から、S2 (syy)

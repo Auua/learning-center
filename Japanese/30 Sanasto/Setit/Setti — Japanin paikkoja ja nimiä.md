@@ -38,3 +38,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Japanin paikkoja ja nimiä: sano ainakin viisi sanaa
+?
+富士山 (Fuji-vuori), 関西空港 (Kansain kansainvälinen lentokenttä (Osaka)), 秋葉原 (Akihabara), 伊豆 (Izu), ドラえもん (Doraemon)

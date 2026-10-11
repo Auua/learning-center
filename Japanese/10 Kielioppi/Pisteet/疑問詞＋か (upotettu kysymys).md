@@ -54,3 +54,31 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi 到着するか eikä 到着しますか upotetussa kysymyksessä?
 ?
 Upotetun kysymyksen sisällä käytetään aina 普通形:aa, vaikka koko lause olisi muuten kohtelias.
+
+#flashcards/grammar/n4/muodostus
+
+疑問詞＋普通形＋か (upotettu kysymys) :: 疑問詞 + 普通形 + か、+ V2. Esim. JL107便は何時に到着するか、調べてください。(Selvitä, mihin aikaan lento JL107 saapuu.)
+
+#flashcards/grammar/n4/nyanssi
+
+Mitä muotoa upotetun kysymyksen sisällä käytetään, vaikka koko lause olisi kohtelias?
+?
+Aina 普通形: 到着するか, ei 到着しますか.
+
+Mitä upotetulle kysymykselle tapahtuu kieliopillisesti?
+?
+か säilyy, mutta koko lauseke nominalisoituu ulomman lauseen objektiksi/aiheeksi.
+
+Mitkä verbit tyypillisesti ottavat upotetun kysymyksen 疑問詞＋か?
+?
+わかりません、調べてください、覚えていますか、知っていますか、考えてください.
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: 疑問詞＋か vai かどうか upotetussa kysymyksessä?
+?
+Ratkaisee kysymyksen tyyppi: kysymyssanallinen (avoin) kysymys käyttää pelkkää か kysymyssanan perässä; kyllä/ei-kysymys käyttää かどうか.
+
+#flashcards/grammar/n4/vertailu
+
+疑問詞＋普通形＋か (similar/compare) :: 〜かどうか (jompikumpi, epavarmuus)

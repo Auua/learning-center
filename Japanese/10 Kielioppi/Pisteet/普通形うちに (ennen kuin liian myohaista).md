@@ -50,3 +50,28 @@ tags: [grammar/perusrakenne, jlpt/n3]
 毎日練習している＿＿＿＿、速く泳げるようになった。(huomaamaton muutos ajan myötä)
 ?
 うちに — "sen aikana kun", kuvaa usein huomaamatta tapahtunutta muutosta.
+
+#flashcards/grammar/n3/muodostus
+
+普通形（ている）+ うちに :: Tila kestää, jonka aikana jotain tapahtuu. Esim. 毎日練習しているうちに、速く泳げるようになった。 (harjoitellessa oppi uimaan nopeammin)
+普通形 + うちに (muu muoto) :: Esim. 夢中で話しているうちに、アイスクリームが溶けてしまった. (sillä aikaa kun puhuin, jäätelö suli)
+
+#flashcards/grammar/n3/nyanssi
+
+Millainen jälkilause 普通形うちに:n kanssa tyypillisesti on?
+?
+Usein huomaamatta tapahtunut muutos; puhuja ei aktiivisesti pyrkinyt tulokseen, se tapahtui ajan myötä.
+
+Miten ～うちに eroaa ～ないうちに:sta?
+?
+うちに kuvaa muutosta tilan kestäessä; ないうちに korostaa tekemistä ennen kuin tila muuttuu (暗くならないうちに帰りましょう).
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi: Vているうちに vai Vないうちに, kun haluan sanoa 'ennen kuin tulee pimeä'?
+?
+Vないうちに (暗くならないうちに帰りましょう); myönteinen うちに kuvaa muutosta, joka tapahtuu tilan kestäessä, usein huomaamatta.
+
+#flashcards/grammar/n3/vertailu
+
+普通形（ている）＋うちに (similar) :: ～ないうちに (ennen kuin)

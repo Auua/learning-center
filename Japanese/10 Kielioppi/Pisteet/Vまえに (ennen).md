@@ -64,3 +64,34 @@ Vertailu [[Vたあとで (sen jalkeen kun)]]: täsmällinen vastapari — まえ
 田中さんは1時間まえに出かけました。 — miksi ei 1時間のまえに?
 ?
 Ajanjakson (1時間) kanssa の jätetään pois — vain teko-substantiivin (食事のまえに) kanssa の tarvitaan.
+
+#flashcards/grammar/n5/muodostus
+
+V辞書形まえに + verbi :: V(辞書形) + まえに. 例: 日本へ来るまえに、日本語を勉強しました。
+Nのまえに + teko-substantiivi :: N + の + まえに. 例: 食事のまえに、手を洗います。
+期間まえに + ajanjakso :: Ajanjakso (ilman の) + まえに. 例: 田中さんは1時間まえに、出かけました。
+
+#flashcards/grammar/n5/nyanssi
+
+Missä muodossa verbi on rakenteessa Vまえに, vaikka lause olisi menneessä ajassa?
+?
+Aina perusmuodossa (辞書形): 日本へ来るまえに勉強しました, ei ×来たまえに.
+
+Käytetäänkö の ajanjakson kanssa rakenteessa まえに?
+?
+Ei: 1時間まえに (tunti sitten), ei ×1時間のまえに. の tarvitaan vain teko-substantiivin kanssa (食事のまえに).
+
+#flashcards/grammar/n5/sekaannus
+
+Miten Vまえに eroaa muodosta Vてから?
+?
+てから käyttää て-muotoa ja tarkoittaa 'sen jälkeen kun'; まえに käyttää aina perusmuotoa ja tarkoittaa 'ennen kuin'.
+
+Kumpi: まえに vai あとで, kun verbi on 辞書形 vs. た形?
+?
+まえに = aina 辞書形 ('ennen'); あとで = aina た形 ('jälkeen').
+
+#flashcards/grammar/n5/vertailu
+
+V辞書形まえに／Nのまえに／期間まえに (similar) :: Vてから、V2 (jälkeen)
+V辞書形まえに／Nのまえに／期間まえに (similar/compare) :: Vたあとで (sen jalkeen kun)

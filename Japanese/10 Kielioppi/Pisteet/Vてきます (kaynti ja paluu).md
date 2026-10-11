@@ -62,3 +62,32 @@ Sama て + 来る/行く -kaava kantaa kahta muuta merkitystä, joilla on omat m
 Mikä ero on 郵便局へ行って来ます:lla ja ちょっと出かけて来ます:lla?
 ?
 Ensimmäinen täsmentää paikan (posti) muttei tekoa; jälkimmäinen ei täsmennä paikkaa eikä tekoa — vain että puhuja poistuu hetkeksi ja palaa.
+
+#flashcards/grammar/n4/muodostus
+
+Vて-form 来ます + paikka ja teko (で) :: N(paikka)で + V(て-muoto) + 来ます. 例: スーパーで牛乳を買って来ます。
+Vて-form 来ます + lähtöpaikka (から) :: N(lähde)から + V(て-muoto) + 来ます; esine siirretään pois paikasta. 例: 台所からコップを取って来ます。
+Vて-form 来ます + vain paikka :: N(paikka)へ 行って来ます. 例: 郵便局へ行って来ます。
+Vて-form 来ます + ei paikkaa eikä tekoa :: 出かけて来ます. 例: ちょっと出かけて来ます。
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä partikkeli merkitsee paikan, jossa teko tapahtuu, rakenteessa Vて-form 来ます?
+?
+Yleensä で (スーパーで買って来ます); poikkeus から, kun esine otetaan pois paikasta (台所からコップを取って来ます).
+
+Mitkä kolme tarkkuustasoa rakenteessa Vて-form 来ます on?
+?
+(1) paikka ja teko mainittu, (2) vain paikka (行って来ます), (3) kumpaakaan ei mainita (出かけて来ます).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten Vて-form 来ます eroaa muodosta Vて、Vて?
+?
+てきます on aina kolmivaiheinen kokonaisuus (mennä, tehdä, palata), jossa paluu kuuluu olennaisesti merkitykseen; Vて、Vて on vain tekojen jono.
+
+#flashcards/grammar/n4/vertailu
+
+Vて-form 来ます (similar) :: ～ている (parhaillaan, tilan tulos)
+Vて-form 来ます (similar) :: ～てくる・～ていく (muutos ajassa)
+Vて-form 来ます (similar) :: ～てくる・～ていく (liikkeen suunta)

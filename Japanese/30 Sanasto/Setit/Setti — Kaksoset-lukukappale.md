@@ -38,3 +38,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Kaksoset-lukukappale: sano ainakin viisi sanaa
+?
+双子 (kaksoset), 姉妹（しまい） (sisarukset (naispuoliset)), 5年生 (5. luokka), 似ています (muistuttaa), 性格 (luonne), おとなしい (rauhallinen), 世話をします (huolehtia (jostakusta)), 時間がたちます (aikaa kuluu)

@@ -54,3 +54,32 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miksi 夏休みのあいだ、どこへも行かなかった käyttää あいだ:ta ilman に:ta?
 ?
 "Ei mennyt minnekään" kuvaa jatkuvaa tilaa koko kesäloman ajan, ei kertaluontoista hetkellistä tapahtumaa.
+
+#flashcards/grammar/n3/muodostus
+
+〜あいだ (koko kesto) + verbi/substantiivi :: V(ている)／N の + あいだ、jatkuva jälkilause. Esim. 子どもが眠っているあいだ、わたしはビデオを見ていた。(Koko sen ajan kun lapsi nukkui, katsoin videota.)
+〜あいだに (hetki ajanjakson sisällä) + verbi/substantiivi :: V(ている)／N の + あいだに、kertaluontoinen jälkilause. Esim. 留守のあいだに、泥棒が入ったようだ。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä testi ratkaisee valinnan あいだ vs. あいだに välillä?
+?
+Onko jälkilauseen toiminta jatkuvaa/samanaikaista koko ajanjakson (あいだ) vai kertaluontoinen, yhtenä hetkenä tapahtunut asia (あいだに)?
+
+Millaisiin tilanteisiin あいだに sopii erityisen hyvin?
+?
+Huomaamatta tapahtuneisiin asioihin: jotain ehti tapahtua kun ei ollut paikalla (逃げてしまった, 盗まれた, 焦げた, 枯れた).
+
+Voiko あいだ (ilman に) -lauseen jälkilause olla hetkellinen teko?
+?
+Ei; jos teko on kertaluontoinen, käytä あいだに.
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi: 出かけているあいだ vai 出かけているあいだに, kun lintu pääsi karkuun?
+?
+あいだに: lintu karkasi jonain hetkenä poissaolon aikana; あいだ tarkoittaisi toimintaa koko poissaolon ajan (esim. テレビを見ていた).
+
+#flashcards/grammar/n3/vertailu
+
+V(ている)／Nのあいだ、…・あいだに、… (similar) :: Vてから、V2 (jälkeen)

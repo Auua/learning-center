@@ -60,3 +60,27 @@ Ks. [[Vertailu — ようと思う vs. つもり vs. 予定]] varmuusasteen erot
 将来自分の会社を＿＿＿＿＿＿＿＿＿＿。(作る)
 ?
 作ろうと思っています — Tahtomuoto + と思っています, harkittu mutta ei lukkoon lyöty aikomus.
+
+#flashcards/grammar/n4/muodostus
+
+V(意向形)と思っています + tahtomuoto :: Tahtomuoto よう + と思っています. 例: 将来自分の会社を作ろうと思っています。
+
+#flashcards/grammar/n4/nyanssi
+
+Miksi ようと思っています käyttää ています-muotoa eikä と思います?
+?
+Koska aikomus on ollut mielessä jo jonkin aikaa, ei syntynyt juuri nyt.
+
+Miten ようと思っています eroaa sitoumukseltaan muodosta つもりです?
+?
+Heikompi sitoumus; sopii kun suunnitelma on vielä joustava tai epävarma.
+
+Kenen aikomusta ようと思っています voi ilmaista suoraan?
+?
+Vain 1. persoonan omaa; toisen henkilön aikeista ei suoraan ilman lisäystä (そうです jne.).
+
+#flashcards/grammar/n4/vertailu
+
+V(意向形)と思っています (similar) :: Vつもりです (paatetty aikomus)
+V(意向形)と思っています (similar) :: V予定です (aikataulutettu suunnitelma)
+V(意向形)と思っています (compare) :: Vertailu — ようと思う vs. つもり vs. 予定

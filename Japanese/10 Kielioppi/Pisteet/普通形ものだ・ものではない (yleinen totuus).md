@@ -53,3 +53,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 人の悪口を言う＿＿＿＿＿＿＿。(yleinen moraalinen neuvo)
 ?
 ものではない — "ei sovi tehdä", yleispätevä moraalinen normi, ei syy-selitys.
+
+#flashcards/grammar/n2/muodostus
+
+普通形＋ものだ (yleistotuus) :: 普通形 + ものだ. Esim. 人は変わるものだ。(Ihmiset muuttuvat.)
+普通形＋ものではない／もんじゃない (moraalinen kielto) :: 普通形 + ものではない／もんじゃない. Esim. 人の悪口を言うものではない。(Ei pidä puhua pahaa toisista.)
+
+#flashcards/grammar/n2/nyanssi
+
+Miten yleistotuus-ものだ eroaa syyn ilmaisevasta もの・もんだから:sta?
+?
+Tässä もの ei liity syyhyn eikä jatku だから:lla, vaan päättää lauseen yleistyksenä tai neuvona.
+
+Millaista sävyä ものではない/もんじゃない kantaa verrattuna 〜してはいけない:hin?
+?
+Se on lievä, yleispätevä moraalinen neuvo tai kielto, pehmeämpi kuin suora 〜してはいけない.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten ものだ (yleinen totuus) eroaa もの/もんだから:sta?
+?
+もの/もんだから selittää tai puolustelee nimenomaista tapahtunutta asiaa syynä; ものだ/ものではない ei anna syytä vaan toteaa yleisen totuuden tai normin.
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋ものだ／ものではない・もんじゃない (similar) :: もの・もんだから (perusteleva syy)

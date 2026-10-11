@@ -45,3 +45,21 @@ tags: [grammar/perusrakenne, jlpt/n1]
 故郷で暮らす母を思わない日は＿＿＿＿＿＿＿＿。(täydellinen poikkeukseton kielto, pienin yksikkö)
 ?
 一日としてありません — "ei edes yhtä päivää", korostaa poikkeuksetonta kieltoa pienimmässä yksikössä.
+
+#flashcards/grammar/n1/muodostus
+
+N（yksikko）として＋kielteinen predikaatti + pienin yksikkö (一つ, 一人, 一日) :: 一つ／一人／一日 + として + kielteinen. Esim. 一人としてやめたいと言う者はいなかった。
+
+#flashcards/grammar/n1/nyanssi
+
+Miksi N（yksikko）として＋kielteinen vaatii pienimmän yksikön (一つ, 一人, 一日)?
+?
+Korostaa, ettei poikkeusta ole edes minimimäärässä: täydellinen poikkeukseton kielto.
+
+Miten N（yksikko）として＋kielteinen eroaa 決して～ない:sta?
+?
+Vahvempi ja muodollisempi; korostaa laskettavaa kokonaisuutta, jonka jokainen yksikkö täyttää kiellon.
+
+#flashcards/grammar/n1/vertailu
+
+N（yksikko）として＋kielteinen predikaatti (similar) :: 決して～ない (ei missaan nimessa)

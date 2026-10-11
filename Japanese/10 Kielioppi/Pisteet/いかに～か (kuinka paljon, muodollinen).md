@@ -45,3 +45,17 @@ tags: [grammar/perusrakenne, jlpt/n1]
 節電をしてみて、今まで＿＿＿無駄に電気を使っていた＿に気づいた。(muodollinen asteen korostus)
 ?
 いかに ... か — "kuinka paljon/suuresti", muodollinen tapa korostaa astetta upotetussa kysymyslauseessa.
+
+#flashcards/grammar/n1/muodostus
+
+いかに＋普通形＋か + mihin liittyy? :: いかに + 普通形 + か + predikaatti (わかる, 知る, 気づく). Esim. 日本人がいかに我慢強いかがわかる.
+
+#flashcards/grammar/n1/nyanssi
+
+Mikä rooli いかに～か -lauseella on virkkeessä?
+?
+Se on upotettu kysymyslause, joka toimii predikaatin (わかる, 知る, 気づく) objektina.
+
+Miten いかに～か eroaa どんなに rekisterin puolesta?
+?
+いかに on muodollisempi ja kirjallisempi; sopii esseisiin, puheisiin ja vakavaan pohdiskeluun.

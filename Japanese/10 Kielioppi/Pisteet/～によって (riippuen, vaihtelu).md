@@ -53,3 +53,30 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miten erotat tämän によって:n Book II:n agent-によって:sta?
 ?
 Katso seuraavaa verbiä: 違う/変わる → vaihtelun peruste (tämä muistiinpano); Passiivi-verbi → tekijä (Book II Luku 37).
+
+#flashcards/grammar/n3/muodostus
+
+～によって (vaihtelu) + substantiivi :: N + によって + 違う／変わる. Esim. 文化や習慣は国によって違います。
+～によっても + vaihtelun tekijä :: N + によっても + 変わる. Esim. 時と場合によっても変わります。
+～によって + useampi tekijä :: N1やN2 + によって. Esim. 山の景色は季節や天気によって変わります。
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä predikaatti seuraa tyypillisesti vaihtelua ilmaisevaa N によって -rakennetta?
+?
+違う, 変わる tai vastaava vaihtelua ilmaiseva predikaatti; hyvä tunnistusmerkki.
+
+Mitä によっても lisää N によって -rakenteeseen?
+?
+"Myös"-merkityksen: useampi tekijä yhdessä vaikuttaa vaihteluun.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten erotat vaihtelua ilmaisevan によって:n tekijää merkitsevästä によって:sta?
+?
+Katso verbiä: 違う／変わる → vaihtelun peruste; passiivi-verbi → tekijä (飛行機はライト兄弟によって発明されました).
+
+#flashcards/grammar/n3/vertailu
+
+Nによって（変わる・違う） (similar/compare) :: 〜によって (tekijan merkitseminen, luova teko)
+Nによって（変わる・違う） (similar/compare) :: ～によって (syy, muodollinen)

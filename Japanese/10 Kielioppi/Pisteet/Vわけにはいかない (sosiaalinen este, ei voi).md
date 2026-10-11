@@ -49,3 +49,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 子どもの学費のために貯金してきたこのお金を使う＿＿＿＿＿＿＿＿。(sosiaalinen/moraalinen este)
 ?
 わけにはいかない — "ei voi, koska se ei sovi/olisi väärin", sosiaalisten/moraalisten normien sanelema kielto.
+
+#flashcards/grammar/n2/muodostus
+
+V辞書形／ない形＋わけにはいかない + sanakirjamuoto :: V辞書形 + わけにはいかない. Esim. 親に頼るわけにはいかない / お金を使うわけにはいかない.
+V辞書形／ない形＋わけにはいかない + ない-muoto :: Vない形 + わけにはいかない. Esim. 宿題が終わらないうちは、寝るわけにはいかない.
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä V＋わけにはいかない ilmaisee, vaikka teko olisi fyysisesti mahdollinen?
+?
+Ettei tekoa voi tehdä sosiaalisten tai moraalisten normien vuoksi (ei sovi, olisi väärin).
+
+Mitä tarkoittaa kielteinen muoto Vないわけにはいかない?
+?
+Päinvastoin: on pakko tehdä, ei voi olla tekemättä.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten わけにはいかない eroaa rakenteesta Vしかない?
+?
+わけにはいかない: kielto normien/velvollisuuksien vuoksi; しかない: tilanteen sanelema käytännön ainoa vaihtoehto.
+
+#flashcards/grammar/n2/vertailu
+
+V辞書形／ない形＋わけにはいかない・ゆかない (similar/compare) :: Vしかない (ei ole muuta vaihtoehtoa)

@@ -54,3 +54,32 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi ei sanota ×母によってしかられました?
 ?
 によって on varattu muodolliselle, usein historiallis-kulttuuriselle kontekstille (keksinnöt, teokset); henkilökohtaisessa/arkisessa passiivissa käytetään に:tä.
+
+#flashcards/grammar/n4/muodostus
+
+〜によって + passiivi :: Tekijä + によって + passiivi. Esim. 飛行機はライト兄弟によって発明されました.
+
+#flashcards/grammar/n4/nyanssi
+
+Milloin passiivin tekijä merkitään によって eikä に:llä?
+?
+Kun kerrotaan, kuka loi, keksi tai suunnitteli jotain merkittävää (kirja, keksintö, rakennus); muodollinen, usein historiallinen/kulttuurinen asia.
+
+Käytetäänkö によって arkisessa henkilökohtaisessa passiivissa (先生に褒められました)?
+?
+Ei; siinä käytetään に:tä (母にしかられました, ei ×母によって).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten tekijää merkitsevä によって eroaa rakenteesta 〜によって (riippuen, vaihtelu)?
+?
+Vaihtelu-によって seuraa 違う/変わる-verbiä ja merkitsee vaihtelun perustetta (文化は国によって違います), ei tekijää.
+
+Miten tekijää merkitsevä によって eroaa rakenteesta 〜によって (syy, muodollinen)?
+?
+Syy-によって merkitsee suoraa muodollista syytä (円高によって経営が苦しくなった), ei passiivin tekijää.
+
+#flashcards/grammar/n4/vertailu
+
+〜によって (similar/compare) :: ～によって (riippuen, vaihtelu)
+〜によって (similar/compare) :: ～によって (syy, muodollinen)

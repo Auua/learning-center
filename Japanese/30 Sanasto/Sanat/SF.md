@@ -22,10 +22,21 @@ tags: [vocab, jlpt/n5]
 ## Merkitys
 - **FI:** scifi-elokuva
 - **EN:** SF film
+- **Ääni:** ![[tts_cecf1347b920.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 
 
+## Esimerkit
+- SF映画が好きです。 — Pidän scifi-elokuvista. ![[tts_53eb527ee6ea.m4a]]
+
 ## Kortit
-#flashcards/vocab
-SF::エスエフ — scifi-elokuva
+#flashcards/vocab/n5
+
+SF :: エスエフ - scifi-elokuva
+エスエフ :: SF - scifi-elokuva
+scifi-elokuva :: SF - エスエフ
+![[tts_cecf1347b920.m4a]] ::: SF - scifi-elokuva
+
+SF映画が好きです。 ::: Pidän scifi-elokuvista.
+![[tts_53eb527ee6ea.m4a]] ::: Pidän scifi-elokuvista.

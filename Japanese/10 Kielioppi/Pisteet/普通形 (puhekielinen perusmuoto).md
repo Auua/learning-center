@@ -68,3 +68,27 @@ Muut rakenteet siirtyvät suoraan: 〜たいです→〜たい、〜たことが
 富士山に登りたいです — miten puhekielellä?
 ?
 富士山に登りたい。 (〜たい on jo itsessään い-adjektiivimainen, ei tarvitse だ:ta eikä muuta muutosta)
+
+#flashcards/grammar/n5/muodostus
+
+普通形 + verbi (preesens ja mennyt) :: Myönt.: sanakirjamuoto (行く) / た-muoto (行った); kielt.: ない-muoto (行かない) / 行かなかった
+普通形 + い-adjektiivi :: Preesens: 忙しい, 忙しくない; mennyt: 忙しかった, 忙しくなかった. Ei だ:ta.
+普通形 + な-adjektiivi / substantiivi :: Preesens myönt. + だ (好きだ, 学生だ); kielt. じゃない (好きじゃない); mennyt だった / じゃなかった
+
+#flashcards/grammar/n5/nyanssi
+
+Miksi ×忙しいだ on virhe 普通形:ssa?
+?
+い-adjektiivi ei koskaan ota だ:ta; vain な-adjektiivit ja substantiivit tarvitsevat だ:n preesensin myöntävässä muodossa.
+
+Miksi だ jätetään usein pois kysymyksissä ja pehmeissä toteamuksissa?
+?
+だ voi kuulostaa töykeältä, varsinkin naisten puheessa; だよ / だよね pehmentävät sitä.
+
+Kenelle 普通形:aa käytetään puhuessa ja kenelle ei?
+?
+Läheisille ystäville, perheelle ja samanarvoisille kollegoille; muille ja tuntemattomille kohtelias muoto, muuten sävy on joko töykeä tai etäinen.
+
+Milloin 普通形 on standardi riippumatta suhteesta lukijaan?
+?
+Kirjoitetussa kielessä (sanomalehdet, romaanit, päiväkirjat).

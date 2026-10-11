@@ -45,3 +45,17 @@ tags: [grammar/perusrakenne, jlpt/n2]
 お客さんのために心＿＿＿＿歌います。(tunne mukana teossa)
 ?
 をこめて — "tunnetta täynnä", laittaa tietyn tunteen tekoon mukaan.
+
+#flashcards/grammar/n2/muodostus
+
+～をこめて + tunnesana :: N (tunne) + をこめて. Esim. お客さんのために心をこめて歌います。
+
+#flashcards/grammar/n2/nyanssi
+
+Millainen sana ～をこめて:n N on aina?
+?
+Tunnesana (期待, 愛, 心, 感謝, 怒り), jonka tekoon pannaan mukaan.
+
+Missä yhteyksissä ～をこめて on yleinen?
+?
+Luovan työn ja lahjojen kuvailussa (laulu, runo, kirje); korostaa tekijän vilpittömyyttä ja omistautumista.

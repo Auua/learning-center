@@ -53,3 +53,28 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on 行きたいです:llä ja 行ってほしいです:llä?
 ?
 行きたいです on puhujan oma halu mennä; 行ってほしいです on toive että JOKU MUU menee.
+
+#flashcards/grammar/n3/muodostus
+
+〜てほしい + verbi (て-muoto) :: V(て-muoto) + ほしい. Esim. 祖母にはいつまでも元気で長生きしてほしいです。 (toivon isoäidin elävän pitkään)
+〜ないでほしい + verbi (ない-muoto) :: V(ない形) + で + ほしい. Esim. これ以上森の木を切らないでほしい。 (toivon ettei metsän puita enää kaadeta)
+
+#flashcards/grammar/n3/nyanssi
+
+Miten merkitään taho, jonka toivotaan tekevän jotain, てほしい-lauseessa?
+?
+Usein に:lla: 祖母には長生きしてほしい.
+
+Miten てほしい eroaa たい:sta?
+?
+たい on puhujan oma halu tehdä itse; てほしい on toive, että joku muu tai jokin muu toimii tietyllä tavalla.
+
+Voiko てほしい kohdistua elottomaan asiaan?
+?
+Kyllä, esim. 景気がよくなってほしい (toivon että talous paranee).
+
+#flashcards/grammar/n3/sekaannus
+
+Miksi ×わたしは日本へ行ってほしいです on virhe, kun haluan itse mennä Japaniin?
+?
+てほしい vaatii, että tekijä on joku muu kuin puhuja (tai ulkoinen asia kuten sää/talous); oma halu ilmaistaan 行きたいです.

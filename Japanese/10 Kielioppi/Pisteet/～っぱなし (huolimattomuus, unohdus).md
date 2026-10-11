@@ -55,3 +55,31 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on ～ている:lla ja ～っぱなし:lla?
 ?
 ～ている on neutraali kuvaus jatkuvasta tilasta; ～っぱなし korostaa, että tila jäi huolimattomasti/tahattomasti eikä kukaan hoitanut asiaa.
+
+#flashcards/grammar/n3/muodostus
+
+V ます-vartalo + っぱなし :: Vます-vartalo + っぱなし — esim. 洗濯物が4、5日前から干しっぱなしだ。
+
+#flashcards/grammar/n3/nyanssi
+
+Millaisen sävyn ～っぱなし yleensä antaa?
+?
+Moittivan tai valittavan: asia on jätetty huolimattomasti hoitamatta (窓を開けっぱなし, ikkuna jäi auki).
+
+Missä ～っぱなし ei sisällä moitetta?
+?
+立ちっぱなし ja 座りっぱなし: ne kuvaavat fyysistä rasitusta pitkästä samassa asennossa olosta.
+
+Miten ～っぱなし eroaa ～ている:sta?
+?
+ている kuvaa tilaa neutraalisti (電気がついている); っぱなし korostaa että tila on jäänyt huolimattomasti ilman että kukaan puuttui siihen.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten 電気がついている eroaa 電気がつけっぱなしだ:sta?
+?
+ついている: neutraali toteamus, valo on päällä; つけっぱなし: moittiva, valo on jätetty päälle huolimattomasti ja olisi pitänyt sammuttaa.
+
+#flashcards/grammar/n3/vertailu
+
+V(ます-vartalo)＋っぱなし (similar/compare) :: ～ている (parhaillaan, tilan tulos)

@@ -50,3 +50,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 袋＿＿＿＿必要なのよ。(korostava, "jopa pussitkin")
 ?
 だって — puhekielinen でも, korostaa ääriesimerkin sisältymistä yleistykseen.
+
+#flashcards/grammar/n2/muodostus
+
+N＋だって + substantiivi :: N + だって. Esim. 韓国語だって発音が難しい。
+N＋だって + useita ääriesimerkkejä :: N1だって N2だって. Esim. サッカーだって野球だって何でもできます。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä funktiota N＋だって hoitaa verrattuna でも:hön?
+?
+Puhekielinen vastine でも:lle: korostaa ääriesimerkin sisältymistä yleistykseen ('jopa/-kin X').
+
+Voiko N＋だって toistua lauseessa?
+?
+Kyllä, ääriesimerkkejä voi listata peräkkäin: サッカーだって野球だって.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten N＋だって eroaa だって～もん -puolustautumisesta?
+?
+Tämä だって korostaa ääriesimerkkiä lauseen keskellä; だって～もん aloittaa puolustautuvan vastauksen kysymykseen tai moitteeseen ja päättyy もの/もん:iin.
+
+Miten N＋だって eroaa N＋でも:stä?
+?
+Sama perusfunktio; でも on yleiskielisempi/muodollisempi, だって puhekielinen.

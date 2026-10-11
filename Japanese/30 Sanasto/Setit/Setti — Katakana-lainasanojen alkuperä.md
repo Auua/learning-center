@@ -106,3 +106,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Katakana-lainasanojen alkuperä: sano ainakin viisi sanaa
+?
+ジャム (hillo), ハム (kinkku), クッキー (keksi), チーズ (juusto), エプロン (esiliina), スカート (hame), スーツ (puku), インフルエンザ (influenssa), ストレス (stressi), ドラマ (draama), コーラス (kuoro), メロディー (melodia)…

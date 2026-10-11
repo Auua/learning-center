@@ -55,3 +55,24 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ワット先生って、どんな先生？ — mitä って tässä korvaa?
 ?
 は — aiheenmerkitsijä puhekielisessä muodossa (ワット先生は…).
+
+#flashcards/grammar/n3/muodostus
+
+N/普通形 + って + 言う/読む (lainaus) :: って korvaa と — esim. 「いちごいちえ」って読みます。
+普通形 + って (kuulopuhe) :: Korvaa そうだ — esim. 今年の冬は暖かいって、ニュースで言ってましたよ。
+N + って + N/adj (aihe) :: って korvaa は — esim. ワット先生って、どんな先生？
+
+#flashcards/grammar/n3/nyanssi
+
+Missä rekisterissä って toimii ja missä ei?
+?
+Vain rennossa puhekielessä; kirjoitetussa tai muodollisessa tekstissä と ja は pysyvät oikeina valintoina.
+
+Mitä って tekee aiheen merkitsijänä verrattuna は:hon?
+?
+Toimii kuten は, mutta rennommin: ワット先生ってどんな先生 = ワット先生はどんな先生ですか.
+
+#flashcards/grammar/n3/vertailu
+
+～って（引用・主題） (similar) :: 普通形と言います (lainaus)
+～って（引用・主題） (similar) :: N1とN2 (ja)

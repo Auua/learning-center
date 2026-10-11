@@ -60,3 +60,25 @@ tags:
 酒は薬になる＿＿＿＿＿毒にもなる。(kaksi ristiriitaista ominaisuutta yhtä aikaa)
 ?
 と同時に — "samaan aikaan kuin", kaksi ominaisuutta/tilaa pätee yhtäaikaisesti.
+
+#flashcards/grammar/n2/muodostus
+
+N であると同時に N2（でもある） :: N + であると同時に + N2（でもある）— esim. 彼は作曲家であると同時に演奏家でもある。
+普通形 + と同時に :: 普通形 + と同時に — esim. 遅く帰ってきた娘の顔を見て、ホッとすると同時に腹が立った。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä ～と同時に esittää kahdesta ominaisuudesta tai tunteesta?
+?
+Molemmat ovat yhtä tosia samanaikaisesti, ei peräkkäisyytenä; kaava NはAであると同時にBでもある.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten ～と同時に eroaa ～とともに:sta?
+?
+とともに korostaa kahden toiminnan rinnakkaisuutta; と同時に sopii paremmin kahden ominaisuuden/tunteen/tilan samanaikaisuuteen, myös ristiriitaisiin pareihin (薬になると同時に毒にもなる).
+
+#flashcards/grammar/n2/vertailu
+
+N／普通形＋と同時に (similar) :: V(-ます)ながら (samalla kun)
+N／普通形＋と同時に (similar/compare) :: ～とともに (yhdessa, samalla)

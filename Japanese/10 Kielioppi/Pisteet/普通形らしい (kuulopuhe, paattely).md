@@ -55,3 +55,39 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Mitä eroa on らしい:llä ja そうです:llä kuulopuheessa?
 ?
 らしい on usein etäisempi/epäsuorempi (juoru, vihje); そうです perustuu usein suorempaan, täsmällisempään lähteeseen (uutinen, luettu teksti).
+
+#flashcards/grammar/n3/muodostus
+
+普通形＋らしい :: 普通形 + らしい. Esim. 高橋さんに聞いたんだけど、婚約したらしいよ。(Kuulin Takahashilta, että hän on kuulemma kihlautunut.)
+N＋らしい :: N + らしい. Esim. 隣の晩ご飯、すき焼きらしい。
+い-adj/な-adj + らしく (jatkuva muoto) :: い-adj/な-adj + らしく. Esim. 水泳が苦手らしく、お腹が痛いと言う。
+
+#flashcards/grammar/n3/nyanssi
+
+Mihin 普通形らしい usein perustuu ja miten se eroaa そうです:sta?
+?
+Usein epäsuoraan vihjeeseen (haju, ääni, juoru) tai toisen käden tietoon; hieman etäisempi ja varovaisempi kuin そうです.
+
+Mitä tarkoittaa らしく lauseen jatkajana?
+?
+Se toimii jatkavana muotona, jolla perustellaan seuraava asia: 苦手らしく、お腹が痛いと言う (ilmeisesti huono siinä, joten sanoo vatsan olevan kipeä).
+
+#flashcards/grammar/n3/sekaannus
+
+Miten らしい eroaa そうです-kuulopuheesta?
+?
+そうです: suora, usein täsmällisempi lähde (uutinen, artikkeli); らしい: usein epäsuorempi tieto (juoru, vihje, päättely aistihavainnosta).
+
+Miten らしい eroaa ようです:sta?
+?
+ようです perustuu puhujan OMAAN havaintoon/päättelyyn; らしい perustuu ULKOPUOLISEEN tietoon tai vihjeeseen.
+
+Miten kuulopuhe-らしい eroaa tyypillisyyttä ilmaisevasta らしい:sta?
+?
+Substantiivin perässä ilman 普通形-lausetta らしい tarkoittaa 'tyypillinen', ei kuulopuhetta.
+
+#flashcards/grammar/n3/vertailu
+
+普通形らしい（伝聞・推量） (similar/compare) :: 普通形そうです (kuulopuhe)
+普通形らしい（伝聞・推量） (similar/compare) :: 普通形ようです (havaintoon perustuva paattely)
+普通形らしい（伝聞・推量） (similar) :: ～らしい (tyypillisyys)

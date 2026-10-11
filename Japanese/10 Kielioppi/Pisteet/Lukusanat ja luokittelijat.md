@@ -97,3 +97,41 @@ Luokittelijan valinta ei ole vapaa — väärä luokittelija (esim. 人 esineell
 どのくらい vs 何時間 — ero?
 ?
 どのくらい sopii mihin tahansa aikayksikköön vastauksessa (3年, 2時間半...); 何時間 pyytää nimenomaan tuntimäärän.
+
+#flashcards/grammar/n5/muodostus
+
+数詞＋助数詞 + objekti (を) :: Objekti + を + [luku+luokittelija] + V. Esim. りんごを4つ買いました。
+数詞＋助数詞 + olemassaolo (います／あります) :: Subjekti + が + [luku+luokittelija] + います／あります. Esim. 外国人の学生が2人います。
+数詞＋助数詞 + kesto :: Kesto sijoitetaan ennen verbiä ilman partikkelia. Esim. 国で2か月日本語を勉強しました。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä lukusarjaa 数詞＋助数詞 käyttää ilman erikoisluokittelijaa ja mihin se päättyy?
+?
+Yleislaskusarjaa ひとつ〜とお (1–10), kysymys いくつ. Yli 10 käytetään tavallisia lukusanoja ilman luokittelijaa.
+
+Mitkä ovat ihmisten luokittelijan 人 poikkeukset 数詞＋助数詞 -rakenteessa?
+?
+1 = ひとり, 2 = ふたり, 4 = よにん.
+
+Miten ～時間 eroaa ～時 luokittelijoina (数詞＋助数詞)?
+?
+～時間 = tunnit (kesto), ～時 = kellonaika.
+
+Mikä luokittelija sopii litteille esineille ja koneille/ajoneuvoille (数詞＋助数詞)?
+?
+Litteät esineet ～枚, koneet ja ajoneuvot ～台.
+
+Mikä ero on どのくらい ja 何＋luokittelija välillä lukumäärää kysyttäessä?
+?
+どのくらい sopii mihin tahansa aikayksikköön (kesto); 何時間 jne. pyytää nimenomaan kyseistä yksikköä.
+
+#flashcards/grammar/n5/sekaannus
+
+Miksi luokittelijan valinta 数詞＋助数詞 -rakenteessa ei ole vapaa?
+?
+Väärä luokittelija (esim. 人 esineelle) kuulostaa oudolta; luokittelija opitaan yhdessä tyypillisen sanaryhmänsä kanssa.
+
+#flashcards/grammar/n5/vertailu
+
+数詞＋助数詞 (similar) :: N (aika) に

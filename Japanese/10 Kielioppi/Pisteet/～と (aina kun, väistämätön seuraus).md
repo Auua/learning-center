@@ -55,3 +55,41 @@ Automaatti: kolikko sisään → juoma ulos. Ei neuvottelua.
 と-ehtolause — mikä on ehdoton kielto?
 ?
 Jälkilauseessa ei saa olla tahdonilmausta (käsky, pyyntö, kutsu, lupa, toive). Seuraus on automaattinen. Etulause aina ei-menneessä.
+
+#flashcards/grammar/n4/muodostus
+
+～と + verbi (辞書形) :: 辞書形 + と — 押す → 押すと
+～と + kielteinen verbi :: ない-muoto + と — 行かない → 行かないと
+～と + い-adjektiivi :: い + と — 高い → 高いと
+～と + な-adjektiivi/substantiivi :: だ + と — 静かだと
+
+#flashcards/grammar/n4/nyanssi
+
+Mitä ei saa olla ～と-lauseen jälkilauseessa?
+?
+Tahdonilmausta: ei käskyä, pyyntöä, kutsua, lupaa eikä toivetta; ～と on tiukin ehtolauseista.
+
+Mitä mennyt jälkilause tarkoittaa ～と-lauseessa?
+?
+Löytöä tai yllätystä: 窓を開けると、海が見えた.
+
+Missä aikamuodossa ～と-lauseen etulause on?
+?
+Aina ei-menneessä, vaikka koko lause olisi menneessä.
+
+Mitä puhekielinen ～ないと tarkoittaa?
+?
+'On pakko': もう行かないと。
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: と vai たら: 春になる＿＿、京都に行ってください?
+?
+たら (春になったら、…): jälkilauseessa pyyntö, jota と ei salli.
+
+#flashcards/grammar/n4/vertailu
+
+～と (similar) :: ～たら (jos, kun)
+～と (similar) :: ～ば (jos, ehto)
+～と (similar) :: ～なら (jos kerran)
+～と (compare) :: Vertailu — Ehtolauseet と・ば・たら・なら

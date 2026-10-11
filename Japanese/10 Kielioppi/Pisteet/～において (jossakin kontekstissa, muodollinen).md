@@ -54,3 +54,32 @@ Erittäin muodollisessa liikekirjeenvaihdossa/puheessa においては korvautuu
 江戸時代＿＿＿＿もっとも力を持っていたのは誰だろうか。(muodollinen konteksti)
 ?
 において — で:n muodollinen vastine, objektiivinen konteksti (paikka/aika/tilanne).
+
+#flashcards/grammar/n2/muodostus
+
+～において + substantiivi :: N + において. Esim. 地域社会において今どのような問題があるかを分析した。
+～における + substantiivi :: N + における + N2. Esim. この工場における問題
+
+#flashcards/grammar/n2/nyanssi
+
+Missä rekisterissä N において sopii käyttöön?
+?
+Muodollisessa: esseissä, uutisissa, akateemisessa tekstissä; arkikeskustelussa liian jäykkä.
+
+Mikä on における-muodon rooli suhteessa において?
+?
+における on adnominaalinen muoto, joka liittää substantiiviin suoraan kuten の.
+
+Mitä variantteja N において saa erittäin muodollisessa kielessä?
+?
+におきましては／におかれましては; におかれましては kunnioittaa vastaanottajaa (kirjeen alku), におきましては puhujan omaa puolta (小社におきましては).
+
+#flashcards/grammar/n2/sekaannus
+
+Miten N において eroaa N にとって:sta?
+?
+において kuvaa objektiivisen kontekstin (paikka/aika/tilanne), ei vaadi elollista tahoa; にとって kuvaa jonkun subjektiivisen näkökulman. 日本において vs. 私にとって.
+
+#flashcards/grammar/n2/vertailu
+
+N＋において（は）・における＋N (similar/compare) :: ～にとって (jonkun nakokulmasta)

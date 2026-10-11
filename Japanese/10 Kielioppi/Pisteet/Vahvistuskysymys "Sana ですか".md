@@ -46,3 +46,17 @@ tags:
 すみません、ユニューヤ・ストアはどこですか。 … ユニューヤ・ストアですか。 — mitä jälkimmäinen repliikki tekee?
 ?
 Varmistaa/toistaa juuri kuullun nimen ennen vastaamista — yleinen kohtelias tapa ostaa hetki miettimisaikaa ja vahvistaa kuulleensa oikein.
+
+#flashcards/grammar/n5/muodostus
+
+「Sana」ですか + kuultu sana :: ［Kuultu sana］+ ですか。 Esim. ユニューヤ・ストアですか。 (tarkoitatko ...?)
+
+#flashcards/grammar/n5/nyanssi
+
+Miten voi varmistaa kuullun sanan oikeellisuuden (「Sana」ですか) muotoilematta koko kysymystä uudelleen?
+?
+Poimitaan kuultu sana ja toistetaan se muodossa sana + ですか.
+
+#flashcards/grammar/n5/vertailu
+
+「Sana」ですか (similar) :: Sね (vahvistus, eikö niin)

@@ -1,9 +1,10 @@
+<%* const j = await tp.system.suggester(["N5","N4","N3","N2","N1"], ["N5","N4","N3","N2","N1"], false, "JLPT-taso"); -%>
 ---
 type: kanji
 kanji: <% tp.file.title %>
 strokes:
 grade:
-jlpt:
+jlpt: <% j %>
 onyomi: []
 kunyomi: []
 meaning:
@@ -14,6 +15,7 @@ confidence: 1
 created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - kanji
+  - jlpt/<% j.toLowerCase() %>
 ---
 
 ## Avainmerkitys
@@ -58,5 +60,21 @@ views:
 ![[]]
 
 ## Kortit
-#flashcards/kanji 
-<% tp.file.title %> — merkitys::
+#flashcards/kanji/<% j.toLowerCase() %>
+
+<% tp.file.title %> (merkitys) ::: merkitys
+<% tp.file.title %> (on'yomi) :: lukutapa (esimerkkisana lukutapa – käännös)
+<% tp.file.title %> (kun'yomi) :: lukutapa (esimerkkisana lukutapa – käännös)
+muistisääntö :: <% tp.file.title %>
+
+#flashcards/kanji/<% j.toLowerCase() %>/sanat
+
+<% tp.file.title %> - sana ::: (lukutapa) – käännös
+
+#flashcards/kanji/<% j.toLowerCase() %>/nakoisserkut
+
+<% tp.file.title %> (näköisserkut) :: toinen kanji (merkitys), toinen kanji (merkitys)
+
+<% tp.file.title %> — mitkä kanjit muistuttavat tätä ja miten ne erotetaan?
+?
+ero

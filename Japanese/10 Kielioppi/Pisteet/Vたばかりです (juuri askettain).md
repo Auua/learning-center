@@ -52,3 +52,28 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi 先月会社に入ったばかりです on luonnollinen vaikka kuukausi on jo kulunut?
 ?
 たばかり on subjektiivinen tuoreuden ilmaus — kuukausi voi silti tuntua "äskeiseltä" uudessa työpaikassa, toisin kuin tiukasti hetkellinen た形+ところ.
+
+#flashcards/grammar/n4/muodostus
+
+Vたばかりです + verbi (た形) :: V(た形) + ばかりです. Esim. 彼は3月に大学を卒業したばかりです。
+
+#flashcards/grammar/n4/nyanssi
+
+Kuinka tuore tapahtuman täytyy olla rakenteessa Vたばかりです?
+?
+Subjektiivisesti tuore; kalenteriaikaa voi olla kulunut viikkoja tai kuukausia (先月入ったばかり).
+
+Mihin rakenteeseen Vたばかり yhdistetään pettymystä korostettaessa?
+?
+のに: 買ったばかりなのに、もう壊れました.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten Vたばかりです eroaa た形+ところです:sta?
+?
+ところです viittaa aivan juuri tapahtuneeseen (たった今, minuutit); ばかり voi kattaa subjektiivisesti tuoreen jakson, vaikka viikkoja tai kuukausia.
+
+#flashcards/grammar/n4/vertailu
+
+Vた形ばかりです (similar/compare) :: Vところです (kolme vaihetta)
+Vた形ばかりです (similar/compare) :: Vたて (juuri tehty)

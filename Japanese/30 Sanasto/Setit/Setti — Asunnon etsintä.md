@@ -57,3 +57,16 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+うーん。 ::: Hmm... (mietiskelyä)
+駅から遠い／近いです。 ::: Se on kaukana/lähellä asemaa.
+きょう見てもいいですか。 ::: Voinko käydä katsomassa tänään?
+
+#flashcards/setti/teema
+
+Setti — Asunnon etsintä: sano ainakin viisi sanaa
+?
+家賃（やちん） (vuokra), アパート ((matalampi) vuokrakerrostalo), ダイニングキッチン (keittiö-ruokailutila), 和室（わしつ） (japanilaistyylinen huone), 押し入れ (japanilainen (liukuovi)vaatekaappi), 布団（ふとん） (futon-patja), 中央線 (Chūō-linja (esimerkkijunalinja)), 築3年 (3 vuotta vanha (rakennus)), 敷金 (vuokravakuus), 礼金 (kiitosraha (palauttamaton)), 管理費 (hoitovastike), 南向き (etelään päin)…

@@ -60,3 +60,20 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+Miksi 恐れ入りますが／あいにく jää kesken?
+?
+Kohtelias kieltäytyminen jätetään tarkoituksella kesken, koska loppuun sanominen olisi liian suoraa; kuulija täydentää loput.
+
+申し訳ありませんでした vs すみません?
+?
+すみません riittää arkiseen kömmähdykseen; 申し訳ありませんでした on muodollinen ja vakava (todellinen haitta). Väärä valinta kuulostaa välinpitämättömältä tai teatraaliselta.
+
+#flashcards/setti/teema
+
+Setti — Kohteliaat pyynnöt ja anteeksipyynnöt: sano ainakin viisi sanaa
+?
+恐れ入りますが、～ (Suokaa anteeksi), お忙しいところ、～ (Anteeksi häiriö kiireenne keskellä), あいにく、～ (Valitettavasti ~), それでしたら、～ (Siinä tapauksessa ~), [[お願いします。\ (Pyydän), ～[[てもらえませんか・ていただけないでしょうか (kohtelias pyyntoperhe)\ (Olisiko mahdollista), おいでください (Olkaa hyvä ja tulkaa), どうかしましたか。 (Onko jokin vialla?), 困りましたね。 (Voi harmi), 申し訳ありませんでした。 (Olen todella pahoillani.), そんなはずはありません。 (Ei se voi pitää paikkaansa.), それもそうですね。 (Totta puhut)…

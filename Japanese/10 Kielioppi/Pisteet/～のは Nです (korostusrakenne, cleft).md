@@ -70,3 +70,40 @@ Käytetyt taivutusmuodot: [[普通形 (puhekielinen perusmuoto)]] + の
 Miksi sivulauseessa on が eikä は?
 ?
 のは-osan sisällä oleva sivulause merkitsee subjektinsa aina が:llä; は on varattu koko cleft-rakenteen aiheelle.
+
+#flashcards/grammar/n4/muodostus
+
+～のはNです + korostettu ajankohta :: V(た形) + のは + N(aika) + です. Esim. わたしが日本へ来たのは去年の3月です。
+～のはNです + korostettu paikka :: V(た形) + のは + N(paikka) + です. Esim. 娘が生まれたのは北海道の小さな町です。
+～のはNです + korostettu asia :: A/V(普通形) + のは + N + です. Esim. 1年でいちばん忙しいのは12月です。
+～のはNです + korostettu tekijä :: V(辞書形) + のは + N(henkilö) + です. Esim. 料理を作るのは父です。
+
+#flashcards/grammar/n4/nyanssi
+
+Millä partikkelilla subjekti merkitään ～のはNです-rakenteen sivulauseessa?
+?
+が, ei は: わたしが日本へ来たのは…
+
+Mihin implisiittiseen kysymykseen ～のはNです vastaa ja mihin korostettu osa sijoitetaan?
+?
+Kysymykseen milloin/missä/kuka; korostettu tieto tulee aina lauseen loppuun.
+
+Mikä rakenne on kyseessä, jos ～のは-lauseen loppuun tulee syy substantiivin sijaan?
+?
+～のは～からだ (syy predikaattina).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten ～のはNです eroaa nominalisoinnista Vのは (絵をかくのは楽しいです)?
+?
+Nominalisoinnissa teko muuttuu substantiiviksi arvioitavaksi; cleft käyttää samaa の:ta korostuskehyksenä ja loppuun tulee identifioiva substantiivi.
+
+Miten ～のはNです eroaa aiheeksi nostamisesta は:lla?
+?
+は nostaa aiheen lauseen alkuun; cleft nostaa vastauksen lauseen loppuun — vastakkaiset painotukset.
+
+#flashcards/grammar/n4/vertailu
+
+…のは N です (similar) :: Vのは・Vのが・Vのを (nominalisointi)
+…のは N です (similar/compare) :: ～のは～からだ (syy predikaattina)
+…のは N です (similar) :: N（objekti）は (aiheeksi nostaminen)

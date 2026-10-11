@@ -64,3 +64,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Yhteiskunnan tittelit: sano ainakin viisi sanaa
+?
+国（くに） (pääministeri), 都道府県 (kuvernööri), 市（し） (pormestari), 町（まち） (pikkukaupungin johtaja), 村（むら） (kylänjohtaja), 大学 (rehtori (yliopisto)), 高等学校・中学校・小学校 (rehtori (koulu)), 幼稚園 (johtaja (päiväkoti)), 会長（かいちょう） (hallituksen puheenjohtaja), 社長（しゃちょう） (toimitusjohtaja), 重役（じゅうやく） (johtokunnan jäsen), 部長（ぶちょう） (osastopäällikkö)…

@@ -91,3 +91,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Toimisto- ja elektroniikkatarvikkeet: sano ainakin viisi sanaa
+?
+本 (kirja), ノート (vihko), 手帳 (muistikirja), 名刺 (käyntikortti), カード (kortti), テレホンカード (puhelinkortti), 鉛筆 (lyijykynä), ボールペン (kuulakärkikynä), シャープペンシル (mekaaninen lyijykynä), 時計 (kello), ［カセット］テープ ((kasetti)nauha), テープレコーダー (nauhuri)…

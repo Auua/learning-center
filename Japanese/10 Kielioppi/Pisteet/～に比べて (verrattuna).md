@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n2]
 奈良は京都＿＿＿＿静かで、観光客も少ない。(vertailuprosessin korostus)
 ?
 に比べて — "verrattuna", korostaa vertailutoimintaa enemmän kuin より.
+
+#flashcards/grammar/n2/muodostus
+
+～に比べて + substantiivi :: N + に比べて. Esim. 今年は去年に比べて春の来るのが遅かった。
+～に比べると + substantiivi :: N + に比べると. Esim. 電子辞書で調べたことは紙の辞書に比べると記憶に残りにくい気がする。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä N に比べて korostaa verrattuna より-vertailuun?
+?
+Itse vertailutoimintaa ("kun vertaa…"), kun より on suorempi asteikkovertailu.
+
+Mikä on に比べると -variantin sävy?
+?
+Hieman pehmeämpi ja pohdiskelevampi; usein subjektiivisen vaikutelman yhteydessä (気がする, 感じがする).
+
+#flashcards/grammar/n2/sekaannus
+
+Miten N に比べて eroaa N1はN2より -vertailusta?
+?
+より on suora asteikkovertailu (AはBより高い); に比べて korostaa vertailuprosessia ja sopii pidempiin, kuvailevampiin vertailuihin usealla ominaisuudella.
+
+#flashcards/grammar/n2/vertailu
+
+N＋に比べて・に比べると (similar/compare) :: N1はN2より (vertailu)

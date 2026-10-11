@@ -51,3 +51,22 @@ tags:
 日本ではなかなか馬を見ることができません。 — mitä なかなか lisää tähän lauseeseen?
 ?
 Korostaa että hevosten näkeminen on yllättävän vaikeaa/harvinaista, ei vain "ei voi nähdä".
+
+#flashcards/grammar/n5/muodostus
+
+なかなか + kielteinen predikaatti :: なかなか + V (kielteinen). Esim. 日本ではなかなか馬を見ることができません。 (ei helposti näe hevosia)
+ぜひ + toive tai pyyntö :: ぜひ + 〜たいです／〜てください. Esim. ぜひ北海道へ行きたいです。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä なかなか tarkoittaa kielteisen predikaatin kanssa?
+?
+'Ei helpolla, ei niin vain' eli yllättävän vaikeaa.
+
+Mitä なかなか tarkoittaa ilman kielteistä predikaattia?
+?
+Aivan eri asian: myönteinen 'varsin, melko'; N5-tasolla riittää oppia vain kielteinen käyttö.
+
+Minkälaisten ilmausten kanssa ぜひ käytetään, eikä neutraaleissa toteamuksissa?
+?
+Toiveiden ja pyyntöjen kanssa (たい, てください); ぜひ vahvistaa niitä ('todella, ehdottomasti').

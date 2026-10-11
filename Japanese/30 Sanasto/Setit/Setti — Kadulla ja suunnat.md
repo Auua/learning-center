@@ -69,3 +69,22 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+この道をまっすぐ行ってください。 ::: Menkää tätä tietä suoraan.
+次の角を右へ曲がってください。 ::: Kääntykää seuraavasta kulmasta oikealle.
+交差点を渡ってください。 ::: Ylittäkää risteys.
+
+#flashcards/setti/ero
+
+Miksi liikennemerkissä 止まれ eikä 止まってください?
+?
+Liikennemerkit käyttävät käskymuoto ろ-tyyliä: lyhyintä ja ehdottominta muotoa. Sama pätee kieltoihin (入るな).
+
+#flashcards/setti/teema
+
+Setti — Kadulla ja suunnat: sano ainakin viisi sanaa
+?
+歩道（ほどう） (jalkakäytävä), 車道（しゃどう） (ajorata), 高速道路（こうそくどうろ） (moottoritie), 通り（とおり） (katu), 交差点（こうさてん） (risteys), 横断歩道（おうだんほどう） (suojatie), 歩道橋（ほどうきょう） (kävelysilta), 角（かど） (kulma), 信号（しんごう） (liikennevalo), 坂（さか） (mäki), 踏切（ふみきり） (tasoristeys), ガソリンスタンド (huoltoasema)…

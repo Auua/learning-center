@@ -105,3 +105,16 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+Epäsäännölliset päivämäärät: mitkä?
+?
+1日 ついたち・2日 ふつか・3日 みっか・4日 よっか・5日 いつか・6日 むいか・7日 なのか・8日 ようか・9日 ここのか・10日 とおか・14日 じゅうよっか・20日 はつか・24日 にじゅうよっか
+
+#flashcards/setti/teema
+
+Setti — Kellonajat, viikonpäivät ja ajanilmaukset: sano ainakin viisi sanaa
+?
+～時 (kello ~), ～分 (~ minuuttia), 半 (puoli(tunti)), 何時 (mihin aikaan), 何分 (kuinka moni minuutti), 午前 (ap.), 午後 (ip.), 朝 (aamu), 昼 (keskipäivä), 晩・夜 (ilta), 今朝 (tänä aamuna), 今晩 (tänä iltana)…

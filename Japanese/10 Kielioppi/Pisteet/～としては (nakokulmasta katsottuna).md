@@ -48,3 +48,23 @@ tags: [grammar/perusrakenne, jlpt/n2]
 北海道のお土産＿＿＿＿＿、クッキーやチョコレートなどが有名である。(kategoria + tyypillinen esimerkki)
 ?
 としては — rajaa kategorian ja esittää siitä tyypillisen esimerkin.
+
+#flashcards/grammar/n2/muodostus
+
+N + としては + esimerkki/perustelu :: N（kategoria）+ としては、esimerkkejä + がある/挙げられる/好まれる — esim. 北海道のお土産としては、クッキーやチョコレートなどが有名である。
+
+#flashcards/grammar/n2/nyanssi
+
+Miten としては eroaa として:sta?
+?
+として nimeää suoran roolin/ominaisuuden; としては rajaa laajemman kategorian tai näkökulman, josta annetaan tyypillisiä esimerkkejä tai yleistys.
+
+#flashcards/grammar/n2/sekaannus
+
+Kumpi: として vai としては: 先生＿＿話す vs. お土産＿＿、クッキーが有名?
+?
+先生として話す: suora rooli ('puhua opettajana'); お土産としては、クッキーが有名: kategoria, josta annetaan esimerkki ('tuliaisina kuuluisia ovat keksit').
+
+#flashcards/grammar/n2/vertailu
+
+N＋としては (similar/compare) :: ～として (roolissa, ominaisuudessa)

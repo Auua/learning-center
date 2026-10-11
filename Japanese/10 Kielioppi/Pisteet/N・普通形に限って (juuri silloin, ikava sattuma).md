@@ -49,3 +49,19 @@ tags: [grammar/perusrakenne, jlpt/n2]
 うちの子に限ってそんなことをするはずがない。 — mitä tämä tarkoittaa?
 ?
 "Juuri minun lapseni ei varmasti tekisi sitä" — に限って + はずがない ilmaisee vahvaa luottamusta, ei ikävää sattumaa.
+
+#flashcards/grammar/n2/muodostus
+
+N／普通形＋に限って + aika :: N（aika）+ に限って. Esim. デートの約束をしている日に限って、残業を頼まれる。
+N／普通形＋に限って + henkilö :: N（henkilö）+ に限って + はずがない. Esim. うちの子に限ってそんなことをするはずがない。
+N／普通形＋に限って + 普通形 :: 普通形（〜という人）+ に限って. Esim. 「お金なんか」と言っている人に限って、お金をもうける話が好きです。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä N／普通形＋に限って ilmaisee yleisimmässä käytössä?
+?
+Ikävä sattuma: juuri silloin tapahtuu (usein ikävä) asia, kun ei pitäisi.
+
+Mitä N（henkilö）に限って + kielteinen predikaatti (はずがない) tarkoittaa?
+?
+Päinvastaista kuin ikävää sattumaa: 'juuri hän ei varmasti tekisi sitä' (luottamuksen ilmaus).

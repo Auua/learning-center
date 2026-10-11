@@ -49,3 +49,13 @@ tags:
 朝ごはんを食べる時間がありません。 — mikä rakenne tässä on?
 ?
 関係節-tyyppinen rakenne: 食べる (perusmuoto) määrittää suoraan 時間:aa, kertoen minkä tekemiseen aikaa ei ole.
+
+#flashcards/grammar/n5/muodostus
+
+V辞書形＋時間 + mitä tulee perään? :: V辞書形 + 時間があります／ありません. Esim. 朝ごはんを食べる時間がありません.
+V辞書形＋約束 + mitä tulee perään? :: V辞書形 + 約束があります. Esim. 友達と映画を見る約束があります.
+V辞書形＋用事 + mitä tulee perään? :: V辞書形 + 用事があります. Esim. 市役所へ行く用事があります.
+
+#flashcards/grammar/n5/vertailu
+
+V辞書形＋時間／約束／用事 (similar) :: 関係節 (suhteellinen sivulause)

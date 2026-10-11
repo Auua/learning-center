@@ -91,3 +91,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Sää ja vuodenajat: sano ainakin viisi sanaa
+?
+季節 (vuodenaika), 春 (kevät), 夏 (kesä), 秋 (syksy), 冬 (talvi), 天気 (sää), 雨 (sade), 雪 (lumi), 曇り (pilvinen), 天気予報（てんきよほう） (sääennuste), [[晴れる\ (selkenee), [[曇る\ (pilvistyy)…

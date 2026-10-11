@@ -67,3 +67,32 @@ tags:
 はさみを使ったら、元の所に＿＿＿＿＿＿＿ください。(戻す)
 ?
 戻しておいて — ておく, säilytysmerkitys: jätä/palauta niin että se on valmiina seuraavalle käyttäjälle.
+
+#flashcards/grammar/n4/muodostus
+
+Vて-form おきます + verbi (valmistelu) :: V(て-muoto) + おきます. 例: 旅行のまえに、案内書を読んでおきます。
+Vて-form おいてください + verbi (pyyntö) :: V(て-muoto) + おいてください; valmistelu tai ennalleen jättäminen. 例: そのままにしておいてください。
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä on tyypillinen kaava rakenteessa Vて-form おきます?
+?
+V1まえに/までに、V2ておきます: tekee jotain valmiiksi ennen määräaikaa (試験までに復習しておきます).
+
+Mitä おく korostaa rakenteessa Vて-form おきます?
+?
+Tulevaisuuteen suuntautunutta hyötyä: teko tehdään, jotta myöhemmin on helpompaa tai valmiimpaa.
+
+Miten Vて-form おきます lyhenee puhekielessä?
+?
+ておく → とく (読んどく), ておいて → といて.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten Vて-form おきます eroaa muodosta Vてあります?
+?
+てある kuvaa jo valmista tilaa (tulos näkyy nyt); ておく korostaa itse valmistelutekoa. 予約しておきました → チケットが予約してあります.
+
+#flashcards/grammar/n4/vertailu
+
+Vて-form おきます (similar) :: Vてあります (tarkoituksella tehty tila)

@@ -71,3 +71,47 @@ Käytetyt taivutusmuodot: [[Sanakirjamuoto]] (aina 辞書形, ei koskaan た形)
 Missä muodossa sivulauseen verbi on ennen まで/までに?
 ?
 Aina 辞書形 (寝るまで, 来るまでに) — myös silloin kun päälause on menneessä ajassa.
+
+#flashcards/grammar/n4/muodostus
+
+V辞書形まで + jatkuva toiminta :: V辞書形 + まで、…: toiminta jatkuu rajaan asti. Esim. 子どもが寝るまで、本を読んでやります.
+V辞書形までに + kertaluontoinen teko :: V辞書形 + までに、…: teko tapahtuu kerran ennen rajaa. Esim. 息子が帰って来るまでに、食事を用意しておきます.
+
+#flashcards/grammar/n4/nyanssi
+
+Missä muodossa V辞書形まで／までに -lauseen verbi on, vaikka päälause olisi menneessä?
+?
+Aina 辞書形 (帰って来るまでに、用意しました).
+
+Millä partikkelilla subjekti merkitään V辞書形まで／までに -sivulauseessa?
+?
+Partikkelilla が, ei は (子どもが寝るまで).
+
+Miten valitaan V辞書形まで ja までに?
+?
+Jos päälauseen toiminta voi jatkua koko ajan rajaan asti, まで; jos se tapahtuu kerran jossain vaiheessa ennen rajaa, までに.
+
+Minkä verbityyppien kanssa V辞書形まで ja までに tyypillisesti esiintyvät?
+?
+までに sopii valmistelevan Vておきます:n kanssa; まで kestoverbien kanssa (待つ, 読む, 続ける).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten V辞書形まで／までに liittyy rakenteeseen N（aika）までに?
+?
+N（aika）までに käsittelee saman eron kellonajoilla; verbilause laajentaa sen verbilauseisiin.
+
+Miten まで eroaa rakenteesta ～あいだ・～あいだに?
+?
+Jako on rakenteellisesti sama (kesto vs yksi hetki), mutta あいだ kuvaa jaksoa, まで päätepistettä.
+
+Miten までに eroaa rakenteesta 普通形うちに?
+?
+うちに painottaa, että tilaisuus katoaa; までに ilmoittaa määräajan neutraalisti.
+
+#flashcards/grammar/n4/vertailu
+
+V（辞書形）まで、…／V（辞書形）までに、… (similar/compare) :: N（aika）までに (määräaika)
+V（辞書形）まで、…／V（辞書形）までに、… (similar) :: ～から～まで (mistä mihin, alku ja loppu)
+V（辞書形）まで、…／V（辞書形）までに、… (similar) :: 普通形うちに (ennen kuin liian myohaista)
+V（辞書形）まで、…／V（辞書形）までに、… (similar) :: ～あいだ・～あいだに (kesto vs. hetki)

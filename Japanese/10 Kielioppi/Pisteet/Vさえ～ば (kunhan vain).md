@@ -45,3 +45,14 @@ tags: [grammar/perusrakenne, jlpt/n3]
 家族が健康に暮らして＿＿＿＿、十分に幸せです。(ainoa riittävä ehto)
 ?
 さえいれば — "kunhan vain", eristää yhden riittävän minimiehdon.
+
+#flashcards/grammar/n3/muodostus
+
+Vさえ～ば + toiminta-verbi (ます-vartalo) :: V(ます-vartalo) + さえすれば. Esim. 市役所に申し込みさえすれば、誰でも使えます。
+Vさえ～ば + tila/olemassaolo (て形) :: V(て形) + さえいれば. Esim. 家族が健康に暮らしてさえいれば、十分に幸せです。
+
+#flashcards/grammar/n3/nyanssi
+
+Mitä Vさえ～ば korostaa ehdosta?
+?
+Että mainittu ehto on ainoa tarvittava; kaikki muu on toissijaista tai seuraa automaattisesti.

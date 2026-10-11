@@ -27,6 +27,16 @@ tags: [vocab, jlpt/n4, lahde/anki-mnn, anki/fi-auto]
 ## Kollokaatiot ja käyttö
 - 
 
+## Esimerkit
+- わたくしの名前は田中です。 — Nimeni on Tanaka. ![[tts_6f0475225d7c.m4a]]
+
 ## Kortit
-#flashcards/vocab
-私(humble)::わたくし(humble) — minä (nöyrä)
+#flashcards/vocab/n4
+
+私(humble) :: わたくし(humble) - minä (nöyrä)
+わたくし(humble) :: 私(humble) - minä (nöyrä)
+minä (nöyrä) :: 私(humble) - わたくし(humble)
+![[anki_MNN_私(humble).mp3]] ::: 私(humble) - minä (nöyrä)
+
+わたくしの名前は田中です。 ::: Nimeni on Tanaka.
+![[tts_6f0475225d7c.m4a]] ::: Nimeni on Tanaka.

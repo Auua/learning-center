@@ -72,3 +72,47 @@ Aikajana: 🅰️ ──▶ 🅱️ — た on menneisyyden muoto, joten A on ai
 たら — muodostus ja mitä jälkilauseessa saa olla?
 ?
 V-た + ら (安かったら / 雨だったら). Jälkilauseessa saa olla käsky, pyyntö, kutsu ja toive — toisin kuin と ja ば. A tapahtuu ennen B:tä.
+
+#flashcards/grammar/n4/muodostus
+
+〜たら + verbi :: た-muoto + ら — 行った → 行ったら
+〜たら + い-adjektiivi :: かった + ら — 安い → 安かったら
+〜たら + な-adjektiivi/substantiivi :: だった + ら — 静か → 静かだったら, 雨 → 雨だったら
+〜たら + kielteinen :: なかった + ら — 行かない → 行かなかったら
+
+#flashcards/grammar/n4/nyanssi
+
+Mikä jälkilause on mahdollinen ～たら:n kanssa mutta ei と:n tai ば:n kanssa?
+?
+Jälkilause saa olla käsky, pyyntö, kutsu tai toive.
+
+Mitä tarkoittaa ～たら-lause, jonka jälkilause on mennyttä aikaa (家に帰ったら、誰もいなかった)?
+?
+Löytö, ei ehto: tapahtuman jälkeen havaittiin jotakin.
+
+Miten ～たら toimii varman tulevan tapahtuman kanssa?
+?
+Tarkoittaa 'kun': 10時になったら、出かけましょう; jälkilause on silloin preesensissä.
+
+Mitä tapahtuu, kun ～たら-lauseen jälkilause on mennyt aika (た形/だろう) ehtolauseessa?
+?
+Lauseesta tulee kontrafaktuaalinen: もう少し時間があったら、最後まで書けたのに (aikaa ei ollut).
+
+#flashcards/grammar/n4/sekaannus
+
+Miten ～たら eroaa なら:sta aikajärjestyksessä?
+?
+たら: A tapahtuu ensin, B sen jälkeen; なら: aikajärjestys kääntyy — 日本に行くなら、ガイドブックを買ったほうがいい (kirja ostetaan ennen matkaa).
+
+Kumpi: ば vai たら: 京都に行く＿＿、写真を撮ってください?
+?
+たら (京都に行ったら、…): pyyntö/käsky jälkilauseessa ei sovi ば:n kanssa.
+
+#flashcards/grammar/n4/vertailu
+
+～たら (similar) :: ～ば (jos, ehto)
+～たら (similar) :: ～と (aina kun, väistämätön seuraus)
+～たら (similar) :: ～なら (jos kerran)
+～たら (similar) :: Vertailu — たら・ば + ta (kontrafaktuaalinen)
+～たら (similar) :: ～たら、～た (odottamaton löytö)
+～たら (compare) :: Vertailu — Ehtolauseet と・ば・たら・なら

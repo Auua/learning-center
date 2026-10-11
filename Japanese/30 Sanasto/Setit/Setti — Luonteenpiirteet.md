@@ -71,3 +71,16 @@ views:
 
 ## Muistiinpanot
 [[V・adjそうです (ulkonaon perusteella)]] · [[性格]]・[[性質]] · [[Setti — Tunteet ja mielialat]] (hetkellinen tunne vs. pysyvä luonne)
+
+## Kortit
+#flashcards/setti/ero
+
+気が-kaava: miten se toimii?
+?
+気 = mieli/luonne; adjektiivi kertoo millainen (pitkä = kärsivällinen, lyhyt = äkkipikainen). Myös 気がいい (hyväluontoinen), 気が小さい (pikkumainen).
+
+#flashcards/setti/teema
+
+Setti — Luonteenpiirteet: sano ainakin viisi sanaa
+?
+明るい（あかるい） (valoisa), 暗い（くらい） (synkkä), 優しい（やさしい） (ystävällinen), おとなしい (hiljainen), 冷たい（つめたい） (kylmä), 厳しい（きびしい） (tiukka), 活発［な］（かっぱつ） (vilkas), 誠実［な］（せいじつ） (vilpitön), わがまま［な］ (itsekäs), まじめ［な］ (tunnollinen), ふまじめ［な］ (kevytmielinen), 頑固［な］（がんこ） (itsepäinen)…

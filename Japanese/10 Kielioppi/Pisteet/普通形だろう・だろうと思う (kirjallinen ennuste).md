@@ -48,3 +48,28 @@ tags: [grammar/perusrakenne, jlpt/n3]
 世界の人口が増えすぎると、地球環境はもっと悪くなる＿＿＿。(kirjallinen ennuste)
 ?
 だろう — でしょう:n perusmuotoinen/kirjallinen vastine, sama merkitys eri rekisterissä.
+
+#flashcards/grammar/n3/muodostus
+
+普通形 + だろう :: Esim. 世界の人口が増えすぎると、地球環境はもっと悪くなるだろう。 (luultavasti)
+普通形 + だろうと思う :: Esim. 同じ現象は今後も続くだろうと思います。 (luulen että jatkuu)
+
+#flashcards/grammar/n3/nyanssi
+
+Mikä on だろう:n suhde でしょう:hon?
+?
+Sama todennäköisyysennuste ja varmuusaste; vain rekisteri muuttuu: だろう on 普通形-rekisteri (kirjallinen tai rento puhe).
+
+Mitä だろうと思う tekee ennusteelle?
+?
+Yhdistää ennusteen (だろう) omaan mielipiteeseen (と思う); pehmentää väitettä henkilökohtaiseksi arvioksi, yleinen esseiden johtopäätöksissä.
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi: だろう vai でしょう, kun puhun asiakkaalle?
+?
+でしょう on kohtelias vastine; だろう kirjallisessa tekstissä tai rennossa puheessa läheisten kesken.
+
+#flashcards/grammar/n3/vertailu
+
+普通形だろう・普通形だろうと思う (similar/compare) :: 普通形でしょう (todennakoisyys)

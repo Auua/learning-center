@@ -62,3 +62,30 @@ Toinen henkilö (äiti) teki jotain puhujalle — silloin käytetään aina く�
 Miksi 手伝ってあげましょうか kuulostaa oudolta vieraalle henkilölle?
 ?
 てあげる voi kuulostaa ylimieliseltä/holhoavalta — parempi vaihtoehto on neutraali 手伝いましょうか.
+
+#flashcards/grammar/n5/muodostus
+
+Vてあげます + kuka on subjekti? :: て-muoto + あげます; subjekti on minä (teen toiselle). 例: 木村さんに本を貸してあげました。
+Vてもらいます + kuka on subjekti? :: て-muoto + もらいます; subjekti on minä (saan toiselta). 例: 山田さんに電話番号を教えてもらいました。
+Vてくれます + kuka on subjekti? :: て-muoto + くれます; subjekti on toinen (tekee minulle). 例: 母はセーターを送ってくれました。
+
+#flashcards/grammar/n5/nyanssi
+
+Milloin Vてあげます voi kuulostaa ylimieliseltä?
+?
+Kun sanot sen suoraan tuntemattomalle tai ylempiarvoiselle; silloin käytä 手伝いましょうか eikä 手伝ってあげましょうか.
+
+Miten てもらう ja てくれる eroavat näkökulmaltaan?
+?
+てもらう: saaja on subjekti (太郎は先生に教えてもらった). てくれる: tekijä on subjekti (先生は太郎に教えてくれた), ja vastaanottaja (usein puhuja) jätetään usein pois.
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: ましょうか vai てあげましょうか, kun tarjoudut auttamaan tuntematonta?
+?
+ましょうか on kohteliaampi ja neutraalimpi; てあげましょうか voi kuulostaa suoralta tai ylimieliseltä.
+
+#flashcards/grammar/n5/vertailu
+
+Vてあげます／Vてもらいます／Vてくれます (similar) :: N (人) に あげます・もらいます
+Vてあげます／Vてもらいます／Vてくれます (similar) :: くれます (joku antaa minulle)

@@ -7,13 +7,14 @@ tags: [sentences]
 ---
 
 > [!tip] Käyttö
-> Jokainen lause saa oman lohkotunnuksen `^tunnus`. Upota lause muualle: `![[<% tp.file.title %>#^tunnus]]`.
+> Jokainen lause saa oman lohkotunnuksen `^tunnus` ja rivit JA, FI, Kielioppi ja Ääni. Verbin Kortit-osioon tulee upotetusta lauseesta `JA ::: FI` ja `Ääni ::: FI`. Upota lause muualle: `![[<% tp.file.title %>#^tunnus]]`.
 
 ---
 
 **JA** 
 **FI** 
-**Lähde** · **Kielioppi** 
+**Kielioppi** [[]]
+**Ääni** ![[ääni.mp3]]
 ^t1
 
 ---

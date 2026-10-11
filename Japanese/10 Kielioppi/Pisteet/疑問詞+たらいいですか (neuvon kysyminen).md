@@ -52,3 +52,22 @@ tags:
 どこでカメラを買ったらいいですか。 — mitä puhuja haluaa tietää?
 ?
 Suosituksen hyvästä ostopaikasta — hän ei tiedä mistä kannattaisi ostaa kamera.
+
+#flashcards/grammar/n4/muodostus
+
+疑問詞＋Vたらいいですか (paikka) :: どこで + V(た形) + らいいですか. Esim. どこでカメラを買ったらいいですか。(Mistä minun kannattaisi ostaa kamera?)
+疑問詞＋Vたらいいですか (tapa) :: どう + V(た形) + らいいですか. Esim. 細かいお金がないんですが、どうしたらいいですか。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten 疑問詞＋たらいいですか-kaavaa mukautetaan kysytyn asian mukaan?
+?
+Kysymyssana vaihtuu (どこ paikka, どう tapa, 何を mitä, だれに keneltä), kaava pysyy samana.
+
+Mikä lause edeltää 疑問詞＋たらいいですか-kysymystä usein?
+?
+んですが-lause, joka kuvaa tilanteen.
+
+#flashcards/grammar/n4/vertailu
+
+疑問詞＋Vたらいいですか (similar) :: ～たら (jos, kun)

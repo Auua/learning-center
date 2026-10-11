@@ -50,3 +50,19 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi 笑いすぎて、涙が出たんです käyttää て-muotoa?
 ?
 すぎる taipuu kuten tavallinen ichidan-verbi — て-muoto (すぎて) liittää sen seuraukseen samalla logiikalla kuin muutkin verbit.
+
+#flashcards/grammar/n4/muodostus
+
+Vすぎます + verbi :: V(ます-vartalo) + すぎます. Esim. ゆうべお酒を飲みすぎました。
+Vすぎます + い-adjektiivi :: い-adj (い pois) + すぎます. Esim. このセーターは大きすぎます。
+Vすぎます + な-adjektiivi :: な-adj + すぎます. Esim. 簡単すぎて、運転がおもしろくないです。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten すぎる itse taipuu (Vすぎます)?
+?
+Ichidan-verbinä: 飲みすぎる → 飲みすぎない、飲みすぎた.
+
+Millaisista asioista Vすぎます yleensä puhuu?
+?
+Lähes aina ei-toivotuista tiloista tai määristä; positiivisessa mielessä harvoin (paitsi ironisesti).

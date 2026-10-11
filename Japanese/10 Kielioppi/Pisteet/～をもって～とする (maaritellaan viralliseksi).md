@@ -45,3 +45,21 @@ tags: [grammar/perusrakenne, jlpt/n1]
 日本では、運転免許証＿＿＿＿身分証明書＿＿＿場合がある。(virallinen kriteeri/väline)
 ?
 をもって ... とする — "N:n perusteella määritellään N2:ksi", erittäin muodollinen.
+
+#flashcards/grammar/n1/muodostus
+
+～をもって～とする + väline／kriteeri :: N + をもって + N2とする／とされる. Esim. 出席率、授業中の発表、レポートをもって、評価とします。
+
+#flashcards/grammar/n1/nyanssi
+
+Missä rekisterissä ～をもって～とする esiintyy?
+?
+Erittäin muodollisessa: virallisissa säännöissä, kokouksissa ja hallinnollisissa päätöksissä.
+
+Mikä rooli N:llä on ～をもって～とする -rakenteessa?
+?
+N toimii virallisena perustana tai kriteerinä, jolle status tai päätös rakentuu (運転免許証をもって身分証明書とする).
+
+#flashcards/grammar/n1/vertailu
+
+N＋をもって＋N2とする (similar) :: ～を通して (jonkin kautta)

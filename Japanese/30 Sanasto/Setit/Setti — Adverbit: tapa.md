@@ -40,3 +40,20 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+きちんと vs ちゃんと?
+?
+Sama merkitys, eri rekisteri: ちゃんと arkisempi, きちんと hieman huolitellumpi.
+
+なんとか vs なんとなく?
+?
+なんとか = sain jotenkin hoidettua (lopputulos); なんとなく = jotenkin vain, syy puuttuu (なんとなく悲しい).
+
+#flashcards/setti/teema
+
+Setti — Adverbit: tapa: sano ainakin viisi sanaa
+?
+きちんと (siististi), ぴったり (täsmälleen), こっそり (salaa), なんとなく (jotenkin), なんとか (jotenkuten), たまたま (sattumalta)

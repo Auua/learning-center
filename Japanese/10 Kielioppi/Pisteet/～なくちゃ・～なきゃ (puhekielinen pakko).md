@@ -68,3 +68,39 @@ Käytetyt taivutusmuodot: [[ない-muoto]] → なくて/なければ → supist
 Mistä なくちゃ ja なきゃ tulevat?
 ?
 なくては → なくちゃ ja なければ → なきゃ — molemmat pakkorakenteen ehto-osan puhekielisiä supistumia.
+
+#flashcards/grammar/n3/muodostus
+
+Vなくちゃ（いけない） ← なくては :: 〜なくては（いけない） → 〜なくちゃ（いけない） — esim. レポートを書かなくちゃ。
+Vなきゃ（ならない） ← なければ :: 〜なければ（ならない） → 〜なきゃ（ならない） — esim. 急がなきゃ。
+Vないと (loppuosa jää sanomatta) :: 〜ないと（いけない） — esim. もう帰らないと。
+
+#flashcards/grammar/n3/nyanssi
+
+Missä tilanteissa なくちゃ・なきゃ kelpaa?
+?
+Vain puhutussa kielessä ja rennossa viestinnässä; ei asiateksteissä, esitelmissä eikä kohteliaassa asioinnissa.
+
+Miksi なくちゃ・なきゃ -lauseesta yleensä puuttuu いけない/ならない?
+?
+Loppuosa jätetään tarkoituksella pois ja kuulija täydentää sen mielessään.
+
+Mikä ero on なきゃ- ja なくちゃ-muodoilla?
+?
+Pieni, alueellinen: なきゃ on hieman yleisempi naisten puheessa, なくちゃ neutraalimpi.
+
+#flashcards/grammar/n3/sekaannus
+
+Tarkoittaako 行かなくちゃ 'ei saa mennä'?
+?
+Ei: 行かなくちゃ = 'täytyy mennä'; kaksoiskielto on purkautunut myönteiseksi pakoksi.
+
+Miten kohtelias vastine muodostetaan なくちゃ-muodosta?
+?
+Ei lisäämällä です, vaan käyttämällä Vなければなりません tai なくてはならない/なくてはいけない.
+
+#flashcards/grammar/n3/vertailu
+
+Vなくちゃ／Vなきゃ［いけない］ (similar) :: Vなければ なりません (velvollisuus)
+Vなくちゃ／Vなきゃ［いけない］ (similar/compare) :: ～なくてはならない・～なくてはいけない (pakko, toinen muoto)
+Vなくちゃ／Vなきゃ［いけない］ (similar) :: ～ちゃう・～とく・～てる (puhekieliset supistumat)

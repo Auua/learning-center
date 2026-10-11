@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n2]
 山本さんは＿＿＿＿顔で座り込んでいる。(täydellinen äärimmäinen tila)
 ?
 疲れきった — きる korostaa täydellistä, äärimmäistä astetta.
+
+#flashcards/grammar/n2/muodostus
+
+V(ます-vartalo)＋きる + verbi :: V(ます-vartalo) + きる/きった. Esim. 疲れきった顔で座り込んでいる。
+V(ます-vartalo)＋っきり + verbi (puhekielinen) :: V(ます-vartalo) + っきり. Esim. 子育てを母親にまかせっきりにしている父親が多い。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä V(ます-vartalo)＋きる lisää tekoon tai tilaan?
+?
+Korostaa äärimmäistä täydellisyyttä: ei 'melko' vaan 'täysin, kokonaan, loppuun asti'.
+
+Mikä on っきり ja millainen sävy sillä on (Vきる)?
+?
+Puhekielinen supistuma きり:stä, usein negatiivisella sävyllä: まかせっきり = jättää kokonaan jonkun muun hoidettavaksi, moittiva.

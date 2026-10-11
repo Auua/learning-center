@@ -56,3 +56,29 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi 邪魔なので eikä 邪魔だので?
 ?
 な-adjektiivi/substantiivi ottaa な:n (ei だ:ta) välittömästi ennen ので:tä — poikkeaa から:n だ-muodosta.
+
+#flashcards/grammar/n4/muodostus
+
+〜ので + verbi／い-adjektiivi :: V／い-adj 普通形 + ので. Esim. 体の調子が悪いので、病院へ行きます.
+〜ので + な-adjektiivi／substantiivi :: な-adj／N + な + ので. Esim. 邪魔なので、友達にあげました.
+
+#flashcards/grammar/n4/nyanssi
+
+Miksi ので sopii kohteliaisiin selityksiin ja anteeksipyyntöihin?
+?
+Se esittää syyn objektiivisena tosiasiana eikä henkilökohtaisena perusteluna, joten se on kohteliaampi ja vähemmän suora kuin から.
+
+Milloin から on ので:ta luontevampi?
+?
+Kun perustellaan voimakasta henkilökohtaista mielipidettä tai käskyä.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten な-adjektiivi tai substantiivi muuttuu ennen ので verrattuna から:hon?
+?
+ので: な (邪魔なので); から: だ (邪魔だから).
+
+#flashcards/grammar/n4/vertailu
+
+普通形ので (similar/compare) :: S1から、S2 (syy)
+普通形ので (similar) :: Vて (tunnereaktion syy)

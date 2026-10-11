@@ -64,3 +64,16 @@ views:
 
 ## Muistiinpanot
 [[自動詞＋ている (jaljelle jaanyt tila)]] · [[Vてあります (tarkoituksella tehty tila)]] · [[壊れる]] · [[割れる]] · [[折れる]] · [[破れる]] · [[汚れる]]
+
+## Kortit
+#flashcards/setti/ero
+
+Miksi tilasanat ovat ～ている-muodossa?
+?
+Intransitiiviverbien ～ている kuvaa muutoksen jälkeen jäänyttä tilaa, ei käynnissä olevaa tekemistä: 曲がっている = on taipunut.
+
+#flashcards/setti/teema
+
+Setti — Tila ja ulkonäkö: sano ainakin viisi sanaa
+?
+[[太る\ (on lihava), [[痩せる\ (on laiha), [[膨らむ\ (pullottaa), [[開く\ (siinä on reikä), [[曲がる\ (on taipunut), [[歪む\ (on vääntynyt), [[へこむ\ (on lommolla), [[ねじれる\ (on kiertynyt), [[欠ける\ (siitä on lohjennut pala), [[ひびが入る\ (on halkeillut), [[腐る\ (on pilaantunut), [[乾く\ (on kuiva)…

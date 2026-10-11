@@ -51,8 +51,39 @@ Vertailu: [[Passiivi (ら)れる]] kunnioituskäyttönä tuottaa saman merkityks
 
 お～になる — mihin tätä käytetään ja miksi ei omaan tekoon?
 ?
-Se on 尊敬語 (kunnioitusmuoto) — nostaa **toisen** tekoa ylemmäs. Omasta teosta käytetään sen sijaan [[お～する (nöyrä oma teko)]] (謙譲語).
+Se on 尊敬語 (kunnioitusmuoto) — nostaa **toisen** tekoa ylemmäs. Omasta teosta käytetään sen sijaan お～する (nöyrä oma teko) (謙譲語).
 
 お帰りになる vs 帰られる — mitä eroa?
 ?
 Merkitys sama, mutta お帰りになる on yksiselitteisesti keigoa; 帰られる on kevyempi ja voi puhekontekstin mukaan sekoittua passiiviin/potentiaaliin.
+
+#flashcards/grammar/n3/muodostus
+
+お～になる + verbi (ます-vartalo) :: お + ます-vartalo + になる. Esim. 帰る → お帰りになる.
+お～になる + する-verbi :: 名詞 + なさる, ei お～になる. Esim. 出張する → 出張なさる.
+
+#flashcards/grammar/n3/nyanssi
+
+Kenen tekoon お～になる käy ja kenen ei?
+?
+Vain toisen (puhekumppanin tai kolmannen) tekoon; omaan tekoon käytetään お～する.
+
+Millä verbeillä お～になる ei käy?
+?
+Verbeillä, joiden ます-vartalo on yksitavuinen (見る, いる, 寝る); käytetään erikoisverbiä (ご覧になる, いらっしゃる) tai passiivia.
+
+Miten お～になる eroaa passiivimuotoisesta kunnioitusmuodosta (帰られる)?
+?
+お～になる on muodollisempi ja yksiselitteisempi, ei sekoitu tavalliseen passiiviin tai potentiaaliin.
+
+#flashcards/grammar/n3/sekaannus
+
+Miksi お～になる on yksiselitteisempi kuin Passiivi (ら)れる kunnioituskäytössä?
+?
+Passiivin kunnioitusmuoto (帰られる) on monimerkityksinen (voi olla myös passiivi tai potentiaali); お～になる on aina keigoa.
+
+#flashcards/grammar/n3/vertailu
+
+お～になる (similar) :: Passiivi (ら)れる
+お～になる (similar) :: お～する (nöyrä oma teko)
+お～になる (compare) :: Keigo — kartta

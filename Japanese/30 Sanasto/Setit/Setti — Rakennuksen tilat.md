@@ -54,3 +54,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Rakennuksen tilat: sano ainakin viisi sanaa
+?
+教室 (luokkahuone), 食堂 (ruokala), ロビー (aula), 受付（うけつけ） (vastaanotto), 部屋 (huone), 階段（かいだん） (portaat), エスカレーター (liukuportaat), 地下 (maan alla), 売り場 (osasto (esim. tavaratalossa)), 家 (koti), ネクタイ (solmio), たばこ (tupakka)…

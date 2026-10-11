@@ -49,3 +49,30 @@ tags: [grammar/perusrakenne, jlpt/n1]
 歴史にはまだまだ知られ＿＿事実があるはずだ。(kirjallinen kielteinen määrite ennen substantiivia)
 ?
 ざる — ず:n adnominaalinen muoto, liittyy suoraan seuraavaan substantiiviin.
+
+#flashcards/grammar/n1/muodostus
+
+Vざる＋N + verbi (ない-vartalo) :: V(ない-vartalo) + ざる + N. Esim. 知られざる事実 (tuntematon tosiasia).
+Vざる＋N + する-verbi :: する → せざる (ei ×しざる). Esim. 見ざる、聞かざる、言わざる.
+Vざる＋N + ある :: ある → あらざる (ei ×あらない-pohjainen). Esim. 型にあらざるもの.
+
+#flashcards/grammar/n1/nyanssi
+
+Mikä on Vざる～-rakenteen tunnetuin esimerkki ja mitä se tarkoittaa?
+?
+三猿: 見ざる・聞かざる・言わざる, 'älä näe, älä kuule, älä puhu pahaa'.
+
+Missä rekisterissä Vざる～ on?
+?
+Erittäin kirjallisessa ja vanhahtavassa.
+
+#flashcards/grammar/n1/sekaannus
+
+Miten ざる eroaa ず:sta (Vざる～ vs. ～ず)?
+?
+ず on lauseen sisäinen kielteinen liitos/tapa; ざる on sen adnominaalinen muoto, joka liittyy suoraan substantiiviin (ざる + N). ず ei voi liittyä suoraan substantiiviin.
+
+#flashcards/grammar/n1/vertailu
+
+V(ない-vartalo)＋ざる＋N (similar) :: Vざるを得ない (on pakko)
+V(ない-vartalo)＋ざる＋N (similar/compare) :: ～ず［に］・～ず (kirjallinen kielto)

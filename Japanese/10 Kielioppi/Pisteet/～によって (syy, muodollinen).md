@@ -55,3 +55,33 @@ Sama によって kattaa myös **keinon/menetelmän**, jolla jokin tulos saavute
 急激な円高＿＿＿＿経営が苦しくなり、倒産する企業もある。(muodollinen syy)
 ?
 によって — muodollinen syyn merkintä, "jonkin vuoksi/johdosta".
+
+#flashcards/grammar/n2/muodostus
+
+N（syy）によって + lopputulos :: N (syy) + によって. Esim. 急激な円高によって経営が苦しくなり、倒産する企業もある。
+N（syy）による + substantiivi :: N + による + N2. Esim. ATMのトラブルによる被害
+
+#flashcards/grammar/n2/nyanssi
+
+Missä tyylissä syytä ilmaiseva N によって on tyypillinen?
+?
+Muodollisessa uutis-/raporttityylissä: tilastoissa, uutisissa, virallisissa selvityksissä.
+
+Mitä による + N tarkoittaa syy-käytössä?
+?
+Adnominaalinen määrite: による被害 = "aiheutunut vahinko".
+
+Mitä muuta N によって voi ilmaista syyn lisäksi?
+?
+Keinon/menetelmän, jolla tulos saavutetaan (宅配便によって…届く); kirjallisempi vastine on により.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten erotat kolme によって-käyttöä: tekijä, vaihtelu ja syy?
+?
+Passiivi luovasta teosta → tekijä (ライト兄弟によって発明された); 違う／変わる → vaihtelun peruste (国によって違う); suora syy-seuraus → syy (円高によって経営が苦しくなった).
+
+#flashcards/grammar/n2/vertailu
+
+N（syy）＋によって (similar/compare) :: 〜によって (tekijan merkitseminen, luova teko)
+N（syy）＋によって (similar/compare) :: ～によって (riippuen, vaihtelu)

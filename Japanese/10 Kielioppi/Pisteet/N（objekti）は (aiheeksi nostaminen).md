@@ -54,3 +54,22 @@ tags:
 荷物はここに置かないでください。 — miksi は eikä を?
 ?
 Objekti (荷物) on nostettu lauseen aiheeksi/korostukseksi — sama ilmiö kuin muillakin partikkeleilla, joita は voi syrjäyttää korostaessaan.
+
+#flashcards/grammar/n5/muodostus
+
+N（objekti）は + objektin korvaus は:lla :: N を → N は. Esim. 荷物はここに置かないでください。
+N（objekti）は + neutraali väite :: Sama korostus neutraalissakin. Esim. 昼ごはんは会社の食堂で食べます。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä nuanssia N（objekti）は tuo verrattuna を:hon?
+?
+Nostaa objektin lauseen aiheeksi ja korostaa sitä, usein implikoiden vertailua johonkin muuhun.
+
+Voiko は korvata myös が-kohteen (好き, 上手, あります) rakenteessa N（objekti）は?
+?
+Kyllä: スポーツはあまり好きじゃないんです — implikoi vastakohtaa muuhun, mistä pidän.
+
+#flashcards/grammar/n5/vertailu
+
+N（objekti）は (similar) :: Nを V (objekti)

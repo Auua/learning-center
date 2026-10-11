@@ -48,3 +48,27 @@ tags: [grammar/perusrakenne, jlpt/n2]
 冷蔵庫に入れておいたケーキがない。誰かが食べた＿＿＿＿＿。(vahva henkilökohtainen varmuus)
 ?
 に違いない — "varmasti on niin", perustuu vaikutelmaan/päättelyyn.
+
+#flashcards/grammar/n2/muodostus
+
+〜に違いない + 普通形 :: 普通形 + に違いない. Esim. 冷蔵庫に入れておいたケーキがない。誰かが食べたに違いない。(Joku on varmasti syönyt sen.)
+
+#flashcards/grammar/n2/nyanssi
+
+Mihin 普通形に違いない-päätelmä perustuu?
+?
+Puhujan omaan subjektiiviseen vakuuttuneisuuteen, usein epäsuorien vihjeiden tai päättelyn pohjalta; ei vaadi virallista tietoa.
+
+Kuinka vahva に違いない on verrattuna でしょう/かもしれない-muotoihin?
+?
+Voimakkaampi; puhuja on lähes täysin varma.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten に違いない eroaa はずです:sta?
+?
+はず perustuu tyypillisesti loogiseen/tiedettyyn perusteeseen (aikataulu, sääntö); に違いない perustuu vaikutelmaan tai päättelyyn ilman yhtä selvää ulkoista perustetta, mutta on tunnesävyltään yhtä vahva tai vahvempi.
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋に違いない (similar/compare) :: 普通形はずです (varma odotus)

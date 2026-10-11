@@ -45,3 +45,24 @@ tags: [grammar/perusrakenne, jlpt/n2]
 日本は技術が進んだ国だが、＿＿＿＿古い伝統文化も大切にしている。(tasapainoinen vastakkainasettelu)
 ?
 一方で — "toisaalta", esittää kaksi samanarvoista näkökulmaa samasta aiheesta.
+
+#flashcards/grammar/n2/muodostus
+
+普通形 + 一方（で） :: 普通形 + 一方（で）、+ vastakkainen näkökulma. Esim. 日本は技術が進んだ国だが、一方で古い伝統文化も大切にしている。 (toisaalta vaalii myös vanhaa kulttuuria)
+普通形 + 一方（で） (lauseen sisällä) :: Lauseen sisällä: 英語は小さい時から学ばせたほうがいいという意見がある一方で、母国語を先に学んだほうがいいという意見もある。
+
+#flashcards/grammar/n2/nyanssi
+
+Millaisen suhteen 一方（で） asettaa kahden näkökulman välille?
+?
+Kaksi samanarvoista, rinnakkaista näkökulmaa samasta ilmiöstä; tasapainoinen tarkastelu, ei välttämättä ristiriita.
+
+Missä tekstilajissa 一方（で） on erityisen yleinen?
+?
+Argumentoivassa ja analyyttisessä tekstissä molempien puolien esittämiseen.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten 一方（で） eroaa S1が、S2 (mutta) -rakenteesta?
+?
+が ilmaisee vastakohtaa; 一方で esittää kaksi samanarvoista, rinnakkaista näkökulmaa, jotka eivät välttämättä ole ristiriidassa.

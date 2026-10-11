@@ -45,3 +45,18 @@ tags: [grammar/perusrakenne, jlpt/n2]
 バイオリンは彼にとっては、趣味＿＿＿＿＿生きがいになっている。(tarkempi uudelleenmuotoilu)
 ?
 というより — hylkää edellisen kuvauksen liian epätarkkana, tarjoaa osuvamman vaihtoehdon.
+
+#flashcards/grammar/n2/muodostus
+
+N1 + というより + N2 :: N1というよりN2 — esim. バイオリンは彼にとっては、趣味というより生きがいになっている。
+普通形 + というより :: 普通形 + というより — esim. ゴッホにとって絵は、描きたいというより、描かなければならないものだった。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä ～というより tekee ensimmäiselle kuvaukselle?
+?
+Se tarkentaa tai korjaa sitä: edellinen kuvaus on osittain tosi, mutta jälkimmäinen on osuvampi ('ei niinkään X, vaan pikemminkin Y').
+
+Missä tilanteissa ～というより on yleinen?
+?
+Itsekorjauksessa keskustelussa ja täsmällisyyttä tavoittelevassa kirjoituksessa.

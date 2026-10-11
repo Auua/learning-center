@@ -63,3 +63,29 @@ tags:
 5時まで働きます vs 5時までに終わります — mikä ero?
 ?
 まで: työskentely jatkuu koko ajan viiteen asti. までに: lopettaminen tapahtuu jossain vaiheessa, viimeistään viiteen mennessä — kertaluontoinen raja-aika.
+
+#flashcards/grammar/n5/muodostus
+
+N（時間）までに + aika :: N（aika）+ までに + V. Esim. 土曜日までに本を返さなければなりません。
+
+#flashcards/grammar/n5/nyanssi
+
+Mitä ero on まで:lla ja までに:llä (N（時間）までに)?
+?
+まで = jatkuva kesto asti (5時まで働きます); までに = kertaluontoisen tapahtuman määräaika (5時までに終わります).
+
+Voiko までに liittyä verbilauseeseen (N（時間）までに)?
+?
+Kyllä, V辞書形 + まで／までに toimii samalla erolla.
+
+#flashcards/grammar/n5/sekaannus
+
+Kumpi: まで vai までに, kun verbi on 返す tai 終わる?
+?
+Kertaluontoinen tapahtuma (palauttaminen, valmistuminen) → までに; jatkuva toiminta (työskentely, oleminen) → まで. Testi: tapahtuuko koko ajan siihen asti vai viimeistään silloin.
+
+#flashcards/grammar/n5/vertailu
+
+N（時間）までに (similar) :: Liikkumisen partikkelit (へ・で・と)
+N（時間）までに (similar/compare) :: V辞書形まで・までに (verbilause aikarajana)
+N（時間）までに (similar/compare) :: ～から～まで (mistä mihin, alku ja loppu)

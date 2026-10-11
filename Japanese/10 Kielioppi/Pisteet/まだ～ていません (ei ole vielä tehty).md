@@ -69,3 +69,38 @@ Käytetyt taivutusmuodot: [[て-muoto]] + いません
 Miksi まだ〜ていません sisältää oletuksen tulevasta?
 ?
 まだ tarkoittaa "ei vielä" — asia on kesken ja odottaa tekemistä, joten perässä seuraa usein suunnitelma milloin se tehdään.
+
+#flashcards/grammar/n5/muodostus
+
+まだ + verbi (て-muoto + いません) :: まだ + V(て形) + いません. Esim. まだ決めていません。 (en ole vielä päättänyt)
+まだ〜ていません (puhekielinen) :: まだ + V(て形) + ない. Esim. まだ決めてない。
+
+#flashcards/grammar/n5/nyanssi
+
+Miksi vastaus もう〜ましたか-kysymykseen ei ole koskaan まだVませんでした?
+?
+Vませんでした tarkoittaisi 'en tehnyt sitä (silloin)', ei 'en ole vielä tehnyt'; oikea muoto on まだ〜ていません.
+
+Mitä まだ～ていません implikoi tulevaisuudesta?
+?
+Että asia tehdään myöhemmin, siksi perässä on usein jatkosuunnitelma: 顔を見てから、考えます。
+
+Miten まだ～ていません eroaa pelkästä まだです?
+?
+まだです on lyhyt vastaus; ていません täsmentää, mitä ei vielä ole tehty.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten まだ～ていません eroaa muodosta まだです?
+?
+まだです on もう…ましたか-kysymyksen peruspari ja lyhin vastaus; まだ～ていません on sen täydempi kielteinen muoto.
+
+Mikä ero on 食べていません ja 食べませんでした välillä?
+?
+食べていません = en ole vielä syönyt (asia kesken); 食べませんでした = en syönyt (mennyt tilanne suljettu).
+
+#flashcards/grammar/n5/vertailu
+
+まだVていません (similar/compare) :: もう Vました・まだです (jo tehty, ei vielä)
+まだVていません (similar) :: Vてあります (tarkoituksella tehty tila)
+まだVていません (similar) :: Vておきます (valmistelu etukateen)

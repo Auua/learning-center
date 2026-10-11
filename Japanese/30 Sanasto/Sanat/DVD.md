@@ -22,10 +22,21 @@ tags: [vocab, jlpt/n3]
 ## Merkitys
 - **FI:** DVD
 - **EN:** DVD
+- **Ääni:** ![[tts_69de12d16158.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 
 
+## Esimerkit
+- DVDで映画を見ました。 — Katsoin elokuvan DVD:ltä. ![[tts_065d8c841224.m4a]]
+
 ## Kortit
-#flashcards/vocab
-DVD::ディーブイディー — DVD
+#flashcards/vocab/n3
+
+DVD :: ディーブイディー - DVD
+ディーブイディー :: DVD - DVD
+DVD :: DVD - ディーブイディー
+![[tts_69de12d16158.m4a]] ::: DVD - DVD
+
+DVDで映画を見ました。 ::: Katsoin elokuvan DVD:ltä.
+![[tts_065d8c841224.m4a]] ::: Katsoin elokuvan DVD:ltä.

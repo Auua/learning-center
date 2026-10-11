@@ -64,3 +64,28 @@ tags:
 Miten erottaa myönnytys-ながら samanaikaisuus-ながらsta?
 ?
 Konteksti: jos lauseen kaksi osaa ovat loogisessa ristiriidassa keskenään, kyse on myönnytyksestä; jos ne vain tapahtuvat yhtä aikaa harmonisesti, kyse on samanaikaisuudesta.
+
+#flashcards/grammar/n3/muodostus
+
+〜ながら (myönnytys) + verbi :: V(ます-vartalo) + ながら. Esim. 知っていながら、何も言わなかった。(Vaikka tiesi, ei sanonut mitään.)
+〜ながら (myönnytys) + substantiivi/な-adjektiivi :: N/な-adj + であり + ながら. Esim. 医者でありながら、健康に悪そうなものばかり食べている。
+
+#flashcards/grammar/n3/nyanssi
+
+Miksi nimi- ja na-adjektiiveilla myönnytys-ながら vaatii であり:n?
+?
+Koska ながら ei voi liittyä suoraan nimisanaan tai na-adjektiiviin: 医者でありながら.
+
+Mistä erotetaan myönnytys-ながら samanaikaisuus-ながらsta?
+?
+Vain kontekstista: ristiriita (大阪に住んでいながら食べたことがない) on myönnytystä, ristiriidaton samanaikaisuus (音楽を聞きながら勉強する) on V(-ます)ながら.
+
+#flashcards/grammar/n3/sekaannus
+
+Miten myönnytys-ながら eroaa V(-ます)ながら (samalla kun) -rakenteesta?
+?
+Muoto on sama; ratkaisee onko tekojen välillä looginen ristiriita (myönnytys, 'vaikka') vai ei (samanaikaisuus, 'samalla kun').
+
+#flashcards/grammar/n3/vertailu
+
+V(ます-vartalo)／な-adj／N＋ながら（myönnytys） (similar/compare) :: V(-ます)ながら (samalla kun)

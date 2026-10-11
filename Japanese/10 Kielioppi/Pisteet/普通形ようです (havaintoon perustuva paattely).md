@@ -55,3 +55,36 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Mitä eroa on あしたは寒くなるそうです:llä ja 寒くなるようです:llä?
 ?
 そうです perustuu kuultuun/luettuun tietoon (esim. säätiedotus); ようです perustuisi omaan havaintoon/tuntumaan (esim. ilma tuntuu jo viilenevän).
+
+#flashcards/grammar/n4/muodostus
+
+普通形ようです + verbi/い-adjektiivi :: V/い-adj (普通形) + ようです. Esim. 隣の部屋にだれかいるようです。(Viereisessä huoneessa näyttää olevan joku.)
+普通形ようです + な-adjektiivi :: な-adj + な + ようです.
+普通形ようです + substantiivi :: N + の + ようです. Esim. 事故のようですね。パトカーと救急車が来ていますよ。
+
+#flashcards/grammar/n4/nyanssi
+
+Minkä tiedon varaan ようです-päätelmä perustuu?
+?
+Puhujan omaan näkö-, kuulo- tai tuntoaistimukseen tilanteesta, ei toisen kertomaan tietoon (silloin そうです).
+
+Miten erotat päättelevän ようです:n tarkoitus-ように:sta (Luku 36)?
+?
+Päättely-ようです päättää lauseen; tarkoitus-ように jatkuu toisella verbillä.
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: そうです vai ようです, kun on kuullut sään olevan huomenna kylmä?
+?
+Kuultu tieto toiselta (säätiedotus) on そうです; oma havainto/päättely (kuulen ääniä viereisestä huoneesta) on ようです.
+
+Miten päättelevä ようです eroaa vertaavasta ようだ (のようだ)?
+?
+Vertaava ようだ tarkoittaa 'on kuin' eikä ole päätelmä: あの病院はホテルのようです on vertaus, ei päättely.
+
+#flashcards/grammar/n4/vertailu
+
+普通形ようです (similar/compare) :: 普通形そうです (kuulopuhe)
+普通形ようです (similar) :: Vように (jotta, niin etta)
+普通形ようです (similar/compare) :: ～のようだ・～のような・～のように (vertailu, esimerkki)
+普通形ようです (similar/compare) :: 普通形らしい (kuulopuhe, paattely)

@@ -53,3 +53,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Toiminnot ja liikkeet: sano ainakin viisi sanaa
+?
+飛ぶ (lentää), 跳ぶ (hypätä), 登る（のぼる） (kiivetä), 走る (juosta), 泳ぐ（およぐ） (uida), もぐる (sukeltaa), 飛び込む (hypätä sisään/veteen), 逆立ちする (seistä käsillään), はう (ryömiä), ける (potkaista), 振る (heiluttaa), 持ち上げる (nostaa)…

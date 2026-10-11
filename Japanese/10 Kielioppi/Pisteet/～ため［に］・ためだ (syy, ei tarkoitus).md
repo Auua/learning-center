@@ -54,3 +54,31 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miten erotat tämän ために:n Book II:n tarkoitus-ために:sta?
 ?
 Kysy onko kyse tulevaisuuteen suuntautuvasta tahdonalaisesta tavoitteesta (Book II) vai jo tapahtuneen asian objektiivisesta syystä (tämä muistiinpano).
+
+#flashcards/grammar/n3/muodostus
+
+普通形 + ため(に) (syy) :: 普通形 + ため(に) — esim. 日本は資源が少ないため、多くの原料を輸入している。
+N + の + ため :: N + のため — esim. 工事中のため、この道は通れません。
+のは〜ためだ (syyn painotus) :: のは + 普通形 + ためだ — esim. 米があまりとれなかったのは、夏の気温が低かったためだ。
+
+#flashcards/grammar/n3/nyanssi
+
+Miten syy-ため eroaa tarkoitus-ために:sta?
+?
+Syy-ため: jo tapahtunut syy ja sen seuraus (ビザを取らなかったために入国できなかった); tarkoitus-ために: tahdonalainen tavoite (店を持つために貯金している).
+
+Millaisessa rekisterissä syy-ため on tavallinen verrattuna から/ので?
+?
+Se on muodollisempi ja kirjallisempi: uutiset, viralliset ilmoitukset, tilastojen selitykset.
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi ため, kun lause on 店を持つ＿働く vs. 事故があった＿遅れた?
+?
+Tulevaisuuteen suuntautuva tahdonalainen tavoite → tarkoitus-ために (店を持つために働く); jo tapahtunut syy → tämä ため (事故があったために遅れた).
+
+#flashcards/grammar/n3/vertailu
+
+普通形ため（に）／ためだ（原因・理由） (similar/compare) :: Vために・Nのために (tarkoitusta varten)
+普通形ため（に）／ためだ（原因・理由） (similar) :: S1から、S2 (syy)
+普通形ため（に）／ためだ（原因・理由） (similar) :: 〜ので (pehmea syy)

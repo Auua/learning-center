@@ -51,3 +51,28 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/ero
+
+すごい vs すごく?
+?
+すごい on adjektiivi, すごく sen adverbimuoto ("tosi, hirveän"). Puheessa kuulee epämuodollisesti myös すごい おいしい.
+
+大事 vs 大切: mikä ero?
+?
+Käytännössä synonyymejä. 大事 painottaa "ei saa menettää" ja on puheessa yleisempi; 大切 on muodollisempi ja tunteellisempi.
+
+面倒 vs 面倒くさい?
+?
+面倒 = hankala, vaivaa aiheuttava; 面倒くさい = tunteellisempi "ei viitsi, liian työlästä" (arkipuheen suosikki).
+
+懐かしい: mitä se ei tarkoita?
+?
+Ei ihmistä joka kaipaa: se kuvaa asiaa, joka herättää nostalgiaa (この歌、懐かしい). "Kaipaan" = 恋しい tai 会いたい.
+
+#flashcards/setti/teema
+
+Setti — Adjektiivit: arviointi ja arki: sano ainakin viisi sanaa
+?
+すごい (mahtava), 懐かしい (nostalginen), ややこしい (mutkikas), 望ましい (toivottava), 自由 (vapaa), 大事 (tärkeä), 面倒 (vaivalloinen), 曖昧 (epäselvä), 当たり前 (itsestään selvä), 主要 (pääasiallinen), 貧乏 (köyhä)

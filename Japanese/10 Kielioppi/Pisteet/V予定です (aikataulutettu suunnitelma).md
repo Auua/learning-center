@@ -58,3 +58,30 @@ Ks. [[Vertailu — ようと思う vs. つもり vs. 予定]] varmuusasteen erot
 来週の金曜日に＿＿＿＿＿＿。(帰る, aikataulun mukaan)
 ?
 帰る予定です — objektiivinen, sovittu aikataulu, ei henkilökohtainen tahto kuten つもり.
+
+#flashcards/grammar/n4/muodostus
+
+V予定です + verbi :: V辞書形 + 予定です. Esim. 来週の金曜日に帰る予定です.
+V予定です + substantiivi :: N + の + 予定です. Esim. 会議は3時の予定です.
+
+#flashcards/grammar/n4/nyanssi
+
+Millaisesta suunnitelmasta V予定です puhuu ja kenestä sitä voi käyttää?
+?
+Objektiivisesta, sovitusta aikataulusta; sopii sekä omasta että toisen henkilön/asian (lento, juna) aikataulusta.
+
+Ottaako V予定です kantaa siihen, haluaako puhuja tehdä asian?
+?
+Ei; kertoo vain, että näin on suunniteltu tai sovittu, toisin kuin henkilökohtainen tahto つもり.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten 予定です eroaa rakenteesta つもりです?
+?
+予定です on objektiivinen sovittu aikataulu; つもりです on henkilökohtainen tahto.
+
+#flashcards/grammar/n4/vertailu
+
+V(辞書形)予定です (similar) :: Vようと思っています (harkittu aikomus)
+V(辞書形)予定です (similar) :: Vつもりです (paatetty aikomus)
+V(辞書形)予定です (compare) :: Vertailu — ようと思う vs. つもり vs. 予定

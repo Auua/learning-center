@@ -27,5 +27,8 @@ tags: [vocab, jlpt/n2]
 - 
 
 ## Kortit
-#flashcards/vocab
-NGO::エヌジーオー — kansalaisjärjestö
+#flashcards/vocab/n2
+
+NGO :: エヌジーオー - kansalaisjärjestö
+エヌジーオー :: NGO - kansalaisjärjestö
+kansalaisjärjestö :: NGO - エヌジーオー

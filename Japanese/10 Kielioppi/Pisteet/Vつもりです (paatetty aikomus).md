@@ -75,3 +75,35 @@ Ks. [[Vertailu — ようと思う vs. つもり vs. 予定]] varmuusasteen erot
 Miksi ei sanota ×行くつもりじゃありません kielteisenä aikomuksena?
 ?
 Kielteinen aikomus muodostetaan liittämällä つもり suoraan ない形:ään (行かないつもりです), ei kieltämällä つもりです-osaa.
+
+#flashcards/grammar/n4/muodostus
+
+V(普通形)つもりです + myönteinen :: V(辞書形) + つもりです. Esim. 来月車を買うつもりです。
+V(普通形)つもりです + kielteinen :: V(ない形) + つもりです. Esim. ことしは帰らないつもりです。
+
+#flashcards/grammar/n4/nyanssi
+
+Kenen aikomuksista V(普通形)つもりです voi puhua?
+?
+Omista tai läheisen tuntemista aikomuksista; ei sään tai luonnonilmiöiden ennusteista.
+
+Miten kielteinen aikomus muodostetaan rakenteessa つもりです?
+?
+ない形 + つもりです: 行かないつもりです, ei ×行くつもりじゃありません.
+
+Kuinka vahva päätös V(普通形)つもりです on?
+?
+Vahvempi ja lopullisempi kuin ようと思っています; sopii kun päätös on jo tehty eikä todennäköisesti muutu.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten つもりだった eroaa Vようとする-rakenteesta?
+?
+つもりだった kertoo suunnitelmasta, joka jäi tekemättä olosuhteiden takia; ようとした kertoo itse yrittämisen hetkestä, usein keskeytettynä.
+
+#flashcards/grammar/n4/vertailu
+
+V(普通形)つもりです (similar) :: Vようと思っています (harkittu aikomus)
+V(普通形)つもりです (similar) :: V予定です (aikataulutettu suunnitelma)
+V(普通形)つもりです (similar/compare) :: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)
+V(普通形)つもりです (compare) :: Vertailu — ようと思う vs. つもり vs. 予定

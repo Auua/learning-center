@@ -51,3 +51,22 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miksi かぎを中に置いたまま、ドアを閉めてしまったんです kuulostaa valitukselta?
 ?
 まま korostaa ettei odotettua muutosta (avaimen ottaminen mukaan) tehty ennen seuraavaa toimintaa (oven sulkeminen) — tästä syntyi vahinko.
+
+#flashcards/grammar/n3/muodostus
+
+～まま + verbi (た形) :: V(た形) + まま. Esim. 靴をはいたまま、部屋に入らないでください。
+～のまま + substantiivi :: N + の + まま. Esim. 生のまま、魚を食べる習慣はありません。
+
+#flashcards/grammar/n3/nyanssi
+
+Millaista tilaa ～まま tyypillisesti kuvaa?
+?
+Tilaa, joka poikkeaa odotetusta normista: kengät jäivät jalkaan (はいたまま), valo jäi päälle (つけたまま).
+
+Mihin ～まま-lausetta usein käytetään selittämisessä?
+?
+Vahingon tai virheen selittämiseen: かぎを置いたまま、ドアを閉めてしまった.
+
+Miten ～まま liitetään substantiiviin?
+?
+Muodossa N + の + まま, esim. 生のまま (raakana sellaisenaan).

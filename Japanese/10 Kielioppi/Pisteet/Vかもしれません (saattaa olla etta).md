@@ -55,3 +55,34 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Kumpi on varmempi arvaus: でしょう vai かもしれません?
 ?
 でしょう on varmempi, perusteltu ennustus; かもしれません on heikko, vain mahdollisuuden toteava arvio.
+
+#flashcards/grammar/n4/muodostus
+
+普通形かもしれません + verbi/adjektiivi (普通形) :: 普通形 + かもしれません. Esim. 約束の時間に間に合わないかもしれません。
+普通形かもしれません + substantiivi/な-adjektiivi :: N/な-adj + かもしれません (ilman だ). Esim. 故障かもしれません。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten かもしれません eroaa varmuusasteeltaan でしょう:sta?
+?
+かもしれません on heikompi: でしょう on puhujan perusteltu arvaus, かもしれません vain toteaa, ettei mahdollisuutta suljeta pois.
+
+Otetaanko だ substantiivin tai な-adjektiivin jälkeen ennen かもしれません?
+?
+Ei. ×病気だかもしれません on virhe, oikea on 病気かもしれません.
+
+Missä yhteyksissä 普通形かもしれません usein esiintyy?
+?
+Varovaisuutta tai huolta ilmaisevissa lauseissa, kuten terveys, viivästykset ja viat.
+
+#flashcards/grammar/n4/sekaannus
+
+Missä järjestyksessä かもしれません, でしょう ja はずです ovat varmuudeltaan?
+?
+かもしれません (heikoin) < でしょう (keskitaso, perusteltu arvaus) < はずです (vahvin, looginen päättely konkreettisen perusteen pohjalta).
+
+#flashcards/grammar/n4/vertailu
+
+普通形かもしれません (similar/compare) :: 普通形でしょう (todennakoisyys)
+普通形かもしれません (similar/compare) :: 普通形はずです (varma odotus)
+普通形かもしれません (similar/compare) :: 普通形可能性がある (on mahdollista etta)

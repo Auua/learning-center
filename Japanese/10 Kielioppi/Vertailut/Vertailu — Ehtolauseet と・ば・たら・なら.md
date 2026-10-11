@@ -78,3 +78,90 @@ Ehtolauseet: kumpi sallii käskyn jälkilauseessa, と vai たら?
 Missä ehtolauseessa jälkilauseen teko voi tapahtua ennen etulauseen tekoa?
 ?
 なら. 日本に行くなら、ガイドブックを買ったほうがいい — kirja ostetaan ennen matkaa.
+
+#flashcards/compare/n4/saanto
+
+Ehtolauseet と・ば・たら・なら: mikä kysymys ratkaisee valinnan?
+?
+Saako jälkilauseessa olla tahtoa? と ei salli; ば vain jos etulause on tila; たら aina; なら sallii ja voi lisäksi kääntää aikajärjestyksen.
+
+#flashcards/compare/n4/paatospuu
+
+Ehtolause: seuraus on väistämätön (kone, luonnonlaki, reittiohje). Mikä rakenne?
+?
+～と
+
+Ehtolause: jälkilauseessa on käsky, pyyntö, kutsu tai toive ja etulause on toiminta. Mikä rakenne?
+?
+～たら — jos etulause on tila tai adjektiivi, ～ば käy myös.
+
+Ehtolause: reagoit siihen, mitä toinen juuri sanoi tai mikä on tilanteesta selvää. Mikä rakenne?
+?
+～なら
+
+Ehtolause: jälkilauseen teko tapahtuu ennen etulauseen tekoa. Mikä rakenne?
+?
+Vain ～なら.
+
+Ehtolause: yleinen hypoteesi tai "mitä vaaditaan" vs. konkreettinen kertatapaus. Mitkä rakenteet?
+?
+Yleinen hypoteesi / vaatimus: ～ば; konkreettinen kertatapaus: ～たら.
+
+#flashcards/compare/n4/rakenne
+
+～と ::: automaattinen seuraus
+～と (tahdonilmaus jälkilauseessa?) :: ❌ ei koskaan
+～と (mennyt jälkilause?) :: ✅ tarkoittaa löytöä
+～と (aikajärjestys) :: A → B
+～と (tyyliväri) :: neutraali, ohjeet
+～ば ::: looginen ehto, "riittääkö tämä"
+～ば (tahdonilmaus jälkilauseessa?) :: ⚠️ vain jos etulause on tila
+～ば (mennyt jälkilause?) :: harvoin
+～ば (aikajärjestys) :: A → B
+～ば (tyyliväri) :: kirjallinen, sananlaskut
+～たら ::: konkreettinen kertatapaus
+～たら (tahdonilmaus jälkilauseessa?) :: ✅ vapaasti
+～たら (mennyt jälkilause?) :: ✅ tarkoittaa löytöä
+～たら (aikajärjestys) :: A → B
+～たら (tyyliväri) :: puhekielinen, yleisin
+～なら ::: konteksti, "jos kerran"
+～なら (tahdonilmaus jälkilauseessa?) :: ✅ vapaasti
+～なら (mennyt jälkilause?) :: ❌
+～なら (aikajärjestys) :: B voi olla ennen A:ta
+～なら (tyyliväri) :: keskusteleva
+
+#flashcards/compare/n4/minimipari
+
+日本に行くなら、ガイドブックを買う vs. 日本に行ったら、ガイドブックを買う: mikä ero?
+?
+なら: kirja ostetaan ennen matkaa; たら: perillä.
+
+春になると、桜が咲く vs. 春になったら、花見をしよう: mikä ero?
+?
+と: luonnonlaki; たら: oma suunnitelma.
+
+時間があれば、行きます vs. 時間があったら、行きます: mikä ero?
+?
+Molemmat käyvät; ば on muodollisempi.
+
+押すと、開きます vs. 押したら、開きました: mikä ero?
+?
+と: yleinen ohje; たら: yksittäinen tapahtuma.
+
+#flashcards/compare/n4/testi
+
+＿＿＿、電話してください。(着く)
+?
+着いたら — pyyntö jälkilauseessa
+
+このボタンを＿＿＿、水が出ます。(押す)
+?
+押すと — automaattinen seuraus
+
+温泉＿＿＿、伊豆がいいですよ。
+?
+なら — ehdotus perustuu toisen sanomaan
+
+練習＿＿＿するほど上手になる。(する)
+?
+すれば — ば～ほど, yleinen ehto

@@ -60,3 +60,38 @@ Vaaka: ば punnitsee ehdon riittävyyttä — "riittääkö tämä, jotta B?"
 ば — mikä on pääasiallinen rajoitus?
 ?
 Jälkilauseessa ei käsky/pyyntö/kutsu, jos etulause on tahdonalainen toimintaverbi. Tilaverbi tai adjektiivi etulauseessa poistaa rajoituksen (時間があれば、手伝ってください).
+
+#flashcards/grammar/n4/muodostus
+
+～ば + verbi :: え-rivi + ば. Esim. 書く → 書けば、食べる → 食べれば
+～ば + い-adjektiivi :: い → ければ. Esim. 安い → 安ければ
+～ば + な-adjektiivi／substantiivi :: + なら(ば). Esim. 便利 → 便利なら(ば)
+～ば + kielteinen muoto :: ない → なければ. Esim. 行かない → 行かなければ
+
+#flashcards/grammar/n4/nyanssi
+
+Milloin pyyntö on ～ば-lauseen jälkilauseessa sallittu?
+?
+Kun etulause on tilaverbi tai adjektiivi: 時間があれば、手伝ってください。
+
+Mitkä ovat tyypilliset ～ば-kaavat?
+?
+～ば～ほど (mitä enemmän… sitä…), ～ばよかった (olisipa…), ～さえ～ば (kunhan vain…).
+
+Mitä tarkoittaa ば + jälkilause menneessä ajassa (kontrafaktuaalinen käyttö)?
+?
+Kuvaa mitä olisi tapahtunut jos ehto olisi täyttynyt: もう少し安ければ、買ったんですが (mutta en ostanut).
+
+#flashcards/grammar/n4/sekaannus
+
+Mihin ～ば:n painopiste kohdistuu ehtolauseissa?
+?
+Siihen mitä vaaditaan, jotta B toteutuu ("riittääkö tämä, jotta B?"); looginen ehto, sananlaskut ja hypoteesit.
+
+#flashcards/grammar/n4/vertailu
+
+～ば (similar) :: ～たら (jos, kun)
+～ば (similar) :: ～と (aina kun, väistämätön seuraus)
+～ば (similar) :: ～なら (jos kerran)
+～ば (similar) :: Vertailu — たら・ば + ta (kontrafaktuaalinen)
+～ば (compare) :: Vertailu — Ehtolauseet と・ば・たら・なら

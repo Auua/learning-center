@@ -53,3 +53,32 @@ tags: [grammar/perusrakenne, jlpt/n2]
 Miksi する:n ざるを得ない-muoto on せざるを得ない eikä しざるを得ない?
 ?
 する:n ない-vartalo on epäsäännöllinen (せ, ei し), sama poikkeus kuin ずに-muodossa.
+
+#flashcards/grammar/n2/muodostus
+
+Vざるを得ない + verbi (ない-vartalo) :: V(ない-vartalo) + ざるを得ない. Esim. 熱が39度もある。休まざるを得ない。
+Vざるを得ない + する-verbi :: する → せざるを得ない (ei ×しざるを得ない). Esim. 補充せざるを得なかった。
+
+#flashcards/grammar/n2/nyanssi
+
+Mikä on epäsäännöllisyys rakenteessa Vざるを得ない verbin する kanssa?
+?
+する → せざるを得ない, ei ×しざるを得ない. Sama poikkeus kuin ～ず［に］:ssä.
+
+Minkä sävyn Vざるを得ない aina sisältää?
+?
+Vastentahtoisuuden: subjekti ei halua tehdä sitä, mutta olosuhteet pakottavat.
+
+Millainen rekisteri Vざるを得ない on?
+?
+Muodollinen ja kirjallinen, voimakkaampi kuin なければなりません.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten Vざるを得ない eroaa Vなければなりません:sta?
+?
+なければなりません on neutraali velvollisuus; ざるを得ない korostaa vastentahtoisuutta ja pakon tunnetta, usein ikävässä tai ei-toivotussa tilanteessa.
+
+#flashcards/grammar/n2/vertailu
+
+V(ない-vartalo)＋ざるを得ない (similar/compare) :: Vなければ なりません (velvollisuus)

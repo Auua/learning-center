@@ -33,9 +33,9 @@ tags: [source, textbook]
 ### Luku 30
 〜てあります (on valmiiksi tehty, tila esineessä) · 〜ておきます (tehdä valmiiksi etukäteen) · [[まだ～ていません (ei ole vielä tehty)]] (ei vielä)
 ### Luku 31
-[[Tahtomuoto よう]] (意向形, "tehdäänpä") · 〜つもりです (aikomus) · 〜予定です (suunnitelma, aikataulu) · [[まだ～ていません (ei ole vielä tehty)]] (ei vielä)
+[[Tahtomuoto よう]] (意向形, "tehdäänpä") · 〜つもりです (aikomus) · 〜予定です (suunnitelma, aikataulu) · [[まだ～ていません (ei ole vielä tehty)]] (ei vielä) · [[ます-vartalo substantiivina (連用形名詞)]] (始まり, 話し合い — vain paperipainoksessa, ei PDF:ssä)
 ### Luku 32
-〜たほうがいいです (kannattaisi tehdä) · 〜でしょう (todennäköisesti, sään ennustus) · 〜かもしれません (saattaa olla että)
+〜たほうがいいです (kannattaisi tehdä) · 〜でしょう (todennäköisesti, sään ennustus) · 〜かもしれません (saattaa olla että) · [[N (syy) で]] (病気で休みました) · [[N (ryhmä, määrä, aika) で]] (一人で作りました) — kaksi viimeistä vain paperipainoksessa, ei PDF:ssä
 ### Luku 33
 [[Käskymuoto ろ]] ja kieltokäsky (suora käsky ja kieltokäsky) · 〜と書いてあります (siinä lukee että) · 〜という意味です (tarkoittaa sitä että) · [[～と言っていました・～と伝える (välitetty viesti)]] (viestin välittäminen)
 ### Luku 34
@@ -49,7 +49,7 @@ tags: [source, textbook]
 ### Luku 38
 〜のは・〜のが・〜のを (nominalisointi: tekemisestä substantiivi) · [[～のは Nです (korostusrakenne, cleft)]] ("se mikä on X, on Y")
 ### Luku 39
-〜て (syy) · 〜ので (koska, syy) · intransitiiviverbit (itsestään tapahtuvat verbit)
+〜て (syy) · 〜ので (koska, syy) · intransitiiviverbit (itsestään tapahtuvat verbit) · [[N (syy) で]] (事故で, 地震で)
 ### Luku 40
 〜かどうか (…vai ei) · upotettu kysymys 〜か (epäsuora kysymys) · 〜てみます (kokeilla tehdä)
 ### Luku 41

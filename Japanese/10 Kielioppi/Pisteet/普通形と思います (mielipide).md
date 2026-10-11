@@ -61,3 +61,33 @@ tags:
 ミラーさんはこのニュースを知っていますか。 … いいえ、たぶん知らないと思います。 — miksi kielto on lainatussa lauseessa eikä と思いません?
 ?
 Kielteinen mielipide muodostetaan yleensä kieltämällä sisällä oleva lause (知らない), ei koko と思います-rakennetta.
+
+#flashcards/grammar/n5/muodostus
+
+普通形と思います + (olettamus tai mielipide) :: 普通形 + と思います. Esim. あした雨が降ると思います。(Luulen että huomenna sataa.)
+普通形と思います + kielteinen olettamus :: Kieltomuoto ennen と: ～ない + と思います. Esim. たぶん知らないと思います。
+N について + どう思いますか (mielipiteen kysyminen) :: N + について + どう思いますか. Esim. 新しい空港についてどう思いますか。
+
+#flashcards/grammar/n5/nyanssi
+
+Miten sanotaan 'luulen ettei' rakenteella 普通形と思います?
+?
+Kielletään lainattu lause (たぶん知らないと思います), ei と思いません:llä; jälkimmäinen on mahdollinen mutta harvinaisempi ja varmempi kielto.
+
+Miksi ～についてどう思いますか:ssa ei ole と ennen どう:ta?
+?
+Kun kysytään mielipidettä aiheesta (～について), と jää pois どう:n edeltä.
+
+Mitä valmiita fraaseja 普通形と思います-aiheeseen kuuluu samaa tai eri mieltä olemiseen?
+?
+そう思います (samaa mieltä) ja そう思いません (eri mieltä), joilla vältetään koko lauseen toistaminen.
+
+#flashcards/grammar/n5/sekaannus
+
+Miten 普通形と思います eroaa 普通形と言います:sta?
+?
+Rakenne on sama (と + verbi), mutta と言います lainaa jonkun sanoman, と思います ilmaisee puhujan oman mielipiteen.
+
+#flashcards/grammar/n5/vertailu
+
+普通形と思います (similar) :: 普通形と言います (lainaus)

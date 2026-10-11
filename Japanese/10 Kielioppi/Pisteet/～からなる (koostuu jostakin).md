@@ -44,3 +44,18 @@ tags: [grammar/perusrakenne, jlpt/n2]
 日本は47の都道府県＿＿＿＿＿。(koostumus, muodollinen)
 ?
 からなっている — "koostuu jostakin", muodollinen rakenteen kuvaus.
+
+#flashcards/grammar/n2/muodostus
+
+N + からなる／からなっている :: N + からなる／からなっている. Esim. 日本は47の都道府県からなっている。(Japani koostuu 47 prefektuurista.)
+N + からなる + N2 (määritteenä) :: N + からなる + N2. Esim. 10人の科学者からなる研究グループ.
+
+#flashcards/grammar/n2/nyanssi
+
+Millaisissa teksteissä からなる sopii ja mikä sen sävy on?
+?
+Muodollinen, kuvaileva ilmaus; sopii tietosanakirjamaisiin/selittäviin teksteihin (maantiede, järjestelmät, organisaatiot).
+
+Miten からなる toimii substantiivin määritteenä?
+?
+N + からなる + N2: 10人の科学者からなる研究グループ = kymmenestä tutkijasta koostuva tutkimusryhmä.

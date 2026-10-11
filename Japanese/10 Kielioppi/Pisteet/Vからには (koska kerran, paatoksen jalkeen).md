@@ -45,3 +45,27 @@ tags: [grammar/perusrakenne, jlpt/n2]
 日本に住んでる＿＿＿＿＿、日本の四季折々の行事を知らないといけないと思う。(tosiasian sitoma velvoite)
 ?
 からには — "koska kerran on näin", tosiasia sitoo toimimaan tietyllä tavalla.
+
+#flashcards/grammar/n2/muodostus
+
+V辞書形／Vた形＋からには + verbi :: V辞書形 (tai Vた形) + からには. Esim. やるからには勝たなければならないと思う。
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä jälkilause tyypillisesti ilmaisee rakenteessa Vからには?
+?
+Lähes aina puhujan omaa päättäväisyyttä tai velvoitetta (〜なければならない, 〜たい, 〜べきだ), seurauksena tosiasiasta jota ei voi perua.
+
+Miten Vからには eroaa pelkästä syyn ilmaisusta?
+?
+Se ei ole pelkkä syy, vaan korostaa että tosiasia sitoo puhujan toimimaan tietyllä, usein vaativalla tavalla.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten Vからには eroaa S1から、S2 -syyrakenteesta?
+?
+から ilmaisee pelkän syyn; からには korostaa, että tosiasia sitoo puhujan velvoitteeseen tai päättäväisyyteen.
+
+#flashcards/grammar/n2/vertailu
+
+V辞書形／Vた形＋からには (similar) :: S1から、S2 (syy)

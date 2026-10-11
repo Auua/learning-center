@@ -98,3 +98,18 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/fraasi
+
+どうしましたか。 ::: Mikä on hätänä?
+［〜が］痛いです。 ::: [~:ssa] on kipua.
+いつからですか。 ::: Mistä lähtien?
+熱があります。 ::: Minulla on kuumetta.
+お大事に。 ::: Parane pian.
+
+#flashcards/setti/teema
+
+Setti — Lääkärissä: sano ainakin viisi sanaa
+?
+頭が痛い（あたまがいたい） (päätä särkee), おなかが痛い (vatsaan sattuu), 歯が痛い（はがいたい） (hammasta särkee), 熱がある（ねつがある） (on kuumetta), せきが出る（せきがでる） (yskittää), 鼻水が出る（はなみずがでる） (nenä vuotaa), 血が出る（ちがでる） (vuotaa verta), 吐き気がする（はきけがする） (on pahoinvointi), 寒気がする（さむけがする） (vilunväreitä), めまいがする (huimaa), 下痢をする（げりをする） (on ripuli), 便秘をする（べんぴをする） (on ummetusta)…

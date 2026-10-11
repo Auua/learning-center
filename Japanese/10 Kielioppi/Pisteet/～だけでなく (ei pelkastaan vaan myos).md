@@ -45,3 +45,24 @@ tags: [grammar/perusrakenne, jlpt/n3]
 この店はパンを売る＿＿＿＿＿、パンの作り方教室も開いている。(laajentava korostus)
 ?
 だけじゃなく — "ei pelkästään, vaan myös", korostaa jälkimmäistä yllättävämpää osaa.
+
+#flashcards/grammar/n3/muodostus
+
+N + だけでなく、N2も :: N + だけでなく（じゃなく）、N2も — esim. この店はパンを売るだけじゃなく、パンの作り方教室も開いている。
+N + からだけでなく、N2からも :: 彼は同僚からだけでなく、上司からも信頼されている。
+普通形 + だけでなく :: 普通形 + だけでなく — esim. ボランティア活動は相手のためだけでなく、自分のためにもなる。
+
+#flashcards/grammar/n3/nyanssi
+
+Kumpaa osaa N だけでなく〜も -rakenteessa puhuja yleensä korostaa?
+?
+Jälkimmäistä も-osaa, usein yllättävämpää: jopa B, ei vain odotettavissa oleva A.
+
+Mikä on だけじゃなく suhteessa だけでなく-muotoon?
+?
+Puhekielisempi supistuma.
+
+#flashcards/grammar/n3/vertailu
+
+N／普通形＋だけでなく（〜も） (similar) :: N1もN2も (molemmat)
+N／普通形＋だけでなく（〜も） (similar/compare) :: ～ばかりでなく (ei ainoastaan, vaan myos)

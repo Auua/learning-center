@@ -70,3 +70,38 @@ Käytetyt taivutusmuodot: [[ます-muoto]]:n vartalo + もせずに (する:n �
 Mitä も lisää ずに-rakenteeseen?
 ?
 Korostuksen "ei edes" — puhuja pitää tekemättä jäänyttä asiaa vähimpänä odotettuna tai itsestään selvänä.
+
+#flashcards/grammar/n2/muodostus
+
+～もせずに + verbi (ます-vartalo) :: V(ます-vartalo) + もせずに. Esim. 医者に行きもせずに仕事を続けている。
+～もせずに + する-verbi :: する → せず, ei ×しず. Esim. 水を沸かしもせずに、そのまま飲める。
+
+#flashcards/grammar/n2/nyanssi
+
+Mikä sävy ～もせずに -rakenteella on?
+?
+Arvosteleva tai hämmästelevä: puhuja pitää tekemättä jätettyä itsestään selvänä tai välttämättömänä.
+
+Missä rekisterissä ～もせずに esiintyy ja mikä on puhekielinen vastine?
+?
+Kirjallisessa (esseet, mielipidetekstit); puhekielessä 〜もしないで.
+
+Miten ～もせずに rakentuu ず-muodosta?
+?
+Verbi siirtyy ます-vartaloon ja する kantaa kiellon: ずに → もせずに.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten ～もせずに eroaa pelkästä ～ずに?
+?
+ずに on neutraali "tekemättä" (行かずに); もせずに lisää も-korostuksen "ei edes".
+
+Miten ～もせずに eroaa rakenteesta Vるまでもない?
+?
+Vるまでもない: ei tarvitse tehdä; もせずに: ei tehty, vaikka olisi pitänyt.
+
+#flashcards/grammar/n2/vertailu
+
+V（ます-vartalo）もせずに (similar/compare) :: ～ず［に］・～ず (kirjallinen kielto)
+V（ます-vartalo）もせずに (similar) :: Vて・Vないで (tapa, keino)
+V（ます-vartalo）もせずに (similar) :: Vるまでもない (ei tarvitse edes)

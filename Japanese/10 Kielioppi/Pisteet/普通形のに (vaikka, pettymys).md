@@ -54,3 +54,33 @@ Pettymystä/turhautumista: kova harjoittelu ei tuottanut odotettua tulosta (voit
 Miksi 雨なのに eikä 雨だのに?
 ?
 な-adjektiivi/substantiivi ottaa な:n (ei だ:ta) ennen のに:tä, samalla tavalla kuin ので:n edellä.
+
+#flashcards/grammar/n4/muodostus
+
+普通形＋のに + verbi/い-adjektiivi :: 普通形 + のに. Esim. 約束をしたのに、彼女は来ませんでした。(Vaikka lupasi, hän ei tullut.)
+な-adjektiivi/substantiivi + のに :: N/な-adj + な + のに. Esim. 雨なのに、ゴルフですか。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten konjunktio-のに (Luku 45) eroaa käyttötarkoitus-のに:sta (Luku 42)?
+?
+Sama kirjoitusasu, eri merkitys: tämä のに yhdistää kaksi täyttä vastakkaista lausetta; Luku 42:n のに seuraa aina 使う/必要/かかる-tyyppistä predikaattia.
+
+Miten のに eroaa sävyltään neutraalista が:sta?
+?
+のに on tunnepitoisempi ja korostaa yllätystä tai pettymystä siitä, ettei odotus täyttynyt.
+
+#flashcards/grammar/n4/sekaannus
+
+Kumpi: のに vai が, kun halutaan ilmaista pelkkä vastakohta ilman tunnesävyä?
+?
+が on neutraali vastakohta; のに lisää aina yllätyksen/pettymyksen sävyn.
+
+Kumpi: 花を切るのに使います vai 約束をしたのに、来ませんでした, mikä のに on kyseessä?
+?
+Ensimmäinen on käyttötarkoitus-のに (Luku 42, seuraa 使う/必要/かかる); jälkimmäinen on vastakohta/pettymys-のに (Luku 45), jonka perään sopii mikä tahansa toinen lause.
+
+#flashcards/grammar/n4/vertailu
+
+普通形のに（konjunktio） (similar/compare) :: S1が、S2 (mutta)
+普通形のに（konjunktio） (compare) :: Vのに (kayttotarkoitus, kulutus)

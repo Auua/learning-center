@@ -56,3 +56,49 @@ tags: [grammar/perusrakenne, jlpt/n4]
 Miksi おいしいそうです ja おいしそうです eroavat toisistaan, vaikka molemmat kääntyvät suomeksi samoin?
 ?
 おいしいそうです on kuulopuhe (joku kertoi että se on herkullista); おいしそうです on oma ulkonäköpäätelmä (näyttää herkulliselta, en ole vielä maistanut).
+
+#flashcards/grammar/n4/muodostus
+
+普通形 + そうです (kuulopuhe, verbi ja adjektiivi) :: Muuttumaton 普通形-lause + そうです. Esim. 天気予報によると、あしたは寒くなるそうです。 (sään ennusteen mukaan huomenna kylmenee)
+普通形 + そうです (mennyt) :: Esim. クララさんは子どものとき、フランスに住んでいたそうです。 (Clara on kuulemma asunut Ranskassa)
+な-adjektiivi / substantiivi + だ + そうです :: Esim. とてもきれいな所だそうですね。
+
+#flashcards/grammar/n4/nyanssi
+
+Miten kuulopuhe-そうです liittyy sanaan verrattuna ulkonäköön perustuvaan そうです:een?
+?
+Kuulopuhe-そうです liittyy muuttumattomaan 普通形-lauseeseen kokonaisuudessaan (雨が降るそうです, おいしいそうです, 静かだそうです); ulkonäkö-そうです vaatii vartalomuutoksen (降りそう, おいしそう).
+
+Millä ilmauksilla kuulopuhe-そうです:n lähde mainitaan?
+?
+〜によると (esim. 天気予報によると) tai 〜の話では.
+
+Mitä tapahtuu aikamuodolle ja kohteliaisuustasolle そうです-lauseen sisällä?
+?
+Ne säilyvät alkuperäisen lähteen mukaisina.
+
+#flashcards/grammar/n4/sekaannus
+
+Miten おいしいそうです eroaa muodosta おいしそうです?
+?
+おいしいそうです = kuulemma herkullista (kuultu tieto, joku muu on maistanut); おいしそうです = näyttää herkulliselta (oma ulkonäköhavainto, en ole vielä maistanut).
+
+Miten 普通形そうです eroaa muodosta 普通形ということだ?
+?
+ということだ on tämän muodollisempi kirjallinen/liike-elämän vastine, jolla on lisäksi vahvistuskäyttö ('eli tarkoitatte että...').
+
+Miten 普通形そうです eroaa muodosta 普通形らしい?
+?
+らしい perustuu usein epäsuorempaan, etäisempään tietoon (juoru, vihje); そうです:n lähde on suorempi (luettu/kuultu suoraan).
+
+Miten 普通形そうです eroaa muodosta 普通形ようです?
+?
+ようです perustuu omaan havaintoon tai päättelyyn, ei kuultuun tietoon.
+
+#flashcards/grammar/n4/vertailu
+
+普通形そうです（伝聞） (similar) :: そうです (niin on)
+普通形そうです（伝聞） (similar/compare) :: V・adjそうです (ulkonaon perusteella)
+普通形そうです（伝聞） (similar/compare) :: 普通形ようです (havaintoon perustuva paattely)
+普通形そうです（伝聞） (similar/compare) :: 普通形ということだ (muodollinen kuulopuhe, vahvistus)
+普通形そうです（伝聞） (similar/compare) :: 普通形らしい (kuulopuhe, paattely)

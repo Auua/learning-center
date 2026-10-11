@@ -84,3 +84,10 @@ views:
       - property: note.jlpt
         direction: ASC
 ```
+
+## Kortit
+#flashcards/setti/teema
+
+Setti — Ammatit: sano ainakin viisi sanaa
+?
+会社員（かいしゃいん） (yrityksen työntekijä), 公務員（こうむいん） (virkamies), 駅員（えきいん） (asemavirkailija), 銀行員（ぎんこういん） (pankkivirkailija), 郵便局員（ゆうびんきょくいん） (postivirkailija), 店員（てんいん） (myyjä), 調理師（ちょうりし） (kokki), 理容師（りようし） (parturi), 美容師（びようし） (kampaaja), 教師（きょうし） (opettaja), 弁護士（べんごし） (asianajaja), 政治家（せいじか） (poliitikko)…

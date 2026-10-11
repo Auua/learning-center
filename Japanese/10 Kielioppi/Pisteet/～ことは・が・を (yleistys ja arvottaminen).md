@@ -53,3 +53,32 @@ tags: [grammar/perusrakenne, jlpt/n3]
 Miksi ピアノを弾いているのを聞きました on luonnollisempi kuin ピアノを弾くことを聞きました?
 ?
 Kuuleminen on konkreettinen aistihavainto tapahtumasta — の sopii tähän paremmin; こと sopii abstraktimpaan, yleistävään toteamukseen.
+
+#flashcards/grammar/n3/muodostus
+
+V辞書形ことは / ことが / ことを + mitä seuraa? :: V（辞書形）+ ことは + adjektiivi/on; ことが + adjektiivi (esim. 大切です); ことを + verbi (esim. 目指す) — 若いときに留学することはいい経験になると思います。
+
+#flashcards/grammar/n3/nyanssi
+
+Millaisiin toteamuksiin V辞書形ことは/が/を sopii paremmin kuin の?
+?
+Yleisiin, abstrakteihin toteamuksiin ja periaatteisiin; の sopii paremmin konkreettiseen, juuri havaittuun tapahtumaan.
+
+Miksi ×ピアノを弾くことを聞きました on outo (V辞書形ことを)?
+?
+Kuuleminen vaatii konkreettisen havainnon, joka kuuluu の:lle (弾いているのを聞きました), ei abstraktille こと:lle.
+
+Mitä tehtävää ことは, ことが ja ことを hoitavat V辞書形こと-rakenteessa?
+?
+ことは: aihe/yleinen arvio; ことが: kohde adjektiiville kuten 大切/大事; ことを: objekti tavoiteverbille kuten 目指す.
+
+#flashcards/grammar/n3/sekaannus
+
+Kumpi: の vai こと nominalisoinnissa, kun kyse on yleisestä periaatteesta?
+?
+Konkreettinen/havaittu, oma kokemus → の (絵をかくのは楽しいです); abstrakti/yleinen periaate → こと (動物を飼うことはいい経験になる).
+
+#flashcards/grammar/n3/vertailu
+
+V辞書形ことは／が／を (similar/compare) :: Vのは・Vのが・Vのを (nominalisointi)
+V辞書形ことは／が／を (similar/compare) :: 普通形ということを (raportoitu vaite objektina)

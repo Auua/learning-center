@@ -48,3 +48,29 @@ tags: [grammar/perusrakenne, jlpt/n2]
 尺八は本来＿＿＿＿＿＿＿＿「いやし」の音楽としても注目されている。(viittaus aiempaan tilaan)
 ?
 そうであったように — "kuten aiemmin on ollut", そう viittaa aiemmin mainittuun tilaan/tapaan.
+
+#flashcards/grammar/n2/muodostus
+
+そうであったように + mihin liittyy? :: 普通形 + そうであったように. Esim. 父がそうであったように、日本の男性は女性を褒めるのが下手である.
+誰でもそうだが + mihin liittyy? :: 誰でもそうだが、+ yleistys. Esim. 誰でもそうだが、子どもを持って初めて親のありがたみを知る.
+
+#flashcards/grammar/n2/nyanssi
+
+Mitä そう tarkoittaa rakenteessa そうであったように?
+?
+Viittaava pro-adverbi ('niin, sillä tavoin'), joka viittaa aiemmin mainittuun tai yleisesti tunnettuun tilaan tai tapaan.
+
+Missä tekstilajissa そうであったように on tyypillinen?
+?
+Esseissä ja selittävissä teksteissä perustelemaan, että nykyinen ilmiö jatkaa aiempaa perinnettä tai tapaa.
+
+#flashcards/grammar/n2/sekaannus
+
+Miten そうであったように eroaa kuulopuhe-そうです:sta (普通形そうです) ja ようです:sta?
+?
+Niissä そう/よう on predikaattiin liittyvä pääte (kuulopuhe/päättely); tässä そう on itsenäinen viittaava pro-adverbi, joka korvaa aiemmin mainitun asian.
+
+#flashcards/grammar/n2/vertailu
+
+（普通形）そうであったように・誰でもそうだが (similar/compare) :: 普通形そうです (kuulopuhe)
+（普通形）そうであったように・誰でもそうだが (similar) :: 普通形ようです (havaintoon perustuva paattely)
