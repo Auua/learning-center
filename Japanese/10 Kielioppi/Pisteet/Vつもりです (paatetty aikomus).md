@@ -16,6 +16,7 @@ similar:
   - "[[Vようと思っています (harkittu aikomus)]]"
   - "[[V予定です (aikataulutettu suunnitelma)]]"
   - "[[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]"
+  - "[[Vるつもりで (aikomuksella)]]"
 compare:
   - "[[Vertailu — ようと思う vs. つもり vs. 予定]]"
   - "[[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]"
@@ -107,3 +108,4 @@ V(普通形)つもりです (paatetty aikomus) (similar) ::: Vようと思って
 V(普通形)つもりです (paatetty aikomus) (similar) ::: V予定です (aikataulutettu suunnitelma) (similar)
 V(普通形)つもりです (paatetty aikomus) (similar/compare) ::: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) (similar/compare)
 V(普通形)つもりです (paatetty aikomus) (compare) ::: Vertailu — ようと思う vs. つもり vs. 予定 (compare)
+V(普通形)つもりです (paatetty aikomus) (similar) ::: Vるつもりで (aikomuksella) (similar)

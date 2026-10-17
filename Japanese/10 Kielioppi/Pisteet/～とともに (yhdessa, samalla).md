@@ -14,7 +14,7 @@ register:
   - kirjoitettu
   - puhuttu (muodollinen)
 similar:
-  - "[[Vながら (samalla kun)]]"
+  - "[[V(-ます)ながら (samalla kun)]]"
 compare:
   - "[[V(-ます)ながら (samalla kun)]]"
 sources:
@@ -83,5 +83,4 @@ Miten とともに eroaa ながら-rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／N＋とともに (yhdessa, samalla) (similar) ::: Vながら (samalla kun) (similar)
-V辞書形／N＋とともに (yhdessa, samalla) (compare) ::: V(-ます)ながら (samalla kun) (compare)
+V辞書形／N＋とともに (yhdessa, samalla) (similar/compare) ::: V(-ます)ながら (samalla kun) (similar/compare)

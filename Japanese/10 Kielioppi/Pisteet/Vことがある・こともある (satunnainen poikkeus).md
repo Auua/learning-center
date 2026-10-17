@@ -8,7 +8,7 @@ attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vたことがあります (kokemus)]]"]
-compare: ["[[Vたことがあります (kokemus)]]"]
+compare: ["[[Vたことがあります (kokemus)]]", "[[めったに～ない (harvoin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 10]]"]
 status: new
 confidence: 1
@@ -82,3 +82,4 @@ Miten 止まることがある eroaa muodosta 止まったことがある?
 #flashcards/grammar/n3/vertailu
 
 V辞書形ことがある・こともある (satunnainen poikkeus) (similar/compare) ::: Vたことがあります (kokemus) (similar/compare)
+V辞書形ことがある・こともある (satunnainen poikkeus) (compare) ::: めったに～ない (harvoin) (compare)

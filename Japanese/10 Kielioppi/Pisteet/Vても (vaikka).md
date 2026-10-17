@@ -15,7 +15,10 @@ register:
   - kirjoitettu
 similar:
   - "[[～たら (jos, kun)]]"
+  - "[[～たって (vaikka, puhekielinen)]]"
 compare:
+  - "[[～にしても (vaikka olisikin)]]"
+  - "[[～たって (vaikka, puhekielinen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 25]]"
 status: shaky
@@ -97,3 +100,5 @@ Miten Vても eroaa muodosta ～たら?
 #flashcards/grammar/n5/vertailu
 
 Vても／もし～たら／いくら～ても (vaikka) (similar) ::: ～たら (jos, kun) (similar)
+Vても／もし～たら／いくら～ても (vaikka) (compare) ::: ～にしても (vaikka olisikin) (compare)
+Vても／もし～たら／いくら～ても (vaikka) (similar/compare) ::: ～たって (vaikka, puhekielinen) (similar/compare)

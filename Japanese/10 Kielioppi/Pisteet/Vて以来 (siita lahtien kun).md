@@ -8,7 +8,7 @@ attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: []
-compare: []
+compare: ["[[期間＋ぶりに (pitkasta aikaa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
 confidence: 1
@@ -59,3 +59,7 @@ Jatkuva tila tai toistuva/pysyvä muutos, joka on kestänyt siitä hetkestä nyk
 Mitkä ilmaukset usein vahvistavat rakenteen V(て形)＋以来 jatkuvuutta?
 ?
 ずっと, 一度も〜ない ja 〜ようになった.
+
+#flashcards/grammar/n2/vertailu
+
+V(て形)＋以来 (siita lahtien kun) (compare) ::: 期間＋ぶりに (pitkasta aikaa) (compare)

@@ -8,7 +8,7 @@ attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: []
-compare: []
+compare: ["[[どんなに～ても (kuinka paljon tahansa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 13]]"]
 status: new
 confidence: 1
@@ -60,3 +60,7 @@ Kyllä, ても yksin riittää kieliopillisesti; たとえ tekee vastakohtaisuud
 Minkälaisissa tilanteissa たとえ～ても sopii erityisen hyvin?
 ?
 Kun korostetaan, ettei mikään olosuhde muuta lopputulosta; usein päättäväisyyden tai periaatteen ilmaisuun.
+
+#flashcards/grammar/n3/vertailu
+
+たとえ＋普通形（て形）＋も (vaikka kuinka) (compare) ::: どんなに～ても (kuinka paljon tahansa) (compare)

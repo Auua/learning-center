@@ -15,6 +15,7 @@ register:
 similar:
   - "[[～ちゃん・～くん]]"
 compare:
+  - "[[～ちゃん・～くん]]"
 sources:
   - "[[Minna no Nihongo I#Luku 1]]"
 status: known
@@ -85,3 +86,4 @@ Miten ～さん eroaa ～ちゃん:sta ja ～くん:sta?
 #flashcards/grammar/n5/vertailu
 
 ～さん (kohtelias nimen liite) (similar) ::: ～ちゃん・～くん (similar)
+～さん (kohtelias nimen liite) (similar/compare) ::: ～ちゃん・～くん (similar/compare)

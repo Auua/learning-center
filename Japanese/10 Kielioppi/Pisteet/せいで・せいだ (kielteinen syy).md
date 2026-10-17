@@ -4,7 +4,7 @@ ja: "普通形（な・の）＋せいで／せいだ"
 reading: sei de / sei da
 jlpt: N3
 func: [syy, syyttely]
-attaches: ["[[Yleiset kieliopit#普通形]]"]
+attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[おかげで・おかげだ (myonteinen syy)]]", "[[S1から、S2 (syy)]]"]

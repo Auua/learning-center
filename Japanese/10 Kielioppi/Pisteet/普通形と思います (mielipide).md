@@ -16,6 +16,7 @@ register:
 similar:
   - "[[普通形と言います (lainaus)]]"
 compare:
+  - "[[普通形ような気がする (tuntuu silta etta)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 21]]"
 status: shaky
@@ -91,3 +92,4 @@ Rakenne on sama (と + verbi), mutta と言います lainaa jonkun sanoman, と�
 #flashcards/grammar/n5/vertailu
 
 普通形と思います (mielipide) (similar) ::: 普通形と言います (lainaus) (similar)
+普通形と思います (mielipide) (compare) ::: 普通形ような気がする (tuntuu silta etta) (compare)

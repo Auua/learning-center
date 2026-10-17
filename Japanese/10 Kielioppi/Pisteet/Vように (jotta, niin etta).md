@@ -7,8 +7,8 @@ func: [tarkoitus, tavoite]
 attaches: ["[[Potentiaali える]]", "[[ない-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形ようです (havaintoon perustuva paattely)]]"]
-compare: ["[[普通形ようです (havaintoon perustuva paattely)]]"]
+similar: ["[[普通形ようです (havaintoon perustuva paattely)]]", "[[Vてはいけないから (ettei vain)]]"]
+compare: ["[[普通形ようです (havaintoon perustuva paattely)]]", "[[Vるには (jotta, siihen etta)]]", "[[Vてはいけないから (ettei vain)]]"]
 sources: ["[[Minna no Nihongo II#Luku 36]]"]
 status: new
 confidence: 1
@@ -83,3 +83,5 @@ Sama kirjoitusasu, eri kielioppi: tarkoitus-ように jatkuu toisella verbillä/
 #flashcards/grammar/n4/vertailu
 
 V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
+V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (compare) ::: Vるには (jotta, siihen etta) (compare)
+V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (similar/compare) ::: Vてはいけないから (ettei vain) (similar/compare)

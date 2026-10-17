@@ -7,8 +7,8 @@ func: [sivuuttaminen, painotus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[～は別として (lukuun ottamatta)]]"]
+compare: ["[[～は別として (lukuun ottamatta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 19]]"]
 status: new
 confidence: 1
@@ -60,3 +60,7 @@ Ei: puhuja vain päättää keskittyä tässä yhteydessä johonkin muuhun.
 Mikä on tyypillinen kaava N1はともかく?
 ?
 N1はともかく、N2は〜: vertaa implisiittisesti kahta ominaisuutta ja korostaa jälkimmäistä.
+
+#flashcards/grammar/n2/vertailu
+
+N／普通形＋はともかく（として） (jatetaan sikseen) (similar/compare) ::: ～は別として (lukuun ottamatta) (similar/compare)

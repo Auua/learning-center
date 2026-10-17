@@ -39,8 +39,8 @@ tags: [grammar/perusrakenne, jlpt/n3]
 - Molemmat ovat puhekielisiä, tunnepitoisia korostuskeinoja — ei sovi muodolliseen tekstiin.
 
 ## Esimerkit
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel8]]
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel9]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel8]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel9]]
 
 ## Sekaannusvaara
 - なんか vähättelee (arvo on pieni/merkityksetön); なんて yllättyy (asia on uskomaton/järkyttävä) — vastakkaiset tunnesävyt vaikka molemmat ovat voimakkaita korostuskeinoja.

@@ -8,7 +8,7 @@ attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: []
-compare: []
+compare: ["[[Vてからでないと (vasta kun ensin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 17]]"]
 status: new
 confidence: 1
@@ -59,3 +59,7 @@ Lähes aina ymmärrys tai oivallus (わかった, 知った, 気づいた), ei m
 Mitä V(て形)＋はじめて implisiittisesti korostaa?
 ?
 Ettei ymmärrystä ollut ennen kyseistä kokemusta; käytetään usein elämänkokemuksen tuomasta viisaudesta.
+
+#flashcards/grammar/n2/vertailu
+
+V(て形)＋はじめて (vasta silloin kun) (compare) ::: Vてからでないと (vasta kun ensin) (compare)

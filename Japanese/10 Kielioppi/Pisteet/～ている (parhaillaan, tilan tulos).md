@@ -15,9 +15,11 @@ register:
   - puhuttu
   - kirjoitettu
 similar:
-  - "[[～てある]]"
+  - "[[Vてあります (tarkoituksella tehty tila)]]"
   - "[[～ている (elämänhistoria, saavutukset)]]"
+  - "[[Vていた (oli tekemassa, tila menneessa)]]"
 compare:
+  - "[[Vていた (oli tekemassa, tila menneessa)]]"
 sources:
   - "[[Genki II]]"
   - "[[Tae Kim — Guide to Japanese]]"
@@ -134,3 +136,4 @@ Kumpi: 住んでいた vai 住んでいる, kun halutaan sanoa 'asun nyt'?
 
 ～ている (parhaillaan, tilan tulos) (similar) ::: ～てある (similar)
 ～ている (parhaillaan, tilan tulos) (similar) ::: ～ている (elämänhistoria, saavutukset) (similar)
+～ている (parhaillaan, tilan tulos) (similar/compare) ::: Vていた (oli tekemassa, tila menneessa) (similar/compare)

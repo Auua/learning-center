@@ -15,6 +15,7 @@ register:
   - kirjoitettu
 similar:
   - "[[とても・あまり (hyvin, ei kovin)]]"
+  - "[[めったに～ない (harvoin)]]"
 compare:
 sources:
   - "[[Minna no Nihongo I#Luku 9]]"
@@ -95,3 +96,4 @@ Miten kuuden asteadverbin asteikko eroaa parista とても・あまり?
 #flashcards/grammar/n5/vertailu
 
 よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: とても・あまり (hyvin, ei kovin) (similar)
+よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: めったに～ない (harvoin) (similar)

@@ -7,7 +7,7 @@ func: [puhekielisyys, supistuma]
 attaches: ["[[て-muoto]]"]
 formality: puhekielinen
 register: [puhuttu]
-similar: ["[[Vてしまいます (valitettavasti, loppuun asti)]]", "[[Vておきます (valmistelu etukateen)]]", "[[～ている (parhaillaan, tilan tulos)]]"]
+similar: ["[[Vてしまいます (valitettavasti, loppuun asti)]]", "[[Vておきます (valmistelu etukateen)]]", "[[～ている (parhaillaan, tilan tulos)]]", "[[～ちゃいけない・じゃいけない (puhekielinen kielto)]]"]
 compare: []
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 4]]"]
 status: new
@@ -79,3 +79,4 @@ Ei: ne ovat puhtaasti puhekielisiä, eivät sovi kirjalliseen tai muodolliseen k
 ～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: Vてしまいます (valitettavasti, loppuun asti) (similar)
 ～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: Vておきます (valmistelu etukateen) (similar)
 ～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
+～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: ～ちゃいけない・じゃいけない (puhekielinen kielto) (similar)

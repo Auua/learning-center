@@ -16,6 +16,7 @@ register:
 similar: []
 compare:
   - "[[Maara だけ・Nだけ]]"
+  - "[[Maara＋も (jopa, perati)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 27]]"
 status: known
@@ -92,3 +93,4 @@ Miten 1人だけいます eroaa lauseesta 1人しかいません?
 #flashcards/grammar/n4/vertailu
 
 Nしか〜ません (vain, pelkastaan) (compare) ::: Maara だけ・Nだけ (compare)
+Nしか〜ません (vain, pelkastaan) (compare) ::: Maara＋も (jopa, perati) (compare)

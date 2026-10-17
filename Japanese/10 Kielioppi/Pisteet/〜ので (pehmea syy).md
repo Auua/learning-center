@@ -14,6 +14,7 @@ register:
 similar:
   - "[[S1から、S2 (syy)]]"
   - "[[Vて (tunnereaktion syy)]]"
+  - "[[もの・もんだから (perusteleva syy)]]"
 compare:
   - "[[S1から、S2 (syy)]]"
 sources:
@@ -92,3 +93,4 @@ Miten な-adjektiivi tai substantiivi muuttuu ennen ので verrattuna から:hon
 
 普通形ので (pehmea syy) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
 普通形ので (pehmea syy) (similar) ::: Vて (tunnereaktion syy) (similar)
+普通形ので (pehmea syy) (similar) ::: もの・もんだから (perusteleva syy) (similar)

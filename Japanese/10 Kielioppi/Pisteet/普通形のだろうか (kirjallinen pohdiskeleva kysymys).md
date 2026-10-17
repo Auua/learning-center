@@ -7,8 +7,8 @@ func: [pohdiskelu, retorinen-kysymys]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: muodollinen
 register: [kirjoitettu]
-similar: ["[[普通形んです (selittävä sävy)]]"]
-compare: []
+similar: ["[[普通形んです (selittävä sävy)]]", "[[普通形のでしょうか (kohtelias kysymys)]]"]
+compare: ["[[普通形のでしょうか (kohtelias kysymys)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 5]]"]
 status: new
 confidence: 1
@@ -79,3 +79,4 @@ Se ei odota vastausta kuulijalta/lukijalta vaan on retorinen pohdiskelun väline
 #flashcards/grammar/n3/vertailu
 
 普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar) ::: 普通形んです (selittävä sävy) (similar)
+普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar/compare) ::: 普通形のでしょうか (kohtelias kysymys) (similar/compare)

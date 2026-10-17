@@ -7,8 +7,8 @@ func: [kokeilu]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[Vてごらん (kokeilepa)]]"]
+compare: ["[[Vてごらん (kokeilepa)]]"]
 sources: ["[[Minna no Nihongo II#Luku 40]]"]
 status: new
 confidence: 1
@@ -67,3 +67,7 @@ Hiraganalla (みる), koska se on apuverbi 'kokeilla', ei kirjaimellinen 'katsoa
 Missä tilanteessa Vて-form みます on erityisen yleinen?
 ?
 Kaupassa sovittaessa: 着てみてもいいですか (saanko kokeilla päälle).
+
+#flashcards/grammar/n4/vertailu
+
+Vて-form みます (kokeilla tehda) (similar/compare) ::: Vてごらん (kokeilepa) (similar/compare)

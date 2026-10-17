@@ -7,8 +7,8 @@ func: [riittava-ehto]
 attaches: ["[[Ehtomuoto ば]]", "[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[Nさえ・でさえ (jopa, edes)]]"]
+compare: ["[[Nさえ・でさえ (jopa, edes)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 24]]"]
 status: new
 confidence: 1
@@ -56,3 +56,7 @@ Vさえ～ば + tila/olemassaolo (て形) :: V(て形) + さえいれば. Esim. 
 Mitä Vさえ～ば korostaa ehdosta?
 ?
 Että mainittu ehto on ainoa tarvittava; kaikki muu on toissijaista tai seuraa automaattisesti.
+
+#flashcards/grammar/n3/vertailu
+
+V(て形)＋さえ＋いれば・V(ます-vartalo)＋さえ＋すれば (kunhan vain) (similar/compare) ::: Nさえ・でさえ (jopa, edes) (similar/compare)

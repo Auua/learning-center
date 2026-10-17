@@ -15,6 +15,7 @@ similar:
   - "[[Vなければ なりません (velvollisuus)]]"
   - "[[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]]"
   - "[[～ちゃう・～とく・～てる (puhekieliset supistumat)]]"
+  - "[[Vないと (taytyy, lyhennetty)]]"
 compare:
   - "[[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]]"
 sources:
@@ -104,3 +105,4 @@ Ei lisäämällä です, vaan käyttämällä Vなければなりません tai 
 Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar) ::: Vなければ なりません (velvollisuus) (similar)
 Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar/compare) ::: ～なくてはならない・～なくてはいけない (pakko, toinen muoto) (similar/compare)
 Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar) ::: ～ちゃう・～とく・～てる (puhekieliset supistumat) (similar)
+Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar) ::: Vないと (taytyy, lyhennetty) (similar)

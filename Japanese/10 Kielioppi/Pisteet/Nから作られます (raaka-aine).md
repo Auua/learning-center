@@ -8,7 +8,7 @@ attaches: ["[[Passiivi (ら)れる]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[N（材料）で (valmistusaine)]]"]
-compare: []
+compare: ["[[N（材料）で (valmistusaine)]]"]
 sources: ["[[Minna no Nihongo II#Luku 37]]"]
 status: new
 confidence: 1
@@ -69,3 +69,4 @@ Molemmat sopivat; 造る sopii erityisesti suuriin tai teollisiin tuotteisiin (l
 #flashcards/grammar/n4/vertailu
 
 N(raaka-aine)から作られます／造られます (raaka-aine) (similar) ::: N（材料）で (valmistusaine) (similar)
+N(raaka-aine)から作られます／造られます (raaka-aine) (similar/compare) ::: N（材料）で (valmistusaine) (similar/compare)

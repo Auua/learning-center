@@ -15,6 +15,7 @@ register:
   - kirjoitettu
 similar:
   - "[[普通形し、普通形し (perustelujen luettelointi)]]"
+  - "[[～上に (lisaksi, paalle paatteeksi)]]"
 compare: []
 sources:
   - "[[Minna no Nihongo II#Luku 28]]"
@@ -90,3 +91,4 @@ Kumpi: それに vai それで, kun haluan lisätä uuden perusteen / kertoa seu
 #flashcards/grammar/n4/vertailu
 
 それに・それで (lisaksi, niinpa) (similar) ::: 普通形し、普通形し (perustelujen luettelointi) (similar)
+それに・それで (lisaksi, niinpa) (similar) ::: ～上に (lisaksi, paalle paatteeksi) (similar)

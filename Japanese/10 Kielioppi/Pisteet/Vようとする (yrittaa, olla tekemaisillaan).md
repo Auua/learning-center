@@ -7,8 +7,8 @@ func: [yritys, aikomus]
 attaches: ["[[Tahtomuoto よう]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[Vます-vartalo＋かける・かけ (keskeneraista)]]", "[[Vようとしない (ei edes yrita)]]"]
+compare: ["[[Vます-vartalo＋かける・かけ (keskeneraista)]]", "[[Vようとしない (ei edes yrita)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 5]]"]
 status: new
 confidence: 1
@@ -86,3 +86,8 @@ Miten ようとした eroaa muodosta つもりだった?
 Mikä rakenne kuvaa epäonnistunutta yritystä (やめようとしたんですが、やめられなかった)?
 ?
 ようとする (yritti) yhdessä potentiaalin kieltomuodon られない kanssa (ei onnistunut).
+
+#flashcards/grammar/n3/vertailu
+
+V(意向形)とする／としない (yrittaa, olla tekemaisillaan) (similar/compare) ::: Vます-vartalo＋かける・かけ (keskeneraista) (similar/compare)
+V(意向形)とする／としない (yrittaa, olla tekemaisillaan) (similar/compare) ::: Vようとしない (ei edes yrita) (similar/compare)

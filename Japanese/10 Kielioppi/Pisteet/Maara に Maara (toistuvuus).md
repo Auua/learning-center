@@ -15,6 +15,7 @@ register:
 similar:
   - "[[N (aika) に]]"
 compare:
+  - "[[～おきに (valein, joka toinen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 11]]"
 status: shaky
@@ -66,3 +67,4 @@ Miksi に on pakollinen 期間に回数 -rakenteessa?
 #flashcards/grammar/n5/vertailu
 
 期間に回数 (toistuvuus) (similar) ::: N (aika) に (similar)
+期間に回数 (toistuvuus) (compare) ::: ～おきに (valein, joka toinen) (compare)

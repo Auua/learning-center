@@ -7,7 +7,7 @@ func: [johtopaatos, paattely]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形はずです (varma odotus)]]"]
+similar: ["[[普通形はずです (varma odotus)]]", "[[普通形わけがない (ei mitenkaan voi olla)]]"]
 compare: ["[[普通形はずです (varma odotus)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 14]]"]
 status: new
@@ -84,3 +84,4 @@ Kumpi: わけだ vai はずです, kun tehdään johtopäätös jo kerrotusta to
 #flashcards/grammar/n3/vertailu
 
 普通形＋わけだ／わけである (johtopaatos, siis) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
+普通形＋わけだ／わけである (johtopaatos, siis) (similar) ::: 普通形わけがない (ei mitenkaan voi olla) (similar)

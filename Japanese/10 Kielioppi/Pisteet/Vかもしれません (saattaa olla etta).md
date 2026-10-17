@@ -1,20 +1,35 @@
 ---
 type: grammar
-ja: "普通形かもしれません"
+ja: 普通形かもしれません
 reading: kamoshiremasen
 jlpt: N4
-func: [epavarmuus, mahdollisuus]
-attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
+func:
+  - epavarmuus
+  - mahdollisuus
+attaches:
+  - "[[普通形 (puhekielinen perusmuoto)]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[普通形でしょう (todennakoisyys)]]", "[[普通形はずです (varma odotus)]]", "[[普通形可能性がある (on mahdollista etta)]]"]
-compare: ["[[普通形でしょう (todennakoisyys)]]", "[[普通形はずです (varma odotus)]]", "[[普通形可能性がある (on mahdollista etta)]]"]
-sources: ["[[Minna no Nihongo II#Luku 32]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[普通形でしょう (todennakoisyys)]]"
+  - "[[普通形はずです (varma odotus)]]"
+  - "[[普通形可能性がある (on mahdollista etta)]]"
+compare:
+  - "[[普通形でしょう (todennakoisyys)]]"
+  - "[[普通形はずです (varma odotus)]]"
+  - "[[普通形可能性がある (on mahdollista etta)]]"
+  - "[[Vそうもない・そうにない (tuskin)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 32]]"
+status: shaky
+confidence: 3
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -86,3 +101,4 @@ Missä järjestyksessä かもしれません, でしょう ja はずです ovat
 普通形かもしれません (saattaa olla etta) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
 普通形かもしれません (saattaa olla etta) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
 普通形かもしれません (saattaa olla etta) (similar/compare) ::: 普通形可能性がある (on mahdollista etta) (similar/compare)
+普通形かもしれません (saattaa olla etta) (compare) ::: Vそうもない・そうにない (tuskin) (compare)

@@ -11,8 +11,8 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
-compare: []
+similar: ["[[～とともに (yhdessa, samalla)]]"]
+compare: ["[[～ついでに (samalla kun)]]", "[[～とともに (yhdessa, samalla)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 28]]"
 status: shaky
@@ -84,3 +84,8 @@ Esim. 働きながら大学で勉強しています = opiskelee yliopistossa ty�
 Miten Vながら eroaa Vたり、Vたりします-rakenteesta?
 ?
 ながら ilmaisee samanaikaisia tekoja; たり luettelee vaihtoehtoisia/peräkkäisiä tekoja, ei samanaikaisia.
+
+#flashcards/grammar/n4/vertailu
+
+V(ます-vartalo)ながら (samalla kun) (compare) ::: ～ついでに (samalla kun) (compare)
+V(ます-vartalo)ながら (samalla kun) (similar/compare) ::: ～とともに (yhdessa, samalla) (similar/compare)

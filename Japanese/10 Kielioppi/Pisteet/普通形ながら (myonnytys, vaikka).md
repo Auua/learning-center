@@ -14,8 +14,10 @@ register:
   - kirjoitettu
 similar:
   - "[[V(-ます)ながら (samalla kun)]]"
+  - "[[～ながらも (vaikka, kirjallinen myonnytys)]]"
 compare:
   - "[[V(-ます)ながら (samalla kun)]]"
+  - "[[～ながらも (vaikka, kirjallinen myonnytys)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu II#Luku 13]]"
 status: new
@@ -89,3 +91,4 @@ Muoto on sama; ratkaisee onko tekojen välillä looginen ristiriita (myönnytys,
 #flashcards/grammar/n3/vertailu
 
 V(ます-vartalo)／な-adj／N＋ながら（myönnytys） (myonnytys, vaikka) (similar/compare) ::: V(-ます)ながら (samalla kun) (similar/compare)
+V(ます-vartalo)／な-adj／N＋ながら（myönnytys） (myonnytys, vaikka) (similar/compare) ::: ～ながらも (vaikka, kirjallinen myonnytys) (similar/compare)

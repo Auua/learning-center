@@ -7,8 +7,8 @@ func: [myonnytys, virheellisen-paattelyn-torjunta]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形わけではない (ei tarkoita etta aina)]]"]
-compare: ["[[普通形わけではない (ei tarkoita etta aina)]]"]
+similar: ["[[普通形わけではない (ei tarkoita etta aina)]]", "[[～といっても (vaikka sanotaankin)]]"]
+compare: ["[[普通形わけではない (ei tarkoita etta aina)]]", "[[～といっても (vaikka sanotaankin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
 confidence: 1
@@ -73,3 +73,4 @@ Miten からといって eroaa わけではない:sta yksinään?
 #flashcards/grammar/n2/vertailu
 
 普通形＋からといって（〜わけではない） (vaikka onkin niin) (similar/compare) ::: 普通形わけではない (ei tarkoita etta aina) (similar/compare)
+普通形＋からといって（〜わけではない） (vaikka onkin niin) (similar/compare) ::: ～といっても (vaikka sanotaankin) (similar/compare)

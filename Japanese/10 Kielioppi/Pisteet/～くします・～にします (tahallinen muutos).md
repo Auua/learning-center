@@ -8,7 +8,7 @@ attaches: ["い-adjektiivi/な-adjektiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[～くなります・～になります (muutos)]]"]
-compare: ["[[～くなります・～になります (muutos)]]"]
+compare: ["[[～くなります・～になります (muutos)]]", "[[Nにします (valinta, paatos)]]"]
 sources: ["[[Minna no Nihongo II#Luku 44]]"]
 status: new
 confidence: 1
@@ -83,3 +83,4 @@ Miten 部屋がきれいになりました eroaa 部屋をきれいにしまし�
 #flashcards/grammar/n4/vertailu
 
 い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) (similar/compare) ::: ～くなります・～になります (muutos) (similar/compare)
+い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) (compare) ::: Nにします (valinta, paatos) (compare)

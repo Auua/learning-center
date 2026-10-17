@@ -1,20 +1,34 @@
 ---
 type: grammar
-ja: "普通形でしょう（↘）"
+ja: 普通形でしょう（↘）
 reading: futsuukei deshou
 jlpt: N4
-func: [todennakoisyys, ennustus]
-attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
+func:
+  - todennakoisyys
+  - ennustus
+attaches:
+  - "[[普通形 (puhekielinen perusmuoto)]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[普通形でしょう？ (varmistus)]]", "[[普通形はずです (varma odotus)]]", "[[普通形だろう・だろうと思う (kirjallinen ennuste)]]"]
-compare: ["[[普通形でしょう？ (varmistus)]]", "[[普通形はずです (varma odotus)]]", "[[普通形だろう・だろうと思う (kirjallinen ennuste)]]"]
-sources: ["[[Minna no Nihongo II#Luku 32]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[普通形でしょう？ (varmistus)]]"
+  - "[[普通形はずです (varma odotus)]]"
+  - "[[普通形だろう・だろうと思う (kirjallinen ennuste)]]"
+compare:
+  - "[[普通形でしょう？ (varmistus)]]"
+  - "[[普通形はずです (varma odotus)]]"
+  - "[[普通形だろう・だろうと思う (kirjallinen ennuste)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 32]]"
+status: shaky
+confidence: 3
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

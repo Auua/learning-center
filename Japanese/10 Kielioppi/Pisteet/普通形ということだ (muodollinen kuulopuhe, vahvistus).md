@@ -10,9 +10,12 @@ register: [puhuttu, kirjoitettu]
 similar:
   - "[[普通形そうです (kuulopuhe)]]"
   - "[[普通形という。 (lyhennetty kirjallinen kuulopuhe)]]"
+  - "[[～によると・によれば (jonkin mukaan)]]"
+  - "[[普通形とのことだ (kuulemma, viesti)]]"
 compare:
   - "[[普通形そうです (kuulopuhe)]]"
   - "[[普通形という。 (lyhennetty kirjallinen kuulopuhe)]]"
+  - "[[普通形とのことだ (kuulemma, viesti)]]"
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 4]]", "[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -87,3 +90,5 @@ Miksi ということだ eikä そうです, kun haluan vahvistaa kuullun viesti
 
 普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
 普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare) ::: 普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar/compare)
+普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar) ::: ～によると・によれば (jonkin mukaan) (similar)
+普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare) ::: 普通形とのことだ (kuulemma, viesti) (similar/compare)

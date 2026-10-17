@@ -14,8 +14,10 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
+similar: ["[[Nも (myos, sama patee)]]"]
 compare:
+  - "[[Nも (myos, sama patee)]]"
+  - "[[Nが (subjektipartikkeli, uusi tieto)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 1]]"
 status: known
@@ -103,3 +105,8 @@ Ei; sanajärjestys pysyy samana ja か lisätään silti loppuun.
 Miten AはBです -rakenteen は eroaa が:stä?
 ?
 は ja が eroavat siinä, korostetaanko koko lausetta vai vain uutta tietoa.
+
+#flashcards/grammar/n5/vertailu
+
+AはBです (A on B, peruslause) (similar/compare) ::: Nも (myos, sama patee) (similar/compare)
+AはBです (A on B, peruslause) (compare) ::: Nが (subjektipartikkeli, uusi tieto) (compare)

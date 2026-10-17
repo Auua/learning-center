@@ -7,8 +7,8 @@ func: [uudelleenmuotoilu, tarkennus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[AよりむしろB (pikemminkin)]]"]
+compare: ["[[AよりむしろB (pikemminkin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 22]]"]
 status: new
 confidence: 1
@@ -60,3 +60,7 @@ Se tarkentaa tai korjaa sitä: edellinen kuvaus on osittain tosi, mutta jälkimm
 Missä tilanteissa ～というより on yleinen?
 ?
 Itsekorjauksessa keskustelussa ja täsmällisyyttä tavoittelevassa kirjoituksessa.
+
+#flashcards/grammar/n2/vertailu
+
+N／普通形＋というより (ennemminkin kuin) (similar/compare) ::: AよりむしろB (pikemminkin) (similar/compare)

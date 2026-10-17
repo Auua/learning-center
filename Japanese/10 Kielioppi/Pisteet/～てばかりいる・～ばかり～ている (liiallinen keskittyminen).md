@@ -7,8 +7,8 @@ func: [liiallisuus, moite]
 attaches: ["[[て-muoto]]", "[[～ている (parhaillaan, tilan tulos)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Maara だけ・Nだけ]]", "[[Nしか Vません (vain, pelkastaan)]]"]
-compare: []
+similar: ["[[Maara だけ・Nだけ]]", "[[Nしか Vません (vain, pelkastaan)]]", "[[～ばかりで (vain, ei muuta)]]"]
+compare: ["[[Nだらけ (taynna, kauttaaltaan)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 6]]"]
 status: new
 confidence: 1
@@ -80,3 +80,5 @@ Miten ばかり + ている eroaa だけ-rajauksesta?
 
 V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: Maara だけ・Nだけ (similar)
 V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: Nしか Vません (vain, pelkastaan) (similar)
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: ～ばかりで (vain, ei muuta) (similar)
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (compare) ::: Nだらけ (taynna, kauttaaltaan) (compare)

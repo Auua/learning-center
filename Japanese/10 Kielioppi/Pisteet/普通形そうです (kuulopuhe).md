@@ -7,8 +7,8 @@ func: [kuulopuhe]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[そうです (niin on)]]", "[[V・adjそうです (ulkonaon perusteella)]]", "[[普通形ようです (havaintoon perustuva paattely)]]", "[[普通形ということだ (muodollinen kuulopuhe, vahvistus)]]", "[[普通形らしい (kuulopuhe, paattely)]]"]
-compare: ["[[V・adjそうです (ulkonaon perusteella)]]", "[[普通形ようです (havaintoon perustuva paattely)]]", "[[普通形ということだ (muodollinen kuulopuhe, vahvistus)]]", "[[普通形らしい (kuulopuhe, paattely)]]"]
+similar: ["[[そうです (niin on)]]", "[[V・adjそうです (ulkonaon perusteella)]]", "[[普通形ようです (havaintoon perustuva paattely)]]", "[[普通形ということだ (muodollinen kuulopuhe, vahvistus)]]", "[[普通形らしい (kuulopuhe, paattely)]]", "[[～によると・によれば (jonkin mukaan)]]", "[[普通形と言われている (sanotaan etta, yleinen kasitys)]]", "[[普通形と聞きました (kuulin etta)]]"]
+compare: ["[[V・adjそうです (ulkonaon perusteella)]]", "[[普通形ようです (havaintoon perustuva paattely)]]", "[[普通形ということだ (muodollinen kuulopuhe, vahvistus)]]", "[[普通形らしい (kuulopuhe, paattely)]]", "[[普通形と言われている (sanotaan etta, yleinen kasitys)]]", "[[普通形と聞きました (kuulin etta)]]"]
 sources: ["[[Minna no Nihongo II#Luku 47]]"]
 status: new
 confidence: 1
@@ -102,3 +102,6 @@ Miten 普通形そうです eroaa muodosta 普通形ようです?
 普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
 普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare)
 普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)
+普通形そうです（伝聞） (kuulopuhe) (similar) ::: ～によると・によれば (jonkin mukaan) (similar)
+普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形と言われている (sanotaan etta, yleinen kasitys) (similar/compare)
+普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形と聞きました (kuulin etta) (similar/compare)

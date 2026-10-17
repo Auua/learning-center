@@ -15,8 +15,10 @@ register:
 similar:
   - "[[自動詞＋ている (jaljelle jaanyt tila)]]"
   - "[[～ている (parhaillaan, tilan tulos)]]"
+  - "[[自動詞と他動詞 (transitiivisuusparit)]]"
 compare:
   - "[[自動詞＋ている (jaljelle jaanyt tila)]]"
+  - "[[自動詞と他動詞 (transitiivisuusparit)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 30]]"
 status: learning
@@ -95,3 +97,4 @@ Miten 他動詞Vてあります eroaa muodosta 自動詞＋ている?
 
 他動詞Vて-form あります (tarkoituksella tehty tila) (similar/compare) ::: 自動詞＋ている (jaljelle jaanyt tila) (similar/compare)
 他動詞Vて-form あります (tarkoituksella tehty tila) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
+他動詞Vて-form あります (tarkoituksella tehty tila) (similar/compare) ::: 自動詞と他動詞 (transitiivisuusparit) (similar/compare)

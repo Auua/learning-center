@@ -17,6 +17,7 @@ similar:
   - "[[～とか～とか (epamuodollinen esimerkkilista)]]"
 compare:
   - "[[～とか～とか (epamuodollinen esimerkkilista)]]"
+  - "[[Nでも (vaikkapa, esimerkiksi)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 10]]"
 status: known
@@ -83,3 +84,4 @@ Kumpi: と vai や［など］, kun luetellaan substantiiveja?
 
 N1やN2［など］ (ja muun muassa, epätäydellinen lista) (similar) ::: N1とN2 (ja) (similar)
 N1やN2［など］ (ja muun muassa, epätäydellinen lista) (similar/compare) ::: ～とか～とか (epamuodollinen esimerkkilista) (similar/compare)
+N1やN2［など］ (ja muun muassa, epätäydellinen lista) (compare) ::: Nでも (vaikkapa, esimerkiksi) (compare)

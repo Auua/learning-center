@@ -8,7 +8,7 @@ attaches: ["[[た-muoto]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: []
-compare: []
+compare: ["[[～きり (vain, sen jalkeen ei)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 8]]"]
 status: new
 confidence: 1
@@ -70,3 +70,7 @@ Vahingon tai virheen selittämiseen: かぎを置いたまま、ドアを閉め�
 Miten ～まま liitetään substantiiviin?
 ?
 Muodossa N + の + まま, esim. 生のまま (raakana sellaisenaan).
+
+#flashcards/grammar/n3/vertailu
+
+V(た形)まま・Nのまま (muuttumaton tila) (compare) ::: ～きり (vain, sen jalkeen ei) (compare)

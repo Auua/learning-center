@@ -18,6 +18,7 @@ similar:
   - "[[自動詞＋ている (jaljelle jaanyt tila)]]"
 compare:
   - "[[Vertailu — Potentiaali vs. spontaani aisti]]"
+  - "[[Nがする (aistimus, haju, aani, maku)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 27]]"
 status: shaky
@@ -100,3 +101,4 @@ Nが見えます／Nが聞こえます (spontaani aisti) (similar) ::: Potentiaa
 Nが見えます／Nが聞こえます (spontaani aisti) (similar) ::: できます (valmistua, syntyä) (similar)
 Nが見えます／Nが聞こえます (spontaani aisti) (similar) ::: 自動詞＋ている (jaljelle jaanyt tila) (similar)
 Nが見えます／Nが聞こえます (spontaani aisti) (compare) ::: Vertailu — Potentiaali vs. spontaani aisti (compare)
+Nが見えます／Nが聞こえます (spontaani aisti) (compare) ::: Nがする (aistimus, haju, aani, maku) (compare)

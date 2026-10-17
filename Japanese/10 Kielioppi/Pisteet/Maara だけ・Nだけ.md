@@ -14,9 +14,13 @@ register:
   - kirjoitettu
 similar:
   - "[[～だけだ・ただ～だけでいい (vain se riittää)]]"
+  - "[[Nずつ (kukin, kerrallaan)]]"
+  - "[[Vだけで (pelkastaan tekemalla)]]"
 compare:
   - "[[Nしか Vません (vain, pelkastaan)]]"
   - "[[～だけだ・ただ～だけでいい (vain se riittää)]]"
+  - "[[～きり (vain, sen jalkeen ei)]]"
+  - "[[Maara＋も (jopa, perati)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 11]]"
   - "[[Minna no Nihongo Chuukyuu I#Luku 7]]"
@@ -47,8 +51,8 @@ Kun だけ rajaa kokonaisen teon ja lisää riittävyyden ("vain tämä riittä�
 
 ## Esimerkit
 ![[Lausepankki — Määrät ja kestot#^maara5]]
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel4]]
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel5]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel4]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel5]]
 
 ## Sekaannusvaara
 - [[Nしか Vません (vain, pelkastaan)]] ilmaisee saman rajauksen mutta vaatii aina kielteisen predikaatin ja on tunnepitoisempi ("valitettavan vähän"). だけ toimii sekä myönteisenä että kielteisenä ja on neutraali.
@@ -81,3 +85,7 @@ Miten 数量だけ／Nだけ eroaa Nしか Vませんistä?
 
 数量だけ／Nだけ (Maara だけ・Nだけ) (similar/compare) ::: ～だけだ・ただ～だけでいい (vain se riittää) (similar/compare)
 数量だけ／Nだけ (Maara だけ・Nだけ) (compare) ::: Nしか Vません (vain, pelkastaan) (compare)
+数量だけ／Nだけ (Maara だけ・Nだけ) (compare) ::: ～きり (vain, sen jalkeen ei) (compare)
+数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: Nずつ (kukin, kerrallaan) (similar)
+数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: Vだけで (pelkastaan tekemalla) (similar)
+数量だけ／Nだけ (Maara だけ・Nだけ) (compare) ::: Maara＋も (jopa, perati) (compare)

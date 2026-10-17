@@ -15,7 +15,9 @@ register:
   - kirjoitettu
 similar:
   - "[[Nを V (objekti)]]"
+  - "[[Nは～が、Nは～ (kontrastin は)]]"
 compare:
+  - "[[Nが (subjektipartikkeli, uusi tieto)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 17]]"
   - "[[Minna no Nihongo II#Luku 26]]"
@@ -73,3 +75,5 @@ Kyllä: スポーツはあまり好きじゃないんです — implikoi vastako
 #flashcards/grammar/n5/vertailu
 
 N（objekti）は (aiheeksi nostaminen) (similar) ::: Nを V (objekti) (similar)
+N（objekti）は (aiheeksi nostaminen) (similar) ::: Nは～が、Nは～ (kontrastin は) (similar)
+N（objekti）は (aiheeksi nostaminen) (compare) ::: Nが (subjektipartikkeli, uusi tieto) (compare)

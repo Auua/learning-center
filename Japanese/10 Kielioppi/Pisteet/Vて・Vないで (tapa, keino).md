@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "Vて／Vないで（tapa, keino）"
+ja: Vて／Vないで（tapa, keino）
 reading: te / naide
 jlpt: N4
-func: [tapa, keino]
-attaches: ["[[て-muoto]]", "[[ない-muoto]]"]
+func:
+  - tapa
+  - keino
+attaches:
+  - "[[て-muoto]]"
+  - "[[ない-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vないで ください (kielteinen pyyntö)]]", "[[～ず［に］・～ず (kirjallinen kielto)]]"]
-compare: ["[[～ず［に］・～ず (kirjallinen kielto)]]"]
-sources: ["[[Minna no Nihongo II#Luku 34]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vないで ください (kielteinen pyyntö)]]"
+  - "[[～ず［に］・～ず (kirjallinen kielto)]]"
+compare:
+  - "[[～ず［に］・～ず (kirjallinen kielto)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 34]]"
+status: shaky
+confidence: 3
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -39,8 +51,8 @@ tags: [grammar/perusrakenne, jlpt/n4]
 - Ei pidä sekoittaa [[Vないで ください (kielteinen pyyntö)]]:iin, joka on nimenomaan pyyntömuoto (+ください); tässä ないで liittää kaksi lausetta ilman pyyntöä.
 
 ## Esimerkit
-![[Lausepankki — Ohjeet ja jarjestys#^ohje5]]
-![[Lausepankki — Ohjeet ja jarjestys#^ohje6]]
+![[Lausepankki — Ohjeet ja järjestys#^ohje5]]
+![[Lausepankki — Ohjeet ja järjestys#^ohje6]]
 
 ## Sekaannusvaara
 - 少し細くなりましたね。ダイエットしたんですか。……いいえ。バスに乗らないで、駅まで歩いているんです。 — ないで tässä ei ole pyyntö, vaan kertoo tavan (kävely ilman bussia).

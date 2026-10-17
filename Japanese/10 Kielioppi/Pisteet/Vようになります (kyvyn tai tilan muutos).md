@@ -7,7 +7,7 @@ func: [muutos, kyky]
 attaches: ["[[Potentiaali える]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vように (jotta, niin etta)]]"]
+similar: ["[[Vように (jotta, niin etta)]]", "[[Nに慣れる (tottua)]]"]
 compare: []
 sources: ["[[Minna no Nihongo II#Luku 36]]"]
 status: new
@@ -85,3 +85,4 @@ Miten 泳げませんでした ja 泳げなくなりました eroavat?
 #flashcards/grammar/n4/vertailu
 
 V(potentiaali/普通形)ようになります (kyvyn tai tilan muutos) (similar) ::: Vように (jotta, niin etta) (similar)
+V(potentiaali/普通形)ようになります (kyvyn tai tilan muutos) (similar) ::: Nに慣れる (tottua) (similar)

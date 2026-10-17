@@ -19,6 +19,7 @@ similar:
   - "[[Vさえ～ば (kunhan vain)]]"
 compare:
   - "[[Maara だけ・Nだけ]]"
+  - "[[Vだけで (pelkastaan tekemalla)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu I#Luku 7]]"
 status: new
@@ -109,3 +110,4 @@ Vさえ～ば on ehtolause (kunhan X, niin Y); だけでいい on toteamus siit�
 …だけだ／［ただ］…だけでいい (vain se riittää) (similar/compare) ::: Maara だけ・Nだけ (similar/compare)
 …だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: Nしか Vません (vain, pelkastaan) (similar)
 …だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: Vさえ～ば (kunhan vain) (similar)
+…だけだ／［ただ］…だけでいい (vain se riittää) (compare) ::: Vだけで (pelkastaan tekemalla) (compare)

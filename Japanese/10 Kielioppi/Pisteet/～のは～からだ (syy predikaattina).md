@@ -17,6 +17,7 @@ similar:
   - "[[～のは Nです (korostusrakenne, cleft)]]"
   - "[[Vのは・Vのが・Vのを (nominalisointi)]]"
   - "[[～ため［に］・ためだ (syy, ei tarkoitus)]]"
+  - "[[なぜなら～からだ (koska, perustelu)]]"
 compare:
   - "[[～のは Nです (korostusrakenne, cleft)]]"
 sources:
@@ -111,3 +112,4 @@ Miten ～のは～からだ eroaa rakenteesta ～ためだ?
 …のは…からだ／からです (syy predikaattina) (similar/compare) ::: ～のは Nです (korostusrakenne, cleft) (similar/compare)
 …のは…からだ／からです (syy predikaattina) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
 …のは…からだ／からです (syy predikaattina) (similar) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (similar)
+…のは…からだ／からです (syy predikaattina) (similar) ::: なぜなら～からだ (koska, perustelu) (similar)

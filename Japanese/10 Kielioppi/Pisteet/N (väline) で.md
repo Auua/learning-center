@@ -18,6 +18,7 @@ similar:
   - "[[N (paikka) で]]"
   - "[[N (syy) で]]"
   - "[[N (ryhmä, määrä, aika) で]]"
+  - "[[N（材料）で (valmistusaine)]]"
 compare:
   - "[[N (ryhmä, määrä, aika) で]]"
 sources:
@@ -99,3 +100,4 @@ N（道具・手段）で (N (väline) で) (similar) ::: Liikkumisen partikkeli
 N（道具・手段）で (N (väline) で) (similar) ::: N (paikka) で (similar)
 N（道具・手段）で (N (väline) で) (similar) ::: N (syy) で (similar)
 N（道具・手段）で (N (väline) で) (similar/compare) ::: N (ryhmä, määrä, aika) で (similar/compare)
+N（道具・手段）で (N (väline) で) (similar) ::: N（材料）で (valmistusaine) (similar)

@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]", "[[～ている (parhailla
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[～ないうちに (ennen kuin)]]"]
-compare: []
+compare: ["[[～ないうちに (ennen kuin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 14]]"]
 status: new
 confidence: 1
@@ -75,3 +75,4 @@ Vないうちに (暗くならないうちに帰りましょう); myönteinen �
 #flashcards/grammar/n3/vertailu
 
 普通形（ている）＋うちに (ennen kuin liian myohaista) (similar) ::: ～ないうちに (ennen kuin) (similar)
+普通形（ている）＋うちに (ennen kuin liian myohaista) (similar/compare) ::: ～ないうちに (ennen kuin) (similar/compare)

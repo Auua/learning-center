@@ -7,7 +7,7 @@ func: [ehto, muodollisuus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[～ば (jos, ehto)]]", "[[～たら (jos, kun)]]"]
+similar: ["[[～ば (jos, ehto)]]", "[[～たら (jos, kun)]]", "[[Vている場合じゃない (nyt ei ole aika)]]"]
 compare: ["[[Vertailu — Ehtolauseet と・ば・たら・なら]]"]
 sources: ["[[Minna no Nihongo II#Luku 45]]"]
 status: new
@@ -85,3 +85,4 @@ Se täydentää niitä muodollisena, usein kirjallisena vaihtoehtona samalle eht
 普通形場合は／Nの場合は (siina tapauksessa etta) (similar) ::: ～ば (jos, ehto) (similar)
 普通形場合は／Nの場合は (siina tapauksessa etta) (similar) ::: ～たら (jos, kun) (similar)
 普通形場合は／Nの場合は (siina tapauksessa etta) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
+普通形場合は／Nの場合は (siina tapauksessa etta) (similar) ::: Vている場合じゃない (nyt ei ole aika) (similar)

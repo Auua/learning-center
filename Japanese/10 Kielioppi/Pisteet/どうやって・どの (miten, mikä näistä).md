@@ -14,6 +14,7 @@ register:
   - kirjoitettu
 similar:
   - "[[これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)]]"
+  - "[[Vます-vartalo＋方 (tapa tehda)]]"
 compare:
 sources:
   - "[[Minna no Nihongo I#Luku 16]]"
@@ -71,3 +72,4 @@ Samaan こそあど-sarjaan kuin これ/この, それ/その, あれ/あの, �
 #flashcards/grammar/n5/vertailu
 
 どうやって／どのN (miten, mikä näistä) (similar) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar)
+どうやって／どのN (miten, mikä näistä) (similar) ::: Vます-vartalo＋方 (tapa tehda) (similar)

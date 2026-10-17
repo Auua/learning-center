@@ -7,8 +7,8 @@ func: [laajennus, korostus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[N1もN2も (molemmat)]]", "[[～ばかりでなく (ei ainoastaan, vaan myos)]]"]
-compare: ["[[～ばかりでなく (ei ainoastaan, vaan myos)]]"]
+similar: ["[[Nも (myos, sama patee)]]", "[[～ばかりでなく (ei ainoastaan, vaan myos)]]"]
+compare: ["[[～ばかりでなく (ei ainoastaan, vaan myos)]]", "[[～上に (lisaksi, paalle paatteeksi)]]", "[[～はもちろん (puhumattakaan)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -64,5 +64,7 @@ Puhekielisempi supistuma.
 
 #flashcards/grammar/n3/vertailu
 
-N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar) ::: N1もN2も (molemmat) (similar)
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar) ::: Nも (myos, sama patee) (similar)
 N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar/compare) ::: ～ばかりでなく (ei ainoastaan, vaan myos) (similar/compare)
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～上に (lisaksi, paalle paatteeksi) (compare)
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～はもちろん (puhumattakaan) (compare)

@@ -7,8 +7,8 @@ func: [tavoite, edellytys]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vために・Nのために (tarkoitusta varten)]]"]
-compare: ["[[Vために・Nのために (tarkoitusta varten)]]"]
+similar: ["[[Vために・Nのために (tarkoitusta varten)]]", "[[Vるには (jotta, siihen etta)]]"]
+compare: ["[[Vために・Nのために (tarkoitusta varten)]]", "[[Vるには (jotta, siihen etta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 19]]"]
 status: new
 confidence: 1
@@ -72,3 +72,4 @@ Miten Vためには eroaa Vために:sta?
 #flashcards/grammar/n3/vertailu
 
 V辞書形＋ためには (jotta voisi) (similar/compare) ::: Vために・Nのために (tarkoitusta varten) (similar/compare)
+V辞書形＋ためには (jotta voisi) (similar/compare) ::: Vるには (jotta, siihen etta) (similar/compare)

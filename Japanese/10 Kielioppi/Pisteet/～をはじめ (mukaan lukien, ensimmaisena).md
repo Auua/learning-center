@@ -7,8 +7,8 @@ func: [esimerkkiluettelo, edustava-esimerkki]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～といった (esimerkiksi tallainen kuin)]]"]
-compare: ["[[～といった (esimerkiksi tallainen kuin)]]"]
+similar: ["[[～といった (esimerkiksi tallainen kuin)]]", "[[～を中心に (keskittyen)]]"]
+compare: ["[[～といった (esimerkiksi tallainen kuin)]]", "[[～はもちろん (puhumattakaan)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 23]]"]
 status: new
 confidence: 1
@@ -73,3 +73,5 @@ Miten ～をはじめ eroaa rakenteesta ～といった?
 #flashcards/grammar/n2/vertailu
 
 N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) (similar/compare) ::: ～といった (esimerkiksi tallainen kuin) (similar/compare)
+N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) (similar) ::: ～を中心に (keskittyen) (similar)
+N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) (compare) ::: ～はもちろん (puhumattakaan) (compare)

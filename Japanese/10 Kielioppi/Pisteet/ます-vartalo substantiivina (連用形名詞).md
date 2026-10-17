@@ -12,6 +12,8 @@ similar:
   - "[[Vのは・Vのが・Vのを (nominalisointi)]]"
   - "[[～方 (tapa)]]"
   - "[[連用中止形 (kirjallinen luettelointi)]]"
+  - "[[Adjさ (adjektiivista substantiivi)]]"
+  - "[[Vます-vartalo＋方 (tapa tehda)]]"
 compare:
   - "[[Vこと (nominalisointi, abstrakti tekeminen)]]"
   - "[[連用中止形 (kirjallinen luettelointi)]]"
@@ -132,3 +134,5 @@ V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar/compare)
 V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
 V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: ～方 (tapa) (similar)
 V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar/compare) ::: 連用中止形 (kirjallinen luettelointi) (similar/compare)
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: Adjさ (adjektiivista substantiivi) (similar)
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: Vます-vartalo＋方 (tapa tehda) (similar)

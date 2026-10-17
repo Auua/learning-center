@@ -16,6 +16,7 @@ register:
 similar:
   - "[[N (aika) に]]"
 compare:
+  - "[[N（aika）ごろ (noin, aikoihin)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 11]]"
 status: learning
@@ -135,3 +136,4 @@ Väärä luokittelija (esim. 人 esineelle) kuulostaa oudolta; luokittelija opit
 #flashcards/grammar/n5/vertailu
 
 数詞＋助数詞 (Lukusanat ja luokittelijat) (similar) ::: N (aika) に (similar)
+数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: N（aika）ごろ (noin, aikoihin) (compare)

@@ -14,8 +14,10 @@ register:
   - kirjoitettu
 similar:
   - "[[Nのあまり（に） (liiallisen vuoksi)]]"
+  - "[[別に～ない (ei erityisesti)]]"
 compare:
   - "[[Nのあまり（に） (liiallisen vuoksi)]]"
+  - "[[とても～ない (ei mitenkaan)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 8]]"
 status: shaky
@@ -73,3 +75,5 @@ Sekä い- että な-adjektiiveihin samalla tavalla.
 #flashcards/grammar/n5/vertailu
 
 とても／あまり (hyvin, ei kovin) (similar/compare) ::: Nのあまり（に） (liiallisen vuoksi) (similar/compare)
+とても／あまり (hyvin, ei kovin) (similar) ::: 別に～ない (ei erityisesti) (similar)
+とても／あまり (hyvin, ei kovin) (compare) ::: とても～ない (ei mitenkaan) (compare)

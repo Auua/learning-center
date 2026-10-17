@@ -19,6 +19,7 @@ similar:
   - "[[S1から、S2 (syy)]]"
   - "[[せいで・せいだ (kielteinen syy)]]"
   - "[[おかげで・おかげだ (myonteinen syy)]]"
+  - "[[Nは～で有名 (tunnettu jostakin)]]"
 compare:
   - "[[〜ので (pehmea syy)]]"
   - "[[S1から、S2 (syy)]]"
@@ -122,3 +123,4 @@ N（原因・理由）で (N (syy) で) (similar/compare) ::: 〜ので (pehmea 
 N（原因・理由）で (N (syy) で) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
 N（原因・理由）で (N (syy) で) (similar) ::: せいで・せいだ (kielteinen syy) (similar)
 N（原因・理由）で (N (syy) で) (similar) ::: おかげで・おかげだ (myonteinen syy) (similar)
+N（原因・理由）で (N (syy) で) (similar) ::: Nは～で有名 (tunnettu jostakin) (similar)

@@ -1,20 +1,28 @@
 ---
 type: grammar
-ja: "V(た形/ない形)ほうがいいです"
+ja: V(た形/ない形)ほうがいいです
 reading: hou ga ii desu
 jlpt: N4
-func: [suositus, neuvo]
-attaches: ["[[た-muoto]]"]
+func:
+  - suositus
+  - neuvo
+attaches:
+  - "[[た-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: []
-sources: ["[[Minna no Nihongo II#Luku 32]]"]
-status: new
-confidence: 1
+compare: ["[[Vばいい (riittaa kun, pitaisi)]]", "[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]"]
+sources:
+  - "[[Minna no Nihongo II#Luku 32]]"
+status: shaky
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -78,3 +86,8 @@ Aina ～ないほうがいいです, ei koskaan ×ほうがよくないです.
 Miten ほうがいいです eroaa 疑問詞+たらいいですか-rakenteesta?
 ?
 たらいいですか kysyy neuvoa; ほうがいいです antaa neuvon.
+
+#flashcards/grammar/n4/vertailu
+
+V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: Vばいい (riittaa kun, pitaisi) (compare)
+V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: Vといい・Vたらいい (toivottavasti, kannattaisi) (compare)

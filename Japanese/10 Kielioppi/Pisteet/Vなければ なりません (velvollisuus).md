@@ -17,8 +17,11 @@ similar:
   - "[[Vなくても いいです (ei tarvitse)]]"
   - "[[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]]"
   - "[[～なくちゃ・～なきゃ (puhekielinen pakko)]]"
+  - "[[Vないといけない (taytyy)]]"
 compare:
   - "[[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]]"
+  - "[[Vる必要がある (on tarpeen tehda)]]"
+  - "[[Vないといけない (taytyy)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 17]]"
   - "[[Minna no Nihongo I#Luku 21]]"
@@ -54,8 +57,8 @@ tags:
 ## Esimerkit
 ![[Lausepankki — Terveys ja velvollisuudet#^terveys3]]
 ![[Lausepankki — Terveys ja velvollisuudet#^terveys4]]
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel1]]
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel2]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel1]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel2]]
 
 ## Sekaannusvaara
 Vertailu [[Vなくても いいです (ei tarvitse)]]: なければなりません = pakko tehdä; なくてもいいです = ei tarvitse tehdä (mutta saa jos haluaa) — täysin vastakkaiset merkitykset samalla ない-pohjalla.
@@ -96,3 +99,5 @@ Täysin vastakkaiset samalla ない-pohjalla: なければなりません = pakk
 Vなければなりません (velvollisuus) (similar) ::: Vなくても いいです (ei tarvitse) (similar)
 Vなければなりません (velvollisuus) (similar/compare) ::: ～なくてはならない・～なくてはいけない (pakko, toinen muoto) (similar/compare)
 Vなければなりません (velvollisuus) (similar) ::: ～なくちゃ・～なきゃ (puhekielinen pakko) (similar)
+Vなければなりません (velvollisuus) (compare) ::: Vる必要がある (on tarpeen tehda) (compare)
+Vなければなりません (velvollisuus) (similar/compare) ::: Vないといけない (taytyy) (similar/compare)

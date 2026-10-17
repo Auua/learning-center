@@ -7,8 +7,8 @@ func: [toistuvuus, ajankohta]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～とき (ajankohta)]]"]
-compare: []
+similar: ["[[V・adjとき (silloin kun)]]"]
+compare: ["[[～ごとに (joka, kunkin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -34,7 +34,7 @@ tags: [grammar/perusrakenne, jlpt/n2]
 
 ## Nyanssi ja rajoitukset
 - Korostaa **säännönmukaista toistuvuutta** — jälkilause on lähes aina totta joka kerta, ei vain joskus.
-- Eroaa [[～とき (ajankohta)]]:sta, joka viittaa vain yhteen kertaan/ajankohtaan; たびに vaatii toistuvan/yleistetyn tilanteen.
+- Eroaa [[V・adjとき (silloin kun)]]:sta, joka viittaa vain yhteen kertaan/ajankohtaan; たびに vaatii toistuvan/yleistetyn tilanteen.
 
 ## Esimerkit
 ![[Lausepankki — Tyoymparisto ja luonnehdinnat#^tyo1]]
@@ -63,4 +63,5 @@ Miten Vたびに eroaa 〜とき-rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Nの＋たびに (aina kun) (similar) ::: ～とき (ajankohta) (similar)
+V辞書形／Nの＋たびに (aina kun) (similar) ::: V・adjとき (silloin kun) (similar)
+V辞書形／Nの＋たびに (aina kun) (compare) ::: ～ごとに (joka, kunkin) (compare)

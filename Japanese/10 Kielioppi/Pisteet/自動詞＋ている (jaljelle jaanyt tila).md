@@ -14,6 +14,7 @@ register:
   - kirjoitettu
 similar:
   - "[[～ている (parhaillaan, tilan tulos)]]"
+  - "[[自動詞と他動詞 (transitiivisuusparit)]]"
 compare: []
 sources:
   - "[[Minna no Nihongo II#Luku 29]]"
@@ -45,7 +46,7 @@ tags:
 ## Nyanssi ja rajoitukset
 - Partikkeli on aina が, ei を — tekijää ei mainita eikä ole kieliopillisesti läsnä.
 - Tämä on sama neljästä merkityksestä toinen kohta [[～ている (parhaillaan, tilan tulos)]]-muistiinpanossa ("hetkiverbi → tilan tulos"), mutta tässä erityisesti korostettuna intransitiiviverbeillä.
-- Ensi luvussa (Luku 30) tulee vastapari [[～てあります]]: transitiiviverbi + てある kertoo että *joku teki sen tarkoituksella*, kun taas 自動詞+ている ei ota kantaa tekijään.
+- Ensi luvussa (Luku 30) tulee vastapari [[Vてあります (tarkoituksella tehty tila)]]: transitiiviverbi + てある kertoo että *joku teki sen tarkoituksella*, kun taas 自動詞+ている ei ota kantaa tekijään.
 
 ## Esimerkit
 ![[Lausepankki — Tilat ja unohtuneet tavarat#^tila1]]
@@ -93,3 +94,4 @@ Miksi ×自動販売機を壊れています on virhe?
 #flashcards/grammar/n4/vertailu
 
 自動詞＋ている (jaljelle jaanyt tila) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
+自動詞＋ている (jaljelle jaanyt tila) (similar) ::: 自動詞と他動詞 (transitiivisuusparit) (similar)

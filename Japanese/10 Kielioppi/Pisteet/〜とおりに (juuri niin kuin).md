@@ -14,7 +14,7 @@ register:
   - puhuttu
   - kirjoitettu
 similar: []
-compare: []
+compare: ["[[～にしたがって (mukaisesti, sita mukaa)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 34]]"
 status: shaky
@@ -74,3 +74,7 @@ Milloin 〜とおりに:n edellä käytetään 辞書形 ja milloin た形?
 Missä yhteydessä N＋の＋とおりに on yleinen?
 ?
 Kirjallisten ohjeiden yhteydessä: 説明書のとおりに, マニュアルのとおりに.
+
+#flashcards/grammar/n4/vertailu
+
+V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) (compare) ::: ～にしたがって (mukaisesti, sita mukaa) (compare)

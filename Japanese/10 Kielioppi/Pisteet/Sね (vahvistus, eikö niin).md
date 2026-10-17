@@ -16,6 +16,7 @@ similar:
   - "[[Sよ (uuden tiedon korostus)]]"
   - "[[普通形よね (varmistava loppupartikkeli)]]"
 compare:
+  - "[[Sなあ (tunteen huudahdus)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 4]]"
 status: known
@@ -82,3 +83,4 @@ Miten Sね eroaa Sよ:sta?
 
 Sね (vahvistus, eikö niin) (similar) ::: Sよ (uuden tiedon korostus) (similar)
 Sね (vahvistus, eikö niin) (similar) ::: 普通形よね (varmistava loppupartikkeli) (similar)
+Sね (vahvistus, eikö niin) (compare) ::: Sなあ (tunteen huudahdus) (compare)

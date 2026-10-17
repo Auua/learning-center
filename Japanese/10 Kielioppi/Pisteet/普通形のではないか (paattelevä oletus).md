@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[普通形のではないだろうか (varovainen oletus)]]"]
-compare: ["[[普通形のではないだろうか (varovainen oletus)]]"]
+compare: ["[[普通形のではないだろうか (varovainen oletus)]]", "[[普通形じゃないか (eiko olekin, huomautus)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -73,3 +73,4 @@ Kumpi sopii puhuttuun ja kirjoitettuun kieleen: のではないか vai のでは
 #flashcards/grammar/n3/vertailu
 
 普通形＋の（ん）ではないか (paattelevä oletus) (similar/compare) ::: 普通形のではないだろうか (varovainen oletus) (similar/compare)
+普通形＋の（ん）ではないか (paattelevä oletus) (compare) ::: 普通形じゃないか (eiko olekin, huomautus) (compare)

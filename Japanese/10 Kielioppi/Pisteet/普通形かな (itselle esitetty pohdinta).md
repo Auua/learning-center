@@ -7,8 +7,8 @@ func: [pohdiskelu, epavarmuus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: puhekielinen
 register: [puhuttu]
-similar: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]"]
-compare: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]"]
+similar: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]", "[[Sかしら (pohdinta, feminiininen)]]"]
+compare: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]", "[[Sかしら (pohdinta, feminiininen)]]", "[[Sなあ (tunteen huudahdus)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 7]]"]
 status: new
 confidence: 1
@@ -37,8 +37,8 @@ tags: [grammar/perusrakenne, jlpt/n3]
 - Tahtomuoto + かな (行こうかな) ilmaisee vielä päättämätöntä aikomusta — "taidanpa mennä, tai sitten en".
 
 ## Esimerkit
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel6]]
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel7]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel6]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel7]]
 
 ## Sekaannusvaara
 - [[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]] on muodollinen, kirjallinen vastine samalle pohdiskelevalle idealle — かな on arkinen ja puhuttu, のだろうか sopii esseisiin ja pohdiskeleviin teksteihin.
@@ -79,3 +79,5 @@ Molemmat ovat pohdiskelevia; かな on arkinen ja puhuttu, のだろうか on mu
 #flashcards/grammar/n3/vertailu
 
 普通形かな (itselle esitetty pohdinta) (similar/compare) ::: 普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar/compare)
+普通形かな (itselle esitetty pohdinta) (similar/compare) ::: Sかしら (pohdinta, feminiininen) (similar/compare)
+普通形かな (itselle esitetty pohdinta) (compare) ::: Sなあ (tunteen huudahdus) (compare)

@@ -18,6 +18,7 @@ similar:
   - "[[普通形の？ (puhekielinen selittava kysymys)]]"
 compare:
   - "[[普通形の？ (puhekielinen selittava kysymys)]]"
+  - "[[普通形のでしょうか (kohtelias kysymys)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 26]]"
 status: known
@@ -104,3 +105,4 @@ Miten 普通形んです eroaa S1から、S2-syylauseesta?
 
 普通形んです (selittävä sävy) (similar) ::: S1から、S2 (syy) (similar)
 普通形んです (selittävä sävy) (similar/compare) ::: 普通形の？ (puhekielinen selittava kysymys) (similar/compare)
+普通形んです (selittävä sävy) (compare) ::: 普通形のでしょうか (kohtelias kysymys) (compare)

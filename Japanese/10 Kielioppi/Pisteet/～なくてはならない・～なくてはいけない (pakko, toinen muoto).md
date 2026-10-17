@@ -17,6 +17,7 @@ similar:
   - "[[Vなければ なりません (velvollisuus)]]"
   - "[[～なくちゃ・～なきゃ (puhekielinen pakko)]]"
   - "[[～なくてもかまいません (ei tarvitse, ei haittaa)]]"
+  - "[[Vないといけない (taytyy)]]"
 compare:
   - "[[Vなければ なりません (velvollisuus)]]"
   - "[[～なくちゃ・～なきゃ (puhekielinen pakko)]]"
@@ -105,3 +106,4 @@ Muistisääntö: mikä partikkeli ratkaisee, onko Vなくて+は／も pakko vai
 Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)
 Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar/compare) ::: ～なくちゃ・～なきゃ (puhekielinen pakko) (similar/compare)
 Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar) ::: ～なくてもかまいません (ei tarvitse, ei haittaa) (similar)
+Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar) ::: Vないといけない (taytyy) (similar)

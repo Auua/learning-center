@@ -7,8 +7,8 @@ func: [paattely, ulkonako]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[そうです (niin on)]]", "[[普通形そうです (kuulopuhe)]]"]
-compare: ["[[そうです (niin on)]]", "[[普通形そうです (kuulopuhe)]]"]
+similar: ["[[そうです (niin on)]]", "[[普通形そうです (kuulopuhe)]]", "[[Vそうもない・そうにない (tuskin)]]"]
+compare: ["[[そうです (niin on)]]", "[[普通形そうです (kuulopuhe)]]", "[[Vそうもない・そうにない (tuskin)]]", "[[～ように見える (nayttaa silta etta)]]", "[[Nに見える・Adjく見える (nayttaa joltakin)]]"]
 sources: ["[[Minna no Nihongo II#Luku 43]]", "[[Minna no Nihongo Chuukyuu I#Luku 3]]"]
 status: new
 confidence: 1
@@ -102,3 +102,6 @@ Ulkonäkö-そうです liitetään vartaloon; kuulopuhe-そうです liittyy su
 
 V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (similar/compare) ::: そうです (niin on) (similar/compare)
 V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (similar/compare) ::: Vそうもない・そうにない (tuskin) (similar/compare)
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (compare) ::: ～ように見える (nayttaa silta etta) (compare)
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (compare) ::: Nに見える・Adjく見える (nayttaa joltakin) (compare)

@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [kirjoitettu, puhuttu (muodollinen)]
 similar: []
-compare: []
+compare: ["[[～一方だ (yha enemman)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 21]]"]
 status: new
 confidence: 1
@@ -66,3 +66,7 @@ Argumentoivassa ja analyyttisessä tekstissä molempien puolien esittämiseen.
 Miten 一方（で） eroaa S1が、S2 (mutta) -rakenteesta?
 ?
 が ilmaisee vastakohtaa; 一方で esittää kaksi samanarvoista, rinnakkaista näkökulmaa, jotka eivät välttämättä ole ristiriidassa.
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋一方（で） (toisaalta) (compare) ::: ～一方だ (yha enemman) (compare)

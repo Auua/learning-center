@@ -7,8 +7,8 @@ func: [aiheenvaihto, assosiaatio]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[～と言うと (kun puhutaan, tarkoitatko)]]"]
+compare: ["[[～と言うと (kun puhutaan, tarkoitatko)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -60,3 +60,7 @@ Aiheen vaihtoon: otetaan toisen mainitsema sana ja siirrytään siitä assosioit
 Miten といえば, というと ja といったら eroavat toisistaan?
 ?
 Ne ovat lähes vaihtokelpoisia; といったら on hieman puhekielisempi ja tunnepitoisempi.
+
+#flashcards/grammar/n2/vertailu
+
+N＋といえば・というと・といったら (jos puhutaan X:sta) (similar/compare) ::: ～と言うと (kun puhutaan, tarkoitatko) (similar/compare)

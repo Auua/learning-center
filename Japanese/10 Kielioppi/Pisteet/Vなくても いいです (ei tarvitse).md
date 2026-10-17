@@ -16,8 +16,12 @@ similar:
   - "[[Vなければ なりません (velvollisuus)]]"
   - "[[Vても いいです・Vては いけません (lupa ja kielto)]]"
   - "[[～なくてもかまいません (ei tarvitse, ei haittaa)]]"
+  - "[[Vて済む・ないで済む (selvita pelkalla)]]"
 compare:
   - "[[～なくてもかまいません (ei tarvitse, ei haittaa)]]"
+  - "[[Vことはない (ei tarvitse)]]"
+  - "[[Vて済む・ないで済む (selvita pelkalla)]]"
+  - "[[Vる必要がある (on tarpeen tehda)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 17]]"
   - "[[Minna no Nihongo Chuukyuu I#Luku 7]]"
@@ -49,7 +53,7 @@ tags:
 
 ## Esimerkit
 ![[Lausepankki — Terveys ja velvollisuudet#^terveys5]]
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel3]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel3]]
 
 ## Kortit
 #flashcards/grammar/n5
@@ -87,3 +91,6 @@ Vなくてもいいです = ei ole pakko, ei kiellettyä eikä pakollista; Vて�
 Vなくてもいいです (ei tarvitse) (similar) ::: Vなければ なりません (velvollisuus) (similar)
 Vなくてもいいです (ei tarvitse) (similar) ::: Vても いいです・Vては いけません (lupa ja kielto) (similar)
 Vなくてもいいです (ei tarvitse) (similar/compare) ::: ～なくてもかまいません (ei tarvitse, ei haittaa) (similar/compare)
+Vなくてもいいです (ei tarvitse) (compare) ::: Vことはない (ei tarvitse) (compare)
+Vなくてもいいです (ei tarvitse) (similar/compare) ::: Vて済む・ないで済む (selvita pelkalla) (similar/compare)
+Vなくてもいいです (ei tarvitse) (compare) ::: Vる必要がある (on tarpeen tehda) (compare)

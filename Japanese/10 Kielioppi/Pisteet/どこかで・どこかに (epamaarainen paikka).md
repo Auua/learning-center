@@ -12,7 +12,7 @@ register:
   - puhuttu
   - kirjoitettu
 similar: []
-compare: []
+compare: ["[[疑問詞＋も＋ない (ei mitaan, ei kukaan)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 29]]"
 status: known
@@ -80,3 +80,7 @@ Tekee siitä epämääräisen viittauksen ('jossain, en tiedä missä'); sama pe
 Miten どこか eroaa どこでも:sta?
 ?
 か-liite on epämääräinen ('jossain, en tiedä'); でも-liite kattaa kaiken poikkeuksetta ('missä tahansa'). Sama pätee 何か/何でも, だれか/だれでも, いつか/いつでも.
+
+#flashcards/grammar/n4/vertailu
+
+どこかで・どこかに (epamaarainen paikka) (compare) ::: 疑問詞＋も＋ない (ei mitaan, ei kukaan) (compare)

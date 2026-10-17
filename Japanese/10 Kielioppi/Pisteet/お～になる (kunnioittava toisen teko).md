@@ -7,7 +7,7 @@ func: [keigo, sonkeigo]
 attaches: ["[[ます-muoto]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[Passiivi (ら)れる]]", "[[お～する (nöyrä oma teko)]]"]
+similar: ["[[Passiivi (ら)れる]]", "[[お～する (nöyrä oma teko)]]", "[[お～ください (kunnioittava pyynto)]]"]
 compare: "[[Keigo — kartta]]"
 sources: ["[[Minna no Nihongo II#Luku 49]]"]
 status: new
@@ -87,3 +87,4 @@ Passiivin kunnioitusmuoto (帰られる) on monimerkityksinen (voi olla myös pa
 お～になる (kunnioittava toisen teko) (similar) ::: Passiivi (ら)れる (similar)
 お～になる (kunnioittava toisen teko) (similar) ::: お～する (nöyrä oma teko) (similar)
 お～になる (kunnioittava toisen teko) (compare) ::: Keigo — kartta (compare)
+お～になる (kunnioittava toisen teko) (similar) ::: お～ください (kunnioittava pyynto) (similar)

@@ -14,7 +14,8 @@ register:
   - kirjoitettu
 similar:
   - "[[S1が、S2 (mutta)]]"
-compare: []
+  - "[[～も～ば～も (seka etta)]]"
+compare: ["[[～も～ば～も (seka etta)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 28]]"
 status: shaky
@@ -93,3 +94,4 @@ Miten し-luettelointi eroaa S1が、S2 (mutta) -rakenteesta?
 #flashcards/grammar/n4/vertailu
 
 普通形し、普通形し (perustelujen luettelointi) (similar) ::: S1が、S2 (mutta) (similar)
+普通形し、普通形し (perustelujen luettelointi) (similar/compare) ::: ～も～ば～も (seka etta) (similar/compare)

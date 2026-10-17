@@ -7,8 +7,8 @@ func: [ajankohta, muodollinen]
 attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[～とき (ajankohta)]]", "[[～あいだ・～あいだに (kesto vs. hetki)]]"]
-compare: ["[[～とき (ajankohta)]]"]
+similar: ["[[V・adjとき (silloin kun)]]", "[[～あいだ・～あいだに (kesto vs. hetki)]]"]
+compare: ["[[V・adjとき (silloin kun)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 14]]"]
 status: new
 confidence: 1
@@ -33,13 +33,13 @@ tags: [grammar/perusrakenne, jlpt/n2]
 
 ## Nyanssi ja rajoitukset
 - Ei sovi rentoon puhekieleen — kuulostaa jäykältä arkikeskustelussa; luonteva virallisissa ohjeissa, kylttiteksteissä, uutisissa.
-- Rakenteellisesti identtinen [[～とき (ajankohta)]]:n kanssa, mutta rekisteri on selvästi muodollisempi.
+- Rakenteellisesti identtinen [[V・adjとき (silloin kun)]]:n kanssa, mutta rekisteri on selvästi muodollisempi.
 
 ## Esimerkit
 ![[Lausepankki — Aniimea ja jarkeilya#^ani1]]
 
 ## Sekaannusvaara
-- [[～とき (ajankohta)]]: sama merkitys, mutta neutraali/puhekielinen rekisteri — 際 on sen muodollinen vastine, käytetään kirjallisissa ohjeissa ja virallisissa ilmoituksissa.
+- [[V・adjとき (silloin kun)]]: sama merkitys, mutta neutraali/puhekielinen rekisteri — 際 on sen muodollinen vastine, käytetään kirjallisissa ohjeissa ja virallisissa ilmoituksissa.
 
 ## Kortit
 #flashcards/grammar/n2
@@ -67,5 +67,5 @@ Merkitys sama; 際 on muodollinen vastine (kirjalliset ohjeet, virallinen ilmoit
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar/compare) ::: ～とき (ajankohta) (similar/compare)
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar/compare) ::: V・adjとき (silloin kun) (similar/compare)
 V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar) ::: ～あいだ・～あいだに (kesto vs. hetki) (similar)

@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[普通形そうです (kuulopuhe)]]", "[[Vように (jotta, niin etta)]]", "[[～のようだ・～のような・～のように (vertailu, esimerkki)]]", "[[普通形らしい (kuulopuhe, paattely)]]"]
-compare: ["[[普通形そうです (kuulopuhe)]]", "[[～のようだ・～のような・～のように (vertailu, esimerkki)]]", "[[普通形らしい (kuulopuhe, paattely)]]"]
+compare: ["[[普通形そうです (kuulopuhe)]]", "[[～のようだ・～のような・～のように (vertailu, esimerkki)]]", "[[普通形らしい (kuulopuhe, paattely)]]", "[[普通形とみえる (nayttaa silta etta)]]", "[[普通形ような気がする (tuntuu silta etta)]]", "[[～ように見える (nayttaa silta etta)]]", "[[Nに見える・Adjく見える (nayttaa joltakin)]]"]
 sources: ["[[Minna no Nihongo II#Luku 47]]"]
 status: new
 confidence: 1
@@ -88,3 +88,7 @@ Vertaava ようだ tarkoittaa 'on kuin' eikä ole päätelmä: あの病院は�
 普通形ようです (havaintoon perustuva paattely) (similar) ::: Vように (jotta, niin etta) (similar)
 普通形ようです (havaintoon perustuva paattely) (similar/compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar/compare)
 普通形ようです (havaintoon perustuva paattely) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)
+普通形ようです (havaintoon perustuva paattely) (compare) ::: 普通形とみえる (nayttaa silta etta) (compare)
+普通形ようです (havaintoon perustuva paattely) (compare) ::: 普通形ような気がする (tuntuu silta etta) (compare)
+普通形ようです (havaintoon perustuva paattely) (compare) ::: ～ように見える (nayttaa silta etta) (compare)
+普通形ようです (havaintoon perustuva paattely) (compare) ::: Nに見える・Adjく見える (nayttaa joltakin) (compare)

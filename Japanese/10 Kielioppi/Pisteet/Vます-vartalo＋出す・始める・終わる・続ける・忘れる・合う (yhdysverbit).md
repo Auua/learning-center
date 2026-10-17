@@ -7,7 +7,7 @@ func: [aspekti, yhdysverbi]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
+similar: ["[[Vます-vartalo＋上げる (saada valmiiksi)]]", "[[Vます-vartalo＋込む (sisaan, perusteellisesti)]]", "[[Vます-vartalo＋直す (tehda uudelleen)]]", "[[Vます-vartalo＋通す (loppuun asti)]]"]
 compare: []
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 10]]"]
 status: new
@@ -88,3 +88,10 @@ Mitä 忘れる tarkoittaa yhdysverbissä (ます-vartalo＋忘れる)?
 Miten 泣き出した eroaa muodosta 泣き始めた?
 ?
 出す tuo mukaan äkillisyyden ja hallitsemattomuuden sävyn; 始める on neutraali alku.
+
+#flashcards/grammar/n3/vertailu
+
+V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) (similar) ::: Vます-vartalo＋上げる (saada valmiiksi) (similar)
+V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) (similar) ::: Vます-vartalo＋込む (sisaan, perusteellisesti) (similar)
+V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) (similar) ::: Vます-vartalo＋直す (tehda uudelleen) (similar)
+V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) (similar) ::: Vます-vartalo＋通す (loppuun asti) (similar)

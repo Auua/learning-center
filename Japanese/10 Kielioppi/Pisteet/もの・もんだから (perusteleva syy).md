@@ -4,10 +4,10 @@ ja: "普通形＋もの／もんだから"
 reading: mono / monda kara
 jlpt: N3
 func: [syy, selittely]
-attaches: ["[[Yleiset kieliopit#普通形]]"]
+attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu]
-similar: ["[[S1から、S2 (syy)]]", "[[普通形ので (pehmea syy)]]", "[[だって～もん (puhekielinen perustelu)]]"]
+similar: ["[[S1から、S2 (syy)]]", "[[〜ので (pehmea syy)]]", "[[だって～もん (puhekielinen perustelu)]]"]
 compare: ["[[S1から、S2 (syy)]]", "[[だって～もん (puhekielinen perustelu)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 12]]"]
 status: new
@@ -83,5 +83,5 @@ Miten もの・もんだから eroaa tavallisesta から-syystä?
 #flashcards/grammar/n3/vertailu
 
 普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
-普通形＋もの／もんだから (perusteleva syy) (similar) ::: 普通形ので (pehmea syy) (similar)
+普通形＋もの／もんだから (perusteleva syy) (similar) ::: 〜ので (pehmea syy) (similar)
 普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: だって～もん (puhekielinen perustelu) (similar/compare)

@@ -16,6 +16,7 @@ similar:
   - "[[Vて・Vないで (tapa, keino)]]"
 compare:
   - "[[Vて・Vないで (tapa, keino)]]"
+  - "[[V辞書形な (jyrkka kielto)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 17]]"
   - "[[Minna no Nihongo II#Luku 34]]"
@@ -77,3 +78,4 @@ Sama ない形+で, mutta ilman ください se liittää kaksi lausetta kuvaama
 
 Vないでください (kielteinen pyyntö) (similar) ::: Vて ください (pyyntö) (similar)
 Vないでください (kielteinen pyyntö) (similar/compare) ::: Vて・Vないで (tapa, keino) (similar/compare)
+Vないでください (kielteinen pyyntö) (compare) ::: V辞書形な (jyrkka kielto) (compare)

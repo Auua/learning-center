@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: puhekielinen
 register: [puhuttu]
 similar: ["[[普通形でしょう？ (varmistus)]]", "[[普通形んです (selittävä sävy)]]"]
-compare: ["[[普通形でしょう？ (varmistus)]]"]
+compare: ["[[普通形でしょう？ (varmistus)]]", "[[普通形じゃないか (eiko olekin, huomautus)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 5]]"]
 status: new
 confidence: 1
@@ -79,3 +79,4 @@ Miten んじゃない？ eroaa でしょう？:sta?
 
 普通形んじゃない？ (pehmea arvaus) (similar/compare) ::: 普通形でしょう？ (varmistus) (similar/compare)
 普通形んじゃない？ (pehmea arvaus) (similar) ::: 普通形んです (selittävä sävy) (similar)
+普通形んじゃない？ (pehmea arvaus) (compare) ::: 普通形じゃないか (eiko olekin, huomautus) (compare)

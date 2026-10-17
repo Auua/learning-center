@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: puhekielinen
 register: [puhuttu]
 similar: ["[[普通形んです (selittävä sävy)]]"]
-compare: ["[[普通形んです (selittävä sävy)]]"]
+compare: ["[[普通形んです (selittävä sävy)]]", "[[Sかい・Sだい (tuttavallinen kysymys)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 4]]"]
 status: new
 confidence: 1
@@ -80,3 +80,4 @@ Miten の？ eroaa んです:sta?
 #flashcards/grammar/n3/vertailu
 
 普通形の？（kysymys/selitys） (puhekielinen selittava kysymys) (similar/compare) ::: 普通形んです (selittävä sävy) (similar/compare)
+普通形の？（kysymys/selitys） (puhekielinen selittava kysymys) (compare) ::: Sかい・Sだい (tuttavallinen kysymys) (compare)

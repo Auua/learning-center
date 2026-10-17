@@ -17,6 +17,7 @@ similar:
   - "[[～のは～からだ (syy predikaattina)]]"
 compare:
   - "[[〜ので (pehmea syy)]]"
+  - "[[なぜなら～からだ (koska, perustelu)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 9]]"
   - "[[Minna no Nihongo II#Luku 39]]"
@@ -104,3 +105,4 @@ Miten な-adjektiivi/substantiivi liitetään から:aan verrattuna ので:on?
 
 S1から、S2／どうして (syy) (similar/compare) ::: 〜ので (pehmea syy) (similar/compare)
 S1から、S2／どうして (syy) (similar) ::: ～のは～からだ (syy predikaattina) (similar)
+S1から、S2／どうして (syy) (compare) ::: なぜなら～からだ (koska, perustelu) (compare)

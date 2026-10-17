@@ -18,6 +18,7 @@ similar:
 compare:
   - "[[Vことがある・こともある (satunnainen poikkeus)]]"
   - "[[～ている (elämänhistoria, saavutukset)]]"
+  - "[[Vていた (oli tekemassa, tila menneessa)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 19]]"
 status: known
@@ -91,3 +92,4 @@ Sama runko, mutta た形 = elämänkokemus; 辞書形 = 'joskus käy niin että'
 V た形ことがあります (kokemus) (similar) ::: Vことができます (kyky) (similar)
 V た形ことがあります (kokemus) (similar/compare) ::: Vことがある・こともある (satunnainen poikkeus) (similar/compare)
 V た形ことがあります (kokemus) (compare) ::: ～ている (elämänhistoria, saavutukset) (compare)
+V た形ことがあります (kokemus) (compare) ::: Vていた (oli tekemassa, tila menneessa) (compare)

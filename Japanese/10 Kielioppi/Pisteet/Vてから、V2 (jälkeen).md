@@ -15,7 +15,10 @@ register:
 similar:
   - "[[Vて、Vて (peräkkäisyys)]]"
   - "[[S1から、S2 (syy)]]"
+  - "[[Vてからでないと (vasta kun ensin)]]"
+  - "[[Vた上で (sen jalkeen kun, harkiten)]]"
 compare:
+  - "[[Vた上で (sen jalkeen kun, harkiten)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 16]]"
 status: shaky
@@ -80,3 +83,5 @@ Miten V1てから、V2 eroaa muodosta Vて、Vて?
 
 V1てから、V2 (jälkeen) (similar) ::: Vて、Vて (peräkkäisyys) (similar)
 V1てから、V2 (jälkeen) (similar) ::: S1から、S2 (syy) (similar)
+V1てから、V2 (jälkeen) (similar) ::: Vてからでないと (vasta kun ensin) (similar)
+V1てから、V2 (jälkeen) (similar/compare) ::: Vた上で (sen jalkeen kun, harkiten) (similar/compare)

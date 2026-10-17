@@ -60,7 +60,7 @@ Käytetyt taivutusmuodot: ei taivu — nämä ovat suljettu sanaluokka (指示�
 ![[Lausepankki — Adjektiivit#^adj9]]
 
 ## Sekaannusvaara
-Vertailu: [[ここ・そこ・あそこ]] (paikat, [[Minna no Nihongo I#Luku 3]]) käyttää samaa kolmiportaista etäisyysjärjestelmää mutta eri sanoja — helppo sekoittaa これ (esine) ja ここ (paikka) toisiinsa muistaessa.
+Vertailu: [[ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat)]] (paikat, [[Minna no Nihongo I#Luku 3]]) käyttää samaa kolmiportaista etäisyysjärjestelmää mutta eri sanoja — helppo sekoittaa これ (esine) ja ここ (paikka) toisiinsa muistaessa.
 
 ## Kortit
 #flashcards/grammar/n5

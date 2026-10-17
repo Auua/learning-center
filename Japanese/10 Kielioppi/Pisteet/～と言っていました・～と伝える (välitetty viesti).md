@@ -1,6 +1,6 @@
 ---
 type: grammar
-ja: "…と言っていました／…と伝える"
+ja: …と言っていました／…と伝える
 reading: to itte imashita / to tsutaeru
 jlpt: N4
 func:
@@ -18,9 +18,10 @@ similar:
   - "[[Vようにいう・注意する・伝える・頼む (epasuora kehotus)]]"
 compare:
   - "[[普通形と言います (lainaus)]]"
+  - "[[普通形とのことだ (kuulemma, viesti)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 33]]"
-status: new
+status: learning
 confidence: 1
 reviewed:
 created: 2026-09-05
@@ -65,11 +66,11 @@ Käytetyt taivutusmuodot: [[普通形 (puhekielinen perusmuoto)]] ennen と
 
 グプタさんは30分ぐらいで＿＿＿＿＿＿＿＿＿＿。(戻る, välitetty viesti)
 ?
-戻ると言っていました — lainatun lauseen aikamuoto pysyy preesensissä, ja ていました kertoo että tieto on yhä ajankohtainen.
+{戻|もど}ると{言|い}っていました — lainatun lauseen aikamuoto pysyy preesensissä, ja ていました kertoo että tieto on yhä ajankohtainen.
 
 Miten 伝える eroaa 言う:sta?
 ?
-伝える välittää viestin kolmannelle osapuolelle (渡辺さんに…と伝えていただけませんか), 言う vain kertoo mitä sanottiin.
+{伝|つた}える välittää viestin kolmannelle osapuolelle ({渡辺|わたなべ}さんに…と伝えていただけませんか), 言う vain kertoo mitä sanottiin.
 
 #flashcards/grammar/n4/muodostus
 
@@ -110,3 +111,4 @@ Miten …と伝える eroaa ようにいう/伝える -epäsuorasta kehotuksesta
 …と言っていました／…と伝える (välitetty viesti) (similar/compare) ::: 普通形と言います (lainaus) (similar/compare)
 …と言っていました／…と伝える (välitetty viesti) (similar) ::: 普通形そうです (kuulopuhe) (similar)
 …と言っていました／…と伝える (välitetty viesti) (similar) ::: Vようにいう・注意する・伝える・頼む (epasuora kehotus) (similar)
+…と言っていました／…と伝える (välitetty viesti) (compare) ::: 普通形とのことだ (kuulemma, viesti) (compare)

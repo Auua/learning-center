@@ -13,8 +13,8 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
-compare: []
+similar: ["[[ついVてしまう (vahingossa, tahattomasti)]]"]
+compare: ["[[ついVてしまう (vahingossa, tahattomasti)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 29]]"
 status: shaky
@@ -92,3 +92,7 @@ Kirjoitettuun kieleen eikä JLPT-vastaukseksi. じゃう tulee でしまう-verb
 Pitääkö Vて-form しまいます aina kääntää 'valitettavasti'?
 ?
 Ei; neutraalissa saavutuksessa (kirje kirjoitettu loppuun) merkitys on 'saan tehtyä valmiiksi', ei valitus.
+
+#flashcards/grammar/n4/vertailu
+
+Vて-form しまいます (valitettavasti, loppuun asti) (similar/compare) ::: ついVてしまう (vahingossa, tahattomasti) (similar/compare)

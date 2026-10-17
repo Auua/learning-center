@@ -17,7 +17,10 @@ register:
 similar:
   - "[[関係節 (suhteellinen sivulause)]]"
   - "[[Vまえに (ennen)]]"
+  - "[[～際［に］ (silloin kun, muodollinen)]]"
+  - "[[Vたびに (aina kun)]]"
 compare:
+  - "[[～際［に］ (silloin kun, muodollinen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 23]]"
 status: shaky
@@ -95,3 +98,5 @@ Miten とき eroaa Vまえに verbin muodon valinnassa?
 
 V／adjとき (silloin kun) (similar) ::: 関係節 (suhteellinen sivulause) (similar)
 V／adjとき (silloin kun) (similar) ::: Vまえに (ennen) (similar)
+V／adjとき (silloin kun) (similar/compare) ::: ～際［に］ (silloin kun, muodollinen) (similar/compare)
+V／adjとき (silloin kun) (similar) ::: Vたびに (aina kun) (similar)

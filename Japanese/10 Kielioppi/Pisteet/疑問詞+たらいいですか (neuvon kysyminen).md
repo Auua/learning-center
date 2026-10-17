@@ -15,6 +15,7 @@ register:
 similar:
   - "[[～たら (jos, kun)]]"
 compare:
+  - "[[Vばいい (riittaa kun, pitaisi)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 26]]"
 status: shaky
@@ -71,3 +72,4 @@ Mikä lause edeltää 疑問詞＋たらいいですか-kysymystä usein?
 #flashcards/grammar/n4/vertailu
 
 疑問詞＋Vたらいいですか (neuvon kysyminen) (similar) ::: ～たら (jos, kun) (similar)
+疑問詞＋Vたらいいですか (neuvon kysyminen) (compare) ::: Vばいい (riittaa kun, pitaisi) (compare)

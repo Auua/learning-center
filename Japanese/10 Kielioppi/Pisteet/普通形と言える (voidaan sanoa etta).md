@@ -7,7 +7,7 @@ func: [johtopaatos, varovainen-vaite]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: []
+similar: ["[[～と言ってもいい (voisi sanoa)]]"]
 compare: []
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 21]]"]
 status: new
@@ -59,3 +59,7 @@ Perusteltuna johtopäätöksenä ('voidaan sanoa että'), tyypillisesti edellä 
 Miten 普通形と言える tehdään vielä varovaisemmaksi väitteeksi?
 ?
 Yhdistämällä se muotoon のではないでしょうか: と言えるのではないでしょうか.
+
+#flashcards/grammar/n2/vertailu
+
+普通形＋と言える (voidaan sanoa etta) (similar) ::: ～と言ってもいい (voisi sanoa) (similar)

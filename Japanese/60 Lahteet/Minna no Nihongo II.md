@@ -45,7 +45,7 @@ tags: [source, textbook]
 ### Luku 36
 〜ように (jotta, niin että) · 〜ようになります (muuttua sellaiseksi että pystyy/tapahtuu) · 〜ようにしています (pyrkiä tekemään tavakseen)
 ### Luku 37
-[[Passiivi (ら)れる]] (受身形, passiivi) · 〜によって (jonkin/jonkun toimesta, tekijä) · 〜から作られます (valmistetaan jostakin)
+[[Passiivi (ら)れる]] (受身形, passiivi) · 〜によって (jonkin/jonkun toimesta, tekijä) · 〜から作られます (valmistetaan jostakin) · [[N（材料）で (valmistusaine)]] (materiaali で)
 ### Luku 38
 〜のは・〜のが・〜のを (nominalisointi: tekemisestä substantiivi) · [[～のは Nです (korostusrakenne, cleft)]] ("se mikä on X, on Y")
 ### Luku 39

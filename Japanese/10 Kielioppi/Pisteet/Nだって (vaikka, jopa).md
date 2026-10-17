@@ -7,8 +7,8 @@ func: [korostus, aariesimerkki]
 attaches: ["substantiivi"]
 formality: puhekielinen
 register: [puhuttu]
-similar: []
-compare: []
+similar: ["[[Nさえ・でさえ (jopa, edes)]]"]
+compare: ["[[Nさえ・でさえ (jopa, edes)]]", "[[～たって (vaikka, puhekielinen)]]", "[[Nでも (vaikkapa, esimerkiksi)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 18]]"]
 status: new
 confidence: 1
@@ -75,3 +75,9 @@ Tämä だって korostaa ääriesimerkkiä lauseen keskellä; だって～も�
 Miten N＋だって eroaa N＋でも:stä?
 ?
 Sama perusfunktio; でも on yleiskielisempi/muodollisempi, だって puhekielinen.
+
+#flashcards/grammar/n2/vertailu
+
+N＋だって (vaikka, jopa) (similar/compare) ::: Nさえ・でさえ (jopa, edes) (similar/compare)
+N＋だって (vaikka, jopa) (compare) ::: ～たって (vaikka, puhekielinen) (compare)
+N＋だって (vaikka, jopa) (compare) ::: Nでも (vaikkapa, esimerkiksi) (compare)

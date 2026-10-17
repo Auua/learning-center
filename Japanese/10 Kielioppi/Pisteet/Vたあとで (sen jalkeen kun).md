@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "Vた形あとで／Nのあとで"
+ja: Vた形あとで／Nのあとで
 reading: ato de
 jlpt: N4
-func: [ajanjarjestys]
-attaches: ["[[た-muoto]]"]
+func:
+  - ajanjarjestys
+attaches:
+  - "[[た-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vまえに (ennen)]]", "[[Vてから、V2 (jälkeen)]]"]
-compare: ["[[Vまえに (ennen)]]"]
-sources: ["[[Minna no Nihongo II#Luku 34]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vまえに (ennen)]]"
+  - "[[Vてから、V2 (jälkeen)]]"
+compare:
+  - "[[Vまえに (ennen)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 34]]"
+status: known
+confidence: 5
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -35,8 +45,8 @@ tags: [grammar/perusrakenne, jlpt/n4]
 - Painopiste on jälkimmäisessä teossa, joka tapahtuu ensimmäisen valmistuttua kokonaan — ero [[Vてから、V2 (jälkeen)]]:iin on tyylillinen/rakenteellinen (てから on hieman puhekielisempi ja korostaa peräkkäisyyttä voimakkaammin), merkitys on lähes identtinen.
 
 ## Esimerkit
-![[Lausepankki — Ohjeet ja jarjestys#^ohje3]]
-![[Lausepankki — Ohjeet ja jarjestys#^ohje4]]
+![[Lausepankki — Ohjeet ja järjestys#^ohje3]]
+![[Lausepankki — Ohjeet ja järjestys#^ohje4]]
 
 ## Sekaannusvaara
 - [[Vまえに (ennen)]] käyttää aina 辞書形:ää ja tarkoittaa "ennen kuin"; あとで käyttää aina た形:ää ja tarkoittaa "sen jälkeen kun" — vastakkaiset suunnat, vastakkaiset verbimuodot. Muista pari yhdessä: 来るまえに (辞書形) ↔ 来たあとで (た形).

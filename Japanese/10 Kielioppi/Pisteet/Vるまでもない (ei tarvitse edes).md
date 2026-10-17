@@ -33,7 +33,7 @@ tags: [grammar/perusrakenne, jlpt/n2]
 | | このことの真偽は**確かめるまでもない**。 |
 
 ## Nyanssi ja rajoitukset
-- Ero [[Vるべきだ]] tai なくてもいい:stä: までもない korostaa nimenomaan, että asia on jo niin **selvä/itsestäänselvä**, ettei toimenpide toisi mitään lisäarvoa — ei pelkkää vapaaehtoisuutta.
+- Ero [[Vべきだ (pitaisi tehda, velvollisuus)]] tai なくてもいい:stä: までもない korostaa nimenomaan, että asia on jo niin **selvä/itsestäänselvä**, ettei toimenpide toisi mitään lisäarvoa — ei pelkkää vapaaehtoisuutta.
 - 言うまでもない on erittäin yleinen kiinteä ilmaus ("sanomattakin selvää").
 
 ## Esimerkit

@@ -14,8 +14,13 @@ register:
   - kirjoitettu
 similar:
   - "[[普通形のに (vaikka, pettymys)]]"
+  - "[[ところが (mutta yllattaen)]]"
+  - "[[Nは～が、Nは～ (kontrastin は)]]"
+  - "[[S1けど、S2 (mutta, puhekielinen)]]"
 compare:
   - "[[普通形のに (vaikka, pettymys)]]"
+  - "[[だけど (mutta, lauseen alussa)]]"
+  - "[[S1けど、S2 (mutta, puhekielinen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 8]]"
   - "[[Minna no Nihongo I#Luku 14]]"
@@ -97,3 +102,7 @@ Miten S1が、S2 eroaa 普通形のに (vaikka, pettymys) -rakenteesta?
 #flashcards/grammar/n5/vertailu
 
 S1が、S2 (mutta) (similar/compare) ::: 普通形のに (vaikka, pettymys) (similar/compare)
+S1が、S2 (mutta) (compare) ::: だけど (mutta, lauseen alussa) (compare)
+S1が、S2 (mutta) (similar) ::: ところが (mutta yllattaen) (similar)
+S1が、S2 (mutta) (similar) ::: Nは～が、Nは～ (kontrastin は) (similar)
+S1が、S2 (mutta) (similar/compare) ::: S1けど、S2 (mutta, puhekielinen) (similar/compare)

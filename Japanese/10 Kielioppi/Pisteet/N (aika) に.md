@@ -15,6 +15,7 @@ register:
 similar:
   - "[[～から～まで (mistä mihin, alku ja loppu)]]"
 compare:
+  - "[[N（aika）ごろ (noin, aikoihin)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 4]]"
 status: known
@@ -92,3 +93,4 @@ Ratkaisevaa on, sisältääkö aikasana luvun, ei se onko se ajankohta laajassa 
 #flashcards/grammar/n5/vertailu
 
 N（時間）に (N (aika) に) (similar) ::: ～から～まで (mistä mihin, alku ja loppu) (similar)
+N（時間）に (N (aika) に) (compare) ::: N（aika）ごろ (noin, aikoihin) (compare)

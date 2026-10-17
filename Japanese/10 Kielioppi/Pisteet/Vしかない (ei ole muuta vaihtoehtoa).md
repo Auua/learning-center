@@ -8,7 +8,7 @@ attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vざるを得ない (on pakko)]]"]
-compare: ["[[Vざるを得ない (on pakko)]]"]
+compare: ["[[Vざるを得ない (on pakko)]]", "[[Vようがない (ei ole keinoa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
 confidence: 1
@@ -72,3 +72,4 @@ Molemmat ilmaisevat pakon. しかない korostaa, ettei muita vaihtoehtoja ole j
 #flashcards/grammar/n3/vertailu
 
 V辞書形＋しかない (ei ole muuta vaihtoehtoa) (similar/compare) ::: Vざるを得ない (on pakko) (similar/compare)
+V辞書形＋しかない (ei ole muuta vaihtoehtoa) (compare) ::: Vようがない (ei ole keinoa) (compare)

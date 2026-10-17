@@ -8,7 +8,7 @@ attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vのは・Vのが・Vのを (nominalisointi)]]", "[[普通形ということを (raportoitu vaite objektina)]]"]
-compare: ["[[Vのは・Vのが・Vのを (nominalisointi)]]", "[[普通形ということを (raportoitu vaite objektina)]]"]
+compare: ["[[Vのは・Vのが・Vのを (nominalisointi)]]", "[[普通形ということを (raportoitu vaite objektina)]]", "[[～ことは～が (kylla mutta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 1]]"]
 status: new
 confidence: 1
@@ -82,3 +82,4 @@ Konkreettinen/havaittu, oma kokemus → の (絵をかくのは楽しいです);
 
 V辞書形ことは／が／を (yleistys ja arvottaminen) (similar/compare) ::: Vのは・Vのが・Vのを (nominalisointi) (similar/compare)
 V辞書形ことは／が／を (yleistys ja arvottaminen) (similar/compare) ::: 普通形ということを (raportoitu vaite objektina) (similar/compare)
+V辞書形ことは／が／を (yleistys ja arvottaminen) (compare) ::: ～ことは～が (kylla mutta) (compare)

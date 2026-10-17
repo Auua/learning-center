@@ -7,8 +7,8 @@ func: [yleistotuus, moraalinen-neuvo]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[もの・もんだから (perusteleva syy)]]"]
-compare: []
+similar: ["[[もの・もんだから (perusteleva syy)]]", "[[Vたものだ (oli tapana)]]"]
+compare: ["[[Vたものだ (oli tapana)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 18]]"]
 status: new
 confidence: 1
@@ -78,3 +78,4 @@ Miten ものだ (yleinen totuus) eroaa もの/もんだから:sta?
 #flashcards/grammar/n2/vertailu
 
 普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) (similar) ::: もの・もんだから (perusteleva syy) (similar)
+普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) (similar/compare) ::: Vたものだ (oli tapana) (similar/compare)

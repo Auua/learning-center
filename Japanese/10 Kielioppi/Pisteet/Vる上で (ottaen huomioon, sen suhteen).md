@@ -8,7 +8,7 @@ attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [kirjoitettu, puhuttu (muodollinen)]
 similar: ["[[N上 (jonkin kannalta)]]"]
-compare: ["[[N上 (jonkin kannalta)]]"]
+compare: ["[[N上 (jonkin kannalta)]]", "[[Vた上で (sen jalkeen kun, harkiten)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 23]]"]
 status: new
 confidence: 1
@@ -68,3 +68,4 @@ V辞書形＋上で vaatii verbin ja kuvaa prosessia, jonka puitteissa jokin pä
 #flashcards/grammar/n2/vertailu
 
 V辞書形／Nの＋上で (ottaen huomioon, sen suhteen) (similar/compare) ::: N上 (jonkin kannalta) (similar/compare)
+V辞書形／Nの＋上で (ottaen huomioon, sen suhteen) (compare) ::: Vた上で (sen jalkeen kun, harkiten) (compare)

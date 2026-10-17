@@ -17,8 +17,10 @@ similar:
   - "[[普通形に違いない (varmasti on niin)]]"
   - "[[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]"
   - "[[普通形わけではない (ei tarkoita etta aina)]]"
+  - "[[普通形わけがない (ei mitenkaan voi olla)]]"
 compare:
   - "[[普通形はずです (varma odotus)]]"
+  - "[[普通形わけがない (ei mitenkaan voi olla)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu I#Luku 10]]"
 status: new
@@ -118,3 +120,4 @@ Molemmat kääntyvät helposti 'ei tarvitse/ei voi', mutta はずがない koske
 普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar) ::: 普通形に違いない (varmasti on niin) (similar)
 普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar) ::: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) (similar)
 普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar) ::: 普通形わけではない (ei tarkoita etta aina) (similar)
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar/compare) ::: 普通形わけがない (ei mitenkaan voi olla) (similar/compare)

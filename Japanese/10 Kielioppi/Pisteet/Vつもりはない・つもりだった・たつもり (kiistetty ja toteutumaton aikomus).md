@@ -20,6 +20,7 @@ similar:
 compare:
   - "[[Vつもりです (paatetty aikomus)]]"
   - "[[Vertailu — ようと思う vs. つもり vs. 予定]]"
+  - "[[Vるつもりで (aikomuksella)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu I#Luku 6]]"
 status: new
@@ -121,3 +122,4 @@ Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutum
 Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar) ::: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) (similar)
 Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar) ::: Vようとする (yrittaa, olla tekemaisillaan) (similar)
 Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (compare) ::: Vertailu — ようと思う vs. つもり vs. 予定 (compare)
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (compare) ::: Vるつもりで (aikomuksella) (compare)

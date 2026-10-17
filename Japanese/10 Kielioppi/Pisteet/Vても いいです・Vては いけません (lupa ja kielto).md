@@ -14,8 +14,11 @@ register:
   - kirjoitettu
 similar:
   - "[[～てもかまいません (saa tehdä, ei haittaa)]]"
+  - "[[～ちゃいけない・じゃいけない (puhekielinen kielto)]]"
 compare:
   - "[[～てもかまいません (saa tehdä, ei haittaa)]]"
+  - "[[V辞書形な (jyrkka kielto)]]"
+  - "[[～ちゃいけない・じゃいけない (puhekielinen kielto)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 15]]"
   - "[[Minna no Nihongo Chuukyuu I#Luku 9]]"
@@ -89,3 +92,5 @@ Mikä on Vてもいいです:n muodollisempi synonyymi?
 #flashcards/grammar/n5/vertailu
 
 Vてもいいです／Vてはいけません (lupa ja kielto) (similar/compare) ::: ～てもかまいません (saa tehdä, ei haittaa) (similar/compare)
+Vてもいいです／Vてはいけません (lupa ja kielto) (compare) ::: V辞書形な (jyrkka kielto) (compare)
+Vてもいいです／Vてはいけません (lupa ja kielto) (similar/compare) ::: ～ちゃいけない・じゃいけない (puhekielinen kielto) (similar/compare)

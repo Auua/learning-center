@@ -8,7 +8,7 @@ attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[～において (jossakin kontekstissa, muodollinen)]]"]
-compare: ["[[～において (jossakin kontekstissa, muodollinen)]]"]
+compare: ["[[～において (jossakin kontekstissa, muodollinen)]]", "[[～に対して (kohtaan, vastakohtana)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 14]]"]
 status: new
 confidence: 1
@@ -74,3 +74,4 @@ Kumpi: にとって vai において, kun puhutaan jonkun subjektiivisesta näk�
 #flashcards/grammar/n3/vertailu
 
 N＋にとって (jonkun nakokulmasta) (similar/compare) ::: ～において (jossakin kontekstissa, muodollinen) (similar/compare)
+N＋にとって (jonkun nakokulmasta) (compare) ::: ～に対して (kohtaan, vastakohtana) (compare)

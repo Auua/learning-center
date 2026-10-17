@@ -7,7 +7,7 @@ func: [kuulopuhe, paattely]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形そうです (kuulopuhe)]]", "[[普通形ようです (havaintoon perustuva paattely)]]", "[[～らしい (tyypillisyys)]]"]
+similar: ["[[普通形そうです (kuulopuhe)]]", "[[普通形ようです (havaintoon perustuva paattely)]]", "[[～らしい (tyypillisyys)]]", "[[普通形とみえる (nayttaa silta etta)]]"]
 compare: ["[[普通形そうです (kuulopuhe)]]", "[[普通形ようです (havaintoon perustuva paattely)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 11]]"]
 status: new
@@ -91,3 +91,4 @@ Substantiivin perässä ilman 普通形-lausetta らしい tarkoittaa 'tyypillin
 普通形らしい（伝聞・推量） (kuulopuhe, paattely) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
 普通形らしい（伝聞・推量） (kuulopuhe, paattely) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
 普通形らしい（伝聞・推量） (kuulopuhe, paattely) (similar) ::: ～らしい (tyypillisyys) (similar)
+普通形らしい（伝聞・推量） (kuulopuhe, paattely) (similar) ::: 普通形とみえる (nayttaa silta etta) (similar)

@@ -21,10 +21,12 @@ similar:
   - "[[ことにする・ことにしている (oma paatos)]]"
   - "[[ことになる・ことになっている (ulkopuolinen paatos)]]"
   - "[[ます-vartalo substantiivina (連用形名詞)]]"
+  - "[[V辞書形・ないこと (ohje, saanto)]]"
 compare:
   - "[[Vのは・Vのが・Vのを (nominalisointi)]]"
   - "[[Vertailu — の vs. こと (nominalisointi)]]"
   - "[[ます-vartalo substantiivina (連用形名詞)]]"
+  - "[[Adjさ (adjektiivista substantiivi)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 18]]"
 status: known
@@ -120,3 +122,8 @@ V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: こと�
 V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: ことになる・ことになっている (ulkopuolinen paatos) (similar)
 V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar/compare) ::: ます-vartalo substantiivina (連用形名詞) (similar/compare)
 V辞書形＋こと (nominalisointi, abstrakti tekeminen) (compare) ::: Vertailu — の vs. こと (nominalisointi) (compare)
+
+#flashcards/grammar/n3/vertailu
+
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: V辞書形・ないこと (ohje, saanto) (similar)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) (compare) ::: Adjさ (adjektiivista substantiivi) (compare)

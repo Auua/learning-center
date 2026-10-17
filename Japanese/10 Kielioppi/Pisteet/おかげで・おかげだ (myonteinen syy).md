@@ -4,7 +4,7 @@ ja: "普通形（な・の）＋おかげで／おかげだ"
 reading: okage de / okage da
 jlpt: N3
 func: [syy, kiitollisuus]
-attaches: ["[[Yleiset kieliopit#普通形]]"]
+attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[せいで・せいだ (kielteinen syy)]]", "[[S1から、S2 (syy)]]"]

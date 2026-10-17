@@ -7,8 +7,8 @@ func: [rinnakkainen-muutos]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vば〜ほど (mita enemman, sita)]]"]
-compare: ["[[Vば〜ほど (mita enemman, sita)]]"]
+similar: ["[[Vば〜ほど (mita enemman, sita)]]", "[[～にしたがって (mukaisesti, sita mukaa)]]"]
+compare: ["[[Vば〜ほど (mita enemman, sita)]]", "[[～一方だ (yha enemman)]]", "[[～にしたがって (mukaisesti, sita mukaa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 23]]"]
 status: new
 confidence: 1
@@ -73,3 +73,5 @@ Miten Vにつれて eroaa muodosta Vば〜ほど?
 #flashcards/grammar/n2/vertailu
 
 V辞書形／Nの＋につれて (sita mukaa kun) (similar/compare) ::: Vば〜ほど (mita enemman, sita) (similar/compare)
+V辞書形／Nの＋につれて (sita mukaa kun) (compare) ::: ～一方だ (yha enemman) (compare)
+V辞書形／Nの＋につれて (sita mukaa kun) (similar/compare) ::: ～にしたがって (mukaisesti, sita mukaa) (similar/compare)

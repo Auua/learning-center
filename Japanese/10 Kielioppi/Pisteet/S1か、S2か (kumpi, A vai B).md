@@ -13,7 +13,9 @@ register:
   - kirjoitettu
 similar:
   - "[[AはBです (A on B, peruslause)]]"
+  - "[[AそれともB (vai)]]"
 compare:
+  - "[[AそれともB (vai)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 2]]"
 status: known
@@ -78,3 +80,4 @@ Peruskysymys (yksi väite + か) odottaa はい/いいえ-vastausta; S1か、S2�
 #flashcards/grammar/n5/vertailu
 
 S1か、S2か (kumpi, A vai B) (similar) ::: AはBです (A on B, peruslause) (similar)
+S1か、S2か (kumpi, A vai B) (similar/compare) ::: AそれともB (vai) (similar/compare)

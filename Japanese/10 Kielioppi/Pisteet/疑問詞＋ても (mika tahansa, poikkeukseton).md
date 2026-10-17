@@ -7,7 +7,7 @@ func: [poikkeuksettomuus, yleistys]
 attaches: ["[[Vても (vaikka)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vても (vaikka)]]", "[[何でも]]・[[どこでも]]・[[だれでも]]・[[いつでも]]"]
+similar: ["[[Vても (vaikka)]]", "[[何でも]]・[[どこでも]]・[[だれでも]]・[[いつでも]]", "[[どんなに～ても (kuinka paljon tahansa)]]", "[[いくら～ても (vaikka kuinka paljon)]]"]
 compare: ["[[何でも]]・[[どこでも]]・[[だれでも]]・[[いつでも]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 1]]"]
 status: new
@@ -88,3 +88,5 @@ Miten 疑問詞＋ても eroaa 何でも/どこでも/だれでも/いつでも-
 いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: どこでも (similar/compare)
 いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: だれでも (similar/compare)
 いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: いつでも (similar/compare)
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar) ::: どんなに～ても (kuinka paljon tahansa) (similar)
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar) ::: いくら～ても (vaikka kuinka paljon) (similar)

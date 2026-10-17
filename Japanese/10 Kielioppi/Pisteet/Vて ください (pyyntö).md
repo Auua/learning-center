@@ -15,6 +15,9 @@ register:
 similar:
   - "[[Vませんか・Vましょう (etkö tulisi, tehdäänkö)]]"
 compare:
+  - "[[Vなさい (kasky, ohje)]]"
+  - "[[お～ください (kunnioittava pyynto)]]"
+  - "[[Nをください (pyynto saada jotain)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 14]]"
 status: known
@@ -72,3 +75,6 @@ Esimerkiksi esimiehelle tai arvostetulle henkilölle; sävy on suora vaikka koht
 #flashcards/grammar/n5/vertailu
 
 Vてください (pyyntö) (similar) ::: Vませんか・Vましょう (etkö tulisi, tehdäänkö) (similar)
+Vてください (pyyntö) (compare) ::: Vなさい (kasky, ohje) (compare)
+Vてください (pyyntö) (compare) ::: お～ください (kunnioittava pyynto) (compare)
+Vてください (pyyntö) (compare) ::: Nをください (pyynto saada jotain) (compare)

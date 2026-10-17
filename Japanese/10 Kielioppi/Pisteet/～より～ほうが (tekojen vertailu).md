@@ -18,6 +18,7 @@ similar:
   - "[[～に比べて (verrattuna)]]"
 compare:
   - "[[N1はN2より (vertailu)]]"
+  - "[[AよりむしろB (pikemminkin)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu I#Luku 11]]"
 status: new
@@ -107,3 +108,4 @@ Sama rakenne substantiiveilla (この車はあの車より大きい); teko-verta
 V／A より V／A ほうが… (tekojen vertailu) (similar/compare) ::: N1はN2より (vertailu) (similar/compare)
 V／A より V／A ほうが… (tekojen vertailu) (similar) ::: Vたほうがいいです (kannattaisi tehda) (similar)
 V／A より V／A ほうが… (tekojen vertailu) (similar) ::: ～に比べて (verrattuna) (similar)
+V／A より V／A ほうが… (tekojen vertailu) (compare) ::: AよりむしろB (pikemminkin) (compare)

@@ -8,7 +8,7 @@ attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vなければ なりません (velvollisuus)]]"]
-compare: ["[[Vなければ なりません (velvollisuus)]]"]
+compare: ["[[Vなければ なりません (velvollisuus)]]", "[[V辞書形・ないこと (ohje, saanto)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 22]]"]
 status: new
 confidence: 1
@@ -79,3 +79,4 @@ Miten Vべきだ eroaa muodosta Vなければなりません?
 #flashcards/grammar/n3/vertailu
 
 V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)
+V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) (compare) ::: V辞書形・ないこと (ohje, saanto) (compare)

@@ -8,7 +8,7 @@ attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: puhekielinen
 register: [puhuttu]
 similar: ["[[N1やN2 [など] (ja muun muassa, epätäydellinen lista)]]", "[[普通形とか (puhekielinen kuulopuhe, epavarma)]]"]
-compare: ["[[N1やN2 [など] (ja muun muassa, epätäydellinen lista)]]", "[[普通形とか (puhekielinen kuulopuhe, epavarma)]]"]
+compare: ["[[N1やN2 [など] (ja muun muassa, epätäydellinen lista)]]", "[[普通形とか (puhekielinen kuulopuhe, epavarma)]]", "[[～か何か (tai jotain)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 6]]"]
 status: new
 confidence: 1
@@ -78,3 +78,4 @@ Miten とか～とか eroaa や…など-luettelosta?
 #flashcards/grammar/n3/vertailu
 
 N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) (similar/compare) ::: 普通形とか (puhekielinen kuulopuhe, epavarma) (similar/compare)
+N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) (compare) ::: ～か何か (tai jotain) (compare)

@@ -15,6 +15,7 @@ register:
   - kirjoitettu
 similar:
   - "[[Nが好きです・上手です (mieltymys, kyky, omistus)]]"
+  - "[[Nが (subjektipartikkeli, uusi tieto)]]"
 compare:
 sources:
   - "[[Minna no Nihongo I#Luku 16]]"
@@ -87,3 +88,4 @@ Tässä on kaksi partikkelia peräkkäin (は koko aiheelle, が osalle); Nが�
 #flashcards/grammar/n5/vertailu
 
 N1はN2がadjectiveです (aihe-ominaisuus) (similar) ::: Nが好きです・上手です (mieltymys, kyky, omistus) (similar)
+N1はN2がadjectiveです (aihe-ominaisuus) (similar) ::: Nが (subjektipartikkeli, uusi tieto) (similar)

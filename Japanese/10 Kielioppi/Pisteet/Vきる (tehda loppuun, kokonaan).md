@@ -7,8 +7,8 @@ func: [taydellisyys, aariarvo]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[Vます-vartalo＋上げる (saada valmiiksi)]]", "[[Vます-vartalo＋切れない (ei pysty kokonaan)]]"]
+compare: ["[[Vます-vartalo＋上げる (saada valmiiksi)]]", "[[Vます-vartalo＋切れない (ei pysty kokonaan)]]", "[[Vます-vartalo＋通す (loppuun asti)]]", "[[Vます-vartalo＋かける・かけ (keskeneraista)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 24]]"]
 status: new
 confidence: 1
@@ -60,3 +60,10 @@ Korostaa äärimmäistä täydellisyyttä: ei 'melko' vaan 'täysin, kokonaan, l
 Mikä on っきり ja millainen sävy sillä on (Vきる)?
 ?
 Puhekielinen supistuma きり:stä, usein negatiivisella sävyllä: まかせっきり = jättää kokonaan jonkun muun hoidettavaksi, moittiva.
+
+#flashcards/grammar/n2/vertailu
+
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (similar/compare) ::: Vます-vartalo＋上げる (saada valmiiksi) (similar/compare)
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (similar/compare) ::: Vます-vartalo＋切れない (ei pysty kokonaan) (similar/compare)
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (compare) ::: Vます-vartalo＋通す (loppuun asti) (compare)
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (compare) ::: Vます-vartalo＋かける・かけ (keskeneraista) (compare)

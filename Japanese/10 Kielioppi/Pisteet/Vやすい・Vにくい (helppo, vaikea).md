@@ -7,8 +7,8 @@ func: [helppous, vaikeus, alttius]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[Vづらい (vaikea, epamukava)]]"]
+compare: ["[[Vます-vartalo＋がたい (vaikea tehda, henkisesti)]]", "[[Vづらい (vaikea, epamukava)]]"]
 sources: ["[[Minna no Nihongo II#Luku 44]]"]
 status: new
 confidence: 1
@@ -74,3 +74,8 @@ Mitkä kaksi merkitystä Vやすい・Vにくい:llä on ja miten ne erotetaan?
 Miten Vやすい eroaa potentiaalimuodosta?
 ?
 やすい/にくい kertoo helppoudesta tai taipumuksesta, ei kyvystä tai mahdollisuudesta: 使いやすい ei tarkoita 'voin käyttää' vaan 'on helppo käyttää'.
+
+#flashcards/grammar/n4/vertailu
+
+V(ます-vartalo)やすい／にくい (helppo, vaikea) (compare) ::: Vます-vartalo＋がたい (vaikea tehda, henkisesti) (compare)
+V(ます-vartalo)やすい／にくい (helppo, vaikea) (similar/compare) ::: Vづらい (vaikea, epamukava) (similar/compare)

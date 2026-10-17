@@ -7,8 +7,8 @@ func: [myonnytys, hypoteesi]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[たとえ～ても (vaikka kuinka)]]"]
-compare: ["[[たとえ～ても (vaikka kuinka)]]"]
+similar: ["[[たとえ～ても (vaikka kuinka)]]", "[[～にしても (vaikka olisikin)]]", "[[～とすれば・としたら・とすると (oletetaan etta)]]"]
+compare: ["[[たとえ～ても (vaikka kuinka)]]", "[[～にしても (vaikka olisikin)]]", "[[～とすれば・としたら・とすると (oletetaan etta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 22]]"]
 status: new
 confidence: 1
@@ -72,3 +72,5 @@ Miten 普通形＋としても eroaa たとえ～ても:stä?
 #flashcards/grammar/n2/vertailu
 
 普通形＋としても (vaikka oletettaisiinkin) (similar/compare) ::: たとえ～ても (vaikka kuinka) (similar/compare)
+普通形＋としても (vaikka oletettaisiinkin) (similar/compare) ::: ～にしても (vaikka olisikin) (similar/compare)
+普通形＋としても (vaikka oletettaisiinkin) (similar/compare) ::: ～とすれば・としたら・とすると (oletetaan etta) (similar/compare)

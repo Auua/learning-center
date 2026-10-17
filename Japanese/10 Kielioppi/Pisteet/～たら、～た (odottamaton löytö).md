@@ -18,6 +18,7 @@ similar:
   - "[[～と (aina kun, väistämätön seuraus)]]"
 compare:
   - "[[Vたところ、 (kavi ilmi etta)]]"
+  - "[[ところが (mutta yllattaen)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu I#Luku 2]]"
 status: learning
@@ -104,3 +105,4 @@ Löytö kuvaa todella tapahtunutta havaintoa; kontrafaktuaalinen mennyt jälkila
 …たら、…た (odottamaton löytö) (similar) ::: ～たら (jos, kun) (similar)
 …たら、…た (odottamaton löytö) (similar/compare) ::: Vたところ、 (kavi ilmi etta) (similar/compare)
 …たら、…た (odottamaton löytö) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
+…たら、…た (odottamaton löytö) (compare) ::: ところが (mutta yllattaen) (compare)

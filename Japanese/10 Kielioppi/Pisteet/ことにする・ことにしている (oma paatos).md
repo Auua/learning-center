@@ -8,7 +8,7 @@ attaches: ["[[Sanakirjamuoto]]", "[[ない-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[ことになる・ことになっている (ulkopuolinen paatos)]]"]
-compare: ["[[ことになる・ことになっている (ulkopuolinen paatos)]]"]
+compare: ["[[ことになる・ことになっている (ulkopuolinen paatos)]]", "[[Nにします (valinta, paatos)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 3]]"]
 status: new
 confidence: 1
@@ -79,3 +79,4 @@ Miten ことにする eroaa rakenteesta ことになる?
 #flashcards/grammar/n3/vertailu
 
 V辞書形／ないことにする・ことにしている (oma paatos) (similar/compare) ::: ことになる・ことになっている (ulkopuolinen paatos) (similar/compare)
+V辞書形／ないことにする・ことにしている (oma paatos) (compare) ::: Nにします (valinta, paatos) (compare)

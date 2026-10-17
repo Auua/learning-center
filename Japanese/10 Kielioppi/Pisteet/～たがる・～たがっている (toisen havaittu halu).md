@@ -7,8 +7,8 @@ func: [toisen-halu, havainto]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[Adj-vartalo＋がり (taipumus, luonteenpiirre)]]"]
+compare: ["[[Adj-vartalo＋がり (taipumus, luonteenpiirre)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 4]]"]
 status: new
 confidence: 1
@@ -82,3 +82,7 @@ Tunneadjektiiveilla: 恥ずかしがる (näyttää nolostuneelta), 残念がる
 Kumpi: 恥ずかしがっています vai 恥ずかしいです?
 ?
 Persoona ratkaisee: ulkoisesti havaittu toisen tila → がっています; oma suora tunnekokemus → 恥ずかしいです.
+
+#flashcards/grammar/n3/vertailu
+
+V(たい-vartalo)がる・がっている (toisen havaittu halu) (similar/compare) ::: Adj-vartalo＋がり (taipumus, luonteenpiirre) (similar/compare)

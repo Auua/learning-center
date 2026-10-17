@@ -8,7 +8,7 @@ attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
 formality: neutral
 register: [puhuttu]
 similar: ["[[～たら (jos, kun)]]", "[[～ば (jos, ehto)]]", "[[～と (aina kun, väistämätön seuraus)]]"]
-compare: "[[Vertailu — Ehtolauseet と・ば・たら・なら]]"
+compare: ["[[Vertailu — Ehtolauseet と・ば・たら・なら]]", "[[～とすれば・としたら・とすると (oletetaan etta)]]"]
 sources: ["[[Genki II]]", "[[Bunpro]]", "[[Tae Kim — Guide to Japanese]]", "[[Minna no Nihongo II#Luku 35]]", "[[Minna no Nihongo Chuukyuu I#Luku 7]]"]
 status: learning
 confidence: 3
@@ -41,7 +41,7 @@ tags: [grammar/ehto, jlpt/n4]
 ![[Lausepankki — Ehtolauseet#^nara2]]
 ![[Lausepankki — Ehdot ja neuvot#^ehto5]]
 ![[Lausepankki — Ehdot ja neuvot#^ehto6]]
-![[Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel10]]
+![[Lausepankki — Kohteliaat kieltäytymiset ja arvailut#^kiel10]]
 
 ## Lisäesimerkki (Chuukyuu I Luku 7)
 着物を買いたいと思ってるんですが。……着物を**買うなら**、フリーマーケットがいいですよ。安くていいものがありますから。（reagoi juuri kuultuun aikomukseen ja antaa neuvon）
@@ -92,3 +92,4 @@ Miten ～なら eroaa ～たら:sta, kun lause on 日本に行く…、ガイド
 ～なら (jos kerran) (similar) ::: ～ば (jos, ehto) (similar)
 ～なら (jos kerran) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
 ～なら (jos kerran) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
+～なら (jos kerran) (compare) ::: ～とすれば・としたら・とすると (oletetaan etta) (compare)

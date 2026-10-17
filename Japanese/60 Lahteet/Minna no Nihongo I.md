@@ -24,7 +24,7 @@ tags: [source, textbook]
 ## Luvut
 
 ### Luku 1
-AはBです (A on B) · 〜じゃありません (A ei ole B) · 〜か (kysymyspartikkeli) · の (kuuluvuus: "X:n Y", esim. 会社の人)
+AはBです (A on B) · 〜じゃありません (A ei ole B) · 〜か (kysymyspartikkeli) · の (kuuluvuus: "X:n Y", esim. 会社の人) · [[～ちゃん・～くん]] (tuttavalliset nimen liitteet)
 ### Luku 2
 これ・それ・あれ (tämä / tuo / tuo tuolla, esineet) · この・その・あの (+ substantiivi) · そうです (niin on) · 〜の (omistus: "minun ~")
 ### Luku 3

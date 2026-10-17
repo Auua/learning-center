@@ -8,7 +8,7 @@ attaches: ["[[～ている (parhaillaan, tilan tulos)]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vてから、V2 (jälkeen)]]"]
-compare: []
+compare: ["[[N中（ちゅう・じゅう） (aikana, koko)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 8]]"]
 status: new
 confidence: 1
@@ -83,3 +83,4 @@ Kumpi: 出かけているあいだ vai 出かけているあいだに, kun lintu
 #flashcards/grammar/n3/vertailu
 
 V(ている)／Nのあいだ、…・あいだに、… (kesto vs. hetki) (similar) ::: Vてから、V2 (jälkeen) (similar)
+V(ている)／Nのあいだ、…・あいだに、… (kesto vs. hetki) (compare) ::: N中（ちゅう・じゅう） (aikana, koko) (compare)
