@@ -1,6 +1,6 @@
 {
   "counts": {
-    "grammar": 797,
+    "grammar": 800,
     "kanji": 1109,
     "verb": 2328,
     "vocab": 16555
@@ -12,9 +12,9 @@
     "Japanese/40 Kanji/Merkit/畑.md: missing onyomi",
     "Japanese/40 Kanji/Merkit/芝.md: missing onyomi"
   ],
-  "generatedAt": "2026-10-17T12:15:21Z",
+  "generatedAt": "2026-10-17T23:15:01Z",
   "schemaVersion": 1,
-  "sha": "ebc8a428035b4fe1808996fd686c5d8e5dd17e9f",
+  "sha": "24a10be9b29bee0c2fde87590fe4b0dd72c09486",
   "shards": {
     "grammar": [
       "grammar.000.jsonl",
