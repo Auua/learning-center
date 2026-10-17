@@ -56,6 +56,7 @@ Linkitä muistiinpanoista otsikkoon: `[[JLPT Sensei#N3]]`
 - [[普通形じゃないか (eiko olekin, huomautus)]]
 - [[普通形と聞きました (kuulin etta)]]
 - [[普通形と言われている (sanotaan etta, yleinen kasitys)]]
+- [[普通形ように (kuten, niin kuin)]]
 - [[自動詞と他動詞 (transitiivisuusparit)]]
 - [[～おきに (valein, joka toinen)]]
 - [[～と言ってもいい (voisi sanoa)]]

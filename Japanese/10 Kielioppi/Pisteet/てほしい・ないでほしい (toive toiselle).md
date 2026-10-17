@@ -8,7 +8,7 @@ attaches: ["[[て-muoto]]", "[[ない-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: []
-compare: []
+compare: ["[[Vますように (toive, kunpa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 3]]"]
 status: new
 confidence: 1
@@ -78,3 +78,7 @@ Kyllä, esim. 景気がよくなってほしい (toivon että talous paranee).
 Miksi ×わたしは日本へ行ってほしいです on virhe, kun haluan itse mennä Japaniin?
 ?
 てほしい vaatii, että tekijä on joku muu kuin puhuja (tai ulkoinen asia kuten sää/talous); oma halu ilmaistaan 行きたいです.
+
+#flashcards/grammar/n3/vertailu
+
+Vて-formほしい・Vないでほしい (toive toiselle) (compare) ::: Vますように (toive, kunpa) (compare)

@@ -7,7 +7,7 @@ func: [viittaus, yleistys]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [kirjoitettu, puhuttu]
-similar: ["[[普通形そうです (kuulopuhe)]]", "[[普通形ようです (havaintoon perustuva paattely)]]"]
+similar: ["[[普通形そうです (kuulopuhe)]]", "[[普通形ようです (havaintoon perustuva paattely)]]", "[[普通形ように (kuten, niin kuin)]]"]
 compare: ["[[普通形そうです (kuulopuhe)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
@@ -74,3 +74,4 @@ Niissä そう/よう on predikaattiin liittyvä pääte (kuulopuhe/päättely);
 
 （普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
 （普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) (similar) ::: 普通形ようです (havaintoon perustuva paattely) (similar)
+（普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) (similar) ::: 普通形ように (kuten, niin kuin) (similar)

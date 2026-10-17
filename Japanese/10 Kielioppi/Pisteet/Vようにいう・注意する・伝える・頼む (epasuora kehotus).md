@@ -36,6 +36,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 - Eroaa [[普通形と言います (lainaus)]]:sta: と言う lainaa toteamuksen sellaisenaan (ミラーさんは出張すると言いました); ように言う raportoi **käskyn/pyynnön** epäsuorasti — alkuperäinen käskymuoto (~しなさい, ~してください) muuttuu ように-rakenteeksi.
 - Passiivimuoto (言われました, 注意されました) on yleinen kun puhuja on itse käskyn/varoituksen kohde: 両親にうそをつかないように注意されました.
 - Neljä verbiä eroavat sävyltään: 言う (neutraali kertoa), 注意する (varoittaa/huomauttaa), 伝える (välittää viesti kolmannelle), 頼む (pyytää).
+- Kaikki ように-rakenteet rinnakkain: [[Vertailu — ように-rakenteet]].
 
 ## Esimerkit
 ![[Lausepankki — Määritelmät ja epäsuorat kehotukset#^maar5]]

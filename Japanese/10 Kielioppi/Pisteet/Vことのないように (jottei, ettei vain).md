@@ -40,6 +40,7 @@ tags: [grammar/perusrakenne, jlpt/n1]
 
 ## Sekaannusvaara
 - 忘れないように (jotta en unohtaisi — arkinen) vs. 忘れることのないように (muodollinen).
+- Kaikki ように-rakenteet rinnakkain: [[Vertailu — ように-rakenteet]].
 
 Vertailu: [[Vように (jotta, niin etta)]]
 

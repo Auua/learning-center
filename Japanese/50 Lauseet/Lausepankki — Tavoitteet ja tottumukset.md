@@ -1,7 +1,7 @@
 ---
 type: sentences
 topic: Tavoitteet ja tottumukset
-grammar: ["[[Vように (jotta, niin etta)]]", "[[Vようになります (kyvyn tai tilan muutos)]]", "[[Vようにしています (tavakseen pyrkiminen)]]"]
+grammar: ["[[Vように (jotta, niin etta)]]", "[[Vようになります (kyvyn tai tilan muutos)]]", "[[Vようにしています (tavakseen pyrkiminen)]]", "[[Vようにする・ようにしてください (huolehtia etta)]]"]
 source: "[[Minna no Nihongo II#Luku 36]]"
 created: 2026-08-29
 tags: [sentences, grammar/perusrakenne, jlpt/n4]
@@ -70,9 +70,65 @@ tags: [sentences, grammar/perusrakenne, jlpt/n4]
 
 **JA** コンサートは6時に始まります。絶対に遅れないようにしてください。遅れたら、入れませんから。
 **FI** Konsertti alkaa kuudelta. Huolehtikaa ettette missään tapauksessa myöhästy. Jos myöhästytte, ette pääse sisään.
-**Kielioppi** [[Vように (jotta, niin etta)]] · ように + してください, kohtelias pyyntö.
+**Kielioppi** [[Vようにする・ようにしてください (huolehtia etta)]] · ない形 + ようにしてください, kohtelias kehotus.
 **Ääni** ![[tts_61c12c6d7c82.m4a]]
 ^tavoite8
+
+---
+
+**JA** 後ろの席の人にもよく聞こえるように、大きな声で話してください。
+**FI** Puhukaa kovalla äänellä, jotta takarivissä istuvatkin kuulevat hyvin.
+**Kielioppi** [[Vように (jotta, niin etta)]] · ei-tahdonalainen 聞こえる (perusmuoto) + ように
+**Ääni** ![[tts_b395869eb7d5.m4a]]
+^tavoite9
+
+---
+
+**JA** 食べすぎないように、小さいお皿を使っています。
+**FI** Käytän pientä lautasta, jotten söisi liikaa.
+**Kielioppi** [[Vように (jotta, niin etta)]] · tahdonalainen verbi kieltomuodossa + ように
+**Ääni** ![[tts_9f956cbf86d6.m4a]]
+^tavoite10
+
+---
+
+**JA** 学生がメモを取れるように、先生はゆっくり話した。
+**FI** Opettaja puhui hitaasti, jotta opiskelijat ehtisivät tehdä muistiinpanoja.
+**Kielioppi** [[Vように (jotta, niin etta)]] · eri subjekti sivulauseessa
+**Ääni** ![[tts_7c6c070adb1e.m4a]]
+^tavoite11
+
+---
+
+**JA** 日本でも、ハロウィンを楽しむようになった。
+**FI** Japanissakin on alettu viettää halloweenia.
+**Kielioppi** [[Vようになります (kyvyn tai tilan muutos)]] · perusmuoto = tavan muutos
+**Ääni** ![[tts_ca5c1050f327.m4a]]
+^tavoite12
+
+---
+
+**JA** 毎朝プールで泳ぐようになってから、体の調子がいい。
+**FI** Siitä lähtien kun aloin uida joka aamu uimahallissa, olen voinut hyvin.
+**Kielioppi** [[Vようになります (kyvyn tai tilan muutos)]] · 泳ぐようになる = aloin uida (tapa)
+**Ääni** ![[tts_223a190c522b.m4a]]
+^tavoite13
+
+---
+
+**JA** 眼鏡をかけたら、黒板の字がよく見えるようになった。
+**FI** Kun laitoin silmälasit, aloin nähdä taululle kirjoitetun hyvin.
+**Kielioppi** [[Vようになります (kyvyn tai tilan muutos)]] · ei-tahdonalainen 見える (perusmuoto)
+**Ääni** ![[tts_90ff3e806df4.m4a]]
+^tavoite14
+
+---
+
+**JA** スマホを買ってから、あまり本を読まなくなった。
+**FI** Älypuhelimen ostamisen jälkeen olen lakannut lukemasta kirjoja juuri lainkaan.
+**Kielioppi** [[Vようになります (kyvyn tai tilan muutos)]] · kielteinen muutos: なくなる
+**Ääni** ![[tts_7bc6f405a6da.m4a]]
+^tavoite15
 
 ## Kortit
 <!-- lausekortit:alku -->
@@ -121,8 +177,50 @@ Pyrin liikkumaan joka päivä ja syömään mitä tahansa.
 [[Vようにしています (tavakseen pyrkiminen)]]
 
 コンサートは6時に始まります。絶対に遅れないようにしてください。遅れたら、入れませんから。
-[[Vように (jotta, niin etta)]]
+[[Vようにする・ようにしてください (huolehtia etta)]]
 ??
 Konsertti alkaa kuudelta. Huolehtikaa ettette missään tapauksessa myöhästy. Jos myöhästytte, ette pääse sisään.
+[[Vようにする・ようにしてください (huolehtia etta)]]
+
+後ろの席の人にもよく聞こえるように、大きな声で話してください。
 [[Vように (jotta, niin etta)]]
+??
+Puhukaa kovalla äänellä, jotta takarivissä istuvatkin kuulevat hyvin.
+[[Vように (jotta, niin etta)]]
+
+食べすぎないように、小さいお皿を使っています。
+[[Vように (jotta, niin etta)]]
+??
+Käytän pientä lautasta, jotten söisi liikaa.
+[[Vように (jotta, niin etta)]]
+
+学生がメモを取れるように、先生はゆっくり話した。
+[[Vように (jotta, niin etta)]]
+??
+Opettaja puhui hitaasti, jotta opiskelijat ehtisivät tehdä muistiinpanoja.
+[[Vように (jotta, niin etta)]]
+
+日本でも、ハロウィンを楽しむようになった。
+[[Vようになります (kyvyn tai tilan muutos)]]
+??
+Japanissakin on alettu viettää halloweenia.
+[[Vようになります (kyvyn tai tilan muutos)]]
+
+毎朝プールで泳ぐようになってから、体の調子がいい。
+[[Vようになります (kyvyn tai tilan muutos)]]
+??
+Siitä lähtien kun aloin uida joka aamu uimahallissa, olen voinut hyvin.
+[[Vようになります (kyvyn tai tilan muutos)]]
+
+眼鏡をかけたら、黒板の字がよく見えるようになった。
+[[Vようになります (kyvyn tai tilan muutos)]]
+??
+Kun laitoin silmälasit, aloin nähdä taululle kirjoitetun hyvin.
+[[Vようになります (kyvyn tai tilan muutos)]]
+
+スマホを買ってから、あまり本を読まなくなった。
+[[Vようになります (kyvyn tai tilan muutos)]]
+??
+Älypuhelimen ostamisen jälkeen olen lakannut lukemasta kirjoja juuri lainkaan.
+[[Vようになります (kyvyn tai tilan muutos)]]
 <!-- lausekortit:loppu -->

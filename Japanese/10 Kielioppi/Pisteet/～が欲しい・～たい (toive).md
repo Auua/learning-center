@@ -14,6 +14,7 @@ register:
   - kirjoitettu
 similar: []
 compare:
+  - "[[Vますように (toive, kunpa)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 13]]"
 status: known
@@ -81,3 +82,7 @@ Kumpikin käy; が on hieman yleisempi kun halu korostuu.
 Miksi ～たいですか ei sovi tarjoukseksi (コーヒーを飲みたいですか)?
 ?
 Se kysyy suoraan halusta ja kuulostaa töksähtävältä; käytä ［お］いかがですか tai 〜ませんか.
+
+#flashcards/grammar/n5/vertailu
+
+Nが欲しいです／Vます-vartalo+たいです (toive) (compare) ::: Vますように (toive, kunpa) (compare)

@@ -8,7 +8,7 @@ attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[普通形ようです (havaintoon perustuva paattely)]]", "[[～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)]]", "[[まるで～ようだ (aivan kuin)]]", "[[～ごとき・ごとく (kaltainen, kuten)]]", "[[N並み (tasoinen, kuin)]]", "[[～ふうに (tavalla, niin)]]"]
-compare: ["[[普通形ようです (havaintoon perustuva paattely)]]", "[[～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)]]", "[[まるで～ようだ (aivan kuin)]]", "[[～ごとき・ごとく (kaltainen, kuten)]]", "[[N並み (tasoinen, kuin)]]"]
+compare: ["[[普通形ようです (havaintoon perustuva paattely)]]", "[[～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)]]", "[[まるで～ようだ (aivan kuin)]]", "[[～ごとき・ごとく (kaltainen, kuten)]]", "[[N並み (tasoinen, kuin)]]", "[[普通形ように (kuten, niin kuin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 1]]"]
 status: new
 confidence: 1
@@ -37,6 +37,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 - Usein yhdessä まるで:n kanssa vahvistamassa vertausta: まるで海のようです ("on ihan kuin meri").
 - のような+N ja のように+V/adj eroavat toisistaan syntaktisesti: のような määrittää seuraavaa substantiivia, のように määrittää verbiä/adjektiivia.
 - ⚠ Ei sekoiteta [[普通形ようです (havaintoon perustuva paattely)]]:iin — päättely-ようです kertoo mitä puhuja **luulee olevan totta** havainnon perusteella (隣にだれかいるようです); vertailu-のようだ kertoo mihin jokin **muistuttaa/vertautuu** (ホテルのようです, "on kuin hotelli" — puhuja tietää ettei se ole hotelli).
+- Kaikki ように-rakenteet rinnakkain: [[Vertailu — ように-rakenteet]].
 
 ## Esimerkit
 ![[Lausepankki — Vertailu ja nimeäminen#^vert1]]
@@ -92,3 +93,4 @@ N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (s
 N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: ～ごとき・ごとく (kaltainen, kuten) (similar/compare)
 N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: N並み (tasoinen, kuin) (similar/compare)
 N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar) ::: ～ふうに (tavalla, niin) (similar)
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (compare) ::: 普通形ように (kuten, niin kuin) (compare)

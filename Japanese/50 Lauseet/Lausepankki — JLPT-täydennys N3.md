@@ -1,7 +1,7 @@
 ---
 type: sentences
 topic: JLPT-täydennys N3
-grammar: ["[[Vます-vartalo＋上げる (saada valmiiksi)]]", "[[Vます-vartalo＋切れない (ei pysty kokonaan)]]", "[[Vます-vartalo＋込む (sisaan, perusteellisesti)]]", "[[Vます-vartalo＋直す (tehda uudelleen)]]", "[[Vます-vartalo＋通す (loppuun asti)]]", "[[Vばいい (riittaa kun, pitaisi)]]", "[[Vばよかった (olisi pitanyt)]]", "[[～ば～のに (kunpa, harmittelu)]]", "[[～ばかりで (vain, ei muuta)]]", "[[別に～ない (ei erityisesti)]]", "[[期間＋ぶりに (pitkasta aikaa)]]", "[[N中（ちゅう・じゅう） (aikana, koko)]]", "[[だけど (mutta, lauseen alussa)]]", "[[Nだらけ (taynna, kauttaaltaan)]]", "[[どんなに～ても (kuinka paljon tahansa)]]", "[[いくら～ても (vaikka kuinka paljon)]]", "[[～ふりをする (teeskennella)]]", "[[～がち (taipumus, helposti)]]", "[[Vます-vartalo＋がたい (vaikea tehda, henkisesti)]]", "[[～気味 (hieman, taipumus)]]", "[[～ごとに (joka, kunkin)]]", "[[～一方だ (yha enemman)]]", "[[～か何か (tai jotain)]]", "[[Vます-vartalo＋かける・かけ (keskeneraista)]]", "[[～代わりに (sen sijaan, vastineeksi)]]", "[[～きり (vain, sen jalkeen ei)]]", "[[V辞書形・ないこと (ohje, saanto)]]", "[[Vことはない (ei tarvitse)]]", "[[～ことは～が (kylla mutta)]]", "[[～くせに (vaikka, moittiva)]]", "[[まるで～ようだ (aivan kuin)]]", "[[めったに～ない (harvoin)]]", "[[～も～ば～も (seka etta)]]", "[[N向け (jollekin suunnattu)]]", "[[N向き (jollekin sopiva)]]", "[[AよりむしろB (pikemminkin)]]", "[[～ながらも (vaikka, kirjallinen myonnytys)]]", "[[Vないことはない (ei ole mahdotonta)]]", "[[Vないと (taytyy, lyhennetty)]]", "[[なぜなら～からだ (koska, perustelu)]]", "[[～に反して (vastoin)]]", "[[～にかわって・にかわり (jonkun puolesta, sijaan)]]", "[[Nに慣れる (tottua)]]", "[[～にしたがって (mukaisesti, sita mukaa)]]", "[[～にしても (vaikka olisikin)]]", "[[～に対して (kohtaan, vastakohtana)]]", "[[～について (aiheesta)]]", "[[Vるには (jotta, siihen etta)]]", "[[～によると・によれば (jonkin mukaan)]]", "[[普通形のでしょうか (kohtelias kysymys)]]", "[[～を中心に (keskittyen)]]", "[[～っぽい (-mainen, taipuvainen)]]", "[[Nさえ・でさえ (jopa, edes)]]", "[[～最中に (keskella, parhaillaan)]]", "[[そのために (siksi, sita varten)]]", "[[AそれともB (vai)]]", "[[Vそうもない・そうにない (tuskin)]]", "[[Maara＋は (vahintaan)]]", "[[Vたものだ (oli tapana)]]", "[[～たって (vaikka, puhekielinen)]]", "[[Vてごらん (kokeilepa)]]", "[[Vてからでないと (vasta kun ensin)]]", "[[～てしょうがない・てしかたがない (sietamattoman)]]", "[[Vて済む・ないで済む (selvita pelkalla)]]", "[[Vてはいけないから (ettei vain)]]", "[[Vている場合じゃない (nyt ei ole aika)]]", "[[N的 (-llinen, -mainen)]]", "[[Vても始まらない (turha tehda)]]", "[[Vてもしょうがない・ても仕方がない (turhaa, ei auta)]]", "[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]", "[[～といっても (vaikka sanotaankin)]]", "[[～と言うと (kun puhutaan, tarkoitatko)]]", "[[普通形とのことだ (kuulemma, viesti)]]", "[[普通形とみえる (nayttaa silta etta)]]", "[[～とすれば・としたら・とすると (oletetaan etta)]]", "[[途中で・途中に (matkalla, kesken)]]", "[[ところが (mutta yllattaen)]]", "[[とても～ない (ei mitenkaan)]]", "[[～とは限らない (ei valttamatta)]]", "[[ついVてしまう (vahingossa, tahattomasti)]]", "[[～ついでに (samalla kun)]]", "[[Vるつもりで (aikomuksella)]]", "[[Vた上で (sen jalkeen kun, harkiten)]]", "[[～上に (lisaksi, paalle paatteeksi)]]", "[[～は別として (lukuun ottamatta)]]", "[[～はもちろん (puhumattakaan)]]", "[[Nは～で有名 (tunnettu jostakin)]]", "[[普通形わけがない (ei mitenkaan voi olla)]]", "[[Vようがない (ei ole keinoa)]]", "[[普通形ような気がする (tuntuu silta etta)]]", "[[～ように見える (nayttaa silta etta)]]", "[[Vようとしない (ei edes yrita)]]", "[[Vずにはいられない (ei voi olla tekematta)]]", "[[Nずつ (kukin, kerrallaan)]]", "[[～ないうちに (ennen kuin)]]"]
+grammar: ["[[Vます-vartalo＋上げる (saada valmiiksi)]]", "[[Vます-vartalo＋切れない (ei pysty kokonaan)]]", "[[Vます-vartalo＋込む (sisaan, perusteellisesti)]]", "[[Vます-vartalo＋直す (tehda uudelleen)]]", "[[Vます-vartalo＋通す (loppuun asti)]]", "[[Vばいい (riittaa kun, pitaisi)]]", "[[Vばよかった (olisi pitanyt)]]", "[[～ば～のに (kunpa, harmittelu)]]", "[[～ばかりで (vain, ei muuta)]]", "[[別に～ない (ei erityisesti)]]", "[[期間＋ぶりに (pitkasta aikaa)]]", "[[N中（ちゅう・じゅう） (aikana, koko)]]", "[[だけど (mutta, lauseen alussa)]]", "[[Nだらけ (taynna, kauttaaltaan)]]", "[[どんなに～ても (kuinka paljon tahansa)]]", "[[いくら～ても (vaikka kuinka paljon)]]", "[[～ふりをする (teeskennella)]]", "[[～がち (taipumus, helposti)]]", "[[Vます-vartalo＋がたい (vaikea tehda, henkisesti)]]", "[[～気味 (hieman, taipumus)]]", "[[～ごとに (joka, kunkin)]]", "[[～一方だ (yha enemman)]]", "[[～か何か (tai jotain)]]", "[[Vます-vartalo＋かける・かけ (keskeneraista)]]", "[[～代わりに (sen sijaan, vastineeksi)]]", "[[～きり (vain, sen jalkeen ei)]]", "[[V辞書形・ないこと (ohje, saanto)]]", "[[Vことはない (ei tarvitse)]]", "[[～ことは～が (kylla mutta)]]", "[[～くせに (vaikka, moittiva)]]", "[[まるで～ようだ (aivan kuin)]]", "[[めったに～ない (harvoin)]]", "[[～も～ば～も (seka etta)]]", "[[N向け (jollekin suunnattu)]]", "[[N向き (jollekin sopiva)]]", "[[AよりむしろB (pikemminkin)]]", "[[～ながらも (vaikka, kirjallinen myonnytys)]]", "[[Vないことはない (ei ole mahdotonta)]]", "[[Vないと (taytyy, lyhennetty)]]", "[[なぜなら～からだ (koska, perustelu)]]", "[[～に反して (vastoin)]]", "[[～にかわって・にかわり (jonkun puolesta, sijaan)]]", "[[Nに慣れる (tottua)]]", "[[～にしたがって (mukaisesti, sita mukaa)]]", "[[～にしても (vaikka olisikin)]]", "[[～に対して (kohtaan, vastakohtana)]]", "[[～について (aiheesta)]]", "[[Vるには (jotta, siihen etta)]]", "[[～によると・によれば (jonkin mukaan)]]", "[[普通形のでしょうか (kohtelias kysymys)]]", "[[～を中心に (keskittyen)]]", "[[～っぽい (-mainen, taipuvainen)]]", "[[Nさえ・でさえ (jopa, edes)]]", "[[～最中に (keskella, parhaillaan)]]", "[[そのために (siksi, sita varten)]]", "[[AそれともB (vai)]]", "[[Vそうもない・そうにない (tuskin)]]", "[[Maara＋は (vahintaan)]]", "[[Vたものだ (oli tapana)]]", "[[～たって (vaikka, puhekielinen)]]", "[[Vてごらん (kokeilepa)]]", "[[Vてからでないと (vasta kun ensin)]]", "[[～てしょうがない・てしかたがない (sietamattoman)]]", "[[Vて済む・ないで済む (selvita pelkalla)]]", "[[Vてはいけないから (ettei vain)]]", "[[Vている場合じゃない (nyt ei ole aika)]]", "[[N的 (-llinen, -mainen)]]", "[[Vても始まらない (turha tehda)]]", "[[Vてもしょうがない・ても仕方がない (turhaa, ei auta)]]", "[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]", "[[～といっても (vaikka sanotaankin)]]", "[[～と言うと (kun puhutaan, tarkoitatko)]]", "[[普通形とのことだ (kuulemma, viesti)]]", "[[普通形とみえる (nayttaa silta etta)]]", "[[～とすれば・としたら・とすると (oletetaan etta)]]", "[[途中で・途中に (matkalla, kesken)]]", "[[ところが (mutta yllattaen)]]", "[[とても～ない (ei mitenkaan)]]", "[[～とは限らない (ei valttamatta)]]", "[[ついVてしまう (vahingossa, tahattomasti)]]", "[[～ついでに (samalla kun)]]", "[[Vるつもりで (aikomuksella)]]", "[[Vた上で (sen jalkeen kun, harkiten)]]", "[[～上に (lisaksi, paalle paatteeksi)]]", "[[～は別として (lukuun ottamatta)]]", "[[～はもちろん (puhumattakaan)]]", "[[Nは～で有名 (tunnettu jostakin)]]", "[[普通形わけがない (ei mitenkaan voi olla)]]", "[[Vようがない (ei ole keinoa)]]", "[[普通形ような気がする (tuntuu silta etta)]]", "[[～ように見える (nayttaa silta etta)]]", "[[Vようとしない (ei edes yrita)]]", "[[Vずにはいられない (ei voi olla tekematta)]]", "[[Nずつ (kukin, kerrallaan)]]", "[[～ないうちに (ennen kuin)]]", "[[Vますように (toive, kunpa)]]"]
 source: "[[JLPT Sensei#N3]]"
 created: 2026-10-17
 tags: [sentences, jlpt/n3]
@@ -1530,6 +1530,30 @@ tags: [sentences, jlpt/n3]
 **Ääni** ![[tts_15be81130de0.m4a]]
 ^jn3-190
 
+---
+
+**JA** 来年も家族みんなが元気でいられますように。
+**FI** Kunpa koko perhe voisi hyvin ensi vuonnakin.
+**Kielioppi** [[Vますように (toive, kunpa)]] · rukous
+**Ääni** ![[tts_d1ef8d0e8ace.m4a]]
+^jn3-191
+
+---
+
+**JA** 明日の遠足の日は、雨が降りませんように。
+**FI** Kunpa huomisena retkipäivänä ei sataisi.
+**Kielioppi** [[Vますように (toive, kunpa)]] · ません + ように
+**Ääni** ![[tts_f712ec0c50e8.m4a]]
+^jn3-192
+
+---
+
+**JA** 一日も早く元気になられるようにお祈りしています。
+**FI** Toivon, että toivutte mahdollisimman pian.
+**Kielioppi** [[Vますように (toive, kunpa)]] · ように祈る
+**Ääni** ![[tts_208dba8034f4.m4a]]
+^jn3-193
+
 ## Kortit
 <!-- lausekortit:alku -->
 #flashcards/lauseet
@@ -2673,4 +2697,22 @@ Otetaan pyykit sisään ennen kuin alkaa sataa.
 ??
 Huomaamattani kello oli jo kaksi yöllä.
 [[～ないうちに (ennen kuin)]]
+
+来年も家族みんなが元気でいられますように。
+[[Vますように (toive, kunpa)]]
+??
+Kunpa koko perhe voisi hyvin ensi vuonnakin.
+[[Vますように (toive, kunpa)]]
+
+明日の遠足の日は、雨が降りませんように。
+[[Vますように (toive, kunpa)]]
+??
+Kunpa huomisena retkipäivänä ei sataisi.
+[[Vますように (toive, kunpa)]]
+
+一日も早く元気になられるようにお祈りしています。
+[[Vますように (toive, kunpa)]]
+??
+Toivon, että toivutte mahdollisimman pian.
+[[Vますように (toive, kunpa)]]
 <!-- lausekortit:loppu -->

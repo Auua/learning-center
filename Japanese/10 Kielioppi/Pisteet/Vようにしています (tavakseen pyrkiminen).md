@@ -1,20 +1,35 @@
 ---
 type: grammar
-ja: "V(辞書形/ない形)ようにしています"
+ja: V(辞書形/ない形)ようにしています
 reading: you ni shite imasu
 jlpt: N4
-func: [tapa, pyrkimys]
-attaches: ["[[Sanakirjamuoto]]", "[[ない-muoto]]"]
+func:
+  - tapa
+  - pyrkimys
+attaches:
+  - "[[Sanakirjamuoto]]"
+  - "[[ない-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vように (jotta, niin etta)]]", "[[Vようになります (kyvyn tai tilan muutos)]]", "[[ことにする・ことにしている (oma paatos)]]"]
-compare: ["[[ことにする・ことにしている (oma paatos)]]"]
-sources: ["[[Minna no Nihongo II#Luku 36]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vように (jotta, niin etta)]]"
+  - "[[Vようになります (kyvyn tai tilan muutos)]]"
+  - "[[ことにする・ことにしている (oma paatos)]]"
+  - "[[Vようにする・ようにしてください (huolehtia etta)]]"
+compare:
+  - "[[ことにする・ことにしている (oma paatos)]]"
+  - "[[Vようにする・ようにしてください (huolehtia etta)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 36]]"
+status: shaky
+confidence: 3
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -35,6 +50,7 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ## Nyanssi ja rajoitukset
 - Ero [[Vようになります (kyvyn tai tilan muutos)]]:iin: ようになります kuvaa **jo tapahtunutta muutosta** (passiivinen tulos), ようにしています kuvaa **jatkuvaa, tietoista yritystä** ylläpitää tapaa (aktiivinen pyrkimys) — muutos ei välttämättä ole vielä täydellinen.
 - Sopii hyvin terveys- ja elämäntapapuheeseen: 運動する、野菜を食べる、早く寝る + ようにしています.
+- Kertaluonteinen "huolehdin siitä" ja potentiaalin kanssa "järjestän niin, että voi" ovat omassa muistiinpanossaan: [[Vようにする・ようにしてください (huolehtia etta)]]. Kaikki ように-rakenteet rinnakkain: [[Vertailu — ように-rakenteet]].
 
 ## Esimerkit
 ![[Lausepankki — Tavoitteet ja tottumukset#^tavoite6]]
@@ -85,3 +101,4 @@ Miten ようにしている eroaa muodosta ことにしている?
 V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar) ::: Vように (jotta, niin etta) (similar)
 V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar) ::: Vようになります (kyvyn tai tilan muutos) (similar)
 V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar/compare) ::: ことにする・ことにしている (oma paatos) (similar/compare)
+V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar/compare) ::: Vようにする・ようにしてください (huolehtia etta) (similar/compare)

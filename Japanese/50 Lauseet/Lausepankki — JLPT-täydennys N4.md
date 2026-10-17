@@ -1,7 +1,7 @@
 ---
 type: sentences
 topic: JLPT-täydennys N4
-grammar: ["[[Vだけで (pelkastaan tekemalla)]]", "[[Nでも (vaikkapa, esimerkiksi)]]", "[[普通形じゃないか (eiko olekin, huomautus)]]", "[[Nが必要だ (tarvitaan jotain)]]", "[[Vる必要がある (on tarpeen tehda)]]", "[[Nがする (aistimus, haju, aani, maku)]]", "[[Adj-vartalo＋がり (taipumus, luonteenpiirre)]]", "[[Sかしら (pohdinta, feminiininen)]]", "[[Sかい・Sだい (tuttavallinen kysymys)]]", "[[N（aika）ごろ (noin, aikoihin)]]", "[[Maara＋も (jopa, perati)]]", "[[V辞書形な (jyrkka kielto)]]", "[[Vなさい (kasky, ohje)]]", "[[Nに見える・Adjく見える (nayttaa joltakin)]]", "[[お～ください (kunnioittava pyynto)]]", "[[～おきに (valein, joka toinen)]]", "[[Adjさ (adjektiivista substantiivi)]]", "[[自動詞と他動詞 (transitiivisuusparit)]]", "[[Vていた (oli tekemassa, tila menneessa)]]", "[[Vてすみません (anteeksi etta)]]", "[[Vてよかった (onneksi, olen iloinen etta)]]", "[[～と言ってもいい (voisi sanoa)]]", "[[普通形と言われている (sanotaan etta, yleinen kasitys)]]", "[[普通形と聞きました (kuulin etta)]]", "[[Nは～が、Nは～ (kontrastin は)]]", "[[Vづらい (vaikea, epamukava)]]", "[[N（材料）で (valmistusaine)]]"]
+grammar: ["[[Vだけで (pelkastaan tekemalla)]]", "[[Nでも (vaikkapa, esimerkiksi)]]", "[[普通形じゃないか (eiko olekin, huomautus)]]", "[[Nが必要だ (tarvitaan jotain)]]", "[[Vる必要がある (on tarpeen tehda)]]", "[[Nがする (aistimus, haju, aani, maku)]]", "[[Adj-vartalo＋がり (taipumus, luonteenpiirre)]]", "[[Sかしら (pohdinta, feminiininen)]]", "[[Sかい・Sだい (tuttavallinen kysymys)]]", "[[N（aika）ごろ (noin, aikoihin)]]", "[[Maara＋も (jopa, perati)]]", "[[V辞書形な (jyrkka kielto)]]", "[[Vなさい (kasky, ohje)]]", "[[Nに見える・Adjく見える (nayttaa joltakin)]]", "[[お～ください (kunnioittava pyynto)]]", "[[～おきに (valein, joka toinen)]]", "[[Adjさ (adjektiivista substantiivi)]]", "[[自動詞と他動詞 (transitiivisuusparit)]]", "[[Vていた (oli tekemassa, tila menneessa)]]", "[[Vてすみません (anteeksi etta)]]", "[[Vてよかった (onneksi, olen iloinen etta)]]", "[[～と言ってもいい (voisi sanoa)]]", "[[普通形と言われている (sanotaan etta, yleinen kasitys)]]", "[[普通形と聞きました (kuulin etta)]]", "[[Nは～が、Nは～ (kontrastin は)]]", "[[Vづらい (vaikea, epamukava)]]", "[[N（材料）で (valmistusaine)]]", "[[Vようにする・ようにしてください (huolehtia etta)]]", "[[普通形ように (kuten, niin kuin)]]"]
 source: "[[JLPT Sensei#N4]]"
 created: 2026-10-17
 tags: [sentences, jlpt/n4]
@@ -450,6 +450,54 @@ tags: [sentences, jlpt/n4]
 **Ääni** ![[tts_052e65e202d5.m4a]]
 ^jn4-055
 
+---
+
+**JA** これからは、毎日10分でも日本語を勉強するようにします。
+**FI** Tästä lähtien yritän opiskella japania joka päivä, vaikka vain kymmenen minuuttia.
+**Kielioppi** [[Vようにする・ようにしてください (huolehtia etta)]] · 辞書形 + ようにする
+**Ääni** ![[tts_2fc21d4c56bb.m4a]]
+^jn4-056
+
+---
+
+**JA** このアプリは、お年寄りでも簡単に使えるようにしてあります。
+**FI** Sovellus on tehty sellaiseksi, että vanhuksetkin voivat käyttää sitä helposti.
+**Kielioppi** [[Vようにする・ようにしてください (huolehtia etta)]] · potentiaali, järjestely
+**Ääni** ![[tts_eec22a534a86.m4a]]
+^jn4-057
+
+---
+
+**JA** 階段の電気をつけて、足元がよく見えるようにした。
+**FI** Sytytin portaikon valot, jotta jalkojen alle näkisi hyvin.
+**Kielioppi** [[Vようにする・ようにしてください (huolehtia etta)]] · ei-tahdonalainen verbi, järjestely
+**Ääni** ![[tts_74597b545b2f.m4a]]
+^jn4-058
+
+---
+
+**JA** 先ほども説明したように、締め切りは金曜日です。
+**FI** Kuten äsken selitin, määräaika on perjantaina.
+**Kielioppi** [[普通形ように (kuten, niin kuin)]] · viittaus
+**Ääni** ![[tts_3e4bb7020a8e.m4a]]
+^jn4-059
+
+---
+
+**JA** 皆さんもご存じのように、日本は地震の多い国です。
+**FI** Kuten tiedätte, Japanissa on paljon maanjäristyksiä.
+**Kielioppi** [[普通形ように (kuten, niin kuin)]] · ご存じのように
+**Ääni** ![[tts_d356a5df6e46.m4a]]
+^jn4-060
+
+---
+
+**JA** 申込書は、次のように書いてください。
+**FI** Täyttäkää hakemus seuraavasti.
+**Kielioppi** [[普通形ように (kuten, niin kuin)]] · 次のように
+**Ääni** ![[tts_f2381b23b48d.m4a]]
+^jn4-061
+
 ## Kortit
 <!-- lausekortit:alku -->
 #flashcards/lauseet
@@ -783,4 +831,40 @@ Lapset tekivät lentokoneita paperista.
 ??
 Tämä nukke on tehty puusta.
 [[N（材料）で (valmistusaine)]]
+
+これからは、毎日10分でも日本語を勉強するようにします。
+[[Vようにする・ようにしてください (huolehtia etta)]]
+??
+Tästä lähtien yritän opiskella japania joka päivä, vaikka vain kymmenen minuuttia.
+[[Vようにする・ようにしてください (huolehtia etta)]]
+
+このアプリは、お年寄りでも簡単に使えるようにしてあります。
+[[Vようにする・ようにしてください (huolehtia etta)]]
+??
+Sovellus on tehty sellaiseksi, että vanhuksetkin voivat käyttää sitä helposti.
+[[Vようにする・ようにしてください (huolehtia etta)]]
+
+階段の電気をつけて、足元がよく見えるようにした。
+[[Vようにする・ようにしてください (huolehtia etta)]]
+??
+Sytytin portaikon valot, jotta jalkojen alle näkisi hyvin.
+[[Vようにする・ようにしてください (huolehtia etta)]]
+
+先ほども説明したように、締め切りは金曜日です。
+[[普通形ように (kuten, niin kuin)]]
+??
+Kuten äsken selitin, määräaika on perjantaina.
+[[普通形ように (kuten, niin kuin)]]
+
+皆さんもご存じのように、日本は地震の多い国です。
+[[普通形ように (kuten, niin kuin)]]
+??
+Kuten tiedätte, Japanissa on paljon maanjäristyksiä.
+[[普通形ように (kuten, niin kuin)]]
+
+申込書は、次のように書いてください。
+[[普通形ように (kuten, niin kuin)]]
+??
+Täyttäkää hakemus seuraavasti.
+[[普通形ように (kuten, niin kuin)]]
 <!-- lausekortit:loppu -->
