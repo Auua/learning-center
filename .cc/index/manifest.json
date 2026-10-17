@@ -1,34 +1,20 @@
 {
   "counts": {
-    "grammar": 318,
+    "grammar": 451,
     "kanji": 1109,
     "verb": 2328,
     "vocab": 16555
   },
   "errors": [
-    "Japanese/10 Kielioppi/Pisteet/Maara だけ・Nだけ.md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel4",
-    "Japanese/10 Kielioppi/Pisteet/Maara だけ・Nだけ.md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel5",
     "Japanese/10 Kielioppi/Pisteet/N (ryhmä, määrä, aika) で.md: missing attaches",
     "Japanese/10 Kielioppi/Pisteet/N (syy) で.md: missing attaches",
-    "Japanese/10 Kielioppi/Pisteet/Vたあとで (sen jalkeen kun).md: unresolved example Lausepankki — Ohjeet ja jarjestys#^ohje3",
-    "Japanese/10 Kielioppi/Pisteet/Vたあとで (sen jalkeen kun).md: unresolved example Lausepankki — Ohjeet ja jarjestys#^ohje4",
-    "Japanese/10 Kielioppi/Pisteet/Vて・Vないで (tapa, keino).md: unresolved example Lausepankki — Ohjeet ja jarjestys#^ohje5",
-    "Japanese/10 Kielioppi/Pisteet/Vて・Vないで (tapa, keino).md: unresolved example Lausepankki — Ohjeet ja jarjestys#^ohje6",
-    "Japanese/10 Kielioppi/Pisteet/Vなくても いいです (ei tarvitse).md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel3",
-    "Japanese/10 Kielioppi/Pisteet/Vなければ なりません (velvollisuus).md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel1",
-    "Japanese/10 Kielioppi/Pisteet/Vなければ なりません (velvollisuus).md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel2",
-    "Japanese/10 Kielioppi/Pisteet/普通形かな (itselle esitetty pohdinta).md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel6",
-    "Japanese/10 Kielioppi/Pisteet/普通形かな (itselle esitetty pohdinta).md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel7",
-    "Japanese/10 Kielioppi/Pisteet/～なら (jos kerran).md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel10",
-    "Japanese/10 Kielioppi/Pisteet/～なんか・～なんて (vahatteleva, yllattynyt korostus).md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel8",
-    "Japanese/10 Kielioppi/Pisteet/～なんか・～なんて (vahatteleva, yllattynyt korostus).md: unresolved example Lausepankki — Kohteliaat kieltaytymiset ja arvailut#^kiel9",
     "Japanese/10 Kielioppi/Pisteet/～をはじめ (mukaan lukien, ensimmaisena).md: unresolved example Lausepankki — Ymparisto ja luonto#^ymp10",
     "Japanese/40 Kanji/Merkit/畑.md: missing onyomi",
     "Japanese/40 Kanji/Merkit/芝.md: missing onyomi"
   ],
-  "generatedAt": "2026-10-11T14:05:51Z",
+  "generatedAt": "2026-10-17T11:14:18Z",
   "schemaVersion": 1,
-  "sha": "85713ab9c73d1ddee32aa2b9efdc1e7cae85c83f",
+  "sha": "027b5c88a179f681f9d383776c68c0db362a4e04",
   "shards": {
     "grammar": [
       "grammar.jsonl"
