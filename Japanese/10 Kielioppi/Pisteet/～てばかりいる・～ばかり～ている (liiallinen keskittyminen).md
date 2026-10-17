@@ -7,8 +7,8 @@ func: [liiallisuus, moite]
 attaches: ["[[て-muoto]]", "[[～ている (parhaillaan, tilan tulos)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Maara だけ・Nだけ]]", "[[Nしか Vません (vain, pelkastaan)]]", "[[～ばかりで (vain, ei muuta)]]"]
-compare: ["[[Nだらけ (taynna, kauttaaltaan)]]"]
+similar: ["[[Maara だけ・Nだけ]]", "[[Nしか Vません (vain, pelkastaan)]]", "[[～ばかりで (vain, ei muuta)]]", "[[Vてばかりはいられない (ei voi jatkuvasti vain)]]"]
+compare: ["[[Nだらけ (taynna, kauttaaltaan)]]", "[[Vまくる (tehda yhtenaan)]]", "[[～にかまけて (liian kiireinen jhk)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 6]]"]
 status: new
 confidence: 1
@@ -82,3 +82,6 @@ V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) 
 V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: Nしか Vません (vain, pelkastaan) (similar)
 V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: ～ばかりで (vain, ei muuta) (similar)
 V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (compare) ::: Nだらけ (taynna, kauttaaltaan) (compare)
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (compare) ::: Vまくる (tehda yhtenaan) (compare)
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (compare) ::: ～にかまけて (liian kiireinen jhk) (compare)
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: Vてばかりはいられない (ei voi jatkuvasti vain) (similar)

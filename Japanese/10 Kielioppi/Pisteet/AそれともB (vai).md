@@ -8,7 +8,7 @@ attaches: ["lause"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[S1か、S2か (kumpi, A vai B)]]"]
-compare: ["[[S1か、S2か (kumpi, A vai B)]]"]
+compare: ["[[S1か、S2か (kumpi, A vai B)]]", "[[AあるいはB (tai, muodollinen)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -42,7 +42,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - AまたはBを選んでください (valitkaa A tai B — väite/ohje) vs. AにしますかそれともBにしますか (A vai B? — kysymys).
 
-Vertailu: [[S1か、S2か (kumpi, A vai B)]]
+Vertailu: [[S1か、S2か (kumpi, A vai B)]] · [[AあるいはB (tai, muodollinen)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -70,3 +70,4 @@ Ei — vain kysymyksissä; väitteessä または.
 #flashcards/grammar/n3/vertailu
 
 S1か、それとも S2か (vai) (similar/compare) ::: S1か、S2か (kumpi, A vai B) (similar/compare)
+S1か、それとも S2か (vai) (compare) ::: AあるいはB (tai, muodollinen) (compare)

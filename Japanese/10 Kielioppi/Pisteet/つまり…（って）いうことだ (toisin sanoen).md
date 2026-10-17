@@ -7,7 +7,7 @@ func: [tiivistys, johtopaatos]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形ということを (raportoitu vaite objektina)]]"]
+similar: ["[[普通形ということを (raportoitu vaite objektina)]]", "[[～ということは (se tarkoittaa etta)]]"]
 compare: []
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 13]]"]
 status: new
@@ -69,3 +69,4 @@ Puhekielinen supistuma.
 #flashcards/grammar/n3/vertailu
 
 つまり、普通形＋（って）いうことだ (toisin sanoen) (similar) ::: 普通形ということを (raportoitu vaite objektina) (similar)
+つまり、普通形＋（って）いうことだ (toisin sanoen) (similar) ::: ～ということは (se tarkoittaa etta) (similar)

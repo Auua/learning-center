@@ -7,8 +7,8 @@ func: [tarpeettomuus, rohkaisu]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[Vる必要がある (on tarpeen tehda)]]", "[[Vなくても いいです (ei tarvitse)]]", "[[Vないことはない (ei ole mahdotonta)]]"]
+similar: ["[[～には当たらない (ei ole syyta)]]", "[[～には及ばない (ei tarvitse, ei veda vertoja)]]"]
+compare: ["[[Vる必要がある (on tarpeen tehda)]]", "[[Vなくても いいです (ei tarvitse)]]", "[[～には当たらない (ei ole syyta)]]", "[[Vないことはない (ei ole mahdotonta)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 行ったことはない (en ole käynyt koskaan) vs. 行くことはない (ei tarvitse mennä). Muoto ratkaisee: た vs. 辞書形.
 
-Vertailu: [[Vる必要がある (on tarpeen tehda)]] · [[Vなくても いいです (ei tarvitse)]] · [[Vないことはない (ei ole mahdotonta)]]
+Vertailu: [[Vる必要がある (on tarpeen tehda)]] · [[Vなくても いいです (ei tarvitse)]] · [[～には当たらない (ei ole syyta)]] · [[Vないことはない (ei ole mahdotonta)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -70,6 +70,8 @@ Rohkaiseva tai lohduttava.
 
 #flashcards/grammar/n3/vertailu
 
+V(辞書形)＋ことはない (ei tarvitse) (similar/compare) ::: ～には当たらない (ei ole syyta) (similar/compare)
+V(辞書形)＋ことはない (ei tarvitse) (similar) ::: ～には及ばない (ei tarvitse, ei veda vertoja) (similar)
 V(辞書形)＋ことはない (ei tarvitse) (compare) ::: Vる必要がある (on tarpeen tehda) (compare)
 V(辞書形)＋ことはない (ei tarvitse) (compare) ::: Vなくても いいです (ei tarvitse) (compare)
 V(辞書形)＋ことはない (ei tarvitse) (compare) ::: Vないことはない (ei ole mahdotonta) (compare)

@@ -7,8 +7,8 @@ func: [vertailu, esimerkki, kuvaannollisuus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形ようです (havaintoon perustuva paattely)]]", "[[～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)]]", "[[まるで～ようだ (aivan kuin)]]"]
-compare: ["[[普通形ようです (havaintoon perustuva paattely)]]", "[[～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)]]", "[[まるで～ようだ (aivan kuin)]]"]
+similar: ["[[普通形ようです (havaintoon perustuva paattely)]]", "[[～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)]]", "[[まるで～ようだ (aivan kuin)]]", "[[～ごとき・ごとく (kaltainen, kuten)]]", "[[N並み (tasoinen, kuin)]]", "[[～ふうに (tavalla, niin)]]"]
+compare: ["[[普通形ようです (havaintoon perustuva paattely)]]", "[[～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)]]", "[[まるで～ようだ (aivan kuin)]]", "[[～ごとき・ごとく (kaltainen, kuten)]]", "[[N並み (tasoinen, kuin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 1]]"]
 status: new
 confidence: 1
@@ -89,3 +89,6 @@ Miten ～のようだ eroaa ～みたいだ:sta?
 N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
 N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: ～みたいだ・～みたいな・～みたいに (puhekielinen vertailu) (similar/compare)
 N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: まるで～ようだ (aivan kuin) (similar/compare)
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: ～ごとき・ごとく (kaltainen, kuten) (similar/compare)
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: N並み (tasoinen, kuin) (similar/compare)
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar) ::: ～ふうに (tavalla, niin) (similar)

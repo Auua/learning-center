@@ -7,8 +7,8 @@ func: [vastakkainasettelu, rinnastus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: []
-compare: ["[[～一方だ (yha enemman)]]"]
+similar: ["[[～反面 (toisaalta, kaanpuolena)]]"]
+compare: ["[[～一方だ (yha enemman)]]", "[[～反面 (toisaalta, kaanpuolena)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 21]]"]
 status: new
 confidence: 1
@@ -70,3 +70,4 @@ Miten 一方（で） eroaa S1が、S2 (mutta) -rakenteesta?
 #flashcards/grammar/n2/vertailu
 
 普通形＋一方（で） (toisaalta) (compare) ::: ～一方だ (yha enemman) (compare)
+普通形＋一方（で） (toisaalta) (similar/compare) ::: ～反面 (toisaalta, kaanpuolena) (similar/compare)

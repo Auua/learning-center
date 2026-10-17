@@ -7,8 +7,8 @@ func: [ehto, pysyva-tila]
 attaches: ["[[ない-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～ば (jos, ehto)]]"]
-compare: []
+similar: ["[[～ば (jos, ehto)]]", "[[～限り (niin kauan kuin, sikali kuin)]]"]
+compare: ["[[～限り (niin kauan kuin, sikali kuin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 24]]"]
 status: new
 confidence: 1
@@ -63,3 +63,4 @@ Pysyvää tilaa, joka jatkuu niin kauan kuin ehto ei täyty; ei kertaluontoista 
 #flashcards/grammar/n2/vertailu
 
 V(ない形)＋かぎり（は） (ellei, niin kauan kuin ei) (similar) ::: ～ば (jos, ehto) (similar)
+V(ない形)＋かぎり（は） (ellei, niin kauan kuin ei) (similar/compare) ::: ～限り (niin kauan kuin, sikali kuin) (similar/compare)

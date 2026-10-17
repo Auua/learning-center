@@ -7,8 +7,8 @@ func: [sivuuttaminen, painotus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～は別として (lukuun ottamatta)]]"]
-compare: ["[[～は別として (lukuun ottamatta)]]"]
+similar: ["[[～は別として (lukuun ottamatta)]]", "[[～はさておき (jatetaan sikseen)]]"]
+compare: ["[[～は別として (lukuun ottamatta)]]", "[[～はさておき (jatetaan sikseen)]]", "[[～ならまだしも (viela menisi, mutta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 19]]"]
 status: new
 confidence: 1
@@ -64,3 +64,5 @@ N1はともかく、N2は〜: vertaa implisiittisesti kahta ominaisuutta ja koro
 #flashcards/grammar/n2/vertailu
 
 N／普通形＋はともかく（として） (jatetaan sikseen) (similar/compare) ::: ～は別として (lukuun ottamatta) (similar/compare)
+N／普通形＋はともかく（として） (jatetaan sikseen) (similar/compare) ::: ～はさておき (jatetaan sikseen) (similar/compare)
+N／普通形＋はともかく（として） (jatetaan sikseen) (compare) ::: ～ならまだしも (viela menisi, mutta) (compare)

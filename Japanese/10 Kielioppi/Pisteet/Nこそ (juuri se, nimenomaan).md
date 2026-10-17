@@ -7,7 +7,7 @@ func: [korostus, yksilointi]
 attaches: ["substantiivi", "[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
+similar: ["[[～からこそ (juuri siksi etta)]]", "[[Vてこそ (vasta kun, juuri tekemalla)]]"]
 compare: []
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 18]]"]
 status: new
@@ -67,3 +67,8 @@ Mikä kohtelias vastausilmaus perustuu N＋こそ:iin?
 Mitä V（て形）こそ + 意味がある／価値がある ilmaisee?
 ?
 'Vasta X:n tehtyään on todella arvokasta' — tuottava rakenne.
+
+#flashcards/grammar/n2/vertailu
+
+N＋こそ・V（て形）こそ (juuri se, nimenomaan) (similar) ::: ～からこそ (juuri siksi etta) (similar)
+N＋こそ・V（て形）こそ (juuri se, nimenomaan) (similar) ::: Vてこそ (vasta kun, juuri tekemalla) (similar)

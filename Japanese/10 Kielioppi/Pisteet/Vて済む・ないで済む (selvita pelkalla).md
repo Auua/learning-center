@@ -7,8 +7,8 @@ func: [riittavyys, helpotus]
 attaches: ["[[て-muoto]]", "[[ない-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vなくても いいです (ei tarvitse)]]"]
-compare: ["[[Vなくても いいです (ei tarvitse)]]"]
+similar: ["[[Vなくても いいです (ei tarvitse)]]", "[[～では済まない (ei riita pelkka)]]"]
+compare: ["[[Vなくても いいです (ei tarvitse)]]", "[[～では済まない (ei riita pelkka)]]", "[[Vて済むことではない (ei hoidu pelkalla)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -31,6 +31,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 | N で + 済む | 軽いけが**で済んだ**。 |
 | Vないで + 済む | 早く気づいたので、手術しない**で済んだ**。 |
 | Vずに + 済む（kirjallinen） | 傘を買わ**ずに済んだ**。 |
+| Vなくて + 済む（rinnakkainen） | 予約し**なくて済んだ**。 |
 
 ## Nyanssi ja rajoitukset
 - Sävy on helpotus: odotettua vähemmällä vaivalla/vahingolla selvittiin.
@@ -44,7 +45,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 行かなくてもいい (ei tarvitse mennä — lupa) vs. 行かないで済んだ (säästyin menemästä — helpotus, olosuhteet).
 
-Vertailu: [[Vなくても いいです (ei tarvitse)]]
+Vertailu: [[Vなくても いいです (ei tarvitse)]] · [[～では済まない (ei riita pelkka)]] · [[Vて済むことではない (ei hoidu pelkalla)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -73,3 +74,5 @@ Helpotus: selvittiin odotettua vähemmällä.
 #flashcards/grammar/n3/vertailu
 
 V(て)／N で＋済む／Vないで（ずに）済む (selvita pelkalla) (similar/compare) ::: Vなくても いいです (ei tarvitse) (similar/compare)
+V(て)／N で＋済む／Vないで（ずに）済む (selvita pelkalla) (similar/compare) ::: ～では済まない (ei riita pelkka) (similar/compare)
+V(て)／N で＋済む／Vないで（ずに）済む (selvita pelkalla) (compare) ::: Vて済むことではない (ei hoidu pelkalla) (compare)

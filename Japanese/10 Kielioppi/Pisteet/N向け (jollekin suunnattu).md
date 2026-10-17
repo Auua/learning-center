@@ -7,7 +7,7 @@ func: [kohderyhma, tarkoitus]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
+similar: ["[[～に向かって (kohti, -lle)]]"]
 compare: ["[[N向き (jollekin sopiva)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -70,4 +70,5 @@ Tekijän: tuote on tarkoituksella suunnattu N:lle.
 
 #flashcards/grammar/n3/vertailu
 
+N＋向け（の／に） (jollekin suunnattu) (similar) ::: ～に向かって (kohti, -lle) (similar)
 N＋向け（の／に） (jollekin suunnattu) (compare) ::: N向き (jollekin sopiva) (compare)

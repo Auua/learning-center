@@ -7,8 +7,8 @@ func: [ajankohta, jatkuva-tila]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[期間＋ぶりに (pitkasta aikaa)]]"]
+similar: ["[[～を境に (rajana, siita lahtien)]]", "[[Vてからというもの (siita lahtien kun)]]"]
+compare: ["[[期間＋ぶりに (pitkasta aikaa)]]", "[[Vてからというもの (siita lahtien kun)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
 confidence: 1
@@ -63,3 +63,5 @@ Mitkä ilmaukset usein vahvistavat rakenteen V(て形)＋以来 jatkuvuutta?
 #flashcards/grammar/n2/vertailu
 
 V(て形)＋以来 (siita lahtien kun) (compare) ::: 期間＋ぶりに (pitkasta aikaa) (compare)
+V(て形)＋以来 (siita lahtien kun) (similar) ::: ～を境に (rajana, siita lahtien) (similar)
+V(て形)＋以来 (siita lahtien kun) (similar/compare) ::: Vてからというもの (siita lahtien kun) (similar/compare)

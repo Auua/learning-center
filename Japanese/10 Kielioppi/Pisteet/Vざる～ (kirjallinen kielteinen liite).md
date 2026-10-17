@@ -7,7 +7,7 @@ func: [kielto, kirjallinen-liite]
 attaches: ["[[ない-muoto]]"]
 formality: muodollinen
 register: [kirjoitettu]
-similar: ["[[Vざるを得ない (on pakko)]]", "[[～ず［に］・～ず (kirjallinen kielto)]]"]
+similar: ["[[Vざるを得ない (on pakko)]]", "[[～ず［に］・～ず (kirjallinen kielto)]]", "[[Vぬ (kirjallinen kielto)]]"]
 compare: ["[[～ず［に］・～ず (kirjallinen kielto)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 24]]"]
 status: new
@@ -76,3 +76,4 @@ Miten ざる eroaa ず:sta (Vざる～ vs. ～ず)?
 
 V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) (similar) ::: Vざるを得ない (on pakko) (similar)
 V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)
+V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) (similar) ::: Vぬ (kirjallinen kielto) (similar)

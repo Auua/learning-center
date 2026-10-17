@@ -11,6 +11,7 @@ Alikomennot (kaikki idempotentteja):
     forms             kirjoittaa taivutusmuotojen Kortit-osion verbityyppikorteilla
     todo              listaa muistiinpanot joilta esimerkki puuttuu  (--levels, --out)
     apply-examples    lukee  id|JA|FI -rivit ja kirjoittaa Esimerkit + ääni
+    examples-audio    lisää TTS-äänen olemassa oleviin Esimerkit-riveihin "- JA — FI" (--levels)
 
 Äänet: macOS `say -v Kyoko` -> m4a, tallennetaan kansioon 70 Visuaalinen/Audio/TTS/
 (gitignoressa, luodaan tarvittaessa uudelleen). Tiedostonimi on tekstin tiiviste.
@@ -368,9 +369,35 @@ def apply_examples(todo_json, lines_file):
     print(f"{done} muistiinpanoon lisätty esimerkit")
 
 
+def examples_audio(levels):
+    """Olemassa olevat esimerkkirivit (esim. Anki-tuonnista) ilman ääntä -> lisää ![[tts]] rivin loppuun."""
+    line_re = re.compile(r"^- (?P<ja>.+?) — (?P<rest>.+)$")
+    todo = []
+    for p, t in level_notes(levels):
+        m = re.search(r"^## Esimerkit\n(.*?)(?=^## |\Z)", t, re.M | re.S)
+        if not m:
+            continue
+        rows = [l for l in m.group(1).split("\n") if line_re.match(l) and not AUDIO_EMBED.search(l)]
+        if rows:
+            todo.append((p, rows))
+    audio = tts_many([line_re.match(l).group("ja") for _, rows in todo for l in rows])
+    added = 0
+    for p, rows in todo:
+        t = p.read_text(encoding="utf-8")
+        m = re.search(r"^## Esimerkit\n(.*?)(?=^## |\Z)", t, re.M | re.S)
+        sec = m.group(1)
+        for l in rows:
+            name = audio.get(line_re.match(l).group("ja"))
+            if name and l in sec:
+                sec = sec.replace(l, f"{l} ![[{name}]]", 1)
+                added += 1
+        p.write_text(t[:m.start(1)] + sec + t[m.end(1):], encoding="utf-8")
+    print(f"{added} esimerkkiriville lisätty ääni ({len(todo)} muistiinpanoa)")
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["sentences-audio", "sentence-cards", "words-audio", "reverse", "retag",
+    ap.add_argument("cmd", choices=["sentences-audio", "sentence-cards", "words-audio", "examples-audio", "reverse", "retag",
                                     "forms", "todo", "apply-examples"])
     ap.add_argument("--levels", default="N5,N4,N3")
     ap.add_argument("--out", default="todo.json")
@@ -383,6 +410,8 @@ if __name__ == "__main__":
         simple[a.cmd]()
     elif a.cmd == "words-audio":
         words_audio(set(a.levels.split(",")))
+    elif a.cmd == "examples-audio":
+        examples_audio(set(a.levels.split(",")))
     elif a.cmd == "todo":
         todo(set(a.levels.split(",")), a.out)
     else:

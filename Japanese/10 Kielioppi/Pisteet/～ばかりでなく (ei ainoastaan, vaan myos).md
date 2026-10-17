@@ -7,8 +7,8 @@ func: [laajennus, korostus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～だけでなく (ei pelkastaan vaan myos)]]"]
-compare: ["[[～だけでなく (ei pelkastaan vaan myos)]]", "[[～ばかりで (vain, ei muuta)]]"]
+similar: ["[[～だけでなく (ei pelkastaan vaan myos)]]", "[[～ばかりか (ei vain, vaan jopa)]]", "[[～のみならず (ei vain, vaan myos)]]"]
+compare: ["[[～だけでなく (ei pelkastaan vaan myos)]]", "[[～ばかりで (vain, ei muuta)]]", "[[～ばかりか (ei vain, vaan jopa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 19]]"]
 status: new
 confidence: 1
@@ -68,3 +68,5 @@ Kumpi on yleiskielisempi: ばかりでなく vai だけでなく?
 
 N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) (similar/compare) ::: ～だけでなく (ei pelkastaan vaan myos) (similar/compare)
 N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) (compare) ::: ～ばかりで (vain, ei muuta) (compare)
+N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) (similar/compare) ::: ～ばかりか (ei vain, vaan jopa) (similar/compare)
+N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) (similar) ::: ～のみならず (ei vain, vaan myos) (similar)

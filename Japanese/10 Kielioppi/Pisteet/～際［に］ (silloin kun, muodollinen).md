@@ -7,8 +7,8 @@ func: [ajankohta, muodollinen]
 attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[V・adjとき (silloin kun)]]", "[[～あいだ・～あいだに (kesto vs. hetki)]]"]
-compare: ["[[V・adjとき (silloin kun)]]"]
+similar: ["[[V・adjとき (silloin kun)]]", "[[～あいだ・～あいだに (kesto vs. hetki)]]", "[[～折に (tilaisuudessa, kun)]]", "[[～にあたって (jonkin yhteydessa, ennen)]]", "[[～に際して (jonkin yhteydessa, muodollinen)]]"]
+compare: ["[[V・adjとき (silloin kun)]]", "[[～折に (tilaisuudessa, kun)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 14]]"]
 status: new
 confidence: 1
@@ -69,3 +69,6 @@ Merkitys sama; 際 on muodollinen vastine (kirjalliset ohjeet, virallinen ilmoit
 
 V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar/compare) ::: V・adjとき (silloin kun) (similar/compare)
 V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar) ::: ～あいだ・～あいだに (kesto vs. hetki) (similar)
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar/compare) ::: ～折に (tilaisuudessa, kun) (similar/compare)
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar) ::: ～にあたって (jonkin yhteydessa, ennen) (similar)
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar) ::: ～に際して (jonkin yhteydessa, muodollinen) (similar)

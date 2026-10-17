@@ -1,20 +1,30 @@
 ---
 type: grammar
-ja: "Vば〜ほど"
+ja: Vば〜ほど
 reading: ba ~ hodo
 jlpt: N4
-func: [progressiivinen-suhde]
-attaches: ["[[Ehtomuoto ば]]"]
+func:
+  - progressiivinen-suhde
+attaches:
+  - "[[Ehtomuoto ば]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[～ば (jos, ehto)]]", "[[Vば～だけ (mita enemman, sita enemman)]]"]
-compare: ["[[Vば～だけ (mita enemman, sita enemman)]]"]
-sources: ["[[Minna no Nihongo II#Luku 35]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[～ば (jos, ehto)]]"
+  - "[[Vば～だけ (mita enemman, sita enemman)]]"
+compare:
+  - "[[Vば～だけ (mita enemman, sita enemman)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 35]]"
+status: learning
+confidence: 2
 reviewed:
 created: 2026-08-29
-tags: [grammar/ehto, jlpt/n4]
+tags:
+  - grammar/ehto
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

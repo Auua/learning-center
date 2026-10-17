@@ -7,8 +7,8 @@ func: [lisays, kasautuminen]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[それに・それで (lisaksi, niinpa)]]"]
-compare: ["[[～だけでなく (ei pelkastaan vaan myos)]]"]
+similar: ["[[それに・それで (lisaksi, niinpa)]]", "[[～ときている (kun lisaksi viela)]]", "[[～に加えて (lisaksi)]]", "[[しかも (lisaksi, vielapa)]]", "[[おまけに (paalle paatteeksi)]]"]
+compare: ["[[～だけでなく (ei pelkastaan vaan myos)]]", "[[～ときている (kun lisaksi viela)]]", "[[～に加えて (lisaksi)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 安いだけでなく (ei vain halpa vaan myös…) vs. 安い上に (halpa ja päälle päätteeksi…) — lähes sama; 上に korostaa kasautumista.
 
-Vertailu: [[～だけでなく (ei pelkastaan vaan myos)]]
+Vertailu: [[～だけでなく (ei pelkastaan vaan myos)]] · [[～ときている (kun lisaksi viela)]] · [[～に加えて (lisaksi)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,4 +72,8 @@ Ei — molempien täytyy olla samansuuntaisia.
 #flashcards/grammar/n3/vertailu
 
 普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar) ::: それに・それで (lisaksi, niinpa) (similar)
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar/compare) ::: ～ときている (kun lisaksi viela) (similar/compare)
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar/compare) ::: ～に加えて (lisaksi) (similar/compare)
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar) ::: しかも (lisaksi, vielapa) (similar)
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar) ::: おまけに (paalle paatteeksi) (similar)
 普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (compare) ::: ～だけでなく (ei pelkastaan vaan myos) (compare)

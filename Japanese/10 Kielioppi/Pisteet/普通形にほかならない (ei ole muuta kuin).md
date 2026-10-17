@@ -7,8 +7,8 @@ func: [vahva-vaite, korostus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: []
-compare: []
+similar: ["[[～でなくてなんだろう (jos ei tama, niin mika)]]"]
+compare: ["[[～でなくてなんだろう (jos ei tama, niin mika)]]", "[[～でしかない (ei ole muuta kuin)]]", "[[～に過ぎない (vain, ei muuta kuin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 19]]"]
 status: new
 confidence: 1
@@ -60,3 +60,9 @@ Se on erittäin painokas ilmaus, joka sulkee pois kaikki muut selitykset; sopii 
 Mitä 〜からにほかならない-kaava ilmaisee?
 ?
 Syyn korostamista: 'syy on nimenomaan ja ainoastaan tämä'.
+
+#flashcards/grammar/n1/vertailu
+
+N／普通形＋からに＋ほかならない (ei ole muuta kuin) (similar/compare) ::: ～でなくてなんだろう (jos ei tama, niin mika) (similar/compare)
+N／普通形＋からに＋ほかならない (ei ole muuta kuin) (compare) ::: ～でしかない (ei ole muuta kuin) (compare)
+N／普通形＋からに＋ほかならない (ei ole muuta kuin) (compare) ::: ～に過ぎない (vain, ei muuta kuin) (compare)

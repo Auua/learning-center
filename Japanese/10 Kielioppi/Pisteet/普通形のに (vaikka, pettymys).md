@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[S1が、S2 (mutta)]]", "[[～ば～のに (kunpa, harmittelu)]]"]
-compare: ["[[S1が、S2 (mutta)]]", "[[Vのに (kayttotarkoitus, kulutus)]]", "[[～ば～のに (kunpa, harmittelu)]]", "[[～くせに (vaikka, moittiva)]]"]
+compare: ["[[S1が、S2 (mutta)]]", "[[Vのに (kayttotarkoitus, kulutus)]]", "[[～ば～のに (kunpa, harmittelu)]]", "[[～くせに (vaikka, moittiva)]]", "[[～だろうに (olisi kai, harmittelu)]]", "[[～ものの (vaikka kylla)]]"]
 sources: ["[[Minna no Nihongo II#Luku 45]]"]
 status: new
 confidence: 1
@@ -86,3 +86,5 @@ Ensimmäinen on käyttötarkoitus-のに (Luku 42, seuraa 使う/必要/かか�
 普通形のに（konjunktio） (vaikka, pettymys) (compare) ::: Vのに (kayttotarkoitus, kulutus) (compare)
 普通形のに（konjunktio） (vaikka, pettymys) (similar/compare) ::: ～ば～のに (kunpa, harmittelu) (similar/compare)
 普通形のに（konjunktio） (vaikka, pettymys) (compare) ::: ～くせに (vaikka, moittiva) (compare)
+普通形のに（konjunktio） (vaikka, pettymys) (compare) ::: ～だろうに (olisi kai, harmittelu) (compare)
+普通形のに（konjunktio） (vaikka, pettymys) (compare) ::: ～ものの (vaikka kylla) (compare)

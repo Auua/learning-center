@@ -8,7 +8,7 @@ attaches: ["[[た-muoto]]"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
 similar: ["[[普通形んです (selittävä sävy)]]"]
-compare: []
+compare: ["[[V次第 (heti kun)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 22]]"]
 status: new
 confidence: 1
@@ -63,3 +63,4 @@ Mitä でございます lisää 次第です:hen?
 #flashcards/grammar/n1/vertailu
 
 普通形（た形）＋次第だ・次第でございます (nain ollen, siksi) (similar) ::: 普通形んです (selittävä sävy) (similar)
+普通形（た形）＋次第だ・次第でございます (nain ollen, siksi) (compare) ::: V次第 (heti kun) (compare)

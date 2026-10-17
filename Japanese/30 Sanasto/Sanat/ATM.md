@@ -22,6 +22,7 @@ tags: [vocab, jlpt/n2]
 ## Merkitys
 - **FI:** pankkiautomaatti
 - **EN:** cash machine, ATM
+- **Ääni:** ![[tts_bb654dfe9ad4.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 

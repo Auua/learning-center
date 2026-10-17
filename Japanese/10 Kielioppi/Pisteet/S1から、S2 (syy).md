@@ -15,9 +15,13 @@ register:
 similar:
   - "[[〜ので (pehmea syy)]]"
   - "[[～のは～からだ (syy predikaattina)]]"
+  - "[[～こともあって (osittain siksi etta)]]"
+  - "[[～からこそ (juuri siksi etta)]]"
 compare:
   - "[[〜ので (pehmea syy)]]"
   - "[[なぜなら～からだ (koska, perustelu)]]"
+  - "[[～からこそ (juuri siksi etta)]]"
+  - "[[～ことだから (koska tunnen hanet)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 9]]"
   - "[[Minna no Nihongo II#Luku 39]]"
@@ -106,3 +110,6 @@ Miten な-adjektiivi/substantiivi liitetään から:aan verrattuna ので:on?
 S1から、S2／どうして (syy) (similar/compare) ::: 〜ので (pehmea syy) (similar/compare)
 S1から、S2／どうして (syy) (similar) ::: ～のは～からだ (syy predikaattina) (similar)
 S1から、S2／どうして (syy) (compare) ::: なぜなら～からだ (koska, perustelu) (compare)
+S1から、S2／どうして (syy) (similar) ::: ～こともあって (osittain siksi etta) (similar)
+S1から、S2／どうして (syy) (similar/compare) ::: ～からこそ (juuri siksi etta) (similar/compare)
+S1から、S2／どうして (syy) (compare) ::: ～ことだから (koska tunnen hanet) (compare)

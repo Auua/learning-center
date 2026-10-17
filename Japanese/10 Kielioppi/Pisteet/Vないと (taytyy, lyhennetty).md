@@ -7,8 +7,8 @@ func: [velvoite, puhekielisyys]
 attaches: ["[[ない-muoto]]"]
 formality: puhekielinen
 register: [puhuttu]
-similar: ["[[Vないといけない (taytyy)]]", "[[～なくちゃ・～なきゃ (puhekielinen pakko)]]"]
-compare: ["[[Vないといけない (taytyy)]]"]
+similar: ["[[Vないといけない (taytyy)]]", "[[～なくちゃ・～なきゃ (puhekielinen pakko)]]", "[[さもないと (muuten, muuten kay huonosti)]]"]
+compare: ["[[Vないといけない (taytyy)]]", "[[さもないと (muuten, muuten kay huonosti)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/rekisteri, jlpt/n3]
 ## Sekaannusvaara
 - 勉強しないと。 (täytyy opiskella) vs. 勉強しないと、合格できない (jos ei opiskele, ei pääse läpi — ehto).
 
-Vertailu: [[Vないといけない (taytyy)]]
+Vertailu: [[Vないといけない (taytyy)]] · [[さもないと (muuten, muuten kay huonosti)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,3 +72,4 @@ Lopussa = täytyy mennä; keskellä = jos ei mene, myöhästyy.
 
 V(ない-muoto)＋と（。） (taytyy, lyhennetty) (similar/compare) ::: Vないといけない (taytyy) (similar/compare)
 V(ない-muoto)＋と（。） (taytyy, lyhennetty) (similar) ::: ～なくちゃ・～なきゃ (puhekielinen pakko) (similar)
+V(ない-muoto)＋と（。） (taytyy, lyhennetty) (similar/compare) ::: さもないと (muuten, muuten kay huonosti) (similar/compare)

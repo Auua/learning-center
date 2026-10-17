@@ -8,7 +8,7 @@ attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vためには (jotta voisi)]]"]
-compare: ["[[Vためには (jotta voisi)]]", "[[Vように (jotta, niin etta)]]"]
+compare: ["[[Vためには (jotta voisi)]]", "[[Vように (jotta, niin etta)]]", "[[～には無理がある (on epärealistista)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 健康のために運動する (teen liikuntaa terveyden vuoksi — toiminta) vs. 健康でいるには運動が必要だ (terveenä pysymiseen tarvitaan liikuntaa — edellytys).
 
-Vertailu: [[Vためには (jotta voisi)]] · [[Vように (jotta, niin etta)]]
+Vertailu: [[Vためには (jotta voisi)]] · [[Vように (jotta, niin etta)]] · [[～には無理がある (on epärealistista)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -73,3 +73,4 @@ Edellytys (必要だ, なければならない) tai arvio (難しい, 便利だ)
 
 V(辞書形)＋には (jotta, siihen etta) (similar/compare) ::: Vためには (jotta voisi) (similar/compare)
 V(辞書形)＋には (jotta, siihen etta) (compare) ::: Vように (jotta, niin etta) (compare)
+V(辞書形)＋には (jotta, siihen etta) (compare) ::: ～には無理がある (on epärealistista) (compare)

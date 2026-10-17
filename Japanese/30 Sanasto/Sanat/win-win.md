@@ -22,6 +22,7 @@ tags: [vocab, jlpt/n2]
 ## Merkitys
 - **FI:** molemmille edullinen
 - **EN:** win-win
+- **Ääni:** ![[tts_8410c6152267.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 

@@ -7,7 +7,7 @@ func: [yhdysverbi, suunta, intensiteetti]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit)]]"]
+similar: ["[[Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit)]]", "[[Vまくる (tehda yhtenaan)]]"]
 compare: []
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -70,3 +70,4 @@ Liike sisään (飛び込む) ja intensiteetti/perusteellisuus (考え込む).
 #flashcards/grammar/n3/vertailu
 
 V(ます-vartalo)＋込む (sisaan, perusteellisesti) (similar) ::: Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) (similar)
+V(ます-vartalo)＋込む (sisaan, perusteellisesti) (similar) ::: Vまくる (tehda yhtenaan) (similar)

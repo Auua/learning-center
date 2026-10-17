@@ -8,7 +8,7 @@ attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[～ている (parhaillaan, tilan tulos)]]"]
-compare: ["[[～ている (parhaillaan, tilan tulos)]]"]
+compare: ["[[～ている (parhaillaan, tilan tulos)]]", "[[～放題 (vapaasti, rajattomasti)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 12]]"]
 status: new
 confidence: 1
@@ -83,3 +83,4 @@ Miten 電気がついている eroaa 電気がつけっぱなしだ:sta?
 #flashcards/grammar/n3/vertailu
 
 V(ます-vartalo)＋っぱなし (huolimattomuus, unohdus) (similar/compare) ::: ～ている (parhaillaan, tilan tulos) (similar/compare)
+V(ます-vartalo)＋っぱなし (huolimattomuus, unohdus) (compare) ::: ～放題 (vapaasti, rajattomasti) (compare)

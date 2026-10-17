@@ -7,7 +7,7 @@ func: [pohdinta, epavarmuus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: puhekielinen
 register: [puhuttu]
-similar: ["[[普通形かな (itselle esitetty pohdinta)]]"]
+similar: ["[[普通形かな (itselle esitetty pohdinta)]]", "[[～のやら (mahtaakohan, en tieda)]]", "[[Sわ (feminiininen loppupartikkeli)]]"]
 compare: ["[[普通形かな (itselle esitetty pohdinta)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
@@ -72,3 +72,5 @@ Sama merkitys; かしら on feminiininen ja vanhahtavampi.
 #flashcards/grammar/n4/vertailu
 
 普通形＋かしら (pohdinta, feminiininen) (similar/compare) ::: 普通形かな (itselle esitetty pohdinta) (similar/compare)
+普通形＋かしら (pohdinta, feminiininen) (similar) ::: ～のやら (mahtaakohan, en tieda) (similar)
+普通形＋かしら (pohdinta, feminiininen) (similar) ::: Sわ (feminiininen loppupartikkeli) (similar)

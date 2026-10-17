@@ -17,6 +17,7 @@ similar:
   - "[[Maara だけ・Nだけ]]"
   - "[[Nしか Vません (vain, pelkastaan)]]"
   - "[[Vさえ～ば (kunhan vain)]]"
+  - "[[ただ～のみだ (vain, ei muuta kuin)]]"
 compare:
   - "[[Maara だけ・Nだけ]]"
   - "[[Vだけで (pelkastaan tekemalla)]]"
@@ -111,3 +112,4 @@ Vさえ～ば on ehtolause (kunhan X, niin Y); だけでいい on toteamus siit�
 …だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: Nしか Vません (vain, pelkastaan) (similar)
 …だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: Vさえ～ば (kunhan vain) (similar)
 …だけだ／［ただ］…だけでいい (vain se riittää) (compare) ::: Vだけで (pelkastaan tekemalla) (compare)
+…だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: ただ～のみだ (vain, ei muuta kuin) (similar)

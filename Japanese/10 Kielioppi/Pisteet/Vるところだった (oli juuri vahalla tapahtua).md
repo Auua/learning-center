@@ -7,8 +7,8 @@ func: [vaaratilanne, valttynyt-tapahtuma]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vところです (kolme vaihetta)]]"]
-compare: ["[[Vところです (kolme vaihetta)]]"]
+similar: ["[[Vところです (kolme vaihetta)]]", "[[Vたら～ところだ (olisi tehnyt, jos)]]", "[[もう少しでVところだった (melkein, oli vahalla)]]"]
+compare: ["[[Vところです (kolme vaihetta)]]", "[[Vたら～ところだ (olisi tehnyt, jos)]]", "[[もう少しでVところだった (melkein, oli vahalla)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 16]]"]
 status: new
 confidence: 1
@@ -75,3 +75,5 @@ Miten Vるところだった eroaa muodosta Vるところです?
 #flashcards/grammar/n2/vertailu
 
 V辞書形＋ところだった (oli juuri vahalla tapahtua) (similar/compare) ::: Vところです (kolme vaihetta) (similar/compare)
+V辞書形＋ところだった (oli juuri vahalla tapahtua) (similar/compare) ::: Vたら～ところだ (olisi tehnyt, jos) (similar/compare)
+V辞書形＋ところだった (oli juuri vahalla tapahtua) (similar/compare) ::: もう少しでVところだった (melkein, oli vahalla) (similar/compare)

@@ -17,8 +17,10 @@ similar:
   - "[[Liikkumisen partikkelit (へ・で・と)]]"
   - "[[N (syy) で]]"
   - "[[N (ryhmä, määrä, aika) で]]"
+  - "[[Nにて (-ssa, -lla, muodollinen)]]"
 compare:
   - "[[N (syy) で]]"
+  - "[[Nにて (-ssa, -lla, muodollinen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 6]]"
   - "[[Minna no Nihongo I#Luku 21]]"
@@ -91,3 +93,4 @@ Sama partikkeli, eri rooli: liikeverbi + ajoneuvo → kulkuväline; muu toiminta
 N（場所）で (N (paikka) で) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
 N（場所）で (N (paikka) で) (similar/compare) ::: N (syy) で (similar/compare)
 N（場所）で (N (paikka) で) (similar) ::: N (ryhmä, määrä, aika) で (similar)
+N（場所）で (N (paikka) で) (similar/compare) ::: Nにて (-ssa, -lla, muodollinen) (similar/compare)

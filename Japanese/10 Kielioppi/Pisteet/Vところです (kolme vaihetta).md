@@ -7,7 +7,7 @@ func: [ajankohta, vaihe]
 attaches: ["[[Sanakirjamuoto]]", "[[～ている (parhaillaan, tilan tulos)]]", "[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vたばかりです (juuri askettain)]]", "[[Vたところに・で (juuri siina kohdassa)]]"]
+similar: ["[[Vたばかりです (juuri askettain)]]", "[[Vたところに・で (juuri siina kohdassa)]]", "[[Vているところに・ところへ (juuri kun)]]"]
 compare: ["[[Vたばかりです (juuri askettain)]]", "[[Vたところに・で (juuri siina kohdassa)]]", "[[～最中に (keskella, parhaillaan)]]"]
 sources: ["[[Minna no Nihongo II#Luku 46]]"]
 status: new
@@ -84,3 +84,4 @@ Kyllä: ところ voi tarkoittaa myös paikkaa (曲がったところに, 'juuri
 V(辞書形/ている/た形)ところです (kolme vaihetta) (similar/compare) ::: Vたばかりです (juuri askettain) (similar/compare)
 V(辞書形/ている/た形)ところです (kolme vaihetta) (similar/compare) ::: Vたところに・で (juuri siina kohdassa) (similar/compare)
 V(辞書形/ている/た形)ところです (kolme vaihetta) (compare) ::: ～最中に (keskella, parhaillaan) (compare)
+V(辞書形/ている/た形)ところです (kolme vaihetta) (similar) ::: Vているところに・ところへ (juuri kun) (similar)

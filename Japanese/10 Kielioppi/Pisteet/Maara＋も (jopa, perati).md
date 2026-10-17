@@ -7,8 +7,8 @@ func: [korostus, maara]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Nも (myos, sama patee)]]"]
-compare: ["[[Maara だけ・Nだけ]]", "[[Nしか Vません (vain, pelkastaan)]]", "[[Maara＋は (vahintaan)]]", "[[Nも (myos, sama patee)]]"]
+similar: ["[[Nも (myos, sama patee)]]", "[[数量＋からある (perati, ainakin)]]", "[[～たりとも (ei edes yhta)]]"]
+compare: ["[[Maara だけ・Nだけ]]", "[[Nしか Vません (vain, pelkastaan)]]", "[[数量＋からある (perati, ainakin)]]", "[[Maara＋は (vahintaan)]]", "[[Nも (myos, sama patee)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ## Sekaannusvaara
 - 3時間しか寝なかった (vain kolme tuntia, vähän) vs. 3時間も寝た (peräti kolme tuntia, paljon).
 
-Vertailu: [[Maara だけ・Nだけ]] · [[Nしか Vません (vain, pelkastaan)]] · [[Maara＋は (vahintaan)]] · [[Nも (myos, sama patee)]]
+Vertailu: [[Maara だけ・Nだけ]] · [[Nしか Vません (vain, pelkastaan)]] · [[数量＋からある (perati, ainakin)]] · [[Maara＋は (vahintaan)]] · [[Nも (myos, sama patee)]]
 
 ## Kortit
 #flashcards/grammar/n4
@@ -72,6 +72,8 @@ Monta kertaa, yhä uudelleen.
 #flashcards/grammar/n4/vertailu
 
 Määrä＋も (jopa, perati) (similar/compare) ::: Nも (myos, sama patee) (similar/compare)
+Määrä＋も (jopa, perati) (similar/compare) ::: 数量＋からある (perati, ainakin) (similar/compare)
+Määrä＋も (jopa, perati) (similar) ::: ～たりとも (ei edes yhta) (similar)
 Määrä＋も (jopa, perati) (compare) ::: Maara だけ・Nだけ (compare)
 Määrä＋も (jopa, perati) (compare) ::: Nしか Vません (vain, pelkastaan) (compare)
 Määrä＋も (jopa, perati) (compare) ::: Maara＋は (vahintaan) (compare)

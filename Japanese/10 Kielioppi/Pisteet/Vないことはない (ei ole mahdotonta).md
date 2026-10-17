@@ -7,8 +7,8 @@ func: [myonnytys, kaksoiskielto]
 attaches: ["[[ない-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[普通形わけではない (ei tarkoita etta aina)]]", "[[Vことはない (ei tarvitse)]]"]
+similar: ["[[Vないものでもない (ei ole aivan mahdotonta)]]", "[[Vなくはない・なくもない (kylla tavallaan)]]"]
+compare: ["[[普通形わけではない (ei tarkoita etta aina)]]", "[[Vことはない (ei tarvitse)]]", "[[Vないものでもない (ei ole aivan mahdotonta)]]", "[[Vなくはない・なくもない (kylla tavallaan)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 行くことはない (ei tarvitse mennä) vs. 行かないことはない (en minä jätä menemättä / voin kyllä mennä).
 
-Vertailu: [[普通形わけではない (ei tarkoita etta aina)]] · [[Vことはない (ei tarvitse)]]
+Vertailu: [[普通形わけではない (ei tarkoita etta aina)]] · [[Vことはない (ei tarvitse)]] · [[Vないものでもない (ei ole aivan mahdotonta)]] · [[Vなくはない・なくもない (kylla tavallaan)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -70,5 +70,7 @@ Varauksellista kyllä: onnistuu, mutta vastahakoisesti.
 
 #flashcards/grammar/n3/vertailu
 
+V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) (similar/compare) ::: Vないものでもない (ei ole aivan mahdotonta) (similar/compare)
+V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) (similar/compare) ::: Vなくはない・なくもない (kylla tavallaan) (similar/compare)
 V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) (compare) ::: 普通形わけではない (ei tarkoita etta aina) (compare)
 V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) (compare) ::: Vことはない (ei tarvitse) (compare)

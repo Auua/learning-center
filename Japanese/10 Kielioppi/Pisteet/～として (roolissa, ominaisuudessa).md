@@ -7,8 +7,8 @@ func: [rooli, ominaisuus]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[Nたるもの (sellaisena kuin pitaa olla)]]"]
+compare: ["[[～なりに (omalla tavallaan)]]", "[[Nたるもの (sellaisena kuin pitaa olla)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 11]]"]
 status: new
 confidence: 1
@@ -60,3 +60,8 @@ Kyllä: キムさんは昼は学生として…、夜は韓国語の先生とし
 Mikä on yleinen kaava, jolla として ilmaisee tunnettuutta?
 ?
 〜として知られている / 認められている (tunnetaan/tunnustetaan X:nä).
+
+#flashcards/grammar/n3/vertailu
+
+Nとして (roolissa, ominaisuudessa) (compare) ::: ～なりに (omalla tavallaan) (compare)
+Nとして (roolissa, ominaisuudessa) (similar/compare) ::: Nたるもの (sellaisena kuin pitaa olla) (similar/compare)

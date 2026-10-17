@@ -8,7 +8,7 @@ attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vづらい (vaikea, epamukava)]]"]
-compare: ["[[Vます-vartalo＋がたい (vaikea tehda, henkisesti)]]", "[[Vづらい (vaikea, epamukava)]]"]
+compare: ["[[Vます-vartalo＋がたい (vaikea tehda, henkisesti)]]", "[[Vづらい (vaikea, epamukava)]]", "[[～に難くない (ei ole vaikea, helppo)]]"]
 sources: ["[[Minna no Nihongo II#Luku 44]]"]
 status: new
 confidence: 1
@@ -79,3 +79,4 @@ Miten Vやすい eroaa potentiaalimuodosta?
 
 V(ます-vartalo)やすい／にくい (helppo, vaikea) (compare) ::: Vます-vartalo＋がたい (vaikea tehda, henkisesti) (compare)
 V(ます-vartalo)やすい／にくい (helppo, vaikea) (similar/compare) ::: Vづらい (vaikea, epamukava) (similar/compare)
+V(ます-vartalo)やすい／にくい (helppo, vaikea) (compare) ::: ～に難くない (ei ole vaikea, helppo) (compare)

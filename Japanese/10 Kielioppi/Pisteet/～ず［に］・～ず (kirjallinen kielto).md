@@ -10,9 +10,13 @@ register: [kirjoitettu, puhuttu (muodollinen)]
 similar:
   - "[[Vて・Vないで (tapa, keino)]]"
   - "[[～もせずに (ei edes tehnyt)]]"
+  - "[[～ことなく (tekematta)]]"
+  - "[[Vぬ (kirjallinen kielto)]]"
 compare:
   - "[[Vて・Vないで (tapa, keino)]]"
   - "[[～もせずに (ei edes tehnyt)]]"
+  - "[[～ことなく (tekematta)]]"
+  - "[[Vぬ (kirjallinen kielto)]]"
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 11]]", "[[Minna no Nihongo Chuukyuu II#Luku 21]]"]
 status: new
 confidence: 1
@@ -94,3 +98,5 @@ Merkitys on sama (火を使わないで／使わずに料理をしています),
 
 V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: Vて・Vないで (tapa, keino) (similar/compare)
 V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: ～もせずに (ei edes tehnyt) (similar/compare)
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: ～ことなく (tekematta) (similar/compare)
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: Vぬ (kirjallinen kielto) (similar/compare)

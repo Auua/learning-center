@@ -7,8 +7,8 @@ func: [aiheenvaihto, assosiaatio]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～と言うと (kun puhutaan, tarkoitatko)]]"]
-compare: ["[[～と言うと (kun puhutaan, tarkoitatko)]]"]
+similar: ["[[～と言うと (kun puhutaan, tarkoitatko)]]", "[[Nときたら (kun on kyse, voi sita)]]", "[[そういえば (niin muuten, siita tuli mieleen)]]"]
+compare: ["[[～と言うと (kun puhutaan, tarkoitatko)]]", "[[そういえば (niin muuten, siita tuli mieleen)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -64,3 +64,5 @@ Ne ovat lähes vaihtokelpoisia; といったら on hieman puhekielisempi ja tunn
 #flashcards/grammar/n2/vertailu
 
 N＋といえば・というと・といったら (jos puhutaan X:sta) (similar/compare) ::: ～と言うと (kun puhutaan, tarkoitatko) (similar/compare)
+N＋といえば・というと・といったら (jos puhutaan X:sta) (similar) ::: Nときたら (kun on kyse, voi sita) (similar)
+N＋といえば・というと・といったら (jos puhutaan X:sta) (similar/compare) ::: そういえば (niin muuten, siita tuli mieleen) (similar/compare)

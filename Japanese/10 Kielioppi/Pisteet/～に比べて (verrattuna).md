@@ -8,7 +8,7 @@ attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[N1はN2より (vertailu)]]"]
-compare: ["[[N1はN2より (vertailu)]]"]
+compare: ["[[N1はN2より (vertailu)]]", "[[～とは比べものにならない (ei voi verratakaan)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 18]]"]
 status: new
 confidence: 1
@@ -73,3 +73,4 @@ Miten N に比べて eroaa N1はN2より -vertailusta?
 #flashcards/grammar/n2/vertailu
 
 N＋に比べて・に比べると (verrattuna) (similar/compare) ::: N1はN2より (vertailu) (similar/compare)
+N＋に比べて・に比べると (verrattuna) (compare) ::: ～とは比べものにならない (ei voi verratakaan) (compare)

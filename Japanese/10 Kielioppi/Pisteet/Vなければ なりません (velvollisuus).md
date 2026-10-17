@@ -18,10 +18,12 @@ similar:
   - "[[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]]"
   - "[[～なくちゃ・～なきゃ (puhekielinen pakko)]]"
   - "[[Vないといけない (taytyy)]]"
+  - "[[Vねばならない (taytyy, kirjallinen)]]"
 compare:
   - "[[～なくてはならない・～なくてはいけない (pakko, toinen muoto)]]"
   - "[[Vる必要がある (on tarpeen tehda)]]"
   - "[[Vないといけない (taytyy)]]"
+  - "[[Vねばならない (taytyy, kirjallinen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 17]]"
   - "[[Minna no Nihongo I#Luku 21]]"
@@ -101,3 +103,4 @@ Vなければなりません (velvollisuus) (similar/compare) ::: ～なくて�
 Vなければなりません (velvollisuus) (similar) ::: ～なくちゃ・～なきゃ (puhekielinen pakko) (similar)
 Vなければなりません (velvollisuus) (compare) ::: Vる必要がある (on tarpeen tehda) (compare)
 Vなければなりません (velvollisuus) (similar/compare) ::: Vないといけない (taytyy) (similar/compare)
+Vなければなりません (velvollisuus) (similar/compare) ::: Vねばならない (taytyy, kirjallinen) (similar/compare)

@@ -7,7 +7,7 @@ func: [riippuvuus, vaihtelu]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[〜によって (tekijan merkitseminen, luova teko)]]", "[[～によって (syy, muodollinen)]]"]
+similar: ["[[〜によって (tekijan merkitseminen, luova teko)]]", "[[～によって (syy, muodollinen)]]", "[[～次第で (riippuen jostakin)]]"]
 compare: ["[[〜によって (tekijan merkitseminen, luova teko)]]", "[[～によって (syy, muodollinen)]]", "[[～によると・によれば (jonkin mukaan)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 8]]"]
 status: new
@@ -81,3 +81,4 @@ Katso verbiä: 違う／変わる → vaihtelun peruste; passiivi-verbi → teki
 Nによって（変わる・違う） (riippuen, vaihtelu) (similar/compare) ::: 〜によって (tekijan merkitseminen, luova teko) (similar/compare)
 Nによって（変わる・違う） (riippuen, vaihtelu) (similar/compare) ::: ～によって (syy, muodollinen) (similar/compare)
 Nによって（変わる・違う） (riippuen, vaihtelu) (compare) ::: ～によると・によれば (jonkin mukaan) (compare)
+Nによって（変わる・違う） (riippuen, vaihtelu) (similar) ::: ～次第で (riippuen jostakin) (similar)

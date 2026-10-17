@@ -7,8 +7,8 @@ func: [oivallus, ajankohta]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[Vてからでないと (vasta kun ensin)]]"]
+similar: ["[[Nにして (vasta, jopa)]]", "[[Vてこそ (vasta kun, juuri tekemalla)]]"]
+compare: ["[[Vてからでないと (vasta kun ensin)]]", "[[Nにして (vasta, jopa)]]", "[[Vてこそ (vasta kun, juuri tekemalla)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 17]]"]
 status: new
 confidence: 1
@@ -63,3 +63,5 @@ Ettei ymmärrystä ollut ennen kyseistä kokemusta; käytetään usein elämänk
 #flashcards/grammar/n2/vertailu
 
 V(て形)＋はじめて (vasta silloin kun) (compare) ::: Vてからでないと (vasta kun ensin) (compare)
+V(て形)＋はじめて (vasta silloin kun) (similar/compare) ::: Nにして (vasta, jopa) (similar/compare)
+V(て形)＋はじめて (vasta silloin kun) (similar/compare) ::: Vてこそ (vasta kun, juuri tekemalla) (similar/compare)

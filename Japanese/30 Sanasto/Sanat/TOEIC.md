@@ -22,6 +22,7 @@ tags: [vocab, jlpt/n2]
 ## Merkitys
 - **FI:** TOEIC-koe
 - **EN:** TOEIC
+- **Ääni:** ![[tts_fcd3ae7e13da.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 

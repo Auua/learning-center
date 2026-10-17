@@ -7,7 +7,7 @@ func: [yhdysverbi, sinnikkyys]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit)]]"]
+similar: ["[[Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit)]]", "[[Vます-vartalo＋抜く (loppuun asti, perin pohjin)]]"]
 compare: ["[[Vきる (tehda loppuun, kokonaan)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -70,4 +70,5 @@ Keskeytyksetöntä sinnikkyyttä alusta loppuun.
 #flashcards/grammar/n3/vertailu
 
 V(ます-vartalo)＋通す (loppuun asti) (similar) ::: Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) (similar)
+V(ます-vartalo)＋通す (loppuun asti) (similar) ::: Vます-vartalo＋抜く (loppuun asti, perin pohjin) (similar)
 V(ます-vartalo)＋通す (loppuun asti) (compare) ::: Vきる (tehda loppuun, kokonaan) (compare)

@@ -7,8 +7,8 @@ func: [korostus, aari-esimerkki]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vさえ～ば (kunhan vain)]]", "[[Nだって (vaikka, jopa)]]"]
-compare: ["[[Nだって (vaikka, jopa)]]", "[[Vさえ～ば (kunhan vain)]]"]
+similar: ["[[Vさえ～ば (kunhan vain)]]", "[[Nだって (vaikka, jopa)]]", "[[～だに (edes, pelkka ajatuskin)]]", "[[～なりとも (edes vahan)]]", "[[Nすら・ですら (jopa, edes, kirjallinen)]]"]
+compare: ["[[Nだって (vaikka, jopa)]]", "[[Vさえ～ば (kunhan vain)]]", "[[～だに (edes, pelkka ajatuskin)]]", "[[Nすら・ですら (jopa, edes, kirjallinen)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 水さえ飲めなかった (en voinut edes juoda vettä — ääriesimerkki) vs. 水さえあれば大丈夫 (kunhan vain on vettä — [[Vさえ～ば (kunhan vain)]]).
 
-Vertailu: [[Nだって (vaikka, jopa)]] · [[Vさえ～ば (kunhan vain)]]
+Vertailu: [[Nだって (vaikka, jopa)]] · [[Vさえ～ば (kunhan vain)]] · [[～だに (edes, pelkka ajatuskin)]] · [[Nすら・ですら (jopa, edes, kirjallinen)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -73,3 +73,6 @@ Ensimmäinen = ei edes (ääriesimerkki); toinen = kunhan vain (ehto).
 
 N＋さえ／でさえ (jopa, edes) (similar/compare) ::: Vさえ～ば (kunhan vain) (similar/compare)
 N＋さえ／でさえ (jopa, edes) (similar/compare) ::: Nだって (vaikka, jopa) (similar/compare)
+N＋さえ／でさえ (jopa, edes) (similar/compare) ::: ～だに (edes, pelkka ajatuskin) (similar/compare)
+N＋さえ／でさえ (jopa, edes) (similar) ::: ～なりとも (edes vahan) (similar)
+N＋さえ／でさえ (jopa, edes) (similar/compare) ::: Nすら・ですら (jopa, edes, kirjallinen) (similar/compare)

@@ -7,8 +7,8 @@ func: [pakko, vastentahtoisuus]
 attaches: ["[[ない-muoto]]"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[Vなければ なりません (velvollisuus)]]"]
-compare: ["[[Vなければ なりません (velvollisuus)]]"]
+similar: ["[[Vなければ なりません (velvollisuus)]]", "[[～を余儀なくされる (joutua pakosta)]]", "[[Vずには済まない (on pakko, ei voi valttaa)]]", "[[Vよりほかない (ei ole muuta kuin)]]"]
+compare: ["[[Vなければ なりません (velvollisuus)]]", "[[～を余儀なくされる (joutua pakosta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 17]]"]
 status: new
 confidence: 1
@@ -82,3 +82,6 @@ Miten Vざるを得ない eroaa Vなければなりません:sta?
 #flashcards/grammar/n2/vertailu
 
 V(ない-vartalo)＋ざるを得ない (on pakko) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)
+V(ない-vartalo)＋ざるを得ない (on pakko) (similar/compare) ::: ～を余儀なくされる (joutua pakosta) (similar/compare)
+V(ない-vartalo)＋ざるを得ない (on pakko) (similar) ::: Vずには済まない (on pakko, ei voi valttaa) (similar)
+V(ない-vartalo)＋ざるを得ない (on pakko) (similar) ::: Vよりほかない (ei ole muuta kuin) (similar)

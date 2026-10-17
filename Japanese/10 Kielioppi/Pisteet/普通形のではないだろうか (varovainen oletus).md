@@ -7,8 +7,8 @@ func: [oletus, varovainen-mielipide]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [kirjoitettu, puhuttu]
-similar: ["[[普通形んじゃない？ (pehmea arvaus)]]", "[[普通形でしょう (todennakoisyys)]]"]
-compare: ["[[普通形んじゃない？ (pehmea arvaus)]]"]
+similar: ["[[普通形んじゃない？ (pehmea arvaus)]]", "[[普通形でしょう (todennakoisyys)]]", "[[～ではあるまいか (eiko lienekin)]]"]
+compare: ["[[普通形んじゃない？ (pehmea arvaus)]]", "[[～ではあるまいか (eiko lienekin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 14]]"]
 status: new
 confidence: 1
@@ -79,3 +79,4 @@ Miten のではないだろうか eroaa んじゃない？:stä?
 
 普通形＋の（ん）ではないだろうか (varovainen oletus) (similar/compare) ::: 普通形んじゃない？ (pehmea arvaus) (similar/compare)
 普通形＋の（ん）ではないだろうか (varovainen oletus) (similar) ::: 普通形でしょう (todennakoisyys) (similar)
+普通形＋の（ん）ではないだろうか (varovainen oletus) (similar/compare) ::: ～ではあるまいか (eiko lienekin) (similar/compare)

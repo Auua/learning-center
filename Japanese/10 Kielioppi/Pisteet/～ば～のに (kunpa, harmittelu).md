@@ -7,8 +7,8 @@ func: [kontrafaktuaali, harmittelu]
 attaches: ["[[Ehtomuoto ば]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形のに (vaikka, pettymys)]]", "[[Vばよかった (olisi pitanyt)]]"]
-compare: ["[[普通形のに (vaikka, pettymys)]]"]
+similar: ["[[普通形のに (vaikka, pettymys)]]", "[[Vばよかった (olisi pitanyt)]]", "[[～だろうに (olisi kai, harmittelu)]]", "[[～ものを (vaikka olisi voinut, harmi)]]", "[[Vたら～ところだ (olisi tehnyt, jos)]]"]
+compare: ["[[普通形のに (vaikka, pettymys)]]", "[[～ものを (vaikka olisi voinut, harmi)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/ehto, jlpt/n3]
 ## Sekaannusvaara
 - お金があれば買う (jos on rahaa, ostan — avoin ehto) vs. お金があれば買うのに (jos olisi rahaa, ostaisin — mutta ei ole).
 
-Vertailu: [[普通形のに (vaikka, pettymys)]]
+Vertailu: [[普通形のに (vaikka, pettymys)]] · [[～ものを (vaikka olisi voinut, harmi)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -73,3 +73,6 @@ Ilman のに = avoin ehto; のに = vastoin tosiasioita, harmittelu.
 
 ～ば～のに (kunpa, harmittelu) (similar/compare) ::: 普通形のに (vaikka, pettymys) (similar/compare)
 ～ば～のに (kunpa, harmittelu) (similar) ::: Vばよかった (olisi pitanyt) (similar)
+～ば～のに (kunpa, harmittelu) (similar) ::: ～だろうに (olisi kai, harmittelu) (similar)
+～ば～のに (kunpa, harmittelu) (similar/compare) ::: ～ものを (vaikka olisi voinut, harmi) (similar/compare)
+～ば～のに (kunpa, harmittelu) (similar) ::: Vたら～ところだ (olisi tehnyt, jos) (similar)

@@ -22,6 +22,7 @@ tags: [vocab, jlpt/n2]
 ## Merkitys
 - **FI:** tilanteeseen sopiva käytös (aika, paikka, tilaisuus)
 - **EN:** time, place and occasion
+- **Ääni:** ![[tts_a2687a759006.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 

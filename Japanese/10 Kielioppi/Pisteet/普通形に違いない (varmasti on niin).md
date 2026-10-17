@@ -7,8 +7,8 @@ func: [varma-paattely]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形はずです (varma odotus)]]"]
-compare: ["[[普通形はずです (varma odotus)]]"]
+similar: ["[[普通形はずです (varma odotus)]]", "[[～に決まっている (taytyy olla, ilman muuta)]]", "[[～に相違ない (epailematta)]]"]
+compare: ["[[普通形はずです (varma odotus)]]", "[[～に決まっている (taytyy olla, ilman muuta)]]", "[[～に相違ない (epailematta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 18]]"]
 status: new
 confidence: 1
@@ -72,3 +72,5 @@ Miten に違いない eroaa はずです:sta?
 #flashcards/grammar/n2/vertailu
 
 普通形＋に違いない (varmasti on niin) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
+普通形＋に違いない (varmasti on niin) (similar/compare) ::: ～に決まっている (taytyy olla, ilman muuta) (similar/compare)
+普通形＋に違いない (varmasti on niin) (similar/compare) ::: ～に相違ない (epailematta) (similar/compare)

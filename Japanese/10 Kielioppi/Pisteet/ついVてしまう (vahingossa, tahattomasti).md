@@ -8,7 +8,7 @@ attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vてしまいます (valitettavasti, loppuun asti)]]"]
-compare: ["[[Vてしまいます (valitettavasti, loppuun asti)]]"]
+compare: ["[[Vてしまいます (valitettavasti, loppuun asti)]]", "[[Vともなく (tietamattaan, ilman aikomusta)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - わざと (tahallaan) on vastakohta; つい (tahattomasti, houkutuksesta).
 
-Vertailu: [[Vてしまいます (valitettavasti, loppuun asti)]]
+Vertailu: [[Vてしまいます (valitettavasti, loppuun asti)]] · [[Vともなく (tietamattaan, ilman aikomusta)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -71,3 +71,4 @@ Mikä on つい:n vastakohta?
 #flashcards/grammar/n3/vertailu
 
 つい＋V(て)しまう (vahingossa, tahattomasti) (similar/compare) ::: Vてしまいます (valitettavasti, loppuun asti) (similar/compare)
+つい＋V(て)しまう (vahingossa, tahattomasti) (compare) ::: Vともなく (tietamattaan, ilman aikomusta) (compare)

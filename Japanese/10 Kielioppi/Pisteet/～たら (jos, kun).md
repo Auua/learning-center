@@ -13,7 +13,7 @@ similar:
   - "[[～なら (jos kerran)]]"
   - "[[Vertailu — たら・ば + ta (kontrafaktuaalinen)]]"
   - "[[～たら、～た (odottamaton löytö)]]"
-compare: "[[Vertailu — Ehtolauseet と・ば・たら・なら]]"
+compare: ["[[Vertailu — Ehtolauseet と・ば・たら・なら]]", "[[Vたら～たで (kavi niin tai nain)]]"]
 sources: ["[[Genki II]]", "[[Bunpro]]", "[[Tae Kim — Guide to Japanese]]", "[[Minna no Nihongo I#Luku 25]]", "[[Minna no Nihongo Chuukyuu I#Luku 2]]", "[[Minna no Nihongo Chuukyuu I#Luku 9]]"]
 status: learning
 confidence: 3
@@ -116,3 +116,4 @@ Kumpi: ば vai たら: 京都に行く＿＿、写真を撮ってください?
 ～たら (jos, kun) (similar) ::: Vertailu — たら・ば + ta (kontrafaktuaalinen) (similar)
 ～たら (jos, kun) (similar) ::: ～たら、～た (odottamaton löytö) (similar)
 ～たら (jos, kun) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
+～たら (jos, kun) (compare) ::: Vたら～たで (kavi niin tai nain) (compare)

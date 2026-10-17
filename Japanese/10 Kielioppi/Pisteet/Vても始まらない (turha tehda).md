@@ -7,8 +7,8 @@ func: [turhuus, neuvo]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vてもしょうがない・ても仕方がない (turhaa, ei auta)]]"]
-compare: ["[[Vてもしょうがない・ても仕方がない (turhaa, ei auta)]]"]
+similar: ["[[Vてもしょうがない・ても仕方がない (turhaa, ei auta)]]", "[[Vてもどうにもならない (turha, ei auta)]]"]
+compare: ["[[Vてもしょうがない・ても仕方がない (turhaa, ei auta)]]", "[[～ばそれまでだ (siihen se jaa)]]", "[[Vてもどうにもならない (turha, ei auta)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -42,7 +42,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 泣いても始まらない (turha itkeä — ei auta) vs. 泣いてしょうがない (en voi lakata itkemästä — tunteen voimakkuus).
 
-Vertailu: [[Vてもしょうがない・ても仕方がない (turhaa, ei auta)]]
+Vertailu: [[Vてもしょうがない・ても仕方がない (turhaa, ei auta)]] · [[～ばそれまでだ (siihen se jaa)]] · [[Vてもどうにもならない (turha, ei auta)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -70,3 +70,5 @@ Kehotus tehdä jotain hyödyllisempää.
 #flashcards/grammar/n3/vertailu
 
 V(て)＋も始まらない (turha tehda) (similar/compare) ::: Vてもしょうがない・ても仕方がない (turhaa, ei auta) (similar/compare)
+V(て)＋も始まらない (turha tehda) (similar/compare) ::: Vてもどうにもならない (turha, ei auta) (similar/compare)
+V(て)＋も始まらない (turha tehda) (compare) ::: ～ばそれまでだ (siihen se jaa) (compare)

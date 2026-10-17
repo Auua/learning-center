@@ -7,8 +7,8 @@ func: [laajuus, aariarvo]
 attaches: ["substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[～に［も］わたって (koko ajan・alueen)]]"]
-compare: ["[[～に［も］わたって (koko ajan・alueen)]]"]
+similar: ["[[～に［も］わたって (koko ajan・alueen)]]", "[[～に至る (paatya, johtaa)]]"]
+compare: ["[[～に［も］わたって (koko ajan・alueen)]]", "[[～に至る (paatya, johtaa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 23]]"]
 status: new
 confidence: 1
@@ -73,3 +73,4 @@ Miten N に及ぶ eroaa ～にわたって:sta?
 #flashcards/grammar/n1/vertailu
 
 N（laajuus）＋に及ぶ・にまで及ぶ (ulottua, nousta jopa) (similar/compare) ::: ～に［も］わたって (koko ajan・alueen) (similar/compare)
+N（laajuus）＋に及ぶ・にまで及ぶ (ulottua, nousta jopa) (similar/compare) ::: ～に至る (paatya, johtaa) (similar/compare)

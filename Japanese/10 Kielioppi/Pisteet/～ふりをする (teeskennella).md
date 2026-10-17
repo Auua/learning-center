@@ -7,8 +7,8 @@ func: [teeskentely]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[まるで～ようだ (aivan kuin)]]"]
+similar: ["[[～ぶる (olla olevinaan)]]"]
+compare: ["[[まるで～ようだ (aivan kuin)]]", "[[～ぶる (olla olevinaan)]]", "[[～かのように (ikaan kuin)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 寝ているようだ (näyttää nukkuvan — puhujan päätelmä) vs. 寝ているふりをする (teeskentelee nukkuvansa — tietoinen).
 
-Vertailu: [[まるで～ようだ (aivan kuin)]]
+Vertailu: [[まるで～ようだ (aivan kuin)]] · [[～ぶる (olla olevinaan)]] · [[～かのように (ikaan kuin)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,4 +72,6 @@ Katsoa tahallaan ohi, olla huomaamatta (vaikka näkee).
 
 #flashcards/grammar/n3/vertailu
 
+普通形（N の／な-adj な）＋ふりをする (teeskennella) (similar/compare) ::: ～ぶる (olla olevinaan) (similar/compare)
 普通形（N の／な-adj な）＋ふりをする (teeskennella) (compare) ::: まるで～ようだ (aivan kuin) (compare)
+普通形（N の／な-adj な）＋ふりをする (teeskennella) (compare) ::: ～かのように (ikaan kuin) (compare)

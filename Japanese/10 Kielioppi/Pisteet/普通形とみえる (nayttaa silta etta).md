@@ -7,7 +7,7 @@ func: [paattely, havainto]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[普通形らしい (kuulopuhe, paattely)]]"]
+similar: ["[[普通形らしい (kuulopuhe, paattely)]]", "[[～ところを見ると (siita paatellen)]]"]
 compare: ["[[普通形ようです (havaintoon perustuva paattely)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -72,4 +72,5 @@ Sama ajatus; とみえる on kirjallisempi.
 #flashcards/grammar/n3/vertailu
 
 普通形＋とみえる／とみえて (nayttaa silta etta) (similar) ::: 普通形らしい (kuulopuhe, paattely) (similar)
+普通形＋とみえる／とみえて (nayttaa silta etta) (similar) ::: ～ところを見ると (siita paatellen) (similar)
 普通形＋とみえる／とみえて (nayttaa silta etta) (compare) ::: 普通形ようです (havaintoon perustuva paattely) (compare)

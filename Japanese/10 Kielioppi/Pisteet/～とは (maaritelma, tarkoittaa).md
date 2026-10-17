@@ -8,7 +8,7 @@ attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[～というのは～のことだ・ということだ (maaritelma)]]"]
-compare: ["[[～というのは～のことだ・ということだ (maaritelma)]]"]
+compare: ["[[～というのは～のことだ・ということだ (maaritelma)]]", "[[普通形とは (etta peraati, yllatys)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 14]]"]
 status: new
 confidence: 1
@@ -73,3 +73,4 @@ Funktio on sama; というのは on pidempi ja puhekielisempi, とは sen tiivis
 #flashcards/grammar/n3/vertailu
 
 N＋とは (maaritelma, tarkoittaa) (similar/compare) ::: ～というのは～のことだ・ということだ (maaritelma) (similar/compare)
+N＋とは (maaritelma, tarkoittaa) (compare) ::: 普通形とは (etta peraati, yllatys) (compare)

@@ -7,8 +7,8 @@ func: [muuttumaton-tila]
 attaches: ["[[た-muoto]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[～きり (vain, sen jalkeen ei)]]"]
+similar: ["[[～ながらに (sellaisenaan, -tilassa)]]", "[[Vままに (kuten, miten mieleen tulee)]]"]
+compare: ["[[～きり (vain, sen jalkeen ei)]]", "[[～ながらに (sellaisenaan, -tilassa)]]", "[[Vままに (kuten, miten mieleen tulee)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 8]]"]
 status: new
 confidence: 1
@@ -74,3 +74,5 @@ Muodossa N + の + まま, esim. 生のまま (raakana sellaisenaan).
 #flashcards/grammar/n3/vertailu
 
 V(た形)まま・Nのまま (muuttumaton tila) (compare) ::: ～きり (vain, sen jalkeen ei) (compare)
+V(た形)まま・Nのまま (muuttumaton tila) (similar/compare) ::: ～ながらに (sellaisenaan, -tilassa) (similar/compare)
+V(た形)まま・Nのまま (muuttumaton tila) (similar/compare) ::: Vままに (kuten, miten mieleen tulee) (similar/compare)

@@ -7,8 +7,8 @@ func: [poikkeus, rajaus]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～はともかく (jatetaan sikseen)]]"]
-compare: ["[[～はともかく (jatetaan sikseen)]]"]
+similar: ["[[～はともかく (jatetaan sikseen)]]", "[[Nはどうであれ (oli N mika tahansa)]]", "[[～はさておき (jatetaan sikseen)]]", "[[～を除いて (lukuun ottamatta)]]"]
+compare: ["[[～はともかく (jatetaan sikseen)]]", "[[～抜きにして・抜きで (ilman, jattaen pois)]]", "[[～を除いて (lukuun ottamatta)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 値段はともかく (hinnasta viis, se on toissijaista) vs. 値段は別として (hinta jätetään laskuista — tarkastellaan muuta).
 
-Vertailu: [[～はともかく (jatetaan sikseen)]]
+Vertailu: [[～はともかく (jatetaan sikseen)]] · [[～抜きにして・抜きで (ilman, jattaen pois)]] · [[～を除いて (lukuun ottamatta)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,3 +72,7 @@ Lähes samat; は別として rajaa X:n selvemmin ulos.
 #flashcards/grammar/n3/vertailu
 
 N／疑問詞〜か＋は別として (lukuun ottamatta) (similar/compare) ::: ～はともかく (jatetaan sikseen) (similar/compare)
+N／疑問詞〜か＋は別として (lukuun ottamatta) (similar) ::: Nはどうであれ (oli N mika tahansa) (similar)
+N／疑問詞〜か＋は別として (lukuun ottamatta) (similar) ::: ～はさておき (jatetaan sikseen) (similar)
+N／疑問詞〜か＋は別として (lukuun ottamatta) (similar/compare) ::: ～を除いて (lukuun ottamatta) (similar/compare)
+N／疑問詞〜か＋は別として (lukuun ottamatta) (compare) ::: ～抜きにして・抜きで (ilman, jattaen pois) (compare)

@@ -7,8 +7,8 @@ func: [tarkoitus, hyodynsaaja]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vように (jotta, niin etta)]]", "[[～ため［に］・ためだ (syy, ei tarkoitus)]]", "[[Vためには (jotta voisi)]]", "[[そのために (siksi, sita varten)]]"]
-compare: ["[[Vように (jotta, niin etta)]]", "[[～ため［に］・ためだ (syy, ei tarkoitus)]]", "[[Vためには (jotta voisi)]]"]
+similar: ["[[Vように (jotta, niin etta)]]", "[[～ため［に］・ためだ (syy, ei tarkoitus)]]", "[[Vためには (jotta voisi)]]", "[[そのために (siksi, sita varten)]]", "[[Vべく (jotta, tarkoituksella)]]", "[[～んがために (jotta, kirjallinen)]]"]
+compare: ["[[Vように (jotta, niin etta)]]", "[[～ため［に］・ためだ (syy, ei tarkoitus)]]", "[[Vためには (jotta voisi)]]", "[[Vべく (jotta, tarkoituksella)]]"]
 sources: ["[[Minna no Nihongo II#Luku 42]]"]
 status: new
 confidence: 1
@@ -88,3 +88,5 @@ V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) :::
 V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (similar/compare)
 V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: Vためには (jotta voisi) (similar/compare)
 V(辞書形)ために／Nのために (tarkoitusta varten) (similar) ::: そのために (siksi, sita varten) (similar)
+V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: Vべく (jotta, tarkoituksella) (similar/compare)
+V(辞書形)ために／Nのために (tarkoitusta varten) (similar) ::: ～んがために (jotta, kirjallinen) (similar)

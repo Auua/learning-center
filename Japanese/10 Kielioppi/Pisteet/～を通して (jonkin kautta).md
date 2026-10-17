@@ -7,8 +7,8 @@ func: [valine, kokemus]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～によって (syy, muodollinen)]]"]
-compare: []
+similar: ["[[～によって (syy, muodollinen)]]", "[[～を経て (kautta, jalkeen)]]"]
+compare: ["[[～を経て (kautta, jalkeen)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 19]]"]
 status: new
 confidence: 1
@@ -63,3 +63,4 @@ Mitä ～を通して tarkoittaa ajallisessa merkityksessä?
 #flashcards/grammar/n2/vertailu
 
 N＋を通して (jonkin kautta) (similar) ::: ～によって (syy, muodollinen) (similar)
+N＋を通して (jonkin kautta) (similar/compare) ::: ～を経て (kautta, jalkeen) (similar/compare)

@@ -7,7 +7,7 @@ func: [ehto, automaattinen-seuraus, loyto]
 attaches: ["[[Sanakirjamuoto]]", "[[ない-muoto]]"]
 formality: neutral
 register: [kirjoitettu, puhuttu]
-similar: ["[[～たら (jos, kun)]]", "[[～ば (jos, ehto)]]", "[[～なら (jos kerran)]]"]
+similar: ["[[～たら (jos, kun)]]", "[[～ば (jos, ehto)]]", "[[～なら (jos kerran)]]", "[[そうすると (siina tapauksessa, sitten)]]"]
 compare: "[[Vertailu — Ehtolauseet と・ば・たら・なら]]"
 sources: ["[[Genki II]]", "[[Bunpro]]", "[[Tae Kim — Guide to Japanese]]", "[[Minna no Nihongo I#Luku 23]]"]
 status: learning
@@ -93,3 +93,4 @@ Kumpi: と vai たら: 春になる＿＿、京都に行ってください?
 ～と (aina kun, väistämätön seuraus) (similar) ::: ～ば (jos, ehto) (similar)
 ～と (aina kun, väistämätön seuraus) (similar) ::: ～なら (jos kerran) (similar)
 ～と (aina kun, väistämätön seuraus) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
+～と (aina kun, väistämätön seuraus) (similar) ::: そうすると (siina tapauksessa, sitten) (similar)

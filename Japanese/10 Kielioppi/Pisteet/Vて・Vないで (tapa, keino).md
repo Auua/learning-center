@@ -18,6 +18,7 @@ similar:
   - "[[～ず［に］・～ず (kirjallinen kielto)]]"
 compare:
   - "[[～ず［に］・～ず (kirjallinen kielto)]]"
+  - "[[～ことなく (tekematta)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 34]]"
 status: shaky
@@ -99,3 +100,4 @@ Mikä on Vないで (tapa, keino):n muodollinen vastine?
 
 Vて／Vないで（tapa, keino） (tapa, keino) (similar) ::: Vないで ください (kielteinen pyyntö) (similar)
 Vて／Vないで（tapa, keino） (tapa, keino) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)
+Vて／Vないで（tapa, keino） (tapa, keino) (compare) ::: ～ことなく (tekematta) (compare)

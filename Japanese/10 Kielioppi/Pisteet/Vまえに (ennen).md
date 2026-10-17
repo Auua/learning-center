@@ -17,6 +17,7 @@ similar:
 compare:
   - "[[Vたあとで (sen jalkeen kun)]]"
   - "[[～ないうちに (ennen kuin)]]"
+  - "[[～に先立ち (ennen, etukateen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 18]]"
   - "[[Minna no Nihongo II#Luku 34]]"
@@ -97,3 +98,4 @@ Kumpi: まえに vai あとで, kun verbi on 辞書形 vs. た形?
 V辞書形まえに／Nのまえに／期間まえに (ennen) (similar) ::: Vてから、V2 (jälkeen) (similar)
 V辞書形まえに／Nのまえに／期間まえに (ennen) (similar/compare) ::: Vたあとで (sen jalkeen kun) (similar/compare)
 V辞書形まえに／Nのまえに／期間まえに (ennen) (compare) ::: ～ないうちに (ennen kuin) (compare)
+V辞書形まえに／Nのまえに／期間まえに (ennen) (compare) ::: ～に先立ち (ennen, etukateen) (compare)

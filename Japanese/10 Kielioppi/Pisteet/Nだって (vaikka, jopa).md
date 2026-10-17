@@ -7,8 +7,8 @@ func: [korostus, aariesimerkki]
 attaches: ["substantiivi"]
 formality: puhekielinen
 register: [puhuttu]
-similar: ["[[Nさえ・でさえ (jopa, edes)]]"]
-compare: ["[[Nさえ・でさえ (jopa, edes)]]", "[[～たって (vaikka, puhekielinen)]]", "[[Nでも (vaikkapa, esimerkiksi)]]"]
+similar: ["[[Nさえ・でさえ (jopa, edes)]]", "[[～とて (vaikka, myoskaan)]]"]
+compare: ["[[Nさえ・でさえ (jopa, edes)]]", "[[～たって (vaikka, puhekielinen)]]", "[[Nでも (vaikkapa, esimerkiksi)]]", "[[～とて (vaikka, myoskaan)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 18]]"]
 status: new
 confidence: 1
@@ -81,3 +81,4 @@ Sama perusfunktio; でも on yleiskielisempi/muodollisempi, だって puhekielin
 N＋だって (vaikka, jopa) (similar/compare) ::: Nさえ・でさえ (jopa, edes) (similar/compare)
 N＋だって (vaikka, jopa) (compare) ::: ～たって (vaikka, puhekielinen) (compare)
 N＋だって (vaikka, jopa) (compare) ::: Nでも (vaikkapa, esimerkiksi) (compare)
+N＋だって (vaikka, jopa) (similar/compare) ::: ～とて (vaikka, myoskaan) (similar/compare)

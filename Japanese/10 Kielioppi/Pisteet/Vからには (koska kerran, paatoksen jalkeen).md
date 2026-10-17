@@ -7,7 +7,7 @@ func: [paatos, velvoite]
 attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[S1から、S2 (syy)]]"]
+similar: ["[[S1から、S2 (syy)]]", "[[～上は (koska kerran, nyt kun)]]"]
 compare: []
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 17]]"]
 status: new
@@ -69,3 +69,4 @@ Miten Vからには eroaa S1から、S2 -syyrakenteesta?
 #flashcards/grammar/n2/vertailu
 
 V辞書形／Vた形＋からには (koska kerran, paatoksen jalkeen) (similar) ::: S1から、S2 (syy) (similar)
+V辞書形／Vた形＋からには (koska kerran, paatoksen jalkeen) (similar) ::: ～上は (koska kerran, nyt kun) (similar)

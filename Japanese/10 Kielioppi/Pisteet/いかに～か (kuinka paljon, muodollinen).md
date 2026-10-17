@@ -7,8 +7,8 @@ func: [aste, muodollinen-korostus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: []
-compare: []
+similar: ["[[いかなる (minkalainen tahansa)]]", "[[～ことか (kuinka paljon, huudahdus)]]"]
+compare: ["[[～ことか (kuinka paljon, huudahdus)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 21]]"]
 status: new
 confidence: 1
@@ -59,3 +59,8 @@ Se on upotettu kysymyslause, joka toimii predikaatin (わかる, 知る, 気づ�
 Miten いかに～か eroaa どんなに rekisterin puolesta?
 ?
 いかに on muodollisempi ja kirjallisempi; sopii esseisiin, puheisiin ja vakavaan pohdiskeluun.
+
+#flashcards/grammar/n1/vertailu
+
+いかに＋普通形＋か (kuinka paljon, muodollinen) (similar) ::: いかなる (minkalainen tahansa) (similar)
+いかに＋普通形＋か (kuinka paljon, muodollinen) (similar/compare) ::: ～ことか (kuinka paljon, huudahdus) (similar/compare)

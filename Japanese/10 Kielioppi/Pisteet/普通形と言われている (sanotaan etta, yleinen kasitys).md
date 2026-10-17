@@ -7,8 +7,8 @@ func: [kuulopuhe, yleinen-kasitys]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形そうです (kuulopuhe)]]"]
-compare: ["[[普通形そうです (kuulopuhe)]]", "[[普通形と聞きました (kuulin etta)]]"]
+similar: ["[[普通形そうです (kuulopuhe)]]", "[[普通形とされる (katsotaan, pidetaan)]]", "[[普通形と考えられる (voidaan ajatella etta)]]"]
+compare: ["[[普通形そうです (kuulopuhe)]]", "[[普通形と聞きました (kuulin etta)]]", "[[普通形とされる (katsotaan, pidetaan)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
 confidence: 1
@@ -42,7 +42,7 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ## Sekaannusvaara
 - そうです (kuulin joltain lähteeltä, yksittäinen tieto) vs. と言われている (yleinen käsitys, monen sanoma).
 
-Vertailu: [[普通形そうです (kuulopuhe)]] · [[普通形と聞きました (kuulin etta)]]
+Vertailu: [[普通形そうです (kuulopuhe)]] · [[普通形と聞きました (kuulin etta)]] · [[普通形とされる (katsotaan, pidetaan)]]
 
 ## Kortit
 #flashcards/grammar/n4
@@ -70,4 +70,6 @@ Moni sanoo ja sanoo edelleen — yleinen, pysyvä käsitys.
 #flashcards/grammar/n4/vertailu
 
 普通形＋と言われている (sanotaan etta, yleinen kasitys) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
+普通形＋と言われている (sanotaan etta, yleinen kasitys) (similar/compare) ::: 普通形とされる (katsotaan, pidetaan) (similar/compare)
+普通形＋と言われている (sanotaan etta, yleinen kasitys) (similar) ::: 普通形と考えられる (voidaan ajatella etta) (similar)
 普通形＋と言われている (sanotaan etta, yleinen kasitys) (compare) ::: 普通形と聞きました (kuulin etta) (compare)

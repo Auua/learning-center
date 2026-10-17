@@ -7,8 +7,8 @@ func: [arvio, kirjallinen]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: muodollinen
 register: [kirjoitettu]
-similar: ["[[普通形とみられる (arvioidaan olevan)]]"]
-compare: ["[[普通形とみられる (arvioidaan olevan)]]"]
+similar: ["[[普通形とみられる (arvioidaan olevan)]]", "[[～ものと思われる (arvellaan etta)]]", "[[普通形と考えられる (voidaan ajatella etta)]]"]
+compare: ["[[普通形とみられる (arvioidaan olevan)]]", "[[～ものと思われる (arvellaan etta)]]", "[[普通形と考えられる (voidaan ajatella etta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 22]]"]
 status: new
 confidence: 1
@@ -72,3 +72,5 @@ Hyvin lähellä, rekisteriero on hienovarainen. とみられる on tyypillinen u
 #flashcards/grammar/n1/vertailu
 
 普通形＋と思われる (nayttaa siltä, uutiskielinen) (similar/compare) ::: 普通形とみられる (arvioidaan olevan) (similar/compare)
+普通形＋と思われる (nayttaa siltä, uutiskielinen) (similar/compare) ::: ～ものと思われる (arvellaan etta) (similar/compare)
+普通形＋と思われる (nayttaa siltä, uutiskielinen) (similar/compare) ::: 普通形と考えられる (voidaan ajatella etta) (similar/compare)

@@ -17,6 +17,7 @@ similar:
   - "[[Vつもりです (paatetty aikomus)]]"
   - "[[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]]"
   - "[[Vようとする (yrittaa, olla tekemaisillaan)]]"
+  - "[[Vまい (ei aio, tuskin)]]"
 compare:
   - "[[Vつもりです (paatetty aikomus)]]"
   - "[[Vertailu — ようと思う vs. つもり vs. 予定]]"
@@ -123,3 +124,4 @@ Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutum
 Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar) ::: Vようとする (yrittaa, olla tekemaisillaan) (similar)
 Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (compare) ::: Vertailu — ようと思う vs. つもり vs. 予定 (compare)
 Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (compare) ::: Vるつもりで (aikomuksella) (compare)
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar) ::: Vまい (ei aio, tuskin) (similar)

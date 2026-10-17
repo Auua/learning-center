@@ -22,6 +22,7 @@ tags: [vocab, jlpt/n2]
 ## Merkitys
 - **FI:** tietokone (henkilökohtainen)
 - **EN:** Personal Computer
+- **Ääni:** ![[tts_716855c21488.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 

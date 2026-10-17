@@ -7,8 +7,8 @@ func: [aihe, muodollinen]
 attaches: ["substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[～について (aiheesta)]]"]
-compare: ["[[～について (aiheesta)]]"]
+similar: ["[[～について (aiheesta)]]", "[[～にまつわる (liittyva, koskeva)]]", "[[～にかかわる (koskee, vaikuttaa)]]", "[[～をめぐって (ymparilla, koskien kiistaa)]]"]
+compare: ["[[～について (aiheesta)]]", "[[～にまつわる (liittyva, koskeva)]]", "[[～にかかわる (koskee, vaikuttaa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -73,3 +73,6 @@ Perusfunktio sama (aihe), mutta について on neutraalimpi yleiskieltä; に�
 #flashcards/grammar/n2/vertailu
 
 N＋に関する＋N2・N＋に関して (koskien) (similar/compare) ::: ～について (aiheesta) (similar/compare)
+N＋に関する＋N2・N＋に関して (koskien) (similar/compare) ::: ～にまつわる (liittyva, koskeva) (similar/compare)
+N＋に関する＋N2・N＋に関して (koskien) (similar/compare) ::: ～にかかわる (koskee, vaikuttaa) (similar/compare)
+N＋に関する＋N2・N＋に関して (koskien) (similar) ::: ～をめぐって (ymparilla, koskien kiistaa) (similar)

@@ -22,6 +22,7 @@ tags: [vocab, jlpt/n2]
 ## Merkitys
 - **FI:** ASEAN-maat
 - **EN:** ASEAN countries
+- **Ääni:** ![[tts_1e2c1e8eb1b0.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 

@@ -7,8 +7,8 @@ func: [kehotus, kiire]
 attaches: ["[[て-muoto]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[〜場合は (siina tapauksessa etta)]]"]
-compare: []
+similar: ["[[〜場合は (siina tapauksessa etta)]]", "[[～どころではない (ei ole aikaa, puhumattakaan)]]", "[[Vてはいられない (ei voi jaada tekemaan)]]"]
+compare: ["[[Vてはいられない (ei voi jaada tekemaan)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,6 +43,8 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 雨の場合は中止 (sateen sattuessa peruutetaan — ehto) vs. 遊んでいる場合じゃない (nyt ei ole aika leikkiä — kehotus).
 
+Vertailu: [[Vてはいられない (ei voi jaada tekemaan)]]
+
 ## Kortit
 #flashcards/grammar/n3
 
@@ -69,3 +71,5 @@ Ensimmäinen = ehto (siinä tapauksessa); toinen = kehotus (nyt ei ole aika).
 #flashcards/grammar/n3/vertailu
 
 V(て)いる／N＋場合じゃない／場合ではない (nyt ei ole aika) (similar) ::: 〜場合は (siina tapauksessa etta) (similar)
+V(て)いる／N＋場合じゃない／場合ではない (nyt ei ole aika) (similar) ::: ～どころではない (ei ole aikaa, puhumattakaan) (similar)
+V(て)いる／N＋場合じゃない／場合ではない (nyt ei ole aika) (similar/compare) ::: Vてはいられない (ei voi jaada tekemaan) (similar/compare)

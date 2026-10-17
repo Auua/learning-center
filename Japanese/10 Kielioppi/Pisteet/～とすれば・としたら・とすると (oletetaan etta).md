@@ -7,8 +7,8 @@ func: [oletus, ehto]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形としても (vaikka oletettaisiinkin)]]"]
-compare: ["[[～なら (jos kerran)]]", "[[普通形としても (vaikka oletettaisiinkin)]]"]
+similar: ["[[普通形としても (vaikka oletettaisiinkin)]]", "[[～となると・となれば (jos niin on, silloin)]]"]
+compare: ["[[～なら (jos kerran)]]", "[[普通形としても (vaikka oletettaisiinkin)]]", "[[～となると・となれば (jos niin on, silloin)]]", "[[そうすると (siina tapauksessa, sitten)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/ehto, jlpt/n3]
 ## Sekaannusvaara
 - 行くなら (jos (kerran) menet — toisen ilmoituksen pohjalta) vs. 行くとしたら (jos oletetaan, että menet — hypoteesi).
 
-Vertailu: [[～なら (jos kerran)]] · [[普通形としても (vaikka oletettaisiinkin)]]
+Vertailu: [[～なら (jos kerran)]] · [[普通形としても (vaikka oletettaisiinkin)]] · [[～となると・となれば (jos niin on, silloin)]] · [[そうすると (siina tapauksessa, sitten)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,4 +72,6 @@ Mitä eroa on としたら:lla ja とすると:lla?
 #flashcards/grammar/n3/vertailu
 
 普通形＋とすれば／としたら／とすると (oletetaan etta) (similar/compare) ::: 普通形としても (vaikka oletettaisiinkin) (similar/compare)
+普通形＋とすれば／としたら／とすると (oletetaan etta) (similar/compare) ::: ～となると・となれば (jos niin on, silloin) (similar/compare)
 普通形＋とすれば／としたら／とすると (oletetaan etta) (compare) ::: ～なら (jos kerran) (compare)
+普通形＋とすれば／としたら／とすると (oletetaan etta) (compare) ::: そうすると (siina tapauksessa, sitten) (compare)

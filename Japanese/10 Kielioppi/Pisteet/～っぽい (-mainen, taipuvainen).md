@@ -7,8 +7,8 @@ func: [vaikutelma, taipumus]
 attaches: ["substantiivi", "[[ます-muoto]]"]
 formality: puhekielinen
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[～らしい (tyypillisyys)]]", "[[～がち (taipumus, helposti)]]", "[[～気味 (hieman, taipumus)]]", "[[Nだらけ (taynna, kauttaaltaan)]]", "[[N的 (-llinen, -mainen)]]"]
+similar: ["[[～びる (-ltaan vaikuttava, -mainen)]]", "[[～じみた (vivahtaa johonkin, -mainen)]]"]
+compare: ["[[～らしい (tyypillisyys)]]", "[[～がち (taipumus, helposti)]]", "[[～気味 (hieman, taipumus)]]", "[[～がましい (vivahtaa johonkin, kielteinen)]]", "[[～じみた (vivahtaa johonkin, -mainen)]]", "[[Nだらけ (taynna, kauttaaltaan)]]", "[[N的 (-llinen, -mainen)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 男らしい (miehekäs — täyttää miehen ihanteen, myönteinen) vs. 男っぽい (miesmäinen — muistuttaa miestä, neutraali/kielteinen). Ks. [[～らしい (tyypillisyys)]].
 
-Vertailu: [[～らしい (tyypillisyys)]] · [[～がち (taipumus, helposti)]] · [[～気味 (hieman, taipumus)]] · [[Nだらけ (taynna, kauttaaltaan)]] · [[N的 (-llinen, -mainen)]]
+Vertailu: [[～らしい (tyypillisyys)]] · [[～がち (taipumus, helposti)]] · [[～気味 (hieman, taipumus)]] · [[～がましい (vivahtaa johonkin, kielteinen)]] · [[～じみた (vivahtaa johonkin, -mainen)]] · [[Nだらけ (taynna, kauttaaltaan)]] · [[N的 (-llinen, -mainen)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,8 +72,11 @@ Valkoisehko, vaalea (ei aivan valkoinen).
 
 #flashcards/grammar/n3/vertailu
 
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (similar) ::: ～びる (-ltaan vaikuttava, -mainen) (similar)
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (similar/compare) ::: ～じみた (vivahtaa johonkin, -mainen) (similar/compare)
 N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: ～らしい (tyypillisyys) (compare)
 N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: ～がち (taipumus, helposti) (compare)
 N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: ～気味 (hieman, taipumus) (compare)
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: ～がましい (vivahtaa johonkin, kielteinen) (compare)
 N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: Nだらけ (taynna, kauttaaltaan) (compare)
 N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: N的 (-llinen, -mainen) (compare)

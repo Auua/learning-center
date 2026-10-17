@@ -19,6 +19,7 @@ similar:
   - "[[Vまえに (ennen)]]"
   - "[[～際［に］ (silloin kun, muodollinen)]]"
   - "[[Vたびに (aina kun)]]"
+  - "[[～折に (tilaisuudessa, kun)]]"
 compare:
   - "[[～際［に］ (silloin kun, muodollinen)]]"
 sources:
@@ -100,3 +101,4 @@ V／adjとき (silloin kun) (similar) ::: 関係節 (suhteellinen sivulause) (si
 V／adjとき (silloin kun) (similar) ::: Vまえに (ennen) (similar)
 V／adjとき (silloin kun) (similar/compare) ::: ～際［に］ (silloin kun, muodollinen) (similar/compare)
 V／adjとき (silloin kun) (similar) ::: Vたびに (aina kun) (similar)
+V／adjとき (silloin kun) (similar) ::: ～折に (tilaisuudessa, kun) (similar)

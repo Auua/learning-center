@@ -7,8 +7,8 @@ func: [vahimmaismaara, arvio]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[Maara＋も (jopa, perati)]]"]
+similar: ["[[数量＋からある (perati, ainakin)]]"]
+compare: ["[[Maara＋も (jopa, perati)]]", "[[Vないまでも (vaikka ei ehka, ainakin)]]", "[[～なりとも (edes vahan)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 1時間はかかる (vähintään tunti — arvio alarajasta) vs. 1時間もかかった (peräti tunnin — yllätys).
 
-Vertailu: [[Maara＋も (jopa, perati)]]
+Vertailu: [[Maara＋も (jopa, perati)]] · [[Vないまでも (vaikka ei ehka, ainakin)]] · [[～なりとも (edes vahan)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -70,4 +70,7 @@ Se vahvistaa alarajaa: 少なくとも3回は.
 
 #flashcards/grammar/n3/vertailu
 
+Määrä＋は (vahintaan) (similar) ::: 数量＋からある (perati, ainakin) (similar)
 Määrä＋は (vahintaan) (compare) ::: Maara＋も (jopa, perati) (compare)
+Määrä＋は (vahintaan) (compare) ::: Vないまでも (vaikka ei ehka, ainakin) (compare)
+Määrä＋は (vahintaan) (compare) ::: ～なりとも (edes vahan) (compare)

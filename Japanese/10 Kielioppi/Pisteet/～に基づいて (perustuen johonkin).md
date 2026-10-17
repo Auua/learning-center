@@ -7,8 +7,8 @@ func: [peruste, muodollinen]
 attaches: ["substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: []
-compare: []
+similar: ["[[～に則って (mukaisesti, saannon mukaan)]]", "[[～に照らして (valossa, verrattuna)]]", "[[～を踏まえて (huomioon ottaen)]]", "[[～をもとに (pohjalta, perusteella)]]"]
+compare: ["[[～に則って (mukaisesti, saannon mukaan)]]", "[[～を踏まえて (huomioon ottaen)]]", "[[～に沿って (mukaisesti, pitkin)]]", "[[～をもとに (pohjalta, perusteella)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 21]]"]
 status: new
 confidence: 1
@@ -60,3 +60,11 @@ Konkreettisen perustan (データ, 事実, 経験, 調査結果); muodollinen, t
 Miten に基づいた toimii lauseessa?
 ?
 Adnominaalisena määritteenä substantiivin edessä: N に基づいた N2.
+
+#flashcards/grammar/n2/vertailu
+
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (similar/compare) ::: ～に則って (mukaisesti, saannon mukaan) (similar/compare)
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (similar) ::: ～に照らして (valossa, verrattuna) (similar)
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (similar/compare) ::: ～を踏まえて (huomioon ottaen) (similar/compare)
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (compare) ::: ～に沿って (mukaisesti, pitkin) (compare)
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (similar/compare) ::: ～をもとに (pohjalta, perusteella) (similar/compare)

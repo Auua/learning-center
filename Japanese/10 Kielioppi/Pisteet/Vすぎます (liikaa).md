@@ -7,8 +7,8 @@ func: [liiallisuus]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[～にもほどがある (liian, kaikella on rajansa)]]"]
+compare: ["[[～にもほどがある (liian, kaikella on rajansa)]]"]
 sources: ["[[Minna no Nihongo II#Luku 44]]"]
 status: new
 confidence: 1
@@ -66,3 +66,7 @@ Ichidan-verbinä: 飲みすぎる → 飲みすぎない、飲みすぎた.
 Millaisista asioista Vすぎます yleensä puhuu?
 ?
 Lähes aina ei-toivotuista tiloista tai määristä; positiivisessa mielessä harvoin (paitsi ironisesti).
+
+#flashcards/grammar/n4/vertailu
+
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋すぎます (liikaa) (similar/compare) ::: ～にもほどがある (liian, kaikella on rajansa) (similar/compare)

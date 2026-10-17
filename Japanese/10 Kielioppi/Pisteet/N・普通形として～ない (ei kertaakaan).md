@@ -7,8 +7,8 @@ func: [taydellinen-kielto, korostus]
 attaches: ["substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[決して～ない (ei missaan nimessa)]]"]
-compare: []
+similar: ["[[決して～ない (ei missaan nimessa)]]", "[[～たりとも (ei edes yhta)]]"]
+compare: ["[[～たりとも (ei edes yhta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 24]]"]
 status: new
 confidence: 1
@@ -63,3 +63,4 @@ Vahvempi ja muodollisempi; korostaa laskettavaa kokonaisuutta, jonka jokainen yk
 #flashcards/grammar/n1/vertailu
 
 N（yksikko）として＋kielteinen predikaatti (ei kertaakaan) (similar) ::: 決して～ない (ei missaan nimessa) (similar)
+N（yksikko）として＋kielteinen predikaatti (ei kertaakaan) (similar/compare) ::: ～たりとも (ei edes yhta) (similar/compare)

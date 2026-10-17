@@ -7,8 +7,8 @@ func: [neuvo, toive, riittavyys]
 attaches: ["[[Ehtomuoto ば]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]"]
-compare: ["[[疑問詞+たらいいですか (neuvon kysyminen)]]", "[[Vたほうがいいです (kannattaisi tehda)]]", "[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]"]
+similar: ["[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]", "[[Vないものか (eiko voisi mitenkaan)]]"]
+compare: ["[[疑問詞+たらいいですか (neuvon kysyminen)]]", "[[Vたほうがいいです (kannattaisi tehda)]]", "[[Vものなら (jos vain voisi)]]", "[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/ehto, jlpt/n3]
 ## Sekaannusvaara
 - 聞けばいい (riittää kun kysyt, helppo ratkaisu) vs. 聞いたほうがいい (olisi parempi kysyä, suositus).
 
-Vertailu: [[疑問詞+たらいいですか (neuvon kysyminen)]] · [[Vたほうがいいです (kannattaisi tehda)]] · [[Vといい・Vたらいい (toivottavasti, kannattaisi)]]
+Vertailu: [[疑問詞+たらいいですか (neuvon kysyminen)]] · [[Vたほうがいいです (kannattaisi tehda)]] · [[Vものなら (jos vain voisi)]] · [[Vといい・Vたらいい (toivottavasti, kannattaisi)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,5 +72,7 @@ Toivetta, jonka toteutuminen ei ole puhujan käsissä (usein toiselle).
 #flashcards/grammar/n3/vertailu
 
 V(ば-muoto)＋いい (riittaa kun, pitaisi) (similar/compare) ::: Vといい・Vたらいい (toivottavasti, kannattaisi) (similar/compare)
+V(ば-muoto)＋いい (riittaa kun, pitaisi) (similar) ::: Vないものか (eiko voisi mitenkaan) (similar)
 V(ば-muoto)＋いい (riittaa kun, pitaisi) (compare) ::: 疑問詞+たらいいですか (neuvon kysyminen) (compare)
 V(ば-muoto)＋いい (riittaa kun, pitaisi) (compare) ::: Vたほうがいいです (kannattaisi tehda) (compare)
+V(ば-muoto)＋いい (riittaa kun, pitaisi) (compare) ::: Vものなら (jos vain voisi) (compare)

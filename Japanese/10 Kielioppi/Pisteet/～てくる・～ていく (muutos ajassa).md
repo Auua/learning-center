@@ -17,8 +17,10 @@ similar:
   - "[[～てくる・～ていく (liikkeen suunta)]]"
   - "[[Vようになります (kyvyn tai tilan muutos)]]"
   - "[[～くなります・～になります (muutos)]]"
+  - "[[～つつある (on (vahitellen) -massa)]]"
 compare:
   - "[[～てくる・～ていく (liikkeen suunta)]]"
+  - "[[～つつある (on (vahitellen) -massa)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu I#Luku 6]]"
   - "[[Minna no Nihongo Chuukyuu I#Luku 11]]"
@@ -114,3 +116,4 @@ Vてくる／Vていく（muutos） (muutos ajassa) (similar) ::: Vてきます 
 Vてくる／Vていく（muutos） (muutos ajassa) (similar/compare) ::: ～てくる・～ていく (liikkeen suunta) (similar/compare)
 Vてくる／Vていく（muutos） (muutos ajassa) (similar) ::: Vようになります (kyvyn tai tilan muutos) (similar)
 Vてくる／Vていく（muutos） (muutos ajassa) (similar) ::: ～くなります・～になります (muutos) (similar)
+Vてくる／Vていく（muutos） (muutos ajassa) (similar/compare) ::: ～つつある (on (vahitellen) -massa) (similar/compare)

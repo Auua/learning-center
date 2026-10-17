@@ -8,7 +8,7 @@ attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[普通形らしい (kuulopuhe, paattely)]]"]
-compare: ["[[普通形らしい (kuulopuhe, paattely)]]", "[[～っぽい (-mainen, taipuvainen)]]", "[[N的 (-llinen, -mainen)]]"]
+compare: ["[[普通形らしい (kuulopuhe, paattely)]]", "[[～っぽい (-mainen, taipuvainen)]]", "[[N的 (-llinen, -mainen)]]", "[[Nならでは (vain jollekin ominainen)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 11]]"]
 status: new
 confidence: 1
@@ -78,3 +78,4 @@ Tyypillisyys-らしい liittyy suoraan substantiiviin (学生らしい服); kuul
 Nらしい〜・Nらしくない (tyypillisyys) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)
 Nらしい〜・Nらしくない (tyypillisyys) (compare) ::: ～っぽい (-mainen, taipuvainen) (compare)
 Nらしい〜・Nらしくない (tyypillisyys) (compare) ::: N的 (-llinen, -mainen) (compare)
+Nらしい〜・Nらしくない (tyypillisyys) (compare) ::: Nならでは (vain jollekin ominainen) (compare)

@@ -22,6 +22,7 @@ tags: [vocab, jlpt/n2]
 ## Merkitys
 - **FI:** kansalaisjärjestö
 - **EN:** NGO
+- **Ääni:** ![[tts_7066c56a27bb.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 

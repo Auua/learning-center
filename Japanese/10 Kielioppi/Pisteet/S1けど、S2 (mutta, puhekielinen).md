@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: puhekielinen
 register: [puhuttu, kirjoitettu]
 similar: ["[[S1が、S2 (mutta)]]", "[[だけど (mutta, lauseen alussa)]]"]
-compare: ["[[S1が、S2 (mutta)]]"]
+compare: ["[[S1が、S2 (mutta)]]", "[[～ものの (vaikka kylla)]]"]
 sources: ["[[JLPT Sensei#N5]]"]
 status: new
 confidence: 1
@@ -45,7 +45,7 @@ tags: [grammar/perusrakenne, jlpt/n5]
 ## Sekaannusvaara
 - が on kirjoitetumpi ja muodollisempi; puheessa ystävien kesken けど on luontevampi. Merkitys sama.
 
-Vertailu: [[S1が、S2 (mutta)]]
+Vertailu: [[S1が、S2 (mutta)]] · [[～ものの (vaikka kylla)]]
 
 ## Kortit
 #flashcards/grammar/n5
@@ -79,3 +79,4 @@ Sama merkitys; が on muodollisempi/kirjoitettu, けど puhekielinen.
 
 S1けど／けれど（も）、S2 (mutta, puhekielinen) (similar/compare) ::: S1が、S2 (mutta) (similar/compare)
 S1けど／けれど（も）、S2 (mutta, puhekielinen) (similar) ::: だけど (mutta, lauseen alussa) (similar)
+S1けど／けれど（も）、S2 (mutta, puhekielinen) (compare) ::: ～ものの (vaikka kylla) (compare)

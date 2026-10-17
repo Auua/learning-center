@@ -7,8 +7,8 @@ func: [muutos, suuntaus]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[一方（で） (toisaalta)]]", "[[Vにつれて (sita mukaa kun)]]"]
+similar: ["[[Vるばかりだ (vain pahenee)]]"]
+compare: ["[[一方（で） (toisaalta)]]", "[[Vにつれて (sita mukaa kun)]]", "[[Vるばかりだ (vain pahenee)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -42,7 +42,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 物価が上がっている (hinnat nousevat) vs. 物価が上がる一方だ (hinnat vain nousevat nousemistaan, eikä loppua näy).
 
-Vertailu: [[一方（で） (toisaalta)]] · [[Vにつれて (sita mukaa kun)]]
+Vertailu: [[一方（で） (toisaalta)]] · [[Vにつれて (sita mukaa kun)]] · [[Vるばかりだ (vain pahenee)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -69,5 +69,6 @@ Muutosverbejä: 増える, 減る, 悪くなる.
 
 #flashcards/grammar/n3/vertailu
 
+V(辞書形)＋一方だ (yha enemman) (similar/compare) ::: Vるばかりだ (vain pahenee) (similar/compare)
 V(辞書形)＋一方だ (yha enemman) (compare) ::: 一方（で） (toisaalta) (compare)
 V(辞書形)＋一方だ (yha enemman) (compare) ::: Vにつれて (sita mukaa kun) (compare)

@@ -7,8 +7,8 @@ func: [arvio, korostus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形と言える (voidaan sanoa etta)]]"]
-compare: ["[[～といっても (vaikka sanotaankin)]]"]
+similar: ["[[普通形と言える (voidaan sanoa etta)]]", "[[～と言えなくもない (voisi kai sanoa)]]"]
+compare: ["[[～といっても (vaikka sanotaankin)]]", "[[～と言えなくもない (voisi kai sanoa)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
 confidence: 1
@@ -42,7 +42,7 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ## Sekaannusvaara
 - と言ってもいい (voisi sanoa, arvio) vs. [[～といっても (vaikka sanotaankin)]] (myönnytys: vaikka sanotaan X, todellisuus on vaatimattomampi).
 
-Vertailu: [[～といっても (vaikka sanotaankin)]]
+Vertailu: [[～といっても (vaikka sanotaankin)]] · [[～と言えなくもない (voisi kai sanoa)]]
 
 ## Kortit
 #flashcards/grammar/n4
@@ -71,4 +71,5 @@ Mikä on と言ってもいい:n kirjallisempi muoto?
 #flashcards/grammar/n4/vertailu
 
 普通形＋と言ってもいい／と言っても過言ではない (voisi sanoa) (similar) ::: 普通形と言える (voidaan sanoa etta) (similar)
+普通形＋と言ってもいい／と言っても過言ではない (voisi sanoa) (similar/compare) ::: ～と言えなくもない (voisi kai sanoa) (similar/compare)
 普通形＋と言ってもいい／と言っても過言ではない (voisi sanoa) (compare) ::: ～といっても (vaikka sanotaankin) (compare)

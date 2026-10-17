@@ -7,8 +7,8 @@ func: [syy, syyttely]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[おかげで・おかげだ (myonteinen syy)]]", "[[S1から、S2 (syy)]]"]
-compare: ["[[おかげで・おかげだ (myonteinen syy)]]"]
+similar: ["[[おかげで・おかげだ (myonteinen syy)]]", "[[S1から、S2 (syy)]]", "[[～せいか (ehka siksi etta)]]"]
+compare: ["[[おかげで・おかげだ (myonteinen syy)]]", "[[～ばかりに (juuri siksi etta, ikava seuraus)]]", "[[～せいか (ehka siksi etta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 12]]"]
 status: new
 confidence: 1
@@ -82,3 +82,5 @@ Sama rakenne, mutta せいで: kielteinen seuraus, syyttävä sävy; おかげ�
 
 普通形（な・の）＋せいで／せいだ (kielteinen syy) (similar/compare) ::: おかげで・おかげだ (myonteinen syy) (similar/compare)
 普通形（な・の）＋せいで／せいだ (kielteinen syy) (similar) ::: S1から、S2 (syy) (similar)
+普通形（な・の）＋せいで／せいだ (kielteinen syy) (compare) ::: ～ばかりに (juuri siksi etta, ikava seuraus) (compare)
+普通形（な・の）＋せいで／せいだ (kielteinen syy) (similar/compare) ::: ～せいか (ehka siksi etta) (similar/compare)

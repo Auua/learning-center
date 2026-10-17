@@ -7,8 +7,8 @@ func: [edellytys, jarjestys]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vてから、V2 (jälkeen)]]"]
-compare: ["[[Vてはじめて (vasta silloin kun)]]"]
+similar: ["[[Vてから、V2 (jälkeen)]]", "[[～ないことには (ellei ensin)]]"]
+compare: ["[[Vてはじめて (vasta silloin kun)]]", "[[～ないことには (ellei ensin)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 食べてから寝る (syön ja sitten nukun — järjestys) vs. 食べてからでないと寝られない (en voi nukkua ennen kuin syön — edellytys).
 
-Vertailu: [[Vてはじめて (vasta silloin kun)]]
+Vertailu: [[Vてはじめて (vasta silloin kun)]] · [[～ないことには (ellei ensin)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -71,4 +71,5 @@ Kielteinen tai kielto: できない, いけない.
 #flashcards/grammar/n3/vertailu
 
 V(て-muoto)＋からでないと／からでなければ (vasta kun ensin) (similar) ::: Vてから、V2 (jälkeen) (similar)
+V(て-muoto)＋からでないと／からでなければ (vasta kun ensin) (similar/compare) ::: ～ないことには (ellei ensin) (similar/compare)
 V(て-muoto)＋からでないと／からでなければ (vasta kun ensin) (compare) ::: Vてはじめて (vasta silloin kun) (compare)

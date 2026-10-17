@@ -7,8 +7,8 @@ func: [keskeneraisyys, alkaminen]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vようとする (yrittaa, olla tekemaisillaan)]]"]
-compare: ["[[Vきる (tehda loppuun, kokonaan)]]", "[[Vようとする (yrittaa, olla tekemaisillaan)]]"]
+similar: ["[[Vようとする (yrittaa, olla tekemaisillaan)]]", "[[Vそびれる (jaada tekematta, menettaa tilaisuus)]]"]
+compare: ["[[Vきる (tehda loppuun, kokonaan)]]", "[[Vようとする (yrittaa, olla tekemaisillaan)]]", "[[Vそびれる (jaada tekematta, menettaa tilaisuus)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 言いかけた (aloin sanoa, mutta keskeytin) vs. 言おうとした (yritin sanoa, en ehkä edes aloittanut).
 
-Vertailu: [[Vきる (tehda loppuun, kokonaan)]] · [[Vようとする (yrittaa, olla tekemaisillaan)]]
+Vertailu: [[Vきる (tehda loppuun, kokonaan)]] · [[Vようとする (yrittaa, olla tekemaisillaan)]] · [[Vそびれる (jaada tekematta, menettaa tilaisuus)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -73,4 +73,5 @@ Olla vähällä kuolla (tila oli juuri alkamassa).
 #flashcards/grammar/n3/vertailu
 
 V(ます-vartalo)＋かける／かけの／かけだ (keskeneraista) (similar/compare) ::: Vようとする (yrittaa, olla tekemaisillaan) (similar/compare)
+V(ます-vartalo)＋かける／かけの／かけだ (keskeneraista) (similar/compare) ::: Vそびれる (jaada tekematta, menettaa tilaisuus) (similar/compare)
 V(ます-vartalo)＋かける／かけの／かけだ (keskeneraista) (compare) ::: Vきる (tehda loppuun, kokonaan) (compare)

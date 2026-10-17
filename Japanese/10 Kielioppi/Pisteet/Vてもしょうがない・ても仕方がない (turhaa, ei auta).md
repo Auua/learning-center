@@ -7,7 +7,7 @@ func: [turhuus, alistuminen]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vても始まらない (turha tehda)]]"]
+similar: ["[[Vても始まらない (turha tehda)]]", "[[Vてもどうにもならない (turha, ei auta)]]"]
 compare: ["[[～てしょうがない・てしかたがない (sietamattoman)]]", "[[Vても始まらない (turha tehda)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -72,4 +72,5 @@ Ei ihme, että suututtiin — seuraus on ymmärrettävä/ansaittu.
 #flashcards/grammar/n3/vertailu
 
 V(て)＋もしょうがない／も仕方がない (turhaa, ei auta) (similar/compare) ::: Vても始まらない (turha tehda) (similar/compare)
+V(て)＋もしょうがない／も仕方がない (turhaa, ei auta) (similar) ::: Vてもどうにもならない (turha, ei auta) (similar)
 V(て)＋もしょうがない／も仕方がない (turhaa, ei auta) (compare) ::: ～てしょうがない・てしかたがない (sietamattoman) (compare)

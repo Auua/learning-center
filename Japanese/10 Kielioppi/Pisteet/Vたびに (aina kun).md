@@ -7,8 +7,8 @@ func: [toistuvuus, ajankohta]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[V・adjとき (silloin kun)]]"]
-compare: ["[[～ごとに (joka, kunkin)]]"]
+similar: ["[[V・adjとき (silloin kun)]]", "[[～につけ (aina kun)]]"]
+compare: ["[[～ごとに (joka, kunkin)]]", "[[～につけ (aina kun)]]", "[[Vては・Vでは (aina kun, toistuvasti)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -65,3 +65,5 @@ Miten Vたびに eroaa 〜とき-rakenteesta?
 
 V辞書形／Nの＋たびに (aina kun) (similar) ::: V・adjとき (silloin kun) (similar)
 V辞書形／Nの＋たびに (aina kun) (compare) ::: ～ごとに (joka, kunkin) (compare)
+V辞書形／Nの＋たびに (aina kun) (similar/compare) ::: ～につけ (aina kun) (similar/compare)
+V辞書形／Nの＋たびに (aina kun) (compare) ::: Vては・Vでは (aina kun, toistuvasti) (compare)

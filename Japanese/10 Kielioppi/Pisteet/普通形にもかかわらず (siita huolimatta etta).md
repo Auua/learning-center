@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
 similar: ["[[普通形ながら (myonnytys, vaikka)]]", "[[たとえ～ても (vaikka kuinka)]]"]
-compare: ["[[普通形ながら (myonnytys, vaikka)]]"]
+compare: ["[[普通形ながら (myonnytys, vaikka)]]", "[[～にかかわらず (riippumatta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 16]]"]
 status: new
 confidence: 1
@@ -76,3 +76,4 @@ Kumpi: にもかかわらず vai ながら, kun halutaan ilmaista myönnytys ark
 
 普通形（な・の）＋にもかかわらず (siita huolimatta etta) (similar/compare) ::: 普通形ながら (myonnytys, vaikka) (similar/compare)
 普通形（な・の）＋にもかかわらず (siita huolimatta etta) (similar) ::: たとえ～ても (vaikka kuinka) (similar)
+普通形（な・の）＋にもかかわらず (siita huolimatta etta) (compare) ::: ～にかかわらず (riippumatta) (compare)

@@ -7,7 +7,7 @@ func: [myonnytys, vastakohta]
 attaches: ["[[ます-muoto]]", "substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[普通形ながら (myonnytys, vaikka)]]", "[[～ことは～が (kylla mutta)]]"]
+similar: ["[[普通形ながら (myonnytys, vaikka)]]", "[[～ものの (vaikka kylla)]]", "[[～つつ (samalla kun, vaikka)]]", "[[～ことは～が (kylla mutta)]]"]
 compare: ["[[普通形ながら (myonnytys, vaikka)]]", "[[～くせに (vaikka, moittiva)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -72,5 +72,7 @@ Ensimmäinen = samanaikaisuus; jälkimmäinen = myönnytys (vaikka).
 #flashcards/grammar/n3/vertailu
 
 V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (similar/compare) ::: 普通形ながら (myonnytys, vaikka) (similar/compare)
+V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (similar) ::: ～ものの (vaikka kylla) (similar)
+V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (similar) ::: ～つつ (samalla kun, vaikka) (similar)
 V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (similar) ::: ～ことは～が (kylla mutta) (similar)
 V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (compare) ::: ～くせに (vaikka, moittiva) (compare)

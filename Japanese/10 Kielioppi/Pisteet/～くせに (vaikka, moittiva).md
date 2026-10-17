@@ -7,8 +7,8 @@ func: [myonnytys, moite]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]", "substantiivi"]
 formality: puhekielinen
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[普通形のに (vaikka, pettymys)]]", "[[～ながらも (vaikka, kirjallinen myonnytys)]]"]
+similar: ["[[～くせして (vaikka, moittiva puhekieli)]]"]
+compare: ["[[普通形のに (vaikka, pettymys)]]", "[[～くせして (vaikka, moittiva puhekieli)]]", "[[～ながらも (vaikka, kirjallinen myonnytys)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 約束したのに来なかった (pettymys) vs. 約束したくせに来なかった (moite: lupasi, mutta kehtasi jättää tulematta).
 
-Vertailu: [[普通形のに (vaikka, pettymys)]] · [[～ながらも (vaikka, kirjallinen myonnytys)]]
+Vertailu: [[普通形のに (vaikka, pettymys)]] · [[～くせして (vaikka, moittiva puhekieli)]] · [[～ながらも (vaikka, kirjallinen myonnytys)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,5 +72,6 @@ Ei yleensä — se moittii toista ihmistä.
 
 #flashcards/grammar/n3/vertailu
 
+普通形（N の／な-adj な）＋くせに (vaikka, moittiva) (similar/compare) ::: ～くせして (vaikka, moittiva puhekieli) (similar/compare)
 普通形（N の／な-adj な）＋くせに (vaikka, moittiva) (compare) ::: 普通形のに (vaikka, pettymys) (compare)
 普通形（N の／な-adj な）＋くせに (vaikka, moittiva) (compare) ::: ～ながらも (vaikka, kirjallinen myonnytys) (compare)

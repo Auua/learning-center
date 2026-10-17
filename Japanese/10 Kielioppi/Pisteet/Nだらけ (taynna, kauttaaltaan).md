@@ -7,8 +7,8 @@ func: [maara, kielteisyys]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[～てばかりいる・～ばかり～ている (liiallinen keskittyminen)]]", "[[～っぽい (-mainen, taipuvainen)]]"]
+similar: ["[[Nまみれ (taysin jonkin peitossa)]]", "[[Nずくめ (pelkkaa, taynna)]]"]
+compare: ["[[～てばかりいる・～ばかり～ている (liiallinen keskittyminen)]]", "[[～っぽい (-mainen, taipuvainen)]]", "[[Nまみれ (taysin jonkin peitossa)]]", "[[Nずくめ (pelkkaa, taynna)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - ごみでいっぱい (täynnä roskaa, neutraali) vs. ごみだらけ (roskaa joka puolella, inhottava).
 
-Vertailu: [[～てばかりいる・～ばかり～ている (liiallinen keskittyminen)]] · [[～っぽい (-mainen, taipuvainen)]]
+Vertailu: [[～てばかりいる・～ばかり～ている (liiallinen keskittyminen)]] · [[～っぽい (-mainen, taipuvainen)]] · [[Nまみれ (taysin jonkin peitossa)]] · [[Nずくめ (pelkkaa, taynna)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -71,5 +71,7 @@ Ei luontevasti — だらけ on kielteinen; käytä 花でいっぱい.
 
 #flashcards/grammar/n3/vertailu
 
+N＋だらけ (taynna, kauttaaltaan) (similar/compare) ::: Nまみれ (taysin jonkin peitossa) (similar/compare)
+N＋だらけ (taynna, kauttaaltaan) (similar/compare) ::: Nずくめ (pelkkaa, taynna) (similar/compare)
 N＋だらけ (taynna, kauttaaltaan) (compare) ::: ～てばかりいる・～ばかり～ている (liiallinen keskittyminen) (compare)
 N＋だらけ (taynna, kauttaaltaan) (compare) ::: ～っぽい (-mainen, taipuvainen) (compare)

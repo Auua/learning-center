@@ -7,8 +7,8 @@ func: [alkusysays, kaannekohta]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: []
+similar: ["[[～を機に (tilaisuutena, kaanteena)]]", "[[～を契機に (sysayksena, kaanteena)]]"]
+compare: ["[[～を契機に (sysayksena, kaanteena)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 23]]"]
 status: new
 confidence: 1
@@ -60,3 +60,8 @@ Lähes aina 〜ようになる: pysyvä muutos tapaan tai kiinnostukseen; kyse o
 Miten がきっかけで ja をきっかけに eroavat käyttösävyltään?
 ?
 がきっかけで on henkilökohtaisempi (oma tarina); をきっかけに sopii myös laajempiin, yhteiskunnallisiin muutoksiin (火災をきっかけに法律が変わった).
+
+#flashcards/grammar/n2/vertailu
+
+N／普通形（の）＋がきっかけで・をきっかけに (sysayksena) (similar) ::: ～を機に (tilaisuutena, kaanteena) (similar)
+N／普通形（の）＋がきっかけで・をきっかけに (sysayksena) (similar/compare) ::: ～を契機に (sysayksena, kaanteena) (similar/compare)

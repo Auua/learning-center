@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[～を～と言う・～という～ (nimeaminen)]]", "[[普通形と言います (lainaus)]]"]
-compare: ["[[～を～と言う・～という～ (nimeaminen)]]"]
+compare: ["[[～を～と言う・～という～ (nimeaminen)]]", "[[NというN (jokainen, poikkeuksetta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 2]]"]
 status: new
 confidence: 1
@@ -84,3 +84,4 @@ Nimeämisessä という:n edellä on erisnimi; tässä sen edellä on kokonaine
 
 普通形という～ (raportoitu sisalto) (similar/compare) ::: ～を～と言う・～という～ (nimeaminen) (similar/compare)
 普通形という～ (raportoitu sisalto) (similar) ::: 普通形と言います (lainaus) (similar)
+普通形という～ (raportoitu sisalto) (compare) ::: NというN (jokainen, poikkeuksetta) (compare)

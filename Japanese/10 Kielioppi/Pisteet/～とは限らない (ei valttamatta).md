@@ -7,8 +7,8 @@ func: [osittainen-kielto, poikkeus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形わけではない (ei tarkoita etta aina)]]"]
-compare: ["[[普通形わけではない (ei tarkoita etta aina)]]"]
+similar: ["[[普通形わけではない (ei tarkoita etta aina)]]", "[[Vないとも限らない (saattaa hyvinkin)]]", "[[～というものではない (ei valttamatta ole niin)]]"]
+compare: ["[[普通形わけではない (ei tarkoita etta aina)]]", "[[Vないとも限らない (saattaa hyvinkin)]]", "[[～というものではない (ei valttamatta ole niin)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 高いわけではない (se ei ole kallis — kumoaa yksittäisen väitteen) vs. 高いとは限らない (ei välttämättä ole kallis — kumoaa yleistyksen).
 
-Vertailu: [[普通形わけではない (ei tarkoita etta aina)]]
+Vertailu: [[普通形わけではない (ei tarkoita etta aina)]] · [[Vないとも限らない (saattaa hyvinkin)]] · [[～というものではない (ei valttamatta ole niin)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -71,3 +71,5 @@ Minkä sanojen kanssa とは限らない esiintyy usein?
 #flashcards/grammar/n3/vertailu
 
 普通形＋とは限らない (ei valttamatta) (similar/compare) ::: 普通形わけではない (ei tarkoita etta aina) (similar/compare)
+普通形＋とは限らない (ei valttamatta) (similar/compare) ::: Vないとも限らない (saattaa hyvinkin) (similar/compare)
+普通形＋とは限らない (ei valttamatta) (similar/compare) ::: ～というものではない (ei valttamatta ole niin) (similar/compare)

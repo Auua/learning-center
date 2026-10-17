@@ -7,7 +7,7 @@ func: [varotoimi, syy]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vように (jotta, niin etta)]]"]
+similar: ["[[Vように (jotta, niin etta)]]", "[[Vことのないように (jottei, ettei vain)]]"]
 compare: ["[[Vように (jotta, niin etta)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -72,3 +72,4 @@ Varotoimi: ておく, 持っていく.
 #flashcards/grammar/n3/vertailu
 
 V(て)＋はいけないから／といけないから (ettei vain) (similar/compare) ::: Vように (jotta, niin etta) (similar/compare)
+V(て)＋はいけないから／といけないから (ettei vain) (similar) ::: Vことのないように (jottei, ettei vain) (similar)

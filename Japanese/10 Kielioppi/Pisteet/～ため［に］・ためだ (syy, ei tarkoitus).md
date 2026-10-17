@@ -7,8 +7,8 @@ func: [syy, seuraus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vために・Nのために (tarkoitusta varten)]]", "[[S1から、S2 (syy)]]", "[[〜ので (pehmea syy)]]", "[[そのために (siksi, sita varten)]]"]
-compare: ["[[Vために・Nのために (tarkoitusta varten)]]", "[[そのために (siksi, sita varten)]]"]
+similar: ["[[Vために・Nのために (tarkoitusta varten)]]", "[[S1から、S2 (syy)]]", "[[〜ので (pehmea syy)]]", "[[そのために (siksi, sita varten)]]", "[[～ゆえに (siksi, koska, kirjallinen)]]"]
+compare: ["[[Vために・Nのために (tarkoitusta varten)]]", "[[そのために (siksi, sita varten)]]", "[[～こともあって (osittain siksi etta)]]", "[[～ゆえに (siksi, koska, kirjallinen)]]", "[[～につき (johdosta, kohden)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 9]]"]
 status: new
 confidence: 1
@@ -83,3 +83,6 @@ Tulevaisuuteen suuntautuva tahdonalainen tavoite → tarkoitus-ために (店を
 普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar) ::: S1から、S2 (syy) (similar)
 普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar) ::: 〜ので (pehmea syy) (similar)
 普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar/compare) ::: そのために (siksi, sita varten) (similar/compare)
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (compare) ::: ～こともあって (osittain siksi etta) (compare)
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar/compare) ::: ～ゆえに (siksi, koska, kirjallinen) (similar/compare)
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (compare) ::: ～につき (johdosta, kohden) (compare)

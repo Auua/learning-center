@@ -7,8 +7,8 @@ func: [uudelleenmuotoilu, tarkennus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[AよりむしろB (pikemminkin)]]"]
-compare: ["[[AよりむしろB (pikemminkin)]]"]
+similar: ["[[AよりむしろB (pikemminkin)]]", "[[～というか～というか (sanoisinko A vai B)]]"]
+compare: ["[[AよりむしろB (pikemminkin)]]", "[[～というか～というか (sanoisinko A vai B)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 22]]"]
 status: new
 confidence: 1
@@ -64,3 +64,4 @@ Itsekorjauksessa keskustelussa ja täsmällisyyttä tavoittelevassa kirjoitukses
 #flashcards/grammar/n2/vertailu
 
 N／普通形＋というより (ennemminkin kuin) (similar/compare) ::: AよりむしろB (pikemminkin) (similar/compare)
+N／普通形＋というより (ennemminkin kuin) (similar/compare) ::: ～というか～というか (sanoisinko A vai B) (similar/compare)

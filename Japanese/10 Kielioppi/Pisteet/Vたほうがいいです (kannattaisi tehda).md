@@ -13,7 +13,7 @@ register:
   - puhuttu
   - kirjoitettu
 similar: []
-compare: ["[[Vばいい (riittaa kun, pitaisi)]]", "[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]"]
+compare: ["[[Vばいい (riittaa kun, pitaisi)]]", "[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]", "[[ほうがましだ (mieluummin, parempi kuin)]]", "[[Vことだ (kannattaa, neuvo)]]", "[[～に越したことはない (on parasta jos)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 32]]"
 status: shaky
@@ -91,3 +91,6 @@ Miten ほうがいいです eroaa 疑問詞+たらいいですか-rakenteesta?
 
 V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: Vばいい (riittaa kun, pitaisi) (compare)
 V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: Vといい・Vたらいい (toivottavasti, kannattaisi) (compare)
+V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: ほうがましだ (mieluummin, parempi kuin) (compare)
+V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: Vことだ (kannattaa, neuvo) (compare)
+V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: ～に越したことはない (on parasta jos) (compare)

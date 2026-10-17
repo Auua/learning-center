@@ -16,7 +16,8 @@ register:
 similar:
   - "[[普通形し、普通形し (perustelujen luettelointi)]]"
   - "[[～上に (lisaksi, paalle paatteeksi)]]"
-compare: []
+  - "[[しかも (lisaksi, vielapa)]]"
+compare: ["[[しかも (lisaksi, vielapa)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 28]]"
 status: known
@@ -92,3 +93,4 @@ Kumpi: それに vai それで, kun haluan lisätä uuden perusteen / kertoa seu
 
 それに・それで (lisaksi, niinpa) (similar) ::: 普通形し、普通形し (perustelujen luettelointi) (similar)
 それに・それで (lisaksi, niinpa) (similar) ::: ～上に (lisaksi, paalle paatteeksi) (similar)
+それに・それで (lisaksi, niinpa) (similar/compare) ::: しかも (lisaksi, vielapa) (similar/compare)

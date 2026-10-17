@@ -7,8 +7,8 @@ func: [virallinen-maaritys, muodollinen-valine]
 attaches: ["substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[～を通して (jonkin kautta)]]"]
-compare: []
+similar: ["[[～を通して (jonkin kautta)]]", "[[～ものとする (katsotaan, oletetaan)]]", "[[～をもって (avulla, alkaen, paattyen)]]"]
+compare: ["[[～をもって (avulla, alkaen, paattyen)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 22]]"]
 status: new
 confidence: 1
@@ -63,3 +63,5 @@ N toimii virallisena perustana tai kriteerinä, jolle status tai päätös raken
 #flashcards/grammar/n1/vertailu
 
 N＋をもって＋N2とする (maaritellaan viralliseksi) (similar) ::: ～を通して (jonkin kautta) (similar)
+N＋をもって＋N2とする (maaritellaan viralliseksi) (similar) ::: ～ものとする (katsotaan, oletetaan) (similar)
+N＋をもって＋N2とする (maaritellaan viralliseksi) (similar/compare) ::: ～をもって (avulla, alkaen, paattyen) (similar/compare)

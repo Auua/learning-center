@@ -7,7 +7,7 @@ func: [aariarvot, kattavuus]
 attaches: ["substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[～から～にかけて (jostakin johonkin, vali)]]"]
+similar: ["[[～から～にかけて (jostakin johonkin, vali)]]", "[[～に至る (paatya, johtaa)]]"]
 compare: ["[[～から～にかけて (jostakin johonkin, vali)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 24]]"]
 status: new
@@ -72,3 +72,4 @@ Kumpi: から〜にかけて vai から〜に至るまで, kun halutaan korostaa
 #flashcards/grammar/n1/vertailu
 
 N1から　N2に至るまで (aina jostakin johonkin asti) (similar/compare) ::: ～から～にかけて (jostakin johonkin, vali) (similar/compare)
+N1から　N2に至るまで (aina jostakin johonkin asti) (similar) ::: ～に至る (paatya, johtaa) (similar)

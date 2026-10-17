@@ -17,11 +17,13 @@ similar:
   - "[[Vても いいです・Vては いけません (lupa ja kielto)]]"
   - "[[～なくてもかまいません (ei tarvitse, ei haittaa)]]"
   - "[[Vて済む・ないで済む (selvita pelkalla)]]"
+  - "[[Vずとも (vaikka ei, ilmankin)]]"
 compare:
   - "[[～なくてもかまいません (ei tarvitse, ei haittaa)]]"
   - "[[Vことはない (ei tarvitse)]]"
   - "[[Vて済む・ないで済む (selvita pelkalla)]]"
   - "[[Vる必要がある (on tarpeen tehda)]]"
+  - "[[Vずとも (vaikka ei, ilmankin)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 17]]"
   - "[[Minna no Nihongo Chuukyuu I#Luku 7]]"
@@ -94,3 +96,4 @@ Vなくてもいいです (ei tarvitse) (similar/compare) ::: ～なくてもか
 Vなくてもいいです (ei tarvitse) (compare) ::: Vことはない (ei tarvitse) (compare)
 Vなくてもいいです (ei tarvitse) (similar/compare) ::: Vて済む・ないで済む (selvita pelkalla) (similar/compare)
 Vなくてもいいです (ei tarvitse) (compare) ::: Vる必要がある (on tarpeen tehda) (compare)
+Vなくてもいいです (ei tarvitse) (similar/compare) ::: Vずとも (vaikka ei, ilmankin) (similar/compare)

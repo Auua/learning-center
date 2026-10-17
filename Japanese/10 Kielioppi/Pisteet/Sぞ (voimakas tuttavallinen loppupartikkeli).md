@@ -7,7 +7,7 @@ func: [loppupartikkeli, korostus]
 attaches: ["lause"]
 formality: puhekielinen
 register: [puhuttu]
-similar: ["[[Sよ (uuden tiedon korostus)]]"]
+similar: ["[[Sよ (uuden tiedon korostus)]]", "[[Sさ (painotus, tuttavallinen)]]"]
 compare: ["[[Sよ (uuden tiedon korostus)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
@@ -73,3 +73,4 @@ Miten Sぞ eroaa Sよ:sta?
 #flashcards/grammar/n3/vertailu
 
 S＋ぞ (voimakas tuttavallinen loppupartikkeli) (similar/compare) ::: Sよ (uuden tiedon korostus) (similar/compare)
+S＋ぞ (voimakas tuttavallinen loppupartikkeli) (similar) ::: Sさ (painotus, tuttavallinen) (similar)

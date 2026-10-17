@@ -7,8 +7,8 @@ func: [lisays, itsestaanselvyys]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[～だけでなく (ei pelkastaan vaan myos)]]", "[[～をはじめ (mukaan lukien, ensimmaisena)]]"]
+similar: ["[[～もさることながら (lisaksi, puhumattakaan)]]", "[[～はおろか (puhumattakaan, ei edes)]]", "[[～はもとより (puhumattakaan, tietysti myos)]]"]
+compare: ["[[～だけでなく (ei pelkastaan vaan myos)]]", "[[～をはじめ (mukaan lukien, ensimmaisena)]]", "[[～もさることながら (lisaksi, puhumattakaan)]]", "[[～はもとより (puhumattakaan, tietysti myos)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 日本だけでなく海外でも (ei vain Japanissa vaan myös ulkomailla — neutraali) vs. 日本はもちろん海外でも (Japanissa tietenkin, mutta myös ulkomailla — Japani itsestäänselvä).
 
-Vertailu: [[～だけでなく (ei pelkastaan vaan myos)]] · [[～をはじめ (mukaan lukien, ensimmaisena)]]
+Vertailu: [[～だけでなく (ei pelkastaan vaan myos)]] · [[～をはじめ (mukaan lukien, ensimmaisena)]] · [[～もさることながら (lisaksi, puhumattakaan)]] · [[～はもとより (puhumattakaan, tietysti myos)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -70,5 +70,8 @@ Mikä partikkeli tulee yleensä jälkiosaan?
 
 #flashcards/grammar/n3/vertailu
 
+N＋はもちろん（N も） (puhumattakaan) (similar/compare) ::: ～もさることながら (lisaksi, puhumattakaan) (similar/compare)
+N＋はもちろん（N も） (puhumattakaan) (similar) ::: ～はおろか (puhumattakaan, ei edes) (similar)
+N＋はもちろん（N も） (puhumattakaan) (similar/compare) ::: ～はもとより (puhumattakaan, tietysti myos) (similar/compare)
 N＋はもちろん（N も） (puhumattakaan) (compare) ::: ～だけでなく (ei pelkastaan vaan myos) (compare)
 N＋はもちろん（N も） (puhumattakaan) (compare) ::: ～をはじめ (mukaan lukien, ensimmaisena) (compare)

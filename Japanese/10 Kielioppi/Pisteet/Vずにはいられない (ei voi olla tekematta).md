@@ -7,8 +7,8 @@ func: [tunne, pakko]
 attaches: ["[[ない-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～てしょうがない・てしかたがない (sietamattoman)]]"]
-compare: ["[[～てしょうがない・てしかたがない (sietamattoman)]]"]
+similar: ["[[～てしょうがない・てしかたがない (sietamattoman)]]", "[[～を禁じ得ない (ei voi olla tuntematta)]]", "[[Vずにはおかない (saa vaistamatta aikaan)]]"]
+compare: ["[[～てしょうがない・てしかたがない (sietamattoman)]]", "[[～を禁じ得ない (ei voi olla tuntematta)]]", "[[Vずにはおかない (saa vaistamatta aikaan)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 笑いたくてしょうがない (tekee hirveästi mieli nauraa — tunne) vs. 笑わずにはいられない (en voi olla nauramatta — toiminta tapahtuu).
 
-Vertailu: [[～てしょうがない・てしかたがない (sietamattoman)]]
+Vertailu: [[～てしょうがない・てしかたがない (sietamattoman)]] · [[～を禁じ得ない (ei voi olla tuntematta)]] · [[Vずにはおかない (saa vaistamatta aikaan)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,3 +72,5 @@ Mikä on する-verbin ず-muoto?
 #flashcards/grammar/n3/vertailu
 
 V(ない-vartalo)＋ずにはいられない (ei voi olla tekematta) (similar/compare) ::: ～てしょうがない・てしかたがない (sietamattoman) (similar/compare)
+V(ない-vartalo)＋ずにはいられない (ei voi olla tekematta) (similar/compare) ::: ～を禁じ得ない (ei voi olla tuntematta) (similar/compare)
+V(ない-vartalo)＋ずにはいられない (ei voi olla tekematta) (similar/compare) ::: Vずにはおかない (saa vaistamatta aikaan) (similar/compare)

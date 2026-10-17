@@ -7,8 +7,8 @@ func: [kokeilu]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vてごらん (kokeilepa)]]"]
-compare: ["[[Vてごらん (kokeilepa)]]"]
+similar: ["[[Vてごらん (kokeilepa)]]", "[[Vてみせる (naytan, teen varmasti)]]"]
+compare: ["[[Vてごらん (kokeilepa)]]", "[[Vてみせる (naytan, teen varmasti)]]"]
 sources: ["[[Minna no Nihongo II#Luku 40]]"]
 status: new
 confidence: 1
@@ -71,3 +71,4 @@ Kaupassa sovittaessa: 着てみてもいいですか (saanko kokeilla päälle).
 #flashcards/grammar/n4/vertailu
 
 Vて-form みます (kokeilla tehda) (similar/compare) ::: Vてごらん (kokeilepa) (similar/compare)
+Vて-form みます (kokeilla tehda) (similar/compare) ::: Vてみせる (naytan, teen varmasti) (similar/compare)

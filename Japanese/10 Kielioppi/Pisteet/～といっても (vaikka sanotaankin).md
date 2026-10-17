@@ -7,8 +7,8 @@ func: [myonnytys, tarkennus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形からといって (vaikka onkin niin)]]"]
-compare: ["[[～と言ってもいい (voisi sanoa)]]", "[[普通形からといって (vaikka onkin niin)]]"]
+similar: ["[[普通形からといって (vaikka onkin niin)]]", "[[～とはいえ (vaikka, tosin)]]"]
+compare: ["[[～と言ってもいい (voisi sanoa)]]", "[[普通形からといって (vaikka onkin niin)]]", "[[～とはいえ (vaikka, tosin)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 日本語ができるからといって (vaikka osaa japania, se ei tarkoita — väärä päätelmä) vs. 日本語ができるといっても (osaan kyllä japania, mutta vain vähän — tarkennus).
 
-Vertailu: [[～と言ってもいい (voisi sanoa)]] · [[普通形からといって (vaikka onkin niin)]]
+Vertailu: [[～と言ってもいい (voisi sanoa)]] · [[普通形からといって (vaikka onkin niin)]] · [[～とはいえ (vaikka, tosin)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -71,4 +71,5 @@ Odotusta vähentävä: vain vähän, ei niin hienoa.
 #flashcards/grammar/n3/vertailu
 
 普通形（N/な-adj だ voi pudota）＋といっても (vaikka sanotaankin) (similar/compare) ::: 普通形からといって (vaikka onkin niin) (similar/compare)
+普通形（N/な-adj だ voi pudota）＋といっても (vaikka sanotaankin) (similar/compare) ::: ～とはいえ (vaikka, tosin) (similar/compare)
 普通形（N/な-adj だ voi pudota）＋といっても (vaikka sanotaankin) (compare) ::: ～と言ってもいい (voisi sanoa) (compare)

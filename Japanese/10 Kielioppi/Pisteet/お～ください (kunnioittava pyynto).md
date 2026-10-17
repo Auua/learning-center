@@ -7,8 +7,8 @@ func: [pyynto, keigo]
 attaches: ["[[ます-muoto]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[お～になる (kunnioittava toisen teko)]]"]
-compare: ["[[Vて ください (pyyntö)]]"]
+similar: ["[[お～になる (kunnioittava toisen teko)]]", "[[お～願う (kohtelias pyynto)]]"]
+compare: ["[[Vて ください (pyyntö)]]", "[[お～願う (kohtelias pyynto)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/keigo, jlpt/n4]
 ## Sekaannusvaara
 - 待ってください (odottakaa) vs. お待ちください (olkaa hyvä ja odottakaa — kunnioittava, palvelukieli).
 
-Vertailu: [[Vて ください (pyyntö)]]
+Vertailu: [[Vて ください (pyyntö)]] · [[お～願う (kohtelias pyynto)]]
 
 ## Kortit
 #flashcards/grammar/n4
@@ -72,4 +72,5 @@ Jälkimmäinen on kunnioittava (尊敬語) palvelu- ja kuulutuskieli.
 #flashcards/grammar/n4/vertailu
 
 お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (similar) ::: お～になる (kunnioittava toisen teko) (similar)
+お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (similar/compare) ::: お～願う (kohtelias pyynto) (similar/compare)
 お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (compare) ::: Vて ください (pyyntö) (compare)

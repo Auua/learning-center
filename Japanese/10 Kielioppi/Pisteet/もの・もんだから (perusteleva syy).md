@@ -7,8 +7,8 @@ func: [syy, selittely]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu]
-similar: ["[[S1から、S2 (syy)]]", "[[〜ので (pehmea syy)]]", "[[だって～もん (puhekielinen perustelu)]]"]
-compare: ["[[S1から、S2 (syy)]]", "[[だって～もん (puhekielinen perustelu)]]"]
+similar: ["[[S1から、S2 (syy)]]", "[[〜ので (pehmea syy)]]", "[[だって～もん (puhekielinen perustelu)]]", "[[～もので (koska, selittely)]]"]
+compare: ["[[S1から、S2 (syy)]]", "[[だって～もん (puhekielinen perustelu)]]", "[[～こととて (koska, kirjallinen)]]", "[[～もので (koska, selittely)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 12]]"]
 status: new
 confidence: 1
@@ -85,3 +85,5 @@ Miten もの・もんだから eroaa tavallisesta から-syystä?
 普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
 普通形＋もの／もんだから (perusteleva syy) (similar) ::: 〜ので (pehmea syy) (similar)
 普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: だって～もん (puhekielinen perustelu) (similar/compare)
+普通形＋もの／もんだから (perusteleva syy) (compare) ::: ～こととて (koska, kirjallinen) (compare)
+普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: ～もので (koska, selittely) (similar/compare)

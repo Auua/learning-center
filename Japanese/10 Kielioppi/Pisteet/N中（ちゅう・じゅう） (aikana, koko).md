@@ -8,7 +8,7 @@ attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: []
-compare: ["[[～あいだ・～あいだに (kesto vs. hetki)]]", "[[～最中に (keskella, parhaillaan)]]"]
+compare: ["[[～あいだ・～あいだに (kesto vs. hetki)]]", "[[～最中に (keskella, parhaillaan)]]", "[[Nぐるみ (koko, yhdessa)]]", "[[～中を (keskella, -sta huolimatta)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 会議中 (kokous on käynnissä) vs. 一晩中 (koko yön ajan).
 
-Vertailu: [[～あいだ・～あいだに (kesto vs. hetki)]] · [[～最中に (keskella, parhaillaan)]]
+Vertailu: [[～あいだ・～あいだに (kesto vs. hetki)]] · [[～最中に (keskella, parhaillaan)]] · [[Nぐるみ (koko, yhdessa)]] · [[～中を (keskella, -sta huolimatta)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -74,3 +74,5 @@ Miten 今日中に luetaan ja mitä se tarkoittaa?
 
 N＋中（ちゅう／じゅう） (aikana, koko) (compare) ::: ～あいだ・～あいだに (kesto vs. hetki) (compare)
 N＋中（ちゅう／じゅう） (aikana, koko) (compare) ::: ～最中に (keskella, parhaillaan) (compare)
+N＋中（ちゅう／じゅう） (aikana, koko) (compare) ::: Nぐるみ (koko, yhdessa) (compare)
+N＋中（ちゅう／じゅう） (aikana, koko) (compare) ::: ～中を (keskella, -sta huolimatta) (compare)

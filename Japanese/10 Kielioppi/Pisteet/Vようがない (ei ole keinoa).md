@@ -7,8 +7,8 @@ func: [mahdottomuus, keino]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[Vしかない (ei ole muuta vaihtoehtoa)]]"]
+similar: ["[[Vべくもない (ei mitenkaan voi)]]", "[[どうにも～ない (ei millaan)]]", "[[Vる術がない (ei ole keinoa)]]"]
+compare: ["[[Vしかない (ei ole muuta vaihtoehtoa)]]", "[[Vべくもない (ei mitenkaan voi)]]", "[[どうにも～ない (ei millaan)]]", "[[Vる術がない (ei ole keinoa)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 連絡できない (en voi ottaa yhteyttä — yleinen) vs. 連絡しようがない (ei ole mitään keinoa ottaa yhteyttä — keino puuttuu).
 
-Vertailu: [[Vしかない (ei ole muuta vaihtoehtoa)]]
+Vertailu: [[Vしかない (ei ole muuta vaihtoehtoa)]] · [[Vべくもない (ei mitenkaan voi)]] · [[どうにも～ない (ei millaan)]] · [[Vる術がない (ei ole keinoa)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -71,4 +71,7 @@ Sanoinkuvaamaton — ei ole tapaa sanoa sitä.
 
 #flashcards/grammar/n3/vertailu
 
+V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) (similar/compare) ::: Vべくもない (ei mitenkaan voi) (similar/compare)
+V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) (similar/compare) ::: どうにも～ない (ei millaan) (similar/compare)
+V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) (similar/compare) ::: Vる術がない (ei ole keinoa) (similar/compare)
 V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) (compare) ::: Vしかない (ei ole muuta vaihtoehtoa) (compare)

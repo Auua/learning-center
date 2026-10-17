@@ -7,8 +7,8 @@ func: [laajennus, korostus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Nも (myos, sama patee)]]", "[[～ばかりでなく (ei ainoastaan, vaan myos)]]"]
-compare: ["[[～ばかりでなく (ei ainoastaan, vaan myos)]]", "[[～上に (lisaksi, paalle paatteeksi)]]", "[[～はもちろん (puhumattakaan)]]"]
+similar: ["[[Nも (myos, sama patee)]]", "[[～ばかりでなく (ei ainoastaan, vaan myos)]]", "[[～のみならず (ei vain, vaan myos)]]"]
+compare: ["[[～ばかりでなく (ei ainoastaan, vaan myos)]]", "[[～上に (lisaksi, paalle paatteeksi)]]", "[[～はもちろん (puhumattakaan)]]", "[[～ばかりか (ei vain, vaan jopa)]]", "[[～に加えて (lisaksi)]]", "[[～のみならず (ei vain, vaan myos)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -68,3 +68,6 @@ N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar) 
 N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar/compare) ::: ～ばかりでなく (ei ainoastaan, vaan myos) (similar/compare)
 N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～上に (lisaksi, paalle paatteeksi) (compare)
 N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～はもちろん (puhumattakaan) (compare)
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～ばかりか (ei vain, vaan jopa) (compare)
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～に加えて (lisaksi) (compare)
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar/compare) ::: ～のみならず (ei vain, vaan myos) (similar/compare)

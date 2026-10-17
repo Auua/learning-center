@@ -7,8 +7,8 @@ func: [konteksti, muodollinen]
 attaches: ["substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[～にとって (jonkun nakokulmasta)]]"]
-compare: ["[[～にとって (jonkun nakokulmasta)]]"]
+similar: ["[[～にとって (jonkun nakokulmasta)]]", "[[～にあって (oloissa, asemassa)]]"]
+compare: ["[[～にとって (jonkun nakokulmasta)]]", "[[～にあって (oloissa, asemassa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 14]]", "[[Minna no Nihongo Chuukyuu II#Luku 22]]"]
 status: new
 confidence: 1
@@ -83,3 +83,4 @@ Miten N において eroaa N にとって:sta?
 #flashcards/grammar/n2/vertailu
 
 N＋において（は）・における＋N (jossakin kontekstissa, muodollinen) (similar/compare) ::: ～にとって (jonkun nakokulmasta) (similar/compare)
+N＋において（は）・における＋N (jossakin kontekstissa, muodollinen) (similar/compare) ::: ～にあって (oloissa, asemassa) (similar/compare)

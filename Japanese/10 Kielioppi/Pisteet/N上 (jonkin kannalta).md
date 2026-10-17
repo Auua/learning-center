@@ -7,8 +7,8 @@ func: [nakokulma, muodollinen]
 attaches: ["substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[～において (jossakin kontekstissa, muodollinen)]]"]
-compare: []
+similar: ["[[～において (jossakin kontekstissa, muodollinen)]]", "[[～の上では (jonkin mukaan, paperilla)]]"]
+compare: ["[[～の上では (jonkin mukaan, paperilla)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 17]]"]
 status: new
 confidence: 1
@@ -69,3 +69,4 @@ Muodollinen, kirjoitettu.
 #flashcards/grammar/n2/vertailu
 
 N＋上（は・の） (jonkin kannalta) (similar) ::: ～において (jossakin kontekstissa, muodollinen) (similar)
+N＋上（は・の） (jonkin kannalta) (similar/compare) ::: ～の上では (jonkin mukaan, paperilla) (similar/compare)

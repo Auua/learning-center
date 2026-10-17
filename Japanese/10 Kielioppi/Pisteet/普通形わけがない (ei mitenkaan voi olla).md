@@ -7,8 +7,8 @@ func: [mahdottomuus, kielto]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]]", "[[普通形わけだ (johtopaatos, siis)]]"]
-compare: ["[[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]]", "[[普通形わけではない (ei tarkoita etta aina)]]"]
+similar: ["[[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]]", "[[普通形わけだ (johtopaatos, siis)]]", "[[Vっこない (ei ikina, mahdotonta)]]"]
+compare: ["[[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]]", "[[普通形わけではない (ei tarkoita etta aina)]]", "[[Vっこない (ei ikina, mahdotonta)]]", "[[～ものか (ei ikina, enpa)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 高いわけではない (ei se kallis ole — osittainen kumoaminen) vs. 高いわけがない (ei mitenkään voi olla kallis — jyrkkä kielto).
 
-Vertailu: [[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]] · [[普通形わけではない (ei tarkoita etta aina)]]
+Vertailu: [[普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus)]] · [[普通形わけではない (ei tarkoita etta aina)]] · [[Vっこない (ei ikina, mahdotonta)]] · [[～ものか (ei ikina, enpa)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,4 +72,6 @@ Lähes sama; わけがない on tunteellisempi ja puhekielisempi.
 
 普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (similar/compare) ::: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) (similar/compare)
 普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (similar) ::: 普通形わけだ (johtopaatos, siis) (similar)
+普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (similar/compare) ::: Vっこない (ei ikina, mahdotonta) (similar/compare)
 普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (compare) ::: 普通形わけではない (ei tarkoita etta aina) (compare)
+普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (compare) ::: ～ものか (ei ikina, enpa) (compare)

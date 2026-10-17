@@ -7,8 +7,8 @@ func: [samanaikaisuus, tilaisuus]
 attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[V(-ます)ながら (samalla kun)]]"]
+similar: ["[[Nがてら (samalla kun, samalla reissulla)]]"]
+compare: ["[[V(-ます)ながら (samalla kun)]]", "[[Nがてら (samalla kun, samalla reissulla)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 歩きながら話す (kävelee ja puhuu yhtä aikaa) vs. 買い物のついでに銀行へ行く (ostosreissulla käy samalla pankissa).
 
-Vertailu: [[V(-ます)ながら (samalla kun)]]
+Vertailu: [[V(-ます)ながら (samalla kun)]] · [[Nがてら (samalla kun, samalla reissulla)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,4 +72,5 @@ Etuosa (X); jälkiosa on sivutoimi, joka tehdään samalla.
 
 #flashcards/grammar/n3/vertailu
 
+V(辞書形／た)／Nの＋ついでに (samalla kun) (similar/compare) ::: Nがてら (samalla kun, samalla reissulla) (similar/compare)
 V(辞書形／た)／Nの＋ついでに (samalla kun) (compare) ::: V(-ます)ながら (samalla kun) (compare)

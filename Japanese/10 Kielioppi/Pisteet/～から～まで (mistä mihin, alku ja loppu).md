@@ -17,8 +17,10 @@ similar:
   - "[[V辞書形まで・までに (verbilause aikarajana)]]"
   - "[[N（aika）までに (määräaika)]]"
   - "[[～から～にかけて (jostakin johonkin, vali)]]"
+  - "[[Nより (-sta, muodollinen lahtopiste)]]"
 compare:
   - "[[N（aika）までに (määräaika)]]"
+  - "[[Nより (-sta, muodollinen lahtopiste)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 4]]"
 status: known
@@ -108,3 +110,4 @@ N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) 
 N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: V辞書形まで・までに (verbilause aikarajana) (similar)
 N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar/compare) ::: N（aika）までに (määräaika) (similar/compare)
 N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: ～から～にかけて (jostakin johonkin, vali) (similar)
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar/compare) ::: Nより (-sta, muodollinen lahtopiste) (similar/compare)

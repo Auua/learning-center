@@ -11,8 +11,8 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: ["[[～とともに (yhdessa, samalla)]]"]
-compare: ["[[～ついでに (samalla kun)]]", "[[～とともに (yhdessa, samalla)]]"]
+similar: ["[[～とともに (yhdessa, samalla)]]", "[[～かたわら (ohella, sivussa)]]", "[[～つつ (samalla kun, vaikka)]]"]
+compare: ["[[～ついでに (samalla kun)]]", "[[～とともに (yhdessa, samalla)]]", "[[～かたわら (ohella, sivussa)]]", "[[～つつ (samalla kun, vaikka)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 28]]"
 status: shaky
@@ -89,3 +89,5 @@ Miten Vながら eroaa Vたり、Vたりします-rakenteesta?
 
 V(ます-vartalo)ながら (samalla kun) (compare) ::: ～ついでに (samalla kun) (compare)
 V(ます-vartalo)ながら (samalla kun) (similar/compare) ::: ～とともに (yhdessa, samalla) (similar/compare)
+V(ます-vartalo)ながら (samalla kun) (similar/compare) ::: ～かたわら (ohella, sivussa) (similar/compare)
+V(ます-vartalo)ながら (samalla kun) (similar/compare) ::: ～つつ (samalla kun, vaikka) (similar/compare)

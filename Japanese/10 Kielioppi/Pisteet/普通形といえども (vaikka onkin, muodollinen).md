@@ -7,7 +7,7 @@ func: [myonnytys, muodollinen]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: muodollinen
 register: [kirjoitettu]
-similar: ["[[たとえ～ても (vaikka kuinka)]]", "[[普通形にもかかわらず (siita huolimatta etta)]]"]
+similar: ["[[たとえ～ても (vaikka kuinka)]]", "[[普通形にもかかわらず (siita huolimatta etta)]]", "[[～とはいえ (vaikka, tosin)]]"]
 compare: ["[[たとえ～ても (vaikka kuinka)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 21]]"]
 status: new
@@ -74,3 +74,4 @@ Miten といえども eroaa たとえ～ても:stä?
 
 N／普通形＋といえども (vaikka onkin, muodollinen) (similar/compare) ::: たとえ～ても (vaikka kuinka) (similar/compare)
 N／普通形＋といえども (vaikka onkin, muodollinen) (similar) ::: 普通形にもかかわらず (siita huolimatta etta) (similar)
+N／普通形＋といえども (vaikka onkin, muodollinen) (similar) ::: ～とはいえ (vaikka, tosin) (similar)

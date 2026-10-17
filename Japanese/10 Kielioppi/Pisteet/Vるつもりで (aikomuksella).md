@@ -8,7 +8,7 @@ attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vつもりです (paatetty aikomus)]]"]
-compare: ["[[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]"]
+compare: ["[[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]", "[[～ものとして (olettaen etta)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 行くつもりです (aion mennä — päätös) vs. 行くつもりで準備する (valmistaudun siinä aikomuksessa, että menen).
 
-Vertailu: [[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]]
+Vertailu: [[Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus)]] · [[～ものとして (olettaen etta)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -73,3 +73,4 @@ Ikään kuin olisi tehnyt (mielikuvitus).
 
 V(辞書形)＋つもりで／Vた＋つもりで (aikomuksella) (similar) ::: Vつもりです (paatetty aikomus) (similar)
 V(辞書形)＋つもりで／Vた＋つもりで (aikomuksella) (compare) ::: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) (compare)
+V(辞書形)＋つもりで／Vた＋つもりで (aikomuksella) (compare) ::: ～ものとして (olettaen etta) (compare)

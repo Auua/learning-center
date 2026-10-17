@@ -8,7 +8,7 @@ attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[～ほど (aste, \"niin paljon etta\")]]"]
-compare: ["[[～ほど (aste, \"niin paljon etta\")]]"]
+compare: ["[[～ほど (aste, \"niin paljon etta\")]]", "[[～くらいのものだ (vain, ainoastaan)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
 confidence: 1
@@ -79,3 +79,4 @@ Kumpi: くらい vai ほど, kun haluan kirjallisemman sävyn?
 #flashcards/grammar/n3/vertailu
 
 普通形＋くらいだ (siina maarin etta) (similar/compare) ::: ～ほど (aste, \"niin paljon etta\") (similar/compare)
+普通形＋くらいだ (siina maarin etta) (compare) ::: ～くらいのものだ (vain, ainoastaan) (compare)

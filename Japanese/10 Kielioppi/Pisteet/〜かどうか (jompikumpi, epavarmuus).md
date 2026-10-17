@@ -14,8 +14,13 @@ register:
   - kirjoitettu
 similar:
   - "[[疑問詞＋か (upotettu kysymys)]]"
+  - "[[～か否か (vai eiko, kirjallinen)]]"
+  - "[[ようか～まいか (tehdako vai ei)]]"
 compare:
   - "[[疑問詞＋か (upotettu kysymys)]]"
+  - "[[～か否か (vai eiko, kirjallinen)]]"
+  - "[[～のやら～のやら (onko A vai B, en tieda)]]"
+  - "[[ようか～まいか (tehdako vai ei)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 40]]"
 status: shaky
@@ -88,3 +93,6 @@ Pelkkä か (疑問詞＋か); かどうか on kyllä/ei-kysymyksille.
 #flashcards/grammar/n4/vertailu
 
 普通形かどうか (jompikumpi, epavarmuus) (similar/compare) ::: 疑問詞＋か (upotettu kysymys) (similar/compare)
+普通形かどうか (jompikumpi, epavarmuus) (similar/compare) ::: ～か否か (vai eiko, kirjallinen) (similar/compare)
+普通形かどうか (jompikumpi, epavarmuus) (compare) ::: ～のやら～のやら (onko A vai B, en tieda) (compare)
+普通形かどうか (jompikumpi, epavarmuus) (similar/compare) ::: ようか～まいか (tehdako vai ei) (similar/compare)

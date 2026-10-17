@@ -7,8 +7,8 @@ func: [mukautuminen, riippuvuus]
 attaches: ["substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[～によって (riippuen, vaihtelu)]]"]
-compare: ["[[～によって (riippuen, vaihtelu)]]"]
+similar: ["[[～によって (riippuen, vaihtelu)]]", "[[～に応えて (vastaten jhk)]]", "[[～次第で (riippuen jostakin)]]"]
+compare: ["[[～によって (riippuen, vaihtelu)]]", "[[～に応えて (vastaten jhk)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 16]]"]
 status: new
 confidence: 1
@@ -72,3 +72,5 @@ Miten N に応じて eroaa N によって (vaihtelu) -rakenteesta?
 #flashcards/grammar/n2/vertailu
 
 N＋に応じて (sen mukaan, riippuen) (similar/compare) ::: ～によって (riippuen, vaihtelu) (similar/compare)
+N＋に応じて (sen mukaan, riippuen) (similar/compare) ::: ～に応えて (vastaten jhk) (similar/compare)
+N＋に応じて (sen mukaan, riippuen) (similar) ::: ～次第で (riippuen jostakin) (similar)

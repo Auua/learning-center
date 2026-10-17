@@ -14,7 +14,9 @@ register:
   - kirjoitettu
 similar:
   - "[[N1はN2より (vertailu)]]"
+  - "[[Nきっての (koko -n paras)]]"
 compare:
+  - "[[Nきっての (koko -n paras)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 12]]"
 status: shaky
@@ -87,3 +89,4 @@ Aina が.
 #flashcards/grammar/n5/vertailu
 
 N［の中］で［疑問詞］がいちばんadjですか (superlatiivi) (similar) ::: N1はN2より (vertailu) (similar)
+N［の中］で［疑問詞］がいちばんadjですか (superlatiivi) (similar/compare) ::: Nきっての (koko -n paras) (similar/compare)

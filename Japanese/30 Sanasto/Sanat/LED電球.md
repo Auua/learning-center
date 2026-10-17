@@ -22,6 +22,7 @@ tags: [vocab, jlpt/n2]
 ## Merkitys
 - **FI:** LED-lamppu
 - **EN:** LED bulb
+- **Ääni:** ![[tts_6328356e7a1e.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 

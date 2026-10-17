@@ -7,8 +7,8 @@ func: [taipumus, kielteisyys]
 attaches: ["[[ます-muoto]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[～気味 (hieman, taipumus)]]", "[[～っぽい (-mainen, taipuvainen)]]"]
+similar: ["[[～嫌いがある (on (ikava) taipumus)]]", "[[ともすれば～がちだ (helposti, taipuu)]]"]
+compare: ["[[～気味 (hieman, taipumus)]]", "[[～っぽい (-mainen, taipuvainen)]]", "[[～嫌いがある (on (ikava) taipumus)]]", "[[ともすれば～がちだ (helposti, taipuu)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 忘れやすい (helppo unohtaa — ominaisuus) vs. 忘れがち (tapaa unohtaa — toistuva taipumus, kielteinen).
 
-Vertailu: [[～気味 (hieman, taipumus)]] · [[～っぽい (-mainen, taipuvainen)]]
+Vertailu: [[～気味 (hieman, taipumus)]] · [[～っぽい (-mainen, taipuvainen)]] · [[～嫌いがある (on (ikava) taipumus)]] · [[ともすれば～がちだ (helposti, taipuu)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -71,5 +71,7 @@ Harvoin — se kuvaa yleensä ei-toivottua taipumusta.
 
 #flashcards/grammar/n3/vertailu
 
+V(ます-vartalo)／N＋がち (taipumus, helposti) (similar/compare) ::: ～嫌いがある (on (ikava) taipumus) (similar/compare)
+V(ます-vartalo)／N＋がち (taipumus, helposti) (similar/compare) ::: ともすれば～がちだ (helposti, taipuu) (similar/compare)
 V(ます-vartalo)／N＋がち (taipumus, helposti) (compare) ::: ～気味 (hieman, taipumus) (compare)
 V(ます-vartalo)／N＋がち (taipumus, helposti) (compare) ::: ～っぽい (-mainen, taipuvainen) (compare)

@@ -8,7 +8,7 @@ attaches: ["[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Vところです (kolme vaihetta)]]"]
-compare: ["[[Vところです (kolme vaihetta)]]"]
+compare: ["[[Vところです (kolme vaihetta)]]", "[[Vているところに・ところへ (juuri kun)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 5]]"]
 status: new
 confidence: 1
@@ -78,3 +78,4 @@ Vところです käyttää ところ:a ajallisena vaiheen ilmaisimena; Vたと�
 #flashcards/grammar/n3/vertailu
 
 V(た形)ところに／で (juuri siina kohdassa) (similar/compare) ::: Vところです (kolme vaihetta) (similar/compare)
+V(た形)ところに／で (juuri siina kohdassa) (compare) ::: Vているところに・ところへ (juuri kun) (compare)

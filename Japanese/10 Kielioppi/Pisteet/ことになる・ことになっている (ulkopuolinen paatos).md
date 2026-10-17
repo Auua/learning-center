@@ -7,8 +7,8 @@ func: [paatos, sovittu-kaytanto]
 attaches: ["[[Sanakirjamuoto]]", "[[ない-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[ことにする・ことにしている (oma paatos)]]"]
-compare: ["[[ことにする・ことにしている (oma paatos)]]"]
+similar: ["[[ことにする・ことにしている (oma paatos)]]", "[[～羽目になる (joutua ikavaan tilanteeseen)]]"]
+compare: ["[[ことにする・ことにしている (oma paatos)]]", "[[～羽目になる (joutua ikavaan tilanteeseen)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 3]]"]
 status: new
 confidence: 1
@@ -85,3 +85,4 @@ Miten 引っ越すことになりました eroaa lauseesta 引っ越すことに
 #flashcards/grammar/n3/vertailu
 
 V辞書形／ないことになる・ことになっている (ulkopuolinen paatos) (similar/compare) ::: ことにする・ことにしている (oma paatos) (similar/compare)
+V辞書形／ないことになる・ことになっている (ulkopuolinen paatos) (similar/compare) ::: ～羽目になる (joutua ikavaan tilanteeseen) (similar/compare)

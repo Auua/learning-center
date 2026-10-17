@@ -7,8 +7,8 @@ func: [kohde, kontrasti]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
-compare: ["[[～について (aiheesta)]]", "[[～にとって (jonkun nakokulmasta)]]", "[[～に反して (vastoin)]]"]
+similar: ["[[～に引き換え (toisin kuin)]]"]
+compare: ["[[～について (aiheesta)]]", "[[～にとって (jonkun nakokulmasta)]]", "[[～に反して (vastoin)]]", "[[～に引き換え (toisin kuin)]]", "[[～に向かって (kohti, -lle)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 日本について話す (puhua Japanista — aihe) vs. 日本に対して意見を言う (esittää mielipide Japanille/Japania kohtaan — kohde).
 
-Vertailu: [[～について (aiheesta)]] · [[～にとって (jonkun nakokulmasta)]] · [[～に反して (vastoin)]]
+Vertailu: [[～について (aiheesta)]] · [[～にとって (jonkun nakokulmasta)]] · [[～に反して (vastoin)]] · [[～に引き換え (toisin kuin)]] · [[～に向かって (kohti, -lle)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -76,6 +76,8 @@ Kohde (kohtaan), kontrasti (kun taas), suhde (kohden).
 
 #flashcards/grammar/n3/vertailu
 
+N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (similar/compare) ::: ～に引き換え (toisin kuin) (similar/compare)
 N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (compare) ::: ～について (aiheesta) (compare)
 N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (compare) ::: ～にとって (jonkun nakokulmasta) (compare)
 N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (compare) ::: ～に反して (vastoin) (compare)
+N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (compare) ::: ～に向かって (kohti, -lle) (compare)

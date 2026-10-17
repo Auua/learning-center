@@ -7,8 +7,8 @@ func: [lopputulos, prosessi]
 attaches: ["[[た-muoto]]", "substantiivi"]
 formality: neutral
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[Vてはじめて (vasta silloin kun)]]"]
-compare: []
+similar: ["[[Vてはじめて (vasta silloin kun)]]", "[[Vたあげく (lopulta, pitkan vaivan jalkeen)]]"]
+compare: ["[[Vたあげく (lopulta, pitkan vaivan jalkeen)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
 confidence: 1
@@ -65,3 +65,4 @@ Mitkä adverbit liittyvät usein ～の末-lauseeseen?
 #flashcards/grammar/n2/vertailu
 
 N（期間）＋の末（に）・Vた末（に） (pitkan ajan jalkeen) (similar) ::: Vてはじめて (vasta silloin kun) (similar)
+N（期間）＋の末（に）・Vた末（に） (pitkan ajan jalkeen) (similar/compare) ::: Vたあげく (lopulta, pitkan vaivan jalkeen) (similar/compare)

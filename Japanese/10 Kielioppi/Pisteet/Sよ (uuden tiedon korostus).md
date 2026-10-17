@@ -15,7 +15,11 @@ register:
 similar:
   - "[[Sね (vahvistus, eikö niin)]]"
   - "[[普通形よね (varmistava loppupartikkeli)]]"
+  - "[[Sさ (painotus, tuttavallinen)]]"
+  - "[[Sわ (feminiininen loppupartikkeli)]]"
 compare:
+  - "[[Sさ (painotus, tuttavallinen)]]"
+  - "[[Sわ (feminiininen loppupartikkeli)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 5]]"
 status: known
@@ -80,3 +84,5 @@ Kumpi: Sね vai Sよ, kun haluat kertoa kuulijalle uutta tietoa?
 
 Sよ (uuden tiedon korostus) (similar) ::: Sね (vahvistus, eikö niin) (similar)
 Sよ (uuden tiedon korostus) (similar) ::: 普通形よね (varmistava loppupartikkeli) (similar)
+Sよ (uuden tiedon korostus) (similar/compare) ::: Sさ (painotus, tuttavallinen) (similar/compare)
+Sよ (uuden tiedon korostus) (similar/compare) ::: Sわ (feminiininen loppupartikkeli) (similar/compare)

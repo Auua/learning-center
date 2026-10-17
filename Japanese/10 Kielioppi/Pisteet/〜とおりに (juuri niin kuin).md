@@ -13,8 +13,8 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
-compare: ["[[～にしたがって (mukaisesti, sita mukaa)]]"]
+similar: ["[[～ふうに (tavalla, niin)]]", "[[～に沿って (mukaisesti, pitkin)]]"]
+compare: ["[[～にしたがって (mukaisesti, sita mukaa)]]", "[[～ふうに (tavalla, niin)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 34]]"
 status: shaky
@@ -78,3 +78,5 @@ Kirjallisten ohjeiden yhteydessä: 説明書のとおりに, マニュアルの�
 #flashcards/grammar/n4/vertailu
 
 V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) (compare) ::: ～にしたがって (mukaisesti, sita mukaa) (compare)
+V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) (similar/compare) ::: ～ふうに (tavalla, niin) (similar/compare)
+V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) (similar) ::: ～に沿って (mukaisesti, pitkin) (similar)

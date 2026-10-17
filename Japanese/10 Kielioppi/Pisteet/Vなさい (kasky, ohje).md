@@ -7,8 +7,8 @@ func: [kasky, ohje]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[V辞書形な (jyrkka kielto)]]"]
-compare: ["[[Vて ください (pyyntö)]]", "[[V辞書形・ないこと (ohje, saanto)]]"]
+similar: ["[[V辞書形な (jyrkka kielto)]]", "[[Vたまえ (tee!, ylempi alemmalle)]]"]
+compare: ["[[Vて ください (pyyntö)]]", "[[Vたまえ (tee!, ylempi alemmalle)]]", "[[V辞書形・ないこと (ohje, saanto)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ## Sekaannusvaara
 - 座りなさい (istu! — käsky, vanhempi lapselle) vs. 座ってください (istukaa, olkaa hyvä — kohtelias pyyntö).
 
-Vertailu: [[Vて ください (pyyntö)]] · [[V辞書形・ないこと (ohje, saanto)]]
+Vertailu: [[Vて ください (pyyntö)]] · [[Vたまえ (tee!, ylempi alemmalle)]] · [[V辞書形・ないこと (ohje, saanto)]]
 
 ## Kortit
 #flashcards/grammar/n4
@@ -71,5 +71,6 @@ Koetehtävien ohjeissa: 答えなさい.
 #flashcards/grammar/n4/vertailu
 
 V(ます-vartalo)＋なさい (kasky, ohje) (similar) ::: V辞書形な (jyrkka kielto) (similar)
+V(ます-vartalo)＋なさい (kasky, ohje) (similar/compare) ::: Vたまえ (tee!, ylempi alemmalle) (similar/compare)
 V(ます-vartalo)＋なさい (kasky, ohje) (compare) ::: Vて ください (pyyntö) (compare)
 V(ます-vartalo)＋なさい (kasky, ohje) (compare) ::: V辞書形・ないこと (ohje, saanto) (compare)

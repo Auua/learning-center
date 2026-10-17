@@ -7,8 +7,8 @@ func: [ajankohta, valitOn-seuraus]
 attaches: ["[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vたところで (vaikka tekisikin)]]"]
-compare: []
+similar: ["[[Vたところで (vaikka tekisikin)]]", "[[Vそばから (heti kun, ja taas)]]", "[[Vた弾みに・Vた拍子に (sattumalta samalla hetkella)]]", "[[Vたかと思ったら (heti kun, samassa)]]", "[[V次第 (heti kun)]]"]
+compare: ["[[Vが早いか (heti kun, samassa)]]", "[[V辞書形なり (heti kun)]]", "[[Vそばから (heti kun, ja taas)]]", "[[Vた弾みに・Vた拍子に (sattumalta samalla hetkella)]]", "[[や否や (heti kun, samalla hetkella)]]", "[[Vたかと思ったら (heti kun, samassa)]]", "[[か～ないかのうちに (heti kun, tuskin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
 confidence: 1
@@ -63,3 +63,11 @@ Konkreettisia, kertaluontoisia hetkiä; ei sovi jatkuviin tai toistuviin tiloihi
 #flashcards/grammar/n2/vertailu
 
 V(た形)＋とたん（に） (juuri sina hetkena) (similar) ::: Vたところで (vaikka tekisikin) (similar)
+V(た形)＋とたん（に） (juuri sina hetkena) (compare) ::: Vが早いか (heti kun, samassa) (compare)
+V(た形)＋とたん（に） (juuri sina hetkena) (compare) ::: V辞書形なり (heti kun) (compare)
+V(た形)＋とたん（に） (juuri sina hetkena) (similar/compare) ::: Vそばから (heti kun, ja taas) (similar/compare)
+V(た形)＋とたん（に） (juuri sina hetkena) (similar/compare) ::: Vた弾みに・Vた拍子に (sattumalta samalla hetkella) (similar/compare)
+V(た形)＋とたん（に） (juuri sina hetkena) (compare) ::: や否や (heti kun, samalla hetkella) (compare)
+V(た形)＋とたん（に） (juuri sina hetkena) (similar/compare) ::: Vたかと思ったら (heti kun, samassa) (similar/compare)
+V(た形)＋とたん（に） (juuri sina hetkena) (compare) ::: か～ないかのうちに (heti kun, tuskin) (compare)
+V(た形)＋とたん（に） (juuri sina hetkena) (similar) ::: V次第 (heti kun) (similar)

@@ -7,8 +7,8 @@ func: [nakokulma]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～において (jossakin kontekstissa, muodollinen)]]"]
-compare: ["[[～において (jossakin kontekstissa, muodollinen)]]", "[[～に対して (kohtaan, vastakohtana)]]"]
+similar: ["[[～において (jossakin kontekstissa, muodollinen)]]", "[[～にしたら・にすれば (jonkun kannalta)]]"]
+compare: ["[[～において (jossakin kontekstissa, muodollinen)]]", "[[～に対して (kohtaan, vastakohtana)]]", "[[～から見ると (jonkin perusteella, nakokulmasta)]]", "[[～にしたら・にすれば (jonkun kannalta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 14]]"]
 status: new
 confidence: 1
@@ -75,3 +75,5 @@ Kumpi: にとって vai において, kun puhutaan jonkun subjektiivisesta näk�
 
 N＋にとって (jonkun nakokulmasta) (similar/compare) ::: ～において (jossakin kontekstissa, muodollinen) (similar/compare)
 N＋にとって (jonkun nakokulmasta) (compare) ::: ～に対して (kohtaan, vastakohtana) (compare)
+N＋にとって (jonkun nakokulmasta) (compare) ::: ～から見ると (jonkin perusteella, nakokulmasta) (compare)
+N＋にとって (jonkun nakokulmasta) (similar/compare) ::: ～にしたら・にすれば (jonkun kannalta) (similar/compare)

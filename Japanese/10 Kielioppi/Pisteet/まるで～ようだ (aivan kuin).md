@@ -7,8 +7,8 @@ func: [vertaus, korostus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～のようだ・～のような・～のように (vertailu, esimerkki)]]", "[[～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)]]"]
-compare: ["[[～のようだ・～のような・～のように (vertailu, esimerkki)]]", "[[～ふりをする (teeskennella)]]"]
+similar: ["[[～のようだ・～のような・～のように (vertailu, esimerkki)]]", "[[～みたいだ・～みたいな・～みたいに (puhekielinen vertailu)]]", "[[～も同然だ (kuin, kaytannossa sama)]]", "[[～かのように (ikaan kuin)]]"]
+compare: ["[[～のようだ・～のような・～のように (vertailu, esimerkki)]]", "[[～も同然だ (kuin, kaytannossa sama)]]", "[[～かのように (ikaan kuin)]]", "[[～ふりをする (teeskennella)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - どうやら雨が降ったようだ (näyttää siltä, päättely) vs. まるで雨が降ったようだ (ihan kuin olisi satanut — mutta ei satanut).
 
-Vertailu: [[～のようだ・～のような・～のように (vertailu, esimerkki)]] · [[～ふりをする (teeskennella)]]
+Vertailu: [[～のようだ・～のような・～のように (vertailu, esimerkki)]] · [[～も同然だ (kuin, kaytannossa sama)]] · [[～かのように (ikaan kuin)]] · [[～ふりをする (teeskennella)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -74,4 +74,6 @@ Ei — まるで merkitsee vertausta; päättelyssä どうやら.
 
 まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (similar/compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar/compare)
 まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (similar) ::: ～みたいだ・～みたいな・～みたいに (puhekielinen vertailu) (similar)
+まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (similar/compare) ::: ～も同然だ (kuin, kaytannossa sama) (similar/compare)
+まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (similar/compare) ::: ～かのように (ikaan kuin) (similar/compare)
 まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (compare) ::: ～ふりをする (teeskennella) (compare)

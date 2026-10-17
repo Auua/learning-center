@@ -14,7 +14,9 @@ register:
   - kirjoitettu
 similar:
   - "[[～と (aina kun, väistämätön seuraus)]]"
+  - "[[N1にN2 (ja, lisaksi luettelossa)]]"
 compare:
+  - "[[N1にN2 (ja, lisaksi luettelossa)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 4]]"
 status: known
@@ -84,3 +86,4 @@ N1とN2:n と listaa substantiiveja ('A ja B'); ～と (N4) yhdistää lauseita 
 #flashcards/grammar/n5/vertailu
 
 N1とN2 (ja) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
+N1とN2 (ja) (similar/compare) ::: N1にN2 (ja, lisaksi luettelossa) (similar/compare)

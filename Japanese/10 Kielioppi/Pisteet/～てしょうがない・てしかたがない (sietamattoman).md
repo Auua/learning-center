@@ -7,7 +7,7 @@ func: [tunne, voimakkuus]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vずにはいられない (ei voi olla tekematta)]]"]
+similar: ["[[Vずにはいられない (ei voi olla tekematta)]]", "[[～て敵わない (sietamatonta)]]", "[[～てならない (hirvean, en voi olla tuntematta)]]", "[[～てたまらない (sietamattoman, valtavasti)]]"]
 compare: ["[[Vてもしょうがない・ても仕方がない (turhaa, ei auta)]]", "[[Vずにはいられない (ei voi olla tekematta)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -72,4 +72,7 @@ Puhujan omasta; muille tarvitaan らしい/ようだ.
 #flashcards/grammar/n3/vertailu
 
 V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (similar/compare) ::: Vずにはいられない (ei voi olla tekematta) (similar/compare)
+V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (similar) ::: ～て敵わない (sietamatonta) (similar)
+V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (similar) ::: ～てならない (hirvean, en voi olla tuntematta) (similar)
+V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (similar) ::: ～てたまらない (sietamattoman, valtavasti) (similar)
 V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (compare) ::: Vてもしょうがない・ても仕方がない (turhaa, ei auta) (compare)

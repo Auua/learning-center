@@ -7,8 +7,8 @@ func: [varoitus, negatiivinen-mahdollisuus]
 attaches: ["[[Sanakirjamuoto]]", "substantiivi"]
 formality: muodollinen
 register: [kirjoitettu, puhuttu (muodollinen)]
-similar: ["[[普通形可能性がある (on mahdollista etta)]]"]
-compare: ["[[普通形可能性がある (on mahdollista etta)]]"]
+similar: ["[[普通形可能性がある (on mahdollista etta)]]", "[[Vかねない (saattaa hyvinkin, uhkaa)]]"]
+compare: ["[[普通形可能性がある (on mahdollista etta)]]", "[[Vかねない (saattaa hyvinkin, uhkaa)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 23]]"]
 status: new
 confidence: 1
@@ -69,3 +69,4 @@ Miten 恐れがある eroaa rakenteesta 普通形可能性がある?
 #flashcards/grammar/n2/vertailu
 
 N／V辞書形＋恐れがある (on vaarana etta) (similar/compare) ::: 普通形可能性がある (on mahdollista etta) (similar/compare)
+N／V辞書形＋恐れがある (on vaarana etta) (similar/compare) ::: Vかねない (saattaa hyvinkin, uhkaa) (similar/compare)

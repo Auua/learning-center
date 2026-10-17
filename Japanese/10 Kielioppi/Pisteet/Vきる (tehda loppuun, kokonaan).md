@@ -7,8 +7,8 @@ func: [taydellisyys, aariarvo]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vます-vartalo＋上げる (saada valmiiksi)]]", "[[Vます-vartalo＋切れない (ei pysty kokonaan)]]"]
-compare: ["[[Vます-vartalo＋上げる (saada valmiiksi)]]", "[[Vます-vartalo＋切れない (ei pysty kokonaan)]]", "[[Vます-vartalo＋通す (loppuun asti)]]", "[[Vます-vartalo＋かける・かけ (keskeneraista)]]"]
+similar: ["[[Vます-vartalo＋上げる (saada valmiiksi)]]", "[[Vます-vartalo＋切れない (ei pysty kokonaan)]]", "[[Vます-vartalo＋尽くす (tehda perin pohjin)]]", "[[Vます-vartalo＋抜く (loppuun asti, perin pohjin)]]"]
+compare: ["[[Vます-vartalo＋上げる (saada valmiiksi)]]", "[[Vます-vartalo＋切れない (ei pysty kokonaan)]]", "[[Vます-vartalo＋通す (loppuun asti)]]", "[[Vます-vartalo＋かける・かけ (keskeneraista)]]", "[[Vます-vartalo＋尽くす (tehda perin pohjin)]]", "[[Vます-vartalo＋抜く (loppuun asti, perin pohjin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 24]]"]
 status: new
 confidence: 1
@@ -67,3 +67,5 @@ V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (si
 V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (similar/compare) ::: Vます-vartalo＋切れない (ei pysty kokonaan) (similar/compare)
 V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (compare) ::: Vます-vartalo＋通す (loppuun asti) (compare)
 V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (compare) ::: Vます-vartalo＋かける・かけ (keskeneraista) (compare)
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (similar/compare) ::: Vます-vartalo＋尽くす (tehda perin pohjin) (similar/compare)
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (similar/compare) ::: Vます-vartalo＋抜く (loppuun asti, perin pohjin) (similar/compare)

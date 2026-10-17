@@ -7,8 +7,8 @@ func: [yhdysverbi, kyvyttomyys, maara]
 attaches: ["[[ます-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vきる (tehda loppuun, kokonaan)]]"]
-compare: ["[[Vきる (tehda loppuun, kokonaan)]]"]
+similar: ["[[Vきる (tehda loppuun, kokonaan)]]", "[[～切りがない (ei loppua, loputon)]]"]
+compare: ["[[Vきる (tehda loppuun, kokonaan)]]", "[[～切りがない (ei loppua, loputon)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 食べられない (ei voi syödä lainkaan) vs. 食べ切れない (ei pysty syömään kaikkea).
 
-Vertailu: [[Vきる (tehda loppuun, kokonaan)]]
+Vertailu: [[Vきる (tehda loppuun, kokonaan)]] · [[～切りがない (ei loppua, loputon)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -71,3 +71,4 @@ En malta odottaa (innostus).
 #flashcards/grammar/n3/vertailu
 
 V(ます-vartalo)＋切れない (ei pysty kokonaan) (similar/compare) ::: Vきる (tehda loppuun, kokonaan) (similar/compare)
+V(ます-vartalo)＋切れない (ei pysty kokonaan) (similar/compare) ::: ～切りがない (ei loppua, loputon) (similar/compare)

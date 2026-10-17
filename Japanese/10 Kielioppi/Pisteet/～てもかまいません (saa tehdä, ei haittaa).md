@@ -15,8 +15,11 @@ similar:
   - "[[Vても いいです・Vては いけません (lupa ja kielto)]]"
   - "[[～なくてもかまいません (ei tarvitse, ei haittaa)]]"
   - "[[Vても (vaikka)]]"
+  - "[[Vても差し支えない (saa, ei haittaa)]]"
 compare:
   - "[[Vても いいです・Vては いけません (lupa ja kielto)]]"
+  - "[[Vても差し支えない (saa, ei haittaa)]]"
+  - "[[～もかまわず (valittamatta)]]"
 sources:
   - "[[Minna no Nihongo Chuukyuu I#Luku 9]]"
 status: new
@@ -101,3 +104,5 @@ Myönnytys-ても aloittaa lauseen 'vaikka X, silti Y'; tässä ても on osa ki
 Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar/compare) ::: Vても いいです・Vては いけません (lupa ja kielto) (similar/compare)
 Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar) ::: ～なくてもかまいません (ei tarvitse, ei haittaa) (similar)
 Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar) ::: Vても (vaikka) (similar)
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar/compare) ::: Vても差し支えない (saa, ei haittaa) (similar/compare)
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) (compare) ::: ～もかまわず (valittamatta) (compare)

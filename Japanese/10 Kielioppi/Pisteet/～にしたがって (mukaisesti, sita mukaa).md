@@ -7,7 +7,7 @@ func: [mukautuminen, muutos]
 attaches: ["substantiivi", "[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vにつれて (sita mukaa kun)]]"]
+similar: ["[[Vにつれて (sita mukaa kun)]]", "[[～に沿って (mukaisesti, pitkin)]]"]
 compare: ["[[Vにつれて (sita mukaa kun)]]", "[[〜とおりに (juuri niin kuin)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -72,4 +72,5 @@ Lähes samat; にしたがって on muodollisempi ja voi myös tarkoittaa "nouda
 #flashcards/grammar/n3/vertailu
 
 N／V辞書形＋にしたがって／にしたがい (mukaisesti, sita mukaa) (similar/compare) ::: Vにつれて (sita mukaa kun) (similar/compare)
+N／V辞書形＋にしたがって／にしたがい (mukaisesti, sita mukaa) (similar) ::: ～に沿って (mukaisesti, pitkin) (similar)
 N／V辞書形＋にしたがって／にしたがい (mukaisesti, sita mukaa) (compare) ::: 〜とおりに (juuri niin kuin) (compare)

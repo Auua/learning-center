@@ -7,8 +7,8 @@ func: [myonnytys, oletus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形としても (vaikka oletettaisiinkin)]]"]
-compare: ["[[普通形としても (vaikka oletettaisiinkin)]]", "[[Vても (vaikka)]]"]
+similar: ["[[普通形としても (vaikka oletettaisiinkin)]]", "[[Nであれ (olipa mika tahansa)]]", "[[いずれにしても (joka tapauksessa)]]", "[[～にしたところで (vaikka, hankaan)]]"]
+compare: ["[[普通形としても (vaikka oletettaisiinkin)]]", "[[Vても (vaikka)]]", "[[Nであれ～Nであれ (olipa A tai B)]]", "[[いずれにしても (joka tapauksessa)]]", "[[～にしたところで (vaikka, hankaan)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 忙しくても (vaikka on kiire — yleinen myönnytys) vs. 忙しいにしても (myönnetään kiire, mutta silti… — kriittinen varaus).
 
-Vertailu: [[普通形としても (vaikka oletettaisiinkin)]] · [[Vても (vaikka)]]
+Vertailu: [[普通形としても (vaikka oletettaisiinkin)]] · [[Vても (vaikka)]] · [[Nであれ～Nであれ (olipa A tai B)]] · [[いずれにしても (joka tapauksessa)]] · [[～にしたところで (vaikka, hankaan)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -73,4 +73,8 @@ Puhujan arvio, vaatimus tai kritiikki.
 #flashcards/grammar/n3/vertailu
 
 普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (similar/compare) ::: 普通形としても (vaikka oletettaisiinkin) (similar/compare)
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (similar) ::: Nであれ (olipa mika tahansa) (similar)
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (similar/compare) ::: いずれにしても (joka tapauksessa) (similar/compare)
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (similar/compare) ::: ～にしたところで (vaikka, hankaan) (similar/compare)
 普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (compare) ::: Vても (vaikka) (compare)
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (compare) ::: Nであれ～Nであれ (olipa A tai B) (compare)

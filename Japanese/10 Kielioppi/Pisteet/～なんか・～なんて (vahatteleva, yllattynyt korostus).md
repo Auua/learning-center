@@ -7,7 +7,7 @@ func: [vahattely, yllatys, korostus]
 attaches: ["substantiivi", "[[普通形 (puhekielinen perusmuoto)]]"]
 formality: puhekielinen
 register: [puhuttu]
-similar: []
+similar: ["[[普通形とは (etta peraati, yllatys)]]"]
 compare: []
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 7]]"]
 status: new
@@ -81,3 +81,7 @@ Puhekielisiä, tunnepitoisia korostuskeinoja; eivät sovi muodolliseen tekstiin.
 Miten なんか ja なんて eroavat tunnesävyltään?
 ?
 なんか vähättelee (asia on pieni/merkityksetön); なんて ilmaisee yllätystä (asia on uskomaton/järkyttävä).
+
+#flashcards/grammar/n3/vertailu
+
+Nなんか…・Nなんて…／普通形なんて… (vahatteleva, yllattynyt korostus) (similar) ::: 普通形とは (etta peraati, yllatys) (similar)

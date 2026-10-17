@@ -15,6 +15,7 @@ register:
   - puhuttu (muodollinen)
 similar:
   - "[[V(-ます)ながら (samalla kun)]]"
+  - "[[～に伴って (myota, samalla kun)]]"
 compare:
   - "[[V(-ます)ながら (samalla kun)]]"
 sources:
@@ -84,3 +85,4 @@ Miten とともに eroaa ながら-rakenteesta?
 #flashcards/grammar/n2/vertailu
 
 V辞書形／N＋とともに (yhdessa, samalla) (similar/compare) ::: V(-ます)ながら (samalla kun) (similar/compare)
+V辞書形／N＋とともに (yhdessa, samalla) (similar) ::: ～に伴って (myota, samalla kun) (similar)

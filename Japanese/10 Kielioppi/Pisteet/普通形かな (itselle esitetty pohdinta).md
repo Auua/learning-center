@@ -7,7 +7,7 @@ func: [pohdiskelu, epavarmuus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: puhekielinen
 register: [puhuttu]
-similar: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]", "[[Sかしら (pohdinta, feminiininen)]]"]
+similar: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]", "[[Sかしら (pohdinta, feminiininen)]]", "[[～のやら (mahtaakohan, en tieda)]]"]
 compare: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]", "[[Sかしら (pohdinta, feminiininen)]]", "[[Sなあ (tunteen huudahdus)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu I#Luku 7]]"]
 status: new
@@ -81,3 +81,4 @@ Molemmat ovat pohdiskelevia; かな on arkinen ja puhuttu, のだろうか on mu
 普通形かな (itselle esitetty pohdinta) (similar/compare) ::: 普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar/compare)
 普通形かな (itselle esitetty pohdinta) (similar/compare) ::: Sかしら (pohdinta, feminiininen) (similar/compare)
 普通形かな (itselle esitetty pohdinta) (compare) ::: Sなあ (tunteen huudahdus) (compare)
+普通形かな (itselle esitetty pohdinta) (similar) ::: ～のやら (mahtaakohan, en tieda) (similar)

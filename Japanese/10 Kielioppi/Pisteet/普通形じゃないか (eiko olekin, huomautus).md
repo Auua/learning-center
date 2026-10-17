@@ -7,7 +7,7 @@ func: [huomautus, vahvistus, kehotus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: puhekielinen
 register: [puhuttu]
-similar: []
+similar: ["[[Vようではないか (tehkäämme, juhlava kehotus)]]"]
 compare: ["[[普通形んじゃない？ (pehmea arvaus)]]", "[[普通形のではないか (paattelevä oletus)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
@@ -72,5 +72,6 @@ Laskeva — se ei ole kysymys.
 
 #flashcards/grammar/n4/vertailu
 
+普通形＋じゃないか／ではないか (eiko olekin, huomautus) (similar) ::: Vようではないか (tehkäämme, juhlava kehotus) (similar)
 普通形＋じゃないか／ではないか (eiko olekin, huomautus) (compare) ::: 普通形んじゃない？ (pehmea arvaus) (compare)
 普通形＋じゃないか／ではないか (eiko olekin, huomautus) (compare) ::: 普通形のではないか (paattelevä oletus) (compare)

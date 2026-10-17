@@ -7,8 +7,8 @@ func: [ehto, kontekstuaalinen, aiheen-nosto]
 attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
 formality: neutral
 register: [puhuttu]
-similar: ["[[～たら (jos, kun)]]", "[[～ば (jos, ehto)]]", "[[～と (aina kun, väistämätön seuraus)]]"]
-compare: ["[[Vertailu — Ehtolauseet と・ば・たら・なら]]", "[[～とすれば・としたら・とすると (oletetaan etta)]]"]
+similar: ["[[～たら (jos, kun)]]", "[[～ば (jos, ehto)]]", "[[～と (aina kun, väistämätön seuraus)]]", "[[～とあれば (jos kerran, jos on kyse)]]", "[[～となると・となれば (jos niin on, silloin)]]"]
+compare: ["[[Vertailu — Ehtolauseet と・ば・たら・なら]]", "[[～とすれば・としたら・とすると (oletetaan etta)]]", "[[～とあれば (jos kerran, jos on kyse)]]", "[[Vものなら (jos vain voisi)]]"]
 sources: ["[[Genki II]]", "[[Bunpro]]", "[[Tae Kim — Guide to Japanese]]", "[[Minna no Nihongo II#Luku 35]]", "[[Minna no Nihongo Chuukyuu I#Luku 7]]"]
 status: learning
 confidence: 3
@@ -93,3 +93,6 @@ Miten ～なら eroaa ～たら:sta, kun lause on 日本に行く…、ガイド
 ～なら (jos kerran) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
 ～なら (jos kerran) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
 ～なら (jos kerran) (compare) ::: ～とすれば・としたら・とすると (oletetaan etta) (compare)
+～なら (jos kerran) (similar/compare) ::: ～とあれば (jos kerran, jos on kyse) (similar/compare)
+～なら (jos kerran) (similar) ::: ～となると・となれば (jos niin on, silloin) (similar)
+～なら (jos kerran) (compare) ::: Vものなら (jos vain voisi) (compare)

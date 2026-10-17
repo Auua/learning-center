@@ -17,6 +17,8 @@ similar:
   - "[[N (aika) に]]"
 compare:
   - "[[N（aika）ごろ (noin, aikoihin)]]"
+  - "[[～というところだ (suunnilleen, korkeintaan)]]"
+  - "[[数量＋ばかり (noin, suunnilleen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 11]]"
 status: learning
@@ -137,3 +139,5 @@ Väärä luokittelija (esim. 人 esineelle) kuulostaa oudolta; luokittelija opit
 
 数詞＋助数詞 (Lukusanat ja luokittelijat) (similar) ::: N (aika) に (similar)
 数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: N（aika）ごろ (noin, aikoihin) (compare)
+数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: ～というところだ (suunnilleen, korkeintaan) (compare)
+数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: 数量＋ばかり (noin, suunnilleen) (compare)

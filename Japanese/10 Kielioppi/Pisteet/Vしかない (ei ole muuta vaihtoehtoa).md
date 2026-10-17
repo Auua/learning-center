@@ -7,8 +7,8 @@ func: [ainoa-vaihtoehto, resignaatio]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vざるを得ない (on pakko)]]"]
-compare: ["[[Vざるを得ない (on pakko)]]", "[[Vようがない (ei ole keinoa)]]"]
+similar: ["[[Vざるを得ない (on pakko)]]", "[[Vまでだ (ei muuta kuin, vain)]]", "[[Vよりほかない (ei ole muuta kuin)]]"]
+compare: ["[[Vざるを得ない (on pakko)]]", "[[Vようがない (ei ole keinoa)]]", "[[Vまでだ (ei muuta kuin, vain)]]", "[[Vよりほかない (ei ole muuta kuin)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 20]]"]
 status: new
 confidence: 1
@@ -73,3 +73,5 @@ Molemmat ilmaisevat pakon. しかない korostaa, ettei muita vaihtoehtoja ole j
 
 V辞書形＋しかない (ei ole muuta vaihtoehtoa) (similar/compare) ::: Vざるを得ない (on pakko) (similar/compare)
 V辞書形＋しかない (ei ole muuta vaihtoehtoa) (compare) ::: Vようがない (ei ole keinoa) (compare)
+V辞書形＋しかない (ei ole muuta vaihtoehtoa) (similar/compare) ::: Vまでだ (ei muuta kuin, vain) (similar/compare)
+V辞書形＋しかない (ei ole muuta vaihtoehtoa) (similar/compare) ::: Vよりほかない (ei ole muuta kuin) (similar/compare)

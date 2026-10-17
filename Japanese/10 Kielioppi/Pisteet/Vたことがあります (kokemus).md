@@ -15,10 +15,12 @@ register:
 similar:
   - "[[Vことができます (kyky)]]"
   - "[[Vことがある・こともある (satunnainen poikkeus)]]"
+  - "[[Vためしがない (ei ole koskaan tapahtunut)]]"
 compare:
   - "[[Vことがある・こともある (satunnainen poikkeus)]]"
   - "[[～ている (elämänhistoria, saavutukset)]]"
   - "[[Vていた (oli tekemassa, tila menneessa)]]"
+  - "[[Vためしがない (ei ole koskaan tapahtunut)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 19]]"
 status: known
@@ -93,3 +95,4 @@ V た形ことがあります (kokemus) (similar) ::: Vことができます (ky
 V た形ことがあります (kokemus) (similar/compare) ::: Vことがある・こともある (satunnainen poikkeus) (similar/compare)
 V た形ことがあります (kokemus) (compare) ::: ～ている (elämänhistoria, saavutukset) (compare)
 V た形ことがあります (kokemus) (compare) ::: Vていた (oli tekemassa, tila menneessa) (compare)
+V た形ことがあります (kokemus) (similar/compare) ::: Vためしがない (ei ole koskaan tapahtunut) (similar/compare)

@@ -12,8 +12,9 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
+similar: ["[[Vようではないか (tehkäämme, juhlava kehotus)]]"]
 compare:
+  - "[[Vようではないか (tehkäämme, juhlava kehotus)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 6]]"
   - "[[Minna no Nihongo I#Luku 21]]"
@@ -82,3 +83,7 @@ Ei 'mutta' vaan 'tai jotain sen kaltaista'; antaa esimerkin ja pehmentää ehdot
 Kumpi: Vませんか vai Vましょう, kun halutaan jättää tilaa kieltäytyä?
 ?
 Vませんか; se on kohteliaampi ja varovaisempi. Vましょう on suorempi ja olettaa myöntävän vastauksen.
+
+#flashcards/grammar/n5/vertailu
+
+Vませんか／Vましょう (etkö tulisi, tehdäänkö) (similar/compare) ::: Vようではないか (tehkäämme, juhlava kehotus) (similar/compare)

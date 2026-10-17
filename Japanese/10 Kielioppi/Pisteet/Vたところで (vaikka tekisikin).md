@@ -7,7 +7,7 @@ func: [turha-myonnytys, toivottomuus]
 attaches: ["[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vたところ、 (kavi ilmi etta)]]", "[[Vたところに・で (juuri siina kohdassa)]]"]
+similar: ["[[Vたところ、 (kavi ilmi etta)]]", "[[Vたところに・で (juuri siina kohdassa)]]", "[[～にしたところで (vaikka, hankaan)]]"]
 compare: ["[[Vたところ、 (kavi ilmi etta)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 18]]"]
 status: new
@@ -73,3 +73,4 @@ Miten kolme ところ-rakennetta (たところに・で / たところ、 / た�
 
 V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) (similar/compare) ::: Vたところ、 (kavi ilmi etta) (similar/compare)
 V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) (similar) ::: Vたところに・で (juuri siina kohdassa) (similar)
+V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) (similar) ::: ～にしたところで (vaikka, hankaan) (similar)

@@ -7,8 +7,8 @@ func: [osittainen-kielto, lieventaminen]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形わけだ (johtopaatos, siis)]]", "[[普通形からといって (vaikka onkin niin)]]", "[[～とは限らない (ei valttamatta)]]"]
-compare: ["[[普通形わけだ (johtopaatos, siis)]]", "[[普通形からといって (vaikka onkin niin)]]", "[[Vないことはない (ei ole mahdotonta)]]", "[[～とは限らない (ei valttamatta)]]", "[[普通形わけがない (ei mitenkaan voi olla)]]"]
+similar: ["[[普通形わけだ (johtopaatos, siis)]]", "[[普通形からといって (vaikka onkin niin)]]", "[[～とは限らない (ei valttamatta)]]", "[[～ことにはならない (ei tarkoita etta)]]", "[[～というものではない (ei valttamatta ole niin)]]"]
+compare: ["[[普通形わけだ (johtopaatos, siis)]]", "[[普通形からといって (vaikka onkin niin)]]", "[[Vないことはない (ei ole mahdotonta)]]", "[[～とは限らない (ei valttamatta)]]", "[[普通形わけがない (ei mitenkaan voi olla)]]", "[[～ではあるまいし (eihan … ole)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 15]]"]
 status: new
 confidence: 1
@@ -83,3 +83,6 @@ Miten わけではない eroaa わけだ:sta?
 普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (compare) ::: Vないことはない (ei ole mahdotonta) (compare)
 普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar/compare) ::: ～とは限らない (ei valttamatta) (similar/compare)
 普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (compare) ::: 普通形わけがない (ei mitenkaan voi olla) (compare)
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (compare) ::: ～ではあるまいし (eihan … ole) (compare)
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar) ::: ～ことにはならない (ei tarkoita etta) (similar)
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar) ::: ～というものではない (ei valttamatta ole niin) (similar)

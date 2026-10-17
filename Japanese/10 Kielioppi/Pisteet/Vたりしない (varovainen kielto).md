@@ -7,7 +7,7 @@ func: [kielto, lieventaminen]
 attaches: ["[[た-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä)]]"]
+similar: ["[[Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä)]]", "[[Vやしない (ei suinkaan, ei ikina)]]"]
 compare: ["[[Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 13]]"]
 status: new
@@ -73,3 +73,4 @@ Peruskaava vaatii kaksi たり-ilmausta esimerkkiluettelona; Vたりしない k�
 #flashcards/grammar/n3/vertailu
 
 V(た形)＋り（＋し）ない (varovainen kielto) (similar/compare) ::: Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) (similar/compare)
+V(た形)＋り（＋し）ない (varovainen kielto) (similar) ::: Vやしない (ei suinkaan, ei ikina) (similar)

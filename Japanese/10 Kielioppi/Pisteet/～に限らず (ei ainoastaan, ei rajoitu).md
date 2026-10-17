@@ -7,8 +7,8 @@ func: [laajennus, yleistys]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～だけでなく (ei pelkastaan vaan myos)]]", "[[N・普通形に限って (juuri silloin, ikava sattuma)]]"]
-compare: ["[[N・普通形に限って (juuri silloin, ikava sattuma)]]"]
+similar: ["[[～だけでなく (ei pelkastaan vaan myos)]]", "[[N・普通形に限って (juuri silloin, ikava sattuma)]]", "[[～に限ったことではない (ei koske vain)]]", "[[～にとどまらず (ei rajoitu vain)]]"]
+compare: ["[[N・普通形に限って (juuri silloin, ikava sattuma)]]", "[[～に限ったことではない (ei koske vain)]]", "[[～にとどまらず (ei rajoitu vain)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 21]]"]
 status: new
 confidence: 1
@@ -73,3 +73,5 @@ Miten N に限らず eroaa rakenteesta N に限って?
 
 N＋に限らず (ei ainoastaan, ei rajoitu) (similar) ::: ～だけでなく (ei pelkastaan vaan myos) (similar)
 N＋に限らず (ei ainoastaan, ei rajoitu) (similar/compare) ::: N・普通形に限って (juuri silloin, ikava sattuma) (similar/compare)
+N＋に限らず (ei ainoastaan, ei rajoitu) (similar/compare) ::: ～に限ったことではない (ei koske vain) (similar/compare)
+N＋に限らず (ei ainoastaan, ei rajoitu) (similar/compare) ::: ～にとどまらず (ei rajoitu vain) (similar/compare)

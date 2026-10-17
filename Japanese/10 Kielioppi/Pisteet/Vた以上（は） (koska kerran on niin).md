@@ -7,8 +7,8 @@ func: [velvoite, seuraus-tosiasiasta]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vからには (koska kerran, paatoksen jalkeen)]]"]
-compare: ["[[Vからには (koska kerran, paatoksen jalkeen)]]"]
+similar: ["[[Vからには (koska kerran, paatoksen jalkeen)]]", "[[～手前 (vuoksi, kasvojen menettamisen pelossa)]]", "[[～上は (koska kerran, nyt kun)]]"]
+compare: ["[[Vからには (koska kerran, paatoksen jalkeen)]]", "[[～手前 (vuoksi, kasvojen menettamisen pelossa)]]", "[[～以上に (enemman kuin)]]", "[[～上は (koska kerran, nyt kun)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 24]]"]
 status: new
 confidence: 1
@@ -74,3 +74,6 @@ Ulkoiseen tosiasiaan sopii paremmin 以上 (結論が出た以上); omaan päät
 #flashcards/grammar/n2/vertailu
 
 普通形＋以上（は） (koska kerran on niin) (similar/compare) ::: Vからには (koska kerran, paatoksen jalkeen) (similar/compare)
+普通形＋以上（は） (koska kerran on niin) (similar/compare) ::: ～手前 (vuoksi, kasvojen menettamisen pelossa) (similar/compare)
+普通形＋以上（は） (koska kerran on niin) (compare) ::: ～以上に (enemman kuin) (compare)
+普通形＋以上（は） (koska kerran on niin) (similar/compare) ::: ～上は (koska kerran, nyt kun) (similar/compare)

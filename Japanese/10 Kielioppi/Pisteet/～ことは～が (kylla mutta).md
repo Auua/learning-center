@@ -7,8 +7,8 @@ func: [myonnytys, rajoitus]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～ながらも (vaikka, kirjallinen myonnytys)]]"]
-compare: ["[[～ことは・が・を (yleistys ja arvottaminen)]]"]
+similar: ["[[～ながらも (vaikka, kirjallinen myonnytys)]]", "[[～こそ～が (kylla … mutta)]]"]
+compare: ["[[～ことは・が・を (yleistys ja arvottaminen)]]", "[[～こそ～が (kylla … mutta)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - Eri asia kuin yleistävä [[～ことは・が・を (yleistys ja arvottaminen)]]; tässä こと + toisto ilmaisee varauksellista myönnytystä.
 
-Vertailu: [[～ことは・が・を (yleistys ja arvottaminen)]]
+Vertailu: [[～ことは・が・を (yleistys ja arvottaminen)]] · [[～こそ～が (kylla … mutta)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -71,4 +71,5 @@ Ensimmäinen = yleistys (lukeminen on tärkeää); toinen = varauksellinen myön
 #flashcards/grammar/n3/vertailu
 
 X（普通形）ことは X が／けど (kylla mutta) (similar) ::: ～ながらも (vaikka, kirjallinen myonnytys) (similar)
+X（普通形）ことは X が／けど (kylla mutta) (similar/compare) ::: ～こそ～が (kylla … mutta) (similar/compare)
 X（普通形）ことは X が／けど (kylla mutta) (compare) ::: ～ことは・が・を (yleistys ja arvottaminen) (compare)

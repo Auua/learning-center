@@ -7,7 +7,7 @@ func: [ajankohta, keskeytys]
 attaches: ["[[て-muoto]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: []
+similar: ["[[Vているところに・ところへ (juuri kun)]]"]
 compare: ["[[Vところです (kolme vaihetta)]]", "[[N中（ちゅう・じゅう） (aikana, koko)]]", "[[途中で・途中に (matkalla, kesken)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -71,6 +71,7 @@ Odottamaton keskeytys tai häiriö.
 
 #flashcards/grammar/n3/vertailu
 
+Vている／Nの＋最中に／最中だ (keskella, parhaillaan) (similar) ::: Vているところに・ところへ (juuri kun) (similar)
 Vている／Nの＋最中に／最中だ (keskella, parhaillaan) (compare) ::: Vところです (kolme vaihetta) (compare)
 Vている／Nの＋最中に／最中だ (keskella, parhaillaan) (compare) ::: N中（ちゅう・じゅう） (aikana, koko) (compare)
 Vている／Nの＋最中に／最中だ (keskella, parhaillaan) (compare) ::: 途中で・途中に (matkalla, kesken) (compare)

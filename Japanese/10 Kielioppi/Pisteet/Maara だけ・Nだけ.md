@@ -16,11 +16,16 @@ similar:
   - "[[～だけだ・ただ～だけでいい (vain se riittää)]]"
   - "[[Nずつ (kukin, kerrallaan)]]"
   - "[[Vだけで (pelkastaan tekemalla)]]"
+  - "[[～くらいのものだ (vain, ainoastaan)]]"
+  - "[[～というところだ (suunnilleen, korkeintaan)]]"
+  - "[[～だけは (ainakin, sen minka voi)]]"
+  - "[[～のみ (vain, kirjallinen)]]"
 compare:
   - "[[Nしか Vません (vain, pelkastaan)]]"
   - "[[～だけだ・ただ～だけでいい (vain se riittää)]]"
   - "[[～きり (vain, sen jalkeen ei)]]"
   - "[[Maara＋も (jopa, perati)]]"
+  - "[[～のみ (vain, kirjallinen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 11]]"
   - "[[Minna no Nihongo Chuukyuu I#Luku 7]]"
@@ -89,3 +94,7 @@ Miten 数量だけ／Nだけ eroaa Nしか Vませんistä?
 数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: Nずつ (kukin, kerrallaan) (similar)
 数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: Vだけで (pelkastaan tekemalla) (similar)
 数量だけ／Nだけ (Maara だけ・Nだけ) (compare) ::: Maara＋も (jopa, perati) (compare)
+数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: ～くらいのものだ (vain, ainoastaan) (similar)
+数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: ～というところだ (suunnilleen, korkeintaan) (similar)
+数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: ～だけは (ainakin, sen minka voi) (similar)
+数量だけ／Nだけ (Maara だけ・Nだけ) (similar/compare) ::: ～のみ (vain, kirjallinen) (similar/compare)

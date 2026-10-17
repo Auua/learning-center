@@ -7,8 +7,8 @@ func: [aihe]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～に関する・に関して (koskien)]]"]
-compare: ["[[～に関する・に関して (koskien)]]", "[[～に対して (kohtaan, vastakohtana)]]"]
+similar: ["[[～に関する・に関して (koskien)]]", "[[～をめぐって (ymparilla, koskien kiistaa)]]"]
+compare: ["[[～に関する・に関して (koskien)]]", "[[～に対して (kohtaan, vastakohtana)]]", "[[～をめぐって (ymparilla, koskien kiistaa)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 日本について話す (aiheena Japani) vs. 日本に対して話す (puhua Japanille/Japania kohtaan).
 
-Vertailu: [[～に関する・に関して (koskien)]] · [[～に対して (kohtaan, vastakohtana)]]
+Vertailu: [[～に関する・に関して (koskien)]] · [[～に対して (kohtaan, vastakohtana)]] · [[～をめぐって (ymparilla, koskien kiistaa)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,4 +72,5 @@ Mikä on について:n muodollisempi vastine?
 #flashcards/grammar/n3/vertailu
 
 N＋について／についての (aiheesta) (similar/compare) ::: ～に関する・に関して (koskien) (similar/compare)
+N＋について／についての (aiheesta) (similar/compare) ::: ～をめぐって (ymparilla, koskien kiistaa) (similar/compare)
 N＋について／についての (aiheesta) (compare) ::: ～に対して (kohtaan, vastakohtana) (compare)

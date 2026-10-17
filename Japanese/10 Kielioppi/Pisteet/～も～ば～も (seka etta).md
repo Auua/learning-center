@@ -7,8 +7,8 @@ func: [luettelointi, lisays]
 attaches: ["[[Ehtomuoto ば]]", "substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Nも (myos, sama patee)]]", "[[普通形し、普通形し (perustelujen luettelointi)]]"]
-compare: ["[[普通形し、普通形し (perustelujen luettelointi)]]"]
+similar: ["[[Nも (myos, sama patee)]]", "[[普通形し、普通形し (perustelujen luettelointi)]]", "[[Nでもあり～Nでもある (seka etta)]]", "[[～も～なら～も～だ (molemmat yhta huonoja)]]", "[[～といい～といい (seka A etta B)]]"]
+compare: ["[[普通形し、普通形し (perustelujen luettelointi)]]", "[[Nでもあり～Nでもある (seka etta)]]", "[[～も～なら～も～だ (molemmat yhta huonoja)]]", "[[～といい～といい (seka A etta B)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 安いし、おいしい (halpa ja hyvä — perusteluja) vs. 値段も安ければ、味もいい (sekä hinta halpa että maku hyvä — tasapainoinen luettelo).
 
-Vertailu: [[普通形し、普通形し (perustelujen luettelointi)]]
+Vertailu: [[普通形し、普通形し (perustelujen luettelointi)]] · [[Nでもあり～Nでもある (seka etta)]] · [[～も～なら～も～だ (molemmat yhta huonoja)]] · [[～といい～といい (seka A etta B)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -73,3 +73,6 @@ Ei — se yhdistää luettelon osat.
 
 N1も＋Vば／Adjければ＋N2も (seka etta) (similar) ::: Nも (myos, sama patee) (similar)
 N1も＋Vば／Adjければ＋N2も (seka etta) (similar/compare) ::: 普通形し、普通形し (perustelujen luettelointi) (similar/compare)
+N1も＋Vば／Adjければ＋N2も (seka etta) (similar/compare) ::: Nでもあり～Nでもある (seka etta) (similar/compare)
+N1も＋Vば／Adjければ＋N2も (seka etta) (similar/compare) ::: ～も～なら～も～だ (molemmat yhta huonoja) (similar/compare)
+N1も＋Vば／Adjければ＋N2も (seka etta) (similar/compare) ::: ～といい～といい (seka A etta B) (similar/compare)

@@ -7,7 +7,7 @@ func: [arvio, uutiskieli]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: muodollinen
 register: [kirjoitettu]
-similar: ["[[普通形と思われる (nayttaa siltä, uutiskielinen)]]"]
+similar: ["[[普通形と思われる (nayttaa siltä, uutiskielinen)]]", "[[～ものと思われる (arvellaan etta)]]"]
 compare: ["[[普通形と思われる (nayttaa siltä, uutiskielinen)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 16]]"]
 status: new
@@ -79,3 +79,4 @@ Hyvin lähellä toisiaan ja useimmiten vaihtokelpoisia. とみられる on tyypi
 #flashcards/grammar/n2/vertailu
 
 普通形＋とみられる・とみている (arvioidaan olevan) (similar/compare) ::: 普通形と思われる (nayttaa siltä, uutiskielinen) (similar/compare)
+普通形＋とみられる・とみている (arvioidaan olevan) (similar) ::: ～ものと思われる (arvellaan etta) (similar)

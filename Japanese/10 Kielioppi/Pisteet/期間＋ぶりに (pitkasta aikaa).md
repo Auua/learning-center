@@ -8,7 +8,7 @@ attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: []
-compare: ["[[Vて以来 (siita lahtien kun)]]"]
+compare: ["[[Vて以来 (siita lahtien kun)]]", "[[Nぶり・っぷり (tapa, tyyli)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -43,7 +43,7 @@ tags: [grammar/perusrakenne, jlpt/n3]
 ## Sekaannusvaara
 - 3年ぶりに会った (tapasimme ekaa kertaa kolmeen vuoteen) vs. 3年前に会った (tapasimme kolme vuotta sitten).
 
-Vertailu: [[Vて以来 (siita lahtien kun)]]
+Vertailu: [[Vて以来 (siita lahtien kun)]] · [[Nぶり・っぷり (tapa, tyyli)]]
 
 ## Kortit
 #flashcards/grammar/n3
@@ -72,3 +72,4 @@ Pitkästä aikaa (emme ole nähneet aikoihin).
 #flashcards/grammar/n3/vertailu
 
 期間＋ぶり（に） (pitkasta aikaa) (compare) ::: Vて以来 (siita lahtien kun) (compare)
+期間＋ぶり（に） (pitkasta aikaa) (compare) ::: Nぶり・っぷり (tapa, tyyli) (compare)

@@ -8,7 +8,7 @@ attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[普通形ような気がする (tuntuu silta etta)]]"]
-compare: ["[[見えます・聞こえます (spontaani aisti)]]", "[[普通形ような気がする (tuntuu silta etta)]]"]
+compare: ["[[見えます・聞こえます (spontaani aisti)]]", "[[普通形ような気がする (tuntuu silta etta)]]", "[[～思いをする (kokea tunne)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
 confidence: 1
@@ -44,7 +44,7 @@ tags: [grammar/perusrakenne, jlpt/n4]
 ## Sekaannusvaara
 - 音が聞こえる (kuulen äänen, kuulijan kyky) vs. 音がする (ääni syntyy, lähteen ominaisuus).
 
-Vertailu: [[見えます・聞こえます (spontaani aisti)]] · [[普通形ような気がする (tuntuu silta etta)]]
+Vertailu: [[見えます・聞こえます (spontaani aisti)]] · [[普通形ような気がする (tuntuu silta etta)]] · [[～思いをする (kokea tunne)]]
 
 ## Kortit
 #flashcards/grammar/n4
@@ -74,3 +74,4 @@ Aistimus syntyy itsestään; se on subjekti, ei kenenkään tekemä objekti.
 
 N(音・におい・味・声・気)＋がする (aistimus, haju, aani, maku) (similar/compare) ::: 普通形ような気がする (tuntuu silta etta) (similar/compare)
 N(音・におい・味・声・気)＋がする (aistimus, haju, aani, maku) (compare) ::: 見えます・聞こえます (spontaani aisti) (compare)
+N(音・におい・味・声・気)＋がする (aistimus, haju, aani, maku) (compare) ::: ～思いをする (kokea tunne) (compare)

@@ -7,7 +7,7 @@ func: [vastakohta, yllatys, konjunktio]
 attaches: ["lause"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[S1が、S2 (mutta)]]"]
+similar: ["[[S1が、S2 (mutta)]]", "[[～かと思いきや (luuli etta, mutta toisin)]]"]
 compare: ["[[～たら、～た (odottamaton löytö)]]", "[[だけど (mutta, lauseen alussa)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
@@ -70,5 +70,6 @@ Ei — jälkiosa on tosiasia, ei tahto tai kehotus.
 #flashcards/grammar/n3/vertailu
 
 S1。ところが、S2。 (mutta yllattaen) (similar) ::: S1が、S2 (mutta) (similar)
+S1。ところが、S2。 (mutta yllattaen) (similar) ::: ～かと思いきや (luuli etta, mutta toisin) (similar)
 S1。ところが、S2。 (mutta yllattaen) (compare) ::: ～たら、～た (odottamaton löytö) (compare)
 S1。ところが、S2。 (mutta yllattaen) (compare) ::: だけど (mutta, lauseen alussa) (compare)

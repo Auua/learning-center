@@ -90,8 +90,8 @@ Siihen mitä vaaditaan, jotta B toteutuu ("riittääkö tämä, jotta B?"); loog
 
 #flashcards/grammar/n4/vertailu
 
-～ば (jos, ehto) (similar) ::: ～たら (jos, kun) (similar)
-～ば (jos, ehto) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
-～ば (jos, ehto) (similar) ::: ～なら (jos kerran) (similar)
-～ば (jos, ehto) (similar) ::: Vertailu — たら・ば + ta (kontrafaktuaalinen) (similar)
+～ば (jos, ehto) kun (similar) ::: ～たら (jos, kun) (similar)
+～ば (jos, ehto) seuraus (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
+～ば (jos, ehto) kerran (similar) ::: ～なら (jos kerran) (similar)
+～ば (jos, ehto) Kontrafaktuaalinen (similar) ::: Vertailu — たら・ば + ta (kontrafaktuaalinen) (similar)
 ～ば (jos, ehto) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)

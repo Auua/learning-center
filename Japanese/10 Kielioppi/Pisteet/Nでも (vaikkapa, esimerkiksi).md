@@ -7,7 +7,7 @@ func: [esimerkki, ehdotus, pehmennys]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～か何か (tai jotain)]]"]
+similar: ["[[～なり～なり (esimerkiksi A tai B)]]", "[[～か何か (tai jotain)]]"]
 compare: ["[[N1やN2 [など] (ja muun muassa, epätäydellinen lista)]]", "[[Nだって (vaikka, jopa)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
@@ -71,6 +71,7 @@ Ensimmäinen = vaikkapa (ehdotus); jälkimmäinen = jopa lapsi ymmärtää.
 
 #flashcards/grammar/n4/vertailu
 
+Nでも (vaikkapa, esimerkiksi) (similar) ::: ～なり～なり (esimerkiksi A tai B) (similar)
 Nでも (vaikkapa, esimerkiksi) (similar) ::: ～か何か (tai jotain) (similar)
 Nでも (vaikkapa, esimerkiksi) (compare) ::: N1やN2 [など] (ja muun muassa, epätäydellinen lista) (compare)
 Nでも (vaikkapa, esimerkiksi) (compare) ::: Nだって (vaikka, jopa) (compare)

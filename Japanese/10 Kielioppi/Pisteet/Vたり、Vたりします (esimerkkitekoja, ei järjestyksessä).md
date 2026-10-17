@@ -15,8 +15,10 @@ register:
 similar:
   - "[[Vて、Vて (peräkkäisyys)]]"
   - "[[～たり～たり (vaihtelu, epäsäännöllisyys)]]"
+  - "[[～つ～つ (vuoroin, edestakaisin)]]"
 compare:
   - "[[～たり～たり (vaihtelu, epäsäännöllisyys)]]"
+  - "[[Vては～Vては (vuorotellen toistuvasti)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 19]]"
   - "[[Minna no Nihongo Chuukyuu I#Luku 12]]"
@@ -96,3 +98,5 @@ Vて、Vて kertoo tarkan järjestyksen ja on yleensä täydellinen lista; た�
 
 V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (similar) ::: Vて、Vて (peräkkäisyys) (similar)
 V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (similar/compare) ::: ～たり～たり (vaihtelu, epäsäännöllisyys) (similar/compare)
+V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (similar) ::: ～つ～つ (vuoroin, edestakaisin) (similar)
+V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (compare) ::: Vては～Vては (vuorotellen toistuvasti) (compare)

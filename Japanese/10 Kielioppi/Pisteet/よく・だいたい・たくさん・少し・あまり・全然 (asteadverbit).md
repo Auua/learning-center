@@ -17,6 +17,7 @@ similar:
   - "[[とても・あまり (hyvin, ei kovin)]]"
   - "[[めったに～ない (harvoin)]]"
 compare:
+  - "[[全く～ない (ei lainkaan)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 9]]"
 status: shaky
@@ -97,3 +98,4 @@ Miten kuuden asteadverbin asteikko eroaa parista とても・あまり?
 
 よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: とても・あまり (hyvin, ei kovin) (similar)
 よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: めったに～ない (harvoin) (similar)
+よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (compare) ::: 全く～ない (ei lainkaan) (compare)

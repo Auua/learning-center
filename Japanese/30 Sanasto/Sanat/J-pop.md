@@ -22,6 +22,7 @@ tags: [vocab, jlpt/n2]
 ## Merkitys
 - **FI:** J-pop (japanilainen pop-musiikki)
 - **EN:** J-pop
+- **Ääni:** ![[tts_e82682053cef.m4a]]
 
 ## Kollokaatiot ja käyttö
 - 

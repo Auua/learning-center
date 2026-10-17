@@ -7,8 +7,8 @@ func: [turhautuminen, puhuttelu]
 attaches: ["substantiivi"]
 formality: puhekielinen
 register: [puhuttu]
-similar: []
-compare: []
+similar: ["[[Nときたら (kun on kyse, voi sita)]]"]
+compare: ["[[Nときたら (kun on kyse, voi sita)]]"]
 sources: ["[[Minna no Nihongo Chuukyuu II#Luku 17]]"]
 status: new
 confidence: 1
@@ -60,3 +60,7 @@ Yleensä lempeä tai huvittunut moite (turhautuminen, hämmästys), ei vihainen;
 Miten N＋ったら voidaan jatkaa?
 ?
 Voi seistä yksin (優太ったら。) tai jatkua lauseella, joka selittää mistä on kyse.
+
+#flashcards/grammar/n2/vertailu
+
+N＋ったら (turhautunut puhuttelu) (similar/compare) ::: Nときたら (kun on kyse, voi sita) (similar/compare)
