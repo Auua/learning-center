@@ -71,6 +71,14 @@ Mitkä ovat どころか:n kaksi merkitystä?
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N／な-adj）＋どころか (paikalla vaan painvastoin) (similar) ::: ～ばかりか (ei vain, vaan jopa) (similar)
-普通形（N／な-adj）＋どころか (paikalla vaan painvastoin) (similar/compare) ::: ～はおろか (puhumattakaan, ei edes) (similar/compare)
-普通形（N／な-adj）＋どころか (paikalla vaan painvastoin) (compare) ::: ～どころではない (ei ole aikaa, puhumattakaan) (compare)
+普通形（N／な-adj）＋どころか (paikalla vaan painvastoin) 楽になる**どころか**、もっと忙しくなった (similar) vs. ei vain, vaan jopa
+??
+～ばかりか (ei vain, vaan jopa) 彼は英語**ばかりか**、中国語**も**話せる (similar) vs. paikalla vaan painvastoin
+
+普通形（N／な-adj）＋どころか (paikalla vaan painvastoin) 楽になる**どころか**、もっと忙しくなった (similar/compare) vs. puhumattakaan, ei edes
+??
+～はおろか (puhumattakaan, ei edes) 漢字**はおろか**、ひらがな**も**書けない (similar/compare) vs. paikalla vaan painvastoin
+
+普通形（N／な-adj）＋どころか (paikalla vaan painvastoin) 楽になる**どころか**、もっと忙しくなった (compare) vs. ei ole aikaa, puhumattakaan
+??
+～どころではない (ei ole aikaa, puhumattakaan) 忙しくて、旅行**どころではない** (compare) vs. paikalla vaan painvastoin

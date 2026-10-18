@@ -71,4 +71,6 @@ Molemmat tuttavallisia; かい lisää lämpimän, maskuliinisen ja vanhahtavan 
 
 #flashcards/grammar/n4/vertailu
 
-普通形＋かい／疑問詞…だい (tuttavallinen kysymys) (compare) ::: 普通形の？ (puhekielinen selittava kysymys) (compare)
+普通形＋かい／疑問詞…だい (tuttavallinen kysymys) 元気**かい**？ (compare) vs. puhekielinen selittava kysymys
+??
+普通形の？ (puhekielinen selittava kysymys) 今年、「日本語能力試験」を**受けるの**？ (compare) vs. tuttavallinen kysymys

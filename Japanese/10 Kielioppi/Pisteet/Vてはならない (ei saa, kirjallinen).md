@@ -69,5 +69,10 @@ Minkä sanojen kanssa てはならない esiintyy usein?
 
 #flashcards/grammar/n2/vertailu
 
-V(て)＋はならない (ei saa, kirjallinen) (similar/compare) ::: Vても いいです・Vては いけません (lupa ja kielto) (similar/compare)
-V(て)＋はならない (ei saa, kirjallinen) (similar/compare) ::: Vべからず (ei saa, kyltti) (similar/compare)
+V(て)＋はならない (ei saa, kirjallinen) 嘘をつい**てはならない** (similar/compare) vs. lupa ja kielto
+??
+Vても いいです・Vては いけません (lupa ja kielto) 写真を撮っ**てもいいです** (similar/compare) vs. ei saa, kirjallinen
+
+V(て)＋はならない (ei saa, kirjallinen) 嘘をつい**てはならない** (similar/compare) vs. ei saa, kyltti
+??
+Vべからず (ei saa, kyltti) ここで泳ぐ**べからず** (similar/compare) vs. ei saa, kirjallinen

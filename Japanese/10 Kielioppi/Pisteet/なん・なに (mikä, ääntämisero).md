@@ -77,6 +77,14 @@ Seuraava ääni on d (です) → なん.
 
 #flashcards/grammar/n5/vertailu
 
-何（なん／なに） (mikä, ääntämisero) (similar) ::: いつ (milloin) (similar)
-何（なん／なに） (mikä, ääntämisero) (similar/compare) ::: どれ (mikä niistä) (similar/compare)
-何（なん／なに） (mikä, ääntämisero) (similar) ::: 「Sana」は～語で何ですか (miten sanotaan kielellä) (similar)
+何（なん／なに） (mikä, ääntämisero) それは**なん**ですか (similar) vs. milloin
+??
+いつ (milloin) **いつ**日本へ来ましたか (similar) vs. mikä, ääntämisero
+
+何（なん／なに） (mikä, ääntämisero) それは**なん**ですか (similar/compare) vs. mikä niistä
+??
+どれ (mikä niistä) ミラーさんのかさは**どれ**ですか (similar/compare) vs. mikä, ääntämisero
+
+何（なん／なに） (mikä, ääntämisero) それは**なん**ですか (similar) vs. miten sanotaan kielellä
+??
+「Sana」は～語で何ですか (miten sanotaan kielellä) 「Thank you」は日本語で**何ですか** (similar) vs. mikä, ääntämisero

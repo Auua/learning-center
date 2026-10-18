@@ -69,4 +69,6 @@ Mitkä sanat liittyvät tyypillisesti に応えて:hen?
 
 #flashcards/grammar/n2/vertailu
 
-N＋に応えて／に応える (vastaten jhk) (similar/compare) ::: ～に応じて (sen mukaan, riippuen) (similar/compare)
+N＋に応えて／に応える (vastaten jhk) ファンの声援**に応えて**、選手は手を振った (similar/compare) vs. sen mukaan, riippuen
+??
+～に応じて (sen mukaan, riippuen) 会員のうち3人は既に請求**に応じて**支払いを済ませている (similar/compare) vs. vastaten jhk

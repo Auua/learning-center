@@ -85,5 +85,10 @@ Miten ～さん eroaa ～ちゃん:sta ja ～くん:sta?
 
 #flashcards/grammar/n5/vertailu
 
-～さん (kohtelias nimen liite) (similar) ::: ～ちゃん・～くん (similar)
-～さん (kohtelias nimen liite) (similar/compare) ::: ～ちゃん・～くん (similar/compare)
+～さん (kohtelias nimen liite) 佐藤さん、こちらはマイク・ミラーさんです (similar) vs. tuttavalliset nimen liitteet
+??
+～ちゃん・～くん ゆき**ちゃん**、こっちにおいで (similar) vs. kohtelias nimen liite
+
+～さん (kohtelias nimen liite) 佐藤さん、こちらはマイク・ミラーさんです (similar/compare) vs. tuttavalliset nimen liitteet
+??
+～ちゃん・～くん ゆき**ちゃん**、こっちにおいで (similar/compare) vs. kohtelias nimen liite

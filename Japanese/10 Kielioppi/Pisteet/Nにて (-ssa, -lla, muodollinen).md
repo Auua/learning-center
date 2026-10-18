@@ -70,6 +70,14 @@ Sama tehtävä; にて muodollinen kirje- ja kuulutuskieli.
 
 #flashcards/grammar/n2/vertailu
 
-N＋にて (-ssa, -lla, muodollinen) (similar/compare) ::: N (paikka) で (similar/compare)
-N＋にて (-ssa, -lla, muodollinen) (similar) ::: N (väline) で (similar)
-N＋にて (-ssa, -lla, muodollinen) (similar) ::: ～をもって (avulla, alkaen, paattyen) (similar)
+N＋にて (-ssa, -lla, muodollinen) 会場**にて**受付を行います (similar/compare) vs. paikka
+??
+N (paikka) で 駅**で**新聞を買います (similar/compare) vs. -ssa, -lla, muodollinen
+
+N＋にて (-ssa, -lla, muodollinen) 会場**にて**受付を行います (similar) vs. väline
+??
+N (väline) で はし**で**食べます (similar) vs. -ssa, -lla, muodollinen
+
+N＋にて (-ssa, -lla, muodollinen) 会場**にて**受付を行います (similar) vs. avulla, alkaen, paattyen
+??
+～をもって (avulla, alkaen, paattyen) 書面**をもって**通知する (similar) vs. -ssa, -lla, muodollinen

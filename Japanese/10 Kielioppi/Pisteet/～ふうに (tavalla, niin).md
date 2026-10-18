@@ -72,5 +72,10 @@ Sama; このように kirjallisempi.
 
 #flashcards/grammar/n2/vertailu
 
-こんな／そんな／Nの／V普通形＋ふうに（ふうな） (tavalla, niin) (similar) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar)
-こんな／そんな／Nの／V普通形＋ふうに（ふうな） (tavalla, niin) (similar/compare) ::: 〜とおりに (juuri niin kuin) (similar/compare)
+こんな／そんな／Nの／V普通形＋ふうに（ふうな） (tavalla, niin) **こんなふうに**書いてください (similar) vs. vertailu, esimerkki
+??
+～のようだ・～のような・～のように (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar) vs. tavalla, niin
+
+こんな／そんな／Nの／V普通形＋ふうに（ふうな） (tavalla, niin) **こんなふうに**書いてください (similar/compare) vs. juuri niin kuin
+??
+〜とおりに (juuri niin kuin) わたしが今から**言うとおりに**、書いてください (similar/compare) vs. tavalla, niin

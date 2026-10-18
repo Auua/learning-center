@@ -63,5 +63,10 @@ Mikä on yleinen kaava, jolla として ilmaisee tunnettuutta?
 
 #flashcards/grammar/n3/vertailu
 
-Nとして (roolissa, ominaisuudessa) (compare) ::: ～なりに (omalla tavallaan) (compare)
-Nとして (roolissa, ominaisuudessa) (similar/compare) ::: Nたるもの (sellaisena kuin pitaa olla) (similar/compare)
+Nとして (roolissa, ominaisuudessa) アニメや漫画は**日本の文化として**世界に認められている (compare) vs. omalla tavallaan
+??
+～なりに (omalla tavallaan) 子ども**なりに**考えている (compare) vs. roolissa, ominaisuudessa
+
+Nとして (roolissa, ominaisuudessa) アニメや漫画は**日本の文化として**世界に認められている (similar/compare) vs. sellaisena kuin pitaa olla
+??
+Nたるもの (sellaisena kuin pitaa olla) 教師**たるもの**、生徒の模範であるべきだ (similar/compare) vs. roolissa, ominaisuudessa

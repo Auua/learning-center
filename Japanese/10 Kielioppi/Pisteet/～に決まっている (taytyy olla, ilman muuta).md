@@ -70,4 +70,6 @@ Kumpi on subjektiivisempi: に違いない vai に決まっている?
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N／な-adj）＋に決まっている (taytyy olla, ilman muuta) (similar/compare) ::: 普通形に違いない (varmasti on niin) (similar/compare)
+普通形（N／な-adj）＋に決まっている (taytyy olla, ilman muuta) そんなの嘘**に決まっている** (similar/compare) vs. varmasti on niin
+??
+普通形に違いない (varmasti on niin) 今日もきっと遅れてくる**に違いない** (similar/compare) vs. taytyy olla, ilman muuta

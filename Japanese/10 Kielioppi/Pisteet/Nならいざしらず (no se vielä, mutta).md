@@ -69,4 +69,6 @@ Sama ajatus; いざしらず kirjallisempi.
 
 #flashcards/grammar/n1/vertailu
 
-N＋ならいざしらず／はいざしらず (no se vielä, mutta) (similar/compare) ::: ～ならまだしも (viela menisi, mutta) (similar/compare)
+N＋ならいざしらず／はいざしらず (no se vielä, mutta) 子ども**ならいざしらず**、大人がそんなことをするとは (similar/compare) vs. viela menisi, mutta
+??
+～ならまだしも (viela menisi, mutta) 一度**ならまだしも**、何度も遅刻するのは困る (similar/compare) vs. no se vielä, mutta

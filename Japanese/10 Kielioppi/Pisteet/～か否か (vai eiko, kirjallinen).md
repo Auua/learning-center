@@ -68,4 +68,6 @@ Sama; か否か kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋か否か (vai eiko, kirjallinen) (similar/compare) ::: 〜かどうか (jompikumpi, epavarmuus) (similar/compare)
+普通形＋か否か (vai eiko, kirjallinen) 参加する**か否か**、決めてください (similar/compare) vs. jompikumpi, epavarmuus
+??
+〜かどうか (jompikumpi, epavarmuus) 台風9号は東京へ**来るかどうか**、まだわかりません (similar/compare) vs. vai eiko, kirjallinen

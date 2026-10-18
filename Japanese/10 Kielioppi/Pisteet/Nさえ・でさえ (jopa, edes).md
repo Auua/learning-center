@@ -71,8 +71,22 @@ Ensimmäinen = ei edes (ääriesimerkki); toinen = kunhan vain (ehto).
 
 #flashcards/grammar/n3/vertailu
 
-N＋さえ／でさえ (jopa, edes) (similar/compare) ::: Vさえ～ば (kunhan vain) (similar/compare)
-N＋さえ／でさえ (jopa, edes) (similar/compare) ::: Nだって (vaikka, jopa) (similar/compare)
-N＋さえ／でさえ (jopa, edes) (similar/compare) ::: ～だに (edes, pelkka ajatuskin) (similar/compare)
-N＋さえ／でさえ (jopa, edes) (similar) ::: ～なりとも (edes vahan) (similar)
-N＋さえ／でさえ (jopa, edes) (similar/compare) ::: Nすら・ですら (jopa, edes, kirjallinen) (similar/compare)
+N＋さえ／でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar/compare) vs. kunhan vain
+??
+Vさえ～ば (kunhan vain) 家族が健康に暮らして**さえいれば**、十分に幸せです (similar/compare) vs. jopa, edes
+
+N＋さえ／でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar/compare) vs. vaikka, jopa
+??
+Nだって (vaikka, jopa) ……あら、袋**だって**必要なのよ (similar/compare) vs. jopa, edes
+
+N＋さえ／でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar/compare) vs. edes, pelkka ajatuskin
+??
+～だに (edes, pelkka ajatuskin) 微動**だにしない** (similar/compare) vs. jopa, edes
+
+N＋さえ／でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar) vs. edes vahan
+??
+～なりとも (edes vahan) **少しなりとも**お役に立てればうれしいです (similar) vs. jopa, edes
+
+N＋さえ／でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar/compare) vs. kirjallinen "jopa, edes"
+??
+Nすら・ですら (jopa, edes, kirjallinen) 名前**すら**知らない (similar/compare) vs. neutraali "jopa, edes"

@@ -69,4 +69,6 @@ N(asema) にあるまじき + 行為/発言.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋まじき＋N (sopimaton, ei saisi) (similar/compare) ::: Vべからず (ei saa, kyltti) (similar/compare)
+V辞書形＋まじき＋N (sopimaton, ei saisi) 教師**にあるまじき**行為 (similar/compare) vs. ei saa, kyltti
+??
+Vべからず (ei saa, kyltti) ここで泳ぐ**べからず** (similar/compare) vs. sopimaton, ei saisi

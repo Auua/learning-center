@@ -76,6 +76,14 @@ Antamis- ja saamisverbejä: あげる, くれる, もらう, くださる, い�
 
 #flashcards/grammar/n4/vertailu
 
-N（行事・機会）に＋V（あげる・くれる・もらう） (お祝いに, lahjan tarkoitus) (similar) ::: N (人) に あげます・もらいます (similar)
-N（行事・機会）に＋V（あげる・くれる・もらう） (お祝いに, lahjan tarkoitus) (similar/compare) ::: Vのに (kayttotarkoitus, kulutus) (similar/compare)
-N（行事・機会）に＋V（あげる・くれる・もらう） (お祝いに, lahjan tarkoitus) (similar) ::: N (paikka) へ Vます-vartalo に行きます (tarkoitus) (similar)
+N（行事・機会）に＋V（あげる・くれる・もらう） (お祝いに, lahjan tarkoitus) 結婚**のお祝いに**このお皿をいただきました (similar) vs. 人
+??
+N (人) に あげます・もらいます 銀行**から**お金を借りました (similar) vs. お祝いに, lahjan tarkoitus
+
+N（行事・機会）に＋V（あげる・くれる・もらう） (お祝いに, lahjan tarkoitus) 結婚**のお祝いに**このお皿をいただきました (similar/compare) vs. kayttotarkoitus, kulutus
+??
+Vのに (kayttotarkoitus, kulutus) このはさみは**花を切るのに**使います (similar/compare) vs. お祝いに, lahjan tarkoitus
+
+N（行事・機会）に＋V（あげる・くれる・もらう） (お祝いに, lahjan tarkoitus) 結婚**のお祝いに**このお皿をいただきました (similar) vs. mennä tekemään jotain
+??
+N (paikka) へ Vます-vartalo に行きます (tarkoitus) 神戸へインド料理を**食べに**行きます (similar) vs. lahjan tilaisuus "-lahjaksi, kiitokseksi"

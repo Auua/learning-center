@@ -71,6 +71,14 @@ Hyvin lähellä, rekisteriero on hienovarainen. とみられる on tyypillinen u
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋と思われる (nayttaa siltä, uutiskielinen) (similar/compare) ::: 普通形とみられる (arvioidaan olevan) (similar/compare)
-普通形＋と思われる (nayttaa siltä, uutiskielinen) (similar/compare) ::: ～ものと思われる (arvellaan etta) (similar/compare)
-普通形＋と思われる (nayttaa siltä, uutiskielinen) (similar/compare) ::: 普通形と考えられる (voidaan ajatella etta) (similar/compare)
+普通形＋と思われる (nayttaa siltä, uutiskielinen) 世界の経済の混乱はこの先5、6年は続く**と思われる** (similar/compare) vs. arvioidaan olevan
+??
+普通形とみられる (arvioidaan olevan) 犯人は車で逃げた**とみられる** (similar/compare) vs. nayttaa siltä, uutiskielinen
+
+普通形＋と思われる (nayttaa siltä, uutiskielinen) 世界の経済の混乱はこの先5、6年は続く**と思われる** (similar/compare) vs. arvellaan etta
+??
+～ものと思われる (arvellaan etta) 犯人は窓から入った**ものと思われる** (similar/compare) vs. nayttaa siltä, uutiskielinen
+
+普通形＋と思われる (nayttaa siltä, uutiskielinen) 世界の経済の混乱はこの先5、6年は続く**と思われる** (similar/compare) vs. voidaan ajatella etta
+??
+普通形と考えられる (voidaan ajatella etta) 事故の原因はスピードの出しすぎ**と考えられる** (similar/compare) vs. nayttaa siltä, uutiskielinen

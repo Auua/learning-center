@@ -70,5 +70,10 @@ Myös miehet (laskeva intonaatio).
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋わ（よ／ね） (feminiininen loppupartikkeli) (similar) ::: Sかしら (pohdinta, feminiininen) (similar)
-普通形＋わ（よ／ね） (feminiininen loppupartikkeli) (similar/compare) ::: Sよ (uuden tiedon korostus) (similar/compare)
+普通形＋わ（よ／ね） (feminiininen loppupartikkeli) 私も行く**わ** (similar) vs. pohdinta, feminiininen
+??
+Sかしら (pohdinta, feminiininen) 明日は晴れる**かしら** (similar) vs. feminiininen loppupartikkeli
+
+普通形＋わ（よ／ね） (feminiininen loppupartikkeli) 私も行く**わ** (similar/compare) vs. uuden tiedon korostus
+??
+Sよ (uuden tiedon korostus) 350円です**よ** (similar/compare) vs. feminiininen loppupartikkeli

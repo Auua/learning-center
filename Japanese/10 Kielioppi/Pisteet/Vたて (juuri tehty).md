@@ -81,4 +81,6 @@ Miten Vたて eroaa Vたばかりです:sta?
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋たて (juuri tehty) (similar/compare) ::: Vたばかりです (juuri askettain) (similar/compare)
+V(ます-vartalo)＋たて (juuri tehty) 来日し**たて**の頃、いつもリュックに辞書を詰めていた (similar/compare) vs. juuri askettain
+??
+Vたばかりです (juuri askettain) 彼は3月に大学を**卒業したばかりです** (similar/compare) vs. juuri tehty

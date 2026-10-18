@@ -92,5 +92,10 @@ Miten 〜と書いてあります eroaa rakenteesta 〜という意味です?
 
 #flashcards/grammar/n4/vertailu
 
-〜と書いてあります・〜という意味です (kylttien selittaminen) (similar) ::: 普通形と言います (lainaus) (similar)
-〜と書いてあります・〜という意味です (kylttien selittaminen) (similar/compare) ::: ～と読みます・～と書きます (lukutapa ja kirjoitustapa) (similar/compare)
+〜と書いてあります・〜という意味です (kylttien selittaminen) ……「止まれ」**と書いてあります** (similar) vs. lainaus
+??
+普通形と言います (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. kylttien selittaminen
+
+〜と書いてあります・〜という意味です (kylttien selittaminen) ……「止まれ」**と書いてあります** (similar/compare) vs. lukutapa ja kirjoitustapa
+??
+～と読みます・～と書きます (lukutapa ja kirjoitustapa) あの漢字は**何と読みます**か (similar/compare) vs. kylttien selittaminen

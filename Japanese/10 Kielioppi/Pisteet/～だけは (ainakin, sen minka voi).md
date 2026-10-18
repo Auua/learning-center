@@ -68,4 +68,6 @@ Syödä niin paljon kuin pystyy.
 
 #flashcards/grammar/n2/vertailu
 
-V＋だけ＋V／Nだけは (ainakin, sen minka voi) (similar) ::: Maara だけ・Nだけ (similar)
+V＋だけ＋V／Nだけは (ainakin, sen minka voi) やれる**だけ**やってみます (similar) vs. "vain" rajaus
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (similar) vs. ainakin, sen minka voi

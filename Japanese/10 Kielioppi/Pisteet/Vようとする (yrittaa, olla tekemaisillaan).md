@@ -89,5 +89,10 @@ Mikä rakenne kuvaa epäonnistunutta yritystä (やめようとしたんです�
 
 #flashcards/grammar/n3/vertailu
 
-V(意向形)とする／としない (yrittaa, olla tekemaisillaan) (similar/compare) ::: Vます-vartalo＋かける・かけ (keskeneraista) (similar/compare)
-V(意向形)とする／としない (yrittaa, olla tekemaisillaan) (similar/compare) ::: Vようとしない (ei edes yrita) (similar/compare)
+V(意向形)とする／としない (yrittaa, olla tekemaisillaan) 今朝**出かけようとしたとき**、電話がかかってきた (similar/compare) vs. keskeneraista
+??
+Vます-vartalo＋かける・かけ (keskeneraista) 手紙を書き**かけて**、やめた (similar/compare) vs. yrittaa, olla tekemaisillaan
+
+V(意向形)とする／としない (yrittaa, olla tekemaisillaan) 今朝**出かけようとしたとき**、電話がかかってきた (similar/compare) vs. ei edes yrita
+??
+Vようとしない (ei edes yrita) 彼は全然話そう**としない** (similar/compare) vs. yrittaa, olla tekemaisillaan

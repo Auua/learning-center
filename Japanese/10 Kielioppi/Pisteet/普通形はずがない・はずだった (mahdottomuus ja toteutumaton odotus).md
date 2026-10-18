@@ -116,8 +116,22 @@ Molemmat kääntyvät helposti 'ei tarvitse/ei voi', mutta はずがない koske
 
 #flashcards/grammar/n3/vertailu
 
-普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
-普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar) ::: 普通形に違いない (varmasti on niin) (similar)
-普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar) ::: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) (similar)
-普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar) ::: 普通形わけではない (ei tarkoita etta aina) (similar)
-普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) (similar/compare) ::: 普通形わけがない (ei mitenkaan voi olla) (similar/compare)
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) **知らないはずがありません** (similar/compare) vs. varma odotus
+??
+普通形はずです (varma odotus) 書類は速達で出しましたから、あした**着くはずです** (similar/compare) vs. mahdottomuus ja toteutumaton odotus
+
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) **知らないはずがありません** (similar) vs. varmasti on niin
+??
+普通形に違いない (varmasti on niin) 今日もきっと遅れてくる**に違いない** (similar) vs. mahdottomuus ja toteutumaton odotus
+
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) **知らないはずがありません** (similar) vs. kiistetty ja toteutumaton aikomus
+??
+Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (similar) vs. mahdottomuus ja toteutumaton odotus
+
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) **知らないはずがありません** (similar) vs. ei tarkoita etta aina
+??
+普通形わけではない (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar) vs. mahdottomuus ja toteutumaton odotus
+
+普通形はずがない／はずはない／はずだった (mahdottomuus ja toteutumaton odotus) **知らないはずがありません** (similar/compare) vs. ei mitenkaan voi olla
+??
+普通形わけがない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (similar/compare) vs. mahdottomuus ja toteutumaton odotus

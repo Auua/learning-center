@@ -62,5 +62,10 @@ Mitä でございます lisää 次第です:hen?
 
 #flashcards/grammar/n1/vertailu
 
-普通形（た形）＋次第だ・次第でございます (nain ollen, siksi) (similar) ::: 普通形んです (selittävä sävy) (similar)
-普通形（た形）＋次第だ・次第でございます (nain ollen, siksi) (compare) ::: V次第 (heti kun) (compare)
+普通形（た形）＋次第だ・次第でございます (nain ollen, siksi) ご連絡を差し上げた**次第です** (similar) vs. selittävä sävy
+??
+普通形んです (selittävä sävy) 時間が**ないんです** (similar) vs. nain ollen, siksi
+
+普通形（た形）＋次第だ・次第でございます (nain ollen, siksi) ご連絡を差し上げた**次第です** (compare) vs. heti kun
+??
+V次第 (heti kun) 結果がわかり**次第**、お知らせします (compare) vs. nain ollen, siksi

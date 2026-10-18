@@ -70,6 +70,14 @@ Ulkonäkö ja todellisuus eroavat: näyttää nuorelta, vaikka ei ehkä ole.
 
 #flashcards/grammar/n4/vertailu
 
-Nに／な-adjに／い-adjく＋見える (nayttaa joltakin) (similar) ::: ～ように見える (nayttaa silta etta) (similar)
-Nに／な-adjに／い-adjく＋見える (nayttaa joltakin) (compare) ::: V・adjそうです (ulkonaon perusteella) (compare)
-Nに／な-adjに／い-adjく＋見える (nayttaa joltakin) (compare) ::: 普通形ようです (havaintoon perustuva paattely) (compare)
+Nに／な-adjに／い-adjく＋見える (nayttaa joltakin) 彼は年より若**く見えます** (similar) vs. nayttaa silta etta
+??
+～ように見える (nayttaa silta etta) 彼は怒っている**ように見える** (similar) vs. nayttaa joltakin
+
+Nに／な-adjに／い-adjく＋見える (nayttaa joltakin) 彼は年より若**く見えます** (compare) vs. ulkonaon perusteella
+??
+V・adjそうです (ulkonaon perusteella) 今にも雨が**降りそうです** (compare) vs. "näyttää joltakin" ulkonäkö
+
+Nに／な-adjに／い-adjく＋見える (nayttaa joltakin) 彼は年より若**く見えます** (compare) vs. havaintoon perustuva paattely
+??
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (compare) vs. nayttaa joltakin

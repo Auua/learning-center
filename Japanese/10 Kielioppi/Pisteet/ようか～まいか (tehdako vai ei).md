@@ -69,6 +69,14 @@ Millaiset verbit seuraavat tätä rakennetta?
 
 #flashcards/grammar/n2/vertailu
 
-V(よう-muoto)か＋V辞書形まいか (tehdako vai ei) (similar/compare) ::: Vまい (ei aio, tuskin) (similar/compare)
-V(よう-muoto)か＋V辞書形まいか (tehdako vai ei) (similar/compare) ::: 〜かどうか (jompikumpi, epavarmuus) (similar/compare)
-V(よう-muoto)か＋V辞書形まいか (tehdako vai ei) (similar/compare) ::: Vようと～まいと (tekipa tai ei) (similar/compare)
+V(よう-muoto)か＋V辞書形まいか (tehdako vai ei) 行こう**か**行く**まいか**迷っている (similar/compare) vs. ei aio, tuskin
+??
+Vまい (ei aio, tuskin) もう二度と行く**まい**と思った (similar/compare) vs. tehdako vai ei
+
+V(よう-muoto)か＋V辞書形まいか (tehdako vai ei) 行こう**か**行く**まいか**迷っている (similar/compare) vs. jompikumpi, epavarmuus
+??
+〜かどうか (jompikumpi, epavarmuus) 台風9号は東京へ**来るかどうか**、まだわかりません (similar/compare) vs. tehdako vai ei
+
+V(よう-muoto)か＋V辞書形まいか (tehdako vai ei) 行こう**か**行く**まいか**迷っている (similar/compare) vs. tekipa tai ei
+??
+Vようと～まいと (tekipa tai ei) 行こう**と**行く**まいと**、あなたの自由だ (similar/compare) vs. tehdako vai ei

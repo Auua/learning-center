@@ -68,5 +68,10 @@ Puhekielinen.
 
 #flashcards/grammar/n1/vertailu
 
-V(ます-vartalo)＋まくる (tehda yhtenaan) (similar) ::: Vます-vartalo＋込む (sisaan, perusteellisesti) (similar)
-V(ます-vartalo)＋まくる (tehda yhtenaan) (compare) ::: ～てばかりいる・～ばかり～ている (liiallinen keskittyminen) (compare)
+V(ます-vartalo)＋まくる (tehda yhtenaan) 休みの日は、ゲームをし**まくった** (similar) vs. sisaan, perusteellisesti
+??
+Vます-vartalo＋込む (sisaan, perusteellisesti) プールに飛び**込む** (similar) vs. tehda yhtenaan
+
+V(ます-vartalo)＋まくる (tehda yhtenaan) 休みの日は、ゲームをし**まくった** (compare) vs. liiallinen keskittyminen
+??
+～てばかりいる・～ばかり～ている (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (compare) vs. tehda yhtenaan

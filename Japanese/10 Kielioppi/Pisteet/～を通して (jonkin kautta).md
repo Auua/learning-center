@@ -62,5 +62,10 @@ Mitä ～を通して tarkoittaa ajallisessa merkityksessä?
 
 #flashcards/grammar/n2/vertailu
 
-N＋を通して (jonkin kautta) (similar) ::: ～によって (syy, muodollinen) (similar)
-N＋を通して (jonkin kautta) (similar/compare) ::: ～を経て (kautta, jalkeen) (similar/compare)
+N＋を通して (jonkin kautta) 茶道**を通して**、行儀作法だけでなく、和の心を学んだ (similar) vs. syy, muodollinen
+??
+～によって (syy, muodollinen) 台風**によって**多くの家が壊れた (similar) vs. jonkin kautta
+
+N＋を通して (jonkin kautta) 茶道**を通して**、行儀作法だけでなく、和の心を学んだ (similar/compare) vs. kautta, jalkeen
+??
+～を経て (kautta, jalkeen) 香港**を経て**、東京に着いた (similar/compare) vs. jonkin kautta

@@ -68,4 +68,6 @@ Järjestä muodollisuuden mukaan: または, もしくは, か
 
 #flashcards/grammar/n1/vertailu
 
-N1もしくはN2 (tai, virallinen) (similar/compare) ::: AあるいはB (tai, muodollinen) (similar/compare)
+N1もしくはN2 (tai, virallinen) 本人**もしくは**代理人が来てください (similar/compare) vs. tai, muodollinen
+??
+AあるいはB (tai, muodollinen) 電話**あるいは**メールで連絡してください (similar/compare) vs. tai, virallinen

@@ -81,4 +81,6 @@ Miksi ×わたしは日本へ行ってほしいです on virhe, kun haluan itse 
 
 #flashcards/grammar/n3/vertailu
 
-Vて-formほしい・Vないでほしい (toive toiselle) (compare) ::: Vますように (toive, kunpa) (compare)
+Vて-formほしい・Vないでほしい (toive toiselle) 祖母には**いつまでも元気で長生きしてほしい**です (compare) vs. toive, kunpa
+??
+Vますように (toive, kunpa) 試験に合格できます**ように** (compare) vs. toive toiselle

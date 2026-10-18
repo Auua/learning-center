@@ -72,7 +72,18 @@ Miten 今日中に luetaan ja mitä se tarkoittaa?
 
 #flashcards/grammar/n3/vertailu
 
-N＋中（ちゅう／じゅう） (aikana, koko) (compare) ::: ～あいだ・～あいだに (kesto vs. hetki) (compare)
-N＋中（ちゅう／じゅう） (aikana, koko) (compare) ::: ～最中に (keskella, parhaillaan) (compare)
-N＋中（ちゅう／じゅう） (aikana, koko) (compare) ::: Nぐるみ (koko, yhdessa) (compare)
-N＋中（ちゅう／じゅう） (aikana, koko) (compare) ::: ～中を (keskella, -sta huolimatta) (compare)
+N＋中（ちゅう／じゅう） (aikana, koko) ただいま会議**中**です (compare) vs. kesto vs. hetki
+??
+～あいだ・～あいだに (kesto vs. hetki) 子どもが**眠っているあいだ**、わたしはビデオを見ていた (compare) vs. aikana, koko
+
+N＋中（ちゅう／じゅう） (aikana, koko) ただいま会議**中**です (compare) vs. keskella, parhaillaan
+??
+～最中に (keskella, parhaillaan) 食事をしている**最中に**、電話が鳴った (compare) vs. aikana, koko
+
+N＋中（ちゅう／じゅう） (aikana, koko) ただいま会議**中**です (compare) vs. koko, yhdessa
+??
+Nぐるみ (koko, yhdessa) 家族**ぐるみ**で付き合う (compare) vs. aikana, koko
+
+N＋中（ちゅう／じゅう） (aikana, koko) ただいま会議**中**です (compare) vs. keskella, -sta huolimatta
+??
+～中を (keskella, -sta huolimatta) 雨**の中を**歩いて帰った (compare) vs. aikana, koko

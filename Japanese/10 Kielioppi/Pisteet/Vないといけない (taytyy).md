@@ -71,6 +71,14 @@ Sama merkitys; ないといけない on puhekielisempi ja henkilökohtaisempi, �
 
 #flashcards/grammar/n5/vertailu
 
-V(ない-muoto)＋といけない (taytyy) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)
-V(ない-muoto)＋といけない (taytyy) (similar) ::: ～なくてはならない・～なくてはいけない (pakko, toinen muoto) (similar)
-V(ない-muoto)＋といけない (taytyy) (similar/compare) ::: Vないと (taytyy, lyhennetty) (similar/compare)
+V(ない-muoto)＋といけない (taytyy) もう帰ら**ないといけない** (similar/compare) vs. velvollisuus
+??
+Vなければ なりません (velvollisuus) 薬を飲ま**なければなりません** (similar/compare) vs. taytyy
+
+V(ない-muoto)＋といけない (taytyy) もう帰ら**ないといけない** (similar) vs. pakko, toinen muoto
+??
+～なくてはならない・～なくてはいけない (pakko, toinen muoto) 本は2週間以内に**返さなくてはいけない** (similar) vs. taytyy
+
+V(ない-muoto)＋といけない (taytyy) もう帰ら**ないといけない** (similar/compare) vs. lyhennetty "täytyy"
+??
+Vないと (taytyy, lyhennetty) もう行か**ないと** (similar/compare) vs. täysi muoto "täytyy"

@@ -68,4 +68,6 @@ Lähes sama; やれ korostaa jatkuvaa sarjaa.
 
 #flashcards/grammar/n1/vertailu
 
-やれ N1 だ、やれ N2 だ (milloin mitakin) (similar/compare) ::: ～だの～だの (ja sita ja tata, valittaen) (similar/compare)
+やれ N1 だ、やれ N2 だ (milloin mitakin) **やれ**暑い、**やれ**寒いと文句を言う (similar/compare) vs. ja sita ja tata, valittaen
+??
+～だの～だの (ja sita ja tata, valittaen) 野菜は嫌い**だの**、魚は臭い**だの**、文句ばかりだ (similar/compare) vs. milloin mitakin

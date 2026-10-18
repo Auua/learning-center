@@ -76,6 +76,14 @@ Ei: 2年勉強しました (ei ×2年に).
 
 #flashcards/grammar/n5/vertailu
 
-どのくらい／どのぐらい (kuinka kauan, kuinka paljon) (similar/compare) ::: いくつ (kuinka monta) (similar/compare)
-どのくらい／どのぐらい (kuinka kauan, kuinka paljon) (similar) ::: Maara に Maara (toistuvuus) (similar)
-どのくらい／どのぐらい (kuinka kauan, kuinka paljon) (similar) ::: Lukusanat ja luokittelijat (similar)
+どのくらい／どのぐらい (kuinka kauan, kuinka paljon) 日本語を**どのくらい**勉強しましたか (similar/compare) vs. kuinka monta
+??
+いくつ (kuinka monta) みかんを**いくつ**買いましたか (similar/compare) vs. kuinka kauan, kuinka paljon
+
+どのくらい／どのぐらい (kuinka kauan, kuinka paljon) 日本語を**どのくらい**勉強しましたか (similar) vs. toistuvuus
+??
+Maara に Maara (toistuvuus) 1か月**に**2回映画を見ます (similar) vs. kuinka kauan, kuinka paljon
+
+どのくらい／どのぐらい (kuinka kauan, kuinka paljon) 日本語を**どのくらい**勉強しましたか (similar) vs. lukusanat
+??
+Lukusanat ja luokittelijat りんごを4つ買いました (similar) vs. kuinka kauan, kuinka paljon

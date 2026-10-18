@@ -69,5 +69,10 @@ Mikä on て当然だ:n puhekielinen vastine?
 
 #flashcards/grammar/n2/vertailu
 
-V(て)／Adjくて＋当然だ／当たり前だ (luonnollisesti, kuuluukin) (similar/compare) ::: ～も当然だ (on aivan luonnollista) (similar/compare)
-V(て)／Adjくて＋当然だ／当たり前だ (luonnollisesti, kuuluukin) (similar) ::: Vてしかるべきだ (kuuluisi, olisi asianmukaista) (similar)
+V(て)／Adjくて＋当然だ／当たり前だ (luonnollisesti, kuuluukin) あんなに頑張ったのだから、合格し**て当然だ** (similar/compare) vs. on aivan luonnollista
+??
+～も当然だ (on aivan luonnollista) あんなに練習したのだから、勝つ**のも当然だ** (similar/compare) vs. luonnollisesti, kuuluukin
+
+V(て)／Adjくて＋当然だ／当たり前だ (luonnollisesti, kuuluukin) あんなに頑張ったのだから、合格し**て当然だ** (similar) vs. kuuluisi, olisi asianmukaista
+??
+Vてしかるべきだ (kuuluisi, olisi asianmukaista) 彼は謝っ**てしかるべきだ** (similar) vs. luonnollisesti, kuuluukin

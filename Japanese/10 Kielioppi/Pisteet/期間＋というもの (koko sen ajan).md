@@ -68,4 +68,6 @@ Jakson pituutta.
 
 #flashcards/grammar/n1/vertailu
 
-期間＋というもの (koko sen ajan) (similar/compare) ::: Vてからというもの (siita lahtien kun) (similar/compare)
+期間＋というもの (koko sen ajan) この1週間**というもの**、ほとんど寝ていない (similar/compare) vs. siita lahtien kun
+??
+Vてからというもの (siita lahtien kun) 子どもが生まれ**てからというもの**、早く帰るようになった (similar/compare) vs. koko sen ajan

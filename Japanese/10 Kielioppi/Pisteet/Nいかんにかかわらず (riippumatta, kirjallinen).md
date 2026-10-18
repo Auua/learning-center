@@ -68,5 +68,10 @@ Sama; いかん tekee siitä virallisemman.
 
 #flashcards/grammar/n1/vertailu
 
-N（の）＋いかんにかかわらず／いかんによらず／いかんを問わず (riippumatta, kirjallinen) (similar/compare) ::: ～にかかわらず (riippumatta) (similar/compare)
-N（の）＋いかんにかかわらず／いかんによらず／いかんを問わず (riippumatta, kirjallinen) (similar) ::: ～を問わず (riippumatta, muodollinen) (similar)
+N（の）＋いかんにかかわらず／いかんによらず／いかんを問わず (riippumatta, kirjallinen) 理由の**いかんにかかわらず**、返金できません (similar/compare) vs. "riippumatta" perusmuoto
+??
+～にかかわらず (riippumatta) 天候**にかかわらず**、試合は行います (similar/compare) vs. kirjallinen "riippumatta"
+
+N（の）＋いかんにかかわらず／いかんによらず／いかんを問わず (riippumatta, kirjallinen) 理由の**いかんにかかわらず**、返金できません (similar) vs. riippumatta, muodollinen
+??
+～を問わず (riippumatta, muodollinen) 年齢**を問わず**、どなたでも参加できます (similar) vs. riippumatta, kirjallinen

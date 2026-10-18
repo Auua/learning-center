@@ -78,7 +78,18 @@ Molemmat ovat pohdiskelevia; かな on arkinen ja puhuttu, のだろうか on mu
 
 #flashcards/grammar/n3/vertailu
 
-普通形かな (itselle esitetty pohdinta) (similar/compare) ::: 普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar/compare)
-普通形かな (itselle esitetty pohdinta) (similar/compare) ::: Sかしら (pohdinta, feminiininen) (similar/compare)
-普通形かな (itselle esitetty pohdinta) (compare) ::: Sなあ (tunteen huudahdus) (compare)
-普通形かな (itselle esitetty pohdinta) (similar) ::: ～のやら (mahtaakohan, en tieda) (similar)
+普通形かな (itselle esitetty pohdinta) お父さんの誕生日のプレゼントは何が**いいかな** (similar/compare) vs. kirjallinen pohdiskeleva kysymys
+??
+普通形のだろうか (kirjallinen pohdiskeleva kysymys) 地球の未来はどうなる**のだろうか** (similar/compare) vs. itselle esitetty pohdinta
+
+普通形かな (itselle esitetty pohdinta) お父さんの誕生日のプレゼントは何が**いいかな** (similar/compare) vs. pohdinta, feminiininen
+??
+Sかしら (pohdinta, feminiininen) 明日は晴れる**かしら** (similar/compare) vs. itselle esitetty pohdinta
+
+普通形かな (itselle esitetty pohdinta) お父さんの誕生日のプレゼントは何が**いいかな** (compare) vs. tunteen huudahdus
+??
+Sなあ (tunteen huudahdus) きれいだ**なあ** (compare) vs. itselle esitetty pohdinta
+
+普通形かな (itselle esitetty pohdinta) お父さんの誕生日のプレゼントは何が**いいかな** (similar) vs. mahtaakohan, en tieda
+??
+～のやら (mahtaakohan, en tieda) 彼は今どこにいる**のやら** (similar) vs. itselle esitetty pohdinta

@@ -69,5 +69,10 @@ Lähes sama; さておき korostaa siirtymistä olennaiseen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋はさておき／はさておいて (jatetaan sikseen) (similar/compare) ::: ～はともかく (jatetaan sikseen) (similar/compare)
-N＋はさておき／はさておいて (jatetaan sikseen) (similar) ::: ～は別として (lukuun ottamatta) (similar)
+N＋はさておき／はさておいて (jatetaan sikseen) 冗談**はさておき**、本題に入ろう (similar/compare) vs. "jätetään sikseen" yleisempi
+??
+～はともかく (jatetaan sikseen) あのレストランは値段**はともかく**、味はいい (similar/compare) vs. kirjallinen "jätetään sikseen"
+
+N＋はさておき／はさておいて (jatetaan sikseen) 冗談**はさておき**、本題に入ろう (similar) vs. lukuun ottamatta
+??
+～は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (similar) vs. kirjallinen "jätetään sikseen"

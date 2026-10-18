@@ -70,4 +70,6 @@ Sama; ゆえに erittäin kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（N／な-adj である）＋（が）ゆえ（に） (siksi, koska, kirjallinen) (similar/compare) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (similar/compare)
+普通形（N／な-adj である）＋（が）ゆえ（に） (siksi, koska, kirjallinen) 若さ**ゆえに**、失敗も多い (similar/compare) vs. syy, ei tarkoitus
+??
+～ため［に］・ためだ (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (similar/compare) vs. siksi, koska, kirjallinen

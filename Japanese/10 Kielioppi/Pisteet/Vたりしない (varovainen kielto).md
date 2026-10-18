@@ -72,5 +72,10 @@ Peruskaava vaatii kaksi たり-ilmausta esimerkkiluettelona; Vたりしない k�
 
 #flashcards/grammar/n3/vertailu
 
-V(た形)＋り（＋し）ない (varovainen kielto) (similar/compare) ::: Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) (similar/compare)
-V(た形)＋り（＋し）ない (varovainen kielto) (similar) ::: Vやしない (ei suinkaan, ei ikina) (similar)
+V(た形)＋り（＋し）ない (varovainen kielto) ぼくの内なる声は読み違え**たりしない** (similar/compare) vs. esimerkkitekoja, ei järjestyksessä
+??
+Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) 日曜日はテニスをし**たり**、映画を見**たり**します (similar/compare) vs. varovainen kielto
+
+V(た形)＋り（＋し）ない (varovainen kielto) ぼくの内なる声は読み違え**たりしない** (similar) vs. ei suinkaan, ei ikina
+??
+Vやしない (ei suinkaan, ei ikina) そんなこと、誰も信じ**やしない** (similar) vs. varovainen kielto

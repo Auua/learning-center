@@ -72,6 +72,14 @@ Olla vähällä kuolla (tila oli juuri alkamassa).
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋かける／かけの／かけだ (keskeneraista) (similar/compare) ::: Vようとする (yrittaa, olla tekemaisillaan) (similar/compare)
-V(ます-vartalo)＋かける／かけの／かけだ (keskeneraista) (similar/compare) ::: Vそびれる (jaada tekematta, menettaa tilaisuus) (similar/compare)
-V(ます-vartalo)＋かける／かけの／かけだ (keskeneraista) (compare) ::: Vきる (tehda loppuun, kokonaan) (compare)
+V(ます-vartalo)＋かける／かけの／かけだ (keskeneraista) 手紙を書き**かけて**、やめた (similar/compare) vs. yrittaa, olla tekemaisillaan
+??
+Vようとする (yrittaa, olla tekemaisillaan) 今朝**出かけようとしたとき**、電話がかかってきた (similar/compare) vs. keskeneraista
+
+V(ます-vartalo)＋かける／かけの／かけだ (keskeneraista) 手紙を書き**かけて**、やめた (similar/compare) vs. jaada tekematta, menettaa tilaisuus
+??
+Vそびれる (jaada tekematta, menettaa tilaisuus) 言い**そびれた** (similar/compare) vs. keskeneraista
+
+V(ます-vartalo)＋かける／かけの／かけだ (keskeneraista) 手紙を書き**かけて**、やめた (compare) vs. tehda loppuun, kokonaan
+??
+Vきる (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (compare) vs. keskeneraista

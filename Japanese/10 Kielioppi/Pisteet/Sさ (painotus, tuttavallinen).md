@@ -70,5 +70,10 @@ Kyllä se siitä (järjestyy).
 
 #flashcards/grammar/n1/vertailu
 
-普通形（だ pois）＋さ (painotus, tuttavallinen) (similar/compare) ::: Sよ (uuden tiedon korostus) (similar/compare)
-普通形（だ pois）＋さ (painotus, tuttavallinen) (similar) ::: Sぞ (voimakas tuttavallinen loppupartikkeli) (similar)
+普通形（だ pois）＋さ (painotus, tuttavallinen) 大丈夫**さ** (similar/compare) vs. uuden tiedon korostus
+??
+Sよ (uuden tiedon korostus) 350円です**よ** (similar/compare) vs. painotus, tuttavallinen
+
+普通形（だ pois）＋さ (painotus, tuttavallinen) 大丈夫**さ** (similar) vs. voimakas tuttavallinen loppupartikkeli
+??
+Sぞ (voimakas tuttavallinen loppupartikkeli) すごい音楽がある**ぞ** (similar) vs. painotus, tuttavallinen

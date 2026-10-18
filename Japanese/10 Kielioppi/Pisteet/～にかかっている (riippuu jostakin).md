@@ -68,5 +68,10 @@ Ratkaisevaa tekijää ja vastuuta.
 
 #flashcards/grammar/n1/vertailu
 
-普通形か／N＋にかかっている (riippuu jostakin) (similar) ::: ～次第で (riippuen jostakin) (similar)
-普通形か／N＋にかかっている (riippuu jostakin) (compare) ::: ～にかかっては (kun on kyse jostakusta) (compare)
+普通形か／N＋にかかっている (riippuu jostakin) 成功するかどうかは、あなたの努力**にかかっている** (similar) vs. riippuen jostakin
+??
+～次第で (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar) vs. "riippuu jostakin" lauseen lopussa
+
+普通形か／N＋にかかっている (riippuu jostakin) 成功するかどうかは、あなたの努力**にかかっている** (compare) vs. kun on kyse jostakusta
+??
+～にかかっては (kun on kyse jostakusta) 彼**にかかっては**、どんな難問**も**簡単に解ける (compare) vs. riippuu jostakin

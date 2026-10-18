@@ -69,7 +69,18 @@ Ei — jälkiosa on tosiasia, ei tahto tai kehotus.
 
 #flashcards/grammar/n3/vertailu
 
-S1。ところが、S2。 (mutta yllattaen) (similar) ::: S1が、S2 (mutta) (similar)
-S1。ところが、S2。 (mutta yllattaen) (similar) ::: ～かと思いきや (luuli etta, mutta toisin) (similar)
-S1。ところが、S2。 (mutta yllattaen) (compare) ::: ～たら、～た (odottamaton löytö) (compare)
-S1。ところが、S2。 (mutta yllattaen) (compare) ::: だけど (mutta, lauseen alussa) (compare)
+S1。ところが、S2。 (mutta yllattaen) **ところが**、とても難しかった (similar) vs. "mutta" tavallinen
+??
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar) vs. "mutta yllättäen"
+
+S1。ところが、S2。 (mutta yllattaen) **ところが**、とても難しかった (similar) vs. luuli etta, mutta toisin
+??
+～かと思いきや (luuli etta, mutta toisin) 簡単**かと思いきや**、とても難しかった (similar) vs. mutta yllattaen
+
+S1。ところが、S2。 (mutta yllattaen) **ところが**、とても難しかった (compare) vs. odottamaton löytö
+??
+～たら、～た (odottamaton löytö) 窓ガラスを**ふいたら**、部屋が明るく**なった** (compare) vs. mutta yllattaen
+
+S1。ところが、S2。 (mutta yllattaen) **ところが**、とても難しかった (compare) vs. mutta, lauseen alussa
+??
+だけど (mutta, lauseen alussa) **だけど**、だめだった (compare) vs. mutta yllattaen

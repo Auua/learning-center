@@ -88,13 +88,42 @@ Miten 数量だけ／Nだけ eroaa Nしか Vませんistä?
 
 #flashcards/grammar/n5/vertailu
 
-数量だけ／Nだけ (Maara だけ・Nだけ) (similar/compare) ::: ～だけだ・ただ～だけでいい (vain se riittää) (similar/compare)
-数量だけ／Nだけ (Maara だけ・Nだけ) (compare) ::: Nしか Vません (vain, pelkastaan) (compare)
-数量だけ／Nだけ (Maara だけ・Nだけ) (compare) ::: ～きり (vain, sen jalkeen ei) (compare)
-数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: Nずつ (kukin, kerrallaan) (similar)
-数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: Vだけで (pelkastaan tekemalla) (similar)
-数量だけ／Nだけ (Maara だけ・Nだけ) (compare) ::: Maara＋も (jopa, perati) (compare)
-数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: ～くらいのものだ (vain, ainoastaan) (similar)
-数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: ～というところだ (suunnilleen, korkeintaan) (similar)
-数量だけ／Nだけ (Maara だけ・Nだけ) (similar) ::: ～だけは (ainakin, sen minka voi) (similar)
-数量だけ／Nだけ (Maara だけ・Nだけ) (similar/compare) ::: ～のみ (vain, kirjallinen) (similar/compare)
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (similar/compare) vs. vain se riittää
+??
+～だけだ・ただ～だけでいい (vain se riittää) このボタンを**押すだけでいい**んです (similar/compare) vs. "vain" rajaus
+
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (compare) vs. vain, pelkastaan
+??
+Nしか Vません (vain, pelkastaan) わたしの会社は1週間**しか**休めません (compare) vs. rajaava "vain" myönteisessä
+
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (compare) vs. vain, sen jalkeen ei
+??
+～きり (vain, sen jalkeen ei) 二人**きり**で話したい (compare) vs. "vain" rajaus
+
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (similar) vs. kukin, kerrallaan
+??
+Nずつ (kukin, kerrallaan) 一人に2枚**ずつ**配ります (similar) vs. "vain" rajaus
+
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (similar) vs. pelkastaan tekemalla
+??
+Vだけで (pelkastaan tekemalla) 考える**だけで**、楽しくなる (similar) vs. "vain" rajaus
+
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (compare) vs. jopa, perati
+??
+Maara＋も (jopa, perati) 2時間**も**待ちました (compare) vs. määrä + "vain" (rajaus)
+
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (similar) vs. vain, ainoastaan
+??
+～くらいのものだ (vain, ainoastaan) こんなことができるのは、彼**くらいのものだ** (similar) vs. "vain" rajaus
+
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (similar) vs. suunnilleen, korkeintaan
+??
+～というところだ (suunnilleen, korkeintaan) 参加者は30人**というところだ** (similar) vs. "vain" rajaus
+
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (similar) vs. ainakin, sen minka voi
+??
+～だけは (ainakin, sen minka voi) やれる**だけ**やってみます (similar) vs. "vain" rajaus
+
+数量だけ／Nだけ (Maara だけ・Nだけ) 外国人の社員が1人**だけ**います (similar/compare) vs. vain, kirjallinen
+??
+～のみ (vain, kirjallinen) 会員**のみ**入場できます (similar/compare) vs. arkinen "vain"

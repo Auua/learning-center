@@ -71,6 +71,14 @@ Sama rakenne; でしょうか kohtelias (kuulijalle), だろうか pohdinta itse
 
 #flashcards/grammar/n3/vertailu
 
-普通形（な-adj/N な）＋のでしょうか (kohtelias kysymys) (similar/compare) ::: 普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar/compare)
-普通形（な-adj/N な）＋のでしょうか (kohtelias kysymys) (compare) ::: 普通形んです (selittävä sävy) (compare)
-普通形（な-adj/N な）＋のでしょうか (kohtelias kysymys) (similar/compare) ::: Nはどうでしょうか (kohtelias tiedustelu) (similar/compare)
+普通形（な-adj/N な）＋のでしょうか (kohtelias kysymys) この電車は東京へ行く**のでしょうか** (similar/compare) vs. kirjallinen pohdiskeleva kysymys
+??
+普通形のだろうか (kirjallinen pohdiskeleva kysymys) 地球の未来はどうなる**のだろうか** (similar/compare) vs. kohtelias kysymys
+
+普通形（な-adj/N な）＋のでしょうか (kohtelias kysymys) この電車は東京へ行く**のでしょうか** (compare) vs. selittävä sävy
+??
+普通形んです (selittävä sävy) 時間が**ないんです** (compare) vs. kohtelias kysymys
+
+普通形（な-adj/N な）＋のでしょうか (kohtelias kysymys) この電車は東京へ行く**のでしょうか** (similar/compare) vs. kohtelias tiedustelu
+??
+Nはどうでしょうか (kohtelias tiedustelu) ハンスは学校で**どうでしょうか** (similar/compare) vs. kohtelias kysymys

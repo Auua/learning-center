@@ -84,11 +84,34 @@ Vertaava ようだ tarkoittaa 'on kuin' eikä ole päätelmä: あの病院は�
 
 #flashcards/grammar/n4/vertailu
 
-普通形ようです (havaintoon perustuva paattely) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
-普通形ようです (havaintoon perustuva paattely) (similar) ::: Vように (jotta, niin etta) (similar)
-普通形ようです (havaintoon perustuva paattely) (similar/compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar/compare)
-普通形ようです (havaintoon perustuva paattely) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)
-普通形ようです (havaintoon perustuva paattely) (compare) ::: 普通形とみえる (nayttaa silta etta) (compare)
-普通形ようです (havaintoon perustuva paattely) (compare) ::: 普通形ような気がする (tuntuu silta etta) (compare)
-普通形ようです (havaintoon perustuva paattely) (compare) ::: ～ように見える (nayttaa silta etta) (compare)
-普通形ようです (havaintoon perustuva paattely) (compare) ::: Nに見える・Adjく見える (nayttaa joltakin) (compare)
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (similar/compare) vs. kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. havaintoon perustuva paattely
+
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (similar) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar) vs. havaintoon perustuva paattely
+
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (similar/compare) vs. vertailu, esimerkki
+??
+～のようだ・～のような・～のように (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. havaintoon perustuva paattely
+
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (similar/compare) vs. kuulopuhe, paattely
+??
+普通形らしい (kuulopuhe, paattely) 高橋さんに聞いたんだけど、**婚約したらしい**よ (similar/compare) vs. havaintoon perustuva paattely
+
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (compare) vs. kirjallinen "näyttää siltä"
+??
+普通形とみえる (nayttaa silta etta) 彼は疲れている**とみえる** (compare) vs. havaintoon perustuva paattely
+
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (compare) vs. tuntuu silta etta
+??
+普通形ような気がする (tuntuu silta etta) 誰かに見られている**ような気がする** (compare) vs. havaintoon perustuva paattely
+
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (compare) vs. "näyttää siltä että" (ulkonäkö)
+??
+～ように見える (nayttaa silta etta) 彼は怒っている**ように見える** (compare) vs. havaintoon perustuva paattely
+
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (compare) vs. nayttaa joltakin
+??
+Nに見える・Adjく見える (nayttaa joltakin) 彼は年より若**く見えます** (compare) vs. havaintoon perustuva paattely

@@ -68,4 +68,6 @@ Jyrkkä moite tai ärtymys.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋にもほどがある (liian, kaikella on rajansa) (similar/compare) ::: Vすぎます (liikaa) (similar/compare)
+N／普通形＋にもほどがある (liian, kaikella on rajansa) 冗談**にもほどがある** (similar/compare) vs. liikaa
+??
+Vすぎます (liikaa) ゆうべお酒を**飲みすぎました** (similar/compare) vs. liian, kaikella on rajansa

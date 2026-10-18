@@ -78,10 +78,30 @@ Miten ばかり + ている eroaa だけ-rajauksesta?
 
 #flashcards/grammar/n3/vertailu
 
-V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: Maara だけ・Nだけ (similar)
-V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: Nしか Vません (vain, pelkastaan) (similar)
-V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: ～ばかりで (vain, ei muuta) (similar)
-V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (compare) ::: Nだらけ (taynna, kauttaaltaan) (compare)
-V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (compare) ::: Vまくる (tehda yhtenaan) (compare)
-V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (compare) ::: ～にかまけて (liian kiireinen jhk) (compare)
-V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) (similar) ::: Vてばかりはいられない (ei voi jatkuvasti vain) (similar)
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (similar) vs. "vain" rajaus
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (similar) vs. liiallinen keskittyminen
+
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (similar) vs. vain, pelkastaan
+??
+Nしか Vません (vain, pelkastaan) わたしの会社は1週間**しか**休めません (similar) vs. liiallinen keskittyminen
+
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (similar) vs. vain, ei muuta
+??
+～ばかりで (vain, ei muuta) 彼は文句を言う**ばかりで**、何もしない (similar) vs. liiallinen keskittyminen
+
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (compare) vs. taynna, kauttaaltaan
+??
+Nだらけ (taynna, kauttaaltaan) 部屋がごみ**だらけ**だ (compare) vs. liiallinen keskittyminen
+
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (compare) vs. tehda yhtenaan
+??
+Vまくる (tehda yhtenaan) 休みの日は、ゲームをし**まくった** (compare) vs. liiallinen keskittyminen
+
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (compare) vs. liian kiireinen jhk
+??
+～にかまけて (liian kiireinen jhk) 仕事**にかまけて**、家族を顧みなかった (compare) vs. liiallinen keskittyminen
+
+V(て-form)ばかりいる・Nばかり V(ている) (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (similar) vs. ei voi jatkuvasti vain
+??
+Vてばかりはいられない (ei voi jatkuvasti vain) いつまでも泣い**てばかりはいられない** (similar) vs. liiallinen keskittyminen

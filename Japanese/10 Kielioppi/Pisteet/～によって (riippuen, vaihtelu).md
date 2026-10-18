@@ -78,7 +78,18 @@ Katso verbiä: 違う／変わる → vaihtelun peruste; passiivi-verbi → teki
 
 #flashcards/grammar/n3/vertailu
 
-Nによって（変わる・違う） (riippuen, vaihtelu) (similar/compare) ::: 〜によって (tekijan merkitseminen, luova teko) (similar/compare)
-Nによって（変わる・違う） (riippuen, vaihtelu) (similar/compare) ::: ～によって (syy, muodollinen) (similar/compare)
-Nによって（変わる・違う） (riippuen, vaihtelu) (compare) ::: ～によると・によれば (jonkin mukaan) (compare)
-Nによって（変わる・違う） (riippuen, vaihtelu) (similar) ::: ～次第で (riippuen jostakin) (similar)
+Nによって（変わる・違う） (riippuen, vaihtelu) 文化や習慣は**国によって**違います (similar/compare) vs. tekijan merkitseminen, luova teko
+??
+〜によって (tekijan merkitseminen, luova teko) 飛行機は**ライト兄弟によって**発明されました (similar/compare) vs. riippuen, vaihtelu
+
+Nによって（変わる・違う） (riippuen, vaihtelu) 文化や習慣は**国によって**違います (similar/compare) vs. syy, muodollinen
+??
+～によって (syy, muodollinen) 台風**によって**多くの家が壊れた (similar/compare) vs. riippuen, vaihtelu
+
+Nによって（変わる・違う） (riippuen, vaihtelu) 文化や習慣は**国によって**違います (compare) vs. jonkin mukaan
+??
+～によると・によれば (jonkin mukaan) 天気予報**によると**、明日は雨だ**そうだ** (compare) vs. riippuen, vaihtelu
+
+Nによって（変わる・違う） (riippuen, vaihtelu) 文化や習慣は**国によって**違います (similar) vs. riippuen jostakin
+??
+～次第で (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar) vs. riippuen, vaihtelu

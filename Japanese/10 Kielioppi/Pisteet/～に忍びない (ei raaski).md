@@ -68,4 +68,6 @@ Sääli tai myötätunto.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋に忍びない (ei raaski) (compare) ::: ～に耐える・に耐えない (kestaa, ei kesta) (compare)
+V辞書形＋に忍びない (ei raaski) 捨てる**に忍びない** (compare) vs. kestaa, ei kesta
+??
+～に耐える・に耐えない (kestaa, ei kesta) 鑑賞**に耐える**作品 (compare) vs. ei raaski

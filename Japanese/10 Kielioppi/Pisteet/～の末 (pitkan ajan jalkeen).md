@@ -64,5 +64,10 @@ Mitkä adverbit liittyvät usein ～の末-lauseeseen?
 
 #flashcards/grammar/n2/vertailu
 
-N（期間）＋の末（に）・Vた末（に） (pitkan ajan jalkeen) (similar) ::: Vてはじめて (vasta silloin kun) (similar)
-N（期間）＋の末（に）・Vた末（に） (pitkan ajan jalkeen) (similar/compare) ::: Vたあげく (lopulta, pitkan vaivan jalkeen) (similar/compare)
+N（期間）＋の末（に）・Vた末（に） (pitkan ajan jalkeen) 5年間の受験勉強**の末**、ようやく国家試験に合格できた (similar) vs. vasta silloin kun
+??
+Vてはじめて (vasta silloin kun) 子どもを持って**はじめて**親のありがたさがわかった (similar) vs. pitkan ajan jalkeen
+
+N（期間）＋の末（に）・Vた末（に） (pitkan ajan jalkeen) 5年間の受験勉強**の末**、ようやく国家試験に合格できた (similar/compare) vs. lopulta, pitkan vaivan jalkeen
+??
+Vたあげく (lopulta, pitkan vaivan jalkeen) さんざん迷った**あげく**、何も買わなかった (similar/compare) vs. pitkan ajan jalkeen

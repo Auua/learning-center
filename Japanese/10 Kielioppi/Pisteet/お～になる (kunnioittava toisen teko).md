@@ -84,9 +84,26 @@ Passiivin kunnioitusmuoto (帰られる) on monimerkityksinen (voi olla myös pa
 
 #flashcards/grammar/n3/vertailu
 
-お～になる (kunnioittava toisen teko) (similar) ::: Passiivi (ら)れる (similar)
-お～になる (kunnioittava toisen teko) (similar) ::: お～する (nöyrä oma teko) (similar)
-お～になる (kunnioittava toisen teko) (compare) ::: Keigo — kartta (compare)
-お～になる (kunnioittava toisen teko) (similar) ::: お～ください (kunnioittava pyynto) (similar)
-お～になる (kunnioittava toisen teko) (similar/compare) ::: V(ら)れる (kunnioittava muoto, 尊敬語) (similar/compare)
-お～になる (kunnioittava toisen teko) (similar/compare) ::: 特別尊敬語 (erityiset kunnioittavat verbit) (similar/compare)
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar) vs. ら
+??
+Passiivi (ら)れる 子どものとき、よく母にしかられました (similar) vs. kunnioittava toisen teko
+
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar) vs. nöyrä oma teko
+??
+お～する (nöyrä oma teko) 荷物を**お持ちします** (similar) vs. kunnioittava toisen teko
+
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (compare) vs. keigon kokonaiskartta
+??
+Keigo — kartta 先生が**いらっしゃいました** (compare) vs. kunnioittava toisen teko
+
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar) vs. kunnioittava pyynto
+??
+お～ください (kunnioittava pyynto) 少々**お待ちください** (similar) vs. kunnioittava toisen teko
+
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar/compare) vs. kunnioittava muoto, 尊敬語
+??
+V(ら)れる (kunnioittava muoto, 尊敬語) 部長は何時に**来られ**ますか (similar/compare) vs. kunnioittava toisen teko
+
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar/compare) vs. erityiset kunnioittavat verbit
+??
+特別尊敬語 (erityiset kunnioittavat verbit) 社長は会議室に**いらっしゃいます** (similar/compare) vs. kunnioittava toisen teko

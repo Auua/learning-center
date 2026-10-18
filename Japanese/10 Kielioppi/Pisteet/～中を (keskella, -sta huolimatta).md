@@ -71,4 +71,6 @@ Huonosta säästä (liukkaista teistä) huolimatta — kohtelias kiitos.
 
 #flashcards/grammar/n2/vertailu
 
-N の／V普通形＋中を／中では (keskella, -sta huolimatta) (compare) ::: N中（ちゅう・じゅう） (aikana, koko) (compare)
+N の／V普通形＋中を／中では (keskella, -sta huolimatta) 雨**の中を**歩いて帰った (compare) vs. aikana, koko
+??
+N中（ちゅう・じゅう） (aikana, koko) ただいま会議**中**です (compare) vs. keskella, -sta huolimatta

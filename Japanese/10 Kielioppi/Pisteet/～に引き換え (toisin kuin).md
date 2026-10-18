@@ -69,5 +69,10 @@ Usein subjektiivinen, arvottava.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形の＋に引き換え (toisin kuin) (similar/compare) ::: ～に対して (kohtaan, vastakohtana) (similar/compare)
-N／普通形の＋に引き換え (toisin kuin) (similar/compare) ::: ～とは打って変わって (taysin toisin kuin) (similar/compare)
+N／普通形の＋に引き換え (toisin kuin) 兄**に引き換え**、弟は怠け者だ (similar/compare) vs. kohtaan, vastakohtana
+??
+～に対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (similar/compare) vs. toisin kuin
+
+N／普通形の＋に引き換え (toisin kuin) 兄**に引き換え**、弟は怠け者だ (similar/compare) vs. "täysin toisin kuin" (muutos)
+??
+～とは打って変わって (taysin toisin kuin) 昨日**とは打って変わって**、今日は晴れた (similar/compare) vs. "toisin kuin" vertailu

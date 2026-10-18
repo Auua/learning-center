@@ -76,5 +76,6 @@ vastaus
 
 #flashcards/grammar/<% j.toLowerCase() %>/vertailu
 
-<% tp.file.title %> (similar) ::: toisen rakenteen otsikko (similar)
-<% tp.file.title %> (compare) ::: toisen rakenteen otsikko (compare)
+<% tp.file.title %> esimerkki**lause** (similar) vs. toisen rakenteen kuvaus
+??
+toisen rakenteen otsikko sen esimerkki**lause** (similar) vs. tämän rakenteen kuvaus

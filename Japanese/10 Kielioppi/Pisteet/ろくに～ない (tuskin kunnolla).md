@@ -70,4 +70,6 @@ Ei tapahdu mitään hyvää.
 
 #flashcards/grammar/n2/vertailu
 
-ろくに＋kielto／ろくな＋N＋ない (tuskin kunnolla) (similar/compare) ::: 少しも～ない (ei vahaakaan) (similar/compare)
+ろくに＋kielto／ろくな＋N＋ない (tuskin kunnolla) 昨夜は**ろくに**寝てい**ない** (similar/compare) vs. ei vahaakaan
+??
+少しも～ない (ei vahaakaan) 彼の言うことは**少しも**理解でき**ない** (similar/compare) vs. tuskin kunnolla

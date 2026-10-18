@@ -70,5 +70,10 @@ Mitkä sanat tyypillisesti edeltävät 以上に:ä?
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋以上に (enemman kuin) (similar/compare) ::: ～にも増して (enemman kuin) (similar/compare)
-N／普通形＋以上に (enemman kuin) (compare) ::: Vた以上（は） (koska kerran on niin) (compare)
+N／普通形＋以上に (enemman kuin) 予想**以上に**難しかった (similar/compare) vs. "enemmän kuin" kirjallinen
+??
+～にも増して (enemman kuin) 去年**にも増して**、今年は暑い (similar/compare) vs. "enemmän kuin"
+
+N／普通形＋以上に (enemman kuin) 予想**以上に**難しかった (compare) vs. koska kerran on niin
+??
+Vた以上（は） (koska kerran on niin) 相手が「うん」と言わぬ**以上**、あきらめるしかありません (compare) vs. enemman kuin

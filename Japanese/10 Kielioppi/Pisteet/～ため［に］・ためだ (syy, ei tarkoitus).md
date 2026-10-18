@@ -79,10 +79,30 @@ Tulevaisuuteen suuntautuva tahdonalainen tavoite → tarkoitus-ために (店を
 
 #flashcards/grammar/n3/vertailu
 
-普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar/compare) ::: Vために・Nのために (tarkoitusta varten) (similar/compare)
-普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar) ::: S1から、S2 (syy) (similar)
-普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar) ::: 〜ので (pehmea syy) (similar)
-普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar/compare) ::: そのために (siksi, sita varten) (similar/compare)
-普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (compare) ::: ～こともあって (osittain siksi etta) (compare)
-普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (similar/compare) ::: ～ゆえに (siksi, koska, kirjallinen) (similar/compare)
-普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) (compare) ::: ～につき (johdosta, kohden) (compare)
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (similar/compare) vs. tarkoitusta varten
+??
+Vために・Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar/compare) vs. syy, ei tarkoitus
+
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (similar) vs. tavallinen syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar) vs. muodollinen syy (ei tarkoitus)
+
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (similar) vs. pehmea syy
+??
+〜ので (pehmea syy) 体の調子が**悪いので**、病院へ行きます (similar) vs. syy, ei tarkoitus
+
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (similar/compare) vs. siksi, sita varten
+??
+そのために (siksi, sita varten) **そのため**、電車が止まった (similar/compare) vs. syy, ei tarkoitus
+
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (compare) vs. osittain siksi etta
+??
+～こともあって (osittain siksi etta) 雨だった**こともあって**、客が少なかった (compare) vs. syy, ei tarkoitus
+
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (similar/compare) vs. siksi, koska, kirjallinen
+??
+～ゆえに (siksi, koska, kirjallinen) 若さ**ゆえに**、失敗も多い (similar/compare) vs. syy, ei tarkoitus
+
+普通形ため（に）／ためだ（原因・理由） (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (compare) vs. johdosta, kohden
+??
+～につき (johdosta, kohden) 工事中**につき**、通行止め (compare) vs. syy, ei tarkoitus

@@ -109,7 +109,18 @@ Miten でしょ eroaa partikkelista ね?
 
 #flashcards/grammar/n3/vertailu
 
-…でしょ／…だろ (puhekielinen varmistus) (similar/compare) ::: 普通形でしょう？ (varmistus) (similar/compare)
-…でしょ／…だろ (puhekielinen varmistus) (similar) ::: Sね (vahvistus, eikö niin) (similar)
-…でしょ／…だろ (puhekielinen varmistus) (similar) ::: ～ちゃう・～とく・～てる (puhekieliset supistumat) (similar)
-…でしょ／…だろ (puhekielinen varmistus) (similar) ::: 普通形よね (varmistava loppupartikkeli) (similar)
+…でしょ／…だろ (puhekielinen varmistus) サッカーの練習に行くん**でしょ** (similar/compare) vs. kohtelias varmistus
+??
+普通形でしょう？ (varmistus) あしたパーティーに行く**でしょう**？ (similar/compare) vs. puhekielinen varmistus
+
+…でしょ／…だろ (puhekielinen varmistus) サッカーの練習に行くん**でしょ** (similar) vs. vahvistus, eikö niin
+??
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar) vs. puhekielinen varmistus
+
+…でしょ／…だろ (puhekielinen varmistus) サッカーの練習に行くん**でしょ** (similar) vs. puhekieliset supistumat
+??
+～ちゃう・～とく・～てる (puhekieliset supistumat) 財布を忘れ**ちゃった** (similar) vs. puhekielinen varmistus
+
+…でしょ／…だろ (puhekielinen varmistus) サッカーの練習に行くん**でしょ** (similar) vs. varmistava loppupartikkeli
+??
+普通形よね (varmistava loppupartikkeli) 「辛党」は「甘党」の反対だと思ってた**のよね** (similar) vs. puhekielinen varmistus

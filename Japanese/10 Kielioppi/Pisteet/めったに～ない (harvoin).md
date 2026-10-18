@@ -71,6 +71,14 @@ Ei — se vaatii kiellon.
 
 #flashcards/grammar/n3/vertailu
 
-めったに＋kielto (harvoin) (similar/compare) ::: 別に～ない (ei erityisesti) (similar/compare)
-めったに＋kielto (harvoin) (similar) ::: よく・だいたい・たくさん・少し・あまり・全然 (asteadverbit) (similar)
-めったに＋kielto (harvoin) (compare) ::: Vことがある・こともある (satunnainen poikkeus) (compare)
+めったに＋kielto (harvoin) 父は**めったに**怒ら**ない** (similar/compare) vs. ei erityisesti
+??
+別に～ない (ei erityisesti) **別に**困って**いない** (similar/compare) vs. harvoin
+
+めったに＋kielto (harvoin) 父は**めったに**怒ら**ない** (similar) vs. asteadverbit
+??
+よく・だいたい・たくさん・少し・あまり・全然 (asteadverbit) 英語がよくわかります (similar) vs. harvoin
+
+めったに＋kielto (harvoin) 父は**めったに**怒ら**ない** (compare) vs. satunnainen poikkeus
+??
+Vことがある・こともある (satunnainen poikkeus) たまに電車が**遅れることがある** (compare) vs. harvoin

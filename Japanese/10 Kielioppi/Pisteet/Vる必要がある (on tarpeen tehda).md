@@ -71,7 +71,18 @@ Miksi kiellossa käytetään 必要は eikä 必要が?
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形)＋必要がある／必要はない (on tarpeen tehda) (similar/compare) ::: Nが必要だ (tarvitaan jotain) (similar/compare)
-V(辞書形)＋必要がある／必要はない (on tarpeen tehda) (compare) ::: Vなければ なりません (velvollisuus) (compare)
-V(辞書形)＋必要がある／必要はない (on tarpeen tehda) (compare) ::: Vなくても いいです (ei tarvitse) (compare)
-V(辞書形)＋必要がある／必要はない (on tarpeen tehda) (compare) ::: Vことはない (ei tarvitse) (compare)
+V(辞書形)＋必要がある／必要はない (on tarpeen tehda) 予約する**必要があります** (similar/compare) vs. tarvitaan jotain
+??
+Nが必要だ (tarvitaan jotain) ビザ**が必要です** (similar/compare) vs. on tarpeen tehda
+
+V(辞書形)＋必要がある／必要はない (on tarpeen tehda) 予約する**必要があります** (compare) vs. velvollisuus
+??
+Vなければ なりません (velvollisuus) 薬を飲ま**なければなりません** (compare) vs. on tarpeen tehda
+
+V(辞書形)＋必要がある／必要はない (on tarpeen tehda) 予約する**必要があります** (compare) vs. perus "ei tarvitse"
+??
+Vなくても いいです (ei tarvitse) あした来**なくてもいいです** (compare) vs. on tarpeen tehda
+
+V(辞書形)＋必要がある／必要はない (on tarpeen tehda) 予約する**必要があります** (compare) vs. "ei tarvitse" (rauhoittelu)
+??
+Vことはない (ei tarvitse) 心配する**ことはない**よ (compare) vs. on tarpeen tehda

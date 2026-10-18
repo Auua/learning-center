@@ -68,5 +68,10 @@ Viimeinen ja äärimmäisin tapaus.
 
 #flashcards/grammar/n1/vertailu
 
-N＋に至っては (mita tulee, jopa) (similar) ::: ～に至る (paatya, johtaa) (similar)
-N＋に至っては (mita tulee, jopa) (similar/compare) ::: ～に至っても (vielakin, vaikka) (similar/compare)
+N＋に至っては (mita tulee, jopa) 皆遅刻したが、田中さん**に至っては**来なかった (similar) vs. paatya, johtaa
+??
+～に至る (paatya, johtaa) 長い議論の末、結論**に至った** (similar) vs. mita tulee, jopa
+
+N＋に至っては (mita tulee, jopa) 皆遅刻したが、田中さん**に至っては**来なかった (similar/compare) vs. vielakin, vaikka
+??
+～に至っても (vielakin, vaikka) この事態**に至っても**、政府は何もしない (similar/compare) vs. mita tulee, jopa

@@ -69,6 +69,14 @@ Jälkimmäinen korostaa vielä pienempää väliä ja on kirjallisempi.
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Vた＋か＋Vない＋かのうちに (heti kun, tuskin) (similar/compare) ::: Vたかと思ったら (heti kun, samassa) (similar/compare)
-V辞書形／Vた＋か＋Vない＋かのうちに (heti kun, tuskin) (similar) ::: Vが早いか (heti kun, samassa) (similar)
-V辞書形／Vた＋か＋Vない＋かのうちに (heti kun, tuskin) (compare) ::: Vたとたん（に） (juuri sina hetkena) (compare)
+V辞書形／Vた＋か＋Vない＋かのうちに (heti kun, tuskin) 座った**か**座ら**ないかのうちに**、電車が動き出した (similar/compare) vs. "heti kun… samassa"
+??
+Vたかと思ったら (heti kun, samassa) 雨が降り出した**かと思ったら**、すぐやんだ (similar/compare) vs. heti kun, tuskin
+
+V辞書形／Vた＋か＋Vない＋かのうちに (heti kun, tuskin) 座った**か**座ら**ないかのうちに**、電車が動き出した (similar) vs. "heti kun" samassa
+??
+Vが早いか (heti kun, samassa) ベルが鳴る**が早いか**、生徒は飛び出した (similar) vs. heti kun, tuskin
+
+V辞書形／Vた＋か＋Vない＋かのうちに (heti kun, tuskin) 座った**か**座ら**ないかのうちに**、電車が動き出した (compare) vs. juuri sina hetkena
+??
+Vたとたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (compare) vs. heti kun, tuskin

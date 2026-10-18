@@ -74,6 +74,14 @@ Miten ざる eroaa ず:sta (Vざる～ vs. ～ず)?
 
 #flashcards/grammar/n1/vertailu
 
-V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) (similar) ::: Vざるを得ない (on pakko) (similar)
-V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)
-V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) (similar) ::: Vぬ (kirjallinen kielto) (similar)
+V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) 世の中には型に**あらざる**ものはない (similar) vs. on pakko
+??
+Vざるを得ない (on pakko) 今日は大事な会議があるが、休ま**ざるを得ない** (similar) vs. kirjallinen kielteinen liite
+
+V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) 世の中には型に**あらざる**ものはない (similar/compare) vs. kirjallinen "tekemättä" sivulause
+??
+～ず［に］・～ず (kirjallinen kielto) 地震のときは、**あわてずに**落ち着いて行動してください (similar/compare) vs. kirjallinen kielteinen liite
+
+V(ない-vartalo)＋ざる＋N (kirjallinen kielteinen liite) 世の中には型に**あらざる**ものはない (similar) vs. kirjallinen kielto lauseen lopussa/määreenä
+??
+Vぬ (kirjallinen kielto) 知ら**ぬ**間に時間が過ぎた (similar) vs. kirjallinen kielteinen liite

@@ -87,5 +87,10 @@ Kumpi: ましょうか vai てあげましょうか, kun tarjoudut auttamaan tun
 
 #flashcards/grammar/n5/vertailu
 
-Vてあげます／Vてもらいます／Vてくれます (teon antaminen) (similar) ::: N (人) に あげます・もらいます (similar)
-Vてあげます／Vてもらいます／Vてくれます (teon antaminen) (similar) ::: くれます (joku antaa minulle) (similar)
+Vてあげます／Vてもらいます／Vてくれます (teon antaminen) 木村さんに本を貸し**てあげました** (similar) vs. 人
+??
+N (人) に あげます・もらいます 銀行**から**お金を借りました (similar) vs. teon antaminen
+
+Vてあげます／Vてもらいます／Vてくれます (teon antaminen) 木村さんに本を貸し**てあげました** (similar) vs. joku antaa minulle
+??
+くれます (joku antaa minulle) 佐藤さんはわたしにクリスマスカードをくれました (similar) vs. teon antaminen

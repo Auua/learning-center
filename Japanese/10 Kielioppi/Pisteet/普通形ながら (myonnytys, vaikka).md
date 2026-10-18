@@ -90,5 +90,10 @@ Muoto on sama; ratkaisee onko tekojen välillä looginen ristiriita (myönnytys,
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)／な-adj／N＋ながら（myönnytys） (myonnytys, vaikka) (similar/compare) ::: V(-ます)ながら (samalla kun) (similar/compare)
-V(ます-vartalo)／な-adj／N＋ながら（myönnytys） (myonnytys, vaikka) (similar/compare) ::: ～ながらも (vaikka, kirjallinen myonnytys) (similar/compare)
+V(ます-vartalo)／な-adj／N＋ながら（myönnytys） (myonnytys, vaikka) 先生は、事件のことを知ってい**ながら**、何も言わなかった (similar/compare) vs. samalla kun
+??
+V(-ます)ながら (samalla kun) 音楽を**聞きながら**食事します (similar/compare) vs. myonnytys, vaikka
+
+V(ます-vartalo)／な-adj／N＋ながら（myönnytys） (myonnytys, vaikka) 先生は、事件のことを知ってい**ながら**、何も言わなかった (similar/compare) vs. kirjallinen "vaikka"
+??
+～ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (similar/compare) vs. myönnytys "vaikka"

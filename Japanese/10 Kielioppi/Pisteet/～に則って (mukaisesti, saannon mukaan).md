@@ -68,7 +68,18 @@ Normeihin: 法律, 規則, 伝統.
 
 #flashcards/grammar/n1/vertailu
 
-N＋に則って／に則り／に則った (mukaisesti, saannon mukaan) (similar) ::: ～に沿って (mukaisesti, pitkin) (similar)
-N＋に則って／に則り／に則った (mukaisesti, saannon mukaan) (similar/compare) ::: ～に基づいて (perustuen johonkin) (similar/compare)
-N＋に則って／に則り／に則った (mukaisesti, saannon mukaan) (similar/compare) ::: ～に即して (mukaisesti, perustuen) (similar/compare)
-N＋に則って／に則り／に則った (mukaisesti, saannon mukaan) (similar/compare) ::: ～に照らして (valossa, verrattuna) (similar/compare)
+N＋に則って／に則り／に則った (mukaisesti, saannon mukaan) 法律**に則って**処分する (similar) vs. mukaisesti, pitkin
+??
+～に沿って (mukaisesti, pitkin) 川**に沿って**歩く (similar) vs. mukaisesti, saannon mukaan
+
+N＋に則って／に則り／に則った (mukaisesti, saannon mukaan) 法律**に則って**処分する (similar/compare) vs. perustuen johonkin
+??
+～に基づいて (perustuen johonkin) この映画は、事実**に基づいて**作られている (similar/compare) vs. mukaisesti, saannon mukaan
+
+N＋に則って／に則り／に則った (mukaisesti, saannon mukaan) 法律**に則って**処分する (similar/compare) vs. mukaisesti, perustuen
+??
+～に即して (mukaisesti, perustuen) 実情**に即して**、計画を変更する (similar/compare) vs. mukaisesti, saannon mukaan
+
+N＋に則って／に則り／に則った (mukaisesti, saannon mukaan) 法律**に則って**処分する (similar/compare) vs. valossa, verrattuna
+??
+～に照らして (valossa, verrattuna) 法律**に照らして**、判断する (similar/compare) vs. mukaisesti, saannon mukaan

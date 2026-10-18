@@ -69,4 +69,6 @@ Tavallisen ihmisen tasoa, tavanomainen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋並み（の／に） (tasoinen, kuin) (similar/compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar/compare)
+N＋並み（の／に） (tasoinen, kuin) プロ**並みの**腕前 (similar/compare) vs. vertailu, esimerkki
+??
+～のようだ・～のような・～のように (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. tasoinen, kuin

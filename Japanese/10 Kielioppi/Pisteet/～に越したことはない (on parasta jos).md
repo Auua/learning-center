@@ -69,5 +69,10 @@ Varaus: が、〜.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N／な-adj）＋に越したことはない (on parasta jos) (compare) ::: ～に限る (paras on, ei voita mikaan) (compare)
-普通形（N／な-adj）＋に越したことはない (on parasta jos) (compare) ::: Vたほうがいいです (kannattaisi tehda) (compare)
+普通形（N／な-adj）＋に越したことはない (on parasta jos) 早く行く**に越したことはない** (compare) vs. paras on, ei voita mikaan
+??
+～に限る (paras on, ei voita mikaan) 夏はビール**に限る** (compare) vs. on parasta jos
+
+普通形（N／な-adj）＋に越したことはない (on parasta jos) 早く行く**に越したことはない** (compare) vs. kannattaisi tehda
+??
+Vたほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. on parasta jos

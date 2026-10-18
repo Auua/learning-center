@@ -69,5 +69,10 @@ Mikä on やしない:n neutraali vastine?
 
 #flashcards/grammar/n1/vertailu
 
-V(ます-vartalo)＋やしない／はしない (ei suinkaan, ei ikina) (similar/compare) ::: Vっこない (ei ikina, mahdotonta) (similar/compare)
-V(ます-vartalo)＋やしない／はしない (ei suinkaan, ei ikina) (similar) ::: Vたりしない (varovainen kielto) (similar)
+V(ます-vartalo)＋やしない／はしない (ei suinkaan, ei ikina) そんなこと、誰も信じ**やしない** (similar/compare) vs. ei ikina, mahdotonta
+??
+Vっこない (ei ikina, mahdotonta) あんなに強いチームに勝てっこないよ (similar/compare) vs. ei suinkaan, ei ikina
+
+V(ます-vartalo)＋やしない／はしない (ei suinkaan, ei ikina) そんなこと、誰も信じ**やしない** (similar) vs. varovainen kielto
+??
+Vたりしない (varovainen kielto) ぼくの内なる声は読み違え**たりしない** (similar) vs. ei suinkaan, ei ikina

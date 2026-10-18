@@ -93,5 +93,10 @@ Miten し-luettelointi eroaa S1が、S2 (mutta) -rakenteesta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形し、普通形し (perustelujen luettelointi) (similar) ::: S1が、S2 (mutta) (similar)
-普通形し、普通形し (perustelujen luettelointi) (similar/compare) ::: ～も～ば～も (seka etta) (similar/compare)
+普通形し、普通形し (perustelujen luettelointi) 地下鉄は速い**し**、安い**し**、地下鉄で行きましょう (similar) vs. mutta
+??
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar) vs. perustelujen luettelointi
+
+普通形し、普通形し (perustelujen luettelointi) 地下鉄は速い**し**、安い**し**、地下鉄で行きましょう (similar/compare) vs. seka etta
+??
+～も～ば～も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar/compare) vs. perustelujen luettelointi

@@ -69,5 +69,10 @@ Ei — tässä se kuvaa toistuvaa kuviota.
 
 #flashcards/grammar/n2/vertailu
 
-V(て)＋は（では） (aina kun, toistuvasti) (similar) ::: Vては～Vては (vuorotellen toistuvasti) (similar)
-V(て)＋は（では） (aina kun, toistuvasti) (compare) ::: Vたびに (aina kun) (compare)
+V(て)＋は（では） (aina kun, toistuvasti) 彼は会っ**ては**、お金を借りていく (similar) vs. vuorotellen toistuvasti
+??
+Vては～Vては (vuorotellen toistuvasti) 書い**ては**消し、書い**ては**消した (similar) vs. aina kun, toistuvasti
+
+V(て)＋は（では） (aina kun, toistuvasti) 彼は会っ**ては**、お金を借りていく (compare) vs. "aina kun" yleinen
+??
+Vたびに (aina kun) 隣のうちのお嬢さんは会う**たびに**きれいになっている (compare) vs. toistuva "aina kun" (ikävä)

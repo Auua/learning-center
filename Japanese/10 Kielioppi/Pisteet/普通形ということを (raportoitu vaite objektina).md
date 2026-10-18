@@ -78,5 +78,10 @@ Miten ということを eroaa muodosta 普通形という～ (raportoitu sisäl
 
 #flashcards/grammar/n3/vertailu
 
-普通形ということを／こと (raportoitu vaite objektina) (similar/compare) ::: ～ことは・が・を (yleistys ja arvottaminen) (similar/compare)
-普通形ということを／こと (raportoitu vaite objektina) (similar) ::: 普通形という～ (raportoitu sisalto) (similar)
+普通形ということを／こと (raportoitu vaite objektina) この島に空港が造られる**ことについて**どう思いますか (similar/compare) vs. yleistys ja arvottaminen
+??
+～ことは・が・を (yleistys ja arvottaminen) 若いときに留学する**ことは**いい経験になると思います (similar/compare) vs. raportoitu vaite objektina
+
+普通形ということを／こと (raportoitu vaite objektina) この島に空港が造られる**ことについて**どう思いますか (similar) vs. raportoitu sisalto
+??
+普通形という～ (raportoitu sisalto) ごみを分けて出す**という規則**はなかなか守られていません (similar) vs. raportoitu vaite objektina

@@ -63,8 +63,22 @@ Adnominaalisena määritteenä substantiivin edessä: N に基づいた N2.
 
 #flashcards/grammar/n2/vertailu
 
-N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (similar/compare) ::: ～に則って (mukaisesti, saannon mukaan) (similar/compare)
-N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (similar) ::: ～に照らして (valossa, verrattuna) (similar)
-N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (similar/compare) ::: ～を踏まえて (huomioon ottaen) (similar/compare)
-N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (compare) ::: ～に沿って (mukaisesti, pitkin) (compare)
-N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) (similar/compare) ::: ～をもとに (pohjalta, perusteella) (similar/compare)
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) この映画は、事実**に基づいて**作られている (similar/compare) vs. mukaisesti, saannon mukaan
+??
+～に則って (mukaisesti, saannon mukaan) 法律**に則って**処分する (similar/compare) vs. perustuen johonkin
+
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) この映画は、事実**に基づいて**作られている (similar) vs. valossa, verrattuna
+??
+～に照らして (valossa, verrattuna) 法律**に照らして**、判断する (similar) vs. perustuen johonkin
+
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) この映画は、事実**に基づいて**作られている (similar/compare) vs. huomioon ottaen
+??
+～を踏まえて (huomioon ottaen) 前回の反省**を踏まえて**、計画を立てる (similar/compare) vs. perustuen johonkin
+
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) この映画は、事実**に基づいて**作られている (compare) vs. mukaisesti, pitkin
+??
+～に沿って (mukaisesti, pitkin) 川**に沿って**歩く (compare) vs. perustuen johonkin
+
+N＋に基づいて（＋V）・に基づいた＋N2 (perustuen johonkin) この映画は、事実**に基づいて**作られている (similar/compare) vs. pohjalta, perusteella
+??
+～をもとに (pohjalta, perusteella) 実話**をもとに**映画を作った (similar/compare) vs. perustuen johonkin

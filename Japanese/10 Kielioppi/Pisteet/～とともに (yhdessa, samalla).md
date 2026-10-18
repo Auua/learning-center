@@ -84,5 +84,10 @@ Miten とともに eroaa ながら-rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／N＋とともに (yhdessa, samalla) (similar/compare) ::: V(-ます)ながら (samalla kun) (similar/compare)
-V辞書形／N＋とともに (yhdessa, samalla) (similar) ::: ～に伴って (myota, samalla kun) (similar)
+V辞書形／N＋とともに (yhdessa, samalla) 経済の発展**とともに**、生活が変わった (similar/compare) vs. samalla kun
+??
+V(-ます)ながら (samalla kun) 音楽を**聞きながら**食事します (similar/compare) vs. yhdessa, samalla
+
+V辞書形／N＋とともに (yhdessa, samalla) 経済の発展**とともに**、生活が変わった (similar) vs. myota, samalla kun
+??
+～に伴って (myota, samalla kun) 人口の増加**に伴って**、住宅が不足した (similar) vs. yhdessa, samalla

@@ -72,4 +72,6 @@ Kumpi: だろう vai でしょう, kun puhun asiakkaalle?
 
 #flashcards/grammar/n3/vertailu
 
-普通形だろう・普通形だろうと思う (kirjallinen ennuste) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
+普通形だろう・普通形だろうと思う (kirjallinen ennuste) 同じ現象は今後も続く**だろうと思います** (similar/compare) vs. todennakoisyys
+??
+普通形でしょう (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. kirjallinen ennuste

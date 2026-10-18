@@ -85,5 +85,10 @@ Kumpi: ように言う vai suora lainaus 「〜しなさい」と言う, kun ker
 
 #flashcards/grammar/n3/vertailu
 
-V(辞書形/ない形)ように言う／注意する／伝える／頼む (epasuora kehotus) (similar/compare) ::: 普通形と言います (lainaus) (similar/compare)
-V(辞書形/ない形)ように言う／注意する／伝える／頼む (epasuora kehotus) (similar) ::: Vように (jotta, niin etta) (similar)
+V(辞書形/ない形)ように言う／注意する／伝える／頼む (epasuora kehotus) 先生にあしたまでにレポートを出す**ように言われました** (similar/compare) vs. lainaus
+??
+普通形と言います (lainaus) 寝るまえに「お休みなさい」**と言います** (similar/compare) vs. epasuora kehotus
+
+V(辞書形/ない形)ように言う／注意する／伝える／頼む (epasuora kehotus) 先生にあしたまでにレポートを出す**ように言われました** (similar) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar) vs. epasuora kehotus

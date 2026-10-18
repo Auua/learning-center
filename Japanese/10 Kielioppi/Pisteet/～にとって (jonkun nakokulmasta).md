@@ -73,7 +73,18 @@ Kumpi: にとって vai において, kun puhutaan jonkun subjektiivisesta näk�
 
 #flashcards/grammar/n3/vertailu
 
-N＋にとって (jonkun nakokulmasta) (similar/compare) ::: ～において (jossakin kontekstissa, muodollinen) (similar/compare)
-N＋にとって (jonkun nakokulmasta) (compare) ::: ～に対して (kohtaan, vastakohtana) (compare)
-N＋にとって (jonkun nakokulmasta) (compare) ::: ～から見ると (jonkin perusteella, nakokulmasta) (compare)
-N＋にとって (jonkun nakokulmasta) (similar/compare) ::: ～にしたら・にすれば (jonkun kannalta) (similar/compare)
+N＋にとって (jonkun nakokulmasta) 赤ちゃん**にとって**十分な睡眠は欠かせないものだ (similar/compare) vs. jossakin kontekstissa, muodollinen
+??
+～において (jossakin kontekstissa, muodollinen) 江戸時代**において**もっとも力を持っていたのは誰だろうか (similar/compare) vs. jonkun nakokulmasta
+
+N＋にとって (jonkun nakokulmasta) 赤ちゃん**にとって**十分な睡眠は欠かせないものだ (compare) vs. kohtaan, vastakohtana
+??
+～に対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (compare) vs. jonkun nakokulmasta
+
+N＋にとって (jonkun nakokulmasta) 赤ちゃん**にとって**十分な睡眠は欠かせないものだ (compare) vs. jonkin perusteella, nakokulmasta
+??
+～から見ると (jonkin perusteella, nakokulmasta) 子ども**から見ると**、大人は自由に見える (compare) vs. jonkun nakokulmasta
+
+N＋にとって (jonkun nakokulmasta) 赤ちゃん**にとって**十分な睡眠は欠かせないものだ (similar/compare) vs. jonkun kannalta
+??
+～にしたら・にすれば (jonkun kannalta) 親**にしたら**、子どもの将来は心配だ (similar/compare) vs. jonkun nakokulmasta

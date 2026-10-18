@@ -71,8 +71,22 @@ Puhujan omasta; muille tarvitaan らしい/ようだ.
 
 #flashcards/grammar/n3/vertailu
 
-V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (similar/compare) ::: Vずにはいられない (ei voi olla tekematta) (similar/compare)
-V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (similar) ::: ～て敵わない (sietamatonta) (similar)
-V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (similar) ::: ～てならない (hirvean, en voi olla tuntematta) (similar)
-V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (similar) ::: ～てたまらない (sietamattoman, valtavasti) (similar)
-V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) (compare) ::: Vてもしょうがない・ても仕方がない (turhaa, ei auta) (compare)
+V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) 暑く**てしょうがない** (similar/compare) vs. ei voi olla tekematta
+??
+Vずにはいられない (ei voi olla tekematta) 笑わ**ずにはいられない** (similar/compare) vs. sietamattoman
+
+V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) 暑く**てしょうがない** (similar) vs. sietamatonta
+??
+～て敵わない (sietamatonta) 暑く**てかなわない** (similar) vs. sietamattoman
+
+V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) 暑く**てしょうがない** (similar) vs. hirvean, en voi olla tuntematta
+??
+～てならない (hirvean, en voi olla tuntematta) 将来が心配で**ならない** (similar) vs. sietamattoman
+
+V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) 暑く**てしょうがない** (similar) vs. "sietämättömän, valtavasti"
+??
+～てたまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar) vs. "sietämättömän" arkisempi
+
+V(て)／Adjくて／な-adjで＋しょうがない／しかたがない (sietamattoman) 暑く**てしょうがない** (compare) vs. turhaa, ei auta
+??
+Vてもしょうがない・ても仕方がない (turhaa, ei auta) 今から急い**でもしょうがない** (compare) vs. sietamattoman

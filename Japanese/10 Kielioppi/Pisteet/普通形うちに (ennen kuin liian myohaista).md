@@ -74,5 +74,10 @@ Vないうちに (暗くならないうちに帰りましょう); myönteinen �
 
 #flashcards/grammar/n3/vertailu
 
-普通形（ている）＋うちに (ennen kuin liian myohaista) (similar) ::: ～ないうちに (ennen kuin) (similar)
-普通形（ている）＋うちに (ennen kuin liian myohaista) (similar/compare) ::: ～ないうちに (ennen kuin) (similar/compare)
+普通形（ている）＋うちに (ennen kuin liian myohaista) 毎日練習している**うちに**、速く泳げるようになった (similar) vs. "ennen kuin" kielteisellä
+??
+～ないうちに (ennen kuin) 暗くなら**ないうちに**、帰りましょう (similar) vs. "ennen kuin liian myöhäistä" myönteisellä
+
+普通形（ている）＋うちに (ennen kuin liian myohaista) 毎日練習している**うちに**、速く泳げるようになった (similar/compare) vs. "ennen kuin" kielteisellä
+??
+～ないうちに (ennen kuin) 暗くなら**ないうちに**、帰りましょう (similar/compare) vs. "ennen kuin liian myöhäistä" myönteisellä

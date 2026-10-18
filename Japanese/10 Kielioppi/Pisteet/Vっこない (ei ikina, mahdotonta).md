@@ -69,5 +69,10 @@ Sama merkitys; っこない on hyvin puhekielinen.
 
 #flashcards/grammar/n2/vertailu
 
-V(ます-vartalo)＋っこない (ei ikina, mahdotonta) (similar/compare) ::: 普通形わけがない (ei mitenkaan voi olla) (similar/compare)
-V(ます-vartalo)＋っこない (ei ikina, mahdotonta) (similar/compare) ::: Vやしない (ei suinkaan, ei ikina) (similar/compare)
+V(ます-vartalo)＋っこない (ei ikina, mahdotonta) あんなに強いチームに勝てっこないよ (similar/compare) vs. ei mitenkaan voi olla
+??
+普通形わけがない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (similar/compare) vs. ei ikina, mahdotonta
+
+V(ます-vartalo)＋っこない (ei ikina, mahdotonta) あんなに強いチームに勝てっこないよ (similar/compare) vs. ei suinkaan, ei ikina
+??
+Vやしない (ei suinkaan, ei ikina) そんなこと、誰も信じ**やしない** (similar/compare) vs. ei ikina, mahdotonta

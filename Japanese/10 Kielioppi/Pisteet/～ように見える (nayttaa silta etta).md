@@ -71,6 +71,14 @@ Ulkonäkö voi poiketa todellisuudesta.
 
 #flashcards/grammar/n3/vertailu
 
-普通形（N の／な-adj な）＋ように見える (nayttaa silta etta) (similar) ::: Nに見える・Adjく見える (nayttaa joltakin) (similar)
-普通形（N の／な-adj な）＋ように見える (nayttaa silta etta) (compare) ::: 普通形ようです (havaintoon perustuva paattely) (compare)
-普通形（N の／な-adj な）＋ように見える (nayttaa silta etta) (compare) ::: V・adjそうです (ulkonaon perusteella) (compare)
+普通形（N の／な-adj な）＋ように見える (nayttaa silta etta) 彼は怒っている**ように見える** (similar) vs. nayttaa joltakin
+??
+Nに見える・Adjく見える (nayttaa joltakin) 彼は年より若**く見えます** (similar) vs. nayttaa silta etta
+
+普通形（N の／な-adj な）＋ように見える (nayttaa silta etta) 彼は怒っている**ように見える** (compare) vs. havaintoon perustuva paattely
+??
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (compare) vs. "näyttää siltä että" (ulkonäkö)
+
+普通形（N の／な-adj な）＋ように見える (nayttaa silta etta) 彼は怒っている**ように見える** (compare) vs. ulkonaon perusteella
+??
+V・adjそうです (ulkonaon perusteella) 今にも雨が**降りそうです** (compare) vs. nayttaa silta etta

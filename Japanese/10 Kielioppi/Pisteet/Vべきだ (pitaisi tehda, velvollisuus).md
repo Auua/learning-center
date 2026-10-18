@@ -78,8 +78,22 @@ Miten Vべきだ eroaa muodosta Vなければなりません?
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)
-V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) (compare) ::: V辞書形・ないこと (ohje, saanto) (compare)
-V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) (similar) ::: Vべからず (ei saa, kyltti) (similar)
-V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) (similar/compare) ::: Vてしかるべきだ (kuuluisi, olisi asianmukaista) (similar/compare)
-V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) (compare) ::: Vことだ (kannattaa, neuvo) (compare)
+V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) 希望する人は全員保育所に入れるようにする**べきです** (similar/compare) vs. velvollisuus "täytyy"
+??
+Vなければ なりません (velvollisuus) 薬を飲ま**なければなりません** (similar/compare) vs. "pitäisi"
+
+V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) 希望する人は全員保育所に入れるようにする**べきです** (compare) vs. ohje, saanto
+??
+V辞書形・ないこと (ohje, saanto) 毎日8時までに出勤する**こと** (compare) vs. pitaisi tehda, velvollisuus
+
+V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) 希望する人は全員保育所に入れるようにする**べきです** (similar) vs. ei saa, kyltti
+??
+Vべからず (ei saa, kyltti) ここで泳ぐ**べからず** (similar) vs. pitaisi tehda, velvollisuus
+
+V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) 希望する人は全員保育所に入れるようにする**べきです** (similar/compare) vs. kuuluisi, olisi asianmukaista
+??
+Vてしかるべきだ (kuuluisi, olisi asianmukaista) 彼は謝っ**てしかるべきだ** (similar/compare) vs. pitaisi tehda, velvollisuus
+
+V辞書形＋べきだ・べきではない (pitaisi tehda, velvollisuus) 希望する人は全員保育所に入れるようにする**べきです** (compare) vs. kannattaa, neuvo
+??
+Vことだ (kannattaa, neuvo) 上手になりたければ、毎日練習する**ことだ** (compare) vs. pitaisi tehda, velvollisuus

@@ -80,6 +80,14 @@ Molemmat sopivat; 造る sopii erityisesti suuriin tai teollisiin tuotteisiin (l
 
 #flashcards/grammar/n4/vertailu
 
-N(raaka-aine)から作られます／造られます (raaka-aine) (similar) ::: N（材料）で (valmistusaine) (similar)
-N(raaka-aine)から作られます／造られます (raaka-aine) (similar/compare) ::: N（材料）で (valmistusaine) (similar/compare)
-N(raaka-aine)から作られます／造られます (raaka-aine) (similar) ::: NがV受身 (asiasubjektin passiivi) (similar)
+N(raaka-aine)から作られます／造られます (raaka-aine) ビールは**麦から**造られます (similar) vs. valmistusaine
+??
+N（材料）で (valmistusaine) この机は木**で**作りました (similar) vs. raaka-aine
+
+N(raaka-aine)から作られます／造られます (raaka-aine) ビールは**麦から**造られます (similar/compare) vs. valmistusaine
+??
+N（材料）で (valmistusaine) この机は木**で**作りました (similar/compare) vs. raaka-aine
+
+N(raaka-aine)から作られます／造られます (raaka-aine) ビールは**麦から**造られます (similar) vs. asiasubjektin passiivi
+??
+NがV受身 (asiasubjektin passiivi) フランスで古い日本の地図**が**発見されました (similar) vs. raaka-aine

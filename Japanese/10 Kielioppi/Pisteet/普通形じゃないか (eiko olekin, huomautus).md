@@ -72,6 +72,14 @@ Laskeva — se ei ole kysymys.
 
 #flashcards/grammar/n4/vertailu
 
-普通形＋じゃないか／ではないか (eiko olekin, huomautus) (similar) ::: Vようではないか (tehkäämme, juhlava kehotus) (similar)
-普通形＋じゃないか／ではないか (eiko olekin, huomautus) (compare) ::: 普通形んじゃない？ (pehmea arvaus) (compare)
-普通形＋じゃないか／ではないか (eiko olekin, huomautus) (compare) ::: 普通形のではないか (paattelevä oletus) (compare)
+普通形＋じゃないか／ではないか (eiko olekin, huomautus) なんだ、田中さん**じゃないか** (similar) vs. tehkäämme, juhlava kehotus
+??
+Vようではないか (tehkäämme, juhlava kehotus) みんなで力を合わせよう**ではないか** (similar) vs. eiko olekin, huomautus
+
+普通形＋じゃないか／ではないか (eiko olekin, huomautus) なんだ、田中さん**じゃないか** (compare) vs. pehmea arvaus
+??
+普通形んじゃない？ (pehmea arvaus) 携帯電話をどこかに**忘れたんじゃないですか** (compare) vs. eiko olekin, huomautus
+
+普通形＋じゃないか／ではないか (eiko olekin, huomautus) なんだ、田中さん**じゃないか** (compare) vs. paattelevä oletus
+??
+普通形のではないか (paattelevä oletus) 何かあった**のではないか** (compare) vs. eiko olekin, huomautus

@@ -63,6 +63,14 @@ Syyn korostamista: 'syy on nimenomaan ja ainoastaan tämä'.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋からに＋ほかならない (ei ole muuta kuin) (similar/compare) ::: ～でなくてなんだろう (jos ei tama, niin mika) (similar/compare)
-N／普通形＋からに＋ほかならない (ei ole muuta kuin) (compare) ::: ～でしかない (ei ole muuta kuin) (compare)
-N／普通形＋からに＋ほかならない (ei ole muuta kuin) (compare) ::: ～に過ぎない (vain, ei muuta kuin) (compare)
+N／普通形＋からに＋ほかならない (ei ole muuta kuin) 子どもの反抗は、大人になるための第一歩**にほかならない** (similar/compare) vs. jos ei tama, niin mika
+??
+～でなくてなんだろう (jos ei tama, niin mika) これが愛**でなくてなんだろう** (similar/compare) vs. ei ole muuta kuin
+
+N／普通形＋からに＋ほかならない (ei ole muuta kuin) 子どもの反抗は、大人になるための第一歩**にほかならない** (compare) vs. "ei ole muuta kuin"
+??
+～でしかない (ei ole muuta kuin) それは言い訳**でしかない** (compare) vs. "ei ole muuta kuin" (korostus)
+
+N／普通形＋からに＋ほかならない (ei ole muuta kuin) 子どもの反抗は、大人になるための第一歩**にほかならない** (compare) vs. vain, ei muuta kuin
+??
+～に過ぎない (vain, ei muuta kuin) それは噂**に過ぎない** (compare) vs. "ei ole muuta kuin" (korostus)

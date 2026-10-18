@@ -87,5 +87,10 @@ Tässä on kaksi partikkelia peräkkäin (は koko aiheelle, が osalle); Nが�
 
 #flashcards/grammar/n5/vertailu
 
-N1はN2がadjectiveです (aihe-ominaisuus) (similar) ::: Nが好きです・上手です (mieltymys, kyky, omistus) (similar)
-N1はN2がadjectiveです (aihe-ominaisuus) (similar) ::: Nが (subjektipartikkeli, uusi tieto) (similar)
+N1はN2がadjectiveです (aihe-ominaisuus) 大阪**は**食べ物**が**おいしいです (similar) vs. mieltymys, kyky, omistus
+??
+Nが好きです・上手です (mieltymys, kyky, omistus) イタリア料理**が**好きです (similar) vs. aihe-ominaisuus
+
+N1はN2がadjectiveです (aihe-ominaisuus) 大阪**は**食べ物**が**おいしいです (similar) vs. subjektipartikkeli, uusi tieto
+??
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (similar) vs. aihe-ominaisuus

@@ -68,5 +68,10 @@ Lähes sama; と見るや dramaattisempi.
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋と見るや（いなや） (nahtyaan heti) (similar/compare) ::: ～とみると (heti nahtyaan) (similar/compare)
-普通形＋と見るや（いなや） (nahtyaan heti) (similar) ::: や否や (heti kun, samalla hetkella) (similar)
+普通形＋と見るや（いなや） (nahtyaan heti) チャンスだ**と見るや**、彼は走り出した (similar/compare) vs. "heti nähtyään"
+??
+～とみると (heti nahtyaan) 勝てない**とみると**、彼はすぐ諦めた (similar/compare) vs. "nähtyään heti" kirjallinen
+
+普通形＋と見るや（いなや） (nahtyaan heti) チャンスだ**と見るや**、彼は走り出した (similar) vs. heti kun, samalla hetkella
+??
+や否や (heti kun, samalla hetkella) ドアが開く**や否や**、子どもたちが飛び出した (similar) vs. nahtyaan heti

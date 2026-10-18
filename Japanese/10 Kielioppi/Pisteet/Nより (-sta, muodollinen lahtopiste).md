@@ -70,4 +70,6 @@ Sama; より muodollinen.
 
 #flashcards/grammar/n2/vertailu
 
-N＋より（lähtökohta） (-sta, muodollinen lahtopiste) (similar/compare) ::: ～から～まで (mistä mihin, alku ja loppu) (similar/compare)
+N＋より（lähtökohta） (-sta, muodollinen lahtopiste) 会議は10時**より**始まります (similar/compare) vs. mistä mihin, alku ja loppu
+??
+～から～まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar/compare) vs. -sta, muodollinen lahtopiste

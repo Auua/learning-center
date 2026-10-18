@@ -85,5 +85,10 @@ Kumpi: 来る vai 来た, kun sanotaan まえに vs. あとで?
 
 #flashcards/grammar/n4/vertailu
 
-Vた形あとで／Nのあとで (sen jalkeen kun) (similar/compare) ::: Vまえに (ennen) (similar/compare)
-Vた形あとで／Nのあとで (sen jalkeen kun) (similar) ::: Vてから、V2 (jälkeen) (similar)
+Vた形あとで／Nのあとで (sen jalkeen kun) ごはんを**食べたあとで**、歯を磨きます (similar/compare) vs. ennen
+??
+Vまえに (ennen) 日本へ来る**まえに**、日本語を勉強しました (similar/compare) vs. sen jalkeen kun
+
+Vた形あとで／Nのあとで (sen jalkeen kun) ごはんを**食べたあとで**、歯を磨きます (similar) vs. jälkeen
+??
+Vてから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar) vs. sen jalkeen kun

@@ -80,7 +80,18 @@ Sama rakenne, mutta せいで: kielteinen seuraus, syyttävä sävy; おかげ�
 
 #flashcards/grammar/n3/vertailu
 
-普通形（な・の）＋せいで／せいだ (kielteinen syy) (similar/compare) ::: おかげで・おかげだ (myonteinen syy) (similar/compare)
-普通形（な・の）＋せいで／せいだ (kielteinen syy) (similar) ::: S1から、S2 (syy) (similar)
-普通形（な・の）＋せいで／せいだ (kielteinen syy) (compare) ::: ～ばかりに (juuri siksi etta, ikava seuraus) (compare)
-普通形（な・の）＋せいで／せいだ (kielteinen syy) (similar/compare) ::: ～せいか (ehka siksi etta) (similar/compare)
+普通形（な・の）＋せいで／せいだ (kielteinen syy) 雨の**せいで**、試合が中止になった (similar/compare) vs. myonteinen syy
+??
+おかげで・おかげだ (myonteinen syy) 便利な**電気製品のおかげで**、家事が楽になった (similar/compare) vs. kielteinen syy
+
+普通形（な・の）＋せいで／せいだ (kielteinen syy) 雨の**せいで**、試合が中止になった (similar) vs. tavallinen syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar) vs. kielteinen syy "takia"
+
+普通形（な・の）＋せいで／せいだ (kielteinen syy) 雨の**せいで**、試合が中止になった (compare) vs. juuri siksi etta, ikava seuraus
+??
+～ばかりに (juuri siksi etta, ikava seuraus) 一言余計なことを言った**ばかりに**、怒らせてしまった (compare) vs. kielteinen syy
+
+普通形（な・の）＋せいで／せいだ (kielteinen syy) 雨の**せいで**、試合が中止になった (similar/compare) vs. ehka siksi etta
+??
+～せいか (ehka siksi etta) 寝不足の**せいか**、頭が痛い (similar/compare) vs. kielteinen syy

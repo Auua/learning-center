@@ -71,5 +71,10 @@ Kumpi: から〜にかけて vai から〜に至るまで, kun halutaan korostaa
 
 #flashcards/grammar/n1/vertailu
 
-N1から　N2に至るまで (aina jostakin johonkin asti) (similar/compare) ::: ～から～にかけて (jostakin johonkin, vali) (similar/compare)
-N1から　N2に至るまで (aina jostakin johonkin asti) (similar) ::: ～に至る (paatya, johtaa) (similar)
+N1から　N2に至るまで (aina jostakin johonkin asti) 服装**から**言葉遣い**に至るまで**注意された (similar/compare) vs. jostakin johonkin, vali
+??
+～から～にかけて (jostakin johonkin, vali) 台風8号は今夜から明日**にかけて**上陸する見込みです (similar/compare) vs. aina jostakin johonkin asti
+
+N1から　N2に至るまで (aina jostakin johonkin asti) 服装**から**言葉遣い**に至るまで**注意された (similar) vs. paatya, johtaa
+??
+～に至る (paatya, johtaa) 長い議論の末、結論**に至った** (similar) vs. aina jostakin johonkin asti

@@ -71,9 +71,26 @@ Tietyissä tapauksissa (jopa).
 
 #flashcards/grammar/n2/vertailu
 
-N＋次第で／次第だ／次第では (riippuen jostakin) (similar) ::: ～によって (riippuen, vaihtelu) (similar)
-N＋次第で／次第だ／次第では (riippuen jostakin) (similar) ::: ～に応じて (sen mukaan, riippuen) (similar)
-N＋次第で／次第だ／次第では (riippuen jostakin) (similar/compare) ::: Nいかんだ・いかんでは (riippuu jostakin) (similar/compare)
-N＋次第で／次第だ／次第では (riippuen jostakin) (similar) ::: ～にかかっている (riippuu jostakin) (similar)
-N＋次第で／次第だ／次第では (riippuen jostakin) (similar/compare) ::: Vようによっては (riippuen tavasta) (similar/compare)
-N＋次第で／次第だ／次第では (riippuen jostakin) (compare) ::: V次第 (heti kun) (compare)
+N＋次第で／次第だ／次第では (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar) vs. riippuen, vaihtelu
+??
+～によって (riippuen, vaihtelu) 文化や習慣は**国によって**違います (similar) vs. riippuen jostakin
+
+N＋次第で／次第だ／次第では (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar) vs. sen mukaan, riippuen
+??
+～に応じて (sen mukaan, riippuen) 会員のうち3人は既に請求**に応じて**支払いを済ませている (similar) vs. riippuen jostakin
+
+N＋次第で／次第だ／次第では (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar/compare) vs. kirjallinen "riippuu"
+??
+Nいかんだ・いかんでは (riippuu jostakin) 合否は面接の結果**いかんだ** (similar/compare) vs. riippuen jostakin
+
+N＋次第で／次第だ／次第では (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar) vs. "riippuu jostakin" lauseen lopussa
+??
+～にかかっている (riippuu jostakin) 成功するかどうかは、あなたの努力**にかかっている** (similar) vs. riippuen jostakin
+
+N＋次第で／次第だ／次第では (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar/compare) vs. riippuen tavasta
+??
+Vようによっては (riippuen tavasta) 考え**ようによっては**、これもいい経験だ (similar/compare) vs. riippuen jostakin
+
+N＋次第で／次第だ／次第では (riippuen jostakin) 努力**次第で**、誰でも上手になれる (compare) vs. heti kun
+??
+V次第 (heti kun) 結果がわかり**次第**、お知らせします (compare) vs. riippuen jostakin

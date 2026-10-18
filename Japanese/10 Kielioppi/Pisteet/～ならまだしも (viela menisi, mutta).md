@@ -68,5 +68,10 @@ Etuosan X.
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋ならまだしも (viela menisi, mutta) (similar/compare) ::: Nならいざしらず (no se vielä, mutta) (similar/compare)
-N／普通形＋ならまだしも (viela menisi, mutta) (compare) ::: ～はともかく (jatetaan sikseen) (compare)
+N／普通形＋ならまだしも (viela menisi, mutta) 一度**ならまだしも**、何度も遅刻するのは困る (similar/compare) vs. no se vielä, mutta
+??
+Nならいざしらず (no se vielä, mutta) 子ども**ならいざしらず**、大人がそんなことをするとは (similar/compare) vs. viela menisi, mutta
+
+N／普通形＋ならまだしも (viela menisi, mutta) 一度**ならまだしも**、何度も遅刻するのは困る (compare) vs. jatetaan sikseen
+??
+～はともかく (jatetaan sikseen) あのレストランは値段**はともかく**、味はいい (compare) vs. viela menisi, mutta

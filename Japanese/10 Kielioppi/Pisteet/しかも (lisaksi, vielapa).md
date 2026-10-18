@@ -70,6 +70,14 @@ Sama ajatus; しかも on painokkaampi.
 
 #flashcards/grammar/n2/vertailu
 
-S1。しかも、S2。／Adj、しかも〜 (lisaksi, vielapa) (similar/compare) ::: それに・それで (lisaksi, niinpa) (similar/compare)
-S1。しかも、S2。／Adj、しかも〜 (lisaksi, vielapa) (similar) ::: ～上に (lisaksi, paalle paatteeksi) (similar)
-S1。しかも、S2。／Adj、しかも〜 (lisaksi, vielapa) (similar/compare) ::: おまけに (paalle paatteeksi) (similar/compare)
+S1。しかも、S2。／Adj、しかも〜 (lisaksi, vielapa) **しかも**、おいしい (similar/compare) vs. lisaksi, niinpa
+??
+それに・それで (lisaksi, niinpa) **それに**経験もあります (similar/compare) vs. lisaksi, vielapa
+
+S1。しかも、S2。／Adj、しかも〜 (lisaksi, vielapa) **しかも**、おいしい (similar) vs. lisaksi, paalle paatteeksi
+??
+～上に (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar) vs. lisaksi, vielapa
+
+S1。しかも、S2。／Adj、しかも〜 (lisaksi, vielapa) **しかも**、おいしい (similar/compare) vs. paalle paatteeksi
+??
+おまけに (paalle paatteeksi) **おまけに**、雨まで降ってきた (similar/compare) vs. lisaksi, vielapa

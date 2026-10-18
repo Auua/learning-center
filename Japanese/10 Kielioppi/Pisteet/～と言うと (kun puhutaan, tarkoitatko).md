@@ -71,4 +71,6 @@ Lähes sama mielleyhtymässä; と言うと voi lisäksi pyytää tarkennusta.
 
 #flashcards/grammar/n3/vertailu
 
-N／普通形＋と言うと (kun puhutaan, tarkoitatko) (similar/compare) ::: ～といえば (jos puhutaan X:sta) (similar/compare)
+N／普通形＋と言うと (kun puhutaan, tarkoitatko) 北海道**と言うと**、雪ですね (similar/compare) vs. jos puhutaan X:sta
+??
+～といえば (jos puhutaan X:sta) 太鼓**といえば**、佐渡の「鬼太鼓」が有名ですよね (similar/compare) vs. kun puhutaan, tarkoitatko

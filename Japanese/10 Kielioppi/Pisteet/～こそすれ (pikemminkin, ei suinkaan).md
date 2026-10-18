@@ -68,4 +68,6 @@ Millaiset verbit tyypillisesti asettuvat vastakkain?
 
 #flashcards/grammar/n1/vertailu
 
-V(ます-vartalo)／N＋こそすれ＋kielto (pikemminkin, ei suinkaan) (similar/compare) ::: ～こそあれ (vaikka onkin, mutta ei) (similar/compare)
+V(ます-vartalo)／N＋こそすれ＋kielto (pikemminkin, ei suinkaan) 感謝し**こそすれ**、恨んではいない (similar/compare) vs. vaikka onkin, mutta ei
+??
+～こそあれ (vaikka onkin, mutta ei) 違い**こそあれ**、どちらも大切だ (similar/compare) vs. pikemminkin, ei suinkaan

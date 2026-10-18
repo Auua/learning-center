@@ -70,4 +70,6 @@ Lähes samat kohteliaisuudet; ところを korostaa keskeyttämistä.
 
 #flashcards/grammar/n1/vertailu
 
-Adj／Vている＋ところを (vaikka, kesken) (similar/compare) ::: Vているところに・ところへ (juuri kun) (similar/compare)
+Adj／Vている＋ところを (vaikka, kesken) お忙しい**ところを**、ありがとうございました (similar/compare) vs. juuri kun
+??
+Vているところに・ところへ (juuri kun) 出かけようとしている**ところへ**、電話がかかってきた (similar/compare) vs. vaikka, kesken

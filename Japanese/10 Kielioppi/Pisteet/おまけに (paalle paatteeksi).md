@@ -68,5 +68,10 @@ Valittava, ikävien asioiden kasautuminen.
 
 #flashcards/grammar/n2/vertailu
 
-S1。おまけに、S2。 (paalle paatteeksi) (similar/compare) ::: しかも (lisaksi, vielapa) (similar/compare)
-S1。おまけに、S2。 (paalle paatteeksi) (similar) ::: ～上に (lisaksi, paalle paatteeksi) (similar)
+S1。おまけに、S2。 (paalle paatteeksi) **おまけに**、雨まで降ってきた (similar/compare) vs. lisaksi, vielapa
+??
+しかも (lisaksi, vielapa) **しかも**、おいしい (similar/compare) vs. paalle paatteeksi
+
+S1。おまけに、S2。 (paalle paatteeksi) **おまけに**、雨まで降ってきた (similar) vs. "lisäksi" sivulauseena
+??
+～上に (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar) vs. "päälle päätteeksi" lauseen alussa

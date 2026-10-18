@@ -71,6 +71,14 @@ Lähes samat; にしたがって on muodollisempi ja voi myös tarkoittaa "nouda
 
 #flashcards/grammar/n3/vertailu
 
-N／V辞書形＋にしたがって／にしたがい (mukaisesti, sita mukaa) (similar/compare) ::: Vにつれて (sita mukaa kun) (similar/compare)
-N／V辞書形＋にしたがって／にしたがい (mukaisesti, sita mukaa) (similar) ::: ～に沿って (mukaisesti, pitkin) (similar)
-N／V辞書形＋にしたがって／にしたがい (mukaisesti, sita mukaa) (compare) ::: 〜とおりに (juuri niin kuin) (compare)
+N／V辞書形＋にしたがって／にしたがい (mukaisesti, sita mukaa) 先生の指示**にしたがって**、行動してください (similar/compare) vs. sita mukaa kun
+??
+Vにつれて (sita mukaa kun) 時間が経つ**につれて**、腹が立ってきた (similar/compare) vs. mukaisesti, sita mukaa
+
+N／V辞書形＋にしたがって／にしたがい (mukaisesti, sita mukaa) 先生の指示**にしたがって**、行動してください (similar) vs. mukaisesti, pitkin
+??
+～に沿って (mukaisesti, pitkin) 川**に沿って**歩く (similar) vs. mukaisesti, sita mukaa
+
+N／V辞書形＋にしたがって／にしたがい (mukaisesti, sita mukaa) 先生の指示**にしたがって**、行動してください (compare) vs. juuri niin kuin
+??
+〜とおりに (juuri niin kuin) わたしが今から**言うとおりに**、書いてください (compare) vs. mukaisesti, sita mukaa

@@ -75,5 +75,10 @@ Kausatiivi = lapsi lukee; てあげる = minä luen lapselle.
 
 #flashcards/grammar/n4/vertailu
 
-N1（人）にN2をV他動詞の使役形 (kausatiivi transitiiviverbillä) (similar/compare) ::: Nを V(さ)せる (kausatiivi intransitiiviverbillä) (similar/compare)
-N1（人）にN2をV他動詞の使役形 (kausatiivi transitiiviverbillä) (similar) ::: させてください・させていただけませんか (lupa itselle) (similar)
+N1（人）にN2をV他動詞の使役形 (kausatiivi transitiiviverbillä) 母は子ども**に**野菜**を**食べさせます (similar/compare) vs. kausatiivi intransitiiviverbillä
+??
+Nを V(さ)せる (kausatiivi intransitiiviverbillä) 部長は加藤さん**を**大阪へ出張させます (similar/compare) vs. kausatiivi transitiiviverbillä
+
+N1（人）にN2をV他動詞の使役形 (kausatiivi transitiiviverbillä) 母は子ども**に**野菜**を**食べさせます (similar) vs. lupa itselle
+??
+させてください・させていただけませんか (lupa itselle) しばらくここに車を**止めさせてください** (similar) vs. kausatiivi transitiiviverbillä

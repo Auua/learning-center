@@ -70,8 +70,22 @@ Lähes sama; わけがない on tunteellisempi ja puhekielisempi.
 
 #flashcards/grammar/n3/vertailu
 
-普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (similar/compare) ::: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) (similar/compare)
-普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (similar) ::: 普通形わけだ (johtopaatos, siis) (similar)
-普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (similar/compare) ::: Vっこない (ei ikina, mahdotonta) (similar/compare)
-普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (compare) ::: 普通形わけではない (ei tarkoita etta aina) (compare)
-普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) (compare) ::: ～ものか (ei ikina, enpa) (compare)
+普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (similar/compare) vs. mahdottomuus ja toteutumaton odotus
+??
+普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) **知らないはずがありません** (similar/compare) vs. ei mitenkaan voi olla
+
+普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (similar) vs. johtopaatos, siis
+??
+普通形わけだ (johtopaatos, siis) 値上げをした**わけだ** (similar) vs. ei mitenkaan voi olla
+
+普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (similar/compare) vs. ei ikina, mahdotonta
+??
+Vっこない (ei ikina, mahdotonta) あんなに強いチームに勝てっこないよ (similar/compare) vs. ei mitenkaan voi olla
+
+普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (compare) vs. ei tarkoita etta aina
+??
+普通形わけではない (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (compare) vs. ei mitenkaan voi olla
+
+普通形（な-adj な／N の）＋わけがない／わけはない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (compare) vs. ei ikina, enpa
+??
+～ものか (ei ikina, enpa) あんな店、二度と行く**ものか** (compare) vs. ei mitenkaan voi olla

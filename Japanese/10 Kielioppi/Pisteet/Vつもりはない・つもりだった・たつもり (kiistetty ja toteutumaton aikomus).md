@@ -119,9 +119,26 @@ Sama toteutumattomuuden logiikka, mutta はず koskee odotusta, つもり omaa t
 
 #flashcards/grammar/n3/vertailu
 
-Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar/compare) ::: Vつもりです (paatetty aikomus) (similar/compare)
-Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar) ::: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) (similar)
-Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar) ::: Vようとする (yrittaa, olla tekemaisillaan) (similar)
-Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (compare) ::: Vertailu — ようと思う vs. つもり vs. 予定 (compare)
-Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (compare) ::: Vるつもりで (aikomuksella) (compare)
-Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) (similar) ::: Vまい (ei aio, tuskin) (similar)
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (similar/compare) vs. paatetty aikomus
+??
+Vつもりです (paatetty aikomus) 来月車を**買うつもりです** (similar/compare) vs. kiistetty ja toteutumaton aikomus
+
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (similar) vs. mahdottomuus ja toteutumaton odotus
+??
+普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) **知らないはずがありません** (similar) vs. kiistetty ja toteutumaton aikomus
+
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (similar) vs. yrittaa, olla tekemaisillaan
+??
+Vようとする (yrittaa, olla tekemaisillaan) 今朝**出かけようとしたとき**、電話がかかってきた (similar) vs. kiistetty ja toteutumaton aikomus
+
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (compare) vs. vertailu: ようと思う vs. つもり vs. 予定
+??
+Vertailu — ようと思う vs. つもり vs. 予定 来年留学**しようと思っています** (compare) vs. kiistetty ja toteutumaton aikomus
+
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (compare) vs. aikomuksella
+??
+Vるつもりで (aikomuksella) 留学する**つもりで**、お金をためている (compare) vs. kiistetty ja toteutumaton aikomus
+
+Vつもりはない／Vつもりだった／Vたつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (similar) vs. ei aio, tuskin
+??
+Vまい (ei aio, tuskin) もう二度と行く**まい**と思った (similar) vs. kiistetty ja toteutumaton aikomus

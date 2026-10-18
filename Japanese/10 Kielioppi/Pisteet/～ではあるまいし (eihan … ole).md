@@ -69,4 +69,6 @@ Jälkimmäinen on moittiva tai retorinen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋ではあるまいし／じゃあるまいし (eihan … ole) (compare) ::: 普通形わけではない (ei tarkoita etta aina) (compare)
+N＋ではあるまいし／じゃあるまいし (eihan … ole) 子ども**じゃあるまいし**、一人でできるでしょう (compare) vs. ei tarkoita etta aina
+??
+普通形わけではない (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (compare) vs. eihan … ole

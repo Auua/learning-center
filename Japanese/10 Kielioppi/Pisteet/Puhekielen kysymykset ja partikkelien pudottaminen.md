@@ -83,4 +83,6 @@ Mitkä ovat はい/いいえ:n puhekieliset vastineet?
 
 #flashcards/grammar/n5/vertailu
 
-普通形の疑問文と助詞の省略 (Puhekielen kysymykset ja partikkelien pudottaminen) (similar) ::: 普通形 (puhekielinen perusmuoto) (similar)
+普通形の疑問文と助詞の省略 (Puhekielen kysymykset ja partikkelien pudottaminen) コーヒーを飲む？ … うん、飲む (similar) vs. puhekielinen perusmuoto
+??
+普通形 (puhekielinen perusmuoto) サントスさんはパーティーに来なかった (similar) vs. puhekielen kysymykset

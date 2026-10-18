@@ -68,4 +68,6 @@ Molemmat vahvistavat; でなくてなんだろう on retorinen ja tunteikas.
 
 #flashcards/grammar/n1/vertailu
 
-N＋でなくてなんだろう（か） (jos ei tama, niin mika) (similar/compare) ::: 普通形にほかならない (ei ole muuta kuin) (similar/compare)
+N＋でなくてなんだろう（か） (jos ei tama, niin mika) これが愛**でなくてなんだろう** (similar/compare) vs. ei ole muuta kuin
+??
+普通形にほかならない (ei ole muuta kuin) 子どもの反抗は、大人になるための第一歩**にほかならない** (similar/compare) vs. jos ei tama, niin mika

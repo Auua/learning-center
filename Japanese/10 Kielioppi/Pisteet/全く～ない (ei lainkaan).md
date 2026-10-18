@@ -71,7 +71,18 @@ Täysin: 全くその通りだ.
 
 #flashcards/grammar/n2/vertailu
 
-全く＋kielto (ei lainkaan) (similar/compare) ::: 少しも～ない (ei vahaakaan) (similar/compare)
-全く＋kielto (ei lainkaan) (similar) ::: ちっとも～ない (ei yhtaan) (similar)
-全く＋kielto (ei lainkaan) (compare) ::: よく・だいたい・たくさん・少し・あまり・全然 (asteadverbit) (compare)
-全く＋kielto (ei lainkaan) (compare) ::: Nでも何でもない (ei lainkaan, ei suinkaan) (compare)
+全く＋kielto (ei lainkaan) その件については**全く**知り**ません** (similar/compare) vs. ei vahaakaan
+??
+少しも～ない (ei vahaakaan) 彼の言うことは**少しも**理解でき**ない** (similar/compare) vs. ei lainkaan
+
+全く＋kielto (ei lainkaan) その件については**全く**知り**ません** (similar) vs. ei yhtaan
+??
+ちっとも～ない (ei yhtaan) 彼は**ちっとも**話を聞か**ない** (similar) vs. ei lainkaan
+
+全く＋kielto (ei lainkaan) その件については**全く**知り**ません** (compare) vs. asteadverbit
+??
+よく・だいたい・たくさん・少し・あまり・全然 (asteadverbit) 英語がよくわかります (compare) vs. ei lainkaan
+
+全く＋kielto (ei lainkaan) その件については**全く**知り**ません** (compare) vs. "ei lainkaan, ei suinkaan" substantiivilla
+??
+Nでも何でもない (ei lainkaan, ei suinkaan) 彼は友達**でも何でもない** (compare) vs. "ei lainkaan" adverbilla

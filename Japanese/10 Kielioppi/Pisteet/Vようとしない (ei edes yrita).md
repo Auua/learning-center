@@ -71,4 +71,6 @@ Kolmannen persoonan; puhuja paheksuu.
 
 #flashcards/grammar/n3/vertailu
 
-V(よう-muoto)＋としない (ei edes yrita) (similar/compare) ::: Vようとする (yrittaa, olla tekemaisillaan) (similar/compare)
+V(よう-muoto)＋としない (ei edes yrita) 彼は全然話そう**としない** (similar/compare) vs. yrittaa, olla tekemaisillaan
+??
+Vようとする (yrittaa, olla tekemaisillaan) 今朝**出かけようとしたとき**、電話がかかってきた (similar/compare) vs. ei edes yrita

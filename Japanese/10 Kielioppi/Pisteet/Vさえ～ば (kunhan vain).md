@@ -59,4 +59,6 @@ Että mainittu ehto on ainoa tarvittava; kaikki muu on toissijaista tai seuraa a
 
 #flashcards/grammar/n3/vertailu
 
-V(て形)＋さえ＋いれば・V(ます-vartalo)＋さえ＋すれば (kunhan vain) (similar/compare) ::: Nさえ・でさえ (jopa, edes) (similar/compare)
+V(て形)＋さえ＋いれば・V(ます-vartalo)＋さえ＋すれば (kunhan vain) 家族が健康に暮らして**さえいれば**、十分に幸せです (similar/compare) vs. jopa, edes
+??
+Nさえ・でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar/compare) vs. kunhan vain

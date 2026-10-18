@@ -100,7 +100,18 @@ Mikä on Vないで (tapa, keino):n muodollinen vastine?
 
 #flashcards/grammar/n4/vertailu
 
-Vて／Vないで（tapa, keino） (tapa, keino) (similar) ::: Vないで ください (kielteinen pyyntö) (similar)
-Vて／Vないで（tapa, keino） (tapa, keino) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)
-Vて／Vないで（tapa, keino） (tapa, keino) (compare) ::: ～ことなく (tekematta) (compare)
-Vて／Vないで（tapa, keino） (tapa, keino) (similar/compare) ::: Vないで、V2 (sen sijaan että) (similar/compare)
+Vて／Vないで（tapa, keino） (tapa, keino) 傘を**もって**、出かけます (similar) vs. kielteinen pyyntö
+??
+Vないで ください (kielteinen pyyntö) ここで写真を撮ら**ないでください** (similar) vs. tapa, keino
+
+Vて／Vないで（tapa, keino） (tapa, keino) 傘を**もって**、出かけます (similar/compare) vs. kirjallinen kielto
+??
+～ず［に］・～ず (kirjallinen kielto) 地震のときは、**あわてずに**落ち着いて行動してください (similar/compare) vs. tapa, keino
+
+Vて／Vないで（tapa, keino） (tapa, keino) 傘を**もって**、出かけます (compare) vs. tekematta
+??
+～ことなく (tekematta) 彼は休む**ことなく**働き続けた (compare) vs. tapa, keino
+
+Vて／Vないで（tapa, keino） (tapa, keino) 傘を**もって**、出かけます (similar/compare) vs. sen sijaan että
+??
+Vないで、V2 (sen sijaan että) バスに乗ら**ないで**、歩いて行きます (similar/compare) vs. tapa, keino

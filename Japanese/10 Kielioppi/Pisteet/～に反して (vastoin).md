@@ -71,4 +71,6 @@ Mitkä substantiivit tyypillisesti esiintyvät に反して:n edellä?
 
 #flashcards/grammar/n3/vertailu
 
-N＋に反して／に反する (vastoin) (compare) ::: ～に対して (kohtaan, vastakohtana) (compare)
+N＋に反して／に反する (vastoin) 予想**に反して**、試合に負けた (compare) vs. kohtaan, vastakohtana
+??
+～に対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (compare) vs. vastoin

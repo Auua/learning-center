@@ -68,6 +68,14 @@ Lähes sama; を機に hieman arkisempi.
 
 #flashcards/grammar/n1/vertailu
 
-N＋を機に（して） (tilaisuutena, kaanteena) (similar/compare) ::: ～を契機に (sysayksena, kaanteena) (similar/compare)
-N＋を機に（して） (tilaisuutena, kaanteena) (similar) ::: ～がきっかけで・をきっかけに (sysayksena) (similar)
-N＋を機に（して） (tilaisuutena, kaanteena) (compare) ::: ～を境に (rajana, siita lahtien) (compare)
+N＋を機に（して） (tilaisuutena, kaanteena) 退職**を機に**、田舎に引っ越した (similar/compare) vs. sysayksena, kaanteena
+??
+～を契機に (sysayksena, kaanteena) 入院**を契機に**、たばこをやめた (similar/compare) vs. tilaisuutena, kaanteena
+
+N＋を機に（して） (tilaisuutena, kaanteena) 退職**を機に**、田舎に引っ越した (similar) vs. sysayksena
+??
+～がきっかけで・をきっかけに (sysayksena) 留学**がきっかけで**、料理を始めた (similar) vs. tilaisuutena, kaanteena
+
+N＋を機に（して） (tilaisuutena, kaanteena) 退職**を機に**、田舎に引っ越した (compare) vs. rajana, siita lahtien
+??
+～を境に (rajana, siita lahtien) その日**を境に**、彼は変わった (compare) vs. tilaisuutena, kaanteena

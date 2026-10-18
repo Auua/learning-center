@@ -91,7 +91,18 @@ Miten 泣き出した eroaa muodosta 泣き始めた?
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) (similar) ::: Vます-vartalo＋上げる (saada valmiiksi) (similar)
-V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) (similar) ::: Vます-vartalo＋込む (sisaan, perusteellisesti) (similar)
-V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) (similar) ::: Vます-vartalo＋直す (tehda uudelleen) (similar)
-V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) (similar) ::: Vます-vartalo＋通す (loppuun asti) (similar)
+V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) 男はまんじゅうを見ると、急に**震え出した** (similar) vs. saada valmiiksi
+??
+Vます-vartalo＋上げる (saada valmiiksi) 一晩でレポートを書き**上げた** (similar) vs. yhdysverbit
+
+V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) 男はまんじゅうを見ると、急に**震え出した** (similar) vs. sisaan, perusteellisesti
+??
+Vます-vartalo＋込む (sisaan, perusteellisesti) プールに飛び**込む** (similar) vs. yhdysverbit
+
+V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) 男はまんじゅうを見ると、急に**震え出した** (similar) vs. tehda uudelleen
+??
+Vます-vartalo＋直す (tehda uudelleen) 間違えたので、書き**直します** (similar) vs. yhdysverbit
+
+V(ます-vartalo)＋出す・始める・終わる・続ける・忘れる・合う・換える (yhdysverbit) 男はまんじゅうを見ると、急に**震え出した** (similar) vs. loppuun asti
+??
+Vます-vartalo＋通す (loppuun asti) マラソンを最後まで走り**通した** (similar) vs. yhdysverbit

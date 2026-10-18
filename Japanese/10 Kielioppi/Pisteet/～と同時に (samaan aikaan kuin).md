@@ -80,5 +80,10 @@ Miten ～と同時に eroaa ～とともに:sta?
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋と同時に (samaan aikaan kuin) (similar) ::: V(-ます)ながら (samalla kun) (similar)
-N／普通形＋と同時に (samaan aikaan kuin) (similar/compare) ::: ～とともに (yhdessa, samalla) (similar/compare)
+N／普通形＋と同時に (samaan aikaan kuin) 彼は作曲家**であると同時に**演奏家でもある (similar) vs. samalla kun
+??
+V(-ます)ながら (samalla kun) 音楽を**聞きながら**食事します (similar) vs. samaan aikaan kuin
+
+N／普通形＋と同時に (samaan aikaan kuin) 彼は作曲家**であると同時に**演奏家でもある (similar/compare) vs. yhdessa, samalla
+??
+～とともに (yhdessa, samalla) 経済の発展**とともに**、生活が変わった (similar/compare) vs. samaan aikaan kuin

@@ -69,4 +69,6 @@ Mitä もっとも tarkoittaa yksinään lauseen alussa?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋のももっともだ (ei ihme, ymmarrettavaa) (similar/compare) ::: ～も当然だ (on aivan luonnollista) (similar/compare)
+普通形＋のももっともだ (ei ihme, ymmarrettavaa) 彼が怒る**のももっともだ** (similar/compare) vs. on aivan luonnollista
+??
+～も当然だ (on aivan luonnollista) あんなに練習したのだから、勝つ**のも当然だ** (similar/compare) vs. ei ihme, ymmarrettavaa

@@ -69,4 +69,6 @@ Kaikkein eniten, ennen kaikkea.
 
 #flashcards/grammar/n1/vertailu
 
-N＋にも増して (enemman kuin) (similar/compare) ::: ～以上に (enemman kuin) (similar/compare)
+N＋にも増して (enemman kuin) 去年**にも増して**、今年は暑い (similar/compare) vs. "enemmän kuin"
+??
+～以上に (enemman kuin) 予想**以上に**難しかった (similar/compare) vs. "enemmän kuin" kirjallinen

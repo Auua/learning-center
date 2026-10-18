@@ -68,5 +68,10 @@ Arvostettu asema: 教師, 医者, 警察官.
 
 #flashcards/grammar/n1/vertailu
 
-N＋ともあろうものが／ともあろう人が (kuka tahansa muu, mutta ei) (similar/compare) ::: Nたるもの (sellaisena kuin pitaa olla) (similar/compare)
-N＋ともあろうものが／ともあろう人が (kuka tahansa muu, mutta ei) (similar/compare) ::: Nとしたことが (juuri minulta, mita ihmetta) (similar/compare)
+N＋ともあろうものが／ともあろう人が (kuka tahansa muu, mutta ei) 教師**ともあろうものが**、生徒を殴るなんて (similar/compare) vs. sellaisena kuin pitaa olla
+??
+Nたるもの (sellaisena kuin pitaa olla) 教師**たるもの**、生徒の模範であるべきだ (similar/compare) vs. kuka tahansa muu, mutta ei
+
+N＋ともあろうものが／ともあろう人が (kuka tahansa muu, mutta ei) 教師**ともあろうものが**、生徒を殴るなんて (similar/compare) vs. juuri minulta, mita ihmetta
+??
+Nとしたことが (juuri minulta, mita ihmetta) 私**としたことが**、大事な書類を忘れるなんて (similar/compare) vs. kuka tahansa muu, mutta ei

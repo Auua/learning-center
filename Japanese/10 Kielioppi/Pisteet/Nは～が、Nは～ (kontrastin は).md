@@ -71,7 +71,18 @@ Kontrastia: lukea osaan, mutta kirjoittaa en (tai muuta en).
 
 #flashcards/grammar/n4/vertailu
 
-N1は～が、N2は～ (kontrastin は) (similar) ::: N（objekti）は (aiheeksi nostaminen) (similar)
-N1は～が、N2は～ (kontrastin は) (similar) ::: S1が、S2 (mutta) (similar)
-N1は～が、N2は～ (kontrastin は) (compare) ::: Nが (subjektipartikkeli, uusi tieto) (compare)
-N1は～が、N2は～ (kontrastin は) (similar) ::: N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) (similar)
+N1は～が、N2は～ (kontrastin は) 肉**は**食べます**が**、魚**は**食べません (similar) vs. aiheeksi nostaminen
+??
+N（objekti）は (aiheeksi nostaminen) 荷物はここに置かないでください (similar) vs. kontrastin は
+
+N1は～が、N2は～ (kontrastin は) 肉**は**食べます**が**、魚**は**食べません (similar) vs. mutta
+??
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar) vs. kontrastin は
+
+N1は～が、N2は～ (kontrastin は) 肉**は**食べます**が**、魚**は**食べません (compare) vs. subjektipartikkeli, uusi tieto
+??
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (compare) vs. kontrastin は
+
+N1は～が、N2は～ (kontrastin は) 肉**は**食べます**が**、魚**は**食べません (similar) vs. kontrasti ja aihe, では・には・へは
+??
+N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) ひらがな**は**書けますが、漢字**は**書けません (similar) vs. kontrastin は

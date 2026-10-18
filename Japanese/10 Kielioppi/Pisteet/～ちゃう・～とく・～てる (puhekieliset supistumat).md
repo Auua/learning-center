@@ -76,7 +76,18 @@ Ei: ne ovat puhtaasti puhekielisiä, eivät sovi kirjalliseen tai muodolliseen k
 
 #flashcards/grammar/n3/vertailu
 
-～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: Vてしまいます (valitettavasti, loppuun asti) (similar)
-～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: Vておきます (valmistelu etukateen) (similar)
-～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
-～ちゃう・～とく・～てる (puhekieliset supistumat) (similar) ::: ～ちゃいけない・じゃいけない (puhekielinen kielto) (similar)
+～ちゃう・～とく・～てる (puhekieliset supistumat) 財布を忘れ**ちゃった** (similar) vs. valitettavasti, loppuun asti
+??
+Vてしまいます (valitettavasti, loppuun asti) このファクス、使ってもいいですか (similar) vs. puhekieliset supistumat
+
+～ちゃう・～とく・～てる (puhekieliset supistumat) 財布を忘れ**ちゃった** (similar) vs. valmistelu etukateen
+??
+Vておきます (valmistelu etukateen) 旅行のまえに、案内書を読んで**おきます** (similar) vs. puhekieliset supistumat
+
+～ちゃう・～とく・～てる (puhekieliset supistumat) 財布を忘れ**ちゃった** (similar) vs. parhaillaan, tilan tulos
+??
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar) vs. puhekieliset supistumat
+
+～ちゃう・～とく・～てる (puhekieliset supistumat) 財布を忘れ**ちゃった** (similar) vs. puhekielinen kielto
+??
+～ちゃいけない・じゃいけない (puhekielinen kielto) 見**ちゃいけない** (similar) vs. puhekieliset supistumat

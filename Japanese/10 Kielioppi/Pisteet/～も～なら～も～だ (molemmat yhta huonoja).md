@@ -69,4 +69,6 @@ Jälkimmäinen on moittiva idiomi.
 
 #flashcards/grammar/n1/vertailu
 
-N1もN1なら N2もN2だ (molemmat yhta huonoja) (similar/compare) ::: ～も～ば～も (seka etta) (similar/compare)
+N1もN1なら N2もN2だ (molemmat yhta huonoja) 親**も**親**なら**、子**も**子**だ** (similar/compare) vs. seka etta
+??
+～も～ば～も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar/compare) vs. molemmat yhta huonoja

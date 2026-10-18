@@ -75,5 +75,10 @@ Tapa: V1 kuvaa miten V2 tehdään; vaihtoehto: V2 tehdään V1:n sijaan.
 
 #flashcards/grammar/n4/vertailu
 
-V1（ない形）ないで、V2 (sen sijaan että) (similar/compare) ::: Vて・Vないで (tapa, keino) (similar/compare)
-V1（ない形）ないで、V2 (sen sijaan että) (similar) ::: Vないで ください (kielteinen pyyntö) (similar)
+V1（ない形）ないで、V2 (sen sijaan että) バスに乗ら**ないで**、歩いて行きます (similar/compare) vs. tapa, keino
+??
+Vて・Vないで (tapa, keino) 傘を**もって**、出かけます (similar/compare) vs. sen sijaan että
+
+V1（ない形）ないで、V2 (sen sijaan että) バスに乗ら**ないで**、歩いて行きます (similar) vs. kielteinen pyyntö
+??
+Vないで ください (kielteinen pyyntö) ここで写真を撮ら**ないでください** (similar) vs. sen sijaan että

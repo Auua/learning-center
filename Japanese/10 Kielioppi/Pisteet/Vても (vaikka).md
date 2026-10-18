@@ -104,10 +104,30 @@ Miten Vても eroaa muodosta ～たら?
 
 #flashcards/grammar/n5/vertailu
 
-Vても／もし～たら／いくら～ても (vaikka) (similar) ::: ～たら (jos, kun) (similar)
-Vても／もし～たら／いくら～ても (vaikka) (compare) ::: ～にしても (vaikka olisikin) (compare)
-Vても／もし～たら／いくら～ても (vaikka) (similar/compare) ::: ～たって (vaikka, puhekielinen) (similar/compare)
-Vても／もし～たら／いくら～ても (vaikka) (similar) ::: ～とて (vaikka, myoskaan) (similar)
-Vても／もし～たら／いくら～ても (vaikka) (compare) ::: Vようが・ようと (vaikka, kuinka tahansa) (compare)
-Vても／もし～たら／いくら～ても (vaikka) (compare) ::: Vてでも (vaikka sitten) (compare)
-Vても／もし～たら／いくら～ても (vaikka) (similar/compare) ::: ～とも (vaikka, kuinka tahansa) (similar/compare)
+Vても／もし～たら／いくら～ても (vaikka) 雨が降っ**ても**、洗濯します (similar) vs. jos, kun
+??
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. vaikka
+
+Vても／もし～たら／いくら～ても (vaikka) 雨が降っ**ても**、洗濯します (compare) vs. "vaikka olisikin"
+??
+～にしても (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (compare) vs. perus "vaikka"
+
+Vても／もし～たら／いくら～ても (vaikka) 雨が降っ**ても**、洗濯します (similar/compare) vs. puhekielinen "vaikka"
+??
+～たって (vaikka, puhekielinen) 今から走っ**たって**、間に合わないよ (similar/compare) vs. neutraali "vaikka"
+
+Vても／もし～たら／いくら～ても (vaikka) 雨が降っ**ても**、洗濯します (similar) vs. kirjallinen "vaikka, myöskään"
+??
+～とて (vaikka, myoskaan) 私**とて**、悲しくないわけではない (similar) vs. neutraali "vaikka"
+
+Vても／もし～たら／いくら～ても (vaikka) 雨が降っ**ても**、洗濯します (compare) vs. "vaikka, kuinka tahansa" kirjallinen
+??
+Vようが・ようと (vaikka, kuinka tahansa) 誰が何と言**おうが**、私は行く (compare) vs. perus "vaikka"
+
+Vても／もし～たら／いくら～ても (vaikka) 雨が降っ**ても**、洗濯します (compare) vs. "vaikka sitten" (keino)
+??
+Vてでも (vaikka sitten) 借金し**てでも**、留学したい (compare) vs. "vaikka" perus
+
+Vても／もし～たら／いくら～ても (vaikka) 雨が降っ**ても**、洗濯します (similar/compare) vs. kirjallinen "kuinka tahansa"
+??
+～とも (vaikka, kuinka tahansa) どんなに苦しく**とも**、諦めない (similar/compare) vs. "vaikka" perus

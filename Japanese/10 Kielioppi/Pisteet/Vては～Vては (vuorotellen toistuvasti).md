@@ -68,7 +68,18 @@ Loputonta, usein vaivalloista sykliä.
 
 #flashcards/grammar/n2/vertailu
 
-V1(て)は＋V2、V1(て)は＋V2 (vuorotellen toistuvasti) (similar) ::: Vては・Vでは (aina kun, toistuvasti) (similar)
-V1(て)は＋V2、V1(て)は＋V2 (vuorotellen toistuvasti) (similar/compare) ::: ～つ～つ (vuoroin, edestakaisin) (similar/compare)
-V1(て)は＋V2、V1(て)は＋V2 (vuorotellen toistuvasti) (compare) ::: Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) (compare)
-V1(て)は＋V2、V1(て)は＋V2 (vuorotellen toistuvasti) (compare) ::: ～に～を重ねて (yhä uudelleen) (compare)
+V1(て)は＋V2、V1(て)は＋V2 (vuorotellen toistuvasti) 書い**ては**消し、書い**ては**消した (similar) vs. aina kun, toistuvasti
+??
+Vては・Vでは (aina kun, toistuvasti) 彼は会っ**ては**、お金を借りていく (similar) vs. vuorotellen toistuvasti
+
+V1(て)は＋V2、V1(て)は＋V2 (vuorotellen toistuvasti) 書い**ては**消し、書い**ては**消した (similar/compare) vs. vuoroin, edestakaisin
+??
+～つ～つ (vuoroin, edestakaisin) 抜き**つ**抜かれ**つ**のレース (similar/compare) vs. vuorotellen toistuvasti
+
+V1(て)は＋V2、V1(て)は＋V2 (vuorotellen toistuvasti) 書い**ては**消し、書い**ては**消した (compare) vs. esimerkkitekoja, ei järjestyksessä
+??
+Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) 日曜日はテニスをし**たり**、映画を見**たり**します (compare) vs. vuorotellen toistuvasti
+
+V1(て)は＋V2、V1(て)は＋V2 (vuorotellen toistuvasti) 書い**ては**消し、書い**ては**消した (compare) vs. yhä uudelleen
+??
+～に～を重ねて (yhä uudelleen) 努力**に**努力**を重ねて**、成功した (compare) vs. vuorotellen toistuvasti

@@ -63,6 +63,14 @@ N1はともかく、N2は〜: vertaa implisiittisesti kahta ominaisuutta ja koro
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋はともかく（として） (jatetaan sikseen) (similar/compare) ::: ～は別として (lukuun ottamatta) (similar/compare)
-N／普通形＋はともかく（として） (jatetaan sikseen) (similar/compare) ::: ～はさておき (jatetaan sikseen) (similar/compare)
-N／普通形＋はともかく（として） (jatetaan sikseen) (compare) ::: ～ならまだしも (viela menisi, mutta) (compare)
+N／普通形＋はともかく（として） (jatetaan sikseen) あのレストランは値段**はともかく**、味はいい (similar/compare) vs. lukuun ottamatta
+??
+～は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (similar/compare) vs. "jätetään sikseen"
+
+N／普通形＋はともかく（として） (jatetaan sikseen) あのレストランは値段**はともかく**、味はいい (similar/compare) vs. kirjallinen "jätetään sikseen"
+??
+～はさておき (jatetaan sikseen) 冗談**はさておき**、本題に入ろう (similar/compare) vs. "jätetään sikseen" yleisempi
+
+N／普通形＋はともかく（として） (jatetaan sikseen) あのレストランは値段**はともかく**、味はいい (compare) vs. viela menisi, mutta
+??
+～ならまだしも (viela menisi, mutta) 一度**ならまだしも**、何度も遅刻するのは困る (compare) vs. jatetaan sikseen

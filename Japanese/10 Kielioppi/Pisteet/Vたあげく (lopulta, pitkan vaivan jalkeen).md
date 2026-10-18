@@ -70,5 +70,10 @@ Ikävä tai turhauttava lopputulos.
 
 #flashcards/grammar/n2/vertailu
 
-V(た-muoto)／Nの＋あげく（に） (lopulta, pitkan vaivan jalkeen) (similar/compare) ::: ～の末 (pitkan ajan jalkeen) (similar/compare)
-V(た-muoto)／Nの＋あげく（に） (lopulta, pitkan vaivan jalkeen) (similar/compare) ::: ～始末だ (lopulta jopa, ikava loppu) (similar/compare)
+V(た-muoto)／Nの＋あげく（に） (lopulta, pitkan vaivan jalkeen) さんざん迷った**あげく**、何も買わなかった (similar/compare) vs. pitkan ajan jalkeen
+??
+～の末 (pitkan ajan jalkeen) 5年間の受験勉強**の末**、ようやく国家試験に合格できた (similar/compare) vs. lopulta, pitkan vaivan jalkeen
+
+V(た-muoto)／Nの＋あげく（に） (lopulta, pitkan vaivan jalkeen) さんざん迷った**あげく**、何も買わなかった (similar/compare) vs. lopulta jopa, ikava loppu
+??
+～始末だ (lopulta jopa, ikava loppu) 遅刻が続き、ついに無断欠勤する**始末だ** (similar/compare) vs. lopulta, pitkan vaivan jalkeen

@@ -68,4 +68,6 @@ Ikävä, loputon seuraus.
 
 #flashcards/grammar/n1/vertailu
 
-V(た)ら最後／Vたが最後 (kun kerran, niin ei ole paluuta) (similar/compare) ::: ～ばそれまでだ (siihen se jaa) (similar/compare)
+V(た)ら最後／Vたが最後 (kun kerran, niin ei ole paluuta) 彼に話したら**最後**、みんなに広まる (similar/compare) vs. siihen se jaa
+??
+～ばそれまでだ (siihen se jaa) いくら準備しても、雨が降れ**ばそれまでだ** (similar/compare) vs. kun kerran, niin ei ole paluuta

@@ -68,4 +68,6 @@ Sama ajatus; を禁じ得ない kirjallinen ja substantiiviin.
 
 #flashcards/grammar/n1/vertailu
 
-N(tunne)＋を禁じ得ない (ei voi olla tuntematta) (similar/compare) ::: Vずにはいられない (ei voi olla tekematta) (similar/compare)
+N(tunne)＋を禁じ得ない (ei voi olla tuntematta) 怒り**を禁じ得ない** (similar/compare) vs. ei voi olla tekematta
+??
+Vずにはいられない (ei voi olla tekematta) 笑わ**ずにはいられない** (similar/compare) vs. ei voi olla tuntematta

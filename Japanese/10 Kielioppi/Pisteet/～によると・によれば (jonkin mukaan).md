@@ -70,6 +70,14 @@ Kuulopuheella: そうだ, らしい, ということだ.
 
 #flashcards/grammar/n3/vertailu
 
-N＋によると／によれば (jonkin mukaan) (similar) ::: 普通形そうです (kuulopuhe) (similar)
-N＋によると／によれば (jonkin mukaan) (similar) ::: 普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar)
-N＋によると／によれば (jonkin mukaan) (compare) ::: ～によって (riippuen, vaihtelu) (compare)
+N＋によると／によれば (jonkin mukaan) 天気予報**によると**、明日は雨だ**そうだ** (similar) vs. kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar) vs. jonkin mukaan
+
+N＋によると／によれば (jonkin mukaan) 天気予報**によると**、明日は雨だ**そうだ** (similar) vs. muodollinen kuulopuhe, vahvistus
+??
+普通形ということだ (muodollinen kuulopuhe, vahvistus) 30分ほど遅れる**ということですね** (similar) vs. jonkin mukaan
+
+N＋によると／によれば (jonkin mukaan) 天気予報**によると**、明日は雨だ**そうだ** (compare) vs. riippuen, vaihtelu
+??
+～によって (riippuen, vaihtelu) 文化や習慣は**国によって**違います (compare) vs. jonkin mukaan

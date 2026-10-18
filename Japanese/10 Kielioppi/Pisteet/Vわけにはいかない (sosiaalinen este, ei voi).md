@@ -73,4 +73,6 @@ Miten わけにはいかない eroaa rakenteesta Vしかない?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／ない形＋わけにはいかない・ゆかない (sosiaalinen este, ei voi) (similar/compare) ::: Vしかない (ei ole muuta vaihtoehtoa) (similar/compare)
+V辞書形／ない形＋わけにはいかない・ゆかない (sosiaalinen este, ei voi) 遅刻も3回も4回も重なると許す**わけにはいかない** (similar/compare) vs. ei ole muuta vaihtoehtoa
+??
+Vしかない (ei ole muuta vaihtoehtoa) 内容より形を重視する考えに従う**しかなかった** (similar/compare) vs. sosiaalinen este, ei voi

@@ -69,4 +69,6 @@ Juhlapuheissa ja kirjeissä.
 
 #flashcards/grammar/n1/vertailu
 
-V(て)＋やまない (ei lakkaa, syvasti) (similar/compare) ::: ～てならない (hirvean, en voi olla tuntematta) (similar/compare)
+V(て)＋やまない (ei lakkaa, syvasti) 皆様の幸せを願っ**てやみません** (similar/compare) vs. hirvean, en voi olla tuntematta
+??
+～てならない (hirvean, en voi olla tuntematta) 将来が心配で**ならない** (similar/compare) vs. ei lakkaa, syvasti

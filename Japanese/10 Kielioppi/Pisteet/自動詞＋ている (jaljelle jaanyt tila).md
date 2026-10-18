@@ -93,5 +93,10 @@ Miksi ×自動販売機を壊れています on virhe?
 
 #flashcards/grammar/n4/vertailu
 
-自動詞＋ている (jaljelle jaanyt tila) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
-自動詞＋ている (jaljelle jaanyt tila) (similar) ::: 自動詞と他動詞 (transitiivisuusparit) (similar)
+自動詞＋ている (jaljelle jaanyt tila) 窓が閉まっています (similar) vs. parhaillaan, tilan tulos
+??
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar) vs. jaljelle jaanyt tila
+
+自動詞＋ている (jaljelle jaanyt tila) 窓が閉まっています (similar) vs. transitiivisuusparit
+??
+自動詞と他動詞 (transitiivisuusparit) ドア**が開く**／ドア**を開ける** (similar) vs. jaljelle jaanyt tila

@@ -70,4 +70,6 @@ Vähättelyä: tein vain, ei sen kummempaa.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／Vた＋までだ／までのことだ (ei muuta kuin, vain) (similar/compare) ::: Vしかない (ei ole muuta vaihtoehtoa) (similar/compare)
+V辞書形／Vた＋までだ／までのことだ (ei muuta kuin, vain) だめなら、もう一度やる**までだ** (similar/compare) vs. ei ole muuta vaihtoehtoa
+??
+Vしかない (ei ole muuta vaihtoehtoa) 内容より形を重視する考えに従う**しかなかった** (similar/compare) vs. ei muuta kuin, vain

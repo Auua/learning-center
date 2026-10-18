@@ -69,5 +69,10 @@ Nyt ei todellakaan ole sen aika — on tärkeämpää.
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／N＋どころではない（どころじゃない） (ei ole aikaa, puhumattakaan) (similar) ::: Vている場合じゃない (nyt ei ole aika) (similar)
-V辞書形／N＋どころではない（どころじゃない） (ei ole aikaa, puhumattakaan) (compare) ::: ～どころか (paikalla vaan painvastoin) (compare)
+V辞書形／N＋どころではない（どころじゃない） (ei ole aikaa, puhumattakaan) 忙しくて、旅行**どころではない** (similar) vs. nyt ei ole aika
+??
+Vている場合じゃない (nyt ei ole aika) 寝ている**場合じゃない** (similar) vs. ei ole aikaa, puhumattakaan
+
+V辞書形／N＋どころではない（どころじゃない） (ei ole aikaa, puhumattakaan) 忙しくて、旅行**どころではない** (compare) vs. paikalla vaan painvastoin
+??
+～どころか (paikalla vaan painvastoin) 楽になる**どころか**、もっと忙しくなった (compare) vs. ei ole aikaa, puhumattakaan

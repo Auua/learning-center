@@ -70,7 +70,18 @@ Sekasortoinen, usein kiireinen tai tunteiden sekamelska.
 
 #flashcards/grammar/n2/vertailu
 
-N／V辞書形／Adj＋やら＋〜やら (muun muassa, mita kaikkea) (similar/compare) ::: ～とか～とか (epamuodollinen esimerkkilista) (similar/compare)
-N／V辞書形／Adj＋やら＋〜やら (muun muassa, mita kaikkea) (similar) ::: N1やN2 [など] (ja muun muassa, epätäydellinen lista) (similar)
-N／V辞書形／Adj＋やら＋〜やら (muun muassa, mita kaikkea) (similar/compare) ::: ～だの～だの (ja sita ja tata, valittaen) (similar/compare)
-N／V辞書形／Adj＋やら＋〜やら (muun muassa, mita kaikkea) (similar/compare) ::: ～わ～わで (sita ja tata, kaikki kasautui) (similar/compare)
+N／V辞書形／Adj＋やら＋〜やら (muun muassa, mita kaikkea) 宿題**やら**アルバイト**やら**で、忙しい (similar/compare) vs. epamuodollinen esimerkkilista
+??
+～とか～とか (epamuodollinen esimerkkilista) 肉**とか**魚**とか**を買った (similar/compare) vs. muun muassa, mita kaikkea
+
+N／V辞書形／Adj＋やら＋〜やら (muun muassa, mita kaikkea) 宿題**やら**アルバイト**やら**で、忙しい (similar) vs. ja muun muassa, epätäydellinen lista
+??
+N1やN2 [など] (ja muun muassa, epätäydellinen lista) 箱の中に手紙**や**写真があります (similar) vs. muun muassa, mita kaikkea
+
+N／V辞書形／Adj＋やら＋〜やら (muun muassa, mita kaikkea) 宿題**やら**アルバイト**やら**で、忙しい (similar/compare) vs. ja sita ja tata, valittaen
+??
+～だの～だの (ja sita ja tata, valittaen) 野菜は嫌い**だの**、魚は臭い**だの**、文句ばかりだ (similar/compare) vs. muun muassa, mita kaikkea
+
+N／V辞書形／Adj＋やら＋〜やら (muun muassa, mita kaikkea) 宿題**やら**アルバイト**やら**で、忙しい (similar/compare) vs. sita ja tata, kaikki kasautui
+??
+～わ～わで (sita ja tata, kaikki kasautui) 雨は降る**わ**、風は吹く**わで**、大変だった (similar/compare) vs. muun muassa, mita kaikkea

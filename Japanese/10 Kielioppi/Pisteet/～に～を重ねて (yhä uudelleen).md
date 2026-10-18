@@ -69,4 +69,6 @@ Jälkimmäinen juhlava, korostaa sitkeää ponnistelua.
 
 #flashcards/grammar/n1/vertailu
 
-N1に N1を重ねて (yhä uudelleen) (compare) ::: Vては～Vては (vuorotellen toistuvasti) (compare)
+N1に N1を重ねて (yhä uudelleen) 努力**に**努力**を重ねて**、成功した (compare) vs. vuorotellen toistuvasti
+??
+Vては～Vては (vuorotellen toistuvasti) 書い**ては**消し、書い**ては**消した (compare) vs. yhä uudelleen

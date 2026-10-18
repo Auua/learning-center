@@ -73,6 +73,14 @@ Mikä lause edeltää 疑問詞＋たらいいですか-kysymystä usein?
 
 #flashcards/grammar/n4/vertailu
 
-疑問詞＋Vたらいいですか (neuvon kysyminen) (similar) ::: ～たら (jos, kun) (similar)
-疑問詞＋Vたらいいですか (neuvon kysyminen) (compare) ::: Vばいい (riittaa kun, pitaisi) (compare)
-疑問詞＋Vたらいいですか (neuvon kysyminen) (similar/compare) ::: 疑問詞＋Vばいいですか (neuvon kysyminen ば) (similar/compare)
+疑問詞＋Vたらいいですか (neuvon kysyminen) どこでカメラを**買ったらいいですか** (similar) vs. jos, kun
+??
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. neuvon kysyminen
+
+疑問詞＋Vたらいいですか (neuvon kysyminen) どこでカメラを**買ったらいいですか** (compare) vs. riittaa kun, pitaisi
+??
+Vばいい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (compare) vs. neuvon kysyminen
+
+疑問詞＋Vたらいいですか (neuvon kysyminen) どこでカメラを**買ったらいいですか** (similar/compare) vs. neuvon kysyminen ば
+??
+疑問詞＋Vばいいですか (neuvon kysyminen ば) このボタンを押せ**ばいいです**よ (similar/compare) vs. neuvon kysyminen たら

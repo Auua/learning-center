@@ -71,7 +71,18 @@ Miten N に限らず eroaa rakenteesta N に限って?
 
 #flashcards/grammar/n2/vertailu
 
-N＋に限らず (ei ainoastaan, ei rajoitu) (similar) ::: ～だけでなく (ei pelkastaan vaan myos) (similar)
-N＋に限らず (ei ainoastaan, ei rajoitu) (similar/compare) ::: N・普通形に限って (juuri silloin, ikava sattuma) (similar/compare)
-N＋に限らず (ei ainoastaan, ei rajoitu) (similar/compare) ::: ～に限ったことではない (ei koske vain) (similar/compare)
-N＋に限らず (ei ainoastaan, ei rajoitu) (similar/compare) ::: ～にとどまらず (ei rajoitu vain) (similar/compare)
+N＋に限らず (ei ainoastaan, ei rajoitu) このキャラクターは、子ども**に限らず**大人にも人気がある (similar) vs. ei pelkastaan vaan myos
+??
+～だけでなく (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (similar) vs. ei ainoastaan, ei rajoitu
+
+N＋に限らず (ei ainoastaan, ei rajoitu) このキャラクターは、子ども**に限らず**大人にも人気がある (similar/compare) vs. juuri silloin, ikava sattuma
+??
+N・普通形に限って (juuri silloin, ikava sattuma) お金のない**ときに限って**、お金が必要になるんだよなあ (similar/compare) vs. ei ainoastaan, ei rajoitu
+
+N＋に限らず (ei ainoastaan, ei rajoitu) このキャラクターは、子ども**に限らず**大人にも人気がある (similar/compare) vs. ei koske vain
+??
+～に限ったことではない (ei koske vain) この問題は日本**に限ったことではない** (similar/compare) vs. ei ainoastaan, ei rajoitu
+
+N＋に限らず (ei ainoastaan, ei rajoitu) このキャラクターは、子ども**に限らず**大人にも人気がある (similar/compare) vs. ei rajoitu vain
+??
+～にとどまらず (ei rajoitu vain) 被害は東京**にとどまらず**、全国に広がった (similar/compare) vs. ei ainoastaan, ei rajoitu

@@ -105,7 +105,18 @@ Miten 普通形んです eroaa S1から、S2-syylauseesta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形んです (selittävä sävy) (similar) ::: S1から、S2 (syy) (similar)
-普通形んです (selittävä sävy) (similar/compare) ::: 普通形の？ (puhekielinen selittava kysymys) (similar/compare)
-普通形んです (selittävä sävy) (compare) ::: 普通形のでしょうか (kohtelias kysymys) (compare)
-普通形んです (selittävä sävy) (similar/compare) ::: ～んですが (johdanto pyyntöön tai kysymykseen) (similar/compare)
+普通形んです (selittävä sävy) 時間が**ないんです** (similar) vs. syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar) vs. selittävä sävy
+
+普通形んです (selittävä sävy) 時間が**ないんです** (similar/compare) vs. puhekielinen selittava kysymys
+??
+普通形の？ (puhekielinen selittava kysymys) 今年、「日本語能力試験」を**受けるの**？ (similar/compare) vs. selittävä sävy
+
+普通形んです (selittävä sävy) 時間が**ないんです** (compare) vs. kohtelias kysymys
+??
+普通形のでしょうか (kohtelias kysymys) この電車は東京へ行く**のでしょうか** (compare) vs. selittävä sävy
+
+普通形んです (selittävä sävy) 時間が**ないんです** (similar/compare) vs. johdanto pyyntöön tai kysymykseen
+??
+～んですが (johdanto pyyntöön tai kysymykseen) 市役所へ行きたい**んですが**、どう行ったらいいですか (similar/compare) vs. selittävä sävy

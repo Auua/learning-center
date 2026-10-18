@@ -76,4 +76,6 @@ Ei — soittimet (弾きます), piirtäminen (かきます) yms. vaativat oman 
 
 #flashcards/grammar/n5/vertailu
 
-Nをします (substantiivi + します) (similar/compare) ::: Nを V (objekti) (similar/compare)
+Nをします (substantiivi + します) サッカー**をします** (similar/compare) vs. objekti
+??
+Nを V (objekti) ジュース**を**飲みます (similar/compare) vs. substantiivi + します

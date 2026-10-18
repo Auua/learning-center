@@ -70,5 +70,10 @@ Kysymys hinnasta vs. myönnytys "vaikka kuinka paljon".
 
 #flashcards/grammar/n3/vertailu
 
-いくら＋Vても／Adjくても (vaikka kuinka paljon) (similar) ::: 疑問詞＋ても (mika tahansa, poikkeukseton) (similar)
-いくら＋Vても／Adjくても (vaikka kuinka paljon) (similar/compare) ::: どんなに～ても (kuinka paljon tahansa) (similar/compare)
+いくら＋Vても／Adjくても (vaikka kuinka paljon) **いくら**食べ**ても**太らない (similar) vs. mika tahansa, poikkeukseton
+??
+疑問詞＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar) vs. vaikka kuinka paljon
+
+いくら＋Vても／Adjくても (vaikka kuinka paljon) **いくら**食べ**ても**太らない (similar/compare) vs. kuinka paljon tahansa
+??
+どんなに～ても (kuinka paljon tahansa) **どんなに**頑張っ**ても**、勝てない (similar/compare) vs. vaikka kuinka paljon

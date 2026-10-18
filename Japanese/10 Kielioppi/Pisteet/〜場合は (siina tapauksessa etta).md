@@ -82,7 +82,18 @@ Se täydentää niitä muodollisena, usein kirjallisena vaihtoehtona samalle eht
 
 #flashcards/grammar/n4/vertailu
 
-普通形場合は／Nの場合は (siina tapauksessa etta) (similar) ::: ～ば (jos, ehto) (similar)
-普通形場合は／Nの場合は (siina tapauksessa etta) (similar) ::: ～たら (jos, kun) (similar)
-普通形場合は／Nの場合は (siina tapauksessa etta) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
-普通形場合は／Nの場合は (siina tapauksessa etta) (similar) ::: Vている場合じゃない (nyt ei ole aika) (similar)
+普通形場合は／Nの場合は (siina tapauksessa etta) 調子が**悪い場合は**、この番号に連絡してください (similar) vs. jos, ehto
+??
+～ば (jos, ehto) 時間があれば、手伝ってください (similar) vs. siina tapauksessa etta
+
+普通形場合は／Nの場合は (siina tapauksessa etta) 調子が**悪い場合は**、この番号に連絡してください (similar) vs. jos, kun
+??
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. siina tapauksessa etta
+
+普通形場合は／Nの場合は (siina tapauksessa etta) 調子が**悪い場合は**、この番号に連絡してください (compare) vs. vertailu: Ehtolauseet と・ば・たら・なら
+??
+Vertailu — Ehtolauseet と・ば・たら・なら 春に**なると**桜が咲く (compare) vs. siina tapauksessa etta
+
+普通形場合は／Nの場合は (siina tapauksessa etta) 調子が**悪い場合は**、この番号に連絡してください (similar) vs. nyt ei ole aika
+??
+Vている場合じゃない (nyt ei ole aika) 寝ている**場合じゃない** (similar) vs. siina tapauksessa etta

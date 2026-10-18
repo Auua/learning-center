@@ -68,5 +68,10 @@ Puhekielinen supistuma.
 
 #flashcards/grammar/n3/vertailu
 
-つまり、普通形＋（って）いうことだ (toisin sanoen) (similar) ::: 普通形ということを (raportoitu vaite objektina) (similar)
-つまり、普通形＋（って）いうことだ (toisin sanoen) (similar) ::: ～ということは (se tarkoittaa etta) (similar)
+つまり、普通形＋（って）いうことだ (toisin sanoen) **つまり**、1割は留学生**ということだ** (similar) vs. raportoitu vaite objektina
+??
+普通形ということを (raportoitu vaite objektina) この島に空港が造られる**ことについて**どう思いますか (similar) vs. toisin sanoen
+
+つまり、普通形＋（って）いうことだ (toisin sanoen) **つまり**、1割は留学生**ということだ** (similar) vs. se tarkoittaa etta
+??
+～ということは (se tarkoittaa etta) 返事がない**ということは**、来ない**ということだ** (similar) vs. toisin sanoen

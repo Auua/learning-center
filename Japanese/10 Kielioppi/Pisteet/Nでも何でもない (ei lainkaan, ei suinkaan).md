@@ -70,4 +70,6 @@ Jälkimmäinen on painokas torjunta.
 
 #flashcards/grammar/n1/vertailu
 
-Nでも何でもない／Adjくも何ともない (ei lainkaan, ei suinkaan) (compare) ::: 全く～ない (ei lainkaan) (compare)
+Nでも何でもない／Adjくも何ともない (ei lainkaan, ei suinkaan) 彼は友達**でも何でもない** (compare) vs. "ei lainkaan" adverbilla
+??
+全く～ない (ei lainkaan) その件については**全く**知り**ません** (compare) vs. "ei lainkaan, ei suinkaan" substantiivilla

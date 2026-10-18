@@ -70,5 +70,10 @@ Ylemmälle (esimiehelle) — kuulostaa holhoavalta.
 
 #flashcards/grammar/n2/vertailu
 
-V(辞書形)／Vない＋ことだ (kannattaa, neuvo) (compare) ::: Vたほうがいいです (kannattaisi tehda) (compare)
-V(辞書形)／Vない＋ことだ (kannattaa, neuvo) (compare) ::: Vべきだ (pitaisi tehda, velvollisuus) (compare)
+V(辞書形)／Vない＋ことだ (kannattaa, neuvo) 上手になりたければ、毎日練習する**ことだ** (compare) vs. kannattaisi tehda
+??
+Vたほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. kannattaa, neuvo
+
+V(辞書形)／Vない＋ことだ (kannattaa, neuvo) 上手になりたければ、毎日練習する**ことだ** (compare) vs. pitaisi tehda, velvollisuus
+??
+Vべきだ (pitaisi tehda, velvollisuus) 希望する人は全員保育所に入れるようにする**べきです** (compare) vs. kannattaa, neuvo

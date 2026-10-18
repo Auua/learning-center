@@ -69,4 +69,6 @@ Ensimmäinen = päätös; toinen = fiktio.
 
 #flashcards/grammar/n1/vertailu
 
-V(た-muoto)／Vなかった＋ことにする／ことになる (katsotaan tehdyksi) (similar/compare) ::: ことにする・ことにしている (oma paatos) (similar/compare)
+V(た-muoto)／Vなかった＋ことにする／ことになる (katsotaan tehdyksi) 今の話は聞かなかった**ことにします** (similar/compare) vs. oma paatos
+??
+ことにする・ことにしている (oma paatos) この仕事はあした**することにします** (similar/compare) vs. katsotaan tehdyksi

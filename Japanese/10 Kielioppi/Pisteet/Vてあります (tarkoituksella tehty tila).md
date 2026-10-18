@@ -95,6 +95,14 @@ Miten 他動詞Vてあります eroaa muodosta 自動詞＋ている?
 
 #flashcards/grammar/n4/vertailu
 
-他動詞Vて-form あります (tarkoituksella tehty tila) (similar/compare) ::: 自動詞＋ている (jaljelle jaanyt tila) (similar/compare)
-他動詞Vて-form あります (tarkoituksella tehty tila) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
-他動詞Vて-form あります (tarkoituksella tehty tila) (similar/compare) ::: 自動詞と他動詞 (transitiivisuusparit) (similar/compare)
+他動詞Vて-form あります (tarkoituksella tehty tila) 交番に町の地図が**はって**あります (similar/compare) vs. jaljelle jaanyt tila
+??
+自動詞＋ている (jaljelle jaanyt tila) 窓が閉まっています (similar/compare) vs. tarkoituksella tehty tila
+
+他動詞Vて-form あります (tarkoituksella tehty tila) 交番に町の地図が**はって**あります (similar) vs. parhaillaan, tilan tulos
+??
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar) vs. tarkoituksella tehty tila
+
+他動詞Vて-form あります (tarkoituksella tehty tila) 交番に町の地図が**はって**あります (similar/compare) vs. transitiivisuusparit
+??
+自動詞と他動詞 (transitiivisuusparit) ドア**が開く**／ドア**を開ける** (similar/compare) vs. tarkoituksella tehty tila

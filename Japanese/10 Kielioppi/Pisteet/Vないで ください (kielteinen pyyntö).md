@@ -77,7 +77,18 @@ Sama ない形+で, mutta ilman ください se liittää kaksi lausetta kuvaama
 
 #flashcards/grammar/n5/vertailu
 
-Vないでください (kielteinen pyyntö) (similar) ::: Vて ください (pyyntö) (similar)
-Vないでください (kielteinen pyyntö) (similar/compare) ::: Vて・Vないで (tapa, keino) (similar/compare)
-Vないでください (kielteinen pyyntö) (compare) ::: V辞書形な (jyrkka kielto) (compare)
-Vないでください (kielteinen pyyntö) (similar) ::: Vないで、V2 (sen sijaan että) (similar)
+Vないでください (kielteinen pyyntö) ここで写真を撮ら**ないでください** (similar) vs. myönteinen pyyntö
+??
+Vて ください (pyyntö) ここに名前を書い**てください** (similar) vs. kielteinen pyyntö "älä"
+
+Vないでください (kielteinen pyyntö) ここで写真を撮ら**ないでください** (similar/compare) vs. tapa, keino
+??
+Vて・Vないで (tapa, keino) 傘を**もって**、出かけます (similar/compare) vs. kielteinen pyyntö
+
+Vないでください (kielteinen pyyntö) ここで写真を撮ら**ないでください** (compare) vs. jyrkka kielto
+??
+V辞書形な (jyrkka kielto) ここに入る**な** (compare) vs. kielteinen pyyntö
+
+Vないでください (kielteinen pyyntö) ここで写真を撮ら**ないでください** (similar) vs. sen sijaan että
+??
+Vないで、V2 (sen sijaan että) バスに乗ら**ないで**、歩いて行きます (similar) vs. kielteinen pyyntö

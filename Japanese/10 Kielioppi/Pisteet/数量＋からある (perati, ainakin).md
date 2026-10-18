@@ -70,5 +70,10 @@ Molemmat korostavat suurta määrää; からある kirjallisempi.
 
 #flashcards/grammar/n1/vertailu
 
-数量＋からある／からする／からの (perati, ainakin) (similar/compare) ::: Maara＋も (jopa, perati) (similar/compare)
-数量＋からある／からする／からの (perati, ainakin) (similar) ::: Maara＋は (vahintaan) (similar)
+数量＋からある／からする／からの (perati, ainakin) 50キロ**からある**荷物 (similar/compare) vs. jopa, perati
+??
+Maara＋も (jopa, perati) 2時間**も**待ちました (similar/compare) vs. perati, ainakin
+
+数量＋からある／からする／からの (perati, ainakin) 50キロ**からある**荷物 (similar) vs. vahintaan
+??
+Maara＋は (vahintaan) 駅まで30分**は**かかる (similar) vs. perati, ainakin

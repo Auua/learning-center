@@ -70,6 +70,14 @@ Puhujan subjektiiviseen tunteeseen, ei selviin havaintoihin.
 
 #flashcards/grammar/n3/vertailu
 
-普通形（N の／な-adj な）＋ような気がする (tuntuu silta etta) (similar/compare) ::: Nがする (aistimus, haju, aani, maku) (similar/compare)
-普通形（N の／な-adj な）＋ような気がする (tuntuu silta etta) (compare) ::: 普通形ようです (havaintoon perustuva paattely) (compare)
-普通形（N の／な-adj な）＋ような気がする (tuntuu silta etta) (compare) ::: 普通形と思います (mielipide) (compare)
+普通形（N の／な-adj な）＋ような気がする (tuntuu silta etta) 誰かに見られている**ような気がする** (similar/compare) vs. aistimus, haju, aani, maku
+??
+Nがする (aistimus, haju, aani, maku) 外で変な**音がします** (similar/compare) vs. tuntuu silta etta
+
+普通形（N の／な-adj な）＋ような気がする (tuntuu silta etta) 誰かに見られている**ような気がする** (compare) vs. havaintoon perustuva paattely
+??
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (compare) vs. tuntuu silta etta
+
+普通形（N の／な-adj な）＋ような気がする (tuntuu silta etta) 誰かに見られている**ような気がする** (compare) vs. mielipide
+??
+普通形と思います (mielipide) あした雨が降る**と思います** (compare) vs. tuntuu silta etta

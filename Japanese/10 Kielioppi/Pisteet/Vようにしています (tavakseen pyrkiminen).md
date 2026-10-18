@@ -98,7 +98,18 @@ Miten ようにしている eroaa muodosta ことにしている?
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar) ::: Vように (jotta, niin etta) (similar)
-V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar) ::: Vようになります (kyvyn tai tilan muutos) (similar)
-V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar/compare) ::: ことにする・ことにしている (oma paatos) (similar/compare)
-V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) (similar/compare) ::: Vようにする・ようにしてください (huolehtia etta) (similar/compare)
+V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) 毎日**日記を書くようにしています** (similar) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar) vs. tavakseen pyrkiminen
+
+V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) 毎日**日記を書くようにしています** (similar) vs. kyvyn tai tilan muutos
+??
+Vようになります (kyvyn tai tilan muutos) やっと自転車に**乗れるようになりました** (similar) vs. tavakseen pyrkiminen
+
+V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) 毎日**日記を書くようにしています** (similar/compare) vs. oma paatos
+??
+ことにする・ことにしている (oma paatos) この仕事はあした**することにします** (similar/compare) vs. tavakseen pyrkiminen
+
+V(辞書形/ない形)ようにしています (tavakseen pyrkiminen) 毎日**日記を書くようにしています** (similar/compare) vs. huolehtia etta
+??
+Vようにする・ようにしてください (huolehtia etta) 明日からもっと早く起きる**ようにします** (similar/compare) vs. tavakseen pyrkiminen

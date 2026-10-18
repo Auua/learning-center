@@ -68,4 +68,6 @@ Jälkimmäinen kieltäytyy vastuusta.
 
 #flashcards/grammar/n1/vertailu
 
-V(て)＋も知らない（よ／から） (en vastaa, ole hyva) (compare) ::: Vていては (jos jatkuu nain) (compare)
+V(て)＋も知らない（よ／から） (en vastaa, ole hyva) 遅れ**ても知らないよ** (compare) vs. jos jatkuu nain
+??
+Vていては (jos jatkuu nain) そんなに遊んで**いては**、合格できない (compare) vs. en vastaa, ole hyva

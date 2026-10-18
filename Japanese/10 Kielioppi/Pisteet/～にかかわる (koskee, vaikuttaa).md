@@ -68,4 +68,6 @@ Mitkä substantiivit liittyvät tyypillisesti にかかわる:un?
 
 #flashcards/grammar/n2/vertailu
 
-N＋にかかわる (koskee, vaikuttaa) (similar/compare) ::: ～に関する・に関して (koskien) (similar/compare)
+N＋にかかわる (koskee, vaikuttaa) 命**にかかわる**病気 (similar/compare) vs. koskien
+??
+～に関する・に関して (koskien) 働きアリ**に関する**有名な研究がある (similar/compare) vs. koskee, vaikuttaa

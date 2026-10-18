@@ -77,5 +77,10 @@ Vところです käyttää ところ:a ajallisena vaiheen ilmaisimena; Vたと�
 
 #flashcards/grammar/n3/vertailu
 
-V(た形)ところに／で (juuri siina kohdassa) (similar/compare) ::: Vところです (kolme vaihetta) (similar/compare)
-V(た形)ところに／で (juuri siina kohdassa) (compare) ::: Vているところに・ところへ (juuri kun) (compare)
+V(た形)ところに／で (juuri siina kohdassa) ……あのコンビニの角を**曲がったところに**ありますよ (similar/compare) vs. kolme vaihetta
+??
+Vところです (kolme vaihetta) 会議は今から**始まるところです** (similar/compare) vs. juuri siina kohdassa
+
+V(た形)ところに／で (juuri siina kohdassa) ……あのコンビニの角を**曲がったところに**ありますよ (compare) vs. juuri kun
+??
+Vているところに・ところへ (juuri kun) 出かけようとしている**ところへ**、電話がかかってきた (compare) vs. juuri siina kohdassa

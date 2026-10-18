@@ -68,4 +68,6 @@ Sama verbi toistuu.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋べくして＋Vた (kuten pitikin) (compare) ::: ～も当然だ (on aivan luonnollista) (compare)
+V辞書形＋べくして＋Vた (kuten pitikin) 起こる**べくして**起こった事故 (compare) vs. on aivan luonnollista
+??
+～も当然だ (on aivan luonnollista) あんなに練習したのだから、勝つ**のも当然だ** (compare) vs. kuten pitikin

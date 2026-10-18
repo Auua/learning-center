@@ -71,6 +71,14 @@ Sama tehtävä; をもって virallinen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋をもって／をもちまして (avulla, alkaen, paattyen) (similar/compare) ::: ～をもって～とする (maaritellaan viralliseksi) (similar/compare)
-N＋をもって／をもちまして (avulla, alkaen, paattyen) (similar) ::: Nにて (-ssa, -lla, muodollinen) (similar)
-N＋をもって／をもちまして (avulla, alkaen, paattyen) (similar/compare) ::: ～を限りに (viimeisen kerran, lahtien) (similar/compare)
+N＋をもって／をもちまして (avulla, alkaen, paattyen) 書面**をもって**通知する (similar/compare) vs. maaritellaan viralliseksi
+??
+～をもって～とする (maaritellaan viralliseksi) それ**をもって**「客観的評価」**とされている** (similar/compare) vs. avulla, alkaen, paattyen
+
+N＋をもって／をもちまして (avulla, alkaen, paattyen) 書面**をもって**通知する (similar) vs. -ssa, -lla, muodollinen
+??
+Nにて (-ssa, -lla, muodollinen) 会場**にて**受付を行います (similar) vs. avulla, alkaen, paattyen
+
+N＋をもって／をもちまして (avulla, alkaen, paattyen) 書面**をもって**通知する (similar/compare) vs. viimeisen kerran, lahtien
+??
+～を限りに (viimeisen kerran, lahtien) 今日**を限りに**、たばこをやめる (similar/compare) vs. avulla, alkaen, paattyen

@@ -69,7 +69,18 @@ Mihin からすると on lähes vaihtokelpoinen?
 
 #flashcards/grammar/n2/vertailu
 
-N＋からすると／からすれば (jonkin perusteella) (similar/compare) ::: ～から見ると (jonkin perusteella, nakokulmasta) (similar/compare)
-N＋からすると／からすれば (jonkin perusteella) (similar) ::: ～から言うと (jonkin kannalta) (similar)
-N＋からすると／からすれば (jonkin perusteella) (similar/compare) ::: ～からして (jo pelkastaan, perusteella) (similar/compare)
-N＋からすると／からすれば (jonkin perusteella) (similar) ::: ～にしたら・にすれば (jonkun kannalta) (similar)
+N＋からすると／からすれば (jonkin perusteella) 親**からすると**、子どもの将来が心配だ (similar/compare) vs. "näkökulmasta katsottuna"
+??
+～から見ると (jonkin perusteella, nakokulmasta) 子ども**から見ると**、大人は自由に見える (similar/compare) vs. "jonkin perusteella"
+
+N＋からすると／からすれば (jonkin perusteella) 親**からすると**、子どもの将来が心配だ (similar) vs. jonkin kannalta
+??
+～から言うと (jonkin kannalta) 値段**から言うと**、こちらのほうがいい (similar) vs. jonkin perusteella
+
+N＋からすると／からすれば (jonkin perusteella) 親**からすると**、子どもの将来が心配だ (similar/compare) vs. jo pelkastaan, perusteella
+??
+～からして (jo pelkastaan, perusteella) あの店は入口**からして**汚い (similar/compare) vs. jonkin perusteella
+
+N＋からすると／からすれば (jonkin perusteella) 親**からすると**、子どもの将来が心配だ (similar) vs. jonkun kannalta
+??
+～にしたら・にすれば (jonkun kannalta) 親**にしたら**、子どもの将来は心配だ (similar) vs. jonkin perusteella

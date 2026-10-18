@@ -77,5 +77,10 @@ Partikkeli で + も = myös Tokiossa (ei "vaikkapa").
 
 #flashcards/grammar/n4/vertailu
 
-N＋で／に／へ／から＋も (にも・でも・へも) (similar/compare) ::: Nも (myos, sama patee) (similar/compare)
-N＋で／に／へ／から＋も (にも・でも・へも) (similar/compare) ::: N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) (similar/compare)
+N＋で／に／へ／から＋も (にも・でも・へも) 肉も魚**も**食べます (similar/compare) vs. myos, sama patee
+??
+Nも (myos, sama patee) 私**も**学生です (similar/compare) vs. にも・でも・へも
+
+N＋で／に／へ／から＋も (にも・でも・へも) 肉も魚**も**食べます (similar/compare) vs. kontrasti ja aihe, では・には・へは
+??
+N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) ひらがな**は**書けますが、漢字**は**書けません (similar/compare) vs. にも・でも・へも

@@ -76,6 +76,14 @@ Ei — mutta vastauksessa aikasanaan tulee に: 5日に帰ります.
 
 #flashcards/grammar/n5/vertailu
 
-いつ (milloin) (similar/compare) ::: N (aika) に (similar/compare)
-いつ (milloin) (similar) ::: 今何時ですか (kellonaika) (similar)
-いつ (milloin) (similar) ::: なん・なに (mikä, ääntämisero) (similar)
+いつ (milloin) **いつ**日本へ来ましたか (similar/compare) vs. aika
+??
+N (aika) に 6時**に**起きます (similar/compare) vs. milloin
+
+いつ (milloin) **いつ**日本へ来ましたか (similar) vs. kellonaika
+??
+今何時ですか (kellonaika) **今何時ですか** (similar) vs. milloin
+
+いつ (milloin) **いつ**日本へ来ましたか (similar) vs. mikä, ääntämisero
+??
+なん・なに (mikä, ääntämisero) それは**なん**ですか (similar) vs. milloin

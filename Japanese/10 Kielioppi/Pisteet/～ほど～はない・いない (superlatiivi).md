@@ -78,4 +78,6 @@ Miten ほど～はない／いない eroaa rakenteesta ほど～ない?
 
 #flashcards/grammar/n3/vertailu
 
-Nほど〜はない・いない (superlatiivi) (similar/compare) ::: ～ほど～ない・ほどではない (vertailu, ei niin) (similar/compare)
+Nほど〜はない・いない (superlatiivi) **富士山ほど**美しい山はありません (similar/compare) vs. vertailu, ei niin
+??
+～ほど～ない・ほどではない (vertailu, ei niin) 平日は**休日ほど**込んでいません (similar/compare) vs. superlatiivi

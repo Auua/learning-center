@@ -68,4 +68,6 @@ Tärkeisiin tuleviin: 試験, 結婚式, 選挙.
 
 #flashcards/grammar/n1/vertailu
 
-N＋を控えて／を控え (lahestyessa) (similar/compare) ::: ～に先立ち (ennen, etukateen) (similar/compare)
+N＋を控えて／を控え (lahestyessa) 試験**を控えて**、毎日勉強している (similar/compare) vs. ennen, etukateen
+??
+～に先立ち (ennen, etukateen) 開会**に先立ち**、市長が挨拶した (similar/compare) vs. lahestyessa

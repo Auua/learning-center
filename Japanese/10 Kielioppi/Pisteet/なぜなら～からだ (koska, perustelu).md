@@ -70,5 +70,10 @@ Millä なぜなら-lause yleensä päättyy?
 
 #flashcards/grammar/n3/vertailu
 
-なぜなら（ば）、普通形＋からだ (koska, perustelu) (similar) ::: ～のは～からだ (syy predikaattina) (similar)
-なぜなら（ば）、普通形＋からだ (koska, perustelu) (compare) ::: S1から、S2 (syy) (compare)
+なぜなら（ば）、普通形＋からだ (koska, perustelu) **なぜなら**、危険だ**からだ** (similar) vs. syy predikaattina
+??
+～のは～からだ (syy predikaattina) 仕事を辞めた**のはなぜですか** (similar) vs. koska, perustelu
+
+なぜなら（ば）、普通形＋からだ (koska, perustelu) **なぜなら**、危険だ**からだ** (compare) vs. syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (compare) vs. koska, perustelu

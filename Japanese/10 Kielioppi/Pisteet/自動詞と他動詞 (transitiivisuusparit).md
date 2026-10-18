@@ -88,5 +88,10 @@ Miksi japanilainen sanoo mieluummin 皿が割れた kuin 皿を割った?
 
 #flashcards/grammar/n4/vertailu
 
-自動詞（Nが V）・他動詞（Nを V） (transitiivisuusparit) (similar) ::: 自動詞＋ている (jaljelle jaanyt tila) (similar)
-自動詞（Nが V）・他動詞（Nを V） (transitiivisuusparit) (similar/compare) ::: Vてあります (tarkoituksella tehty tila) (similar/compare)
+自動詞（Nが V）・他動詞（Nを V） (transitiivisuusparit) ドア**が開く**／ドア**を開ける** (similar) vs. jaljelle jaanyt tila
+??
+自動詞＋ている (jaljelle jaanyt tila) 窓が閉まっています (similar) vs. transitiivisuusparit
+
+自動詞（Nが V）・他動詞（Nを V） (transitiivisuusparit) ドア**が開く**／ドア**を開ける** (similar/compare) vs. tarkoituksella tehty tila
+??
+Vてあります (tarkoituksella tehty tila) 交番に町の地図が**はって**あります (similar/compare) vs. transitiivisuusparit

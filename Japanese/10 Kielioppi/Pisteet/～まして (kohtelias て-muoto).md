@@ -75,5 +75,10 @@ Kohtelias て-muoto vs. "saati, puhumattakaan".
 
 #flashcards/grammar/n3/vertailu
 
-V（ます形）＋まして (kohtelias て-muoto) (similar/compare) ::: Vて (tunnereaktion syy) (similar/compare)
-V（ます形）＋まして (kohtelias て-muoto) (similar) ::: 丁寧語 (ございます・でございます・よろしいでしょうか) (similar)
+V（ます形）＋まして (kohtelias て-muoto) あいにく満席**でございまして**… (similar/compare) vs. tunnereaktion syy
+??
+Vて (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar/compare) vs. kohtelias て-muoto
+
+V（ます形）＋まして (kohtelias て-muoto) あいにく満席**でございまして**… (similar) vs. ございます・でございます・よろしいでしょうか
+??
+丁寧語 (ございます・でございます・よろしいでしょうか) 電話は階段の横に**ございます** (similar) vs. kohtelias て-muoto

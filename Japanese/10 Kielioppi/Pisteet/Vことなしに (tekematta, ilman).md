@@ -68,5 +68,10 @@ Kielteinen (ei voi).
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋ことなしに（は） (tekematta, ilman) (similar/compare) ::: ～ことなく (tekematta) (similar/compare)
-V辞書形＋ことなしに（は） (tekematta, ilman) (similar) ::: ～なくしては (ilman jotakin ei) (similar)
+V辞書形＋ことなしに（は） (tekematta, ilman) 努力する**ことなしに**、成功はない (similar/compare) vs. "tekemättä" yleisempi kirjallinen sivulause
+??
+～ことなく (tekematta) 彼は休む**ことなく**働き続けた (similar/compare) vs. "ilman (ei onnistu)"
+
+V辞書形＋ことなしに（は） (tekematta, ilman) 努力する**ことなしに**、成功はない (similar) vs. ilman jotakin ei
+??
+～なくしては (ilman jotakin ei) 皆様の協力**なくしては**、成功しなかった (similar) vs. tekematta, ilman

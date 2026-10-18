@@ -68,5 +68,10 @@ Muuttunut jatkuva tila.
 
 #flashcards/grammar/n1/vertailu
 
-V(て)＋からというもの (siita lahtien kun) (similar/compare) ::: Vて以来 (siita lahtien kun) (similar/compare)
-V(て)＋からというもの (siita lahtien kun) (similar/compare) ::: 期間＋というもの (koko sen ajan) (similar/compare)
+V(て)＋からというもの (siita lahtien kun) 子どもが生まれ**てからというもの**、早く帰るようになった (similar/compare) vs. "siitä lähtien" neutraali
+??
+Vて以来 (siita lahtien kun) スキーで骨折して**以来**、寒くなると足が痛むようになった (similar/compare) vs. "siitä lähtien" (muutos)
+
+V(て)＋からというもの (siita lahtien kun) 子どもが生まれ**てからというもの**、早く帰るようになった (similar/compare) vs. koko sen ajan
+??
+期間＋というもの (koko sen ajan) この1週間**というもの**、ほとんど寝ていない (similar/compare) vs. siita lahtien kun

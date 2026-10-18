@@ -69,4 +69,6 @@ Paikkaa, aikaa ja prosessia.
 
 #flashcards/grammar/n1/vertailu
 
-N＋を経て (kautta, jalkeen) (similar/compare) ::: ～を通して (jonkin kautta) (similar/compare)
+N＋を経て (kautta, jalkeen) 香港**を経て**、東京に着いた (similar/compare) vs. jonkin kautta
+??
+～を通して (jonkin kautta) 茶道**を通して**、行儀作法だけでなく、和の心を学んだ (similar/compare) vs. kautta, jalkeen

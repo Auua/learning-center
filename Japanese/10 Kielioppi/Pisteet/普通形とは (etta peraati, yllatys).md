@@ -70,5 +70,10 @@ Määritelmä: AとはBのことだ; yllätys: 〜とは！
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋とは（驚いた／思わなかった） (etta peraati, yllatys) (similar) ::: ～なんか・～なんて (vahatteleva, yllattynyt korostus) (similar)
-普通形＋とは（驚いた／思わなかった） (etta peraati, yllatys) (compare) ::: ～とは (maaritelma, tarkoittaa) (compare)
+普通形＋とは（驚いた／思わなかった） (etta peraati, yllatys) 彼が優勝する**とは**、思わなかった (similar) vs. vahatteleva, yllattynyt korostus
+??
+～なんか・～なんて (vahatteleva, yllattynyt korostus) え？わたし**なんか**だめですよ (similar) vs. etta peraati, yllatys
+
+普通形＋とは（驚いた／思わなかった） (etta peraati, yllatys) 彼が優勝する**とは**、思わなかった (compare) vs. maaritelma, tarkoittaa
+??
+～とは (maaritelma, tarkoittaa) 海外で日本のテレビアニメが受けるわけ**とは**何だろうか (compare) vs. etta peraati, yllatys

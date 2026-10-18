@@ -62,12 +62,38 @@ Konkreettisia, kertaluontoisia hetkiä; ei sovi jatkuviin tai toistuviin tiloihi
 
 #flashcards/grammar/n2/vertailu
 
-V(た形)＋とたん（に） (juuri sina hetkena) (similar) ::: Vたところで (vaikka tekisikin) (similar)
-V(た形)＋とたん（に） (juuri sina hetkena) (compare) ::: Vが早いか (heti kun, samassa) (compare)
-V(た形)＋とたん（に） (juuri sina hetkena) (compare) ::: V辞書形なり (heti kun) (compare)
-V(た形)＋とたん（に） (juuri sina hetkena) (similar/compare) ::: Vそばから (heti kun, ja taas) (similar/compare)
-V(た形)＋とたん（に） (juuri sina hetkena) (similar/compare) ::: Vた弾みに・Vた拍子に (sattumalta samalla hetkella) (similar/compare)
-V(た形)＋とたん（に） (juuri sina hetkena) (compare) ::: や否や (heti kun, samalla hetkella) (compare)
-V(た形)＋とたん（に） (juuri sina hetkena) (similar/compare) ::: Vたかと思ったら (heti kun, samassa) (similar/compare)
-V(た形)＋とたん（に） (juuri sina hetkena) (compare) ::: か～ないかのうちに (heti kun, tuskin) (compare)
-V(た形)＋とたん（に） (juuri sina hetkena) (similar) ::: V次第 (heti kun) (similar)
+V(た形)＋とたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (similar) vs. vaikka tekisikin
+??
+Vたところで (vaikka tekisikin) いくら状況を説明した**ところで**、警察は信じないだろう (similar) vs. juuri sina hetkena
+
+V(た形)＋とたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (compare) vs. "heti kun" kirjallinen samanaikaisuus
+??
+Vが早いか (heti kun, samassa) ベルが鳴る**が早いか**、生徒は飛び出した (compare) vs. juuri sina hetkena
+
+V(た形)＋とたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (compare) vs. "heti kun" kirjallinen (henkilö)
+??
+V辞書形なり (heti kun) 彼は家に帰る**なり**、寝てしまった (compare) vs. juuri sina hetkena
+
+V(た形)＋とたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (similar/compare) vs. heti kun, ja taas
+??
+Vそばから (heti kun, ja taas) 覚える**そばから**忘れてしまう (similar/compare) vs. juuri sina hetkena
+
+V(た形)＋とたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (similar/compare) vs. sattumalta samalla hetkella
+??
+Vた弾みに・Vた拍子に (sattumalta samalla hetkella) 転んだ**拍子に**、眼鏡が落ちた (similar/compare) vs. juuri sina hetkena
+
+V(た形)＋とたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (compare) vs. heti kun, samalla hetkella
+??
+や否や (heti kun, samalla hetkella) ドアが開く**や否や**、子どもたちが飛び出した (compare) vs. juuri sina hetkena
+
+V(た形)＋とたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (similar/compare) vs. "heti kun… samassa" (muutos)
+??
+Vたかと思ったら (heti kun, samassa) 雨が降り出した**かと思ったら**、すぐやんだ (similar/compare) vs. juuri sina hetkena
+
+V(た形)＋とたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (compare) vs. heti kun, tuskin
+??
+か～ないかのうちに (heti kun, tuskin) 座った**か**座ら**ないかのうちに**、電車が動き出した (compare) vs. juuri sina hetkena
+
+V(た形)＋とたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (similar) vs. "heti kun" muodollinen tuleva
+??
+V次第 (heti kun) 結果がわかり**次第**、お知らせします (similar) vs. juuri sina hetkena

@@ -70,5 +70,10 @@ N にします = valinta; adj + にします = muuttaa joksikin.
 
 #flashcards/grammar/n5/vertailu
 
-Nにします (valinta, paatos) (compare) ::: ～くします・～にします (tahallinen muutos) (compare)
-Nにします (valinta, paatos) (compare) ::: ことにする・ことにしている (oma paatos) (compare)
+Nにします (valinta, paatos) 私はコーヒー**にします** (compare) vs. tahallinen muutos
+??
+～くします・～にします (tahallinen muutos) 音を**大きくします** (compare) vs. valinta, paatos
+
+Nにします (valinta, paatos) 私はコーヒー**にします** (compare) vs. oma paatos
+??
+ことにする・ことにしている (oma paatos) この仕事はあした**することにします** (compare) vs. valinta, paatos

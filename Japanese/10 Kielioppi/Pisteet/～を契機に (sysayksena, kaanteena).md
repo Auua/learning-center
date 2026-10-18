@@ -68,5 +68,10 @@ Sama merkitys; 契機 on muodollinen.
 
 #flashcards/grammar/n2/vertailu
 
-N＋を契機に（して）／を契機として (sysayksena, kaanteena) (similar/compare) ::: ～がきっかけで・をきっかけに (sysayksena) (similar/compare)
-N＋を契機に（して）／を契機として (sysayksena, kaanteena) (similar/compare) ::: ～を機に (tilaisuutena, kaanteena) (similar/compare)
+N＋を契機に（して）／を契機として (sysayksena, kaanteena) 入院**を契機に**、たばこをやめた (similar/compare) vs. arkinen "sysäyksenä"
+??
+～がきっかけで・をきっかけに (sysayksena) 留学**がきっかけで**、料理を始めた (similar/compare) vs. kirjallinen "sysäyksenä, käänteenä"
+
+N＋を契機に（して）／を契機として (sysayksena, kaanteena) 入院**を契機に**、たばこをやめた (similar/compare) vs. tilaisuutena, kaanteena
+??
+～を機に (tilaisuutena, kaanteena) 退職**を機に**、田舎に引っ越した (similar/compare) vs. sysayksena, kaanteena

@@ -108,8 +108,22 @@ Kuulopuhe-そうです liittyy koko 普通形-lauseeseen ja välittää ulkopuol
 
 #flashcards/grammar/n5/vertailu
 
-そうです／そうじゃありません (niin on) (similar/compare) ::: V・adjそうです (ulkonaon perusteella) (similar/compare)
-そうです／そうじゃありません (niin on) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
-そうです／そうじゃありません (niin on) (similar) ::: Nじゃありません (kielteinen kopula) (similar)
-そうです／そうじゃありません (niin on) (similar/compare) ::: そうですか (ahaa, uuden tiedon kuittaus) (similar/compare)
-そうです／そうじゃありません (niin on) (similar) ::: そうですね (myötäily, samaa mieltä) (similar)
+そうです／そうじゃありません (niin on) これはテレホンカードですか (similar/compare) vs. ulkonaon perusteella
+??
+V・adjそうです (ulkonaon perusteella) 今にも雨が**降りそうです** (similar/compare) vs. niin on
+
+そうです／そうじゃありません (niin on) これはテレホンカードですか (similar/compare) vs. kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. niin on
+
+そうです／そうじゃありません (niin on) これはテレホンカードですか (similar) vs. kielteinen kopula
+??
+Nじゃありません (kielteinen kopula) わたしは先生**じゃありません** (similar) vs. niin on
+
+そうです／そうじゃありません (niin on) これはテレホンカードですか (similar/compare) vs. ahaa, uuden tiedon kuittaus
+??
+そうですか (ahaa, uuden tiedon kuittaus) A：日本人です。B：**そうですか** (similar/compare) vs. niin on
+
+そうです／そうじゃありません (niin on) これはテレホンカードですか (similar) vs. myötäily, samaa mieltä
+??
+そうですね (myötäily, samaa mieltä) A：暑いですね。B：**そうですね** (similar) vs. niin on

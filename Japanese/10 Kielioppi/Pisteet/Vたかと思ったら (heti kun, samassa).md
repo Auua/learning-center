@@ -69,6 +69,14 @@ Molemmat "heti kun"; かと思ったら korostaa puhujan yllättynyttä havainto
 
 #flashcards/grammar/n2/vertailu
 
-V(た-muoto)＋かと思ったら／かと思うと (heti kun, samassa) (similar/compare) ::: Vたとたん（に） (juuri sina hetkena) (similar/compare)
-V(た-muoto)＋かと思ったら／かと思うと (heti kun, samassa) (similar/compare) ::: か～ないかのうちに (heti kun, tuskin) (similar/compare)
-V(た-muoto)＋かと思ったら／かと思うと (heti kun, samassa) (compare) ::: ～かと思いきや (luuli etta, mutta toisin) (compare)
+V(た-muoto)＋かと思ったら／かと思うと (heti kun, samassa) 雨が降り出した**かと思ったら**、すぐやんだ (similar/compare) vs. juuri sina hetkena
+??
+Vたとたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (similar/compare) vs. "heti kun… samassa" (muutos)
+
+V(た-muoto)＋かと思ったら／かと思うと (heti kun, samassa) 雨が降り出した**かと思ったら**、すぐやんだ (similar/compare) vs. heti kun, tuskin
+??
+か～ないかのうちに (heti kun, tuskin) 座った**か**座ら**ないかのうちに**、電車が動き出した (similar/compare) vs. "heti kun… samassa"
+
+V(た-muoto)＋かと思ったら／かと思うと (heti kun, samassa) 雨が降り出した**かと思ったら**、すぐやんだ (compare) vs. luuli etta, mutta toisin
+??
+～かと思いきや (luuli etta, mutta toisin) 簡単**かと思いきや**、とても難しかった (compare) vs. heti kun, samassa

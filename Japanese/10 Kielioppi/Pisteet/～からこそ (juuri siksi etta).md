@@ -69,6 +69,14 @@ Ei — vain からこそ.
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋からこそ (juuri siksi etta) (similar) ::: Nこそ (juuri se, nimenomaan) (similar)
-普通形＋からこそ (juuri siksi etta) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
-普通形＋からこそ (juuri siksi etta) (similar/compare) ::: ～ばこそ (juuri siksi etta, kirjallinen) (similar/compare)
+普通形＋からこそ (juuri siksi etta) 好きだ**からこそ**、厳しく言うんだ (similar) vs. juuri se, nimenomaan
+??
+Nこそ (juuri se, nimenomaan) **あなたこそ**、あの本の山はいったい何なの! (similar) vs. juuri siksi etta
+
+普通形＋からこそ (juuri siksi etta) 好きだ**からこそ**、厳しく言うんだ (similar/compare) vs. syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar/compare) vs. juuri siksi etta
+
+普通形＋からこそ (juuri siksi etta) 好きだ**からこそ**、厳しく言うんだ (similar/compare) vs. kirjallinen "juuri siksi" ば-muodolla
+??
+～ばこそ (juuri siksi etta, kirjallinen) 君を思え**ばこそ**、厳しく言うのだ (similar/compare) vs. arkinen "juuri siksi että"

@@ -81,7 +81,18 @@ Kyllä: ところ voi tarkoittaa myös paikkaa (曲がったところに, 'juuri
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形/ている/た形)ところです (kolme vaihetta) (similar/compare) ::: Vたばかりです (juuri askettain) (similar/compare)
-V(辞書形/ている/た形)ところです (kolme vaihetta) (similar/compare) ::: Vたところに・で (juuri siina kohdassa) (similar/compare)
-V(辞書形/ている/た形)ところです (kolme vaihetta) (compare) ::: ～最中に (keskella, parhaillaan) (compare)
-V(辞書形/ている/た形)ところです (kolme vaihetta) (similar) ::: Vているところに・ところへ (juuri kun) (similar)
+V(辞書形/ている/た形)ところです (kolme vaihetta) 会議は今から**始まるところです** (similar/compare) vs. juuri askettain
+??
+Vたばかりです (juuri askettain) 彼は3月に大学を**卒業したばかりです** (similar/compare) vs. kolme vaihetta
+
+V(辞書形/ている/た形)ところです (kolme vaihetta) 会議は今から**始まるところです** (similar/compare) vs. juuri siina kohdassa
+??
+Vたところに・で (juuri siina kohdassa) ……あのコンビニの角を**曲がったところに**ありますよ (similar/compare) vs. kolme vaihetta
+
+V(辞書形/ている/た形)ところです (kolme vaihetta) 会議は今から**始まるところです** (compare) vs. keskella, parhaillaan
+??
+～最中に (keskella, parhaillaan) 食事をしている**最中に**、電話が鳴った (compare) vs. kolme vaihetta
+
+V(辞書形/ている/た形)ところです (kolme vaihetta) 会議は今から**始まるところです** (similar) vs. juuri kun
+??
+Vているところに・ところへ (juuri kun) 出かけようとしている**ところへ**、電話がかかってきた (similar) vs. kolme vaihetta

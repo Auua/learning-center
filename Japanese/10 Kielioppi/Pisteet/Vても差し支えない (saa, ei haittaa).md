@@ -70,5 +70,10 @@ Sama; 差し支えない muodollisempi.
 
 #flashcards/grammar/n1/vertailu
 
-V(て)＋も差し支えない (saa, ei haittaa) (similar/compare) ::: ～てもかまいません (saa tehdä, ei haittaa) (similar/compare)
-V(て)＋も差し支えない (saa, ei haittaa) (similar) ::: Vても いいです・Vては いけません (lupa ja kielto) (similar)
+V(て)＋も差し支えない (saa, ei haittaa) 鉛筆で書い**ても差し支えありません** (similar/compare) vs. "saa, ei haittaa" arkisempi
+??
+～てもかまいません (saa tehdä, ei haittaa) 教室を**出てもかまいません** (similar/compare) vs. muodollinen "saa"
+
+V(て)＋も差し支えない (saa, ei haittaa) 鉛筆で書い**ても差し支えありません** (similar) vs. lupa ja kielto
+??
+Vても いいです・Vては いけません (lupa ja kielto) 写真を撮っ**てもいいです** (similar) vs. saa, ei haittaa

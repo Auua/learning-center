@@ -71,7 +71,18 @@ Paikka: 曲がったところにある; aika: 着いたところに友達が来�
 
 #flashcards/grammar/n2/vertailu
 
-Vている／Vた＋ところに／ところへ／ところを (juuri kun) (similar) ::: Vところです (kolme vaihetta) (similar)
-Vている／Vた＋ところに／ところへ／ところを (juuri kun) (similar) ::: ～最中に (keskella, parhaillaan) (similar)
-Vている／Vた＋ところに／ところへ／ところを (juuri kun) (similar/compare) ::: ～ところを (vaikka, kesken) (similar/compare)
-Vている／Vた＋ところに／ところへ／ところを (juuri kun) (compare) ::: Vたところに・で (juuri siina kohdassa) (compare)
+Vている／Vた＋ところに／ところへ／ところを (juuri kun) 出かけようとしている**ところへ**、電話がかかってきた (similar) vs. kolme vaihetta
+??
+Vところです (kolme vaihetta) 会議は今から**始まるところです** (similar) vs. juuri kun
+
+Vている／Vた＋ところに／ところへ／ところを (juuri kun) 出かけようとしている**ところへ**、電話がかかってきた (similar) vs. keskella, parhaillaan
+??
+～最中に (keskella, parhaillaan) 食事をしている**最中に**、電話が鳴った (similar) vs. juuri kun
+
+Vている／Vた＋ところに／ところへ／ところを (juuri kun) 出かけようとしている**ところへ**、電話がかかってきた (similar/compare) vs. vaikka, kesken
+??
+～ところを (vaikka, kesken) お忙しい**ところを**、ありがとうございました (similar/compare) vs. juuri kun
+
+Vている／Vた＋ところに／ところへ／ところを (juuri kun) 出かけようとしている**ところへ**、電話がかかってきた (compare) vs. juuri siina kohdassa
+??
+Vたところに・で (juuri siina kohdassa) ……あのコンビニの角を**曲がったところに**ありますよ (compare) vs. juuri kun

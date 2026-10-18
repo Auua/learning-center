@@ -77,6 +77,14 @@ Miksi どちら kuulostaa kohteliaammalta kuin どこ?
 
 #flashcards/grammar/n5/vertailu
 
-Nはどこですか／どちらですか (missä) (similar) ::: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) (similar)
-Nはどこですか／どちらですか (missä) (similar/compare) ::: N1はN2（場所）です (sijainti) (similar/compare)
-Nはどこですか／どちらですか (missä) (similar/compare) ::: お国はどちらですか (mistä maasta) (similar/compare)
+Nはどこですか／どちらですか (missä) トイレは**どこですか** (similar) vs. paikat ja suunnat
+??
+ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) ここは食堂です (similar) vs. missä
+
+Nはどこですか／どちらですか (missä) トイレは**どこですか** (similar/compare) vs. sijainti
+??
+N1はN2（場所）です (sijainti) 食堂は**あそこです** (similar/compare) vs. missä
+
+Nはどこですか／どちらですか (missä) トイレは**どこですか** (similar/compare) vs. mistä maasta
+??
+お国はどちらですか (mistä maasta) **お国はどちらですか** (similar/compare) vs. missä

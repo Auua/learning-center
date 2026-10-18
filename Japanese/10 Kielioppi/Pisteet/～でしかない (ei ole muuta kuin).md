@@ -69,6 +69,14 @@ Vähättelevä, usein kriittinen.
 
 #flashcards/grammar/n2/vertailu
 
-N＋でしかない (ei ole muuta kuin) (similar/compare) ::: ～に過ぎない (vain, ei muuta kuin) (similar/compare)
-N＋でしかない (ei ole muuta kuin) (similar/compare) ::: ～うちに入らない (ei lasketa, ei oikein ole) (similar/compare)
-N＋でしかない (ei ole muuta kuin) (compare) ::: 普通形にほかならない (ei ole muuta kuin) (compare)
+N＋でしかない (ei ole muuta kuin) それは言い訳**でしかない** (similar/compare) vs. vain, ei muuta kuin
+??
+～に過ぎない (vain, ei muuta kuin) それは噂**に過ぎない** (similar/compare) vs. "ei ole muuta kuin" substantiivilla
+
+N＋でしかない (ei ole muuta kuin) それは言い訳**でしかない** (similar/compare) vs. ei lasketa, ei oikein ole
+??
+～うちに入らない (ei lasketa, ei oikein ole) これくらいは運動**のうちに入らない** (similar/compare) vs. ei ole muuta kuin
+
+N＋でしかない (ei ole muuta kuin) それは言い訳**でしかない** (compare) vs. "ei ole muuta kuin" (korostus)
+??
+普通形にほかならない (ei ole muuta kuin) 子どもの反抗は、大人になるための第一歩**にほかならない** (compare) vs. "ei ole muuta kuin"

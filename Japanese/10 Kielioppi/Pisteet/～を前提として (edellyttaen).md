@@ -68,4 +68,6 @@ Seurustella avioliittoa ajatellen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋を前提として／を前提に (edellyttaen) (similar/compare) ::: ～ものとして (olettaen etta) (similar/compare)
+N＋を前提として／を前提に (edellyttaen) 結婚**を前提として**、付き合っている (similar/compare) vs. olettaen etta
+??
+～ものとして (olettaen etta) 全員出席する**ものとして**、準備を進める (similar/compare) vs. edellyttaen

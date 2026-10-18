@@ -70,4 +70,6 @@ Kursailla, pitää jännityksessä.
 
 #flashcards/grammar/n1/vertailu
 
-N／Adj-vartalo＋ぶる／ぶった (olla olevinaan) (similar/compare) ::: ～ふりをする (teeskennella) (similar/compare)
+N／Adj-vartalo＋ぶる／ぶった (olla olevinaan) 学者**ぶった**話し方 (similar/compare) vs. teeskennella
+??
+～ふりをする (teeskennella) 聞こえない**ふりをした** (similar/compare) vs. olla olevinaan

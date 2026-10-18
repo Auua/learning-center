@@ -71,8 +71,22 @@ Lähes samat; は別として rajaa X:n selvemmin ulos.
 
 #flashcards/grammar/n3/vertailu
 
-N／疑問詞〜か＋は別として (lukuun ottamatta) (similar/compare) ::: ～はともかく (jatetaan sikseen) (similar/compare)
-N／疑問詞〜か＋は別として (lukuun ottamatta) (similar) ::: Nはどうであれ (oli N mika tahansa) (similar)
-N／疑問詞〜か＋は別として (lukuun ottamatta) (similar) ::: ～はさておき (jatetaan sikseen) (similar)
-N／疑問詞〜か＋は別として (lukuun ottamatta) (similar/compare) ::: ～を除いて (lukuun ottamatta) (similar/compare)
-N／疑問詞〜か＋は別として (lukuun ottamatta) (compare) ::: ～抜きにして・抜きで (ilman, jattaen pois) (compare)
+N／疑問詞〜か＋は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (similar/compare) vs. "jätetään sikseen"
+??
+～はともかく (jatetaan sikseen) あのレストランは値段**はともかく**、味はいい (similar/compare) vs. lukuun ottamatta
+
+N／疑問詞〜か＋は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (similar) vs. oli N mika tahansa
+??
+Nはどうであれ (oli N mika tahansa) 結果**はどうであれ**、最後まで頑張ろう (similar) vs. lukuun ottamatta
+
+N／疑問詞〜か＋は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (similar) vs. kirjallinen "jätetään sikseen"
+??
+～はさておき (jatetaan sikseen) 冗談**はさておき**、本題に入ろう (similar) vs. lukuun ottamatta
+
+N／疑問詞〜か＋は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (similar/compare) vs. "lukuun ottamatta" (poisto)
+??
+～を除いて (lukuun ottamatta) 日曜日**を除いて**、毎日営業しています (similar/compare) vs. "lukuun ottamatta" (jätetään sivuun)
+
+N／疑問詞〜か＋は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (compare) vs. ilman, jattaen pois
+??
+～抜きにして・抜きで (ilman, jattaen pois) 朝ご飯**抜きで**会社に行った (compare) vs. lukuun ottamatta

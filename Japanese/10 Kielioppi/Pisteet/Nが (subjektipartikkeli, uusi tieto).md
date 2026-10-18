@@ -81,8 +81,22 @@ Mikä partikkeli merkitsee sivulauseen subjektin?
 
 #flashcards/grammar/n5/vertailu
 
-Nが (subjektipartikkeli, uusi tieto) (similar) ::: N1はN2がadjective (aihe-ominaisuus) (similar)
-Nが (subjektipartikkeli, uusi tieto) (compare) ::: N（objekti）は (aiheeksi nostaminen) (compare)
-Nが (subjektipartikkeli, uusi tieto) (compare) ::: AはBです (A on B, peruslause) (compare)
-Nが (subjektipartikkeli, uusi tieto) (compare) ::: Nは～が、Nは～ (kontrastin は) (compare)
-Nが (subjektipartikkeli, uusi tieto) (similar) ::: ありました (löytämisen ta) (similar)
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (similar) vs. aihe-ominaisuus
+??
+N1はN2がadjective (aihe-ominaisuus) 大阪**は**食べ物**が**おいしいです (similar) vs. subjektipartikkeli, uusi tieto
+
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (compare) vs. aiheeksi nostaminen
+??
+N（objekti）は (aiheeksi nostaminen) 荷物はここに置かないでください (compare) vs. subjektipartikkeli, uusi tieto
+
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (compare) vs. A on B, peruslause
+??
+AはBです (A on B, peruslause) わたし**は**学生**です** (compare) vs. subjektipartikkeli, uusi tieto
+
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (compare) vs. kontrastin は
+??
+Nは～が、Nは～ (kontrastin は) 肉**は**食べます**が**、魚**は**食べません (compare) vs. subjektipartikkeli, uusi tieto
+
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (similar) vs. löytämisen ta
+??
+ありました (löytämisen ta) あ、かぎ**がありました**よ (similar) vs. subjektipartikkeli, uusi tieto

@@ -68,4 +68,6 @@ Millainen jälkiosa くらいなら-lauseessa on?
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋くらいなら（ぐらいなら） (mieluummin kuin) (similar/compare) ::: ほうがましだ (mieluummin, parempi kuin) (similar/compare)
+V辞書形＋くらいなら（ぐらいなら） (mieluummin kuin) 謝る**くらいなら**、死んだ**ほうがましだ** (similar/compare) vs. "parempi kuin" (huono vaihtoehto)
+??
+ほうがましだ (mieluummin, parempi kuin) 彼に頼むくらいなら、一人でやる**ほうがましだ** (similar/compare) vs. "mieluummin kuin" (jos joutuu)

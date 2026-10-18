@@ -68,5 +68,10 @@ Luovaa työtä, jossa N on aineistona.
 
 #flashcards/grammar/n2/vertailu
 
-N＋をもとに（して）／をもとにした (pohjalta, perusteella) (similar/compare) ::: ～に基づいて (perustuen johonkin) (similar/compare)
-N＋をもとに（して）／をもとにした (pohjalta, perusteella) (similar) ::: ～を踏まえて (huomioon ottaen) (similar)
+N＋をもとに（して）／をもとにした (pohjalta, perusteella) 実話**をもとに**映画を作った (similar/compare) vs. perustuen johonkin
+??
+～に基づいて (perustuen johonkin) この映画は、事実**に基づいて**作られている (similar/compare) vs. pohjalta, perusteella
+
+N＋をもとに（して）／をもとにした (pohjalta, perusteella) 実話**をもとに**映画を作った (similar) vs. huomioon ottaen
+??
+～を踏まえて (huomioon ottaen) 前回の反省**を踏まえて**、計画を立てる (similar) vs. pohjalta, perusteella

@@ -68,4 +68,6 @@ Mikä on こそあれ:n arkinen vastine?
 
 #flashcards/grammar/n1/vertailu
 
-N／な-adjで＋こそあれ (vaikka onkin, mutta ei) (similar/compare) ::: ～こそすれ (pikemminkin, ei suinkaan) (similar/compare)
+N／な-adjで＋こそあれ (vaikka onkin, mutta ei) 違い**こそあれ**、どちらも大切だ (similar/compare) vs. pikemminkin, ei suinkaan
+??
+～こそすれ (pikemminkin, ei suinkaan) 感謝し**こそすれ**、恨んではいない (similar/compare) vs. vaikka onkin, mutta ei

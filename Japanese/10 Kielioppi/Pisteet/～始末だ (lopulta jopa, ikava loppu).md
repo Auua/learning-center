@@ -69,4 +69,6 @@ Katso nyt tätä (ikävää) lopputulosta.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋始末だ (lopulta jopa, ikava loppu) (similar/compare) ::: Vたあげく (lopulta, pitkan vaivan jalkeen) (similar/compare)
+V辞書形＋始末だ (lopulta jopa, ikava loppu) 遅刻が続き、ついに無断欠勤する**始末だ** (similar/compare) vs. lopulta, pitkan vaivan jalkeen
+??
+Vたあげく (lopulta, pitkan vaivan jalkeen) さんざん迷った**あげく**、何も買わなかった (similar/compare) vs. lopulta jopa, ikava loppu

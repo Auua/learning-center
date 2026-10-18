@@ -71,5 +71,10 @@ Miten Vためには eroaa Vために:sta?
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形＋ためには (jotta voisi) (similar/compare) ::: Vために・Nのために (tarkoitusta varten) (similar/compare)
-V辞書形＋ためには (jotta voisi) (similar/compare) ::: Vるには (jotta, siihen etta) (similar/compare)
+V辞書形＋ためには (jotta voisi) マンションを買う**ためには**、3,000万円くらい必要だ (similar/compare) vs. tarkoitusta varten
+??
+Vために・Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar/compare) vs. jotta voisi
+
+V辞書形＋ためには (jotta voisi) マンションを買う**ためには**、3,000万円くらい必要だ (similar/compare) vs. jotta, siihen etta
+??
+Vるには (jotta, siihen etta) 日本で働く**には**、ビザが必要だ (similar/compare) vs. jotta voisi

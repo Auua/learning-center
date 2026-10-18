@@ -101,8 +101,22 @@ Myönnytys-ても aloittaa lauseen 'vaikka X, silti Y'; tässä ても on osa ki
 
 #flashcards/grammar/n4/vertailu
 
-Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar/compare) ::: Vても いいです・Vては いけません (lupa ja kielto) (similar/compare)
-Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar) ::: ～なくてもかまいません (ei tarvitse, ei haittaa) (similar)
-Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar) ::: Vても (vaikka) (similar)
-Vてもかまいません／かまわない (saa tehdä, ei haittaa) (similar/compare) ::: Vても差し支えない (saa, ei haittaa) (similar/compare)
-Vてもかまいません／かまわない (saa tehdä, ei haittaa) (compare) ::: ～もかまわず (valittamatta) (compare)
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) 教室を**出てもかまいません** (similar/compare) vs. lupa ja kielto
+??
+Vても いいです・Vては いけません (lupa ja kielto) 写真を撮っ**てもいいです** (similar/compare) vs. saa tehdä, ei haittaa
+
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) 教室を**出てもかまいません** (similar) vs. ei tarvitse, ei haittaa
+??
+～なくてもかまいません (ei tarvitse, ei haittaa) **食べなくてもかまいません** (similar) vs. saa tehdä, ei haittaa
+
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) 教室を**出てもかまいません** (similar) vs. vaikka
+??
+Vても (vaikka) 雨が降っ**ても**、洗濯します (similar) vs. saa tehdä, ei haittaa
+
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) 教室を**出てもかまいません** (similar/compare) vs. muodollinen "saa"
+??
+Vても差し支えない (saa, ei haittaa) 鉛筆で書い**ても差し支えありません** (similar/compare) vs. "saa, ei haittaa" arkisempi
+
+Vてもかまいません／かまわない (saa tehdä, ei haittaa) 教室を**出てもかまいません** (compare) vs. valittamatta
+??
+～もかまわず (valittamatta) 人目**もかまわず**、大声で泣いた (compare) vs. saa tehdä, ei haittaa

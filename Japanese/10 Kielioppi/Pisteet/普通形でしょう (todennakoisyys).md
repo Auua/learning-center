@@ -104,8 +104,22 @@ Miten でしょう eroaa はずです:sta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: 普通形でしょう？ (varmistus) (similar/compare)
-普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
-普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: 普通形だろう・だろうと思う (kirjallinen ennuste) (similar/compare)
-普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: きっと・たぶん・もしかしたら (varmuusasteet) (similar/compare)
-普通形でしょう（↘） (todennakoisyys) (similar) ::: Nはどうでしょうか (kohtelias tiedustelu) (similar)
+普通形でしょう（↘） (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. varmistus
+??
+普通形でしょう？ (varmistus) あしたパーティーに行く**でしょう**？ (similar/compare) vs. todennakoisyys
+
+普通形でしょう（↘） (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. varma odotus
+??
+普通形はずです (varma odotus) 書類は速達で出しましたから、あした**着くはずです** (similar/compare) vs. todennakoisyys
+
+普通形でしょう（↘） (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. kirjallinen ennuste
+??
+普通形だろう・だろうと思う (kirjallinen ennuste) 同じ現象は今後も続く**だろうと思います** (similar/compare) vs. todennakoisyys
+
+普通形でしょう（↘） (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. varmuusasteet
+??
+きっと・たぶん・もしかしたら (varmuusasteet) ミラーさんは**きっと**来るでしょう (similar/compare) vs. todennakoisyys
+
+普通形でしょう（↘） (todennakoisyys) あしたは雪が**降るでしょう** (similar) vs. kohtelias tiedustelu
+??
+Nはどうでしょうか (kohtelias tiedustelu) ハンスは学校で**どうでしょうか** (similar) vs. todennakoisyys

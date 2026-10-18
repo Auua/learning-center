@@ -69,4 +69,6 @@ Sama; さもないと kirjallisempi ja jyrkempi.
 
 #flashcards/grammar/n1/vertailu
 
-S1。さもないと（さもなければ）、S2。 (muuten, muuten kay huonosti) (similar/compare) ::: Vないと (taytyy, lyhennetty) (similar/compare)
+S1。さもないと（さもなければ）、S2。 (muuten, muuten kay huonosti) **さもないと**、遅れるよ (similar/compare) vs. taytyy, lyhennetty
+??
+Vないと (taytyy, lyhennetty) もう行か**ないと** (similar/compare) vs. muuten, muuten kay huonosti

@@ -76,6 +76,14 @@ Kunnioittava aktiivi vs. passiivi.
 
 #flashcards/grammar/n4/vertailu
 
-V受身形（尊敬語として） (kunnioittava muoto, 尊敬語) (similar/compare) ::: お～になる (kunnioittava toisen teko) (similar/compare)
-V受身形（尊敬語として） (kunnioittava muoto, 尊敬語) (similar) ::: 特別尊敬語 (erityiset kunnioittavat verbit) (similar)
-V受身形（尊敬語として） (kunnioittava muoto, 尊敬語) (similar/compare) ::: N1はN2にV受身 (suora passiivi) (similar/compare)
+V受身形（尊敬語として） (kunnioittava muoto, 尊敬語) 部長は何時に**来られ**ますか (similar/compare) vs. kunnioittava toisen teko
+??
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar/compare) vs. kunnioittava muoto, 尊敬語
+
+V受身形（尊敬語として） (kunnioittava muoto, 尊敬語) 部長は何時に**来られ**ますか (similar) vs. erityiset kunnioittavat verbit
+??
+特別尊敬語 (erityiset kunnioittavat verbit) 社長は会議室に**いらっしゃいます** (similar) vs. kunnioittava muoto, 尊敬語
+
+V受身形（尊敬語として） (kunnioittava muoto, 尊敬語) 部長は何時に**来られ**ますか (similar/compare) vs. suora passiivi
+??
+N1はN2にV受身 (suora passiivi) わたしは部長**に**ほめられました (similar/compare) vs. kunnioittava muoto, 尊敬語

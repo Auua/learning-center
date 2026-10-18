@@ -68,5 +68,10 @@ Mikä tyypillisesti edeltää たりとも:a?
 
 #flashcards/grammar/n1/vertailu
 
-一＋助数詞＋たりとも＋kielto (ei edes yhta) (similar) ::: Maara＋も (jopa, perati) (similar)
-一＋助数詞＋たりとも＋kielto (ei edes yhta) (similar/compare) ::: N・普通形として～ない (ei kertaakaan) (similar/compare)
+一＋助数詞＋たりとも＋kielto (ei edes yhta) 一円**たりとも**無駄にできない (similar) vs. jopa, perati
+??
+Maara＋も (jopa, perati) 2時間**も**待ちました (similar) vs. ei edes yhta
+
+一＋助数詞＋たりとも＋kielto (ei edes yhta) 一円**たりとも**無駄にできない (similar/compare) vs. ei kertaakaan
+??
+N・普通形として～ない (ei kertaakaan) 型にはまってないものは**一つとしてありません** (similar/compare) vs. ei edes yhta

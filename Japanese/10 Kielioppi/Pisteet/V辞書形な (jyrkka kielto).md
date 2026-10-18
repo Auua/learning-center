@@ -70,6 +70,14 @@ Kyltit, hätätilanteet, urheilu, miesten tuttavallinen puhe.
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形)＋な (jyrkka kielto) (similar) ::: Vなさい (kasky, ohje) (similar)
-V(辞書形)＋な (jyrkka kielto) (compare) ::: Vないで ください (kielteinen pyyntö) (compare)
-V(辞書形)＋な (jyrkka kielto) (compare) ::: Vても いいです・Vては いけません (lupa ja kielto) (compare)
+V(辞書形)＋な (jyrkka kielto) ここに入る**な** (similar) vs. kasky, ohje
+??
+Vなさい (kasky, ohje) 早く寝**なさい** (similar) vs. jyrkka kielto
+
+V(辞書形)＋な (jyrkka kielto) ここに入る**な** (compare) vs. kielteinen pyyntö
+??
+Vないで ください (kielteinen pyyntö) ここで写真を撮ら**ないでください** (compare) vs. jyrkka kielto
+
+V(辞書形)＋な (jyrkka kielto) ここに入る**な** (compare) vs. lupa ja kielto
+??
+Vても いいです・Vては いけません (lupa ja kielto) 写真を撮っ**てもいいです** (compare) vs. jyrkka kielto

@@ -69,5 +69,10 @@ Sama; いかなる kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-いかなる＋N（も／でも） (minkalainen tahansa) (similar) ::: いかに～か (kuinka paljon, muodollinen) (similar)
-いかなる＋N（も／でも） (minkalainen tahansa) (similar/compare) ::: 疑問詞＋ても (mika tahansa, poikkeukseton) (similar/compare)
+いかなる＋N（も／でも） (minkalainen tahansa) **いかなる**理由**も**認めない (similar) vs. kuinka paljon, muodollinen
+??
+いかに～か (kuinka paljon, muodollinen) 健康が**いかに**大切**か**がわかった (similar) vs. minkalainen tahansa
+
+いかなる＋N（も／でも） (minkalainen tahansa) **いかなる**理由**も**認めない (similar/compare) vs. mika tahansa, poikkeukseton
+??
+疑問詞＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar/compare) vs. minkalainen tahansa

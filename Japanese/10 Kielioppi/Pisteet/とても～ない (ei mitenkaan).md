@@ -70,5 +70,10 @@ Ei mitenkään (mahdottomuus), ei "hyvin".
 
 #flashcards/grammar/n3/vertailu
 
-とても＋V(可能)ない／Nではない (ei mitenkaan) (similar) ::: 別に～ない (ei erityisesti) (similar)
-とても＋V(可能)ない／Nではない (ei mitenkaan) (compare) ::: とても・あまり (hyvin, ei kovin) (compare)
+とても＋V(可能)ない／Nではない (ei mitenkaan) こんなに多い宿題は、**とても**一日では終わら**ない** (similar) vs. ei erityisesti
+??
+別に～ない (ei erityisesti) **別に**困って**いない** (similar) vs. ei mitenkaan
+
+とても＋V(可能)ない／Nではない (ei mitenkaan) こんなに多い宿題は、**とても**一日では終わら**ない** (compare) vs. hyvin, ei kovin
+??
+とても・あまり (hyvin, ei kovin) ペキンは**とても**寒いです (compare) vs. ei mitenkaan

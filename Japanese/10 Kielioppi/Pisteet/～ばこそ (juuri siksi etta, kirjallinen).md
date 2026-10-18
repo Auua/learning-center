@@ -69,4 +69,6 @@ Sama; ばこそ on kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-Vば／Adjければ／Nであれば＋こそ (juuri siksi etta, kirjallinen) (similar/compare) ::: ～からこそ (juuri siksi etta) (similar/compare)
+Vば／Adjければ／Nであれば＋こそ (juuri siksi etta, kirjallinen) 君を思え**ばこそ**、厳しく言うのだ (similar/compare) vs. arkinen "juuri siksi että"
+??
+～からこそ (juuri siksi etta) 好きだ**からこそ**、厳しく言うんだ (similar/compare) vs. kirjallinen "juuri siksi" ば-muodolla

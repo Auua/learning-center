@@ -68,5 +68,10 @@ Molemmat kirjallisia; んがために vielä juhlavampi.
 
 #flashcards/grammar/n1/vertailu
 
-V(ない-vartalo)＋んがために／んがための (jotta, kirjallinen) (similar/compare) ::: Vべく (jotta, tarkoituksella) (similar/compare)
-V(ない-vartalo)＋んがために／んがための (jotta, kirjallinen) (similar) ::: Vために・Nのために (tarkoitusta varten) (similar)
+V(ない-vartalo)＋んがために／んがための (jotta, kirjallinen) 勝た**んがために**、厳しい練習に耐えた (similar/compare) vs. jotta, tarkoituksella
+??
+Vべく (jotta, tarkoituksella) 夢を実現す**べく**、毎日努力している (similar/compare) vs. jotta, kirjallinen
+
+V(ない-vartalo)＋んがために／んがための (jotta, kirjallinen) 勝た**んがために**、厳しい練習に耐えた (similar) vs. tarkoitusta varten
+??
+Vために・Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar) vs. jotta, kirjallinen

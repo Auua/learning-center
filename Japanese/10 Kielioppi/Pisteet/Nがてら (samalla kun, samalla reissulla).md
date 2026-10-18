@@ -69,6 +69,14 @@ Lähes sama; がてら kirjallisempi ja molemmat ovat tavoitteita.
 
 #flashcards/grammar/n1/vertailu
 
-N／V(ます-vartalo)＋がてら (samalla kun, samalla reissulla) (similar/compare) ::: ～ついでに (samalla kun) (similar/compare)
-N／V(ます-vartalo)＋がてら (samalla kun, samalla reissulla) (similar/compare) ::: Nかたがた (samalla kun, muodollinen) (similar/compare)
-N／V(ます-vartalo)＋がてら (samalla kun, samalla reissulla) (similar/compare) ::: ～を兼ねて (samalla myos) (similar/compare)
+N／V(ます-vartalo)＋がてら (samalla kun, samalla reissulla) 散歩**がてら**、パンを買いに行く (similar/compare) vs. "samalla kun on tilaisuus"
+??
+～ついでに (samalla kun) 郵便局へ行く**ついでに**、手紙を出してきて (similar/compare) vs. "samalla reissulla" substantiivilla
+
+N／V(ます-vartalo)＋がてら (samalla kun, samalla reissulla) 散歩**がてら**、パンを買いに行く (similar/compare) vs. samalla kun, muodollinen
+??
+Nかたがた (samalla kun, muodollinen) お礼**かたがた**、ご挨拶に伺いました (similar/compare) vs. samalla kun, samalla reissulla
+
+N／V(ます-vartalo)＋がてら (samalla kun, samalla reissulla) 散歩**がてら**、パンを買いに行く (similar/compare) vs. samalla myos
+??
+～を兼ねて (samalla myos) 運動**を兼ねて**、歩いて通勤している (similar/compare) vs. samalla kun, samalla reissulla

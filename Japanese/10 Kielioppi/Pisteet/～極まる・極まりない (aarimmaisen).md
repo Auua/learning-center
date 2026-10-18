@@ -69,5 +69,10 @@ Eivät — molemmat tarkoittavat äärimmäistä.
 
 #flashcards/grammar/n1/vertailu
 
-な-adj＋極まる／極まりない (aarimmaisen) (similar/compare) ::: ～の極み (aarimmainen, huippu) (similar/compare)
-な-adj＋極まる／極まりない (aarimmaisen) (similar/compare) ::: ～この上ない (mita (paras), aarimmaisen) (similar/compare)
+な-adj＋極まる／極まりない (aarimmaisen) 失礼**極まる**態度 (similar/compare) vs. aarimmainen, huippu
+??
+～の極み (aarimmainen, huippu) これは贅沢**の極み**だ (similar/compare) vs. aarimmaisen
+
+な-adj＋極まる／極まりない (aarimmaisen) 失礼**極まる**態度 (similar/compare) vs. paras
+??
+～この上ない (mita (paras), aarimmaisen) **この上ない**幸せ (similar/compare) vs. aarimmaisen

@@ -71,6 +71,14 @@ Sama ajatus; とみえる on kirjallisempi.
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋とみえる／とみえて (nayttaa silta etta) (similar) ::: 普通形らしい (kuulopuhe, paattely) (similar)
-普通形＋とみえる／とみえて (nayttaa silta etta) (similar) ::: ～ところを見ると (siita paatellen) (similar)
-普通形＋とみえる／とみえて (nayttaa silta etta) (compare) ::: 普通形ようです (havaintoon perustuva paattely) (compare)
+普通形＋とみえる／とみえて (nayttaa silta etta) 彼は疲れている**とみえる** (similar) vs. kuulopuhe, paattely
+??
+普通形らしい (kuulopuhe, paattely) 高橋さんに聞いたんだけど、**婚約したらしい**よ (similar) vs. nayttaa silta etta
+
+普通形＋とみえる／とみえて (nayttaa silta etta) 彼は疲れている**とみえる** (similar) vs. siita paatellen
+??
+～ところを見ると (siita paatellen) 笑っている**ところを見ると**、合格した**らしい** (similar) vs. nayttaa silta etta
+
+普通形＋とみえる／とみえて (nayttaa silta etta) 彼は疲れている**とみえる** (compare) vs. havaintoon perustuva paattely
+??
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (compare) vs. kirjallinen "näyttää siltä"

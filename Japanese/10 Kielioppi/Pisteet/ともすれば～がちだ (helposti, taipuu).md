@@ -68,5 +68,10 @@ Mitä muotoja ともすれば:n kanssa esiintyy?
 
 #flashcards/grammar/n1/vertailu
 
-ともすれば（ともすると）＋〜がちだ (helposti, taipuu) (similar/compare) ::: ～がち (taipumus, helposti) (similar/compare)
-ともすれば（ともすると）＋〜がちだ (helposti, taipuu) (similar) ::: ～嫌いがある (on (ikava) taipumus) (similar)
+ともすれば（ともすると）＋〜がちだ (helposti, taipuu) **ともすれば**怠け**がちだ** (similar/compare) vs. taipumus, helposti
+??
+～がち (taipumus, helposti) 冬は風邪をひき**がち**だ (similar/compare) vs. helposti, taipuu
+
+ともすれば（ともすると）＋〜がちだ (helposti, taipuu) **ともすれば**怠け**がちだ** (similar) vs. ikava
+??
+～嫌いがある (on (ikava) taipumus) 彼は物事を大げさに言う**嫌いがある** (similar) vs. helposti, taipuu

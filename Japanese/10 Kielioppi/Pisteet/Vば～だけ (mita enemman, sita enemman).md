@@ -72,4 +72,6 @@ Sama merkitys eri rakenteella; ば〜ただけ korostaa panostuksen ja tuloksen 
 
 #flashcards/grammar/n2/vertailu
 
-V(ば形)＋V(た形)＋だけ (mita enemman, sita enemman) (similar/compare) ::: Vば〜ほど (mita enemman, sita) (similar/compare)
+V(ば形)＋V(た形)＋だけ (mita enemman, sita enemman) 頭は使**えば**使った**だけ**柔らかくなる (similar/compare) vs. "mitä enemmän, sitä" yleinen
+??
+Vば〜ほど (mita enemman, sita) 野菜は**新しければ新しいほど**おいしいです (similar/compare) vs. "mitä enemmän, sitä enemmän" (määrä)

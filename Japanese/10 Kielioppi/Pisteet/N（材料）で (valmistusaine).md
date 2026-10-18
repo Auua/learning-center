@@ -86,5 +86,10 @@ Kun materiaali on yhä tunnistettavissa lopputuloksessa.
 
 #flashcards/grammar/n4/vertailu
 
-N(materiaali)で作る (valmistusaine) (similar/compare) ::: Nから作られます (raaka-aine) (similar/compare)
-N(materiaali)で作る (valmistusaine) (similar) ::: N (väline) で (similar)
+N(materiaali)で作る (valmistusaine) この机は木**で**作りました (similar/compare) vs. raaka-aine
+??
+Nから作られます (raaka-aine) ビールは**麦から**造られます (similar/compare) vs. valmistusaine
+
+N(materiaali)で作る (valmistusaine) この机は木**で**作りました (similar) vs. väline
+??
+N (väline) で はし**で**食べます (similar) vs. valmistusaine

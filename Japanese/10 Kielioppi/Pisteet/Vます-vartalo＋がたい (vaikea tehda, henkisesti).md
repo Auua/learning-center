@@ -70,5 +70,10 @@ Ajattelu- ja tunneverbien: 信じる, 理解する, 許す, 想像する.
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋がたい (vaikea tehda, henkisesti) (compare) ::: Vづらい (vaikea, epamukava) (compare)
-V(ます-vartalo)＋がたい (vaikea tehda, henkisesti) (compare) ::: Vやすい・Vにくい (helppo, vaikea) (compare)
+V(ます-vartalo)＋がたい (vaikea tehda, henkisesti) 信じ**がたい**話だ (compare) vs. vaikea, epamukava
+??
+Vづらい (vaikea, epamukava) この靴は歩き**づらい** (compare) vs. vaikea tehda, henkisesti
+
+V(ます-vartalo)＋がたい (vaikea tehda, henkisesti) 信じ**がたい**話だ (compare) vs. helppo, vaikea
+??
+Vやすい・Vにくい (helppo, vaikea) このパソコンは**使いやすい**です (compare) vs. vaikea tehda, henkisesti

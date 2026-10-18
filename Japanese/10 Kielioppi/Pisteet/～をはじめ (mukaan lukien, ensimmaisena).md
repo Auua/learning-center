@@ -72,7 +72,18 @@ Miten ～をはじめ eroaa rakenteesta ～といった?
 
 #flashcards/grammar/n2/vertailu
 
-N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) (similar/compare) ::: ～といった (esimerkiksi tallainen kuin) (similar/compare)
-N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) (similar) ::: ～を中心に (keskittyen) (similar)
-N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) (compare) ::: ～はもちろん (puhumattakaan) (compare)
-N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) (similar/compare) ::: ～を皮切りに (alkaen, ensimmaisena) (similar/compare)
+N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) 東京**をはじめ**、大都市は家賃が高い (similar/compare) vs. esimerkiksi tallainen kuin
+??
+～といった (esimerkiksi tallainen kuin) 寿司やてんぷら**といった**和食 (similar/compare) vs. mukaan lukien, ensimmaisena
+
+N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) 東京**をはじめ**、大都市は家賃が高い (similar) vs. keskittyen
+??
+～を中心に (keskittyen) 若者**を中心に**人気がある (similar) vs. mukaan lukien, ensimmaisena
+
+N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) 東京**をはじめ**、大都市は家賃が高い (compare) vs. puhumattakaan
+??
+～はもちろん (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (compare) vs. mukaan lukien, ensimmaisena
+
+N＋をはじめ（として）、N2など (mukaan lukien, ensimmaisena) 東京**をはじめ**、大都市は家賃が高い (similar/compare) vs. alkaen, ensimmaisena
+??
+～を皮切りに (alkaen, ensimmaisena) 東京**を皮切りに**、全国でコンサートを行う (similar/compare) vs. mukaan lukien, ensimmaisena

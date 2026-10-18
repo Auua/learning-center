@@ -68,6 +68,14 @@ Kielteinen, ärtynyt.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋だの＋〜だの (ja sita ja tata, valittaen) (similar/compare) ::: ～やら～やら (muun muassa, mita kaikkea) (similar/compare)
-N／普通形＋だの＋〜だの (ja sita ja tata, valittaen) (similar) ::: ～とか～とか (epamuodollinen esimerkkilista) (similar)
-N／普通形＋だの＋〜だの (ja sita ja tata, valittaen) (similar/compare) ::: やれ～やれ (milloin mitakin) (similar/compare)
+N／普通形＋だの＋〜だの (ja sita ja tata, valittaen) 野菜は嫌い**だの**、魚は臭い**だの**、文句ばかりだ (similar/compare) vs. muun muassa, mita kaikkea
+??
+～やら～やら (muun muassa, mita kaikkea) 宿題**やら**アルバイト**やら**で、忙しい (similar/compare) vs. ja sita ja tata, valittaen
+
+N／普通形＋だの＋〜だの (ja sita ja tata, valittaen) 野菜は嫌い**だの**、魚は臭い**だの**、文句ばかりだ (similar) vs. epamuodollinen esimerkkilista
+??
+～とか～とか (epamuodollinen esimerkkilista) 肉**とか**魚**とか**を買った (similar) vs. ja sita ja tata, valittaen
+
+N／普通形＋だの＋〜だの (ja sita ja tata, valittaen) 野菜は嫌い**だの**、魚は臭い**だの**、文句ばかりだ (similar/compare) vs. milloin mitakin
+??
+やれ～やれ (milloin mitakin) **やれ**暑い、**やれ**寒いと文句を言う (similar/compare) vs. ja sita ja tata, valittaen

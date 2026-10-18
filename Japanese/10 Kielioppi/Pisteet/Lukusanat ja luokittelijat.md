@@ -140,9 +140,26 @@ Väärä luokittelija (esim. 人 esineelle) kuulostaa oudolta; luokittelija opit
 
 #flashcards/grammar/n5/vertailu
 
-数詞＋助数詞 (Lukusanat ja luokittelijat) (similar) ::: N (aika) に (similar)
-数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: N（aika）ごろ (noin, aikoihin) (compare)
-数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: ～というところだ (suunnilleen, korkeintaan) (compare)
-数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: 数量＋ばかり (noin, suunnilleen) (compare)
-数詞＋助数詞 (Lukusanat ja luokittelijat) (similar/compare) ::: いくつ (kuinka monta) (similar/compare)
-数詞＋助数詞 (Lukusanat ja luokittelijat) (similar) ::: どのくらい (kuinka kauan, kuinka paljon) (similar)
+数詞＋助数詞 (Lukusanat ja luokittelijat) りんごを4つ買いました (similar) vs. aika
+??
+N (aika) に 6時**に**起きます (similar) vs. lukusanat ja laskusanat
+
+数詞＋助数詞 (Lukusanat ja luokittelijat) りんごを4つ買いました (compare) vs. noin, aikoihin
+??
+N（aika）ごろ (noin, aikoihin) 7時**ごろ**起きます (compare) vs. lukusanat
+
+数詞＋助数詞 (Lukusanat ja luokittelijat) りんごを4つ買いました (compare) vs. suunnilleen, korkeintaan
+??
+～というところだ (suunnilleen, korkeintaan) 参加者は30人**というところだ** (compare) vs. lukusanat
+
+数詞＋助数詞 (Lukusanat ja luokittelijat) りんごを4つ買いました (compare) vs. noin, suunnilleen
+??
+数量＋ばかり (noin, suunnilleen) 1週間**ばかり**旅行に行ってきます (compare) vs. lukusanat
+
+数詞＋助数詞 (Lukusanat ja luokittelijat) りんごを4つ買いました (similar/compare) vs. kuinka monta
+??
+いくつ (kuinka monta) みかんを**いくつ**買いましたか (similar/compare) vs. lukusanat ja laskusanat
+
+数詞＋助数詞 (Lukusanat ja luokittelijat) りんごを4つ買いました (similar) vs. kuinka kauan, kuinka paljon
+??
+どのくらい (kuinka kauan, kuinka paljon) 日本語を**どのくらい**勉強しましたか (similar) vs. lukusanat

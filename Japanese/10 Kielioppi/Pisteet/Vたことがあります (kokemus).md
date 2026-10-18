@@ -91,8 +91,22 @@ Sama runko, mutta た形 = elämänkokemus; 辞書形 = 'joskus käy niin että'
 
 #flashcards/grammar/n5/vertailu
 
-V た形ことがあります (kokemus) (similar) ::: Vことができます (kyky) (similar)
-V た形ことがあります (kokemus) (similar/compare) ::: Vことがある・こともある (satunnainen poikkeus) (similar/compare)
-V た形ことがあります (kokemus) (compare) ::: ～ている (elämänhistoria, saavutukset) (compare)
-V た形ことがあります (kokemus) (compare) ::: Vていた (oli tekemassa, tila menneessa) (compare)
-V た形ことがあります (kokemus) (similar/compare) ::: Vためしがない (ei ole koskaan tapahtunut) (similar/compare)
+V た形ことがあります (kokemus) 馬に乗っ**たことがあります** (similar) vs. kyky
+??
+Vことができます (kyky) ミラーさんは日本語**が**できます (similar) vs. kokemus
+
+V た形ことがあります (kokemus) 馬に乗っ**たことがあります** (similar/compare) vs. satunnainen poikkeus
+??
+Vことがある・こともある (satunnainen poikkeus) たまに電車が**遅れることがある** (similar/compare) vs. kokemus
+
+V た形ことがあります (kokemus) 馬に乗っ**たことがあります** (compare) vs. elämänhistoria, saavutukset
+??
+～ている (elämänhistoria, saavutukset) モーツァルトは600以上の曲を**作っている** (compare) vs. kokemus
+
+V た形ことがあります (kokemus) 馬に乗っ**たことがあります** (compare) vs. oli tekemassa, tila menneessa
+??
+Vていた (oli tekemassa, tila menneessa) 電話が鳴ったとき、シャワーを浴び**ていた** (compare) vs. kokemus
+
+V た形ことがあります (kokemus) 馬に乗っ**たことがあります** (similar/compare) vs. ei ole koskaan tapahtunut
+??
+Vためしがない (ei ole koskaan tapahtunut) 彼は約束を守った**ためしがない** (similar/compare) vs. kokemus

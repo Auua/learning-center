@@ -77,4 +77,6 @@ Kumpi: げ vai そうな, kun halutaan ilmaista ulkoista vaikutelmaa?
 
 #flashcards/grammar/n2/vertailu
 
-Adj（i-vartalo／na-vartalo）＋げ (nayttaa joltakin) (similar/compare) ::: V・adjそうです (ulkonaon perusteella) (similar/compare)
+Adj（i-vartalo／na-vartalo）＋げ (nayttaa joltakin) 気のせいか父の後ろ姿は小さくて、寂し**げ**だった (similar/compare) vs. ulkonaon perusteella
+??
+V・adjそうです (ulkonaon perusteella) 今にも雨が**降りそうです** (similar/compare) vs. kirjallinen "näyttää joltakin" (tunne)

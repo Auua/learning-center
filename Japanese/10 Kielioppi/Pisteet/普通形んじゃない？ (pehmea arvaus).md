@@ -77,6 +77,14 @@ Miten んじゃない？ eroaa でしょう？:sta?
 
 #flashcards/grammar/n3/vertailu
 
-普通形んじゃない？ (pehmea arvaus) (similar/compare) ::: 普通形でしょう？ (varmistus) (similar/compare)
-普通形んじゃない？ (pehmea arvaus) (similar) ::: 普通形んです (selittävä sävy) (similar)
-普通形んじゃない？ (pehmea arvaus) (compare) ::: 普通形じゃないか (eiko olekin, huomautus) (compare)
+普通形んじゃない？ (pehmea arvaus) 携帯電話をどこかに**忘れたんじゃないですか** (similar/compare) vs. varmistus
+??
+普通形でしょう？ (varmistus) あしたパーティーに行く**でしょう**？ (similar/compare) vs. pehmea arvaus
+
+普通形んじゃない？ (pehmea arvaus) 携帯電話をどこかに**忘れたんじゃないですか** (similar) vs. selittävä sävy
+??
+普通形んです (selittävä sävy) 時間が**ないんです** (similar) vs. pehmea arvaus
+
+普通形んじゃない？ (pehmea arvaus) 携帯電話をどこかに**忘れたんじゃないですか** (compare) vs. eiko olekin, huomautus
+??
+普通形じゃないか (eiko olekin, huomautus) なんだ、田中さん**じゃないか** (compare) vs. pehmea arvaus

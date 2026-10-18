@@ -88,11 +88,34 @@ Miten ～なら eroaa ～たら:sta, kun lause on 日本に行く…、ガイド
 
 #flashcards/grammar/n4/vertailu
 
-～なら (jos kerran) (similar) ::: ～たら (jos, kun) (similar)
-～なら (jos kerran) (similar) ::: ～ば (jos, ehto) (similar)
-～なら (jos kerran) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
-～なら (jos kerran) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
-～なら (jos kerran) (compare) ::: ～とすれば・としたら・とすると (oletetaan etta) (compare)
-～なら (jos kerran) (similar/compare) ::: ～とあれば (jos kerran, jos on kyse) (similar/compare)
-～なら (jos kerran) (similar) ::: ～となると・となれば (jos niin on, silloin) (similar)
-～なら (jos kerran) (compare) ::: Vものなら (jos vain voisi) (compare)
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar) vs. jos, kun
+??
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. jos kerran
+
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar) vs. jos, ehto
+??
+～ば (jos, ehto) 時間があれば、手伝ってください (similar) vs. jos kerran
+
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar) vs. aina kun, väistämätön seuraus
+??
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. jos kerran
+
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (compare) vs. vertailu: Ehtolauseet と・ば・たら・なら
+??
+Vertailu — Ehtolauseet と・ば・たら・なら 春に**なると**桜が咲く (compare) vs. jos kerran
+
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (compare) vs. oletetaan etta
+??
+～とすれば・としたら・とすると (oletetaan etta) 宝くじが当たった**としたら**、何をしますか (compare) vs. jos kerran
+
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar/compare) vs. "jos kerran, jos on kyse"
+??
+～とあれば (jos kerran, jos on kyse) 子どものため**とあれば**、何でもする (similar/compare) vs. "jos kerran"
+
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar) vs. jos niin on, silloin
+??
+～となると・となれば (jos niin on, silloin) 結婚**となると**、話は別だ (similar) vs. jos kerran
+
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (compare) vs. jos vain voisi
+??
+Vものなら (jos vain voisi) 戻れる**ものなら**、学生時代に戻りたい (compare) vs. jos kerran

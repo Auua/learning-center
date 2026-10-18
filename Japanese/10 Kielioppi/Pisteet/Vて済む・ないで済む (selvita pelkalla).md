@@ -73,6 +73,14 @@ Helpotus: selvittiin odotettua vähemmällä.
 
 #flashcards/grammar/n3/vertailu
 
-V(て)／N で＋済む／Vないで（ずに）済む (selvita pelkalla) (similar/compare) ::: Vなくても いいです (ei tarvitse) (similar/compare)
-V(て)／N で＋済む／Vないで（ずに）済む (selvita pelkalla) (similar/compare) ::: ～では済まない (ei riita pelkka) (similar/compare)
-V(て)／N で＋済む／Vないで（ずに）済む (selvita pelkalla) (compare) ::: Vて済むことではない (ei hoidu pelkalla) (compare)
+V(て)／N で＋済む／Vないで（ずに）済む (selvita pelkalla) 電話で話し**て済む**なら、行かなくていい (similar/compare) vs. ei tarvitse
+??
+Vなくても いいです (ei tarvitse) あした来**なくてもいいです** (similar/compare) vs. selvita pelkalla
+
+V(て)／N で＋済む／Vないで（ずに）済む (selvita pelkalla) 電話で話し**て済む**なら、行かなくていい (similar/compare) vs. ei riita pelkka
+??
+～では済まない (ei riita pelkka) 謝罪だけ**では済まない** (similar/compare) vs. selvita pelkalla
+
+V(て)／N で＋済む／Vないで（ずに）済む (selvita pelkalla) 電話で話し**て済む**なら、行かなくていい (compare) vs. ei hoidu pelkalla
+??
+Vて済むことではない (ei hoidu pelkalla) 謝っ**て済むことではない** (compare) vs. selvita pelkalla

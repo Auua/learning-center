@@ -67,4 +67,6 @@ Kumpi: として vai としては: 先生＿＿話す vs. お土産＿＿、ク�
 
 #flashcards/grammar/n2/vertailu
 
-N＋としては (nakokulmasta katsottuna) (similar/compare) ::: ～として (roolissa, ominaisuudessa) (similar/compare)
+N＋としては (nakokulmasta katsottuna) この地方の特産品**としては**玉ねぎとじゃがいもがある (similar/compare) vs. roolissa, ominaisuudessa
+??
+～として (roolissa, ominaisuudessa) アニメや漫画は**日本の文化として**世界に認められている (similar/compare) vs. nakokulmasta katsottuna

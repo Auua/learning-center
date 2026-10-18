@@ -75,6 +75,14 @@ Mikä on kohteliaampi: てくださいませんか vai ていただけないで�
 
 #flashcards/grammar/n4/vertailu
 
-Vて＋くださいませんか (erittäin kohtelias pyyntö) (similar/compare) ::: てもらえませんか・ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare)
-Vて＋くださいませんか (erittäin kohtelias pyyntö) (similar/compare) ::: Vて ください (pyyntö) (similar/compare)
-Vて＋くださいませんか (erittäin kohtelias pyyntö) (similar) ::: てくださいます (kunnioittava anto) (similar)
+Vて＋くださいませんか (erittäin kohtelias pyyntö) もう少しゆっくり話して**くださいませんか** (similar/compare) vs. kohtelias pyyntoperhe
+??
+てもらえませんか・ていただけないでしょうか (kohtelias pyyntoperhe) 荷物を降ろすのを**手伝ってもらえませんか** (similar/compare) vs. erittäin kohtelias pyyntö
+
+Vて＋くださいませんか (erittäin kohtelias pyyntö) もう少しゆっくり話して**くださいませんか** (similar/compare) vs. perus pyyntö
+??
+Vて ください (pyyntö) ここに名前を書い**てください** (similar/compare) vs. erittäin kohtelias pyyntö
+
+Vて＋くださいませんか (erittäin kohtelias pyyntö) もう少しゆっくり話して**くださいませんか** (similar) vs. kunnioittava anto
+??
+てくださいます (kunnioittava anto) 部長の奥さんはわたしにお茶を**教えてくださいました** (similar) vs. erittäin kohtelias pyyntö

@@ -68,5 +68,10 @@ Asianmukainen: しかるべき処置.
 
 #flashcards/grammar/n1/vertailu
 
-V(て)＋しかるべきだ (kuuluisi, olisi asianmukaista) (similar/compare) ::: Vべきだ (pitaisi tehda, velvollisuus) (similar/compare)
-V(て)＋しかるべきだ (kuuluisi, olisi asianmukaista) (similar) ::: Vて当然だ (luonnollisesti, kuuluukin) (similar)
+V(て)＋しかるべきだ (kuuluisi, olisi asianmukaista) 彼は謝っ**てしかるべきだ** (similar/compare) vs. pitaisi tehda, velvollisuus
+??
+Vべきだ (pitaisi tehda, velvollisuus) 希望する人は全員保育所に入れるようにする**べきです** (similar/compare) vs. kuuluisi, olisi asianmukaista
+
+V(て)＋しかるべきだ (kuuluisi, olisi asianmukaista) 彼は謝っ**てしかるべきだ** (similar) vs. luonnollisesti, kuuluukin
+??
+Vて当然だ (luonnollisesti, kuuluukin) あんなに頑張ったのだから、合格し**て当然だ** (similar) vs. kuuluisi, olisi asianmukaista

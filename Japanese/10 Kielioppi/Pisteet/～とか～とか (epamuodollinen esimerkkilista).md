@@ -77,7 +77,18 @@ Miten とか～とか eroaa や…など-luettelosta?
 
 #flashcards/grammar/n3/vertailu
 
-N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) (similar/compare) ::: 普通形とか (puhekielinen kuulopuhe, epavarma) (similar/compare)
-N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) (compare) ::: ～か何か (tai jotain) (compare)
-N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) (similar) ::: ～だの～だの (ja sita ja tata, valittaen) (similar)
-N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) (similar/compare) ::: ～やら～やら (muun muassa, mita kaikkea) (similar/compare)
+N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) 肉**とか**魚**とか**を買った (similar/compare) vs. puhekielinen kuulopuhe, epavarma
+??
+普通形とか (puhekielinen kuulopuhe, epavarma) さすがの通人、二の句もつげなかった**とか** (similar/compare) vs. epamuodollinen esimerkkilista
+
+N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) 肉**とか**魚**とか**を買った (compare) vs. tai jotain
+??
+～か何か (tai jotain) 風邪**か何か**で休んでいるらしい (compare) vs. epamuodollinen esimerkkilista
+
+N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) 肉**とか**魚**とか**を買った (similar) vs. ja sita ja tata, valittaen
+??
+～だの～だの (ja sita ja tata, valittaen) 野菜は嫌い**だの**、魚は臭い**だの**、文句ばかりだ (similar) vs. epamuodollinen esimerkkilista
+
+N/普通形とか、N/普通形とか（…すればいい） (epamuodollinen esimerkkilista) 肉**とか**魚**とか**を買った (similar/compare) vs. muun muassa, mita kaikkea
+??
+～やら～やら (muun muassa, mita kaikkea) 宿題**やら**アルバイト**やら**で、忙しい (similar/compare) vs. epamuodollinen esimerkkilista

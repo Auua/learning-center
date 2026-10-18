@@ -68,5 +68,10 @@ Ei malta pysyä paikallaan (huoli/innostus).
 
 #flashcards/grammar/n2/vertailu
 
-V(て)＋はいられない (ei voi jaada tekemaan) (similar/compare) ::: Vてばかりはいられない (ei voi jatkuvasti vain) (similar/compare)
-V(て)＋はいられない (ei voi jaada tekemaan) (similar/compare) ::: Vている場合じゃない (nyt ei ole aika) (similar/compare)
+V(て)＋はいられない (ei voi jaada tekemaan) のんびりし**てはいられない** (similar/compare) vs. ei voi jatkuvasti vain
+??
+Vてばかりはいられない (ei voi jatkuvasti vain) いつまでも泣い**てばかりはいられない** (similar/compare) vs. ei voi jaada tekemaan
+
+V(て)＋はいられない (ei voi jaada tekemaan) のんびりし**てはいられない** (similar/compare) vs. nyt ei ole aika
+??
+Vている場合じゃない (nyt ei ole aika) 寝ている**場合じゃない** (similar/compare) vs. ei voi jaada tekemaan

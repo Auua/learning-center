@@ -81,4 +81,6 @@ Ratkaisee kysymyksen tyyppi: kysymyssanallinen (avoin) kysymys käyttää pelkk�
 
 #flashcards/grammar/n4/vertailu
 
-疑問詞＋普通形＋か (upotettu kysymys) (similar/compare) ::: 〜かどうか (jompikumpi, epavarmuus) (similar/compare)
+疑問詞＋普通形＋か (upotettu kysymys) **何時に着くか**、調べてください (similar/compare) vs. jompikumpi, epavarmuus
+??
+〜かどうか (jompikumpi, epavarmuus) 台風9号は東京へ**来るかどうか**、まだわかりません (similar/compare) vs. upotettu kysymys

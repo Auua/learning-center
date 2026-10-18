@@ -69,7 +69,18 @@ Moni sanoo ja sanoo edelleen — yleinen, pysyvä käsitys.
 
 #flashcards/grammar/n4/vertailu
 
-普通形＋と言われている (sanotaan etta, yleinen kasitys) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
-普通形＋と言われている (sanotaan etta, yleinen kasitys) (similar/compare) ::: 普通形とされる (katsotaan, pidetaan) (similar/compare)
-普通形＋と言われている (sanotaan etta, yleinen kasitys) (similar) ::: 普通形と考えられる (voidaan ajatella etta) (similar)
-普通形＋と言われている (sanotaan etta, yleinen kasitys) (compare) ::: 普通形と聞きました (kuulin etta) (compare)
+普通形＋と言われている (sanotaan etta, yleinen kasitys) 日本人は長生きだ**と言われている** (similar/compare) vs. kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. sanotaan etta, yleinen kasitys
+
+普通形＋と言われている (sanotaan etta, yleinen kasitys) 日本人は長生きだ**と言われている** (similar/compare) vs. katsotaan, pidetaan
+??
+普通形とされる (katsotaan, pidetaan) この寺は日本最古**とされる** (similar/compare) vs. sanotaan etta, yleinen kasitys
+
+普通形＋と言われている (sanotaan etta, yleinen kasitys) 日本人は長生きだ**と言われている** (similar) vs. voidaan ajatella etta
+??
+普通形と考えられる (voidaan ajatella etta) 事故の原因はスピードの出しすぎ**と考えられる** (similar) vs. sanotaan etta, yleinen kasitys
+
+普通形＋と言われている (sanotaan etta, yleinen kasitys) 日本人は長生きだ**と言われている** (compare) vs. kuulin etta
+??
+普通形と聞きました (kuulin etta) 田中さんが結婚した**と聞きました** (compare) vs. sanotaan etta, yleinen kasitys

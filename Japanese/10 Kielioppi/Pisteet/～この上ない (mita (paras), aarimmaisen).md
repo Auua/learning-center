@@ -70,5 +70,10 @@ Voi: 不便なことこの上ない.
 
 #flashcards/grammar/n1/vertailu
 
-Adj＋ことこの上ない／この上ない＋N (～この上ない (mita (paras), aarimmaisen)) (similar/compare) ::: ～極まる・極まりない (aarimmaisen) (similar/compare)
-Adj＋ことこの上ない／この上ない＋N (～この上ない (mita (paras), aarimmaisen)) (similar) ::: ～の極み (aarimmainen, huippu) (similar)
+Adj＋ことこの上ない／この上ない＋N (～この上ない (mita (paras), aarimmaisen)) **この上ない**幸せ (similar/compare) vs. aarimmaisen
+??
+～極まる・極まりない (aarimmaisen) 失礼**極まる**態度 (similar/compare) vs. paras
+
+Adj＋ことこの上ない／この上ない＋N (～この上ない (mita (paras), aarimmaisen)) **この上ない**幸せ (similar) vs. aarimmainen, huippu
+??
+～の極み (aarimmainen, huippu) これは贅沢**の極み**だ (similar) vs. paras

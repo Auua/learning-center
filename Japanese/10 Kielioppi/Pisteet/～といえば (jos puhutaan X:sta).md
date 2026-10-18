@@ -63,6 +63,14 @@ Ne ovat lähes vaihtokelpoisia; といったら on hieman puhekielisempi ja tunn
 
 #flashcards/grammar/n2/vertailu
 
-N＋といえば・というと・といったら (jos puhutaan X:sta) (similar/compare) ::: ～と言うと (kun puhutaan, tarkoitatko) (similar/compare)
-N＋といえば・というと・といったら (jos puhutaan X:sta) (similar) ::: Nときたら (kun on kyse, voi sita) (similar)
-N＋といえば・というと・といったら (jos puhutaan X:sta) (similar/compare) ::: そういえば (niin muuten, siita tuli mieleen) (similar/compare)
+N＋といえば・というと・といったら (jos puhutaan X:sta) 太鼓**といえば**、佐渡の「鬼太鼓」が有名ですよね (similar/compare) vs. kun puhutaan, tarkoitatko
+??
+～と言うと (kun puhutaan, tarkoitatko) 北海道**と言うと**、雪ですね (similar/compare) vs. jos puhutaan X:sta
+
+N＋といえば・というと・といったら (jos puhutaan X:sta) 太鼓**といえば**、佐渡の「鬼太鼓」が有名ですよね (similar) vs. kun on kyse, voi sita
+??
+Nときたら (kun on kyse, voi sita) うちの息子**ときたら**、全然勉強しない (similar) vs. jos puhutaan X:sta
+
+N＋といえば・というと・といったら (jos puhutaan X:sta) 太鼓**といえば**、佐渡の「鬼太鼓」が有名ですよね (similar/compare) vs. niin muuten, siita tuli mieleen
+??
+そういえば (niin muuten, siita tuli mieleen) **そういえば**、田中さんは元気？ (similar/compare) vs. jos puhutaan X:sta

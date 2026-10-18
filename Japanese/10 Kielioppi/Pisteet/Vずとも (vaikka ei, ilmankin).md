@@ -69,4 +69,6 @@ Sama; ずとも kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-V(ない-vartalo)＋ずとも (vaikka ei, ilmankin) (similar/compare) ::: Vなくても いいです (ei tarvitse) (similar/compare)
+V(ない-vartalo)＋ずとも (vaikka ei, ilmankin) 言わ**ずとも**わかる (similar/compare) vs. ei tarvitse
+??
+Vなくても いいです (ei tarvitse) あした来**なくてもいいです** (similar/compare) vs. vaikka ei, ilmankin

@@ -96,7 +96,18 @@ Merkitys on sama (火を使わないで／使わずに料理をしています),
 
 #flashcards/grammar/n3/vertailu
 
-V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: Vて・Vないで (tapa, keino) (similar/compare)
-V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: ～もせずに (ei edes tehnyt) (similar/compare)
-V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: ～ことなく (tekematta) (similar/compare)
-V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) (similar/compare) ::: Vぬ (kirjallinen kielto) (similar/compare)
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) 地震のときは、**あわてずに**落ち着いて行動してください (similar/compare) vs. tapa, keino
+??
+Vて・Vないで (tapa, keino) 傘を**もって**、出かけます (similar/compare) vs. kirjallinen kielto
+
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) 地震のときは、**あわてずに**落ち着いて行動してください (similar/compare) vs. ei edes tehnyt
+??
+～もせずに (ei edes tehnyt) 水を**沸かしもせずに**、そのまま飲める (similar/compare) vs. kirjallinen kielto
+
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) 地震のときは、**あわてずに**落ち着いて行動してください (similar/compare) vs. tekematta
+??
+～ことなく (tekematta) 彼は休む**ことなく**働き続けた (similar/compare) vs. kirjallinen kielto
+
+V(ない-vartalo)ず［に］・V(ない-vartalo)ず、 (kirjallinen kielto) 地震のときは、**あわてずに**落ち着いて行動してください (similar/compare) vs. kirjallinen kielto
+??
+Vぬ (kirjallinen kielto) 知ら**ぬ**間に時間が過ぎた (similar/compare) vs. kirjallinen "tekemättä"

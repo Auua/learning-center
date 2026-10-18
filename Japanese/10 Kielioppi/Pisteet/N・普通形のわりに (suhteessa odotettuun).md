@@ -67,4 +67,6 @@ Lähellä toisiaan; わりに korostaa enemmän panos/tulos-epäsuhtaa (負担�
 
 #flashcards/grammar/n2/vertailu
 
-N（の）／普通形＋わりに（は） (suhteessa odotettuun) (similar/compare) ::: Nにしては (ottaen huomioon etta) (similar/compare)
+N（の）／普通形＋わりに（は） (suhteessa odotettuun) 値段**のわりに**おいしい (similar/compare) vs. ottaen huomioon etta
+??
+Nにしては (ottaen huomioon etta) 優太君は6歳**にしては**大きいね (similar/compare) vs. suhteessa odotettuun

@@ -91,5 +91,10 @@ Kumpi: あげる, くれる vai もらう, kun toinen antaa minulle?
 
 #flashcards/grammar/n5/vertailu
 
-くれます (joku antaa minulle) (similar) ::: N (人) に あげます・もらいます (similar)
-くれます (joku antaa minulle) (similar) ::: N1にN2をやります (antaa alaspäin) (similar)
+くれます (joku antaa minulle) 佐藤さんはわたしにクリスマスカードをくれました (similar) vs. 人
+??
+N (人) に あげます・もらいます 銀行**から**お金を借りました (similar) vs. joku antaa minulle
+
+くれます (joku antaa minulle) 佐藤さんはわたしにクリスマスカードをくれました (similar) vs. antaa alaspäin
+??
+N1にN2をやります (antaa alaspäin) 毎朝、犬**に**えさ**を**やります (similar) vs. joku antaa minulle

@@ -72,5 +72,10 @@ Ensimmäinen = toive; toinen = neuvo.
 
 #flashcards/grammar/n3/vertailu
 
-V(辞書形)＋といい／V(た)＋らいい（のに・なあ） (toivottavasti, kannattaisi) (similar/compare) ::: Vばいい (riittaa kun, pitaisi) (similar/compare)
-V(辞書形)＋といい／V(た)＋らいい（のに・なあ） (toivottavasti, kannattaisi) (compare) ::: Vたほうがいいです (kannattaisi tehda) (compare)
+V(辞書形)＋といい／V(た)＋らいい（のに・なあ） (toivottavasti, kannattaisi) 疲れたら、少し休む**といい**ですよ (similar/compare) vs. riittaa kun, pitaisi
+??
+Vばいい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (similar/compare) vs. toivottavasti, kannattaisi
+
+V(辞書形)＋といい／V(た)＋らいい（のに・なあ） (toivottavasti, kannattaisi) 疲れたら、少し休む**といい**ですよ (compare) vs. kannattaisi tehda
+??
+Vたほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. toivottavasti, kannattaisi

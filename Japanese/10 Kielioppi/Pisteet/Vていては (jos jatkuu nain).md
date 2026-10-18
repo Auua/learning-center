@@ -68,5 +68,10 @@ Kielteinen seuraus.
 
 #flashcards/grammar/n2/vertailu
 
-V(て)いては／V(て)いたら (jos jatkuu nain) (similar/compare) ::: Vようでは (jos niin kay, niin huonosti) (similar/compare)
-V(て)いては／V(て)いたら (jos jatkuu nain) (compare) ::: Vても知らない (en vastaa, ole hyva) (compare)
+V(て)いては／V(て)いたら (jos jatkuu nain) そんなに遊んで**いては**、合格できない (similar/compare) vs. jos niin kay, niin huonosti
+??
+Vようでは (jos niin kay, niin huonosti) こんな問題もわからない**ようでは**、合格は無理だ (similar/compare) vs. jos jatkuu nain
+
+V(て)いては／V(て)いたら (jos jatkuu nain) そんなに遊んで**いては**、合格できない (compare) vs. en vastaa, ole hyva
+??
+Vても知らない (en vastaa, ole hyva) 遅れ**ても知らないよ** (compare) vs. jos jatkuu nain

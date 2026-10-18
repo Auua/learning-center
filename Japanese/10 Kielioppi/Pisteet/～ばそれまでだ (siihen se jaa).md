@@ -69,5 +69,10 @@ Ensimmäinen = seuraus; toinen = kaikki vaiva menee hukkaan.
 
 #flashcards/grammar/n1/vertailu
 
-Vば／Vたら＋それまでだ (siihen se jaa) (similar/compare) ::: Vたら最後 (kun kerran, niin ei ole paluuta) (similar/compare)
-Vば／Vたら＋それまでだ (siihen se jaa) (compare) ::: Vても始まらない (turha tehda) (compare)
+Vば／Vたら＋それまでだ (siihen se jaa) いくら準備しても、雨が降れ**ばそれまでだ** (similar/compare) vs. kun kerran, niin ei ole paluuta
+??
+Vたら最後 (kun kerran, niin ei ole paluuta) 彼に話したら**最後**、みんなに広まる (similar/compare) vs. siihen se jaa
+
+Vば／Vたら＋それまでだ (siihen se jaa) いくら準備しても、雨が降れ**ばそれまでだ** (compare) vs. turha tehda
+??
+Vても始まらない (turha tehda) 今さら後悔し**ても始まらない** (compare) vs. siihen se jaa

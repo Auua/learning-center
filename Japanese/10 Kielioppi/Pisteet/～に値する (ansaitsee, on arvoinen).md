@@ -69,5 +69,10 @@ Mikä on に値する:n arkinen vastine?
 
 #flashcards/grammar/n1/vertailu
 
-N／V辞書形＋に値する (ansaitsee, on arvoinen) (similar/compare) ::: ～に足る (riittava, arvoinen) (similar/compare)
-N／V辞書形＋に値する (ansaitsee, on arvoinen) (similar) ::: ～に耐える・に耐えない (kestaa, ei kesta) (similar)
+N／V辞書形＋に値する (ansaitsee, on arvoinen) 彼の努力は賞賛**に値する** (similar/compare) vs. riittava, arvoinen
+??
+～に足る (riittava, arvoinen) 信頼する**に足る**人物 (similar/compare) vs. ansaitsee, on arvoinen
+
+N／V辞書形＋に値する (ansaitsee, on arvoinen) 彼の努力は賞賛**に値する** (similar) vs. kestaa, ei kesta
+??
+～に耐える・に耐えない (kestaa, ei kesta) 鑑賞**に耐える**作品 (similar) vs. ansaitsee, on arvoinen

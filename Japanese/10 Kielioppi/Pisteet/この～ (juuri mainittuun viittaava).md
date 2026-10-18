@@ -62,4 +62,6 @@ Lainaus ensin, sitten この + selittävä jatko.
 
 #flashcards/grammar/n2/vertailu
 
-「lainaus」。この＋N (juuri mainittuun viittaava) (similar) ::: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) (similar)
+「lainaus」。この＋N (juuri mainittuun viittaava) 「一期一会」。**この**言葉が好きだ (similar) vs. paikat ja suunnat
+??
+ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) ここは食堂です (similar) vs. juuri mainittuun viittaava

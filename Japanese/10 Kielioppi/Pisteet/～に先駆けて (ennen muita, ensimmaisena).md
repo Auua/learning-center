@@ -68,4 +68,6 @@ Ylpeä edelläkävijyys.
 
 #flashcards/grammar/n1/vertailu
 
-N＋に先駆けて／に先駆け (ennen muita, ensimmaisena) (similar/compare) ::: ～に先立ち (ennen, etukateen) (similar/compare)
+N＋に先駆けて／に先駆け (ennen muita, ensimmaisena) 他社**に先駆けて**、新製品を発売した (similar/compare) vs. ennen, etukateen
+??
+～に先立ち (ennen, etukateen) 開会**に先立ち**、市長が挨拶した (similar/compare) vs. ennen muita, ensimmaisena

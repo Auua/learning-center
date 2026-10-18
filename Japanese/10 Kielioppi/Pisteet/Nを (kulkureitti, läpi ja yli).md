@@ -76,6 +76,14 @@ Ei varsinaisesti — se merkitsee kulkureittiä intransitiiviverbin kanssa.
 
 #flashcards/grammar/n4/vertailu
 
-N（通過点）を＋移動動詞 (kulkureitti, läpi ja yli) (similar/compare) ::: Nに入ります・Nを出ます (sisään ja ulos) (similar/compare)
-N（通過点）を＋移動動詞 (kulkureitti, läpi ja yli) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
-N（通過点）を＋移動動詞 (kulkureitti, läpi ja yli) (similar/compare) ::: Nを V (objekti) (similar/compare)
+N（通過点）を＋移動動詞 (kulkureitti, läpi ja yli) 公園**を**散歩します (similar/compare) vs. sisään ja ulos
+??
+Nに入ります・Nを出ます (sisään ja ulos) 喫茶店**に入ります** (similar/compare) vs. kulkureitti, läpi ja yli
+
+N（通過点）を＋移動動詞 (kulkureitti, läpi ja yli) 公園**を**散歩します (similar) vs. へ・で・と
+??
+Liikkumisen partikkelit (へ・で・と) 京都**へ**行きます (similar) vs. kulkureitti, läpi ja yli
+
+N（通過点）を＋移動動詞 (kulkureitti, läpi ja yli) 公園**を**散歩します (similar/compare) vs. objekti
+??
+Nを V (objekti) ジュース**を**飲みます (similar/compare) vs. kulkureitti, läpi ja yli

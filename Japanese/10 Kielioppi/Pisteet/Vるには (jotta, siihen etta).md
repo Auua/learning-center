@@ -71,6 +71,14 @@ Edellytys (必要だ, なければならない) tai arvio (難しい, 便利だ)
 
 #flashcards/grammar/n3/vertailu
 
-V(辞書形)＋には (jotta, siihen etta) (similar/compare) ::: Vためには (jotta voisi) (similar/compare)
-V(辞書形)＋には (jotta, siihen etta) (compare) ::: Vように (jotta, niin etta) (compare)
-V(辞書形)＋には (jotta, siihen etta) (compare) ::: ～には無理がある (on epärealistista) (compare)
+V(辞書形)＋には (jotta, siihen etta) 日本で働く**には**、ビザが必要だ (similar/compare) vs. jotta voisi
+??
+Vためには (jotta voisi) マンションを買う**ためには**、3,000万円くらい必要だ (similar/compare) vs. jotta, siihen etta
+
+V(辞書形)＋には (jotta, siihen etta) 日本で働く**には**、ビザが必要だ (compare) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (compare) vs. jotta, siihen etta
+
+V(辞書形)＋には (jotta, siihen etta) 日本で働く**には**、ビザが必要だ (compare) vs. on epärealistista
+??
+～には無理がある (on epärealistista) 一日で全部終わらせる**には無理がある** (compare) vs. jotta, siihen etta

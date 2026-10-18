@@ -68,5 +68,10 @@ Toisten tunne tai odotus: 心配, 期待.
 
 #flashcards/grammar/n1/vertailu
 
-N＋をよそに (valittamatta, piittaamatta) (similar/compare) ::: ～もかまわず (valittamatta) (similar/compare)
-N＋をよそに (valittamatta, piittaamatta) (similar) ::: ～を顧みず (valittamatta) (similar)
+N＋をよそに (valittamatta, piittaamatta) 親の心配**をよそに**、子どもは遊びに出かけた (similar/compare) vs. "välittämättä" (muiden katseista)
+??
+～もかまわず (valittamatta) 人目**もかまわず**、大声で泣いた (similar/compare) vs. "piittaamatta" (ympäristön huolesta)
+
+N＋をよそに (valittamatta, piittaamatta) 親の心配**をよそに**、子どもは遊びに出かけた (similar) vs. "välittämättä" (vaarasta)
+??
+～を顧みず (valittamatta) 危険**を顧みず**、子どもを助けた (similar) vs. "piittaamatta"

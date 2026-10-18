@@ -71,7 +71,18 @@ Ei luontevasti — だらけ on kielteinen; käytä 花でいっぱい.
 
 #flashcards/grammar/n3/vertailu
 
-N＋だらけ (taynna, kauttaaltaan) (similar/compare) ::: Nまみれ (taysin jonkin peitossa) (similar/compare)
-N＋だらけ (taynna, kauttaaltaan) (similar/compare) ::: Nずくめ (pelkkaa, taynna) (similar/compare)
-N＋だらけ (taynna, kauttaaltaan) (compare) ::: ～てばかりいる・～ばかり～ている (liiallinen keskittyminen) (compare)
-N＋だらけ (taynna, kauttaaltaan) (compare) ::: ～っぽい (-mainen, taipuvainen) (compare)
+N＋だらけ (taynna, kauttaaltaan) 部屋がごみ**だらけ**だ (similar/compare) vs. taysin jonkin peitossa
+??
+Nまみれ (taysin jonkin peitossa) 子どもが泥**まみれ**で帰ってきた (similar/compare) vs. taynna, kauttaaltaan
+
+N＋だらけ (taynna, kauttaaltaan) 部屋がごみ**だらけ**だ (similar/compare) vs. pelkkaa, taynna
+??
+Nずくめ (pelkkaa, taynna) 今年はいいこと**ずくめ**だった (similar/compare) vs. taynna, kauttaaltaan
+
+N＋だらけ (taynna, kauttaaltaan) 部屋がごみ**だらけ**だ (compare) vs. liiallinen keskittyminen
+??
+～てばかりいる・～ばかり～ている (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (compare) vs. taynna, kauttaaltaan
+
+N＋だらけ (taynna, kauttaaltaan) 部屋がごみ**だらけ**だ (compare) vs. -mainen, taipuvainen
+??
+～っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. taynna, kauttaaltaan

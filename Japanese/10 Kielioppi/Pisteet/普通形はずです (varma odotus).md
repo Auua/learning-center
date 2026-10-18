@@ -90,6 +90,14 @@ Miten はず eroaa でしょう:sta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形はずです (varma odotus) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
-普通形はずです (varma odotus) (similar/compare) ::: Vかもしれません (saattaa olla etta) (similar/compare)
-普通形はずです (varma odotus) (similar/compare) ::: 普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) (similar/compare)
+普通形はずです (varma odotus) 書類は速達で出しましたから、あした**着くはずです** (similar/compare) vs. todennakoisyys
+??
+普通形でしょう (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. varma odotus
+
+普通形はずです (varma odotus) 書類は速達で出しましたから、あした**着くはずです** (similar/compare) vs. saattaa olla etta
+??
+Vかもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (similar/compare) vs. varma odotus
+
+普通形はずです (varma odotus) 書類は速達で出しましたから、あした**着くはずです** (similar/compare) vs. mahdottomuus ja toteutumaton odotus
+??
+普通形はずがない・はずだった (mahdottomuus ja toteutumaton odotus) **知らないはずがありません** (similar/compare) vs. varma odotus

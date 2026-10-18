@@ -64,10 +64,30 @@ Puhekielisempi supistuma.
 
 #flashcards/grammar/n3/vertailu
 
-N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar) ::: Nも (myos, sama patee) (similar)
-N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar/compare) ::: ～ばかりでなく (ei ainoastaan, vaan myos) (similar/compare)
-N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～上に (lisaksi, paalle paatteeksi) (compare)
-N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～はもちろん (puhumattakaan) (compare)
-N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～ばかりか (ei vain, vaan jopa) (compare)
-N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (compare) ::: ～に加えて (lisaksi) (compare)
-N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) (similar/compare) ::: ～のみならず (ei vain, vaan myos) (similar/compare)
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (similar) vs. myos, sama patee
+??
+Nも (myos, sama patee) 私**も**学生です (similar) vs. ei pelkastaan vaan myos
+
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (similar/compare) vs. ei ainoastaan, vaan myos
+??
+～ばかりでなく (ei ainoastaan, vaan myos) ここは温泉**ばかりでなく**、釣りや山登りも楽しめます (similar/compare) vs. ei pelkastaan vaan myos
+
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (compare) vs. lisaksi, paalle paatteeksi
+??
+～上に (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (compare) vs. ei pelkastaan vaan myos
+
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (compare) vs. puhumattakaan
+??
+～はもちろん (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (compare) vs. ei pelkastaan vaan myos
+
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (compare) vs. ei vain, vaan jopa
+??
+～ばかりか (ei vain, vaan jopa) 彼は英語**ばかりか**、中国語**も**話せる (compare) vs. ei pelkastaan vaan myos
+
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (compare) vs. lisaksi
+??
+～に加えて (lisaksi) 雨**に加えて**、風も強くなった (compare) vs. ei pelkastaan vaan myos
+
+N／普通形＋だけでなく（〜も） (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (similar/compare) vs. ei vain, vaan myos
+??
+～のみならず (ei vain, vaan myos) 日本**のみならず**、世界中で人気がある (similar/compare) vs. ei pelkastaan vaan myos

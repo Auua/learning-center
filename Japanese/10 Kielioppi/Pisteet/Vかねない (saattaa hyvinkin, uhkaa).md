@@ -69,5 +69,10 @@ Kielteinen — varoitus.
 
 #flashcards/grammar/n2/vertailu
 
-V(ます-vartalo)＋かねない (saattaa hyvinkin, uhkaa) (similar/compare) ::: Vる恐れがある (on vaarana etta) (similar/compare)
-V(ます-vartalo)＋かねない (saattaa hyvinkin, uhkaa) (compare) ::: Vかねる (ei voi, valitettavasti) (compare)
+V(ます-vartalo)＋かねない (saattaa hyvinkin, uhkaa) そんな運転をしたら、事故を起こし**かねない** (similar/compare) vs. on vaarana etta
+??
+Vる恐れがある (on vaarana etta) 台風13号は九州に**上陸する恐れがあります** (similar/compare) vs. saattaa hyvinkin, uhkaa
+
+V(ます-vartalo)＋かねない (saattaa hyvinkin, uhkaa) そんな運転をしたら、事故を起こし**かねない** (compare) vs. ei voi, valitettavasti
+??
+Vかねる (ei voi, valitettavasti) そのご質問にはお答えし**かねます** (compare) vs. saattaa hyvinkin, uhkaa

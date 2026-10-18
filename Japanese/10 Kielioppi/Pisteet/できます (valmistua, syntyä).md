@@ -88,4 +88,6 @@ Jos aihe on rakennus/tapahtuma/asia, joka ilmestyy, kyse on 'valmistua, syntyä'
 
 #flashcards/grammar/n4/vertailu
 
-Nができます（valmistua） (valmistua, syntyä) (compare) ::: Potentiaali える (compare)
+Nができます（valmistua） (valmistua, syntyä) 関西空港はいつできましたか (compare) vs. potentiaalimuoto
+??
+Potentiaali える **が**: 日本語**を**話す (compare) vs. valmistua, syntyä

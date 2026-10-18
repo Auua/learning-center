@@ -99,10 +99,30 @@ Verbin ja edeltävän sanan tyypistä: ajoneuvo + liikeverbi → kulkuväline; p
 
 #flashcards/grammar/n5/vertailu
 
-N（道具・手段）で (N (väline) で) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
-N（道具・手段）で (N (väline) で) (similar) ::: N (paikka) で (similar)
-N（道具・手段）で (N (väline) で) (similar) ::: N (syy) で (similar)
-N（道具・手段）で (N (väline) で) (similar/compare) ::: N (ryhmä, määrä, aika) で (similar/compare)
-N（道具・手段）で (N (väline) で) (similar) ::: N（材料）で (valmistusaine) (similar)
-N（道具・手段）で (N (väline) で) (similar) ::: Nにて (-ssa, -lla, muodollinen) (similar)
-N（道具・手段）で (N (väline) で) (similar/compare) ::: 「Sana」は～語で何ですか (miten sanotaan kielellä) (similar/compare)
+N（道具・手段）で (N (väline) で) はし**で**食べます (similar) vs. へ・で・と
+??
+Liikkumisen partikkelit (へ・で・と) 京都**へ**行きます (similar) vs. väline
+
+N（道具・手段）で (N (väline) で) はし**で**食べます (similar) vs. paikka
+??
+N (paikka) で 駅**で**新聞を買います (similar) vs. väline
+
+N（道具・手段）で (N (väline) で) はし**で**食べます (similar) vs. syy
+??
+N (syy) で 病気**で**休みました (similar) vs. väline
+
+N（道具・手段）で (N (väline) で) はし**で**食べます (similar/compare) vs. ryhmä, määrä, aika
+??
+N (ryhmä, määrä, aika) で 一人**で**作りました (similar/compare) vs. väline
+
+N（道具・手段）で (N (väline) で) はし**で**食べます (similar) vs. valmistusaine
+??
+N（材料）で (valmistusaine) この机は木**で**作りました (similar) vs. väline
+
+N（道具・手段）で (N (väline) で) はし**で**食べます (similar) vs. -ssa, -lla, muodollinen
+??
+Nにて (-ssa, -lla, muodollinen) 会場**にて**受付を行います (similar) vs. väline
+
+N（道具・手段）で (N (väline) で) はし**で**食べます (similar/compare) vs. miten sanotaan kielellä
+??
+「Sana」は～語で何ですか (miten sanotaan kielellä) 「Thank you」は日本語で**何ですか** (similar/compare) vs. väline

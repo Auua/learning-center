@@ -69,4 +69,6 @@ Paremmasta voisi haaveilla loputtomiin.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／Vたら／Vば＋切りがない（きりがない） (ei loppua, loputon) (similar/compare) ::: Vます-vartalo＋切れない (ei pysty kokonaan) (similar/compare)
+V辞書形／Vたら／Vば＋切りがない（きりがない） (ei loppua, loputon) 文句を言い出したら**切りがない** (similar/compare) vs. ei pysty kokonaan
+??
+Vます-vartalo＋切れない (ei pysty kokonaan) 多すぎて食べ**切れない** (similar/compare) vs. ei loppua, loputon

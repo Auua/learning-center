@@ -71,6 +71,14 @@ Mikä on について:n muodollisempi vastine?
 
 #flashcards/grammar/n3/vertailu
 
-N＋について／についての (aiheesta) (similar/compare) ::: ～に関する・に関して (koskien) (similar/compare)
-N＋について／についての (aiheesta) (similar/compare) ::: ～をめぐって (ymparilla, koskien kiistaa) (similar/compare)
-N＋について／についての (aiheesta) (compare) ::: ～に対して (kohtaan, vastakohtana) (compare)
+N＋について／についての (aiheesta) 日本の文化**について**調べています (similar/compare) vs. koskien
+??
+～に関する・に関して (koskien) 働きアリ**に関する**有名な研究がある (similar/compare) vs. aiheesta
+
+N＋について／についての (aiheesta) 日本の文化**について**調べています (similar/compare) vs. ymparilla, koskien kiistaa
+??
+～をめぐって (ymparilla, koskien kiistaa) 遺産**をめぐって**、兄弟が争った (similar/compare) vs. aiheesta
+
+N＋について／についての (aiheesta) 日本の文化**について**調べています (compare) vs. kohtaan, vastakohtana
+??
+～に対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (compare) vs. aiheesta

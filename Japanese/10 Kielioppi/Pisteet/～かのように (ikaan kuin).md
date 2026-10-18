@@ -70,6 +70,14 @@ Ei — se on vastoin tosiasiaa.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N である）＋かのように／かのような (ikaan kuin) (similar/compare) ::: まるで～ようだ (aivan kuin) (similar/compare)
-普通形（N である）＋かのように／かのような (ikaan kuin) (similar) ::: ～んばかりに (aivan kuin, melkein) (similar)
-普通形（N である）＋かのように／かのような (ikaan kuin) (compare) ::: ～ふりをする (teeskennella) (compare)
+普通形（N である）＋かのように／かのような (ikaan kuin) 何も知らない**かのように**振る舞う (similar/compare) vs. aivan kuin
+??
+まるで～ようだ (aivan kuin) **まるで**夢**のようだ** (similar/compare) vs. ikaan kuin
+
+普通形（N である）＋かのように／かのような (ikaan kuin) 何も知らない**かのように**振る舞う (similar) vs. aivan kuin, melkein
+??
+～んばかりに (aivan kuin, melkein) 泣き出さ**んばかりに**、頼んだ (similar) vs. ikaan kuin
+
+普通形（N である）＋かのように／かのような (ikaan kuin) 何も知らない**かのように**振る舞う (compare) vs. teeskennella
+??
+～ふりをする (teeskennella) 聞こえない**ふりをした** (compare) vs. ikaan kuin

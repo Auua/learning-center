@@ -68,4 +68,6 @@ Kiitollisuutta: olen tässä teidän ansiostanne.
 
 #flashcards/grammar/n1/vertailu
 
-N1あっての N2 (ilman ei olisi) (similar/compare) ::: ～なくしては (ilman jotakin ei) (similar/compare)
+N1あっての N2 (ilman ei olisi) お客様**あっての**商売です (similar/compare) vs. ilman jotakin ei
+??
+～なくしては (ilman jotakin ei) 皆様の協力**なくしては**、成功しなかった (similar/compare) vs. ilman ei olisi

@@ -72,5 +72,10 @@ Kumpi sopii puhuttuun ja kirjoitettuun kieleen: のではないか vai のでは
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋の（ん）ではないか (paattelevä oletus) (similar/compare) ::: 普通形のではないだろうか (varovainen oletus) (similar/compare)
-普通形＋の（ん）ではないか (paattelevä oletus) (compare) ::: 普通形じゃないか (eiko olekin, huomautus) (compare)
+普通形＋の（ん）ではないか (paattelevä oletus) 何かあった**のではないか** (similar/compare) vs. varovainen oletus
+??
+普通形のではないだろうか (varovainen oletus) 実現は難しい**のではないだろうか** (similar/compare) vs. paattelevä oletus
+
+普通形＋の（ん）ではないか (paattelevä oletus) 何かあった**のではないか** (compare) vs. eiko olekin, huomautus
+??
+普通形じゃないか (eiko olekin, huomautus) なんだ、田中さん**じゃないか** (compare) vs. paattelevä oletus

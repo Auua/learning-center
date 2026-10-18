@@ -76,8 +76,22 @@ Kohde (kohtaan), kontrasti (kun taas), suhde (kohden).
 
 #flashcards/grammar/n3/vertailu
 
-N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (similar/compare) ::: ～に引き換え (toisin kuin) (similar/compare)
-N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (compare) ::: ～について (aiheesta) (compare)
-N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (compare) ::: ～にとって (jonkun nakokulmasta) (compare)
-N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (compare) ::: ～に反して (vastoin) (compare)
-N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) (compare) ::: ～に向かって (kohti, -lle) (compare)
+N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (similar/compare) vs. toisin kuin
+??
+～に引き換え (toisin kuin) 兄**に引き換え**、弟は怠け者だ (similar/compare) vs. kohtaan, vastakohtana
+
+N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (compare) vs. aiheesta
+??
+～について (aiheesta) 日本の文化**について**調べています (compare) vs. kohtaan, vastakohtana
+
+N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (compare) vs. jonkun nakokulmasta
+??
+～にとって (jonkun nakokulmasta) 赤ちゃん**にとって**十分な睡眠は欠かせないものだ (compare) vs. kohtaan, vastakohtana
+
+N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (compare) vs. vastoin
+??
+～に反して (vastoin) 予想**に反して**、試合に負けた (compare) vs. kohtaan, vastakohtana
+
+N＋に対して／に対する／普通形のに対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (compare) vs. kohti, -lle
+??
+～に向かって (kohti, -lle) 山**に向かって**歩いた (compare) vs. kohtaan, vastakohtana

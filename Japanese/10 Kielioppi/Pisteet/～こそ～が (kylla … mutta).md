@@ -68,4 +68,6 @@ Lähes sama; ことは toistaa sanan, こそ korostaa substantiivia.
 
 #flashcards/grammar/n1/vertailu
 
-N／V(ます-vartalo)＋こそ＋V(する)＋が／けれど (kylla … mutta) (similar/compare) ::: ～ことは～が (kylla mutta) (similar/compare)
+N／V(ます-vartalo)＋こそ＋V(する)＋が／けれど (kylla … mutta) 時間**こそ**かかった**が**、いい作品ができた (similar/compare) vs. "kyllä… mutta" arkisempi
+??
+～ことは～が (kylla mutta) 行く**ことは**行く**が**、遅れるかもしれない (similar/compare) vs. "kyllä… mutta" こそ-muodolla

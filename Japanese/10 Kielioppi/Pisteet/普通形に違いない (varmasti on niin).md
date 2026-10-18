@@ -71,6 +71,14 @@ Miten に違いない eroaa はずです:sta?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋に違いない (varmasti on niin) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
-普通形＋に違いない (varmasti on niin) (similar/compare) ::: ～に決まっている (taytyy olla, ilman muuta) (similar/compare)
-普通形＋に違いない (varmasti on niin) (similar/compare) ::: ～に相違ない (epailematta) (similar/compare)
+普通形＋に違いない (varmasti on niin) 今日もきっと遅れてくる**に違いない** (similar/compare) vs. varma odotus
+??
+普通形はずです (varma odotus) 書類は速達で出しましたから、あした**着くはずです** (similar/compare) vs. varmasti on niin
+
+普通形＋に違いない (varmasti on niin) 今日もきっと遅れてくる**に違いない** (similar/compare) vs. taytyy olla, ilman muuta
+??
+～に決まっている (taytyy olla, ilman muuta) そんなの嘘**に決まっている** (similar/compare) vs. varmasti on niin
+
+普通形＋に違いない (varmasti on niin) 今日もきっと遅れてくる**に違いない** (similar/compare) vs. epailematta
+??
+～に相違ない (epailematta) 犯人は彼**に相違ない** (similar/compare) vs. varmasti on niin

@@ -72,5 +72,10 @@ Miten Sぞ eroaa Sよ:sta?
 
 #flashcards/grammar/n3/vertailu
 
-S＋ぞ (voimakas tuttavallinen loppupartikkeli) (similar/compare) ::: Sよ (uuden tiedon korostus) (similar/compare)
-S＋ぞ (voimakas tuttavallinen loppupartikkeli) (similar) ::: Sさ (painotus, tuttavallinen) (similar)
+S＋ぞ (voimakas tuttavallinen loppupartikkeli) すごい音楽がある**ぞ** (similar/compare) vs. uuden tiedon korostus
+??
+Sよ (uuden tiedon korostus) 350円です**よ** (similar/compare) vs. voimakas tuttavallinen loppupartikkeli
+
+S＋ぞ (voimakas tuttavallinen loppupartikkeli) すごい音楽がある**ぞ** (similar) vs. painotus, tuttavallinen
+??
+Sさ (painotus, tuttavallinen) 大丈夫**さ** (similar) vs. voimakas tuttavallinen loppupartikkeli

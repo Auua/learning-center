@@ -71,6 +71,14 @@ Sama; のみ on kirjallinen ja virallinen.
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋のみ (vain, kirjallinen) (similar/compare) ::: Maara だけ・Nだけ (similar/compare)
-N／普通形＋のみ (vain, kirjallinen) (similar/compare) ::: ただ～のみだ (vain, ei muuta kuin) (similar/compare)
-N／普通形＋のみ (vain, kirjallinen) (compare) ::: ～のみならず (ei vain, vaan myos) (compare)
+N／普通形＋のみ (vain, kirjallinen) 会員**のみ**入場できます (similar/compare) vs. arkinen "vain"
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (similar/compare) vs. vain, kirjallinen
+
+N／普通形＋のみ (vain, kirjallinen) 会員**のみ**入場できます (similar/compare) vs. vain, ei muuta kuin
+??
+ただ～のみだ (vain, ei muuta kuin) あとは**ただ**祈る**のみだ** (similar/compare) vs. vain, kirjallinen
+
+N／普通形＋のみ (vain, kirjallinen) 会員**のみ**入場できます (compare) vs. ei vain, vaan myos
+??
+～のみならず (ei vain, vaan myos) 日本**のみならず**、世界中で人気がある (compare) vs. vain, kirjallinen

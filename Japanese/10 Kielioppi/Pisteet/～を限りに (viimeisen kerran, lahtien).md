@@ -69,4 +69,6 @@ Niin kovaa kuin pystyy.
 
 #flashcards/grammar/n1/vertailu
 
-N(aika)＋を限りに (viimeisen kerran, lahtien) (similar/compare) ::: ～をもって (avulla, alkaen, paattyen) (similar/compare)
+N(aika)＋を限りに (viimeisen kerran, lahtien) 今日**を限りに**、たばこをやめる (similar/compare) vs. avulla, alkaen, paattyen
+??
+～をもって (avulla, alkaen, paattyen) 書面**をもって**通知する (similar/compare) vs. viimeisen kerran, lahtien

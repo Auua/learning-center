@@ -86,5 +86,10 @@ Vませんか; se on kohteliaampi ja varovaisempi. Vましょう on suorempi ja 
 
 #flashcards/grammar/n5/vertailu
 
-Vませんか／Vましょう (etkö tulisi, tehdäänkö) (similar/compare) ::: Vようではないか (tehkäämme, juhlava kehotus) (similar/compare)
-Vませんか／Vましょう (etkö tulisi, tehdäänkö) (similar) ::: Nはありませんか (onko teillä, kohtelias kysely) (similar)
+Vませんか／Vましょう (etkö tulisi, tehdäänkö) いっしょに京都へ行き**ませんか** (similar/compare) vs. tehkäämme, juhlava kehotus
+??
+Vようではないか (tehkäämme, juhlava kehotus) みんなで力を合わせよう**ではないか** (similar/compare) vs. etkö tulisi, tehdäänkö
+
+Vませんか／Vましょう (etkö tulisi, tehdäänkö) いっしょに京都へ行き**ませんか** (similar) vs. onko teillä, kohtelias kysely
+??
+Nはありませんか (onko teillä, kohtelias kysely) チリソース**はありませんか** (similar) vs. etkö tulisi, tehdäänkö

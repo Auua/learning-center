@@ -68,4 +68,6 @@ Melkein ilmainen.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（N）＋も同然だ (kuin, kaytannossa sama) (similar/compare) ::: まるで～ようだ (aivan kuin) (similar/compare)
+普通形（N）＋も同然だ (kuin, kaytannossa sama) この車はもう新品**も同然だ** (similar/compare) vs. aivan kuin
+??
+まるで～ようだ (aivan kuin) **まるで**夢**のようだ** (similar/compare) vs. kuin, kaytannossa sama

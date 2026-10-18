@@ -68,4 +68,6 @@ Asia (teos, tapahtuma), joka vaikuttaa muihin.
 
 #flashcards/grammar/n1/vertailu
 
-V(ない-vartalo)＋ずにはおかない／ないではおかない (saa vaistamatta aikaan) (similar/compare) ::: Vずにはいられない (ei voi olla tekematta) (similar/compare)
+V(ない-vartalo)＋ずにはおかない／ないではおかない (saa vaistamatta aikaan) この映画は人を感動させ**ずにはおかない** (similar/compare) vs. ei voi olla tekematta
+??
+Vずにはいられない (ei voi olla tekematta) 笑わ**ずにはいられない** (similar/compare) vs. saa vaistamatta aikaan

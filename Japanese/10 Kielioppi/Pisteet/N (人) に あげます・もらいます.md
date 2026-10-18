@@ -88,6 +88,14 @@ Aina vastaanottajan tai lähteen, ei lauseen aihetta.
 
 #flashcards/grammar/n5/vertailu
 
-N（人）にあげます／もらいます (N (人) に あげます・もらいます) (similar) ::: Keigo — kartta (similar)
-N（人）にあげます／もらいます (N (人) に あげます・もらいます) (similar/compare) ::: N1にN2をやります (antaa alaspäin) (similar/compare)
-N（人）にあげます／もらいます (N (人) に あげます・もらいます) (similar) ::: N（tilaisuus）に (お祝いに, lahjan tarkoitus) (similar)
+N（人）にあげます／もらいます (N (人) に あげます・もらいます) 銀行**から**お金を借りました (similar) vs. keigon kokonaiskartta (kunnioitus vs. nöyryys)
+??
+Keigo — kartta 先生が**いらっしゃいました** (similar) vs. 人
+
+N（人）にあげます／もらいます (N (人) に あげます・もらいます) 銀行**から**お金を借りました (similar/compare) vs. antaa alaspäin
+??
+N1にN2をやります (antaa alaspäin) 毎朝、犬**に**えさ**を**やります (similar/compare) vs. 人
+
+N（人）にあげます／もらいます (N (人) に あげます・もらいます) 銀行**から**お金を借りました (similar) vs. お祝いに, lahjan tarkoitus
+??
+N（tilaisuus）に (お祝いに, lahjan tarkoitus) 結婚**のお祝いに**このお皿をいただきました (similar) vs. 人

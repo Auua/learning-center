@@ -68,4 +68,6 @@ Kielteinen — moitittava hyväksikäyttö.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形の＋をいいことに (hyvaksi kayttaen) (similar/compare) ::: ～にかこつけて (tekosyyna kayttaen) (similar/compare)
+N／普通形の＋をいいことに (hyvaksi kayttaen) 親の留守**をいいことに**、遊んでばかりいる (similar/compare) vs. tekosyyna kayttaen
+??
+～にかこつけて (tekosyyna kayttaen) 出張**にかこつけて**、観光を楽しんだ (similar/compare) vs. hyvaksi kayttaen

@@ -72,5 +72,10 @@ Tämä oli viimeinen kerta; ei enää.
 
 #flashcards/grammar/n3/vertailu
 
-N／Vた＋きり（だ） (vain, sen jalkeen ei) (compare) ::: ～まま・～のまま (muuttumaton tila) (compare)
-N／Vた＋きり（だ） (vain, sen jalkeen ei) (compare) ::: Maara だけ・Nだけ (compare)
+N／Vた＋きり（だ） (vain, sen jalkeen ei) 二人**きり**で話したい (compare) vs. muuttumaton tila
+??
+～まま・～のまま (muuttumaton tila) **靴をはいたまま**、部屋に入らないでください (compare) vs. vain, sen jalkeen ei
+
+N／Vた＋きり（だ） (vain, sen jalkeen ei) 二人**きり**で話したい (compare) vs. "vain" rajaus
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (compare) vs. vain, sen jalkeen ei

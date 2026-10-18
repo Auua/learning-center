@@ -108,8 +108,22 @@ Vさえ～ば on ehtolause (kunhan X, niin Y); だけでいい on toteamus siit�
 
 #flashcards/grammar/n3/vertailu
 
-…だけだ／［ただ］…だけでいい (vain se riittää) (similar/compare) ::: Maara だけ・Nだけ (similar/compare)
-…だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: Nしか Vません (vain, pelkastaan) (similar)
-…だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: Vさえ～ば (kunhan vain) (similar)
-…だけだ／［ただ］…だけでいい (vain se riittää) (compare) ::: Vだけで (pelkastaan tekemalla) (compare)
-…だけだ／［ただ］…だけでいい (vain se riittää) (similar) ::: ただ～のみだ (vain, ei muuta kuin) (similar)
+…だけだ／［ただ］…だけでいい (vain se riittää) このボタンを**押すだけでいい**んです (similar/compare) vs. "vain" rajaus
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (similar/compare) vs. vain se riittää
+
+…だけだ／［ただ］…だけでいい (vain se riittää) このボタンを**押すだけでいい**んです (similar) vs. vain, pelkastaan
+??
+Nしか Vません (vain, pelkastaan) わたしの会社は1週間**しか**休めません (similar) vs. vain se riittää
+
+…だけだ／［ただ］…だけでいい (vain se riittää) このボタンを**押すだけでいい**んです (similar) vs. kunhan vain
+??
+Vさえ～ば (kunhan vain) 家族が健康に暮らして**さえいれば**、十分に幸せです (similar) vs. vain se riittää
+
+…だけだ／［ただ］…だけでいい (vain se riittää) このボタンを**押すだけでいい**んです (compare) vs. pelkastaan tekemalla
+??
+Vだけで (pelkastaan tekemalla) 考える**だけで**、楽しくなる (compare) vs. vain se riittää
+
+…だけだ／［ただ］…だけでいい (vain se riittää) このボタンを**押すだけでいい**んです (similar) vs. vain, ei muuta kuin
+??
+ただ～のみだ (vain, ei muuta kuin) あとは**ただ**祈る**のみだ** (similar) vs. vain se riittää

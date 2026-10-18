@@ -70,6 +70,14 @@ Ensimmäinen = ehto (siinä tapauksessa); toinen = kehotus (nyt ei ole aika).
 
 #flashcards/grammar/n3/vertailu
 
-V(て)いる／N＋場合じゃない／場合ではない (nyt ei ole aika) (similar) ::: 〜場合は (siina tapauksessa etta) (similar)
-V(て)いる／N＋場合じゃない／場合ではない (nyt ei ole aika) (similar) ::: ～どころではない (ei ole aikaa, puhumattakaan) (similar)
-V(て)いる／N＋場合じゃない／場合ではない (nyt ei ole aika) (similar/compare) ::: Vてはいられない (ei voi jaada tekemaan) (similar/compare)
+V(て)いる／N＋場合じゃない／場合ではない (nyt ei ole aika) 寝ている**場合じゃない** (similar) vs. siina tapauksessa etta
+??
+〜場合は (siina tapauksessa etta) 調子が**悪い場合は**、この番号に連絡してください (similar) vs. nyt ei ole aika
+
+V(て)いる／N＋場合じゃない／場合ではない (nyt ei ole aika) 寝ている**場合じゃない** (similar) vs. ei ole aikaa, puhumattakaan
+??
+～どころではない (ei ole aikaa, puhumattakaan) 忙しくて、旅行**どころではない** (similar) vs. nyt ei ole aika
+
+V(て)いる／N＋場合じゃない／場合ではない (nyt ei ole aika) 寝ている**場合じゃない** (similar/compare) vs. ei voi jaada tekemaan
+??
+Vてはいられない (ei voi jaada tekemaan) のんびりし**てはいられない** (similar/compare) vs. nyt ei ole aika

@@ -74,4 +74,6 @@ Miten N にわたって eroaa ～あいだ:sta?
 
 #flashcards/grammar/n2/vertailu
 
-N（期間／範囲）＋に［も］わたって (koko ajan・alueen) (similar/compare) ::: ～あいだ・～あいだに (kesto vs. hetki) (similar/compare)
+N（期間／範囲）＋に［も］わたって (koko ajan・alueen) 手術は3時間**にわたって**行われた (similar/compare) vs. kesto vs. hetki
+??
+～あいだ・～あいだに (kesto vs. hetki) 子どもが**眠っているあいだ**、わたしはビデオを見ていた (similar/compare) vs. koko ajan・alueen

@@ -69,5 +69,10 @@ Seuraus (teko → tulos) ja päätelmä.
 
 #flashcards/grammar/n2/vertailu
 
-S1。そうすると、S2。 (siina tapauksessa, sitten) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
-S1。そうすると、S2。 (siina tapauksessa, sitten) (compare) ::: ～とすれば・としたら・とすると (oletetaan etta) (compare)
+S1。そうすると、S2。 (siina tapauksessa, sitten) **そうすると**、ドアが開く (similar) vs. aina kun, väistämätön seuraus
+??
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. siina tapauksessa, sitten
+
+S1。そうすると、S2。 (siina tapauksessa, sitten) **そうすると**、ドアが開く (compare) vs. oletetaan etta
+??
+～とすれば・としたら・とすると (oletetaan etta) 宝くじが当たった**としたら**、何をしますか (compare) vs. siina tapauksessa, sitten

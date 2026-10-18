@@ -69,6 +69,14 @@ Muodollisiin: avajaiset, julkaisu, ottelu.
 
 #flashcards/grammar/n2/vertailu
 
-N／V辞書形＋に先立ち／に先立って (ennen, etukateen) (similar/compare) ::: ～に先駆けて (ennen muita, ensimmaisena) (similar/compare)
-N／V辞書形＋に先立ち／に先立って (ennen, etukateen) (similar/compare) ::: ～を控えて (lahestyessa) (similar/compare)
-N／V辞書形＋に先立ち／に先立って (ennen, etukateen) (compare) ::: Vまえに (ennen) (compare)
+N／V辞書形＋に先立ち／に先立って (ennen, etukateen) 開会**に先立ち**、市長が挨拶した (similar/compare) vs. ennen muita, ensimmaisena
+??
+～に先駆けて (ennen muita, ensimmaisena) 他社**に先駆けて**、新製品を発売した (similar/compare) vs. ennen, etukateen
+
+N／V辞書形＋に先立ち／に先立って (ennen, etukateen) 開会**に先立ち**、市長が挨拶した (similar/compare) vs. lahestyessa
+??
+～を控えて (lahestyessa) 試験**を控えて**、毎日勉強している (similar/compare) vs. ennen, etukateen
+
+N／V辞書形＋に先立ち／に先立って (ennen, etukateen) 開会**に先立ち**、市長が挨拶した (compare) vs. "ennen kuin"
+??
+Vまえに (ennen) 日本へ来る**まえに**、日本語を勉強しました (compare) vs. "ennen, etukäteen" muodollinen

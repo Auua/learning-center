@@ -83,6 +83,14 @@ Kumpi: わけだ vai はずです, kun tehdään johtopäätös jo kerrotusta to
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋わけだ／わけである (johtopaatos, siis) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
-普通形＋わけだ／わけである (johtopaatos, siis) (similar) ::: 普通形わけがない (ei mitenkaan voi olla) (similar)
-普通形＋わけだ／わけである (johtopaatos, siis) (similar/compare) ::: ～ということは (se tarkoittaa etta) (similar/compare)
+普通形＋わけだ／わけである (johtopaatos, siis) 値上げをした**わけだ** (similar/compare) vs. varma odotus
+??
+普通形はずです (varma odotus) 書類は速達で出しましたから、あした**着くはずです** (similar/compare) vs. johtopaatos, siis
+
+普通形＋わけだ／わけである (johtopaatos, siis) 値上げをした**わけだ** (similar) vs. ei mitenkaan voi olla
+??
+普通形わけがない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (similar) vs. johtopaatos, siis
+
+普通形＋わけだ／わけである (johtopaatos, siis) 値上げをした**わけだ** (similar/compare) vs. se tarkoittaa etta
+??
+～ということは (se tarkoittaa etta) 返事がない**ということは**、来ない**ということだ** (similar/compare) vs. johtopaatos, siis

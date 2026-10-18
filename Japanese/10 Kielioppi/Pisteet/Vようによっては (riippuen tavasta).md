@@ -68,4 +68,6 @@ Ajattelutapa.
 
 #flashcards/grammar/n1/vertailu
 
-V(ます-vartalo)＋ようによっては／ようでは (riippuen tavasta) (similar/compare) ::: ～次第で (riippuen jostakin) (similar/compare)
+V(ます-vartalo)＋ようによっては／ようでは (riippuen tavasta) 考え**ようによっては**、これもいい経験だ (similar/compare) vs. riippuen jostakin
+??
+～次第で (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar/compare) vs. riippuen tavasta

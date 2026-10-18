@@ -103,7 +103,18 @@ Mikä ero on 食べていません ja 食べませんでした välillä?
 
 #flashcards/grammar/n5/vertailu
 
-まだVていません (ei ole vielä tehty) (similar/compare) ::: もう Vました・まだです (jo tehty, ei vielä) (similar/compare)
-まだVていません (ei ole vielä tehty) (similar) ::: Vてあります (tarkoituksella tehty tila) (similar)
-まだVていません (ei ole vielä tehty) (similar) ::: Vておきます (valmistelu etukateen) (similar)
-まだVていません (ei ole vielä tehty) (similar/compare) ::: まだ＋myönteinen (yhä, edelleen) (similar/compare)
+まだVていません (ei ole vielä tehty) **まだ決めていません** (similar/compare) vs. jo tehty, ei vielä
+??
+もう Vました・まだです (jo tehty, ei vielä) もう新幹線の切符を買いましたか (similar/compare) vs. ei ole vielä tehty
+
+まだVていません (ei ole vielä tehty) **まだ決めていません** (similar) vs. tarkoituksella tehty tila
+??
+Vてあります (tarkoituksella tehty tila) 交番に町の地図が**はって**あります (similar) vs. ei ole vielä tehty
+
+まだVていません (ei ole vielä tehty) **まだ決めていません** (similar) vs. valmistelu etukateen
+??
+Vておきます (valmistelu etukateen) 旅行のまえに、案内書を読んで**おきます** (similar) vs. ei ole vielä tehty
+
+まだVていません (ei ole vielä tehty) **まだ決めていません** (similar/compare) vs. yhä, edelleen
+??
+まだ＋myönteinen (yhä, edelleen) 雨が**まだ**降っています (similar/compare) vs. ei ole vielä tehty

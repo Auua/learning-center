@@ -81,7 +81,18 @@ Miten V1てから、V2 eroaa muodosta Vて、Vて?
 
 #flashcards/grammar/n5/vertailu
 
-V1てから、V2 (jälkeen) (similar) ::: Vて、Vて (peräkkäisyys) (similar)
-V1てから、V2 (jälkeen) (similar) ::: S1から、S2 (syy) (similar)
-V1てから、V2 (jälkeen) (similar) ::: Vてからでないと (vasta kun ensin) (similar)
-V1てから、V2 (jälkeen) (similar/compare) ::: Vた上で (sen jalkeen kun, harkiten) (similar/compare)
+V1てから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar) vs. peräkkäisyys
+??
+Vて、Vて (peräkkäisyys) 起き**て**、顔を洗っ**て**、出かけた (similar) vs. jälkeen
+
+V1てから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar) vs. syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar) vs. jälkeen
+
+V1てから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar) vs. vasta kun ensin
+??
+Vてからでないと (vasta kun ensin) 親に聞い**てからでないと**、決められない (similar) vs. jälkeen
+
+V1てから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar/compare) vs. sen jalkeen kun, harkiten
+??
+Vた上で (sen jalkeen kun, harkiten) よく考え**た上で**、決めてください (similar/compare) vs. jälkeen

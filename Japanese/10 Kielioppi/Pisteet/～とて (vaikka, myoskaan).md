@@ -70,5 +70,10 @@ Sama; とて kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋とて (vaikka, myoskaan) (similar/compare) ::: Nだって (vaikka, jopa) (similar/compare)
-N／普通形＋とて (vaikka, myoskaan) (similar) ::: Vても (vaikka) (similar)
+N／普通形＋とて (vaikka, myoskaan) 私**とて**、悲しくないわけではない (similar/compare) vs. vaikka, jopa
+??
+Nだって (vaikka, jopa) ……あら、袋**だって**必要なのよ (similar/compare) vs. vaikka, myoskaan
+
+N／普通形＋とて (vaikka, myoskaan) 私**とて**、悲しくないわけではない (similar) vs. neutraali "vaikka"
+??
+Vても (vaikka) 雨が降っ**ても**、洗濯します (similar) vs. kirjallinen "vaikka, myöskään"

@@ -89,8 +89,22 @@ Miten ほうがいいです eroaa 疑問詞+たらいいですか-rakenteesta?
 
 #flashcards/grammar/n4/vertailu
 
-V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: Vばいい (riittaa kun, pitaisi) (compare)
-V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: Vといい・Vたらいい (toivottavasti, kannattaisi) (compare)
-V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: ほうがましだ (mieluummin, parempi kuin) (compare)
-V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: Vことだ (kannattaa, neuvo) (compare)
-V(た形/ない形)ほうがいいです (kannattaisi tehda) (compare) ::: ～に越したことはない (on parasta jos) (compare)
+V(た形/ない形)ほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. riittaa kun, pitaisi
+??
+Vばいい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (compare) vs. kannattaisi tehda
+
+V(た形/ない形)ほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. toivottavasti, kannattaisi
+??
+Vといい・Vたらいい (toivottavasti, kannattaisi) 疲れたら、少し休む**といい**ですよ (compare) vs. kannattaisi tehda
+
+V(た形/ない形)ほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. mieluummin, parempi kuin
+??
+ほうがましだ (mieluummin, parempi kuin) 彼に頼むくらいなら、一人でやる**ほうがましだ** (compare) vs. kannattaisi tehda
+
+V(た形/ない形)ほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. kannattaa, neuvo
+??
+Vことだ (kannattaa, neuvo) 上手になりたければ、毎日練習する**ことだ** (compare) vs. kannattaisi tehda
+
+V(た形/ない形)ほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. on parasta jos
+??
+～に越したことはない (on parasta jos) 早く行く**に越したことはない** (compare) vs. kannattaisi tehda

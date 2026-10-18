@@ -96,7 +96,18 @@ Syy-によって merkitsee suoraa muodollista syytä (円高によって経営�
 
 #flashcards/grammar/n4/vertailu
 
-〜によって (tekijan merkitseminen, luova teko) (similar/compare) ::: ～によって (riippuen, vaihtelu) (similar/compare)
-〜によって (tekijan merkitseminen, luova teko) (similar/compare) ::: ～によって (syy, muodollinen) (similar/compare)
-〜によって (tekijan merkitseminen, luova teko) (similar) ::: N1はN2にV受身 (suora passiivi) (similar)
-〜によって (tekijan merkitseminen, luova teko) (similar/compare) ::: NがV受身 (asiasubjektin passiivi) (similar/compare)
+〜によって (tekijan merkitseminen, luova teko) 飛行機は**ライト兄弟によって**発明されました (similar/compare) vs. riippuen, vaihtelu
+??
+～によって (riippuen, vaihtelu) 文化や習慣は**国によって**違います (similar/compare) vs. tekijan merkitseminen, luova teko
+
+〜によって (tekijan merkitseminen, luova teko) 飛行機は**ライト兄弟によって**発明されました (similar/compare) vs. syy, muodollinen
+??
+～によって (syy, muodollinen) 台風**によって**多くの家が壊れた (similar/compare) vs. tekijan merkitseminen, luova teko
+
+〜によって (tekijan merkitseminen, luova teko) 飛行機は**ライト兄弟によって**発明されました (similar) vs. suora passiivi
+??
+N1はN2にV受身 (suora passiivi) わたしは部長**に**ほめられました (similar) vs. tekijan merkitseminen, luova teko
+
+〜によって (tekijan merkitseminen, luova teko) 飛行機は**ライト兄弟によって**発明されました (similar/compare) vs. asiasubjektin passiivi
+??
+NがV受身 (asiasubjektin passiivi) フランスで古い日本の地図**が**発見されました (similar/compare) vs. tekijan merkitseminen, luova teko

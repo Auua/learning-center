@@ -108,7 +108,18 @@ Miten …と伝える eroaa ようにいう/伝える -epäsuorasta kehotuksesta
 
 #flashcards/grammar/n4/vertailu
 
-…と言っていました／…と伝える (välitetty viesti) (similar/compare) ::: 普通形と言います (lainaus) (similar/compare)
-…と言っていました／…と伝える (välitetty viesti) (similar) ::: 普通形そうです (kuulopuhe) (similar)
-…と言っていました／…と伝える (välitetty viesti) (similar) ::: Vようにいう・注意する・伝える・頼む (epasuora kehotus) (similar)
-…と言っていました／…と伝える (välitetty viesti) (compare) ::: 普通形とのことだ (kuulemma, viesti) (compare)
+…と言っていました／…と伝える (välitetty viesti) グプタさんは30分で**戻ると言っていました** (similar/compare) vs. lainaus
+??
+普通形と言います (lainaus) 寝るまえに「お休みなさい」**と言います** (similar/compare) vs. välitetty viesti
+
+…と言っていました／…と伝える (välitetty viesti) グプタさんは30分で**戻ると言っていました** (similar) vs. kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar) vs. välitetty viesti
+
+…と言っていました／…と伝える (välitetty viesti) グプタさんは30分で**戻ると言っていました** (similar) vs. epasuora kehotus
+??
+Vようにいう・注意する・伝える・頼む (epasuora kehotus) 先生にあしたまでにレポートを出す**ように言われました** (similar) vs. välitetty viesti
+
+…と言っていました／…と伝える (välitetty viesti) グプタさんは30分で**戻ると言っていました** (compare) vs. kuulemma, viesti
+??
+普通形とのことだ (kuulemma, viesti) 部長は今日休む**とのことです** (compare) vs. välitetty viesti

@@ -70,7 +70,18 @@ Koetehtävien ohjeissa: 答えなさい.
 
 #flashcards/grammar/n4/vertailu
 
-V(ます-vartalo)＋なさい (kasky, ohje) (similar) ::: V辞書形な (jyrkka kielto) (similar)
-V(ます-vartalo)＋なさい (kasky, ohje) (similar/compare) ::: Vたまえ (tee!, ylempi alemmalle) (similar/compare)
-V(ます-vartalo)＋なさい (kasky, ohje) (compare) ::: Vて ください (pyyntö) (compare)
-V(ます-vartalo)＋なさい (kasky, ohje) (compare) ::: V辞書形・ないこと (ohje, saanto) (compare)
+V(ます-vartalo)＋なさい (kasky, ohje) 早く寝**なさい** (similar) vs. jyrkka kielto
+??
+V辞書形な (jyrkka kielto) ここに入る**な** (similar) vs. kasky, ohje
+
+V(ます-vartalo)＋なさい (kasky, ohje) 早く寝**なさい** (similar/compare) vs. tee!, ylempi alemmalle
+??
+Vたまえ (tee!, ylempi alemmalle) こっちへ来**たまえ** (similar/compare) vs. kasky, ohje
+
+V(ます-vartalo)＋なさい (kasky, ohje) 早く寝**なさい** (compare) vs. pyyntö
+??
+Vて ください (pyyntö) ここに名前を書い**てください** (compare) vs. kasky, ohje
+
+V(ます-vartalo)＋なさい (kasky, ohje) 早く寝**なさい** (compare) vs. ohje, saanto
+??
+V辞書形・ないこと (ohje, saanto) 毎日8時までに出勤する**こと** (compare) vs. kasky, ohje

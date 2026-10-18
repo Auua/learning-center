@@ -68,5 +68,10 @@ Sama; のみだ juhlava.
 
 #flashcards/grammar/n1/vertailu
 
-ただ＋V辞書形／N＋のみだ (vain, ei muuta kuin) (similar/compare) ::: ～のみ (vain, kirjallinen) (similar/compare)
-ただ＋V辞書形／N＋のみだ (vain, ei muuta kuin) (similar) ::: ～だけだ・ただ～だけでいい (vain se riittää) (similar)
+ただ＋V辞書形／N＋のみだ (vain, ei muuta kuin) あとは**ただ**祈る**のみだ** (similar/compare) vs. vain, kirjallinen
+??
+～のみ (vain, kirjallinen) 会員**のみ**入場できます (similar/compare) vs. vain, ei muuta kuin
+
+ただ＋V辞書形／N＋のみだ (vain, ei muuta kuin) あとは**ただ**祈る**のみだ** (similar) vs. vain se riittää
+??
+～だけだ・ただ～だけでいい (vain se riittää) このボタンを**押すだけでいい**んです (similar) vs. vain, ei muuta kuin

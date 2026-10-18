@@ -68,5 +68,10 @@ Lähes sama; べくもない on kirjallisempi.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋べくもない (ei mitenkaan voi) (similar/compare) ::: Vようがない (ei ole keinoa) (similar/compare)
-V辞書形＋べくもない (ei mitenkaan voi) (similar) ::: ～とは比べものにならない (ei voi verratakaan) (similar)
+V辞書形＋べくもない (ei mitenkaan voi) 彼の才能には比べる**べくもない** (similar/compare) vs. ei ole keinoa
+??
+Vようがない (ei ole keinoa) 連絡先がわからないので、連絡し**ようがない** (similar/compare) vs. ei mitenkaan voi
+
+V辞書形＋べくもない (ei mitenkaan voi) 彼の才能には比べる**べくもない** (similar) vs. ei voi verratakaan
+??
+～とは比べものにならない (ei voi verratakaan) プロの演奏は、私の**とは比べものにならない** (similar) vs. ei mitenkaan voi

@@ -68,5 +68,10 @@ Mittapuihin: 法律, 経験, 常識.
 
 #flashcards/grammar/n1/vertailu
 
-N＋に照らして／に照らし (valossa, verrattuna) (similar/compare) ::: ～に則って (mukaisesti, saannon mukaan) (similar/compare)
-N＋に照らして／に照らし (valossa, verrattuna) (similar) ::: ～に基づいて (perustuen johonkin) (similar)
+N＋に照らして／に照らし (valossa, verrattuna) 法律**に照らして**、判断する (similar/compare) vs. mukaisesti, saannon mukaan
+??
+～に則って (mukaisesti, saannon mukaan) 法律**に則って**処分する (similar/compare) vs. valossa, verrattuna
+
+N＋に照らして／に照らし (valossa, verrattuna) 法律**に照らして**、判断する (similar) vs. perustuen johonkin
+??
+～に基づいて (perustuen johonkin) この映画は、事実**に基づいて**作られている (similar) vs. valossa, verrattuna

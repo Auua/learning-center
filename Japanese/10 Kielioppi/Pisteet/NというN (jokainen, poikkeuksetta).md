@@ -69,4 +69,6 @@ Jälkimmäinen dramaattinen ja kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-N という N (jokainen, poikkeuksetta) (compare) ::: 普通形という～ (raportoitu sisalto) (compare)
+N という N (jokainen, poikkeuksetta) 窓**という**窓が割れた (compare) vs. raportoitu sisalto
+??
+普通形という～ (raportoitu sisalto) ごみを分けて出す**という規則**はなかなか守られていません (compare) vs. jokainen, poikkeuksetta

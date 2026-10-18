@@ -66,7 +66,18 @@ Kumpi on yleiskielisempi: ばかりでなく vai だけでなく?
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) (similar/compare) ::: ～だけでなく (ei pelkastaan vaan myos) (similar/compare)
-N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) (compare) ::: ～ばかりで (vain, ei muuta) (compare)
-N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) (similar/compare) ::: ～ばかりか (ei vain, vaan jopa) (similar/compare)
-N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) (similar) ::: ～のみならず (ei vain, vaan myos) (similar)
+N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) ここは温泉**ばかりでなく**、釣りや山登りも楽しめます (similar/compare) vs. ei pelkastaan vaan myos
+??
+～だけでなく (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (similar/compare) vs. ei ainoastaan, vaan myos
+
+N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) ここは温泉**ばかりでなく**、釣りや山登りも楽しめます (compare) vs. vain, ei muuta
+??
+～ばかりで (vain, ei muuta) 彼は文句を言う**ばかりで**、何もしない (compare) vs. ei ainoastaan, vaan myos
+
+N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) ここは温泉**ばかりでなく**、釣りや山登りも楽しめます (similar/compare) vs. ei vain, vaan jopa
+??
+～ばかりか (ei vain, vaan jopa) 彼は英語**ばかりか**、中国語**も**話せる (similar/compare) vs. ei ainoastaan, vaan myos
+
+N／普通形＋ばかりでなく（〜も） (ei ainoastaan, vaan myos) ここは温泉**ばかりでなく**、釣りや山登りも楽しめます (similar) vs. ei vain, vaan myos
+??
+～のみならず (ei vain, vaan myos) 日本**のみならず**、世界中で人気がある (similar) vs. ei ainoastaan, vaan myos

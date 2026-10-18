@@ -71,7 +71,18 @@ Arvio tai päätelmä.
 
 #flashcards/grammar/n2/vertailu
 
-N＋から見ると／から見れば／から見て (jonkin perusteella, nakokulmasta) (similar/compare) ::: ～から言うと (jonkin kannalta) (similar/compare)
-N＋から見ると／から見れば／から見て (jonkin perusteella, nakokulmasta) (similar/compare) ::: ～からすると・からすれば (jonkin perusteella) (similar/compare)
-N＋から見ると／から見れば／から見て (jonkin perusteella, nakokulmasta) (compare) ::: ～にとって (jonkun nakokulmasta) (compare)
-N＋から見ると／から見れば／から見て (jonkin perusteella, nakokulmasta) (compare) ::: ～ところを見ると (siita paatellen) (compare)
+N＋から見ると／から見れば／から見て (jonkin perusteella, nakokulmasta) 子ども**から見ると**、大人は自由に見える (similar/compare) vs. jonkin kannalta
+??
+～から言うと (jonkin kannalta) 値段**から言うと**、こちらのほうがいい (similar/compare) vs. jonkin perusteella, nakokulmasta
+
+N＋から見ると／から見れば／から見て (jonkin perusteella, nakokulmasta) 子ども**から見ると**、大人は自由に見える (similar/compare) vs. "jonkin perusteella"
+??
+～からすると・からすれば (jonkin perusteella) 親**からすると**、子どもの将来が心配だ (similar/compare) vs. "näkökulmasta katsottuna"
+
+N＋から見ると／から見れば／から見て (jonkin perusteella, nakokulmasta) 子ども**から見ると**、大人は自由に見える (compare) vs. jonkun nakokulmasta
+??
+～にとって (jonkun nakokulmasta) 赤ちゃん**にとって**十分な睡眠は欠かせないものだ (compare) vs. jonkin perusteella, nakokulmasta
+
+N＋から見ると／から見れば／から見て (jonkin perusteella, nakokulmasta) 子ども**から見ると**、大人は自由に見える (compare) vs. siita paatellen
+??
+～ところを見ると (siita paatellen) 笑っている**ところを見ると**、合格した**らしい** (compare) vs. jonkin perusteella, nakokulmasta

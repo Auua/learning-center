@@ -44,11 +44,11 @@ tags:
 - **EN:** because of, due to
 
 ## Muodostus
-| Kaava | Esimerkki |
-|---|---|
-| N（sairaus）+ で + V | [[病気]]**で**休みました。 |
+| Kaava                             | Esimerkki            |
+| --------------------------------- | -------------------- |
+| N（sairaus）+ で + V                 | [[病気]]**で**休みました。    |
 | N（tapahtuma）+ で + intransitiivi-V | [[事故]]**で**バスが遅れました。 |
-| N（luonnonilmiö）+ で + V | [[地震]]**で**ビルが倒れました。 |
+| N（luonnonilmiö）+ で + V            | [[地震]]**で**ビルが倒れました。 |
 
 ## Nyanssi ja rajoitukset
 - Jälkilause kuvaa yleensä **seurauksen, johon ei voi itse vaikuttaa**: poissaolo, myöhästyminen, vahinko. Usein siinä on intransitiiviverbi (遅れる, 倒れる, 壊れる).
@@ -116,11 +116,34 @@ Ensimmäinen kertoo syyn, jälkimmäinen ajankohdan.
 
 #flashcards/grammar/n4/vertailu
 
-N（原因・理由）で (N (syy) で) (similar/compare) ::: N (paikka) で (similar/compare)
-N（原因・理由）で (N (syy) で) (similar) ::: N (väline) で (similar)
-N（原因・理由）で (N (syy) で) (similar) ::: N (ryhmä, määrä, aika) で (similar)
-N（原因・理由）で (N (syy) で) (similar/compare) ::: 〜ので (pehmea syy) (similar/compare)
-N（原因・理由）で (N (syy) で) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
-N（原因・理由）で (N (syy) で) (similar) ::: せいで・せいだ (kielteinen syy) (similar)
-N（原因・理由）で (N (syy) で) (similar) ::: おかげで・おかげだ (myonteinen syy) (similar)
-N（原因・理由）で (N (syy) で) (similar) ::: Nは～で有名 (tunnettu jostakin) (similar)
+N（原因・理由）で (N (syy) で) 病気**で**休みました (similar/compare) vs. paikka
+??
+N (paikka) で 駅**で**新聞を買います (similar/compare) vs. syy
+
+N（原因・理由）で (N (syy) で) 病気**で**休みました (similar) vs. väline
+??
+N (väline) で はし**で**食べます (similar) vs. syy
+
+N（原因・理由）で (N (syy) で) 病気**で**休みました (similar) vs. ryhmä, määrä, aika
+??
+N (ryhmä, määrä, aika) で 一人**で**作りました (similar) vs. syy
+
+N（原因・理由）で (N (syy) で) 病気**で**休みました (similar/compare) vs. pehmeä syy-sivulause
+??
+〜ので (pehmea syy) 体の調子が**悪いので**、病院へ行きます (similar/compare) vs. syy substantiivilla
+
+N（原因・理由）で (N (syy) で) 病気**で**休みました (similar/compare) vs. lauseen syy "koska" (puhujan perustelu)
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar/compare) vs. syy substantiivilla
+
+N（原因・理由）で (N (syy) で) 病気**で**休みました (similar) vs. kielteinen syy "takia, syyttää"
+??
+せいで・せいだ (kielteinen syy) 雨の**せいで**、試合が中止になった (similar) vs. syy substantiivilla
+
+N（原因・理由）で (N (syy) で) 病気**で**休みました (similar) vs. myönteinen syy "ansiosta"
+??
+おかげで・おかげだ (myonteinen syy) 便利な**電気製品のおかげで**、家事が楽になった (similar) vs. syy substantiivilla
+
+N（原因・理由）で (N (syy) で) 病気**で**休みました (similar) vs. tunnettu jostakin
+??
+Nは～で有名 (tunnettu jostakin) 京都**は**お寺**で有名だ** (similar) vs. syy

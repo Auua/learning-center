@@ -69,6 +69,14 @@ Vähemmän huono (ei varsinaisesti hyvä).
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／Vた＋ほうがましだ (mieluummin, parempi kuin) (similar/compare) ::: ～くらいなら (mieluummin kuin) (similar/compare)
-V辞書形／Vた＋ほうがましだ (mieluummin, parempi kuin) (compare) ::: ～だけましだ (onneksi edes) (compare)
-V辞書形／Vた＋ほうがましだ (mieluummin, parempi kuin) (compare) ::: Vたほうがいいです (kannattaisi tehda) (compare)
+V辞書形／Vた＋ほうがましだ (mieluummin, parempi kuin) 彼に頼むくらいなら、一人でやる**ほうがましだ** (similar/compare) vs. "mieluummin kuin" (jos joutuu)
+??
+～くらいなら (mieluummin kuin) 謝る**くらいなら**、死んだ**ほうがましだ** (similar/compare) vs. "parempi kuin" (huono vaihtoehto)
+
+V辞書形／Vた＋ほうがましだ (mieluummin, parempi kuin) 彼に頼むくらいなら、一人でやる**ほうがましだ** (compare) vs. onneksi edes
+??
+～だけましだ (onneksi edes) けがをしなかった**だけましだ** (compare) vs. mieluummin, parempi kuin
+
+V辞書形／Vた＋ほうがましだ (mieluummin, parempi kuin) 彼に頼むくらいなら、一人でやる**ほうがましだ** (compare) vs. kannattaisi tehda
+??
+Vたほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. mieluummin, parempi kuin

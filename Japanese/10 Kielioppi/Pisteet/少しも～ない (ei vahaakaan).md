@@ -68,6 +68,14 @@ Kumpi on neutraalimpi, 少しも vai ちっとも?
 
 #flashcards/grammar/n2/vertailu
 
-少しも＋kielto (ei vahaakaan) (similar/compare) ::: ちっとも～ない (ei yhtaan) (similar/compare)
-少しも＋kielto (ei vahaakaan) (similar/compare) ::: 全く～ない (ei lainkaan) (similar/compare)
-少しも＋kielto (ei vahaakaan) (similar/compare) ::: ろくに～ない (tuskin kunnolla) (similar/compare)
+少しも＋kielto (ei vahaakaan) 彼の言うことは**少しも**理解でき**ない** (similar/compare) vs. ei yhtaan
+??
+ちっとも～ない (ei yhtaan) 彼は**ちっとも**話を聞か**ない** (similar/compare) vs. ei vahaakaan
+
+少しも＋kielto (ei vahaakaan) 彼の言うことは**少しも**理解でき**ない** (similar/compare) vs. ei lainkaan
+??
+全く～ない (ei lainkaan) その件については**全く**知り**ません** (similar/compare) vs. ei vahaakaan
+
+少しも＋kielto (ei vahaakaan) 彼の言うことは**少しも**理解でき**ない** (similar/compare) vs. tuskin kunnolla
+??
+ろくに～ない (tuskin kunnolla) 昨夜は**ろくに**寝てい**ない** (similar/compare) vs. ei vahaakaan

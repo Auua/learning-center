@@ -71,7 +71,18 @@ Harvoin — se kuvaa yleensä ei-toivottua taipumusta.
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)／N＋がち (taipumus, helposti) (similar/compare) ::: ～嫌いがある (on (ikava) taipumus) (similar/compare)
-V(ます-vartalo)／N＋がち (taipumus, helposti) (similar/compare) ::: ともすれば～がちだ (helposti, taipuu) (similar/compare)
-V(ます-vartalo)／N＋がち (taipumus, helposti) (compare) ::: ～気味 (hieman, taipumus) (compare)
-V(ます-vartalo)／N＋がち (taipumus, helposti) (compare) ::: ～っぽい (-mainen, taipuvainen) (compare)
+V(ます-vartalo)／N＋がち (taipumus, helposti) 冬は風邪をひき**がち**だ (similar/compare) vs. ikava
+??
+～嫌いがある (on (ikava) taipumus) 彼は物事を大げさに言う**嫌いがある** (similar/compare) vs. taipumus, helposti
+
+V(ます-vartalo)／N＋がち (taipumus, helposti) 冬は風邪をひき**がち**だ (similar/compare) vs. helposti, taipuu
+??
+ともすれば～がちだ (helposti, taipuu) **ともすれば**怠け**がちだ** (similar/compare) vs. taipumus, helposti
+
+V(ます-vartalo)／N＋がち (taipumus, helposti) 冬は風邪をひき**がち**だ (compare) vs. hieman, taipumus
+??
+～気味 (hieman, taipumus) 風邪**気味**なので、早く寝ます (compare) vs. taipumus, helposti
+
+V(ます-vartalo)／N＋がち (taipumus, helposti) 冬は風邪をひき**がち**だ (compare) vs. -mainen, taipuvainen
+??
+～っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. taipumus, helposti

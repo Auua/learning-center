@@ -70,5 +70,10 @@ Kaupassa sovittaessa: 着てみてもいいですか (saanko kokeilla päälle).
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form みます (kokeilla tehda) (similar/compare) ::: Vてごらん (kokeilepa) (similar/compare)
-Vて-form みます (kokeilla tehda) (similar/compare) ::: Vてみせる (naytan, teen varmasti) (similar/compare)
+Vて-form みます (kokeilla tehda) 宇宙から地球を**見てみたいです** (similar/compare) vs. kokeilepa
+??
+Vてごらん (kokeilepa) ちょっと食べて**ごらん** (similar/compare) vs. kokeilla tehda
+
+Vて-form みます (kokeilla tehda) 宇宙から地球を**見てみたいです** (similar/compare) vs. naytan, teen varmasti
+??
+Vてみせる (naytan, teen varmasti) 先生が書い**てみせた** (similar/compare) vs. kokeilla tehda

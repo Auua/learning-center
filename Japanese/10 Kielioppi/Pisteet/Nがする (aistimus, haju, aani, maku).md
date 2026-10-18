@@ -72,6 +72,14 @@ Aistimus syntyy itsestään; se on subjekti, ei kenenkään tekemä objekti.
 
 #flashcards/grammar/n4/vertailu
 
-N(音・におい・味・声・気)＋がする (aistimus, haju, aani, maku) (similar/compare) ::: 普通形ような気がする (tuntuu silta etta) (similar/compare)
-N(音・におい・味・声・気)＋がする (aistimus, haju, aani, maku) (compare) ::: 見えます・聞こえます (spontaani aisti) (compare)
-N(音・におい・味・声・気)＋がする (aistimus, haju, aani, maku) (compare) ::: ～思いをする (kokea tunne) (compare)
+N(音・におい・味・声・気)＋がする (aistimus, haju, aani, maku) 外で変な**音がします** (similar/compare) vs. tuntuu silta etta
+??
+普通形ような気がする (tuntuu silta etta) 誰かに見られている**ような気がする** (similar/compare) vs. aistimus, haju, aani, maku
+
+N(音・におい・味・声・気)＋がする (aistimus, haju, aani, maku) 外で変な**音がします** (compare) vs. spontaani aisti
+??
+見えます・聞こえます (spontaani aisti) 窓から海**が見えます** (compare) vs. aistimus, haju, aani, maku
+
+N(音・におい・味・声・気)＋がする (aistimus, haju, aani, maku) 外で変な**音がします** (compare) vs. kokea tunne
+??
+～思いをする (kokea tunne) 怖い**思いをした** (compare) vs. aistimus, haju, aani, maku

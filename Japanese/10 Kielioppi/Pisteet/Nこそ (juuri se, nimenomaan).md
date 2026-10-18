@@ -70,5 +70,10 @@ Mitä V（て形）こそ + 意味がある／価値がある ilmaisee?
 
 #flashcards/grammar/n2/vertailu
 
-N＋こそ・V（て形）こそ (juuri se, nimenomaan) (similar) ::: ～からこそ (juuri siksi etta) (similar)
-N＋こそ・V（て形）こそ (juuri se, nimenomaan) (similar) ::: Vてこそ (vasta kun, juuri tekemalla) (similar)
+N＋こそ・V（て形）こそ (juuri se, nimenomaan) **あなたこそ**、あの本の山はいったい何なの! (similar) vs. juuri siksi etta
+??
+～からこそ (juuri siksi etta) 好きだ**からこそ**、厳しく言うんだ (similar) vs. juuri se, nimenomaan
+
+N＋こそ・V（て形）こそ (juuri se, nimenomaan) **あなたこそ**、あの本の山はいったい何なの! (similar) vs. vasta kun, juuri tekemalla
+??
+Vてこそ (vasta kun, juuri tekemalla) 自分でやっ**てこそ**、身につく (similar) vs. juuri se, nimenomaan

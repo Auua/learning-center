@@ -62,5 +62,10 @@ Miten いかに～か eroaa どんなに rekisterin puolesta?
 
 #flashcards/grammar/n1/vertailu
 
-いかに＋普通形＋か (kuinka paljon, muodollinen) (similar) ::: いかなる (minkalainen tahansa) (similar)
-いかに＋普通形＋か (kuinka paljon, muodollinen) (similar/compare) ::: ～ことか (kuinka paljon, huudahdus) (similar/compare)
+いかに＋普通形＋か (kuinka paljon, muodollinen) 健康が**いかに**大切**か**がわかった (similar) vs. minkalainen tahansa
+??
+いかなる (minkalainen tahansa) **いかなる**理由**も**認めない (similar) vs. kuinka paljon, muodollinen
+
+いかに＋普通形＋か (kuinka paljon, muodollinen) 健康が**いかに**大切**か**がわかった (similar/compare) vs. kuinka paljon, huudahdus
+??
+～ことか (kuinka paljon, huudahdus) 合格して、**どんなに**うれしかった**ことか** (similar/compare) vs. kuinka paljon, muodollinen

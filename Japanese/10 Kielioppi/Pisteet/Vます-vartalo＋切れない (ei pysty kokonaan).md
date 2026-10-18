@@ -70,5 +70,10 @@ En malta odottaa (innostus).
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋切れない (ei pysty kokonaan) (similar/compare) ::: Vきる (tehda loppuun, kokonaan) (similar/compare)
-V(ます-vartalo)＋切れない (ei pysty kokonaan) (similar/compare) ::: ～切りがない (ei loppua, loputon) (similar/compare)
+V(ます-vartalo)＋切れない (ei pysty kokonaan) 多すぎて食べ**切れない** (similar/compare) vs. tehda loppuun, kokonaan
+??
+Vきる (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (similar/compare) vs. ei pysty kokonaan
+
+V(ます-vartalo)＋切れない (ei pysty kokonaan) 多すぎて食べ**切れない** (similar/compare) vs. ei loppua, loputon
+??
+～切りがない (ei loppua, loputon) 文句を言い出したら**切りがない** (similar/compare) vs. ei pysty kokonaan

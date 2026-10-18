@@ -70,5 +70,10 @@ Mikä on する-verbin muoto?
 
 #flashcards/grammar/n1/vertailu
 
-V(ない-vartalo)＋んばかりに／んばかりの (aivan kuin, melkein) (similar/compare) ::: ～とばかりに (aivan kuin sanoen) (similar/compare)
-V(ない-vartalo)＋んばかりに／んばかりの (aivan kuin, melkein) (similar) ::: ～かのように (ikaan kuin) (similar)
+V(ない-vartalo)＋んばかりに／んばかりの (aivan kuin, melkein) 泣き出さ**んばかりに**、頼んだ (similar/compare) vs. aivan kuin sanoen
+??
+～とばかりに (aivan kuin sanoen) 「早く帰れ」**とばかりに**、時計を見た (similar/compare) vs. aivan kuin, melkein
+
+V(ない-vartalo)＋んばかりに／んばかりの (aivan kuin, melkein) 泣き出さ**んばかりに**、頼んだ (similar) vs. ikaan kuin
+??
+～かのように (ikaan kuin) 何も知らない**かのように**振る舞う (similar) vs. aivan kuin, melkein

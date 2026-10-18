@@ -69,6 +69,14 @@ Harmittelu toteutumattomasta ja myötätunto.
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋だろうに／でしょうに (olisi kai, harmittelu) (similar) ::: ～ば～のに (kunpa, harmittelu) (similar)
-普通形＋だろうに／でしょうに (olisi kai, harmittelu) (similar) ::: ～ものを (vaikka olisi voinut, harmi) (similar)
-普通形＋だろうに／でしょうに (olisi kai, harmittelu) (compare) ::: 普通形のに (vaikka, pettymys) (compare)
+普通形＋だろうに／でしょうに (olisi kai, harmittelu) もう少し早く来れば、間に合っ**ただろうに** (similar) vs. kunpa, harmittelu
+??
+～ば～のに (kunpa, harmittelu) お金があれ**ば**、買える**のに** (similar) vs. olisi kai, harmittelu
+
+普通形＋だろうに／でしょうに (olisi kai, harmittelu) もう少し早く来れば、間に合っ**ただろうに** (similar) vs. vaikka olisi voinut, harmi
+??
+～ものを (vaikka olisi voinut, harmi) 言ってくれれば手伝った**ものを** (similar) vs. olisi kai, harmittelu
+
+普通形＋だろうに／でしょうに (olisi kai, harmittelu) もう少し早く来れば、間に合っ**ただろうに** (compare) vs. vaikka, pettymys
+??
+普通形のに (vaikka, pettymys) 約束を**したのに**、彼女は来ませんでした (compare) vs. olisi kai, harmittelu

@@ -76,5 +76,10 @@ Tapahtuma on toimintaa, ja toiminnan paikka merkitään で:llä.
 
 #flashcards/grammar/n4/vertailu
 
-N1（場所）でN2（イベント）があります (tapahtuma järjestetään) (similar/compare) ::: あります・います (olemassaolo) (similar/compare)
-N1（場所）でN2（イベント）があります (tapahtuma järjestetään) (similar/compare) ::: N (paikka) で (similar/compare)
+N1（場所）でN2（イベント）があります (tapahtuma järjestetään) あした、ホール**で**コンサート**があります** (similar/compare) vs. olemassaolo
+??
+あります・います (olemassaolo) 机の上に写真**が**あります (similar/compare) vs. tapahtuma järjestetään
+
+N1（場所）でN2（イベント）があります (tapahtuma järjestetään) あした、ホール**で**コンサート**があります** (similar/compare) vs. paikka
+??
+N (paikka) で 駅**で**新聞を買います (similar/compare) vs. tapahtuma järjestetään

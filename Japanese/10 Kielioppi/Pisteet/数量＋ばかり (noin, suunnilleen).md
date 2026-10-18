@@ -69,4 +69,6 @@ N + ばかり = vain; määrä + ばかり = noin.
 
 #flashcards/grammar/n2/vertailu
 
-Määrä＋ばかり (noin, suunnilleen) (compare) ::: Lukusanat ja luokittelijat (compare)
+Määrä＋ばかり (noin, suunnilleen) 1週間**ばかり**旅行に行ってきます (compare) vs. lukusanat
+??
+Lukusanat ja luokittelijat りんごを4つ買いました (compare) vs. noin, suunnilleen

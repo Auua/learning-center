@@ -72,5 +72,10 @@ Miten んだって eroaa そうです/らしい-kuulopuhemuodoista?
 
 #flashcards/grammar/n3/vertailu
 
-普通形（の）＋んだって？ (puhekielinen kuulopuhe) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
-普通形（の）＋んだって？ (puhekielinen kuulopuhe) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)
+普通形（の）＋んだって？ (puhekielinen kuulopuhe) いずみさんの結婚式でスピーチをした**んだって**? (similar/compare) vs. kuulopuhe "kuulemma"
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. puhekielinen kuulopuhe kysymyksenä
+
+普通形（の）＋んだって？ (puhekielinen kuulopuhe) いずみさんの結婚式でスピーチをした**んだって**? (similar/compare) vs. kuulopuhe, paattely
+??
+普通形らしい (kuulopuhe, paattely) 高橋さんに聞いたんだけど、**婚約したらしい**よ (similar/compare) vs. puhekielinen kuulopuhe

@@ -68,4 +68,6 @@ Jälkimmäinen on ylistävä ja muodollinen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋をおいて（ほかに）〜ない (ei muuta kuin, vain) (similar/compare) ::: ～くらいのものだ (vain, ainoastaan) (similar/compare)
+N＋をおいて（ほかに）〜ない (ei muuta kuin, vain) このチームを率いるのは、彼**をおいてほかにいない** (similar/compare) vs. vain, ainoastaan
+??
+～くらいのものだ (vain, ainoastaan) こんなことができるのは、彼**くらいのものだ** (similar/compare) vs. ei muuta kuin, vain

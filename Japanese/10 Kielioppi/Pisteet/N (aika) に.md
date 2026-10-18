@@ -96,7 +96,18 @@ Ratkaisevaa on, sisältääkö aikasana luvun, ei se onko se ajankohta laajassa 
 
 #flashcards/grammar/n5/vertailu
 
-N（時間）に (N (aika) に) (similar) ::: ～から～まで (mistä mihin, alku ja loppu) (similar)
-N（時間）に (N (aika) に) (compare) ::: N（aika）ごろ (noin, aikoihin) (compare)
-N（時間）に (N (aika) に) (similar/compare) ::: 今何時ですか (kellonaika) (similar/compare)
-N（時間）に (N (aika) に) (similar/compare) ::: いつ (milloin) (similar/compare)
+N（時間）に (N (aika) に) 6時**に**起きます (similar) vs. mistä mihin, alku ja loppu
+??
+～から～まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar) vs. aika
+
+N（時間）に (N (aika) に) 6時**に**起きます (compare) vs. noin, aikoihin
+??
+N（aika）ごろ (noin, aikoihin) 7時**ごろ**起きます (compare) vs. aika
+
+N（時間）に (N (aika) に) 6時**に**起きます (similar/compare) vs. kellonaika
+??
+今何時ですか (kellonaika) **今何時ですか** (similar/compare) vs. aika
+
+N（時間）に (N (aika) に) 6時**に**起きます (similar/compare) vs. milloin
+??
+いつ (milloin) **いつ**日本へ来ましたか (similar/compare) vs. aika

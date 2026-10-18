@@ -63,4 +63,6 @@ Laajempaan, usein toistuvaan ilmiöön (sää, tapahtumasarja), ei yksittäiseen
 
 #flashcards/grammar/n2/vertailu
 
-N1（aika／paikka）から　N2にかけて (jostakin johonkin, vali) (similar) ::: N（aika）までに (määräaika) (similar)
+N1（aika／paikka）から　N2にかけて (jostakin johonkin, vali) 台風8号は今夜から明日**にかけて**上陸する見込みです (similar) vs. määräaika
+??
+N（aika）までに (määräaika) 土曜日**までに**本を返さなければなりません (similar) vs. jostakin johonkin, vali

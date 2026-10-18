@@ -83,12 +83,38 @@ Miten 疑問詞＋ても eroaa 何でも/どこでも/だれでも/いつでも-
 
 #flashcards/grammar/n3/vertailu
 
-いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar) ::: Vても (vaikka) (similar)
-いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: 何でも (similar/compare)
-いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: どこでも (similar/compare)
-いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: だれでも (similar/compare)
-いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: いつでも (similar/compare)
-いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar) ::: どんなに～ても (kuinka paljon tahansa) (similar)
-いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar) ::: いくら～ても (vaikka kuinka paljon) (similar)
-いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar/compare) ::: いかなる (minkalainen tahansa) (similar/compare)
-いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) (similar) ::: Vようが・ようと (vaikka, kuinka tahansa) (similar)
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar) vs. vaikka
+??
+Vても (vaikka) 雨が降っ**ても**、洗濯します (similar) vs. mika tahansa, poikkeukseton
+
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar/compare) vs. sanastonote: "mitä tahansa"
+??
+何でも **何でも**食べます (similar/compare) vs. mika tahansa, poikkeukseton
+
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar/compare) vs. sanastonote: "missä tahansa"
+??
+どこでも **どこでも**いいです (similar/compare) vs. mika tahansa, poikkeukseton
+
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar/compare) vs. sanastonote: "kuka tahansa"
+??
+だれでも **だれでも**参加できます (similar/compare) vs. mika tahansa, poikkeukseton
+
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar/compare) vs. sanastonote: "milloin tahansa"
+??
+いつでも **いつでも**来てください (similar/compare) vs. mika tahansa, poikkeukseton
+
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar) vs. kuinka paljon tahansa
+??
+どんなに～ても (kuinka paljon tahansa) **どんなに**頑張っ**ても**、勝てない (similar) vs. mika tahansa, poikkeukseton
+
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar) vs. vaikka kuinka paljon
+??
+いくら～ても (vaikka kuinka paljon) **いくら**食べ**ても**太らない (similar) vs. mika tahansa, poikkeukseton
+
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar/compare) vs. minkalainen tahansa
+??
+いかなる (minkalainen tahansa) **いかなる**理由**も**認めない (similar/compare) vs. mika tahansa, poikkeukseton
+
+いつ／どこ／何／だれ／どんなに＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar) vs. vaikka, kuinka tahansa
+??
+Vようが・ようと (vaikka, kuinka tahansa) 誰が何と言**おうが**、私は行く (similar) vs. mika tahansa, poikkeukseton

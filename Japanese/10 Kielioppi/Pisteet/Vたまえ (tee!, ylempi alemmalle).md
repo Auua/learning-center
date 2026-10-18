@@ -69,4 +69,6 @@ Vanhemmat miehet ylempinä alemmilleen; nykyään lähinnä fiktiossa.
 
 #flashcards/grammar/n2/vertailu
 
-V(ます-vartalo)＋たまえ (tee!, ylempi alemmalle) (similar/compare) ::: Vなさい (kasky, ohje) (similar/compare)
+V(ます-vartalo)＋たまえ (tee!, ylempi alemmalle) こっちへ来**たまえ** (similar/compare) vs. kasky, ohje
+??
+Vなさい (kasky, ohje) 早く寝**なさい** (similar/compare) vs. tee!, ylempi alemmalle

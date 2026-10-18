@@ -70,5 +70,10 @@ Ei — se kuvaa toistuvaa menneisyyden tapaa.
 
 #flashcards/grammar/n3/vertailu
 
-V(た-muoto)＋ものだ (oli tapana) (similar/compare) ::: 普通形ものだ・ものではない (yleinen totuus) (similar/compare)
-V(た-muoto)＋ものだ (oli tapana) (compare) ::: Vていた (oli tekemassa, tila menneessa) (compare)
+V(た-muoto)＋ものだ (oli tapana) 子どもの頃、よくこの川で泳いだ**ものだ** (similar/compare) vs. yleinen totuus
+??
+普通形ものだ・ものではない (yleinen totuus) 人は変わる**ものだ** (similar/compare) vs. oli tapana
+
+V(た-muoto)＋ものだ (oli tapana) 子どもの頃、よくこの川で泳いだ**ものだ** (compare) vs. oli tekemassa, tila menneessa
+??
+Vていた (oli tekemassa, tila menneessa) 電話が鳴ったとき、シャワーを浴び**ていた** (compare) vs. oli tapana

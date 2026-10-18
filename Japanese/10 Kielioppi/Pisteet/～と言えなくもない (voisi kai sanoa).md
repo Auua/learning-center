@@ -68,5 +68,10 @@ Ensimmäinen rohkea; jälkimmäinen varauksellinen.
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋と言えなくもない (voisi kai sanoa) (similar) ::: Vなくはない・なくもない (kylla tavallaan) (similar)
-普通形＋と言えなくもない (voisi kai sanoa) (similar/compare) ::: ～と言ってもいい (voisi sanoa) (similar/compare)
+普通形＋と言えなくもない (voisi kai sanoa) 成功した**と言えなくもない** (similar) vs. kylla tavallaan
+??
+Vなくはない・なくもない (kylla tavallaan) 彼の気持ちもわから**なくはない** (similar) vs. voisi kai sanoa
+
+普通形＋と言えなくもない (voisi kai sanoa) 成功した**と言えなくもない** (similar/compare) vs. "voisi sanoa"
+??
+～と言ってもいい (voisi sanoa) 彼は天才だ**と言ってもいい** (similar/compare) vs. "voisi kai sanoa" varauksella

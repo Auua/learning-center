@@ -68,5 +68,10 @@ Ei välttämättä — se voi tapahtua itsestään.
 
 #flashcards/grammar/n1/vertailu
 
-N＋を境に（して）／を境として (rajana, siita lahtien) (similar) ::: Vて以来 (siita lahtien kun) (similar)
-N＋を境に（して）／を境として (rajana, siita lahtien) (compare) ::: ～を機に (tilaisuutena, kaanteena) (compare)
+N＋を境に（して）／を境として (rajana, siita lahtien) その日**を境に**、彼は変わった (similar) vs. siita lahtien kun
+??
+Vて以来 (siita lahtien kun) スキーで骨折して**以来**、寒くなると足が痛むようになった (similar) vs. rajana, siita lahtien
+
+N＋を境に（して）／を境として (rajana, siita lahtien) その日**を境に**、彼は変わった (compare) vs. tilaisuutena, kaanteena
+??
+～を機に (tilaisuutena, kaanteena) 退職**を機に**、田舎に引っ越した (compare) vs. rajana, siita lahtien

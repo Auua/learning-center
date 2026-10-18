@@ -76,6 +76,14 @@ Käytännössä kyllä; ば on hiukan kirjakielisempi.
 
 #flashcards/grammar/n4/vertailu
 
-疑問詞＋V（ば形）＋いいですか (neuvon kysyminen ば) (similar/compare) ::: 疑問詞+たらいいですか (neuvon kysyminen) (similar/compare)
-疑問詞＋V（ば形）＋いいですか (neuvon kysyminen ば) (similar/compare) ::: Vばいい (riittaa kun, pitaisi) (similar/compare)
-疑問詞＋V（ば形）＋いいですか (neuvon kysyminen ば) (similar) ::: ～ば (jos, ehto) (similar)
+疑問詞＋V（ば形）＋いいですか (neuvon kysyminen ば) このボタンを押せ**ばいいです**よ (similar/compare) vs. neuvon kysyminen たら
+??
+疑問詞+たらいいですか (neuvon kysyminen) どこでカメラを**買ったらいいですか** (similar/compare) vs. neuvon kysyminen ば
+
+疑問詞＋V（ば形）＋いいですか (neuvon kysyminen ば) このボタンを押せ**ばいいです**よ (similar/compare) vs. riittaa kun, pitaisi
+??
+Vばいい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (similar/compare) vs. neuvon kysyminen ば
+
+疑問詞＋V（ば形）＋いいですか (neuvon kysyminen ば) このボタンを押せ**ばいいです**よ (similar) vs. jos, ehto
+??
+～ば (jos, ehto) 時間があれば、手伝ってください (similar) vs. neuvon kysyminen ば

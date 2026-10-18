@@ -82,6 +82,14 @@ Nimeämisessä という:n edellä on erisnimi; tässä sen edellä on kokonaine
 
 #flashcards/grammar/n3/vertailu
 
-普通形という～ (raportoitu sisalto) (similar/compare) ::: ～を～と言う・～という～ (nimeaminen) (similar/compare)
-普通形という～ (raportoitu sisalto) (similar) ::: 普通形と言います (lainaus) (similar)
-普通形という～ (raportoitu sisalto) (compare) ::: NというN (jokainen, poikkeuksetta) (compare)
+普通形という～ (raportoitu sisalto) ごみを分けて出す**という規則**はなかなか守られていません (similar/compare) vs. nimeaminen
+??
+～を～と言う・～という～ (nimeaminen) 正月に食べる料理を**何と言いますか** (similar/compare) vs. raportoitu sisalto
+
+普通形という～ (raportoitu sisalto) ごみを分けて出す**という規則**はなかなか守られていません (similar) vs. lainaus
+??
+普通形と言います (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. raportoitu sisalto
+
+普通形という～ (raportoitu sisalto) ごみを分けて出す**という規則**はなかなか守られていません (compare) vs. jokainen, poikkeuksetta
+??
+NというN (jokainen, poikkeuksetta) 窓**という**窓が割れた (compare) vs. raportoitu sisalto

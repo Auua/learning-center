@@ -62,6 +62,14 @@ N toimii virallisena perustana tai kriteerinä, jolle status tai päätös raken
 
 #flashcards/grammar/n1/vertailu
 
-N＋をもって＋N2とする (maaritellaan viralliseksi) (similar) ::: ～を通して (jonkin kautta) (similar)
-N＋をもって＋N2とする (maaritellaan viralliseksi) (similar) ::: ～ものとする (katsotaan, oletetaan) (similar)
-N＋をもって＋N2とする (maaritellaan viralliseksi) (similar/compare) ::: ～をもって (avulla, alkaen, paattyen) (similar/compare)
+N＋をもって＋N2とする (maaritellaan viralliseksi) それ**をもって**「客観的評価」**とされている** (similar) vs. jonkin kautta
+??
+～を通して (jonkin kautta) 茶道**を通して**、行儀作法だけでなく、和の心を学んだ (similar) vs. maaritellaan viralliseksi
+
+N＋をもって＋N2とする (maaritellaan viralliseksi) それ**をもって**「客観的評価」**とされている** (similar) vs. katsotaan, oletetaan
+??
+～ものとする (katsotaan, oletetaan) 期限を過ぎた場合は、無効とする**ものとする** (similar) vs. maaritellaan viralliseksi
+
+N＋をもって＋N2とする (maaritellaan viralliseksi) それ**をもって**「客観的評価」**とされている** (similar/compare) vs. avulla, alkaen, paattyen
+??
+～をもって (avulla, alkaen, paattyen) 書面**をもって**通知する (similar/compare) vs. maaritellaan viralliseksi

@@ -68,5 +68,10 @@ Eli siis.
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋ということは (se tarkoittaa etta) (similar) ::: つまり…（って）いうことだ (toisin sanoen) (similar)
-普通形＋ということは (se tarkoittaa etta) (similar/compare) ::: 普通形わけだ (johtopaatos, siis) (similar/compare)
+普通形＋ということは (se tarkoittaa etta) 返事がない**ということは**、来ない**ということだ** (similar) vs. toisin sanoen
+??
+つまり…（って）いうことだ (toisin sanoen) **つまり**、1割は留学生**ということだ** (similar) vs. se tarkoittaa etta
+
+普通形＋ということは (se tarkoittaa etta) 返事がない**ということは**、来ない**ということだ** (similar/compare) vs. johtopaatos, siis
+??
+普通形わけだ (johtopaatos, siis) 値上げをした**わけだ** (similar/compare) vs. se tarkoittaa etta

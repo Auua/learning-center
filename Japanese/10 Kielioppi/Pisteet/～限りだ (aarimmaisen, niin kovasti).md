@@ -69,5 +69,10 @@ Tunneadjektiivien: うれしい, 寂しい, 残念.
 
 #flashcards/grammar/n1/vertailu
 
-Adj（な-adj な）＋限りだ (aarimmaisen, niin kovasti) (similar/compare) ::: ～てたまらない (sietamattoman, valtavasti) (similar/compare)
-Adj（な-adj な）＋限りだ (aarimmaisen, niin kovasti) (similar) ::: ～といったらない (sanoinkuvaamattoman) (similar)
+Adj（な-adj な）＋限りだ (aarimmaisen, niin kovasti) 合格できて、うれしい**限りだ** (similar/compare) vs. sietamattoman, valtavasti
+??
+～てたまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar/compare) vs. aarimmaisen, niin kovasti
+
+Adj（な-adj な）＋限りだ (aarimmaisen, niin kovasti) 合格できて、うれしい**限りだ** (similar) vs. sanoinkuvaamattoman
+??
+～といったらない (sanoinkuvaamattoman) うれしい**といったらない** (similar) vs. aarimmaisen, niin kovasti

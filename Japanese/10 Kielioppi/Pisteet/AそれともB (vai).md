@@ -69,5 +69,10 @@ Ei — vain kysymyksissä; väitteessä または.
 
 #flashcards/grammar/n3/vertailu
 
-S1か、それとも S2か (vai) (similar/compare) ::: S1か、S2か (kumpi, A vai B) (similar/compare)
-S1か、それとも S2か (vai) (compare) ::: AあるいはB (tai, muodollinen) (compare)
+S1か、それとも S2か (vai) 電車で行く？**それとも**バス？ (similar/compare) vs. kumpi kahdesta: kaksi kysymystä peräkkäin
+??
+S1か、S2か (kumpi, A vai B) これは「9」ですか、「7」ですか (similar/compare) vs. "vai" sanalla erotettuna
+
+S1か、それとも S2か (vai) 電車で行く？**それとも**バス？ (compare) vs. tai, muodollinen
+??
+AあるいはB (tai, muodollinen) 電話**あるいは**メールで連絡してください (compare) vs. vai

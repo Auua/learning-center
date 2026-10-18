@@ -88,7 +88,18 @@ Miksi ということだ eikä そうです, kun haluan vahvistaa kuullun viesti
 
 #flashcards/grammar/n3/vertailu
 
-普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
-普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare) ::: 普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar/compare)
-普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar) ::: ～によると・によれば (jonkin mukaan) (similar)
-普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare) ::: 普通形とのことだ (kuulemma, viesti) (similar/compare)
+普通形ということだ (muodollinen kuulopuhe, vahvistus) 30分ほど遅れる**ということですね** (similar/compare) vs. tavallinen kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. muodollinen kuulopuhe
+
+普通形ということだ (muodollinen kuulopuhe, vahvistus) 30分ほど遅れる**ということですね** (similar/compare) vs. lyhennetty kirjallinen kuulopuhe
+??
+普通形という。 (lyhennetty kirjallinen kuulopuhe) 日本で最も古い大学が京都に**あるという** (similar/compare) vs. muodollinen kuulopuhe, vahvistus
+
+普通形ということだ (muodollinen kuulopuhe, vahvistus) 30分ほど遅れる**ということですね** (similar) vs. jonkin mukaan
+??
+～によると・によれば (jonkin mukaan) 天気予報**によると**、明日は雨だ**そうだ** (similar) vs. muodollinen kuulopuhe, vahvistus
+
+普通形ということだ (muodollinen kuulopuhe, vahvistus) 30分ほど遅れる**ということですね** (similar/compare) vs. kuulemma, viesti
+??
+普通形とのことだ (kuulemma, viesti) 部長は今日休む**とのことです** (similar/compare) vs. muodollinen kuulopuhe, vahvistus

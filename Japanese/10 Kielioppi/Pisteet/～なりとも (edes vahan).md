@@ -69,5 +69,10 @@ Sama; なりとも kohteliaampi ja kirjallisempi.
 
 #flashcards/grammar/n1/vertailu
 
-数量／N＋なりとも (edes vahan) (similar) ::: Nさえ・でさえ (jopa, edes) (similar)
-数量／N＋なりとも (edes vahan) (compare) ::: Maara＋は (vahintaan) (compare)
+数量／N＋なりとも (edes vahan) **少しなりとも**お役に立てればうれしいです (similar) vs. jopa, edes
+??
+Nさえ・でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar) vs. edes vahan
+
+数量／N＋なりとも (edes vahan) **少しなりとも**お役に立てればうれしいです (compare) vs. vahintaan
+??
+Maara＋は (vahintaan) 駅まで30分**は**かかる (compare) vs. edes vahan

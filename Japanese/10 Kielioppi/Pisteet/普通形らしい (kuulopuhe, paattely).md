@@ -88,7 +88,18 @@ Substantiivin perässä ilman 普通形-lausetta らしい tarkoittaa 'tyypillin
 
 #flashcards/grammar/n3/vertailu
 
-普通形らしい（伝聞・推量） (kuulopuhe, paattely) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
-普通形らしい（伝聞・推量） (kuulopuhe, paattely) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
-普通形らしい（伝聞・推量） (kuulopuhe, paattely) (similar) ::: ～らしい (tyypillisyys) (similar)
-普通形らしい（伝聞・推量） (kuulopuhe, paattely) (similar) ::: 普通形とみえる (nayttaa silta etta) (similar)
+普通形らしい（伝聞・推量） (kuulopuhe, paattely) 高橋さんに聞いたんだけど、**婚約したらしい**よ (similar/compare) vs. kuulopuhe "kuulemma"
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. kuulopuhe tai päättely
+
+普通形らしい（伝聞・推量） (kuulopuhe, paattely) 高橋さんに聞いたんだけど、**婚約したらしい**よ (similar/compare) vs. havaintoon perustuva paattely
+??
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (similar/compare) vs. kuulopuhe, paattely
+
+普通形らしい（伝聞・推量） (kuulopuhe, paattely) 高橋さんに聞いたんだけど、**婚約したらしい**よ (similar) vs. tyypillisyys
+??
+～らしい (tyypillisyys) 佐野さんの家はいかにも伝統的な日本の**家らしい家**です (similar) vs. kuulopuhe, paattely
+
+普通形らしい（伝聞・推量） (kuulopuhe, paattely) 高橋さんに聞いたんだけど、**婚約したらしい**よ (similar) vs. nayttaa silta etta
+??
+普通形とみえる (nayttaa silta etta) 彼は疲れている**とみえる** (similar) vs. kuulopuhe, paattely

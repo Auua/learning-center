@@ -72,5 +72,10 @@ Miten N に比べて eroaa N1はN2より -vertailusta?
 
 #flashcards/grammar/n2/vertailu
 
-N＋に比べて・に比べると (verrattuna) (similar/compare) ::: N1はN2より (vertailu) (similar/compare)
-N＋に比べて・に比べると (verrattuna) (compare) ::: ～とは比べものにならない (ei voi verratakaan) (compare)
+N＋に比べて・に比べると (verrattuna) 今年は去年**に比べて**春の来るのが遅かった (similar/compare) vs. vertailu
+??
+N1はN2より (vertailu) この車はあの車**より**大きいです (similar/compare) vs. verrattuna
+
+N＋に比べて・に比べると (verrattuna) 今年は去年**に比べて**春の来るのが遅かった (compare) vs. ei voi verratakaan
+??
+～とは比べものにならない (ei voi verratakaan) プロの演奏は、私の**とは比べものにならない** (compare) vs. verrattuna

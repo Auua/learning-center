@@ -68,4 +68,6 @@ Vähättelevä.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（N）＋うちに入らない (ei lasketa, ei oikein ole) (similar/compare) ::: ～でしかない (ei ole muuta kuin) (similar/compare)
+普通形（N）＋うちに入らない (ei lasketa, ei oikein ole) これくらいは運動**のうちに入らない** (similar/compare) vs. ei ole muuta kuin
+??
+～でしかない (ei ole muuta kuin) それは言い訳**でしかない** (similar/compare) vs. ei lasketa, ei oikein ole

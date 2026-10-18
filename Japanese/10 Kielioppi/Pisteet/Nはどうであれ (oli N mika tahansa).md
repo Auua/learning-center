@@ -68,5 +68,10 @@ Millaisia substantiiveja はどうであれ edeltää?
 
 #flashcards/grammar/n1/vertailu
 
-N＋はどうであれ／がどうであれ (oli N mika tahansa) (similar/compare) ::: Nであれ (olipa mika tahansa) (similar/compare)
-N＋はどうであれ／がどうであれ (oli N mika tahansa) (similar) ::: ～は別として (lukuun ottamatta) (similar)
+N＋はどうであれ／がどうであれ (oli N mika tahansa) 結果**はどうであれ**、最後まで頑張ろう (similar/compare) vs. olipa mika tahansa
+??
+Nであれ (olipa mika tahansa) 理由は何**であれ**、暴力はいけない (similar/compare) vs. oli N mika tahansa
+
+N＋はどうであれ／がどうであれ (oli N mika tahansa) 結果**はどうであれ**、最後まで頑張ろう (similar) vs. lukuun ottamatta
+??
+～は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (similar) vs. oli N mika tahansa

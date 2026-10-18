@@ -76,6 +76,14 @@ Ei — se on pehmeä sidos, joka jättää tilaa pyynnölle.
 
 #flashcards/grammar/n4/vertailu
 
-普通形＋んですが、～ (johdanto pyyntöön tai kysymykseen) (similar/compare) ::: 普通形んです (selittävä sävy) (similar/compare)
-普通形＋んですが、～ (johdanto pyyntöön tai kysymykseen) (similar) ::: S1が、S2 (mutta) (similar)
-普通形＋んですが、～ (johdanto pyyntöön tai kysymykseen) (similar/compare) ::: てもらえませんか・ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare)
+普通形＋んですが、～ (johdanto pyyntöön tai kysymykseen) 市役所へ行きたい**んですが**、どう行ったらいいですか (similar/compare) vs. selittävä sävy
+??
+普通形んです (selittävä sävy) 時間が**ないんです** (similar/compare) vs. johdanto pyyntöön tai kysymykseen
+
+普通形＋んですが、～ (johdanto pyyntöön tai kysymykseen) 市役所へ行きたい**んですが**、どう行ったらいいですか (similar) vs. mutta
+??
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar) vs. johdanto pyyntöön tai kysymykseen
+
+普通形＋んですが、～ (johdanto pyyntöön tai kysymykseen) 市役所へ行きたい**んですが**、どう行ったらいいですか (similar/compare) vs. kohtelias pyyntoperhe
+??
+てもらえませんか・ていただけないでしょうか (kohtelias pyyntoperhe) 荷物を降ろすのを**手伝ってもらえませんか** (similar/compare) vs. johdanto pyyntöön tai kysymykseen

@@ -77,6 +77,14 @@ Miten のではないだろうか eroaa んじゃない？:stä?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋の（ん）ではないだろうか (varovainen oletus) (similar/compare) ::: 普通形んじゃない？ (pehmea arvaus) (similar/compare)
-普通形＋の（ん）ではないだろうか (varovainen oletus) (similar) ::: 普通形でしょう (todennakoisyys) (similar)
-普通形＋の（ん）ではないだろうか (varovainen oletus) (similar/compare) ::: ～ではあるまいか (eiko lienekin) (similar/compare)
+普通形＋の（ん）ではないだろうか (varovainen oletus) 実現は難しい**のではないだろうか** (similar/compare) vs. pehmea arvaus
+??
+普通形んじゃない？ (pehmea arvaus) 携帯電話をどこかに**忘れたんじゃないですか** (similar/compare) vs. varovainen oletus
+
+普通形＋の（ん）ではないだろうか (varovainen oletus) 実現は難しい**のではないだろうか** (similar) vs. todennakoisyys
+??
+普通形でしょう (todennakoisyys) あしたは雪が**降るでしょう** (similar) vs. varovainen oletus
+
+普通形＋の（ん）ではないだろうか (varovainen oletus) 実現は難しい**のではないだろうか** (similar/compare) vs. eiko lienekin
+??
+～ではあるまいか (eiko lienekin) 彼が犯人**ではあるまいか** (similar/compare) vs. varovainen oletus

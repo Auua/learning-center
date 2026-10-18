@@ -72,5 +72,10 @@ Nはありませんか vs. Nがありますか?
 
 #flashcards/grammar/n5/vertailu
 
-Nはありませんか (onko teillä, kohtelias kysely) (similar/compare) ::: あります・います (olemassaolo) (similar/compare)
-Nはありませんか (onko teillä, kohtelias kysely) (similar) ::: Vませんか・Vましょう (etkö tulisi, tehdäänkö) (similar)
+Nはありませんか (onko teillä, kohtelias kysely) チリソース**はありませんか** (similar/compare) vs. olemassaolo
+??
+あります・います (olemassaolo) 机の上に写真**が**あります (similar/compare) vs. onko teillä, kohtelias kysely
+
+Nはありませんか (onko teillä, kohtelias kysely) チリソース**はありませんか** (similar) vs. etkö tulisi, tehdäänkö
+??
+Vませんか・Vましょう (etkö tulisi, tehdäänkö) いっしょに京都へ行き**ませんか** (similar) vs. onko teillä, kohtelias kysely

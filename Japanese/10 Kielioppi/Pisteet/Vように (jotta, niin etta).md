@@ -127,9 +127,26 @@ Sama kirjoitusasu, eri kielioppi: tarkoitus-ように jatkuu toisella verbillä/
 
 #flashcards/grammar/n4/vertailu
 
-V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
-V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (compare) ::: Vるには (jotta, siihen etta) (compare)
-V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (similar/compare) ::: Vてはいけないから (ettei vain) (similar/compare)
-V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (similar/compare) ::: Vことのないように (jottei, ettei vain) (similar/compare)
-V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (similar) ::: Vようにする・ようにしてください (huolehtia etta) (similar)
-V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) (similar) ::: Vますように (toive, kunpa) (similar)
+V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar/compare) vs. havaintoon perustuva paattely
+??
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (similar/compare) vs. jotta, niin etta
+
+V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (compare) vs. jotta, siihen etta
+??
+Vるには (jotta, siihen etta) 日本で働く**には**、ビザが必要だ (compare) vs. jotta, niin etta
+
+V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar/compare) vs. ettei vain
+??
+Vてはいけないから (ettei vain) 忘れ**てはいけないから**、メモしておこう (similar/compare) vs. jotta, niin etta
+
+V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar/compare) vs. jottei, ettei vain
+??
+Vことのないように (jottei, ettei vain) 忘れる**ことのないように**、メモしてください (similar/compare) vs. jotta, niin etta
+
+V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar) vs. huolehtia etta
+??
+Vようにする・ようにしてください (huolehtia etta) 明日からもっと早く起きる**ようにします** (similar) vs. jotta, niin etta
+
+V(potentiaali/ei-tahdonalainen)ように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar) vs. toive, kunpa
+??
+Vますように (toive, kunpa) 試験に合格できます**ように** (similar) vs. jotta, niin etta

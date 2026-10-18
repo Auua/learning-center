@@ -70,5 +70,10 @@ Lähes samat vähättelijät; に過ぎない kattaa myös verbit ja määrät.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N）＋に過ぎない (vain, ei muuta kuin) (similar/compare) ::: ～でしかない (ei ole muuta kuin) (similar/compare)
-普通形（N）＋に過ぎない (vain, ei muuta kuin) (compare) ::: 普通形にほかならない (ei ole muuta kuin) (compare)
+普通形（N）＋に過ぎない (vain, ei muuta kuin) それは噂**に過ぎない** (similar/compare) vs. "ei ole muuta kuin" substantiivilla
+??
+～でしかない (ei ole muuta kuin) それは言い訳**でしかない** (similar/compare) vs. vain, ei muuta kuin
+
+普通形（N）＋に過ぎない (vain, ei muuta kuin) それは噂**に過ぎない** (compare) vs. "ei ole muuta kuin" (korostus)
+??
+普通形にほかならない (ei ole muuta kuin) 子どもの反抗は、大人になるための第一歩**にほかならない** (compare) vs. vain, ei muuta kuin

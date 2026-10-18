@@ -76,6 +76,14 @@ Miten 普通形とか eroaa muodosta 普通形んだって？?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋とか (puhekielinen kuulopuhe, epavarma) (similar) ::: 普通形そうです (kuulopuhe) (similar)
-普通形＋とか (puhekielinen kuulopuhe, epavarma) (similar) ::: 普通形んだって？ (puhekielinen kuulopuhe) (similar)
-普通形＋とか (puhekielinen kuulopuhe, epavarma) (compare) ::: ～とか～とか (epamuodollinen esimerkkilista) (compare)
+普通形＋とか (puhekielinen kuulopuhe, epavarma) さすがの通人、二の句もつげなかった**とか** (similar) vs. tavallinen kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar) vs. epävarma puhekielinen kuulopuhe
+
+普通形＋とか (puhekielinen kuulopuhe, epavarma) さすがの通人、二の句もつげなかった**とか** (similar) vs. puhekielinen kuulopuhe kysymyksenä
+??
+普通形んだって？ (puhekielinen kuulopuhe) いずみさんの結婚式でスピーチをした**んだって**? (similar) vs. epävarma kuulopuhe
+
+普通形＋とか (puhekielinen kuulopuhe, epavarma) さすがの通人、二の句もつげなかった**とか** (compare) vs. epamuodollinen esimerkkilista
+??
+～とか～とか (epamuodollinen esimerkkilista) 肉**とか**魚**とか**を買った (compare) vs. puhekielinen kuulopuhe, epavarma

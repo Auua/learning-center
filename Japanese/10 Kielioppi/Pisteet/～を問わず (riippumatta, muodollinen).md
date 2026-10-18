@@ -70,6 +70,14 @@ Lähes sama; を問わず on ilmoituskieltä ja vain substantiiviin.
 
 #flashcards/grammar/n2/vertailu
 
-N＋を問わず／は問わない (riippumatta, muodollinen) (similar/compare) ::: ～にかかわらず (riippumatta) (similar/compare)
-N＋を問わず／は問わない (riippumatta, muodollinen) (similar) ::: Nいかんにかかわらず (riippumatta, kirjallinen) (similar)
-N＋を問わず／は問わない (riippumatta, muodollinen) (similar) ::: ～によらず (riippumatta) (similar)
+N＋を問わず／は問わない (riippumatta, muodollinen) 年齢**を問わず**、どなたでも参加できます (similar/compare) vs. "riippumatta"
+??
+～にかかわらず (riippumatta) 天候**にかかわらず**、試合は行います (similar/compare) vs. muodollinen "kysymättä"
+
+N＋を問わず／は問わない (riippumatta, muodollinen) 年齢**を問わず**、どなたでも参加できます (similar) vs. riippumatta, kirjallinen
+??
+Nいかんにかかわらず (riippumatta, kirjallinen) 理由の**いかんにかかわらず**、返金できません (similar) vs. riippumatta, muodollinen
+
+N＋を問わず／は問わない (riippumatta, muodollinen) 年齢**を問わず**、どなたでも参加できます (similar) vs. "riippumatta" lyhyt
+??
+～によらず (riippumatta) 年齢**によらず**、誰でも参加できる (similar) vs. muodollinen "kysymättä"

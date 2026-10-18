@@ -107,9 +107,26 @@ Miten な-adjektiivi/substantiivi liitetään から:aan verrattuna ので:on?
 
 #flashcards/grammar/n5/vertailu
 
-S1から、S2／どうして (syy) (similar/compare) ::: 〜ので (pehmea syy) (similar/compare)
-S1から、S2／どうして (syy) (similar) ::: ～のは～からだ (syy predikaattina) (similar)
-S1から、S2／どうして (syy) (compare) ::: なぜなら～からだ (koska, perustelu) (compare)
-S1から、S2／どうして (syy) (similar) ::: ～こともあって (osittain siksi etta) (similar)
-S1から、S2／どうして (syy) (similar/compare) ::: ～からこそ (juuri siksi etta) (similar/compare)
-S1から、S2／どうして (syy) (compare) ::: ～ことだから (koska tunnen hanet) (compare)
+S1から、S2／どうして (syy) 時間がありません**から**、新聞を読みません (similar/compare) vs. pehmeä, objektiivinen syy
+??
+〜ので (pehmea syy) 体の調子が**悪いので**、病院へ行きます (similar/compare) vs. subjektiivinen syy "koska"
+
+S1から、S2／どうして (syy) 時間がありません**から**、新聞を読みません (similar) vs. syy predikaattina "se johtuu siitä että"
+??
+～のは～からだ (syy predikaattina) 仕事を辞めた**のはなぜですか** (similar) vs. tavallinen syy
+
+S1から、S2／どうして (syy) 時間がありません**から**、新聞を読みません (compare) vs. koska, perustelu
+??
+なぜなら～からだ (koska, perustelu) **なぜなら**、危険だ**からだ** (compare) vs. syy
+
+S1から、S2／どうして (syy) 時間がありません**から**、新聞を読みません (similar) vs. osittain siksi etta
+??
+～こともあって (osittain siksi etta) 雨だった**こともあって**、客が少なかった (similar) vs. syy
+
+S1から、S2／どうして (syy) 時間がありません**から**、新聞を読みません (similar/compare) vs. juuri siksi etta
+??
+～からこそ (juuri siksi etta) 好きだ**からこそ**、厳しく言うんだ (similar/compare) vs. syy
+
+S1から、S2／どうして (syy) 時間がありません**から**、新聞を読みません (compare) vs. koska tunnen hanet
+??
+～ことだから (koska tunnen hanet) 真面目な田中さん**のことだから**、きっと来る (compare) vs. syy

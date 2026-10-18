@@ -70,4 +70,6 @@ Sekä N1 että N2 (kirjallinen).
 
 #flashcards/grammar/n1/vertailu
 
-N(aika/asema/määrä)＋にして (vasta, jopa) (similar/compare) ::: Vてはじめて (vasta silloin kun) (similar/compare)
+N(aika/asema/määrä)＋にして (vasta, jopa) 40歳**にして**、初めて結婚した (similar/compare) vs. vasta silloin kun
+??
+Vてはじめて (vasta silloin kun) 子どもを持って**はじめて**親のありがたさがわかった (similar/compare) vs. vasta, jopa

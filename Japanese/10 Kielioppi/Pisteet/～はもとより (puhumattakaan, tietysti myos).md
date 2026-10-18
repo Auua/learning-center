@@ -68,5 +68,10 @@ Sama; はもとより muodollinen.
 
 #flashcards/grammar/n2/vertailu
 
-N＋はもとより (puhumattakaan, tietysti myos) (similar/compare) ::: ～はもちろん (puhumattakaan) (similar/compare)
-N＋はもとより (puhumattakaan, tietysti myos) (similar) ::: ～もさることながら (lisaksi, puhumattakaan) (similar)
+N＋はもとより (puhumattakaan, tietysti myos) 子ども**はもとより**、大人**も**楽しめる (similar/compare) vs. arkinen "puhumattakaan"
+??
+～はもちろん (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (similar/compare) vs. kirjallinen "tietysti myös"
+
+N＋はもとより (puhumattakaan, tietysti myos) 子ども**はもとより**、大人**も**楽しめる (similar) vs. lisaksi, puhumattakaan
+??
+～もさることながら (lisaksi, puhumattakaan) 味**もさることながら**、見た目**も**美しい (similar) vs. puhumattakaan, tietysti myos

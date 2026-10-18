@@ -70,5 +70,10 @@ Molemmat huudahduksia; いかに on muodollisempi.
 
 #flashcards/grammar/n2/vertailu
 
-疑問詞＋普通形＋ことか (kuinka paljon, huudahdus) (similar/compare) ::: いかに～か (kuinka paljon, muodollinen) (similar/compare)
-疑問詞＋普通形＋ことか (kuinka paljon, huudahdus) (similar/compare) ::: なんという (mika (ihmeellinen)!) (similar/compare)
+疑問詞＋普通形＋ことか (kuinka paljon, huudahdus) 合格して、**どんなに**うれしかった**ことか** (similar/compare) vs. kuinka paljon, muodollinen
+??
+いかに～か (kuinka paljon, muodollinen) 健康が**いかに**大切**か**がわかった (similar/compare) vs. kuinka paljon, huudahdus
+
+疑問詞＋普通形＋ことか (kuinka paljon, huudahdus) 合格して、**どんなに**うれしかった**ことか** (similar/compare) vs. ihmeellinen
+??
+なんという (mika (ihmeellinen)!) **なんという**美しい景色**だ** (similar/compare) vs. kuinka paljon, huudahdus

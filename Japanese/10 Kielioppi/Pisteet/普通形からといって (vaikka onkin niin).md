@@ -72,6 +72,14 @@ Miten からといって eroaa わけではない:sta yksinään?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋からといって（〜わけではない） (vaikka onkin niin) (similar/compare) ::: 普通形わけではない (ei tarkoita etta aina) (similar/compare)
-普通形＋からといって（〜わけではない） (vaikka onkin niin) (similar/compare) ::: ～といっても (vaikka sanotaankin) (similar/compare)
-普通形＋からといって（〜わけではない） (vaikka onkin niin) (similar/compare) ::: ～ことにはならない (ei tarkoita etta) (similar/compare)
+普通形＋からといって（〜わけではない） (vaikka onkin niin) 外国人だ**からといって**、わがままは言えません (similar/compare) vs. ei tarkoita etta aina
+??
+普通形わけではない (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar/compare) vs. vaikka onkin niin
+
+普通形＋からといって（〜わけではない） (vaikka onkin niin) 外国人だ**からといって**、わがままは言えません (similar/compare) vs. vaikka sanotaankin
+??
+～といっても (vaikka sanotaankin) 料理ができる**といっても**、簡単なものだけです (similar/compare) vs. vaikka onkin niin
+
+普通形＋からといって（〜わけではない） (vaikka onkin niin) 外国人だ**からといって**、わがままは言えません (similar/compare) vs. ei tarkoita etta
+??
+～ことにはならない (ei tarkoita etta) 謝っただけでは、許された**ことにはならない** (similar/compare) vs. vaikka onkin niin

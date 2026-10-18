@@ -137,8 +137,22 @@ Kumpi: 住んでいた vai 住んでいる, kun halutaan sanoa 'asun nyt'?
 
 #flashcards/grammar/n5/vertailu
 
-～ている (parhaillaan, tilan tulos) (similar) ::: ～てある (similar)
-～ている (parhaillaan, tilan tulos) (similar) ::: ～ている (elämänhistoria, saavutukset) (similar)
-～ている (parhaillaan, tilan tulos) (similar/compare) ::: Vていた (oli tekemassa, tila menneessa) (similar/compare)
-～ている (parhaillaan, tilan tulos) (similar/compare) ::: 知っています・知りません (tietää) (similar/compare)
-～ている (parhaillaan, tilan tulos) (similar) ::: まだ＋myönteinen (yhä, edelleen) (similar)
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar) vs. tarkoituksella tehty tila
+??
+Vてあります (tarkoituksella tehty tila) 交番に町の地図が**はって**あります (similar) vs. parhaillaan, tilan tulos
+
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar) vs. elämänhistoria, saavutukset
+??
+～ている (elämänhistoria, saavutukset) モーツァルトは600以上の曲を**作っている** (similar) vs. parhaillaan, tilan tulos
+
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar/compare) vs. oli tekemassa, tila menneessa
+??
+Vていた (oli tekemassa, tila menneessa) 電話が鳴ったとき、シャワーを浴び**ていた** (similar/compare) vs. parhaillaan, tilan tulos
+
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar/compare) vs. tietää
+??
+知っています・知りません (tietää) 田中さんの電話番号**を知っています**か (similar/compare) vs. parhaillaan, tilan tulos
+
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar) vs. yhä, edelleen
+??
+まだ＋myönteinen (yhä, edelleen) 雨が**まだ**降っています (similar) vs. parhaillaan, tilan tulos

@@ -70,8 +70,22 @@ Fyysinen "pitkin" ja abstrakti "mukaisesti".
 
 #flashcards/grammar/n2/vertailu
 
-N＋に沿って／に沿った (mukaisesti, pitkin) (similar) ::: ～にしたがって (mukaisesti, sita mukaa) (similar)
-N＋に沿って／に沿った (mukaisesti, pitkin) (similar) ::: 〜とおりに (juuri niin kuin) (similar)
-N＋に沿って／に沿った (mukaisesti, pitkin) (similar) ::: ～に則って (mukaisesti, saannon mukaan) (similar)
-N＋に沿って／に沿った (mukaisesti, pitkin) (similar) ::: ～に即して (mukaisesti, perustuen) (similar)
-N＋に沿って／に沿った (mukaisesti, pitkin) (compare) ::: ～に基づいて (perustuen johonkin) (compare)
+N＋に沿って／に沿った (mukaisesti, pitkin) 川**に沿って**歩く (similar) vs. mukaisesti, sita mukaa
+??
+～にしたがって (mukaisesti, sita mukaa) 先生の指示**にしたがって**、行動してください (similar) vs. mukaisesti, pitkin
+
+N＋に沿って／に沿った (mukaisesti, pitkin) 川**に沿って**歩く (similar) vs. juuri niin kuin
+??
+〜とおりに (juuri niin kuin) わたしが今から**言うとおりに**、書いてください (similar) vs. mukaisesti, pitkin
+
+N＋に沿って／に沿った (mukaisesti, pitkin) 川**に沿って**歩く (similar) vs. mukaisesti, saannon mukaan
+??
+～に則って (mukaisesti, saannon mukaan) 法律**に則って**処分する (similar) vs. mukaisesti, pitkin
+
+N＋に沿って／に沿った (mukaisesti, pitkin) 川**に沿って**歩く (similar) vs. mukaisesti, perustuen
+??
+～に即して (mukaisesti, perustuen) 実情**に即して**、計画を変更する (similar) vs. mukaisesti, pitkin
+
+N＋に沿って／に沿った (mukaisesti, pitkin) 川**に沿って**歩く (compare) vs. perustuen johonkin
+??
+～に基づいて (perustuen johonkin) この映画は、事実**に基づいて**作られている (compare) vs. mukaisesti, pitkin

@@ -78,7 +78,18 @@ Kontrastia: täältä ei näy (muualta ehkä näkyy).
 
 #flashcards/grammar/n4/vertailu
 
-N＋で／に／へ／から／まで＋は (kontrasti ja aihe, では・には・へは) (similar/compare) ::: N（objekti）は (aiheeksi nostaminen) (similar/compare)
-N＋で／に／へ／から／まで＋は (kontrasti ja aihe, では・には・へは) (similar) ::: Nは～が、Nは～ (kontrastin は) (similar)
-N＋で／に／へ／から／まで＋は (kontrasti ja aihe, では・には・へは) (similar/compare) ::: N＋partikkeli＋も (にも・でも・へも) (similar/compare)
-N＋で／に／へ／から／まで＋は (kontrasti ja aihe, では・には・へは) (similar) ::: Nしか Vません (vain, pelkastaan) (similar)
+N＋で／に／へ／から／まで＋は (kontrasti ja aihe, では・には・へは) ひらがな**は**書けますが、漢字**は**書けません (similar/compare) vs. aiheeksi nostaminen
+??
+N（objekti）は (aiheeksi nostaminen) 荷物はここに置かないでください (similar/compare) vs. kontrasti ja aihe, では・には・へは
+
+N＋で／に／へ／から／まで＋は (kontrasti ja aihe, では・には・へは) ひらがな**は**書けますが、漢字**は**書けません (similar) vs. kontrastin は
+??
+Nは～が、Nは～ (kontrastin は) 肉**は**食べます**が**、魚**は**食べません (similar) vs. kontrasti ja aihe, では・には・へは
+
+N＋で／に／へ／から／まで＋は (kontrasti ja aihe, では・には・へは) ひらがな**は**書けますが、漢字**は**書けません (similar/compare) vs. にも・でも・へも
+??
+N＋partikkeli＋も (にも・でも・へも) 肉も魚**も**食べます (similar/compare) vs. kontrasti ja aihe, では・には・へは
+
+N＋で／に／へ／から／まで＋は (kontrasti ja aihe, では・には・へは) ひらがな**は**書けますが、漢字**は**書けません (similar) vs. vain, pelkastaan
+??
+Nしか Vません (vain, pelkastaan) わたしの会社は1週間**しか**休めません (similar) vs. kontrasti ja aihe, では・には・へは

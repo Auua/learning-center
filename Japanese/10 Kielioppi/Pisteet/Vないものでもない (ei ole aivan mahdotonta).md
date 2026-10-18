@@ -68,5 +68,10 @@ Ehto: 〜ば, 〜次第では.
 
 #flashcards/grammar/n1/vertailu
 
-V(ない)＋ものでもない (ei ole aivan mahdotonta) (similar/compare) ::: Vないことはない (ei ole mahdotonta) (similar/compare)
-V(ない)＋ものでもない (ei ole aivan mahdotonta) (similar) ::: Vなくはない・なくもない (kylla tavallaan) (similar)
+V(ない)＋ものでもない (ei ole aivan mahdotonta) 条件次第では、引き受け**ないものでもない** (similar/compare) vs. "ei ole mahdotonta"
+??
+Vないことはない (ei ole mahdotonta) 食べられ**ないことはない**けど、好きじゃない (similar/compare) vs. "ei ole aivan mahdotonta" (kirjallinen)
+
+V(ない)＋ものでもない (ei ole aivan mahdotonta) 条件次第では、引き受け**ないものでもない** (similar) vs. kylla tavallaan
+??
+Vなくはない・なくもない (kylla tavallaan) 彼の気持ちもわから**なくはない** (similar) vs. ei ole aivan mahdotonta

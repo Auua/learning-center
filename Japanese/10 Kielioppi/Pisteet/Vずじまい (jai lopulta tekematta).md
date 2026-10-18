@@ -69,4 +69,6 @@ Mikä on する:n muoto?
 
 #flashcards/grammar/n1/vertailu
 
-V(ない-vartalo)＋ずじまい（だ／に終わる） (jai lopulta tekematta) (similar/compare) ::: Vそびれる (jaada tekematta, menettaa tilaisuus) (similar/compare)
+V(ない-vartalo)＋ずじまい（だ／に終わる） (jai lopulta tekematta) 結局、彼女に会わ**ずじまい**だった (similar/compare) vs. jaada tekematta, menettaa tilaisuus
+??
+Vそびれる (jaada tekematta, menettaa tilaisuus) 言い**そびれた** (similar/compare) vs. jai lopulta tekematta

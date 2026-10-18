@@ -68,5 +68,10 @@ Sama; よりほかない muodollinen.
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形＋よりほかない／よりほかはない／ほかない (ei ole muuta kuin) (similar/compare) ::: Vしかない (ei ole muuta vaihtoehtoa) (similar/compare)
-V辞書形＋よりほかない／よりほかはない／ほかない (ei ole muuta kuin) (similar) ::: Vざるを得ない (on pakko) (similar)
+V辞書形＋よりほかない／よりほかはない／ほかない (ei ole muuta kuin) 待つ**よりほかない** (similar/compare) vs. ei ole muuta vaihtoehtoa
+??
+Vしかない (ei ole muuta vaihtoehtoa) 内容より形を重視する考えに従う**しかなかった** (similar/compare) vs. ei ole muuta kuin
+
+V辞書形＋よりほかない／よりほかはない／ほかない (ei ole muuta kuin) 待つ**よりほかない** (similar) vs. on pakko
+??
+Vざるを得ない (on pakko) 今日は大事な会議があるが、休ま**ざるを得ない** (similar) vs. ei ole muuta kuin

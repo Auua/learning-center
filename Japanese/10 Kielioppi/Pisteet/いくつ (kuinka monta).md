@@ -76,5 +76,10 @@ Kohtelias kysymys iästä (= 何歳ですか).
 
 #flashcards/grammar/n5/vertailu
 
-いくつ (kuinka monta) (similar/compare) ::: Lukusanat ja luokittelijat (similar/compare)
-いくつ (kuinka monta) (similar/compare) ::: どのくらい (kuinka kauan, kuinka paljon) (similar/compare)
+いくつ (kuinka monta) みかんを**いくつ**買いましたか (similar/compare) vs. lukusanat ja laskusanat
+??
+Lukusanat ja luokittelijat りんごを4つ買いました (similar/compare) vs. kuinka monta
+
+いくつ (kuinka monta) みかんを**いくつ**買いましたか (similar/compare) vs. kuinka kauan, kuinka paljon
+??
+どのくらい (kuinka kauan, kuinka paljon) 日本語を**どのくらい**勉強しましたか (similar/compare) vs. kuinka monta

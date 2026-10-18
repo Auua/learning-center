@@ -68,5 +68,10 @@ Sama; すら kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋すら／ですら (jopa, edes, kirjallinen) (similar/compare) ::: Nさえ・でさえ (jopa, edes) (similar/compare)
-N＋すら／ですら (jopa, edes, kirjallinen) (similar) ::: ～だに (edes, pelkka ajatuskin) (similar)
+N＋すら／ですら (jopa, edes, kirjallinen) 名前**すら**知らない (similar/compare) vs. neutraali "jopa, edes"
+??
+Nさえ・でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar/compare) vs. kirjallinen "jopa, edes"
+
+N＋すら／ですら (jopa, edes, kirjallinen) 名前**すら**知らない (similar) vs. edes, pelkka ajatuskin
+??
+～だに (edes, pelkka ajatuskin) 微動**だにしない** (similar) vs. jopa, edes, kirjallinen

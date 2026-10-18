@@ -70,5 +70,10 @@ Kun tosi paikka tulee.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋となると／となれば／となったら (jos niin on, silloin) (similar/compare) ::: ～とすれば・としたら・とすると (oletetaan etta) (similar/compare)
-N／普通形＋となると／となれば／となったら (jos niin on, silloin) (similar) ::: ～なら (jos kerran) (similar)
+N／普通形＋となると／となれば／となったら (jos niin on, silloin) 結婚**となると**、話は別だ (similar/compare) vs. oletetaan etta
+??
+～とすれば・としたら・とすると (oletetaan etta) 宝くじが当たった**としたら**、何をしますか (similar/compare) vs. jos niin on, silloin
+
+N／普通形＋となると／となれば／となったら (jos niin on, silloin) 結婚**となると**、話は別だ (similar) vs. jos kerran
+??
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar) vs. jos niin on, silloin

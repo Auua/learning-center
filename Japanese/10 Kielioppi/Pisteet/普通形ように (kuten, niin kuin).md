@@ -84,6 +84,14 @@ Kuulijan jo tuntemaan tietoon: sanottuun, nähtyyn tai yleisesti tunnettuun.
 
 #flashcards/grammar/n4/vertailu
 
-V普通形／Nの＋ように（、〜） (kuten, niin kuin) (similar/compare) ::: 〜とおりに (juuri niin kuin) (similar/compare)
-V普通形／Nの＋ように（、〜） (kuten, niin kuin) (similar) ::: そうであったように (kuten aiemmin, viittaava) (similar)
-V普通形／Nの＋ように（、〜） (kuten, niin kuin) (compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (compare)
+V普通形／Nの＋ように（、〜） (kuten, niin kuin) 前にも言った**ように**、明日は休みです (similar/compare) vs. juuri niin kuin
+??
+〜とおりに (juuri niin kuin) わたしが今から**言うとおりに**、書いてください (similar/compare) vs. kuten, niin kuin
+
+V普通形／Nの＋ように（、〜） (kuten, niin kuin) 前にも言った**ように**、明日は休みです (similar) vs. kuten aiemmin, viittaava
+??
+そうであったように (kuten aiemmin, viittaava) 父が**そうであったように**、私も教師になった (similar) vs. kuten, niin kuin
+
+V普通形／Nの＋ように（、〜） (kuten, niin kuin) 前にも言った**ように**、明日は休みです (compare) vs. vertailu, esimerkki
+??
+～のようだ・～のような・～のように (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (compare) vs. kuten, niin kuin

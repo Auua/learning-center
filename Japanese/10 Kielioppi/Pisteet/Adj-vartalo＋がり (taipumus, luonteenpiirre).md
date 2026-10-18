@@ -72,4 +72,6 @@ Luonnetta — pysyvä taipumus. Hetki = 寒がっている.
 
 #flashcards/grammar/n4/vertailu
 
-Adj-vartalo＋がり（屋） (taipumus, luonteenpiirre) (similar/compare) ::: ～たがる・～たがっている (toisen havaittu halu) (similar/compare)
+Adj-vartalo＋がり（屋） (taipumus, luonteenpiirre) 弟は**寒がり**だ (similar/compare) vs. toisen havaittu halu
+??
+～たがる・～たがっている (toisen havaittu halu) 子どもは友達の物を**欲しがります** (similar/compare) vs. taipumus, luonteenpiirre

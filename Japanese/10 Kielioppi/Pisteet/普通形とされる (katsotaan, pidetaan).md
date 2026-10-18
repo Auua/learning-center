@@ -68,5 +68,10 @@ Tieteellisissä ja virallisissa teksteissä.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（N）＋とされる／とされている (katsotaan, pidetaan) (similar/compare) ::: 普通形と言われている (sanotaan etta, yleinen kasitys) (similar/compare)
-普通形（N）＋とされる／とされている (katsotaan, pidetaan) (similar) ::: 普通形と考えられる (voidaan ajatella etta) (similar)
+普通形（N）＋とされる／とされている (katsotaan, pidetaan) この寺は日本最古**とされる** (similar/compare) vs. sanotaan etta, yleinen kasitys
+??
+普通形と言われている (sanotaan etta, yleinen kasitys) 日本人は長生きだ**と言われている** (similar/compare) vs. katsotaan, pidetaan
+
+普通形（N）＋とされる／とされている (katsotaan, pidetaan) この寺は日本最古**とされる** (similar) vs. voidaan ajatella etta
+??
+普通形と考えられる (voidaan ajatella etta) 事故の原因はスピードの出しすぎ**と考えられる** (similar) vs. katsotaan, pidetaan

@@ -91,5 +91,10 @@ Rakenne on sama (と + verbi), mutta と言います lainaa jonkun sanoman, と�
 
 #flashcards/grammar/n5/vertailu
 
-普通形と思います (mielipide) (similar) ::: 普通形と言います (lainaus) (similar)
-普通形と思います (mielipide) (compare) ::: 普通形ような気がする (tuntuu silta etta) (compare)
+普通形と思います (mielipide) あした雨が降る**と思います** (similar) vs. lainaus
+??
+普通形と言います (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. mielipide
+
+普通形と思います (mielipide) あした雨が降る**と思います** (compare) vs. tuntuu silta etta
+??
+普通形ような気がする (tuntuu silta etta) 誰かに見られている**ような気がする** (compare) vs. mielipide

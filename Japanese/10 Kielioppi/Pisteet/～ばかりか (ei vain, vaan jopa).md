@@ -70,6 +70,14 @@ Ei — jälkiosa on tosiasia.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N）＋ばかりか (ei vain, vaan jopa) (similar/compare) ::: ～ばかりでなく (ei ainoastaan, vaan myos) (similar/compare)
-普通形（N）＋ばかりか (ei vain, vaan jopa) (similar) ::: ～どころか (paikalla vaan painvastoin) (similar)
-普通形（N）＋ばかりか (ei vain, vaan jopa) (compare) ::: ～だけでなく (ei pelkastaan vaan myos) (compare)
+普通形（N）＋ばかりか (ei vain, vaan jopa) 彼は英語**ばかりか**、中国語**も**話せる (similar/compare) vs. ei ainoastaan, vaan myos
+??
+～ばかりでなく (ei ainoastaan, vaan myos) ここは温泉**ばかりでなく**、釣りや山登りも楽しめます (similar/compare) vs. ei vain, vaan jopa
+
+普通形（N）＋ばかりか (ei vain, vaan jopa) 彼は英語**ばかりか**、中国語**も**話せる (similar) vs. paikalla vaan painvastoin
+??
+～どころか (paikalla vaan painvastoin) 楽になる**どころか**、もっと忙しくなった (similar) vs. ei vain, vaan jopa
+
+普通形（N）＋ばかりか (ei vain, vaan jopa) 彼は英語**ばかりか**、中国語**も**話せる (compare) vs. ei pelkastaan vaan myos
+??
+～だけでなく (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (compare) vs. ei vain, vaan jopa

@@ -76,7 +76,18 @@ Kyllä: スポーツはあまり好きじゃないんです — implikoi vastako
 
 #flashcards/grammar/n5/vertailu
 
-N（objekti）は (aiheeksi nostaminen) (similar) ::: Nを V (objekti) (similar)
-N（objekti）は (aiheeksi nostaminen) (similar) ::: Nは～が、Nは～ (kontrastin は) (similar)
-N（objekti）は (aiheeksi nostaminen) (compare) ::: Nが (subjektipartikkeli, uusi tieto) (compare)
-N（objekti）は (aiheeksi nostaminen) (similar/compare) ::: N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) (similar/compare)
+N（objekti）は (aiheeksi nostaminen) 荷物はここに置かないでください (similar) vs. objekti
+??
+Nを V (objekti) ジュース**を**飲みます (similar) vs. aiheeksi nostaminen
+
+N（objekti）は (aiheeksi nostaminen) 荷物はここに置かないでください (similar) vs. kontrastin は
+??
+Nは～が、Nは～ (kontrastin は) 肉**は**食べます**が**、魚**は**食べません (similar) vs. aiheeksi nostaminen
+
+N（objekti）は (aiheeksi nostaminen) 荷物はここに置かないでください (compare) vs. subjektipartikkeli, uusi tieto
+??
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (compare) vs. aiheeksi nostaminen
+
+N（objekti）は (aiheeksi nostaminen) 荷物はここに置かないでください (similar/compare) vs. kontrasti ja aihe, では・には・へは
+??
+N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) ひらがな**は**書けますが、漢字**は**書けません (similar/compare) vs. aiheeksi nostaminen

@@ -72,4 +72,6 @@ Vastineeksi; sen sijaan.
 
 #flashcards/grammar/n3/vertailu
 
-普通形／Nの＋代わりに (sen sijaan, vastineeksi) (compare) ::: ～にかわって・にかわり (jonkun puolesta, sijaan) (compare)
+普通形／Nの＋代わりに (sen sijaan, vastineeksi) 父**の代わりに**、私が行きます (compare) vs. jonkun puolesta, sijaan
+??
+～にかわって・にかわり (jonkun puolesta, sijaan) 社長**にかわって**、私がご挨拶します (compare) vs. sen sijaan, vastineeksi

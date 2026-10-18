@@ -75,5 +75,10 @@ Kun て-muoto päättyy で:hen (飲んで, 遊んで, 泳いで).
 
 #flashcards/grammar/n5/vertailu
 
-V(て-muoto→ちゃ／じゃ)いけない (puhekielinen kielto) (similar/compare) ::: Vても いいです・Vては いけません (lupa ja kielto) (similar/compare)
-V(て-muoto→ちゃ／じゃ)いけない (puhekielinen kielto) (similar) ::: ～ちゃう・～とく・～てる (puhekieliset supistumat) (similar)
+V(て-muoto→ちゃ／じゃ)いけない (puhekielinen kielto) 見**ちゃいけない** (similar/compare) vs. lupa ja kielto
+??
+Vても いいです・Vては いけません (lupa ja kielto) 写真を撮っ**てもいいです** (similar/compare) vs. puhekielinen kielto
+
+V(て-muoto→ちゃ／じゃ)いけない (puhekielinen kielto) 見**ちゃいけない** (similar) vs. puhekieliset supistumat
+??
+～ちゃう・～とく・～てる (puhekieliset supistumat) 財布を忘れ**ちゃった** (similar) vs. puhekielinen kielto

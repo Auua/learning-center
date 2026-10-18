@@ -68,5 +68,10 @@ Tilanteen arvioon, joka johtaa välittömään toimintaan.
 
 #flashcards/grammar/n1/vertailu
 
-V普通形＋とみると／とみるや (heti nahtyaan) (similar/compare) ::: ～と見るや (nahtyaan heti) (similar/compare)
-V普通形＋とみると／とみるや (heti nahtyaan) (similar) ::: V辞書形なり (heti kun) (similar)
+V普通形＋とみると／とみるや (heti nahtyaan) 勝てない**とみると**、彼はすぐ諦めた (similar/compare) vs. "nähtyään heti" kirjallinen
+??
+～と見るや (nahtyaan heti) チャンスだ**と見るや**、彼は走り出した (similar/compare) vs. "heti nähtyään"
+
+V普通形＋とみると／とみるや (heti nahtyaan) 勝てない**とみると**、彼はすぐ諦めた (similar) vs. heti kun
+??
+V辞書形なり (heti kun) 彼は家に帰る**なり**、寝てしまった (similar) vs. heti nahtyaan

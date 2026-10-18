@@ -86,6 +86,14 @@ Erisnimi-という esittelee nimen (村上春樹という作家); lause-とい�
 
 #flashcards/grammar/n3/vertailu
 
-NをNと言う・Nという～ (nimeaminen) (similar) ::: 普通形と言います (lainaus) (similar)
-NをNと言う・Nという～ (nimeaminen) (similar/compare) ::: 普通形という～ (raportoitu sisalto) (similar/compare)
-NをNと言う・Nという～ (nimeaminen) (similar/compare) ::: ～というのは～のことだ・ということだ (maaritelma) (similar/compare)
+NをNと言う・Nという～ (nimeaminen) 正月に食べる料理を**何と言いますか** (similar) vs. lainaus
+??
+普通形と言います (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. nimeaminen
+
+NをNと言う・Nという～ (nimeaminen) 正月に食べる料理を**何と言いますか** (similar/compare) vs. raportoitu sisalto
+??
+普通形という～ (raportoitu sisalto) ごみを分けて出す**という規則**はなかなか守られていません (similar/compare) vs. nimeaminen
+
+NをNと言う・Nという～ (nimeaminen) 正月に食べる料理を**何と言いますか** (similar/compare) vs. maaritelma
+??
+～というのは～のことだ・ということだ (maaritelma) 外来語**というのは**日本語になった外国語**のことだ** (similar/compare) vs. nimeaminen

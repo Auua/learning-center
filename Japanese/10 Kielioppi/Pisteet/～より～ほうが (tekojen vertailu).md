@@ -105,7 +105,18 @@ Sama rakenne substantiiveilla (この車はあの車より大きい); teko-verta
 
 #flashcards/grammar/n4/vertailu
 
-V／A より V／A ほうが… (tekojen vertailu) (similar/compare) ::: N1はN2より (vertailu) (similar/compare)
-V／A より V／A ほうが… (tekojen vertailu) (similar) ::: Vたほうがいいです (kannattaisi tehda) (similar)
-V／A より V／A ほうが… (tekojen vertailu) (similar) ::: ～に比べて (verrattuna) (similar)
-V／A より V／A ほうが… (tekojen vertailu) (compare) ::: AよりむしろB (pikemminkin) (compare)
+V／A より V／A ほうが… (tekojen vertailu) **入るより出るほうが**ずっと大変です (similar/compare) vs. substantiivien vertailu
+??
+N1はN2より (vertailu) この車はあの車**より**大きいです (similar/compare) vs. kahden teon vertailu
+
+V／A より V／A ほうが… (tekojen vertailu) **入るより出るほうが**ずっと大変です (similar) vs. kannattaisi tehda
+??
+Vたほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (similar) vs. tekojen vertailu
+
+V／A より V／A ほうが… (tekojen vertailu) **入るより出るほうが**ずっと大変です (similar) vs. verrattuna
+??
+～に比べて (verrattuna) 今年は去年**に比べて**春の来るのが遅かった (similar) vs. tekojen vertailu
+
+V／A より V／A ほうが… (tekojen vertailu) **入るより出るほうが**ずっと大変です (compare) vs. pikemminkin
+??
+AよりむしろB (pikemminkin) 夏**より**、**むしろ**冬のほうが好きだ (compare) vs. tekojen vertailu

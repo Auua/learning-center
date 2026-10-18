@@ -68,4 +68,6 @@ Puhekielinen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋をそっちのけで／はそっちのけで (laiminlyoden) (similar/compare) ::: ～にかまけて (liian kiireinen jhk) (similar/compare)
+N＋をそっちのけで／はそっちのけで (laiminlyoden) 勉強**をそっちのけで**、ゲームばかりしている (similar/compare) vs. liian kiireinen jhk
+??
+～にかまけて (liian kiireinen jhk) 仕事**にかまけて**、家族を顧みなかった (similar/compare) vs. laiminlyoden

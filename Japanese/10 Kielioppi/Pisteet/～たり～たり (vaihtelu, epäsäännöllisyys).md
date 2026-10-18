@@ -102,6 +102,14 @@ Miten ～たり～たり (vaihtelu) eroaa ～によって:sta?
 
 #flashcards/grammar/n3/vertailu
 
-V／Aたり V／Aたりする（vaihtelu） (vaihtelu, epäsäännöllisyys) (similar/compare) ::: Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) (similar/compare)
-V／Aたり V／Aたりする（vaihtelu） (vaihtelu, epäsäännöllisyys) (similar) ::: ～によって (riippuen, vaihtelu) (similar)
-V／Aたり V／Aたりする（vaihtelu） (vaihtelu, epäsäännöllisyys) (similar) ::: Vことがある・こともある (satunnainen poikkeus) (similar)
+V／Aたり V／Aたりする（vaihtelu） (vaihtelu, epäsäännöllisyys) 雨が**降ったりやんだり**する (similar/compare) vs. esimerkkitekoja, ei järjestyksessä
+??
+Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) 日曜日はテニスをし**たり**、映画を見**たり**します (similar/compare) vs. vaihtelu, epäsäännöllisyys
+
+V／Aたり V／Aたりする（vaihtelu） (vaihtelu, epäsäännöllisyys) 雨が**降ったりやんだり**する (similar) vs. riippuen, vaihtelu
+??
+～によって (riippuen, vaihtelu) 文化や習慣は**国によって**違います (similar) vs. vaihtelu, epäsäännöllisyys
+
+V／Aたり V／Aたりする（vaihtelu） (vaihtelu, epäsäännöllisyys) 雨が**降ったりやんだり**する (similar) vs. satunnainen poikkeus
+??
+Vことがある・こともある (satunnainen poikkeus) たまに電車が**遅れることがある** (similar) vs. vaihtelu, epäsäännöllisyys

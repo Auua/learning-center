@@ -69,4 +69,6 @@ En osaa sanoa.
 
 #flashcards/grammar/n1/vertailu
 
-N／Adj＋とも＋〜とも（つかない／言えない） (vaikea sanoa A vai B) (similar/compare) ::: ～というか～というか (sanoisinko A vai B) (similar/compare)
+N／Adj＋とも＋〜とも（つかない／言えない） (vaikea sanoa A vai B) 笑い声**とも**泣き声**とも**つかない声 (similar/compare) vs. sanoisinko A vai B
+??
+～というか～というか (sanoisinko A vai B) 無邪気**というか**無責任**というか**、困った人だ (similar/compare) vs. vaikea sanoa A vai B

@@ -70,7 +70,18 @@ Se vahvistaa alarajaa: 少なくとも3回は.
 
 #flashcards/grammar/n3/vertailu
 
-Määrä＋は (vahintaan) (similar) ::: 数量＋からある (perati, ainakin) (similar)
-Määrä＋は (vahintaan) (compare) ::: Maara＋も (jopa, perati) (compare)
-Määrä＋は (vahintaan) (compare) ::: Vないまでも (vaikka ei ehka, ainakin) (compare)
-Määrä＋は (vahintaan) (compare) ::: ～なりとも (edes vahan) (compare)
+Määrä＋は (vahintaan) 駅まで30分**は**かかる (similar) vs. perati, ainakin
+??
+数量＋からある (perati, ainakin) 50キロ**からある**荷物 (similar) vs. vahintaan
+
+Määrä＋は (vahintaan) 駅まで30分**は**かかる (compare) vs. jopa, perati
+??
+Maara＋も (jopa, perati) 2時間**も**待ちました (compare) vs. vahintaan
+
+Määrä＋は (vahintaan) 駅まで30分**は**かかる (compare) vs. vaikka ei ehka, ainakin
+??
+Vないまでも (vaikka ei ehka, ainakin) 毎日とは言わ**ないまでも**、週に一度は電話して (compare) vs. vahintaan
+
+Määrä＋は (vahintaan) 駅まで30分**は**かかる (compare) vs. edes vahan
+??
+～なりとも (edes vahan) **少しなりとも**お役に立てればうれしいです (compare) vs. vahintaan

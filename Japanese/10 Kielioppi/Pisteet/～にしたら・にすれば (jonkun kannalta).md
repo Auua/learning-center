@@ -70,5 +70,10 @@ Toisen ihmisen, jonka asemaan puhuja asettuu.
 
 #flashcards/grammar/n2/vertailu
 
-N(henkilö)＋にしたら／にすれば／にしてみれば (jonkun kannalta) (similar/compare) ::: ～にとって (jonkun nakokulmasta) (similar/compare)
-N(henkilö)＋にしたら／にすれば／にしてみれば (jonkun kannalta) (similar) ::: ～からすると・からすれば (jonkin perusteella) (similar)
+N(henkilö)＋にしたら／にすれば／にしてみれば (jonkun kannalta) 親**にしたら**、子どもの将来は心配だ (similar/compare) vs. jonkun nakokulmasta
+??
+～にとって (jonkun nakokulmasta) 赤ちゃん**にとって**十分な睡眠は欠かせないものだ (similar/compare) vs. jonkun kannalta
+
+N(henkilö)＋にしたら／にすれば／にしてみれば (jonkun kannalta) 親**にしたら**、子どもの将来は心配だ (similar) vs. jonkin perusteella
+??
+～からすると・からすれば (jonkin perusteella) 親**からすると**、子どもの将来が心配だ (similar) vs. jonkun kannalta

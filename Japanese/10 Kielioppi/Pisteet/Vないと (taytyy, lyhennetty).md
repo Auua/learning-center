@@ -70,6 +70,14 @@ Lopussa = täytyy mennä; keskellä = jos ei mene, myöhästyy.
 
 #flashcards/grammar/n3/vertailu
 
-V(ない-muoto)＋と（。） (taytyy, lyhennetty) (similar/compare) ::: Vないといけない (taytyy) (similar/compare)
-V(ない-muoto)＋と（。） (taytyy, lyhennetty) (similar) ::: ～なくちゃ・～なきゃ (puhekielinen pakko) (similar)
-V(ない-muoto)＋と（。） (taytyy, lyhennetty) (similar/compare) ::: さもないと (muuten, muuten kay huonosti) (similar/compare)
+V(ない-muoto)＋と（。） (taytyy, lyhennetty) もう行か**ないと** (similar/compare) vs. täysi muoto "täytyy"
+??
+Vないといけない (taytyy) もう帰ら**ないといけない** (similar/compare) vs. lyhennetty "täytyy"
+
+V(ない-muoto)＋と（。） (taytyy, lyhennetty) もう行か**ないと** (similar) vs. puhekielinen pakko
+??
+～なくちゃ・～なきゃ (puhekielinen pakko) レポートを**書かなくちゃ** (similar) vs. taytyy, lyhennetty
+
+V(ない-muoto)＋と（。） (taytyy, lyhennetty) もう行か**ないと** (similar/compare) vs. muuten, muuten kay huonosti
+??
+さもないと (muuten, muuten kay huonosti) **さもないと**、遅れるよ (similar/compare) vs. taytyy, lyhennetty

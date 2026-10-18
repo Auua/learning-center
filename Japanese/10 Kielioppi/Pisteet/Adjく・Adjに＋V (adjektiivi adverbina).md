@@ -77,6 +77,14 @@ Mikä on いい:n adverbimuoto?
 
 #flashcards/grammar/n4/vertailu
 
-い-adj（～く）／な-adj（～に）＋V (adjektiivi adverbina) (similar/compare) ::: ～くします・～にします (tahallinen muutos) (similar/compare)
-い-adj（～く）／な-adj（～に）＋V (adjektiivi adverbina) (similar) ::: ～くなります・～になります (muutos) (similar)
-い-adj（～く）／な-adj（～に）＋V (adjektiivi adverbina) (similar) ::: い-adjektiivit ja な-adjektiivit (similar)
+い-adj（～く）／な-adj（～に）＋V (adjektiivi adverbina) 毎朝**早く**起きます (similar/compare) vs. tahallinen muutos
+??
+～くします・～にします (tahallinen muutos) 音を**大きくします** (similar/compare) vs. adjektiivi adverbina
+
+い-adj（～く）／な-adj（～に）＋V (adjektiivi adverbina) 毎朝**早く**起きます (similar) vs. muutos
+??
+～くなります・～になります (muutos) 寒**く**なります (similar) vs. adjektiivi adverbina
+
+い-adj（～く）／な-adj（～に）＋V (adjektiivi adverbina) 毎朝**早く**起きます (similar) vs. adjektiivien kaksi perusluokkaa ylipäätään
+??
+い-adjektiivit ja な-adjektiivit **静かな**町で**高い**山を見た (similar) vs. adjektiivi adverbina

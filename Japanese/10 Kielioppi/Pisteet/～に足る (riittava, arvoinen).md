@@ -68,5 +68,10 @@ Mikä on に足る:n arkinen vastine?
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／N＋に足る／に足りる (riittava, arvoinen) (similar/compare) ::: ～に値する (ansaitsee, on arvoinen) (similar/compare)
-V辞書形／N＋に足る／に足りる (riittava, arvoinen) (similar/compare) ::: ～に足らない (ei ole arvoinen, vahapatoinen) (similar/compare)
+V辞書形／N＋に足る／に足りる (riittava, arvoinen) 信頼する**に足る**人物 (similar/compare) vs. ansaitsee, on arvoinen
+??
+～に値する (ansaitsee, on arvoinen) 彼の努力は賞賛**に値する** (similar/compare) vs. riittava, arvoinen
+
+V辞書形／N＋に足る／に足りる (riittava, arvoinen) 信頼する**に足る**人物 (similar/compare) vs. ei ole arvoinen, vahapatoinen
+??
+～に足らない (ei ole arvoinen, vahapatoinen) 取る**に足らない**問題 (similar/compare) vs. riittava, arvoinen

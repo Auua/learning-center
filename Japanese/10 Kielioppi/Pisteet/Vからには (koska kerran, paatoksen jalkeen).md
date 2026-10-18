@@ -68,5 +68,10 @@ Miten Vからには eroaa S1から、S2 -syyrakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Vた形＋からには (koska kerran, paatoksen jalkeen) (similar) ::: S1から、S2 (syy) (similar)
-V辞書形／Vた形＋からには (koska kerran, paatoksen jalkeen) (similar) ::: ～上は (koska kerran, nyt kun) (similar)
+V辞書形／Vた形＋からには (koska kerran, paatoksen jalkeen) やる**からには**勝たなければならないと思う (similar) vs. syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar) vs. koska kerran, paatoksen jalkeen
+
+V辞書形／Vた形＋からには (koska kerran, paatoksen jalkeen) やる**からには**勝たなければならないと思う (similar) vs. koska kerran, nyt kun
+??
+～上は (koska kerran, nyt kun) 引き受けた**上は**、最後までやる (similar) vs. koska kerran, paatoksen jalkeen

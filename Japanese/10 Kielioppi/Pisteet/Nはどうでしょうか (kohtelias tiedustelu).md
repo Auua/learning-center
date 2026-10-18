@@ -76,6 +76,14 @@ Kysymys "miten on?" vs. arvio "luultavasti".
 
 #flashcards/grammar/n4/vertailu
 
-Nは（場所で）どうでしょうか (kohtelias tiedustelu) (similar/compare) ::: Nはどうですか・Nはどんな Nですか (millaista, millainen) (similar/compare)
-Nは（場所で）どうでしょうか (kohtelias tiedustelu) (similar/compare) ::: 普通形のでしょうか (kohtelias kysymys) (similar/compare)
-Nは（場所で）どうでしょうか (kohtelias tiedustelu) (similar) ::: 普通形でしょう (todennakoisyys) (similar)
+Nは（場所で）どうでしょうか (kohtelias tiedustelu) ハンスは学校で**どうでしょうか** (similar/compare) vs. millaista, millainen
+??
+Nはどうですか・Nはどんな Nですか (millaista, millainen) 日本の生活は**どうですか** (similar/compare) vs. kohtelias tiedustelu
+
+Nは（場所で）どうでしょうか (kohtelias tiedustelu) ハンスは学校で**どうでしょうか** (similar/compare) vs. kohtelias kysymys
+??
+普通形のでしょうか (kohtelias kysymys) この電車は東京へ行く**のでしょうか** (similar/compare) vs. kohtelias tiedustelu
+
+Nは（場所で）どうでしょうか (kohtelias tiedustelu) ハンスは学校で**どうでしょうか** (similar) vs. todennakoisyys
+??
+普通形でしょう (todennakoisyys) あしたは雪が**降るでしょう** (similar) vs. kohtelias tiedustelu

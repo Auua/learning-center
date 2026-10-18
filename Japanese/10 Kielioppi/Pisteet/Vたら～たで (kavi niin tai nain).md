@@ -68,4 +68,6 @@ Sama sana toistuu.
 
 #flashcards/grammar/n1/vertailu
 
-Vたら／Adjかったら＋Vた／Adjかった＋で (kavi niin tai nain) (compare) ::: ～たら (jos, kun) (compare)
+Vたら／Adjかったら＋Vた／Adjかった＋で (kavi niin tai nain) お金がなければ困るが、あったら**あったで**心配になる (compare) vs. jos, kun
+??
+～たら (jos, kun) 京都に着いたら、電話してください (compare) vs. kavi niin tai nain

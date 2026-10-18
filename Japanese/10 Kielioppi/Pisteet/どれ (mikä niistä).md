@@ -76,7 +76,18 @@ Kumpi: どれ vai どの? (＿＿かさですか)
 
 #flashcards/grammar/n5/vertailu
 
-どれ (mikä niistä) (similar) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar)
-どれ (mikä niistä) (similar/compare) ::: どうやって・どの (miten, mikä näistä) (similar/compare)
-どれ (mikä niistä) (similar) ::: S1か、S2か (kumpi, A vai B) (similar)
-どれ (mikä niistä) (similar/compare) ::: なん・なに (mikä, ääntämisero) (similar/compare)
+どれ (mikä niistä) ミラーさんのかさは**どれ**ですか (similar) vs. tämä, tuo, tuo tuolla
+??
+これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) これは辞書です (similar) vs. mikä niistä
+
+どれ (mikä niistä) ミラーさんのかさは**どれ**ですか (similar/compare) vs. miten, mikä näistä
+??
+どうやって・どの (miten, mikä näistä) 大学まで**どうやって**行きますか (similar/compare) vs. mikä niistä
+
+どれ (mikä niistä) ミラーさんのかさは**どれ**ですか (similar) vs. kumpi, A vai B
+??
+S1か、S2か (kumpi, A vai B) これは「9」ですか、「7」ですか (similar) vs. mikä niistä
+
+どれ (mikä niistä) ミラーさんのかさは**どれ**ですか (similar/compare) vs. mikä, ääntämisero
+??
+なん・なに (mikä, ääntämisero) それは**なん**ですか (similar/compare) vs. mikä niistä

@@ -70,5 +70,10 @@ Sama ajatus; だに on kirjallinen ja vakiolausekkeissa.
 
 #flashcards/grammar/n1/vertailu
 
-N／V辞書形＋だに（～ない） (edes, pelkka ajatuskin) (similar/compare) ::: Nさえ・でさえ (jopa, edes) (similar/compare)
-N／V辞書形＋だに（～ない） (edes, pelkka ajatuskin) (similar) ::: Nすら・ですら (jopa, edes, kirjallinen) (similar)
+N／V辞書形＋だに（～ない） (edes, pelkka ajatuskin) 微動**だにしない** (similar/compare) vs. jopa, edes
+??
+Nさえ・でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar/compare) vs. edes, pelkka ajatuskin
+
+N／V辞書形＋だに（～ない） (edes, pelkka ajatuskin) 微動**だにしない** (similar) vs. jopa, edes, kirjallinen
+??
+Nすら・ですら (jopa, edes, kirjallinen) 名前**すら**知らない (similar) vs. edes, pelkka ajatuskin

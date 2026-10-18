@@ -70,6 +70,14 @@ Minkä sanojen kanssa とは限らない esiintyy usein?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋とは限らない (ei valttamatta) (similar/compare) ::: 普通形わけではない (ei tarkoita etta aina) (similar/compare)
-普通形＋とは限らない (ei valttamatta) (similar/compare) ::: Vないとも限らない (saattaa hyvinkin) (similar/compare)
-普通形＋とは限らない (ei valttamatta) (similar/compare) ::: ～というものではない (ei valttamatta ole niin) (similar/compare)
+普通形＋とは限らない (ei valttamatta) 高い物がいい**とは限らない** (similar/compare) vs. ei tarkoita etta aina
+??
+普通形わけではない (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar/compare) vs. ei valttamatta
+
+普通形＋とは限らない (ei valttamatta) 高い物がいい**とは限らない** (similar/compare) vs. saattaa hyvinkin
+??
+Vないとも限らない (saattaa hyvinkin) 事故が起き**ないとも限らない** (similar/compare) vs. ei valttamatta
+
+普通形＋とは限らない (ei valttamatta) 高い物がいい**とは限らない** (similar/compare) vs. "ei välttämättä ole niin" (mielipide)
+??
+～というものではない (ei valttamatta ole niin) 高ければいい**というものではない** (similar/compare) vs. "ei välttämättä"

@@ -91,4 +91,6 @@ Lisätään な い-adjektiivin eteen (×高いな山) tai jätetään な pois 
 
 #flashcards/grammar/n5/vertailu
 
-い-adjektiivi／な-adjektiivi (い-adjektiivit ja な-adjektiivit) (similar) ::: Adjく・Adjに＋V (adjektiivi adverbina) (similar)
+い-adjektiivi／な-adjektiivi (い-adjektiivit ja な-adjektiivit) **静かな**町で**高い**山を見た (similar) vs. adjektiivi adverbina
+??
+Adjく・Adjに＋V (adjektiivi adverbina) 毎朝**早く**起きます (similar) vs. adjektiivien kaksi perusluokkaa ylipäätään

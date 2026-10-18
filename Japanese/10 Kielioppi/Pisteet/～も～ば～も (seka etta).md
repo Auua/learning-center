@@ -71,8 +71,22 @@ Ei — se yhdistää luettelon osat.
 
 #flashcards/grammar/n3/vertailu
 
-N1も＋Vば／Adjければ＋N2も (seka etta) (similar) ::: Nも (myos, sama patee) (similar)
-N1も＋Vば／Adjければ＋N2も (seka etta) (similar/compare) ::: 普通形し、普通形し (perustelujen luettelointi) (similar/compare)
-N1も＋Vば／Adjければ＋N2も (seka etta) (similar/compare) ::: Nでもあり～Nでもある (seka etta) (similar/compare)
-N1も＋Vば／Adjければ＋N2も (seka etta) (similar/compare) ::: ～も～なら～も～だ (molemmat yhta huonoja) (similar/compare)
-N1も＋Vば／Adjければ＋N2も (seka etta) (similar/compare) ::: ～といい～といい (seka A etta B) (similar/compare)
+N1も＋Vば／Adjければ＋N2も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar) vs. myos, sama patee
+??
+Nも (myos, sama patee) 私**も**学生です (similar) vs. seka etta
+
+N1も＋Vば／Adjければ＋N2も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar/compare) vs. perustelujen luettelointi
+??
+普通形し、普通形し (perustelujen luettelointi) 地下鉄は速い**し**、安い**し**、地下鉄で行きましょう (similar/compare) vs. seka etta
+
+N1も＋Vば／Adjければ＋N2も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar/compare) vs. "sekä että" kopulalla
+??
+Nでもあり～Nでもある (seka etta) 彼は医者**でもあり**、作家**でもある** (similar/compare) vs. "sekä että" kahdella ehdolla
+
+N1も＋Vば／Adjければ＋N2も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar/compare) vs. molemmat yhta huonoja
+??
+～も～なら～も～だ (molemmat yhta huonoja) 親**も**親**なら**、子**も**子**だ** (similar/compare) vs. seka etta
+
+N1も＋Vば／Adjければ＋N2も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar/compare) vs. "sekä A että B" arvio
+??
+～といい～といい (seka A etta B) 味**といい**値段**といい**、文句なしだ (similar/compare) vs. "sekä että" ば-muodolla

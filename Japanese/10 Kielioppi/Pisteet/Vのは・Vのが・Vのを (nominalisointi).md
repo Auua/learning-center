@@ -46,12 +46,12 @@ tags:
 - **EN:** the act of ~ing, the fact that ~
 
 ## Muodostus
-| Kaava | Käyttö | Esimerkki |
-|---|---|---|
-| V(辞書形) + のは + adjektiivi | Yleinen arvio itse tekemisestä | 絵を**かくのは**楽しいです。／始めるのは簡単ですが、続けるのは難しいですね。 |
-| V(辞書形) + のが + すき/じょうず/はやい jne. | Mieltymys/taito-adjektiivit | 星を**見るのが**好きです。／夫は花を育てるのが上手なんです。 |
-| V(辞書形) + のを + わすれました/しっていますか | Objekti unohtaa-/tietää-verbeille | 財布を持って来る**のを**忘れました。／木村さんに赤ちゃんが生まれたのを知っていますか。 |
-| V(た形) + のは + N です（korostus） | Cleft-rakenne: "se mikä on X, on Y" | わたしが日本へ来た**のは**去年の3月です。／娘が生まれたのは北海道の小さな町です。 |
+| Kaava                          | Käyttö                              | Esimerkki                                     |
+| ------------------------------ | ----------------------------------- | --------------------------------------------- |
+| V(辞書形) + のは + adjektiivi       | Yleinen arvio itse tekemisestä      | 絵を**かくのは**楽しいです。／始めるのは簡単ですが、続けるのは難しいですね。      |
+| V(辞書形) + のが + すき/じょうず/はやい jne. | Mieltymys/taito-adjektiivit         | 星を**見るのが**好きです。／夫は花を育てるのが上手なんです。              |
+| V(辞書形) + のを + わすれました/しっていますか   | Objekti unohtaa-/tietää-verbeille   | 財布を持って来る**のを**忘れました。／木村さんに赤ちゃんが生まれたのを知っていますか。 |
+| V(た形) + のは + N です（korostus）    | Cleft-rakenne: "se mikä on X, on Y" | わたしが日本へ来た**のは**去年の3月です。／娘が生まれたのは北海道の小さな町です。   |
 
 ## Nyanssi ja rajoitukset
 - のが on varattu erityisesti mieltymys/taito-adjektiiveille (好き、嫌い、上手、下手、速い、遅い); のは sopii yleisempiin arvioihin (簡単、難しい、おもしろい、危険、大変).
@@ -118,13 +118,44 @@ Miten Vの (nominalisointi) eroaa muodosta Vことができます?
 
 #flashcards/grammar/n4/vertailu
 
-V辞書形＋の (nominalisointi) (similar/compare) ::: Vこと (nominalisointi, abstrakti tekeminen) (similar/compare)
-V辞書形＋の (nominalisointi) (similar) ::: ます-vartalo substantiivina (連用形名詞) (similar)
-V辞書形＋の (nominalisointi) (similar) ::: Vことができます (kyky) (similar)
-V辞書形＋の (nominalisointi) (similar) ::: Vたことがあります (kokemus) (similar)
-V辞書形＋の (nominalisointi) (similar/compare) ::: ～ことは・が・を (yleistys ja arvottaminen) (similar/compare)
-V辞書形＋の (nominalisointi) (similar/compare) ::: ～のは Nです (korostusrakenne, cleft) (similar/compare)
-V辞書形＋の (nominalisointi) (similar) ::: ～のは～からだ (syy predikaattina) (similar)
-V辞書形＋の (nominalisointi) (compare) ::: Vertailu — の vs. こと (nominalisointi) (compare)
-V辞書形＋の (nominalisointi) (similar) ::: 知っています・知りません (tietää) (similar)
-V辞書形＋の (nominalisointi) (similar) ::: ～とき＋partikkeli (ときに・ときも・ときの・ときや) (similar)
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (similar/compare) vs. こと-nominalisointi (abstrakti)
+??
+Vこと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar/compare) vs. の-nominalisointi
+
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. 連用形名詞
+??
+ます-vartalo substantiivina (連用形名詞) 物語の始まりはとても静かだった (similar) vs. nominalisointi
+
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. kyky
+??
+Vことができます (kyky) ミラーさんは日本語**が**できます (similar) vs. nominalisointi
+
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. kokemus
+??
+Vたことがあります (kokemus) 馬に乗っ**たことがあります** (similar) vs. nominalisointi
+
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (similar/compare) vs. yleistys ja arvottaminen
+??
+～ことは・が・を (yleistys ja arvottaminen) 若いときに留学する**ことは**いい経験になると思います (similar/compare) vs. nominalisointi
+
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (similar/compare) vs. korostusrakenne, cleft
+??
+～のは Nです (korostusrakenne, cleft) わたしが日本へ来た**のは**去年の3月**です** (similar/compare) vs. nominalisointi
+
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. syy predikaattina
+??
+～のは～からだ (syy predikaattina) 仕事を辞めた**のはなぜですか** (similar) vs. nominalisointi
+
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (compare) vs. vertailu: の vs. こと
+??
+Vertailu — の vs. こと (nominalisointi) 見る**の**が好き／趣味は読む**こと**だ (compare) vs. nominalisointi
+
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. tietää
+??
+知っています・知りません (tietää) 田中さんの電話番号**を知っています**か (similar) vs. nominalisointi
+
+V辞書形＋の (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. ときに・ときも・ときの・ときや
+??
+～とき＋partikkeli (ときに・ときも・ときの・ときや) 疲れた**ときも**、休まないで働きました (similar) vs. nominalisointi
+
+

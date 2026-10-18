@@ -110,10 +110,30 @@ Kumpi: ば vai たら: 京都に行く＿＿、写真を撮ってください?
 
 #flashcards/grammar/n4/vertailu
 
-～たら (jos, kun) (similar) ::: ～ば (jos, ehto) (similar)
-～たら (jos, kun) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
-～たら (jos, kun) (similar) ::: ～なら (jos kerran) (similar)
-～たら (jos, kun) (similar) ::: Vertailu — たら・ば + ta (kontrafaktuaalinen) (similar)
-～たら (jos, kun) (similar) ::: ～たら、～た (odottamaton löytö) (similar)
-～たら (jos, kun) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
-～たら (jos, kun) (compare) ::: Vたら～たで (kavi niin tai nain) (compare)
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. jos, ehto
+??
+～ば (jos, ehto) 時間があれば、手伝ってください (similar) vs. jos, kun
+
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. aina kun, väistämätön seuraus
+??
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. jos, kun
+
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. jos kerran
+??
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar) vs. jos, kun
+
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. vertailu: たら・ば + ta
+??
+Vertailu — たら・ば + ta (kontrafaktuaalinen) 早く出れ**ば**間に合っ**た**のに (similar) vs. jos, kun
+
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. odottamaton löytö
+??
+～たら、～た (odottamaton löytö) 窓ガラスを**ふいたら**、部屋が明るく**なった** (similar) vs. jos, kun
+
+～たら (jos, kun) 京都に着いたら、電話してください (compare) vs. vertailu: Ehtolauseet と・ば・たら・なら
+??
+Vertailu — Ehtolauseet と・ば・たら・なら 春に**なると**桜が咲く (compare) vs. jos, kun
+
+～たら (jos, kun) 京都に着いたら、電話してください (compare) vs. kavi niin tai nain
+??
+Vたら～たで (kavi niin tai nain) お金がなければ困るが、あったら**あったで**心配になる (compare) vs. jos, kun

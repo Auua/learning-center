@@ -67,6 +67,14 @@ Miksi に on pakollinen 期間に回数 -rakenteessa?
 
 #flashcards/grammar/n5/vertailu
 
-期間に回数 (toistuvuus) (similar) ::: N (aika) に (similar)
-期間に回数 (toistuvuus) (compare) ::: ～おきに (valein, joka toinen) (compare)
-期間に回数 (toistuvuus) (similar) ::: どのくらい (kuinka kauan, kuinka paljon) (similar)
+期間に回数 (toistuvuus) 1か月**に**2回映画を見ます (similar) vs. aika
+??
+N (aika) に 6時**に**起きます (similar) vs. toistuvuus
+
+期間に回数 (toistuvuus) 1か月**に**2回映画を見ます (compare) vs. valein, joka toinen
+??
+～おきに (valein, joka toinen) 1日**おきに**ジョギングします (compare) vs. toistuvuus
+
+期間に回数 (toistuvuus) 1か月**に**2回映画を見ます (similar) vs. kuinka kauan, kuinka paljon
+??
+どのくらい (kuinka kauan, kuinka paljon) 日本語を**どのくらい**勉強しましたか (similar) vs. toistuvuus

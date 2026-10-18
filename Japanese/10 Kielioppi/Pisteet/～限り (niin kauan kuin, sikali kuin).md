@@ -72,4 +72,6 @@ Niin paljon kuin mahdollista.
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Vている／N の＋限り (niin kauan kuin, sikali kuin) (similar/compare) ::: Vないかぎり (ellei, niin kauan kuin ei) (similar/compare)
+V辞書形／Vている／N の＋限り (niin kauan kuin, sikali kuin) 生きている**限り**、あなたを忘れない (similar/compare) vs. ellei, niin kauan kuin ei
+??
+Vないかぎり (ellei, niin kauan kuin ei) 私が病気にでもなら**ぬかぎり**、この店は売りません (similar/compare) vs. niin kauan kuin, sikali kuin

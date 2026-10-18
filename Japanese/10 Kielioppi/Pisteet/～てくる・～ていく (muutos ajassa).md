@@ -112,8 +112,22 @@ Miten ～てくる・～ていく (muutos) eroaa ～くなります:sta?
 
 #flashcards/grammar/n3/vertailu
 
-Vてくる／Vていく（muutos） (muutos ajassa) (similar) ::: Vてきます (kaynti ja paluu) (similar)
-Vてくる／Vていく（muutos） (muutos ajassa) (similar/compare) ::: ～てくる・～ていく (liikkeen suunta) (similar/compare)
-Vてくる／Vていく（muutos） (muutos ajassa) (similar) ::: Vようになります (kyvyn tai tilan muutos) (similar)
-Vてくる／Vていく（muutos） (muutos ajassa) (similar) ::: ～くなります・～になります (muutos) (similar)
-Vてくる／Vていく（muutos） (muutos ajassa) (similar/compare) ::: ～つつある (on (vahitellen) -massa) (similar/compare)
+Vてくる／Vていく（muutos） (muutos ajassa) 風がだんだん強く**なってきた** (similar) vs. kaynti ja paluu
+??
+Vてきます (kaynti ja paluu) スーパー**で**牛乳を買っ**て来ます** (similar) vs. muutos ajassa
+
+Vてくる／Vていく（muutos） (muutos ajassa) 風がだんだん強く**なってきた** (similar/compare) vs. liikkeen suunta
+??
+～てくる・～ていく (liikkeen suunta) 富士山が**見えてきた** (similar/compare) vs. muutos ajassa
+
+Vてくる／Vていく（muutos） (muutos ajassa) 風がだんだん強く**なってきた** (similar) vs. kyvyn tai tilan muutos
+??
+Vようになります (kyvyn tai tilan muutos) やっと自転車に**乗れるようになりました** (similar) vs. muutos ajassa
+
+Vてくる／Vていく（muutos） (muutos ajassa) 風がだんだん強く**なってきた** (similar) vs. muutos adjektiivilla
+??
+～くなります・～になります (muutos) 寒**く**なります (similar) vs. muutos ajassa (apuverbi)
+
+Vてくる／Vていく（muutos） (muutos ajassa) 風がだんだん強く**なってきた** (similar/compare) vs. vahitellen
+??
+～つつある (on (vahitellen) -massa) 景気は回復し**つつある** (similar/compare) vs. muutos ajassa

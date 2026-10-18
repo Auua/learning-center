@@ -70,5 +70,10 @@ Kaksi — eli joka kolmas päivä.
 
 #flashcards/grammar/n4/vertailu
 
-Määrä＋おきに (valein, joka toinen) (compare) ::: ～ごとに (joka, kunkin) (compare)
-Määrä＋おきに (valein, joka toinen) (compare) ::: Maara に Maara (toistuvuus) (compare)
+Määrä＋おきに (valein, joka toinen) 1日**おきに**ジョギングします (compare) vs. joka, kunkin
+??
+～ごとに (joka, kunkin) 3時間**ごとに**薬を飲む (compare) vs. valein, joka toinen
+
+Määrä＋おきに (valein, joka toinen) 1日**おきに**ジョギングします (compare) vs. toistuvuus
+??
+Maara に Maara (toistuvuus) 1か月**に**2回映画を見ます (compare) vs. valein, joka toinen

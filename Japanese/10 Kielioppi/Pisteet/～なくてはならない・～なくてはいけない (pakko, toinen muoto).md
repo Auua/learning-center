@@ -103,7 +103,18 @@ Muistisääntö: mikä partikkeli ratkaisee, onko Vなくて+は／も pakko vai
 
 #flashcards/grammar/n4/vertailu
 
-Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)
-Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar/compare) ::: ～なくちゃ・～なきゃ (puhekielinen pakko) (similar/compare)
-Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar) ::: ～なくてもかまいません (ei tarvitse, ei haittaa) (similar)
-Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) (similar) ::: Vないといけない (taytyy) (similar)
+Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) 本は2週間以内に**返さなくてはいけない** (similar/compare) vs. velvollisuus
+??
+Vなければ なりません (velvollisuus) 薬を飲ま**なければなりません** (similar/compare) vs. pakko, toinen muoto
+
+Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) 本は2週間以内に**返さなくてはいけない** (similar/compare) vs. puhekielinen pakko
+??
+～なくちゃ・～なきゃ (puhekielinen pakko) レポートを**書かなくちゃ** (similar/compare) vs. pakko, toinen muoto
+
+Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) 本は2週間以内に**返さなくてはいけない** (similar) vs. ei tarvitse, ei haittaa
+??
+～なくてもかまいません (ei tarvitse, ei haittaa) **食べなくてもかまいません** (similar) vs. pakko, toinen muoto
+
+Vなくてはならない／Vなくてはいけない (pakko, toinen muoto) 本は2週間以内に**返さなくてはいけない** (similar) vs. taytyy
+??
+Vないといけない (taytyy) もう帰ら**ないといけない** (similar) vs. pakko, toinen muoto

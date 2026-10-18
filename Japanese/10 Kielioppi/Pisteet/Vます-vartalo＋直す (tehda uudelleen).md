@@ -68,4 +68,6 @@ Tarkistaa uudelleen; myös nähdä jokin uudessa (paremmassa) valossa.
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋直す (tehda uudelleen) (similar) ::: Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) (similar)
+V(ます-vartalo)＋直す (tehda uudelleen) 間違えたので、書き**直します** (similar) vs. yhdysverbit
+??
+Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) 男はまんじゅうを見ると、急に**震え出した** (similar) vs. tehda uudelleen

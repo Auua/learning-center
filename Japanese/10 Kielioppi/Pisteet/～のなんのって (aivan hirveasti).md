@@ -68,5 +68,10 @@ Puhekielinen kerronta.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（な-adj な）＋のなんのって (aivan hirveasti) (similar/compare) ::: ～てたまらない (sietamattoman, valtavasti) (similar/compare)
-普通形（な-adj な）＋のなんのって (aivan hirveasti) (similar/compare) ::: ～といったらない (sanoinkuvaamattoman) (similar/compare)
+普通形（な-adj な）＋のなんのって (aivan hirveasti) 寒い**のなんのって**、震えが止まらなかった (similar/compare) vs. sietamattoman, valtavasti
+??
+～てたまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar/compare) vs. aivan hirveasti
+
+普通形（な-adj な）＋のなんのって (aivan hirveasti) 寒い**のなんのって**、震えが止まらなかった (similar/compare) vs. sanoinkuvaamattoman
+??
+～といったらない (sanoinkuvaamattoman) うれしい**といったらない** (similar/compare) vs. aivan hirveasti

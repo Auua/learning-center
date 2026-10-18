@@ -68,5 +68,10 @@ Sosiaalinen tai moraalinen velvoite.
 
 #flashcards/grammar/n1/vertailu
 
-V(ない-vartalo)＋ずには済まない／ないでは済まない (on pakko, ei voi valttaa) (similar/compare) ::: ～では済まない (ei riita pelkka) (similar/compare)
-V(ない-vartalo)＋ずには済まない／ないでは済まない (on pakko, ei voi valttaa) (similar) ::: Vざるを得ない (on pakko) (similar)
+V(ない-vartalo)＋ずには済まない／ないでは済まない (on pakko, ei voi valttaa) 謝ら**ずには済まない** (similar/compare) vs. ei riita pelkka
+??
+～では済まない (ei riita pelkka) 謝罪だけ**では済まない** (similar/compare) vs. on pakko, ei voi valttaa
+
+V(ない-vartalo)＋ずには済まない／ないでは済まない (on pakko, ei voi valttaa) 謝ら**ずには済まない** (similar) vs. vastentahtoinen pakko
+??
+Vざるを得ない (on pakko) 今日は大事な会議があるが、休ま**ざるを得ない** (similar) vs. "ei voi välttää" (sosiaalinen pakko)

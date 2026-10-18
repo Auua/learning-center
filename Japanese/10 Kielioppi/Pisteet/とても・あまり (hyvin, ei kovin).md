@@ -74,6 +74,14 @@ Sekä い- että な-adjektiiveihin samalla tavalla.
 
 #flashcards/grammar/n5/vertailu
 
-とても／あまり (hyvin, ei kovin) (similar/compare) ::: Nのあまり（に） (liiallisen vuoksi) (similar/compare)
-とても／あまり (hyvin, ei kovin) (similar) ::: 別に～ない (ei erityisesti) (similar)
-とても／あまり (hyvin, ei kovin) (compare) ::: とても～ない (ei mitenkaan) (compare)
+とても／あまり (hyvin, ei kovin) ペキンは**とても**寒いです (similar/compare) vs. liiallisen vuoksi
+??
+Nのあまり（に） (liiallisen vuoksi) ダイエットに励む**あまり**、病気になった (similar/compare) vs. hyvin, ei kovin
+
+とても／あまり (hyvin, ei kovin) ペキンは**とても**寒いです (similar) vs. ei erityisesti
+??
+別に～ない (ei erityisesti) **別に**困って**いない** (similar) vs. hyvin, ei kovin
+
+とても／あまり (hyvin, ei kovin) ペキンは**とても**寒いです (compare) vs. ei mitenkaan
+??
+とても～ない (ei mitenkaan) こんなに多い宿題は、**とても**一日では終わら**ない** (compare) vs. hyvin, ei kovin

@@ -70,6 +70,14 @@ Sama ajatus; まい on kirjallinen ja painokas.
 
 #flashcards/grammar/n2/vertailu
 
-V(辞書形)＋まい (ei aio, tuskin) (similar) ::: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) (similar)
-V(辞書形)＋まい (ei aio, tuskin) (similar/compare) ::: ようか～まいか (tehdako vai ei) (similar/compare)
-V(辞書形)＋まい (ei aio, tuskin) (compare) ::: ～ものか (ei ikina, enpa) (compare)
+V(辞書形)＋まい (ei aio, tuskin) もう二度と行く**まい**と思った (similar) vs. kiistetty ja toteutumaton aikomus
+??
+Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (similar) vs. ei aio, tuskin
+
+V(辞書形)＋まい (ei aio, tuskin) もう二度と行く**まい**と思った (similar/compare) vs. tehdako vai ei
+??
+ようか～まいか (tehdako vai ei) 行こう**か**行く**まいか**迷っている (similar/compare) vs. ei aio, tuskin
+
+V(辞書形)＋まい (ei aio, tuskin) もう二度と行く**まい**と思った (compare) vs. ei ikina, enpa
+??
+～ものか (ei ikina, enpa) あんな店、二度と行く**ものか** (compare) vs. ei aio, tuskin

@@ -92,6 +92,14 @@ Miten 1人だけいます eroaa lauseesta 1人しかいません?
 
 #flashcards/grammar/n4/vertailu
 
-Nしか〜ません (vain, pelkastaan) (compare) ::: Maara だけ・Nだけ (compare)
-Nしか〜ません (vain, pelkastaan) (compare) ::: Maara＋も (jopa, perati) (compare)
-Nしか〜ません (vain, pelkastaan) (similar) ::: N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) (similar)
+Nしか〜ません (vain, pelkastaan) わたしの会社は1週間**しか**休めません (compare) vs. rajaava "vain" myönteisessä
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (compare) vs. vain, pelkastaan
+
+Nしか〜ません (vain, pelkastaan) わたしの会社は1週間**しか**休めません (compare) vs. jopa, perati
+??
+Maara＋も (jopa, perati) 2時間**も**待ちました (compare) vs. vain, pelkastaan
+
+Nしか〜ません (vain, pelkastaan) わたしの会社は1週間**しか**休めません (similar) vs. kontrasti ja aihe, では・には・へは
+??
+N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) ひらがな**は**書けますが、漢字**は**書けません (similar) vs. vain, pelkastaan

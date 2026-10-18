@@ -87,7 +87,18 @@ Miten Vながら eroaa Vたり、Vたりします-rakenteesta?
 
 #flashcards/grammar/n4/vertailu
 
-V(ます-vartalo)ながら (samalla kun) (compare) ::: ～ついでに (samalla kun) (compare)
-V(ます-vartalo)ながら (samalla kun) (similar/compare) ::: ～とともに (yhdessa, samalla) (similar/compare)
-V(ます-vartalo)ながら (samalla kun) (similar/compare) ::: ～かたわら (ohella, sivussa) (similar/compare)
-V(ます-vartalo)ながら (samalla kun) (similar/compare) ::: ～つつ (samalla kun, vaikka) (similar/compare)
+V(ます-vartalo)ながら (samalla kun) 音楽を**聞きながら**食事します (compare) vs. "samalla kun on tilaisuus"
+??
+～ついでに (samalla kun) 郵便局へ行く**ついでに**、手紙を出してきて (compare) vs. samanaikaisuus
+
+V(ます-vartalo)ながら (samalla kun) 音楽を**聞きながら**食事します (similar/compare) vs. yhdessa, samalla
+??
+～とともに (yhdessa, samalla) 経済の発展**とともに**、生活が変わった (similar/compare) vs. samalla kun
+
+V(ます-vartalo)ながら (samalla kun) 音楽を**聞きながら**食事します (similar/compare) vs. ohella, sivussa
+??
+～かたわら (ohella, sivussa) 彼は会社で働く**かたわら**、小説を書いている (similar/compare) vs. samalla kun
+
+V(ます-vartalo)ながら (samalla kun) 音楽を**聞きながら**食事します (similar/compare) vs. kirjallinen "samalla kun / vaikka"
+??
+～つつ (samalla kun, vaikka) 景色を楽しみ**つつ**、歩いた (similar/compare) vs. arkinen "samalla kun"

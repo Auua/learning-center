@@ -70,6 +70,14 @@ Ei.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（な-adj な／N である）＋ものの (vaikka kylla) (similar) ::: ～ながらも (vaikka, kirjallinen myonnytys) (similar)
-普通形（な-adj な／N である）＋ものの (vaikka kylla) (compare) ::: S1けど、S2 (mutta, puhekielinen) (compare)
-普通形（な-adj な／N である）＋ものの (vaikka kylla) (compare) ::: 普通形のに (vaikka, pettymys) (compare)
+普通形（な-adj な／N である）＋ものの (vaikka kylla) 買った**ものの**、一度も使っていない (similar) vs. vaikka, kirjallinen myonnytys
+??
+～ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (similar) vs. vaikka kylla
+
+普通形（な-adj な／N である）＋ものの (vaikka kylla) 買った**ものの**、一度も使っていない (compare) vs. mutta, puhekielinen
+??
+S1けど、S2 (mutta, puhekielinen) この店は安い**けど**、おいしくない (compare) vs. vaikka kylla
+
+普通形（な-adj な／N である）＋ものの (vaikka kylla) 買った**ものの**、一度も使っていない (compare) vs. vaikka, pettymys
+??
+普通形のに (vaikka, pettymys) 約束を**したのに**、彼女は来ませんでした (compare) vs. vaikka kylla

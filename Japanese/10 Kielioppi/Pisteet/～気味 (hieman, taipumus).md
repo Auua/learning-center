@@ -71,5 +71,10 @@ Ensisijaisesti nykyistä lievää tilaa.
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)／N＋気味（ぎみ） (hieman, taipumus) (compare) ::: ～がち (taipumus, helposti) (compare)
-V(ます-vartalo)／N＋気味（ぎみ） (hieman, taipumus) (compare) ::: ～っぽい (-mainen, taipuvainen) (compare)
+V(ます-vartalo)／N＋気味（ぎみ） (hieman, taipumus) 風邪**気味**なので、早く寝ます (compare) vs. taipumus, helposti
+??
+～がち (taipumus, helposti) 冬は風邪をひき**がち**だ (compare) vs. hieman, taipumus
+
+V(ます-vartalo)／N＋気味（ぎみ） (hieman, taipumus) 風邪**気味**なので、早く寝ます (compare) vs. -mainen, taipuvainen
+??
+～っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. hieman, taipumus

@@ -69,7 +69,18 @@ Prosessin päätepisteisiin: 結論, 合意, 事態.
 
 #flashcards/grammar/n1/vertailu
 
-N／V辞書形＋に至る／に至った (paatya, johtaa) (similar) ::: ～から～に至るまで (aina jostakin johonkin asti) (similar)
-N／V辞書形＋に至る／に至った (paatya, johtaa) (similar/compare) ::: ～に及ぶ (ulottua, nousta jopa) (similar/compare)
-N／V辞書形＋に至る／に至った (paatya, johtaa) (similar) ::: ～に至っても (vielakin, vaikka) (similar)
-N／V辞書形＋に至る／に至った (paatya, johtaa) (similar) ::: ～に至っては (mita tulee, jopa) (similar)
+N／V辞書形＋に至る／に至った (paatya, johtaa) 長い議論の末、結論**に至った** (similar) vs. aina jostakin johonkin asti
+??
+～から～に至るまで (aina jostakin johonkin asti) 服装**から**言葉遣い**に至るまで**注意された (similar) vs. paatya, johtaa
+
+N／V辞書形＋に至る／に至った (paatya, johtaa) 長い議論の末、結論**に至った** (similar/compare) vs. ulottua, nousta jopa
+??
+～に及ぶ (ulottua, nousta jopa) 一度失敗すると、あとのつけは数百年**に及ぶ**可能性がある (similar/compare) vs. paatya, johtaa
+
+N／V辞書形＋に至る／に至った (paatya, johtaa) 長い議論の末、結論**に至った** (similar) vs. vielakin, vaikka
+??
+～に至っても (vielakin, vaikka) この事態**に至っても**、政府は何もしない (similar) vs. paatya, johtaa
+
+N／V辞書形＋に至る／に至った (paatya, johtaa) 長い議論の末、結論**に至った** (similar) vs. mita tulee, jopa
+??
+～に至っては (mita tulee, jopa) 皆遅刻したが、田中さん**に至っては**来なかった (similar) vs. paatya, johtaa

@@ -71,6 +71,14 @@ Kirjallisissa säännöissä, ohjeissa ja muistilapuissa.
 
 #flashcards/grammar/n3/vertailu
 
-V(辞書形)／V(ない)＋こと (ohje, saanto) (similar) ::: Vこと (nominalisointi, abstrakti tekeminen) (similar)
-V(辞書形)／V(ない)＋こと (ohje, saanto) (compare) ::: Vなさい (kasky, ohje) (compare)
-V(辞書形)／V(ない)＋こと (ohje, saanto) (compare) ::: Vべきだ (pitaisi tehda, velvollisuus) (compare)
+V(辞書形)／V(ない)＋こと (ohje, saanto) 毎日8時までに出勤する**こと** (similar) vs. nominalisointi, abstrakti tekeminen
+??
+Vこと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar) vs. ohje, saanto
+
+V(辞書形)／V(ない)＋こと (ohje, saanto) 毎日8時までに出勤する**こと** (compare) vs. kasky, ohje
+??
+Vなさい (kasky, ohje) 早く寝**なさい** (compare) vs. ohje, saanto
+
+V(辞書形)／V(ない)＋こと (ohje, saanto) 毎日8時までに出勤する**こと** (compare) vs. pitaisi tehda, velvollisuus
+??
+Vべきだ (pitaisi tehda, velvollisuus) 希望する人は全員保育所に入れるようにする**べきです** (compare) vs. ohje, saanto

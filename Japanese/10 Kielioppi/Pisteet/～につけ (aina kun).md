@@ -71,4 +71,6 @@ Tunne tai muisto: 思い出す, 心配になる.
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形＋につけ／につけて (aina kun) (similar/compare) ::: Vたびに (aina kun) (similar/compare)
+V辞書形＋につけ／につけて (aina kun) この写真を見る**につけ**、故郷を思い出す (similar/compare) vs. "aina kun"
+??
+Vたびに (aina kun) 隣のうちのお嬢さんは会う**たびに**きれいになっている (similar/compare) vs. "aina kun (muistuu mieleen)" tunne

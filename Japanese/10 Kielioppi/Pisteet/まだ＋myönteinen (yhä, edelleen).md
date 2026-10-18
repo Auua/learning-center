@@ -76,6 +76,14 @@ Myönteinen = yhä jatkuu; kielto = ei ole vielä tapahtunut.
 
 #flashcards/grammar/n4/vertailu
 
-まだ＋肯定形（まだVています・まだadj） (yhä, edelleen) (similar/compare) ::: まだ～ていません (ei ole vielä tehty) (similar/compare)
-まだ＋肯定形（まだVています・まだadj） (yhä, edelleen) (similar/compare) ::: もう Vました・まだです (jo tehty, ei vielä) (similar/compare)
-まだ＋肯定形（まだVています・まだadj） (yhä, edelleen) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
+まだ＋肯定形（まだVています・まだadj） (yhä, edelleen) 雨が**まだ**降っています (similar/compare) vs. ei ole vielä tehty
+??
+まだ～ていません (ei ole vielä tehty) **まだ決めていません** (similar/compare) vs. yhä, edelleen
+
+まだ＋肯定形（まだVています・まだadj） (yhä, edelleen) 雨が**まだ**降っています (similar/compare) vs. jo tehty, ei vielä
+??
+もう Vました・まだです (jo tehty, ei vielä) もう新幹線の切符を買いましたか (similar/compare) vs. yhä, edelleen
+
+まだ＋肯定形（まだVています・まだadj） (yhä, edelleen) 雨が**まだ**降っています (similar) vs. parhaillaan, tilan tulos
+??
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar) vs. yhä, edelleen

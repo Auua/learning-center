@@ -63,4 +63,6 @@ Kun korostetaan, ettei mikään olosuhde muuta lopputulosta; usein päättäväi
 
 #flashcards/grammar/n3/vertailu
 
-たとえ＋普通形（て形）＋も (vaikka kuinka) (compare) ::: どんなに～ても (kuinka paljon tahansa) (compare)
+たとえ＋普通形（て形）＋も (vaikka kuinka) **たとえ**雨が降っ**ても**、行きます (compare) vs. kuinka paljon tahansa
+??
+どんなに～ても (kuinka paljon tahansa) **どんなに**頑張っ**ても**、勝てない (compare) vs. vaikka kuinka

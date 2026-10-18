@@ -70,4 +70,6 @@ Asiakaspalvelussa ja virallisissa vastauksissa.
 
 #flashcards/grammar/n2/vertailu
 
-V(ます-vartalo)＋かねる (ei voi, valitettavasti) (compare) ::: Vかねない (saattaa hyvinkin, uhkaa) (compare)
+V(ます-vartalo)＋かねる (ei voi, valitettavasti) そのご質問にはお答えし**かねます** (compare) vs. saattaa hyvinkin, uhkaa
+??
+Vかねない (saattaa hyvinkin, uhkaa) そんな運転をしたら、事故を起こし**かねない** (compare) vs. ei voi, valitettavasti

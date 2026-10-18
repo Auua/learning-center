@@ -92,7 +92,18 @@ Kumpi: それに vai それで, kun haluan lisätä uuden perusteen / kertoa seu
 
 #flashcards/grammar/n4/vertailu
 
-それに・それで (lisaksi, niinpa) (similar) ::: 普通形し、普通形し (perustelujen luettelointi) (similar)
-それに・それで (lisaksi, niinpa) (similar) ::: ～上に (lisaksi, paalle paatteeksi) (similar)
-それに・それで (lisaksi, niinpa) (similar/compare) ::: しかも (lisaksi, vielapa) (similar/compare)
-それに・それで (lisaksi, niinpa) (similar) ::: それ (viittaus juuri sanottuun) (similar)
+それに・それで (lisaksi, niinpa) **それに**経験もあります (similar) vs. perustelujen luettelointi
+??
+普通形し、普通形し (perustelujen luettelointi) 地下鉄は速い**し**、安い**し**、地下鉄で行きましょう (similar) vs. lisaksi, niinpa
+
+それに・それで (lisaksi, niinpa) **それに**経験もあります (similar) vs. lisaksi, paalle paatteeksi
+??
+～上に (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar) vs. lisaksi, niinpa
+
+それに・それで (lisaksi, niinpa) **それに**経験もあります (similar/compare) vs. lisaksi, vielapa
+??
+しかも (lisaksi, vielapa) **しかも**、おいしい (similar/compare) vs. lisaksi, niinpa
+
+それに・それで (lisaksi, niinpa) **それに**経験もあります (similar) vs. viittaus juuri sanottuun
+??
+それ (viittaus juuri sanottuun) A：結婚します。B：**それは**おめでとう (similar) vs. lisaksi, niinpa

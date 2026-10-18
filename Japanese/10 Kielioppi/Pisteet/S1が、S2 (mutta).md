@@ -102,9 +102,26 @@ Miten S1が、S2 eroaa 普通形のに (vaikka, pettymys) -rakenteesta?
 
 #flashcards/grammar/n5/vertailu
 
-S1が、S2 (mutta) (similar/compare) ::: 普通形のに (vaikka, pettymys) (similar/compare)
-S1が、S2 (mutta) (compare) ::: だけど (mutta, lauseen alussa) (compare)
-S1が、S2 (mutta) (similar) ::: ところが (mutta yllattaen) (similar)
-S1が、S2 (mutta) (similar) ::: Nは～が、Nは～ (kontrastin は) (similar)
-S1が、S2 (mutta) (similar/compare) ::: S1けど、S2 (mutta, puhekielinen) (similar/compare)
-S1が、S2 (mutta) (similar) ::: ～んですが (johdanto pyyntöön tai kysymykseen) (similar)
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar/compare) vs. vaikka, pettymys
+??
+普通形のに (vaikka, pettymys) 約束を**したのに**、彼女は来ませんでした (similar/compare) vs. mutta
+
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (compare) vs. "mutta" lauseen alussa
+??
+だけど (mutta, lauseen alussa) **だけど**、だめだった (compare) vs. "mutta" lauseiden välissä
+
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar) vs. "mutta yllättäen"
+??
+ところが (mutta yllattaen) **ところが**、とても難しかった (similar) vs. "mutta" tavallinen
+
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar) vs. kontrastin は
+??
+Nは～が、Nは～ (kontrastin は) 肉**は**食べます**が**、魚**は**食べません (similar) vs. mutta
+
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar/compare) vs. puhekielinen "mutta"
+??
+S1けど、S2 (mutta, puhekielinen) この店は安い**けど**、おいしくない (similar/compare) vs. kohtelias neutraali "mutta"
+
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar) vs. johdanto pyyntöön tai kysymykseen
+??
+～んですが (johdanto pyyntöön tai kysymykseen) 市役所へ行きたい**んですが**、どう行ったらいいですか (similar) vs. mutta

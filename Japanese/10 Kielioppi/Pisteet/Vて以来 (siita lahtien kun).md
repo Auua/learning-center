@@ -62,6 +62,14 @@ Mitkä ilmaukset usein vahvistavat rakenteen V(て形)＋以来 jatkuvuutta?
 
 #flashcards/grammar/n2/vertailu
 
-V(て形)＋以来 (siita lahtien kun) (compare) ::: 期間＋ぶりに (pitkasta aikaa) (compare)
-V(て形)＋以来 (siita lahtien kun) (similar) ::: ～を境に (rajana, siita lahtien) (similar)
-V(て形)＋以来 (siita lahtien kun) (similar/compare) ::: Vてからというもの (siita lahtien kun) (similar/compare)
+V(て形)＋以来 (siita lahtien kun) スキーで骨折して**以来**、寒くなると足が痛むようになった (compare) vs. pitkasta aikaa
+??
+期間＋ぶりに (pitkasta aikaa) 5年**ぶりに**国へ帰った (compare) vs. siita lahtien kun
+
+V(て形)＋以来 (siita lahtien kun) スキーで骨折して**以来**、寒くなると足が痛むようになった (similar) vs. rajana, siita lahtien
+??
+～を境に (rajana, siita lahtien) その日**を境に**、彼は変わった (similar) vs. siita lahtien kun
+
+V(て形)＋以来 (siita lahtien kun) スキーで骨折して**以来**、寒くなると足が痛むようになった (similar/compare) vs. "siitä lähtien" (muutos)
+??
+Vてからというもの (siita lahtien kun) 子どもが生まれ**てからというもの**、早く帰るようになった (similar/compare) vs. "siitä lähtien" neutraali

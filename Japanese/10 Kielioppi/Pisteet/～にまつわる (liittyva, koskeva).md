@@ -68,4 +68,6 @@ Millaisiin sanoihin にまつわる tyypillisesti liittyy?
 
 #flashcards/grammar/n1/vertailu
 
-N＋にまつわる＋N (liittyva, koskeva) (similar/compare) ::: ～に関する・に関して (koskien) (similar/compare)
+N＋にまつわる＋N (liittyva, koskeva) この寺**にまつわる**伝説 (similar/compare) vs. koskien
+??
+～に関する・に関して (koskien) 働きアリ**に関する**有名な研究がある (similar/compare) vs. liittyva, koskeva

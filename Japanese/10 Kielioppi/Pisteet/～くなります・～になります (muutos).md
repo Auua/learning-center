@@ -81,5 +81,10 @@ Miten 〜になります eroaa 〜にします:sta?
 
 #flashcards/grammar/n5/vertailu
 
-い-adj（～く）／な-adj・N（～に）なります (muutos) (similar/compare) ::: ～くします・～にします (tahallinen muutos) (similar/compare)
-い-adj（～く）／な-adj・N（～に）なります (muutos) (similar) ::: Adjく・Adjに＋V (adjektiivi adverbina) (similar)
+い-adj（～く）／な-adj・N（～に）なります (muutos) 寒**く**なります (similar/compare) vs. tahallinen muutos
+??
+～くします・～にします (tahallinen muutos) 音を**大きくします** (similar/compare) vs. muutos itsestään
+
+い-adj（～く）／な-adj・N（～に）なります (muutos) 寒**く**なります (similar) vs. adjektiivi adverbina
+??
+Adjく・Adjに＋V (adjektiivi adverbina) 毎朝**早く**起きます (similar) vs. muutos

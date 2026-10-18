@@ -74,6 +74,14 @@ Kumpi: にもかかわらず vai ながら, kun halutaan ilmaista myönnytys ark
 
 #flashcards/grammar/n2/vertailu
 
-普通形（な・の）＋にもかかわらず (siita huolimatta etta) (similar/compare) ::: 普通形ながら (myonnytys, vaikka) (similar/compare)
-普通形（な・の）＋にもかかわらず (siita huolimatta etta) (similar) ::: たとえ～ても (vaikka kuinka) (similar)
-普通形（な・の）＋にもかかわらず (siita huolimatta etta) (compare) ::: ～にかかわらず (riippumatta) (compare)
+普通形（な・の）＋にもかかわらず (siita huolimatta etta) 雨**にもかかわらず**、大勢来た (similar/compare) vs. myonnytys, vaikka
+??
+普通形ながら (myonnytys, vaikka) 先生は、事件のことを知ってい**ながら**、何も言わなかった (similar/compare) vs. siita huolimatta etta
+
+普通形（な・の）＋にもかかわらず (siita huolimatta etta) 雨**にもかかわらず**、大勢来た (similar) vs. vaikka kuinka
+??
+たとえ～ても (vaikka kuinka) **たとえ**雨が降っ**ても**、行きます (similar) vs. siita huolimatta etta
+
+普通形（な・の）＋にもかかわらず (siita huolimatta etta) 雨**にもかかわらず**、大勢来た (compare) vs. riippumatta
+??
+～にかかわらず (riippumatta) 天候**にかかわらず**、試合は行います (compare) vs. siita huolimatta etta

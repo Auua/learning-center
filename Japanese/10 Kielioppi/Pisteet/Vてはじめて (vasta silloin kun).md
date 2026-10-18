@@ -62,6 +62,14 @@ Ettei ymmärrystä ollut ennen kyseistä kokemusta; käytetään usein elämänk
 
 #flashcards/grammar/n2/vertailu
 
-V(て形)＋はじめて (vasta silloin kun) (compare) ::: Vてからでないと (vasta kun ensin) (compare)
-V(て形)＋はじめて (vasta silloin kun) (similar/compare) ::: Nにして (vasta, jopa) (similar/compare)
-V(て形)＋はじめて (vasta silloin kun) (similar/compare) ::: Vてこそ (vasta kun, juuri tekemalla) (similar/compare)
+V(て形)＋はじめて (vasta silloin kun) 子どもを持って**はじめて**親のありがたさがわかった (compare) vs. vasta kun ensin
+??
+Vてからでないと (vasta kun ensin) 親に聞い**てからでないと**、決められない (compare) vs. vasta silloin kun
+
+V(て形)＋はじめて (vasta silloin kun) 子どもを持って**はじめて**親のありがたさがわかった (similar/compare) vs. vasta, jopa
+??
+Nにして (vasta, jopa) 40歳**にして**、初めて結婚した (similar/compare) vs. vasta silloin kun
+
+V(て形)＋はじめて (vasta silloin kun) 子どもを持って**はじめて**親のありがたさがわかった (similar/compare) vs. vasta kun, juuri tekemalla
+??
+Vてこそ (vasta kun, juuri tekemalla) 自分でやっ**てこそ**、身につく (similar/compare) vs. vasta silloin kun

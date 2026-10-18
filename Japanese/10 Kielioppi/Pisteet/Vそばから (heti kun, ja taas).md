@@ -69,4 +69,6 @@ Ei — se kuvaa toistuvaa sykliä.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／Vた＋そばから (heti kun, ja taas) (similar/compare) ::: Vたとたん（に） (juuri sina hetkena) (similar/compare)
+V辞書形／Vた＋そばから (heti kun, ja taas) 覚える**そばから**忘れてしまう (similar/compare) vs. juuri sina hetkena
+??
+Vたとたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (similar/compare) vs. heti kun, ja taas

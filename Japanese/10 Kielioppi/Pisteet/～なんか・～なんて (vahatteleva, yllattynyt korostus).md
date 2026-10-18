@@ -84,4 +84,6 @@ Miten なんか ja なんて eroavat tunnesävyltään?
 
 #flashcards/grammar/n3/vertailu
 
-Nなんか…・Nなんて…／普通形なんて… (vahatteleva, yllattynyt korostus) (similar) ::: 普通形とは (etta peraati, yllatys) (similar)
+Nなんか…・Nなんて…／普通形なんて… (vahatteleva, yllattynyt korostus) え？わたし**なんか**だめですよ (similar) vs. etta peraati, yllatys
+??
+普通形とは (etta peraati, yllatys) 彼が優勝する**とは**、思わなかった (similar) vs. vahatteleva, yllattynyt korostus

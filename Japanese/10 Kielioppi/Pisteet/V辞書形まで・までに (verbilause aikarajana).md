@@ -111,7 +111,18 @@ Miten までに eroaa rakenteesta 普通形うちに?
 
 #flashcards/grammar/n4/vertailu
 
-V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) (similar/compare) ::: N（aika）までに (määräaika) (similar/compare)
-V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) (similar) ::: ～から～まで (mistä mihin, alku ja loppu) (similar)
-V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) (similar) ::: 普通形うちに (ennen kuin liian myohaista) (similar)
-V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) (similar) ::: ～あいだ・～あいだに (kesto vs. hetki) (similar)
+V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) 子どもが**寝るまで**、本を読んでやります (similar/compare) vs. määräaika
+??
+N（aika）までに (määräaika) 土曜日**までに**本を返さなければなりません (similar/compare) vs. verbilause aikarajana
+
+V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) 子どもが**寝るまで**、本を読んでやります (similar) vs. mistä mihin, alku ja loppu
+??
+～から～まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar) vs. verbilause aikarajana
+
+V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) 子どもが**寝るまで**、本を読んでやります (similar) vs. ennen kuin liian myohaista
+??
+普通形うちに (ennen kuin liian myohaista) 毎日練習している**うちに**、速く泳げるようになった (similar) vs. verbilause aikarajana
+
+V（辞書形）まで、…／V（辞書形）までに、… (verbilause aikarajana) 子どもが**寝るまで**、本を読んでやります (similar) vs. kesto vs. hetki
+??
+～あいだ・～あいだに (kesto vs. hetki) 子どもが**眠っているあいだ**、わたしはビデオを見ていた (similar) vs. verbilause aikarajana

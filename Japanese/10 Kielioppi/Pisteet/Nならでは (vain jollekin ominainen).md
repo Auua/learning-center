@@ -68,4 +68,6 @@ Aina myönteinen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋ならでは（の） (vain jollekin ominainen) (compare) ::: ～らしい (tyypillisyys) (compare)
+N＋ならでは（の） (vain jollekin ominainen) 京都**ならではの**景色 (compare) vs. tyypillisyys
+??
+～らしい (tyypillisyys) 佐野さんの家はいかにも伝統的な日本の**家らしい家**です (compare) vs. vain jollekin ominainen

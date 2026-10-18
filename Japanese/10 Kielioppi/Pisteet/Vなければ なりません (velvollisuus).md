@@ -98,9 +98,26 @@ Täysin vastakkaiset samalla ない-pohjalla: なければなりません = pakk
 
 #flashcards/grammar/n5/vertailu
 
-Vなければなりません (velvollisuus) (similar) ::: Vなくても いいです (ei tarvitse) (similar)
-Vなければなりません (velvollisuus) (similar/compare) ::: ～なくてはならない・～なくてはいけない (pakko, toinen muoto) (similar/compare)
-Vなければなりません (velvollisuus) (similar) ::: ～なくちゃ・～なきゃ (puhekielinen pakko) (similar)
-Vなければなりません (velvollisuus) (compare) ::: Vる必要がある (on tarpeen tehda) (compare)
-Vなければなりません (velvollisuus) (similar/compare) ::: Vないといけない (taytyy) (similar/compare)
-Vなければなりません (velvollisuus) (similar/compare) ::: Vねばならない (taytyy, kirjallinen) (similar/compare)
+Vなければなりません (velvollisuus) 薬を飲ま**なければなりません** (similar) vs. ei tarvitse
+??
+Vなくても いいです (ei tarvitse) あした来**なくてもいいです** (similar) vs. velvollisuus
+
+Vなければなりません (velvollisuus) 薬を飲ま**なければなりません** (similar/compare) vs. pakko, toinen muoto
+??
+～なくてはならない・～なくてはいけない (pakko, toinen muoto) 本は2週間以内に**返さなくてはいけない** (similar/compare) vs. velvollisuus
+
+Vなければなりません (velvollisuus) 薬を飲ま**なければなりません** (similar) vs. puhekielinen pakko
+??
+～なくちゃ・～なきゃ (puhekielinen pakko) レポートを**書かなくちゃ** (similar) vs. velvollisuus
+
+Vなければなりません (velvollisuus) 薬を飲ま**なければなりません** (compare) vs. on tarpeen tehda
+??
+Vる必要がある (on tarpeen tehda) 予約する**必要があります** (compare) vs. velvollisuus
+
+Vなければなりません (velvollisuus) 薬を飲ま**なければなりません** (similar/compare) vs. taytyy
+??
+Vないといけない (taytyy) もう帰ら**ないといけない** (similar/compare) vs. velvollisuus
+
+Vなければなりません (velvollisuus) 薬を飲ま**なければなりません** (similar/compare) vs. taytyy, kirjallinen
+??
+Vねばならない (taytyy, kirjallinen) 我々は努力せ**ねばならない** (similar/compare) vs. velvollisuus

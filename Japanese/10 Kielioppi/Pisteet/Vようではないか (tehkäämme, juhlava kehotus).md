@@ -68,5 +68,10 @@ Puheissa ja julistuksissa.
 
 #flashcards/grammar/n2/vertailu
 
-V(よう-muoto)＋ではないか／じゃないか (tehkäämme, juhlava kehotus) (similar) ::: 普通形じゃないか (eiko olekin, huomautus) (similar)
-V(よう-muoto)＋ではないか／じゃないか (tehkäämme, juhlava kehotus) (similar/compare) ::: Vませんか・Vましょう (etkö tulisi, tehdäänkö) (similar/compare)
+V(よう-muoto)＋ではないか／じゃないか (tehkäämme, juhlava kehotus) みんなで力を合わせよう**ではないか** (similar) vs. eiko olekin, huomautus
+??
+普通形じゃないか (eiko olekin, huomautus) なんだ、田中さん**じゃないか** (similar) vs. tehkäämme, juhlava kehotus
+
+V(よう-muoto)＋ではないか／じゃないか (tehkäämme, juhlava kehotus) みんなで力を合わせよう**ではないか** (similar/compare) vs. etkö tulisi, tehdäänkö
+??
+Vませんか・Vましょう (etkö tulisi, tehdäänkö) いっしょに京都へ行き**ませんか** (similar/compare) vs. tehkäämme, juhlava kehotus

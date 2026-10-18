@@ -83,5 +83,10 @@ Sama verrannollinen merkitys; ほど korostaa astetta, だけ 'juuri sen verran 
 
 #flashcards/grammar/n4/vertailu
 
-Vば〜ほど (mita enemman, sita) (similar) ::: ～ば (jos, ehto) (similar)
-Vば〜ほど (mita enemman, sita) (similar/compare) ::: Vば～だけ (mita enemman, sita enemman) (similar/compare)
+Vば〜ほど (mita enemman, sita) 野菜は**新しければ新しいほど**おいしいです (similar) vs. jos, ehto
+??
+～ば (jos, ehto) 時間があれば、手伝ってください (similar) vs. mita enemman, sita
+
+Vば〜ほど (mita enemman, sita) 野菜は**新しければ新しいほど**おいしいです (similar/compare) vs. "mitä enemmän, sitä enemmän" (määrä)
+??
+Vば～だけ (mita enemman, sita enemman) 頭は使**えば**使った**だけ**柔らかくなる (similar/compare) vs. "mitä enemmän, sitä" yleinen

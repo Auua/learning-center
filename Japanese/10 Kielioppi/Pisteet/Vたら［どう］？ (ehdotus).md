@@ -73,4 +73,6 @@ Miten Vたらどう？ eroaa Vたほうがいいです:sta?
 
 #flashcards/grammar/n3/vertailu
 
-V(た形)らどう？／たら？ (ehdotus) (similar/compare) ::: Vたほうがいいです (kannattaisi tehda) (similar/compare)
+V(た形)らどう？／たら？ (ehdotus) インターネットで調べてみ**たらどうですか** (similar/compare) vs. kannattaisi tehda
+??
+Vたほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (similar/compare) vs. ehdotus

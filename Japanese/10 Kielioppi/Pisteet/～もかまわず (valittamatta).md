@@ -68,6 +68,14 @@ V普通形 + の + もかまわず.
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形の＋もかまわず (valittamatta) (similar/compare) ::: ～を顧みず (valittamatta) (similar/compare)
-N／普通形の＋もかまわず (valittamatta) (similar/compare) ::: ～をよそに (valittamatta, piittaamatta) (similar/compare)
-N／普通形の＋もかまわず (valittamatta) (compare) ::: ～てもかまいません (saa tehdä, ei haittaa) (compare)
+N／普通形の＋もかまわず (valittamatta) 人目**もかまわず**、大声で泣いた (similar/compare) vs. "välittämättä" (vaarasta)
+??
+～を顧みず (valittamatta) 危険**を顧みず**、子どもを助けた (similar/compare) vs. "välittämättä" arkisempi
+
+N／普通形の＋もかまわず (valittamatta) 人目**もかまわず**、大声で泣いた (similar/compare) vs. "piittaamatta" (ympäristön huolesta)
+??
+～をよそに (valittamatta, piittaamatta) 親の心配**をよそに**、子どもは遊びに出かけた (similar/compare) vs. "välittämättä" (muiden katseista)
+
+N／普通形の＋もかまわず (valittamatta) 人目**もかまわず**、大声で泣いた (compare) vs. saa tehdä, ei haittaa
+??
+～てもかまいません (saa tehdä, ei haittaa) 教室を**出てもかまいません** (compare) vs. valittamatta

@@ -97,6 +97,14 @@ Sama etäisyysjärjestelmä, mutta これ-sarja koskee esineitä ja ここ-sarja
 
 #flashcards/grammar/n5/vertailu
 
-ここ・そこ・あそこ／こちら・そちら・あちら (paikat ja suunnat) (similar) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar)
-ここ・そこ・あそこ／こちら・そちら・あちら (paikat ja suunnat) (similar) ::: Nはどこですか・どちらですか (missä) (similar)
-ここ・そこ・あそこ／こちら・そちら・あちら (paikat ja suunnat) (similar) ::: N1はN2（場所）です (sijainti) (similar)
+ここ・そこ・あそこ／こちら・そちら・あちら (paikat ja suunnat) ここは食堂です (similar) vs. tämä, tuo, tuo tuolla
+??
+これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) これは辞書です (similar) vs. paikat ja suunnat
+
+ここ・そこ・あそこ／こちら・そちら・あちら (paikat ja suunnat) ここは食堂です (similar) vs. missä
+??
+Nはどこですか・どちらですか (missä) トイレは**どこですか** (similar) vs. paikat ja suunnat
+
+ここ・そこ・あそこ／こちら・そちら・あちら (paikat ja suunnat) ここは食堂です (similar) vs. sijainti
+??
+N1はN2（場所）です (sijainti) 食堂は**あそこです** (similar) vs. paikat ja suunnat

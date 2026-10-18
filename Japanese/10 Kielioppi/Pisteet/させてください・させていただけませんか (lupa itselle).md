@@ -84,8 +84,22 @@ Miten させてください liittyy rakenteeseen させてもらえませんか?
 
 #flashcards/grammar/n4/vertailu
 
-V使役形＋てください／ていただけませんか (lupa itselle) (similar) ::: Vて ください (pyyntö) (similar)
-V使役形＋てください／ていただけませんか (lupa itselle) (similar/compare) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar/compare)
-V使役形＋てください／ていただけませんか (lupa itselle) (similar/compare) ::: させてもらえませんか family (kausatiivinen kohtelias pyynto) (similar/compare)
-V使役形＋てください／ていただけませんか (lupa itselle) (similar) ::: Nを V(さ)せる (kausatiivi intransitiiviverbillä) (similar)
-V使役形＋てください／ていただけませんか (lupa itselle) (similar) ::: NにNを V(さ)せる (kausatiivi transitiiviverbillä) (similar)
+V使役形＋てください／ていただけませんか (lupa itselle) しばらくここに車を**止めさせてください** (similar) vs. pyyntö
+??
+Vて ください (pyyntö) ここに名前を書い**てください** (similar) vs. lupa itselle
+
+V使役形＋てください／ていただけませんか (lupa itselle) しばらくここに車を**止めさせてください** (similar/compare) vs. kohtelias pyyntö, kiitollisuus
+??
+ご～いただく (kohtelias pyyntö, kiitollisuus) 書類を**ご確認いただけ**ますか (similar/compare) vs. lupa itselle
+
+V使役形＋てください／ていただけませんか (lupa itselle) しばらくここに車を**止めさせてください** (similar/compare) vs. kausatiivinen kohtelias pyynto
+??
+させてもらえませんか family (kausatiivinen kohtelias pyynto) 写真を1枚**撮らせてもらえませんか** (similar/compare) vs. lupa itselle
+
+V使役形＋てください／ていただけませんか (lupa itselle) しばらくここに車を**止めさせてください** (similar) vs. kausatiivi intransitiiviverbillä
+??
+Nを V(さ)せる (kausatiivi intransitiiviverbillä) 部長は加藤さん**を**大阪へ出張させます (similar) vs. lupa itselle
+
+V使役形＋てください／ていただけませんか (lupa itselle) しばらくここに車を**止めさせてください** (similar) vs. kausatiivi transitiiviverbillä
+??
+NにNを V(さ)せる (kausatiivi transitiiviverbillä) 母は子ども**に**野菜**を**食べさせます (similar) vs. lupa itselle

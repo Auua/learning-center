@@ -70,8 +70,22 @@ Voi: 暑い, 痛い, 眠い.
 
 #flashcards/grammar/n2/vertailu
 
-V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) (similar) ::: ～てしょうがない・てしかたがない (sietamattoman) (similar)
-V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) (similar/compare) ::: ～限りだ (aarimmaisen, niin kovasti) (similar/compare)
-V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) (similar/compare) ::: ～のなんのって (aivan hirveasti) (similar/compare)
-V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) (similar/compare) ::: ～て敵わない (sietamatonta) (similar/compare)
-V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) (similar/compare) ::: ～てならない (hirvean, en voi olla tuntematta) (similar/compare)
+V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar) vs. "sietämättömän" arkisempi
+??
+～てしょうがない・てしかたがない (sietamattoman) 暑く**てしょうがない** (similar) vs. "sietämättömän, valtavasti"
+
+V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar/compare) vs. aarimmaisen, niin kovasti
+??
+～限りだ (aarimmaisen, niin kovasti) 合格できて、うれしい**限りだ** (similar/compare) vs. sietamattoman, valtavasti
+
+V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar/compare) vs. aivan hirveasti
+??
+～のなんのって (aivan hirveasti) 寒い**のなんのって**、震えが止まらなかった (similar/compare) vs. sietamattoman, valtavasti
+
+V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar/compare) vs. sietamatonta
+??
+～て敵わない (sietamatonta) 暑く**てかなわない** (similar/compare) vs. sietamattoman, valtavasti
+
+V(て)／Adjくて／な-adjで＋たまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar/compare) vs. hirvean, en voi olla tuntematta
+??
+～てならない (hirvean, en voi olla tuntematta) 将来が心配で**ならない** (similar/compare) vs. sietamattoman, valtavasti

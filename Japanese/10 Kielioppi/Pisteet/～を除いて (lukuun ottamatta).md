@@ -69,4 +69,6 @@ Sama; を除いて muodollinen.
 
 #flashcards/grammar/n2/vertailu
 
-N＋を除いて／を除き／を除く (lukuun ottamatta) (similar/compare) ::: ～は別として (lukuun ottamatta) (similar/compare)
+N＋を除いて／を除き／を除く (lukuun ottamatta) 日曜日**を除いて**、毎日営業しています (similar/compare) vs. "lukuun ottamatta" (jätetään sivuun)
+??
+～は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (similar/compare) vs. "lukuun ottamatta" (poisto)

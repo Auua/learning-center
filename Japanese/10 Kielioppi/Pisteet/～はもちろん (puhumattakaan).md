@@ -70,8 +70,22 @@ Mikä partikkeli tulee yleensä jälkiosaan?
 
 #flashcards/grammar/n3/vertailu
 
-N＋はもちろん（N も） (puhumattakaan) (similar/compare) ::: ～もさることながら (lisaksi, puhumattakaan) (similar/compare)
-N＋はもちろん（N も） (puhumattakaan) (similar) ::: ～はおろか (puhumattakaan, ei edes) (similar)
-N＋はもちろん（N も） (puhumattakaan) (similar/compare) ::: ～はもとより (puhumattakaan, tietysti myos) (similar/compare)
-N＋はもちろん（N も） (puhumattakaan) (compare) ::: ～だけでなく (ei pelkastaan vaan myos) (compare)
-N＋はもちろん（N も） (puhumattakaan) (compare) ::: ～をはじめ (mukaan lukien, ensimmaisena) (compare)
+N＋はもちろん（N も） (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (similar/compare) vs. "lisäksi, puhumattakaan" (arvostus)
+??
+～もさることながら (lisaksi, puhumattakaan) 味**もさることながら**、見た目**も**美しい (similar/compare) vs. "puhumattakaan" arkinen
+
+N＋はもちろん（N も） (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (similar) vs. "puhumattakaan, ei edes" (kielteinen)
+??
+～はおろか (puhumattakaan, ei edes) 漢字**はおろか**、ひらがな**も**書けない (similar) vs. "puhumattakaan" (myönteinen)
+
+N＋はもちろん（N も） (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (similar/compare) vs. kirjallinen "tietysti myös"
+??
+～はもとより (puhumattakaan, tietysti myos) 子ども**はもとより**、大人**も**楽しめる (similar/compare) vs. arkinen "puhumattakaan"
+
+N＋はもちろん（N も） (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (compare) vs. ei pelkastaan vaan myos
+??
+～だけでなく (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (compare) vs. puhumattakaan
+
+N＋はもちろん（N も） (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (compare) vs. mukaan lukien, ensimmaisena
+??
+～をはじめ (mukaan lukien, ensimmaisena) 東京**をはじめ**、大都市は家賃が高い (compare) vs. puhumattakaan

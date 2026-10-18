@@ -71,4 +71,6 @@ Ikävä, katumusta herättävä seuraus.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（な-adj な／N である）＋ばかりに (juuri siksi etta, ikava seuraus) (compare) ::: せいで・せいだ (kielteinen syy) (compare)
+普通形（な-adj な／N である）＋ばかりに (juuri siksi etta, ikava seuraus) 一言余計なことを言った**ばかりに**、怒らせてしまった (compare) vs. kielteinen syy
+??
+せいで・せいだ (kielteinen syy) 雨の**せいで**、試合が中止になった (compare) vs. juuri siksi etta, ikava seuraus

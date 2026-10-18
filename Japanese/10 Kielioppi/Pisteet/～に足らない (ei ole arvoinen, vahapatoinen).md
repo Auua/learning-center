@@ -68,4 +68,6 @@ Mitätön, vähäpätöinen.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／N＋に足らない／に足りない (ei ole arvoinen, vahapatoinen) (similar/compare) ::: ～に足る (riittava, arvoinen) (similar/compare)
+V辞書形／N＋に足らない／に足りない (ei ole arvoinen, vahapatoinen) 取る**に足らない**問題 (similar/compare) vs. riittava, arvoinen
+??
+～に足る (riittava, arvoinen) 信頼する**に足る**人物 (similar/compare) vs. ei ole arvoinen, vahapatoinen

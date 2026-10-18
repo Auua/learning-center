@@ -71,5 +71,10 @@ Varotoimi: ておく, 持っていく.
 
 #flashcards/grammar/n3/vertailu
 
-V(て)＋はいけないから／といけないから (ettei vain) (similar/compare) ::: Vように (jotta, niin etta) (similar/compare)
-V(て)＋はいけないから／といけないから (ettei vain) (similar) ::: Vことのないように (jottei, ettei vain) (similar)
+V(て)＋はいけないから／といけないから (ettei vain) 忘れ**てはいけないから**、メモしておこう (similar/compare) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar/compare) vs. ettei vain
+
+V(て)＋はいけないから／といけないから (ettei vain) 忘れ**てはいけないから**、メモしておこう (similar) vs. kirjallinen "jottei"
+??
+Vことのないように (jottei, ettei vain) 忘れる**ことのないように**、メモしてください (similar) vs. puhekielinen "ettei vain" (koska muuten huonosti)

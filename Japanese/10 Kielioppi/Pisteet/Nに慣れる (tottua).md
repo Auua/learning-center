@@ -69,4 +69,6 @@ Millä partikkelilla 慣れる:n kohde merkitään?
 
 #flashcards/grammar/n3/vertailu
 
-N／V辞書形の＋に慣れる (tottua) (similar) ::: Vようになります (kyvyn tai tilan muutos) (similar)
+N／V辞書形の＋に慣れる (tottua) 日本の生活**に慣れました** (similar) vs. kyvyn tai tilan muutos
+??
+Vようになります (kyvyn tai tilan muutos) やっと自転車に**乗れるようになりました** (similar) vs. tottua

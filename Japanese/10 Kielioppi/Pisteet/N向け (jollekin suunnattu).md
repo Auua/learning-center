@@ -70,5 +70,10 @@ Tekijän: tuote on tarkoituksella suunnattu N:lle.
 
 #flashcards/grammar/n3/vertailu
 
-N＋向け（の／に） (jollekin suunnattu) (similar) ::: ～に向かって (kohti, -lle) (similar)
-N＋向け（の／に） (jollekin suunnattu) (compare) ::: N向き (jollekin sopiva) (compare)
+N＋向け（の／に） (jollekin suunnattu) 子ども**向けの**本 (similar) vs. kohti, -lle
+??
+～に向かって (kohti, -lle) 山**に向かって**歩いた (similar) vs. jollekin suunnattu
+
+N＋向け（の／に） (jollekin suunnattu) 子ども**向けの**本 (compare) vs. jollekin sopiva
+??
+N向き (jollekin sopiva) 初心者**向きの**山 (compare) vs. jollekin suunnattu

@@ -67,8 +67,22 @@ Merkitys sama; 際 on muodollinen vastine (kirjalliset ohjeet, virallinen ilmoit
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar/compare) ::: V・adjとき (silloin kun) (similar/compare)
-V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar) ::: ～あいだ・～あいだに (kesto vs. hetki) (similar)
-V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar/compare) ::: ～折に (tilaisuudessa, kun) (similar/compare)
-V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar) ::: ～にあたって (jonkin yhteydessa, ennen) (similar)
-V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) (similar) ::: ～に際して (jonkin yhteydessa, muodollinen) (similar)
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) 外出**の際**、必ずフロントに鍵をお預けください (similar/compare) vs. "silloin kun" arkinen
+??
+V・adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar/compare) vs. muodollinen "silloin kun"
+
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) 外出**の際**、必ずフロントに鍵をお預けください (similar) vs. kesto vs. hetki
+??
+～あいだ・～あいだに (kesto vs. hetki) 子どもが**眠っているあいだ**、わたしはビデオを見ていた (similar) vs. silloin kun, muodollinen
+
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) 外出**の際**、必ずフロントに鍵をお預けください (similar/compare) vs. tilaisuudessa, kun
+??
+～折に (tilaisuudessa, kun) 今度お会いした**折に**、お話しします (similar/compare) vs. silloin kun, muodollinen
+
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) 外出**の際**、必ずフロントに鍵をお預けください (similar) vs. jonkin yhteydessa, ennen
+??
+～にあたって (jonkin yhteydessa, ennen) 開会**にあたって**、一言ご挨拶申し上げます (similar) vs. silloin kun, muodollinen
+
+V辞書形／Vた形／Nの＋際［に］ (silloin kun, muodollinen) 外出**の際**、必ずフロントに鍵をお預けください (similar) vs. jonkin yhteydessa, muodollinen
+??
+～に際して (jonkin yhteydessa, muodollinen) ご利用**に際して**、注意事項をお読みください (similar) vs. silloin kun, muodollinen

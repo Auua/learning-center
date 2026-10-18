@@ -69,5 +69,10 @@ Moittiva, tyytymätön.
 
 #flashcards/grammar/n3/vertailu
 
-普通形／N＋ばかりで（～ない） (vain, ei muuta) (similar) ::: ～てばかりいる・～ばかり～ている (liiallinen keskittyminen) (similar)
-普通形／N＋ばかりで（～ない） (vain, ei muuta) (compare) ::: ～ばかりでなく (ei ainoastaan, vaan myos) (compare)
+普通形／N＋ばかりで（～ない） (vain, ei muuta) 彼は文句を言う**ばかりで**、何もしない (similar) vs. liiallinen keskittyminen
+??
+～てばかりいる・～ばかり～ている (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (similar) vs. vain, ei muuta
+
+普通形／N＋ばかりで（～ない） (vain, ei muuta) 彼は文句を言う**ばかりで**、何もしない (compare) vs. ei ainoastaan, vaan myos
+??
+～ばかりでなく (ei ainoastaan, vaan myos) ここは温泉**ばかりでなく**、釣りや山登りも楽しめます (compare) vs. vain, ei muuta

@@ -69,6 +69,14 @@ Kyllä.
 
 #flashcards/grammar/n1/vertailu
 
-疑問詞＋普通形＋のやら／ものやら／ことやら (mahtaakohan, en tieda) (similar) ::: Sかしら (pohdinta, feminiininen) (similar)
-疑問詞＋普通形＋のやら／ものやら／ことやら (mahtaakohan, en tieda) (similar) ::: 普通形かな (itselle esitetty pohdinta) (similar)
-疑問詞＋普通形＋のやら／ものやら／ことやら (mahtaakohan, en tieda) (similar/compare) ::: ～のやら～のやら (onko A vai B, en tieda) (similar/compare)
+疑問詞＋普通形＋のやら／ものやら／ことやら (mahtaakohan, en tieda) 彼は今どこにいる**のやら** (similar) vs. pohdinta, feminiininen
+??
+Sかしら (pohdinta, feminiininen) 明日は晴れる**かしら** (similar) vs. mahtaakohan, en tieda
+
+疑問詞＋普通形＋のやら／ものやら／ことやら (mahtaakohan, en tieda) 彼は今どこにいる**のやら** (similar) vs. itselle esitetty pohdinta
+??
+普通形かな (itselle esitetty pohdinta) お父さんの誕生日のプレゼントは何が**いいかな** (similar) vs. mahtaakohan, en tieda
+
+疑問詞＋普通形＋のやら／ものやら／ことやら (mahtaakohan, en tieda) 彼は今どこにいる**のやら** (similar/compare) vs. onko A vai B, en tieda
+??
+～のやら～のやら (onko A vai B, en tieda) 行く**のやら**行かない**のやら**、はっきりしない (similar/compare) vs. mahtaakohan, en tieda

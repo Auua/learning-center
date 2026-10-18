@@ -69,4 +69,6 @@ Tilaisuuteen tarttuen: "nyt!"
 
 #flashcards/grammar/n1/vertailu
 
-普通形／命令形＋とばかりに (aivan kuin sanoen) (similar/compare) ::: ～んばかりに (aivan kuin, melkein) (similar/compare)
+普通形／命令形＋とばかりに (aivan kuin sanoen) 「早く帰れ」**とばかりに**、時計を見た (similar/compare) vs. aivan kuin, melkein
+??
+～んばかりに (aivan kuin, melkein) 泣き出さ**んばかりに**、頼んだ (similar/compare) vs. aivan kuin sanoen

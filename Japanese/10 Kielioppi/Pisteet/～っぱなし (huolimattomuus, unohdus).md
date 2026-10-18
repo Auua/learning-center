@@ -82,5 +82,10 @@ Miten 電気がついている eroaa 電気がつけっぱなしだ:sta?
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋っぱなし (huolimattomuus, unohdus) (similar/compare) ::: ～ている (parhaillaan, tilan tulos) (similar/compare)
-V(ます-vartalo)＋っぱなし (huolimattomuus, unohdus) (compare) ::: ～放題 (vapaasti, rajattomasti) (compare)
+V(ます-vartalo)＋っぱなし (huolimattomuus, unohdus) 洗濯物が4、5日前から干し**っぱなし**だ (similar/compare) vs. parhaillaan, tilan tulos
+??
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar/compare) vs. huolimattomuus, unohdus
+
+V(ます-vartalo)＋っぱなし (huolimattomuus, unohdus) 洗濯物が4、5日前から干し**っぱなし**だ (compare) vs. vapaasti, rajattomasti
+??
+～放題 (vapaasti, rajattomasti) 食べ**放題**のレストラン (compare) vs. huolimattomuus, unohdus

@@ -68,5 +68,10 @@ Ensimmäinen = selvitään; toinen = ei riitä.
 
 #flashcards/grammar/n1/vertailu
 
-V(て)＋済むことではない／済む問題ではない (ei hoidu pelkalla) (similar) ::: ～では済まない (ei riita pelkka) (similar)
-V(て)＋済むことではない／済む問題ではない (ei hoidu pelkalla) (compare) ::: Vて済む・ないで済む (selvita pelkalla) (compare)
+V(て)＋済むことではない／済む問題ではない (ei hoidu pelkalla) 謝っ**て済むことではない** (similar) vs. ei riita pelkka
+??
+～では済まない (ei riita pelkka) 謝罪だけ**では済まない** (similar) vs. ei hoidu pelkalla
+
+V(て)＋済むことではない／済む問題ではない (ei hoidu pelkalla) 謝っ**て済むことではない** (compare) vs. selvita pelkalla
+??
+Vて済む・ないで済む (selvita pelkalla) 電話で話し**て済む**なら、行かなくていい (compare) vs. ei hoidu pelkalla

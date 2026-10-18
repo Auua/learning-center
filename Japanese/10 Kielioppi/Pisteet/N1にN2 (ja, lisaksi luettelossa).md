@@ -69,4 +69,6 @@ Yhteen sopivia pareja.
 
 #flashcards/grammar/n1/vertailu
 
-N1にN2（にN3） (ja, lisaksi luettelossa) (similar/compare) ::: N1とN2 (ja) (similar/compare)
+N1にN2（にN3） (ja, lisaksi luettelossa) ご飯**に**味噌汁**に**焼き魚が、日本の朝ご飯だ (similar/compare) vs. perusluettelo "ja"
+??
+N1とN2 (ja) 土曜日**と**日曜日 (similar/compare) vs. lisäävä luettelo "ja lisäksi"

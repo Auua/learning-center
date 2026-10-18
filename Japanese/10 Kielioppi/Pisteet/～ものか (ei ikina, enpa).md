@@ -70,5 +70,10 @@ Laskeva — se ei ole oikea kysymys.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（な-adj な）＋ものか／もんか (ei ikina, enpa) (compare) ::: 普通形わけがない (ei mitenkaan voi olla) (compare)
-普通形（な-adj な）＋ものか／もんか (ei ikina, enpa) (compare) ::: Vまい (ei aio, tuskin) (compare)
+普通形（な-adj な）＋ものか／もんか (ei ikina, enpa) あんな店、二度と行く**ものか** (compare) vs. ei mitenkaan voi olla
+??
+普通形わけがない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (compare) vs. ei ikina, enpa
+
+普通形（な-adj な）＋ものか／もんか (ei ikina, enpa) あんな店、二度と行く**ものか** (compare) vs. ei aio, tuskin
+??
+Vまい (ei aio, tuskin) もう二度と行く**まい**と思った (compare) vs. ei ikina, enpa

@@ -106,6 +106,14 @@ Miten ～のはNです eroaa aiheeksi nostamisesta は:lla?
 
 #flashcards/grammar/n4/vertailu
 
-…のは N です (korostusrakenne, cleft) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
-…のは N です (korostusrakenne, cleft) (similar/compare) ::: ～のは～からだ (syy predikaattina) (similar/compare)
-…のは N です (korostusrakenne, cleft) (similar) ::: N（objekti）は (aiheeksi nostaminen) (similar)
+…のは N です (korostusrakenne, cleft) わたしが日本へ来た**のは**去年の3月**です** (similar) vs. nominalisointi
+??
+Vのは・Vのが・Vのを (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. korostusrakenne, cleft
+
+…のは N です (korostusrakenne, cleft) わたしが日本へ来た**のは**去年の3月**です** (similar/compare) vs. syy predikaattina
+??
+～のは～からだ (syy predikaattina) 仕事を辞めた**のはなぜですか** (similar/compare) vs. korostusrakenne, cleft
+
+…のは N です (korostusrakenne, cleft) わたしが日本へ来た**のは**去年の3月**です** (similar) vs. aiheeksi nostaminen
+??
+N（objekti）は (aiheeksi nostaminen) 荷物はここに置かないでください (similar) vs. korostusrakenne, cleft

@@ -70,5 +70,10 @@ Ei luontevasti — henkilöön から見ると.
 
 #flashcards/grammar/n2/vertailu
 
-N＋から言うと／から言えば／から言って (jonkin kannalta) (similar/compare) ::: ～から見ると (jonkin perusteella, nakokulmasta) (similar/compare)
-N＋から言うと／から言えば／から言って (jonkin kannalta) (similar) ::: ～からすると・からすれば (jonkin perusteella) (similar)
+N＋から言うと／から言えば／から言って (jonkin kannalta) 値段**から言うと**、こちらのほうがいい (similar/compare) vs. jonkin perusteella, nakokulmasta
+??
+～から見ると (jonkin perusteella, nakokulmasta) 子ども**から見ると**、大人は自由に見える (similar/compare) vs. jonkin kannalta
+
+N＋から言うと／から言えば／から言って (jonkin kannalta) 値段**から言うと**、こちらのほうがいい (similar) vs. jonkin perusteella
+??
+～からすると・からすれば (jonkin perusteella) 親**からすると**、子どもの将来が心配だ (similar) vs. jonkin kannalta

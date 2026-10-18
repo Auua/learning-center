@@ -69,4 +69,6 @@ Kielteinen: ei kannata mennä niin pitkälle.
 
 #flashcards/grammar/n2/vertailu
 
-V(て)＋まで (jopa niin pitkalle etta) (similar/compare) ::: Vてでも (vaikka sitten) (similar/compare)
+V(て)＋まで (jopa niin pitkalle etta) 借金し**てまで**、買う必要はない (similar/compare) vs. vaikka sitten
+??
+Vてでも (vaikka sitten) 借金し**てでも**、留学したい (similar/compare) vs. jopa niin pitkalle etta

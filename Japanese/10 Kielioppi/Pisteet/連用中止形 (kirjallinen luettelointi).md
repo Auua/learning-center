@@ -78,4 +78,6 @@ Idea on sama, mutta て-muoto on puhutun/yleisen kielen versio; 連用中止形 
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)、〜／い-adj(くて→く)、〜（連用中止形） (kirjallinen luettelointi) (similar/compare) ::: Vて、Vて (peräkkäisyys) (similar/compare)
+V(ます-vartalo)、〜／い-adj(くて→く)、〜（連用中止形） (kirjallinen luettelointi) 朝6時に**起き**、7時に家を出る (similar/compare) vs. peräkkäisyys
+??
+Vて、Vて (peräkkäisyys) 起き**て**、顔を洗っ**て**、出かけた (similar/compare) vs. kirjallinen luettelointi

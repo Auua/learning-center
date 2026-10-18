@@ -73,5 +73,10 @@ Kun tilanne vaatii erityistä varovaisuutta (esimieheltä pyytäminen, iso palve
 
 #flashcards/grammar/n3/vertailu
 
-〜（さ）せてもらえませんか・〜（さ）せていただけないでしょうか (kausatiivinen kohtelias pyynto) (similar/compare) ::: させてください・させていただけませんか (lupa itselle) (similar/compare)
-〜（さ）せてもらえませんか・〜（さ）せていただけないでしょうか (kausatiivinen kohtelias pyynto) (similar) ::: てもらえませんか・ていただけないでしょうか (kohtelias pyyntoperhe) (similar)
+〜（さ）せてもらえませんか・〜（さ）せていただけないでしょうか (kausatiivinen kohtelias pyynto) 写真を1枚**撮らせてもらえませんか** (similar/compare) vs. lupa itselle
+??
+させてください・させていただけませんか (lupa itselle) しばらくここに車を**止めさせてください** (similar/compare) vs. kausatiivinen kohtelias pyynto
+
+〜（さ）せてもらえませんか・〜（さ）せていただけないでしょうか (kausatiivinen kohtelias pyynto) 写真を1枚**撮らせてもらえませんか** (similar) vs. kohtelias pyyntoperhe
+??
+てもらえませんか・ていただけないでしょうか (kohtelias pyyntoperhe) 荷物を降ろすのを**手伝ってもらえませんか** (similar) vs. kausatiivinen kohtelias pyynto

@@ -68,5 +68,10 @@ Sama; 上は on muodollisempi.
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Vた＋上は (koska kerran, nyt kun) (similar/compare) ::: Vた以上（は） (koska kerran on niin) (similar/compare)
-V辞書形／Vた＋上は (koska kerran, nyt kun) (similar) ::: Vからには (koska kerran, paatoksen jalkeen) (similar)
+V辞書形／Vた＋上は (koska kerran, nyt kun) 引き受けた**上は**、最後までやる (similar/compare) vs. koska kerran on niin
+??
+Vた以上（は） (koska kerran on niin) 相手が「うん」と言わぬ**以上**、あきらめるしかありません (similar/compare) vs. koska kerran, nyt kun
+
+V辞書形／Vた＋上は (koska kerran, nyt kun) 引き受けた**上は**、最後までやる (similar) vs. koska kerran, paatoksen jalkeen
+??
+Vからには (koska kerran, paatoksen jalkeen) やる**からには**勝たなければならないと思う (similar) vs. koska kerran, nyt kun

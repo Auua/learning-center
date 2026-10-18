@@ -77,7 +77,18 @@ Miten ものだ (yleinen totuus) eroaa もの/もんだから:sta?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) (similar) ::: もの・もんだから (perusteleva syy) (similar)
-普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) (similar/compare) ::: Vたものだ (oli tapana) (similar/compare)
-普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) (compare) ::: ～ものがある (siina on jotain) (compare)
-普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) (similar) ::: ～というものだ (sita se on, juuri sellaista) (similar)
+普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) 人は変わる**ものだ** (similar) vs. perusteleva syy
+??
+もの・もんだから (perusteleva syy) ご連絡が遅れて申し訳ありません (similar) vs. yleinen totuus
+
+普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) 人は変わる**ものだ** (similar/compare) vs. oli tapana
+??
+Vたものだ (oli tapana) 子どもの頃、よくこの川で泳いだ**ものだ** (similar/compare) vs. yleinen totuus
+
+普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) 人は変わる**ものだ** (compare) vs. siina on jotain
+??
+～ものがある (siina on jotain) 彼の歌には心を打つ**ものがある** (compare) vs. yleinen totuus
+
+普通形＋ものだ／ものではない・もんじゃない (yleinen totuus) 人は変わる**ものだ** (similar) vs. sita se on, juuri sellaista
+??
+～というものだ (sita se on, juuri sellaista) 人の物を盗むのは犯罪**というものだ** (similar) vs. yleinen totuus

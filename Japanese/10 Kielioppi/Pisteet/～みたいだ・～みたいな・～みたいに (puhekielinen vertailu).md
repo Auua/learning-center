@@ -79,5 +79,10 @@ Merkitys sama; のようだ vaatii の:n ja sopii kirjoitettuun kieleen (ホテ�
 
 #flashcards/grammar/n3/vertailu
 
-Nみたいだ・Nみたいな～・Nみたいに… (puhekielinen vertailu) (similar/compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar/compare)
-Nみたいだ・Nみたいな～・Nみたいに… (puhekielinen vertailu) (similar) ::: まるで～ようだ (aivan kuin) (similar)
+Nみたいだ・Nみたいな～・Nみたいに… (puhekielinen vertailu) このロボット、本物の犬**みたいだ** (similar/compare) vs. vertailu, esimerkki
+??
+～のようだ・～のような・～のように (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. puhekielinen vertailu
+
+Nみたいだ・Nみたいな～・Nみたいに… (puhekielinen vertailu) このロボット、本物の犬**みたいだ** (similar) vs. aivan kuin
+??
+まるで～ようだ (aivan kuin) **まるで**夢**のようだ** (similar) vs. puhekielinen vertailu

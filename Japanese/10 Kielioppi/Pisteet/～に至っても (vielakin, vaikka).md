@@ -68,5 +68,10 @@ Kriittinen havainto (〜ない).
 
 #flashcards/grammar/n1/vertailu
 
-N／V辞書形＋に至っても (vielakin, vaikka) (similar) ::: ～に至る (paatya, johtaa) (similar)
-N／V辞書形＋に至っても (vielakin, vaikka) (similar/compare) ::: ～に至っては (mita tulee, jopa) (similar/compare)
+N／V辞書形＋に至っても (vielakin, vaikka) この事態**に至っても**、政府は何もしない (similar) vs. paatya, johtaa
+??
+～に至る (paatya, johtaa) 長い議論の末、結論**に至った** (similar) vs. vielakin, vaikka
+
+N／V辞書形＋に至っても (vielakin, vaikka) この事態**に至っても**、政府は何もしない (similar/compare) vs. mita tulee, jopa
+??
+～に至っては (mita tulee, jopa) 皆遅刻したが、田中さん**に至っては**来なかった (similar/compare) vs. vielakin, vaikka

@@ -71,5 +71,10 @@ Mikä on いい:n さ-muoto?
 
 #flashcards/grammar/n4/vertailu
 
-Adj-vartalo＋さ (adjektiivista substantiivi) (similar) ::: ます-vartalo substantiivina (連用形名詞) (similar)
-Adj-vartalo＋さ (adjektiivista substantiivi) (compare) ::: Vこと (nominalisointi, abstrakti tekeminen) (compare)
+Adj-vartalo＋さ (adjektiivista substantiivi) 山の**高さ**を測る (similar) vs. 連用形名詞
+??
+ます-vartalo substantiivina (連用形名詞) 物語の始まりはとても静かだった (similar) vs. adjektiivista substantiivi
+
+Adj-vartalo＋さ (adjektiivista substantiivi) 山の**高さ**を測る (compare) vs. nominalisointi, abstrakti tekeminen
+??
+Vこと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (compare) vs. adjektiivista substantiivi

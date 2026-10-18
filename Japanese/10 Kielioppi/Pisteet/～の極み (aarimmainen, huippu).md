@@ -68,6 +68,14 @@ Voi: 疲労の極み, 痛恨の極み.
 
 #flashcards/grammar/n1/vertailu
 
-N＋の極み (aarimmainen, huippu) (similar/compare) ::: ～の至り (aarimmaisen, suurin) (similar/compare)
-N＋の極み (aarimmainen, huippu) (similar/compare) ::: ～極まる・極まりない (aarimmaisen) (similar/compare)
-N＋の極み (aarimmainen, huippu) (similar) ::: ～この上ない (mita (paras), aarimmaisen) (similar)
+N＋の極み (aarimmainen, huippu) これは贅沢**の極み**だ (similar/compare) vs. aarimmaisen, suurin
+??
+～の至り (aarimmaisen, suurin) このような賞をいただき、光栄**の至り**です (similar/compare) vs. aarimmainen, huippu
+
+N＋の極み (aarimmainen, huippu) これは贅沢**の極み**だ (similar/compare) vs. aarimmaisen
+??
+～極まる・極まりない (aarimmaisen) 失礼**極まる**態度 (similar/compare) vs. aarimmainen, huippu
+
+N＋の極み (aarimmainen, huippu) これは贅沢**の極み**だ (similar) vs. paras
+??
+～この上ない (mita (paras), aarimmaisen) **この上ない**幸せ (similar) vs. aarimmainen, huippu

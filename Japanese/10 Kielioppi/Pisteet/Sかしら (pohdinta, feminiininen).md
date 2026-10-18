@@ -71,6 +71,14 @@ Sama merkitys; かしら on feminiininen ja vanhahtavampi.
 
 #flashcards/grammar/n4/vertailu
 
-普通形＋かしら (pohdinta, feminiininen) (similar/compare) ::: 普通形かな (itselle esitetty pohdinta) (similar/compare)
-普通形＋かしら (pohdinta, feminiininen) (similar) ::: ～のやら (mahtaakohan, en tieda) (similar)
-普通形＋かしら (pohdinta, feminiininen) (similar) ::: Sわ (feminiininen loppupartikkeli) (similar)
+普通形＋かしら (pohdinta, feminiininen) 明日は晴れる**かしら** (similar/compare) vs. itselle esitetty pohdinta
+??
+普通形かな (itselle esitetty pohdinta) お父さんの誕生日のプレゼントは何が**いいかな** (similar/compare) vs. pohdinta, feminiininen
+
+普通形＋かしら (pohdinta, feminiininen) 明日は晴れる**かしら** (similar) vs. mahtaakohan, en tieda
+??
+～のやら (mahtaakohan, en tieda) 彼は今どこにいる**のやら** (similar) vs. pohdinta, feminiininen
+
+普通形＋かしら (pohdinta, feminiininen) 明日は晴れる**かしら** (similar) vs. feminiininen loppupartikkeli
+??
+Sわ (feminiininen loppupartikkeli) 私も行く**わ** (similar) vs. pohdinta, feminiininen

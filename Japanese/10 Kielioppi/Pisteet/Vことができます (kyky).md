@@ -84,5 +84,10 @@ Ei ole: molemmat tarkoittavat samaa kykyä. Jälkimmäinen on muodollisempi ja p
 
 #flashcards/grammar/n5/vertailu
 
-N／Vdictionary form ことができます (kyky) (similar) ::: Potentiaali える (similar)
-N／Vdictionary form ことができます (kyky) (similar/compare) ::: Vこと (nominalisointi, abstrakti tekeminen) (similar/compare)
+N／Vdictionary form ことができます (kyky) ミラーさんは日本語**が**できます (similar) vs. potentiaalimuoto
+??
+Potentiaali える **が**: 日本語**を**話す (similar) vs. kyky
+
+N／Vdictionary form ことができます (kyky) ミラーさんは日本語**が**できます (similar/compare) vs. nominalisointi, abstrakti tekeminen
+??
+Vこと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar/compare) vs. kyky

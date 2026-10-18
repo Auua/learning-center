@@ -68,7 +68,18 @@ Sama; であれ kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-N1であれ N2であれ (olipa A tai B) (similar/compare) ::: Nであれ (olipa mika tahansa) (similar/compare)
-N1であれ N2であれ (olipa A tai B) (similar) ::: Vようが～ようが (olipa A tai B) (similar)
-N1であれ N2であれ (olipa A tai B) (compare) ::: ～にしても (vaikka olisikin) (compare)
-N1であれ N2であれ (olipa A tai B) (compare) ::: ～かれ～かれ (enemman tai vahemman) (compare)
+N1であれ N2であれ (olipa A tai B) 男**であれ**女**であれ**、能力が大事だ (similar/compare) vs. olipa mika tahansa
+??
+Nであれ (olipa mika tahansa) 理由は何**であれ**、暴力はいけない (similar/compare) vs. olipa A tai B
+
+N1であれ N2であれ (olipa A tai B) 男**であれ**女**であれ**、能力が大事だ (similar) vs. verbeillä "teki A tai B"
+??
+Vようが～ようが (olipa A tai B) 泣**こうが**わめ**こうが**、許さない (similar) vs. substantiivi "olipa A tai B"
+
+N1であれ N2であれ (olipa A tai B) 男**であれ**女**であれ**、能力が大事だ (compare) vs. vaikka olisikin
+??
+～にしても (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (compare) vs. olipa A tai B
+
+N1であれ N2であれ (olipa A tai B) 男**であれ**女**であれ**、能力が大事だ (compare) vs. enemman tai vahemman
+??
+～かれ～かれ (enemman tai vahemman) **遅かれ早かれ**、真実はわかる (compare) vs. olipa A tai B

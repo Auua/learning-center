@@ -91,6 +91,14 @@ Miten な-adjektiivi tai substantiivi muuttuu ennen ので verrattuna から:hon
 
 #flashcards/grammar/n4/vertailu
 
-普通形ので (pehmea syy) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
-普通形ので (pehmea syy) (similar) ::: Vて (tunnereaktion syy) (similar)
-普通形ので (pehmea syy) (similar) ::: もの・もんだから (perusteleva syy) (similar)
+普通形ので (pehmea syy) 体の調子が**悪いので**、病院へ行きます (similar/compare) vs. subjektiivinen syy "koska"
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar/compare) vs. pehmeä, objektiivinen syy
+
+普通形ので (pehmea syy) 体の調子が**悪いので**、病院へ行きます (similar) vs. tunnereaktion syy
+??
+Vて (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar) vs. pehmea syy
+
+普通形ので (pehmea syy) 体の調子が**悪いので**、病院へ行きます (similar) vs. perusteleva syy
+??
+もの・もんだから (perusteleva syy) ご連絡が遅れて申し訳ありません (similar) vs. pehmea syy

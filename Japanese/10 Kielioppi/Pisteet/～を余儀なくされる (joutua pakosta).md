@@ -68,4 +68,6 @@ Toimintasanoja: 中止, 変更, 延期, 撤退.
 
 #flashcards/grammar/n1/vertailu
 
-N＋を余儀なくされる／を余儀なくさせる (joutua pakosta) (similar/compare) ::: Vざるを得ない (on pakko) (similar/compare)
+N＋を余儀なくされる／を余儀なくさせる (joutua pakosta) 台風で、試合は中止**を余儀なくされた** (similar/compare) vs. on pakko
+??
+Vざるを得ない (on pakko) 今日は大事な会議があるが、休ま**ざるを得ない** (similar/compare) vs. joutua pakosta

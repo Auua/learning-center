@@ -68,4 +68,6 @@ Kahden tekijän yhteisvaikutusta.
 
 #flashcards/grammar/n1/vertailu
 
-N＋と相まって／が相まって (yhdessa vaikuttaen) (similar/compare) ::: ～に加えて (lisaksi) (similar/compare)
+N＋と相まって／が相まって (yhdessa vaikuttaen) 美しい景色**と相まって**、料理がさらにおいしく感じた (similar/compare) vs. lisaksi
+??
+～に加えて (lisaksi) 雨**に加えて**、風も強くなった (similar/compare) vs. yhdessa vaikuttaen

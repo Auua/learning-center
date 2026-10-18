@@ -69,5 +69,10 @@ Mikä ero on といったらない ja といったらありゃしない välill�
 
 #flashcards/grammar/n1/vertailu
 
-Adj／N＋といったらない／といったらありゃしない (sanoinkuvaamattoman) (similar/compare) ::: ～のなんのって (aivan hirveasti) (similar/compare)
-Adj／N＋といったらない／といったらありゃしない (sanoinkuvaamattoman) (similar) ::: ～限りだ (aarimmaisen, niin kovasti) (similar)
+Adj／N＋といったらない／といったらありゃしない (sanoinkuvaamattoman) うれしい**といったらない** (similar/compare) vs. aivan hirveasti
+??
+～のなんのって (aivan hirveasti) 寒い**のなんのって**、震えが止まらなかった (similar/compare) vs. sanoinkuvaamattoman
+
+Adj／N＋といったらない／といったらありゃしない (sanoinkuvaamattoman) うれしい**といったらない** (similar) vs. aarimmaisen, niin kovasti
+??
+～限りだ (aarimmaisen, niin kovasti) 合格できて、うれしい**限りだ** (similar) vs. sanoinkuvaamattoman

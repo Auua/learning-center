@@ -99,4 +99,6 @@ Ei: järjestys N1の N2 on kiinteä, esim. 本の表紙 on aina tässä järjest
 
 #flashcards/grammar/n5/vertailu
 
-N1のN2 (N1:n N2) (similar/compare) ::: Nの (omistuspronomini, kenen oma) (similar/compare)
+N1のN2 (N1:n N2) IMC**の**社員です (similar/compare) vs. omistuspronomini, kenen oma
+??
+Nの (omistuspronomini, kenen oma) このかばんは**わたしの**です (similar/compare) vs. N1:n N2

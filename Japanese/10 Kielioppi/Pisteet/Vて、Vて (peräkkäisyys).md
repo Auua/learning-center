@@ -77,4 +77,6 @@ Miten Vて、Vて eroaa muodosta Vてから?
 
 #flashcards/grammar/n5/vertailu
 
-Vて、Vて (peräkkäisyys) (similar) ::: Vてから、V2 (jälkeen) (similar)
+Vて、Vて (peräkkäisyys) 起き**て**、顔を洗っ**て**、出かけた (similar) vs. jälkeen
+??
+Vてから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar) vs. peräkkäisyys

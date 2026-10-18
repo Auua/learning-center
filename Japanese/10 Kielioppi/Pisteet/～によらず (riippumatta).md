@@ -70,5 +70,10 @@ Lähes sama; によらず vakiolausekkeissa (見かけによらず).
 
 #flashcards/grammar/n1/vertailu
 
-N＋によらず (riippumatta) (similar/compare) ::: ～にかかわらず (riippumatta) (similar/compare)
-N＋によらず (riippumatta) (similar) ::: ～を問わず (riippumatta, muodollinen) (similar)
+N＋によらず (riippumatta) 年齢**によらず**、誰でも参加できる (similar/compare) vs. "riippumatta"
+??
+～にかかわらず (riippumatta) 天候**にかかわらず**、試合は行います (similar/compare) vs. "riippumatta" (lyhyt)
+
+N＋によらず (riippumatta) 年齢**によらず**、誰でも参加できる (similar) vs. muodollinen "kysymättä"
+??
+～を問わず (riippumatta, muodollinen) 年齢**を問わず**、どなたでも参加できます (similar) vs. "riippumatta" lyhyt

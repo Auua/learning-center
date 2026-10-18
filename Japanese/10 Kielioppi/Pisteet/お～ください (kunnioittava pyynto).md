@@ -71,7 +71,18 @@ Jälkimmäinen on kunnioittava (尊敬語) palvelu- ja kuulutuskieli.
 
 #flashcards/grammar/n4/vertailu
 
-お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (similar) ::: お～になる (kunnioittava toisen teko) (similar)
-お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (similar/compare) ::: お～願う (kohtelias pyynto) (similar/compare)
-お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (compare) ::: Vて ください (pyyntö) (compare)
-お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (similar) ::: ご～ (kunnioittava etuliite, kango) (similar)
+お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) 少々**お待ちください** (similar) vs. kunnioittava toisen teko
+??
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar) vs. kunnioittava pyynto
+
+お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) 少々**お待ちください** (similar/compare) vs. kohtelias pyynto
+??
+お～願う (kohtelias pyynto) もう少々**お待ち願います** (similar/compare) vs. kunnioittava pyynto
+
+お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) 少々**お待ちください** (compare) vs. pyyntö
+??
+Vて ください (pyyntö) ここに名前を書い**てください** (compare) vs. kunnioittava pyynto
+
+お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) 少々**お待ちください** (similar) vs. kunnioittava etuliite, kango
+??
+ご～ (kunnioittava etuliite, kango) **ご家族**はお元気ですか (similar) vs. kunnioittava pyynto

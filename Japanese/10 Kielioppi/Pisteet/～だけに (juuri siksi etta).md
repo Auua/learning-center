@@ -69,4 +69,6 @@ Voi — usein pettymys, joka on sitä suurempi.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N／な-adj）＋だけに (juuri siksi etta) (similar/compare) ::: ～だけあって (kuten odottaa saattaa) (similar/compare)
+普通形（N／な-adj）＋だけに (juuri siksi etta) 期待していた**だけに**、がっかりした (similar/compare) vs. kuten odottaa saattaa
+??
+～だけあって (kuten odottaa saattaa) プロ**だけあって**、上手だ (similar/compare) vs. juuri siksi etta

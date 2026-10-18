@@ -82,6 +82,14 @@ Kaikki: だれも知っている = kaikki tietävät.
 
 #flashcards/grammar/n5/vertailu
 
-疑問詞＋（partikkeli）＋も＋kielto (ei mitaan, ei kukaan) (similar) ::: Nも (myos, sama patee) (similar)
-疑問詞＋（partikkeli）＋も＋kielto (ei mitaan, ei kukaan) (compare) ::: どこかで・どこかに (epamaarainen paikka) (compare)
-疑問詞＋（partikkeli）＋も＋kielto (ei mitaan, ei kukaan) (similar/compare) ::: どこか・なにか (jokin paikka, jokin asia) (similar/compare)
+疑問詞＋（partikkeli）＋も＋kielto (ei mitaan, ei kukaan) 朝から**何も**食べていません (similar) vs. myos, sama patee
+??
+Nも (myos, sama patee) 私**も**学生です (similar) vs. ei mitaan, ei kukaan
+
+疑問詞＋（partikkeli）＋も＋kielto (ei mitaan, ei kukaan) 朝から**何も**食べていません (compare) vs. epamaarainen paikka
+??
+どこかで・どこかに (epamaarainen paikka) どこかで財布をなくしました (compare) vs. ei mitaan, ei kukaan
+
+疑問詞＋（partikkeli）＋も＋kielto (ei mitaan, ei kukaan) 朝から**何も**食べていません (similar/compare) vs. jokin paikka, jokin asia
+??
+どこか・なにか (jokin paikka, jokin asia) 冬休みは**どこか**へ行きましたか (similar/compare) vs. ei mitaan, ei kukaan

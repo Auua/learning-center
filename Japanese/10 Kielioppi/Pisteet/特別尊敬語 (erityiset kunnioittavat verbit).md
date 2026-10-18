@@ -80,6 +80,14 @@ Miten いらっしゃる taipuu ます-muotoon?
 
 #flashcards/grammar/n4/vertailu
 
-いらっしゃる・召し上がる・おっしゃる・なさる・ご覧になる・ご存じだ・くださる (erityiset kunnioittavat verbit) (similar/compare) ::: お～になる (kunnioittava toisen teko) (similar/compare)
-いらっしゃる・召し上がる・おっしゃる・なさる・ご覧になる・ご存じだ・くださる (erityiset kunnioittavat verbit) (similar) ::: V(ら)れる (kunnioittava muoto, 尊敬語) (similar)
-いらっしゃる・召し上がる・おっしゃる・なさる・ご覧になる・ご存じだ・くださる (erityiset kunnioittavat verbit) (similar/compare) ::: 特別謙譲語 (erityiset nöyrät verbit) (similar/compare)
+いらっしゃる・召し上がる・おっしゃる・なさる・ご覧になる・ご存じだ・くださる (erityiset kunnioittavat verbit) 社長は会議室に**いらっしゃいます** (similar/compare) vs. kunnioittava toisen teko
+??
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar/compare) vs. erityiset kunnioittavat verbit
+
+いらっしゃる・召し上がる・おっしゃる・なさる・ご覧になる・ご存じだ・くださる (erityiset kunnioittavat verbit) 社長は会議室に**いらっしゃいます** (similar) vs. kunnioittava muoto, 尊敬語
+??
+V(ら)れる (kunnioittava muoto, 尊敬語) 部長は何時に**来られ**ますか (similar) vs. erityiset kunnioittavat verbit
+
+いらっしゃる・召し上がる・おっしゃる・なさる・ご覧になる・ご存じだ・くださる (erityiset kunnioittavat verbit) 社長は会議室に**いらっしゃいます** (similar/compare) vs. erityiset nöyrät verbit
+??
+特別謙譲語 (erityiset nöyrät verbit) 日本から**参りました** (similar/compare) vs. erityiset kunnioittavat verbit

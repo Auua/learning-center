@@ -84,8 +84,22 @@ Miten Sね eroaa Sよ:sta?
 
 #flashcards/grammar/n5/vertailu
 
-Sね (vahvistus, eikö niin) (similar) ::: Sよ (uuden tiedon korostus) (similar)
-Sね (vahvistus, eikö niin) (similar) ::: 普通形よね (varmistava loppupartikkeli) (similar)
-Sね (vahvistus, eikö niin) (compare) ::: Sなあ (tunteen huudahdus) (compare)
-Sね (vahvistus, eikö niin) (similar) ::: Sか (kysymyspartikkeli) (similar)
-Sね (vahvistus, eikö niin) (similar/compare) ::: そうですね (myötäily, samaa mieltä) (similar/compare)
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar) vs. uuden tiedon korostus
+??
+Sよ (uuden tiedon korostus) 350円です**よ** (similar) vs. vahvistus, eikö niin
+
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar) vs. varmistava loppupartikkeli
+??
+普通形よね (varmistava loppupartikkeli) 「辛党」は「甘党」の反対だと思ってた**のよね** (similar) vs. vahvistus, eikö niin
+
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (compare) vs. tunteen huudahdus
+??
+Sなあ (tunteen huudahdus) きれいだ**なあ** (compare) vs. vahvistus, eikö niin
+
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar) vs. kysymyspartikkeli
+??
+Sか (kysymyspartikkeli) ミラーさんは会社員**ですか** (similar) vs. vahvistus, eikö niin
+
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar/compare) vs. myötäily, samaa mieltä
+??
+そうですね (myötäily, samaa mieltä) A：暑いですね。B：**そうですね** (similar/compare) vs. vahvistus, eikö niin

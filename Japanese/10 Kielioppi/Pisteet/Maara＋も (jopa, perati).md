@@ -71,9 +71,26 @@ Monta kertaa, yhä uudelleen.
 
 #flashcards/grammar/n4/vertailu
 
-Määrä＋も (jopa, perati) (similar/compare) ::: Nも (myos, sama patee) (similar/compare)
-Määrä＋も (jopa, perati) (similar/compare) ::: 数量＋からある (perati, ainakin) (similar/compare)
-Määrä＋も (jopa, perati) (similar) ::: ～たりとも (ei edes yhta) (similar)
-Määrä＋も (jopa, perati) (compare) ::: Maara だけ・Nだけ (compare)
-Määrä＋も (jopa, perati) (compare) ::: Nしか Vません (vain, pelkastaan) (compare)
-Määrä＋も (jopa, perati) (compare) ::: Maara＋は (vahintaan) (compare)
+Määrä＋も (jopa, perati) 2時間**も**待ちました (similar/compare) vs. myos, sama patee
+??
+Nも (myos, sama patee) 私**も**学生です (similar/compare) vs. jopa, perati
+
+Määrä＋も (jopa, perati) 2時間**も**待ちました (similar/compare) vs. perati, ainakin
+??
+数量＋からある (perati, ainakin) 50キロ**からある**荷物 (similar/compare) vs. jopa, perati
+
+Määrä＋も (jopa, perati) 2時間**も**待ちました (similar) vs. ei edes yhta
+??
+～たりとも (ei edes yhta) 一円**たりとも**無駄にできない (similar) vs. jopa, perati
+
+Määrä＋も (jopa, perati) 2時間**も**待ちました (compare) vs. määrä + "vain" (rajaus)
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (compare) vs. jopa, perati
+
+Määrä＋も (jopa, perati) 2時間**も**待ちました (compare) vs. vain, pelkastaan
+??
+Nしか Vません (vain, pelkastaan) わたしの会社は1週間**しか**休めません (compare) vs. jopa, perati
+
+Määrä＋も (jopa, perati) 2時間**も**待ちました (compare) vs. vahintaan
+??
+Maara＋は (vahintaan) 駅まで30分**は**かかる (compare) vs. jopa, perati

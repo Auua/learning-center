@@ -70,4 +70,6 @@ Ei — se on kehotus alaspäin; ylemmälle てみてください.
 
 #flashcards/grammar/n3/vertailu
 
-V(て-muoto)＋ごらん（なさい） (kokeilepa) (similar/compare) ::: Vてみます (kokeilla tehda) (similar/compare)
+V(て-muoto)＋ごらん（なさい） (kokeilepa) ちょっと食べて**ごらん** (similar/compare) vs. kokeilla tehda
+??
+Vてみます (kokeilla tehda) 宇宙から地球を**見てみたいです** (similar/compare) vs. kokeilepa

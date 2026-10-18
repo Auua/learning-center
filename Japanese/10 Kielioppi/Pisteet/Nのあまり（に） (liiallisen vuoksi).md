@@ -72,4 +72,6 @@ Miten Nのあまり（に） eroaa あまり〜ない -rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋あまり（に） (liiallisen vuoksi) (similar/compare) ::: とても・あまり (hyvin, ei kovin) (similar/compare)
+N／普通形＋あまり（に） (liiallisen vuoksi) ダイエットに励む**あまり**、病気になった (similar/compare) vs. hyvin, ei kovin
+??
+とても・あまり (hyvin, ei kovin) ペキンは**とても**寒いです (similar/compare) vs. liiallisen vuoksi

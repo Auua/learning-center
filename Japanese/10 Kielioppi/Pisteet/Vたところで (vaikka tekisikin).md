@@ -71,6 +71,14 @@ Miten kolme ところ-rakennetta (たところに・で / たところ、 / た�
 
 #flashcards/grammar/n2/vertailu
 
-V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) (similar/compare) ::: Vたところ、 (kavi ilmi etta) (similar/compare)
-V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) (similar) ::: Vたところに・で (juuri siina kohdassa) (similar)
-V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) (similar) ::: ～にしたところで (vaikka, hankaan) (similar)
+V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) いくら状況を説明した**ところで**、警察は信じないだろう (similar/compare) vs. kavi ilmi etta
+??
+Vたところ、 (kavi ilmi etta) 電話し**たところ**、留守だった (similar/compare) vs. vaikka tekisikin
+
+V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) いくら状況を説明した**ところで**、警察は信じないだろう (similar) vs. juuri siina kohdassa
+??
+Vたところに・で (juuri siina kohdassa) ……あのコンビニの角を**曲がったところに**ありますよ (similar) vs. vaikka tekisikin
+
+V(た形)＋ところで（＋kielteinen/tyhja seuraus） (vaikka tekisikin) いくら状況を説明した**ところで**、警察は信じないだろう (similar) vs. vaikka, hankaan
+??
+～にしたところで (vaikka, hankaan) 先生**にしたところで**、全部は知らない (similar) vs. vaikka tekisikin

@@ -68,4 +68,6 @@ Sama; 術がない kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋術（すべ）がない／術もない (ei ole keinoa) (similar/compare) ::: Vようがない (ei ole keinoa) (similar/compare)
+V辞書形＋術（すべ）がない／術もない (ei ole keinoa) 連絡する**術がない** (similar/compare) vs. arkisempi "ei ole keinoa"
+??
+Vようがない (ei ole keinoa) 連絡先がわからないので、連絡し**ようがない** (similar/compare) vs. kirjallinen "ei ole keinoa"

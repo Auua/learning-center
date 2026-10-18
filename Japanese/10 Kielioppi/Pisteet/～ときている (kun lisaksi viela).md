@@ -68,4 +68,6 @@ Kateellinen tai turhautunut.
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋ときている (kun lisaksi viela) (similar/compare) ::: ～上に (lisaksi, paalle paatteeksi) (similar/compare)
+普通形＋ときている (kun lisaksi viela) 頭がいい上に、顔もいい**ときている** (similar/compare) vs. lisaksi, paalle paatteeksi
+??
+～上に (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar/compare) vs. kun lisaksi viela

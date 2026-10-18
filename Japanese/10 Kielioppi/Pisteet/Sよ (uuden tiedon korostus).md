@@ -82,7 +82,18 @@ Kumpi: Sね vai Sよ, kun haluat kertoa kuulijalle uutta tietoa?
 
 #flashcards/grammar/n5/vertailu
 
-Sよ (uuden tiedon korostus) (similar) ::: Sね (vahvistus, eikö niin) (similar)
-Sよ (uuden tiedon korostus) (similar) ::: 普通形よね (varmistava loppupartikkeli) (similar)
-Sよ (uuden tiedon korostus) (similar/compare) ::: Sさ (painotus, tuttavallinen) (similar/compare)
-Sよ (uuden tiedon korostus) (similar/compare) ::: Sわ (feminiininen loppupartikkeli) (similar/compare)
+Sよ (uuden tiedon korostus) 350円です**よ** (similar) vs. vahvistus, eikö niin
+??
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar) vs. uuden tiedon korostus
+
+Sよ (uuden tiedon korostus) 350円です**よ** (similar) vs. varmistava loppupartikkeli
+??
+普通形よね (varmistava loppupartikkeli) 「辛党」は「甘党」の反対だと思ってた**のよね** (similar) vs. uuden tiedon korostus
+
+Sよ (uuden tiedon korostus) 350円です**よ** (similar/compare) vs. painotus, tuttavallinen
+??
+Sさ (painotus, tuttavallinen) 大丈夫**さ** (similar/compare) vs. uuden tiedon korostus
+
+Sよ (uuden tiedon korostus) 350円です**よ** (similar/compare) vs. feminiininen loppupartikkeli
+??
+Sわ (feminiininen loppupartikkeli) 私も行く**わ** (similar/compare) vs. uuden tiedon korostus

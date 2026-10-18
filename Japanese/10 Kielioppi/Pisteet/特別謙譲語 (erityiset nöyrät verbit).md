@@ -80,6 +80,14 @@ Puhujasta tai puhujan ryhmästä (oma perhe, oma yritys).
 
 #flashcards/grammar/n4/vertailu
 
-参る・申す・いたす・いただく・伺う・拝見する・おる・存じる (erityiset nöyrät verbit) (similar/compare) ::: お～する (nöyrä oma teko) (similar/compare)
-参る・申す・いたす・いただく・伺う・拝見する・おる・存じる (erityiset nöyrät verbit) (similar/compare) ::: 特別尊敬語 (erityiset kunnioittavat verbit) (similar/compare)
-参る・申す・いたす・いただく・伺う・拝見する・おる・存じる (erityiset nöyrät verbit) (similar/compare) ::: 丁寧語 (ございます・でございます・よろしいでしょうか) (similar/compare)
+参る・申す・いたす・いただく・伺う・拝見する・おる・存じる (erityiset nöyrät verbit) 日本から**参りました** (similar/compare) vs. nöyrä oma teko
+??
+お～する (nöyrä oma teko) 荷物を**お持ちします** (similar/compare) vs. erityiset nöyrät verbit
+
+参る・申す・いたす・いただく・伺う・拝見する・おる・存じる (erityiset nöyrät verbit) 日本から**参りました** (similar/compare) vs. erityiset kunnioittavat verbit
+??
+特別尊敬語 (erityiset kunnioittavat verbit) 社長は会議室に**いらっしゃいます** (similar/compare) vs. erityiset nöyrät verbit
+
+参る・申す・いたす・いただく・伺う・拝見する・おる・存じる (erityiset nöyrät verbit) 日本から**参りました** (similar/compare) vs. ございます・でございます・よろしいでしょうか
+??
+丁寧語 (ございます・でございます・よろしいでしょうか) 電話は階段の横に**ございます** (similar/compare) vs. erityiset nöyrät verbit

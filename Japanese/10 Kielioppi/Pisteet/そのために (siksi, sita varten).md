@@ -70,5 +70,10 @@ Syy (siksi) ja tarkoitus (sitä varten); asiayhteys ratkaisee.
 
 #flashcards/grammar/n3/vertailu
 
-そのため（に） (siksi, sita varten) (similar) ::: Vために・Nのために (tarkoitusta varten) (similar)
-そのため（に） (siksi, sita varten) (similar/compare) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (similar/compare)
+そのため（に） (siksi, sita varten) **そのため**、電車が止まった (similar) vs. tarkoitusta varten
+??
+Vために・Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar) vs. siksi, sita varten
+
+そのため（に） (siksi, sita varten) **そのため**、電車が止まった (similar/compare) vs. syy, ei tarkoitus
+??
+～ため［に］・ためだ (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (similar/compare) vs. siksi, sita varten

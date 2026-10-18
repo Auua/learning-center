@@ -76,6 +76,14 @@ Alin: さしあげる > あげる > やる.
 
 #flashcards/grammar/n4/vertailu
 
-N1（目下・動物・植物）にN2をやります (antaa alaspäin) (similar/compare) ::: N (人) に あげます・もらいます (similar/compare)
-N1（目下・動物・植物）にN2をやります (antaa alaspäin) (similar/compare) ::: Vてやります (alaspain tehty teko) (similar/compare)
-N1（目下・動物・植物）にN2をやります (antaa alaspäin) (similar) ::: くれます (joku antaa minulle) (similar)
+N1（目下・動物・植物）にN2をやります (antaa alaspäin) 毎朝、犬**に**えさ**を**やります (similar/compare) vs. 人
+??
+N (人) に あげます・もらいます 銀行**から**お金を借りました (similar/compare) vs. antaa alaspäin
+
+N1（目下・動物・植物）にN2をやります (antaa alaspäin) 毎朝、犬**に**えさ**を**やります (similar/compare) vs. alaspain tehty teko
+??
+Vてやります (alaspain tehty teko) わたしは息子に**紙飛行機を作ってやりました** (similar/compare) vs. antaa alaspäin
+
+N1（目下・動物・植物）にN2をやります (antaa alaspäin) 毎朝、犬**に**えさ**を**やります (similar) vs. joku antaa minulle
+??
+くれます (joku antaa minulle) 佐藤さんはわたしにクリスマスカードをくれました (similar) vs. antaa alaspäin

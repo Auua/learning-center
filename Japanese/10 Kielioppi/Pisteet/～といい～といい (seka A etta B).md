@@ -68,6 +68,14 @@ Yhteinen arvio.
 
 #flashcards/grammar/n1/vertailu
 
-N1といい N2といい (seka A etta B) (similar/compare) ::: ～も～ば～も (seka etta) (similar/compare)
-N1といい N2といい (seka A etta B) (similar) ::: Nでもあり～Nでもある (seka etta) (similar)
-N1といい N2といい (seka A etta B) (similar/compare) ::: ～といわず～といわず (niin A kuin B, kaikki) (similar/compare)
+N1といい N2といい (seka A etta B) 味**といい**値段**といい**、文句なしだ (similar/compare) vs. "sekä että" ば-muodolla
+??
+～も～ば～も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar/compare) vs. "sekä A että B" arvio
+
+N1といい N2といい (seka A etta B) 味**といい**値段**といい**、文句なしだ (similar) vs. "sekä että" kopulalla
+??
+Nでもあり～Nでもある (seka etta) 彼は医者**でもあり**、作家**でもある** (similar) vs. "sekä A että B" arvio kahdesta näkökulmasta
+
+N1といい N2といい (seka A etta B) 味**といい**値段**といい**、文句なしだ (similar/compare) vs. niin A kuin B, kaikki
+??
+～といわず～といわず (niin A kuin B, kaikki) 顔**といわず**手**といわず**、泥だらけだ (similar/compare) vs. seka A etta B

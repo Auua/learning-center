@@ -71,4 +71,6 @@ Mitä eroa on 途中で ja 途中に?
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形／Nの＋途中で／途中に (matkalla, kesken) (compare) ::: ～最中に (keskella, parhaillaan) (compare)
+V辞書形／Nの＋途中で／途中に (matkalla, kesken) 駅へ行く**途中で**、友達に会った (compare) vs. keskella, parhaillaan
+??
+～最中に (keskella, parhaillaan) 食事をしている**最中に**、電話が鳴った (compare) vs. matkalla, kesken

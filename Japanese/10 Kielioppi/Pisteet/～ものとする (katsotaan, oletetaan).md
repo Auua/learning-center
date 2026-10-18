@@ -68,5 +68,10 @@ Sopimuksissa, säännöissä ja laeissa.
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋ものとする (katsotaan, oletetaan) (similar) ::: ～をもって～とする (maaritellaan viralliseksi) (similar)
-普通形＋ものとする (katsotaan, oletetaan) (similar/compare) ::: ～ものとして (olettaen etta) (similar/compare)
+普通形＋ものとする (katsotaan, oletetaan) 期限を過ぎた場合は、無効とする**ものとする** (similar) vs. maaritellaan viralliseksi
+??
+～をもって～とする (maaritellaan viralliseksi) それ**をもって**「客観的評価」**とされている** (similar) vs. katsotaan, oletetaan
+
+普通形＋ものとする (katsotaan, oletetaan) 期限を過ぎた場合は、無効とする**ものとする** (similar/compare) vs. olettaen etta
+??
+～ものとして (olettaen etta) 全員出席する**ものとして**、準備を進める (similar/compare) vs. katsotaan, oletetaan

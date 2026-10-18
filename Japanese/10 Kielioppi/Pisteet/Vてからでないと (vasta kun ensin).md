@@ -70,6 +70,14 @@ Kielteinen tai kielto: できない, いけない.
 
 #flashcards/grammar/n3/vertailu
 
-V(て-muoto)＋からでないと／からでなければ (vasta kun ensin) (similar) ::: Vてから、V2 (jälkeen) (similar)
-V(て-muoto)＋からでないと／からでなければ (vasta kun ensin) (similar/compare) ::: ～ないことには (ellei ensin) (similar/compare)
-V(て-muoto)＋からでないと／からでなければ (vasta kun ensin) (compare) ::: Vてはじめて (vasta silloin kun) (compare)
+V(て-muoto)＋からでないと／からでなければ (vasta kun ensin) 親に聞い**てからでないと**、決められない (similar) vs. jälkeen
+??
+Vてから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar) vs. vasta kun ensin
+
+V(て-muoto)＋からでないと／からでなければ (vasta kun ensin) 親に聞い**てからでないと**、決められない (similar/compare) vs. ellei ensin
+??
+～ないことには (ellei ensin) 実際に見**ないことには**、何とも言えない (similar/compare) vs. vasta kun ensin
+
+V(て-muoto)＋からでないと／からでなければ (vasta kun ensin) 親に聞い**てからでないと**、決められない (compare) vs. vasta silloin kun
+??
+Vてはじめて (vasta silloin kun) 子どもを持って**はじめて**親のありがたさがわかった (compare) vs. vasta kun ensin

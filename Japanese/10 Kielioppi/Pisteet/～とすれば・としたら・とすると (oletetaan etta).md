@@ -71,7 +71,18 @@ Mitä eroa on としたら:lla ja とすると:lla?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋とすれば／としたら／とすると (oletetaan etta) (similar/compare) ::: 普通形としても (vaikka oletettaisiinkin) (similar/compare)
-普通形＋とすれば／としたら／とすると (oletetaan etta) (similar/compare) ::: ～となると・となれば (jos niin on, silloin) (similar/compare)
-普通形＋とすれば／としたら／とすると (oletetaan etta) (compare) ::: ～なら (jos kerran) (compare)
-普通形＋とすれば／としたら／とすると (oletetaan etta) (compare) ::: そうすると (siina tapauksessa, sitten) (compare)
+普通形＋とすれば／としたら／とすると (oletetaan etta) 宝くじが当たった**としたら**、何をしますか (similar/compare) vs. vaikka oletettaisiinkin
+??
+普通形としても (vaikka oletettaisiinkin) 保育所があった**としても**、費用が高い (similar/compare) vs. oletetaan etta
+
+普通形＋とすれば／としたら／とすると (oletetaan etta) 宝くじが当たった**としたら**、何をしますか (similar/compare) vs. jos niin on, silloin
+??
+～となると・となれば (jos niin on, silloin) 結婚**となると**、話は別だ (similar/compare) vs. oletetaan etta
+
+普通形＋とすれば／としたら／とすると (oletetaan etta) 宝くじが当たった**としたら**、何をしますか (compare) vs. jos kerran
+??
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (compare) vs. oletetaan etta
+
+普通形＋とすれば／としたら／とすると (oletetaan etta) 宝くじが当たった**としたら**、何をしますか (compare) vs. siina tapauksessa, sitten
+??
+そうすると (siina tapauksessa, sitten) **そうすると**、ドアが開く (compare) vs. oletetaan etta

@@ -69,5 +69,10 @@ Sama merkitys; ちっとも puhekielisempi.
 
 #flashcards/grammar/n2/vertailu
 
-ちっとも＋kielto (ei yhtaan) (similar/compare) ::: 少しも～ない (ei vahaakaan) (similar/compare)
-ちっとも＋kielto (ei yhtaan) (similar) ::: 全く～ない (ei lainkaan) (similar)
+ちっとも＋kielto (ei yhtaan) 彼は**ちっとも**話を聞か**ない** (similar/compare) vs. ei vahaakaan
+??
+少しも～ない (ei vahaakaan) 彼の言うことは**少しも**理解でき**ない** (similar/compare) vs. ei yhtaan
+
+ちっとも＋kielto (ei yhtaan) 彼は**ちっとも**話を聞か**ない** (similar) vs. ei lainkaan
+??
+全く～ない (ei lainkaan) その件については**全く**知り**ません** (similar) vs. ei yhtaan

@@ -70,4 +70,6 @@ Jostain (ei tiedä mistä).
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋ともなく／ともなしに (tietamattaan, ilman aikomusta) (compare) ::: ついVてしまう (vahingossa, tahattomasti) (compare)
+V辞書形＋ともなく／ともなしに (tietamattaan, ilman aikomusta) テレビを見る**ともなく**見ていた (compare) vs. vahingossa, tahattomasti
+??
+ついVてしまう (vahingossa, tahattomasti) **つい**食べすぎ**てしまった** (compare) vs. tietamattaan, ilman aikomusta

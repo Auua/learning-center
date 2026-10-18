@@ -71,7 +71,18 @@ Miten 普通形＋としても eroaa たとえ～ても:stä?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋としても (vaikka oletettaisiinkin) (similar/compare) ::: たとえ～ても (vaikka kuinka) (similar/compare)
-普通形＋としても (vaikka oletettaisiinkin) (similar/compare) ::: ～にしても (vaikka olisikin) (similar/compare)
-普通形＋としても (vaikka oletettaisiinkin) (similar/compare) ::: ～とすれば・としたら・とすると (oletetaan etta) (similar/compare)
-普通形＋としても (vaikka oletettaisiinkin) (similar) ::: ～とも (vaikka, kuinka tahansa) (similar)
+普通形＋としても (vaikka oletettaisiinkin) 保育所があった**としても**、費用が高い (similar/compare) vs. vaikka kuinka
+??
+たとえ～ても (vaikka kuinka) **たとえ**雨が降っ**ても**、行きます (similar/compare) vs. vaikka oletettaisiinkin
+
+普通形＋としても (vaikka oletettaisiinkin) 保育所があった**としても**、費用が高い (similar/compare) vs. vaikka olisikin
+??
+～にしても (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (similar/compare) vs. vaikka oletettaisiinkin
+
+普通形＋としても (vaikka oletettaisiinkin) 保育所があった**としても**、費用が高い (similar/compare) vs. oletetaan etta
+??
+～とすれば・としたら・とすると (oletetaan etta) 宝くじが当たった**としたら**、何をしますか (similar/compare) vs. vaikka oletettaisiinkin
+
+普通形＋としても (vaikka oletettaisiinkin) 保育所があった**としても**、費用が高い (similar) vs. vaikka, kuinka tahansa
+??
+～とも (vaikka, kuinka tahansa) どんなに苦しく**とも**、諦めない (similar) vs. vaikka oletettaisiinkin

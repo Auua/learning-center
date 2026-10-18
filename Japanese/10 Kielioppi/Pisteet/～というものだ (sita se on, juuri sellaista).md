@@ -69,5 +69,10 @@ Ensimmäinen vahvistaa; jälkimmäinen kumoaa ("ei välttämättä").
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N）＋というものだ (sita se on, juuri sellaista) (similar) ::: 普通形ものだ・ものではない (yleinen totuus) (similar)
-普通形（N）＋というものだ (sita se on, juuri sellaista) (compare) ::: ～というものではない (ei valttamatta ole niin) (compare)
+普通形（N）＋というものだ (sita se on, juuri sellaista) 人の物を盗むのは犯罪**というものだ** (similar) vs. yleinen totuus
+??
+普通形ものだ・ものではない (yleinen totuus) 人は変わる**ものだ** (similar) vs. sita se on, juuri sellaista
+
+普通形（N）＋というものだ (sita se on, juuri sellaista) 人の物を盗むのは犯罪**というものだ** (compare) vs. ei valttamatta ole niin
+??
+～というものではない (ei valttamatta ole niin) 高ければいい**というものではない** (compare) vs. sita se on, juuri sellaista

@@ -71,5 +71,10 @@ Itselle — se ilmaisee omaa tunnetta, ei pyydä myötäilyä.
 
 #flashcards/grammar/n5/vertailu
 
-Sなあ（な） (tunteen huudahdus) (compare) ::: Sね (vahvistus, eikö niin) (compare)
-Sなあ（な） (tunteen huudahdus) (compare) ::: 普通形かな (itselle esitetty pohdinta) (compare)
+Sなあ（な） (tunteen huudahdus) きれいだ**なあ** (compare) vs. vahvistus, eikö niin
+??
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (compare) vs. tunteen huudahdus
+
+Sなあ（な） (tunteen huudahdus) きれいだ**なあ** (compare) vs. itselle esitetty pohdinta
+??
+普通形かな (itselle esitetty pohdinta) お父さんの誕生日のプレゼントは何が**いいかな** (compare) vs. tunteen huudahdus

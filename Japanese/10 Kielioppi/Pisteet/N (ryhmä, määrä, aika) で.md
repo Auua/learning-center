@@ -110,7 +110,18 @@ Miten 全部でいくらですか eroaa lauseesta 全部を買いました?
 
 #flashcards/grammar/n4/vertailu
 
-N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) (similar/compare) ::: N (väline) で (similar/compare)
-N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) (similar) ::: N (syy) で (similar)
-N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) (similar) ::: N (paikka) で (similar)
-N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) (similar/compare) ::: Liikkumisen partikkelit (へ・で・と) (similar/compare)
+N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) 一人**で**作りました (similar/compare) vs. väline
+??
+N (väline) で はし**で**食べます (similar/compare) vs. ryhmä, määrä, aika
+
+N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) 一人**で**作りました (similar) vs. syy
+??
+N (syy) で 病気**で**休みました (similar) vs. ryhmä, määrä, aika
+
+N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) 一人**で**作りました (similar) vs. paikka
+??
+N (paikka) で 駅**で**新聞を買います (similar) vs. ryhmä, määrä, aika
+
+N（人数・数量・時間・金額）で (N (ryhmä, määrä, aika) で) 一人**で**作りました (similar/compare) vs. へ・で・と
+??
+Liikkumisen partikkelit (へ・で・と) 京都**へ**行きます (similar/compare) vs. ryhmä, määrä, aika

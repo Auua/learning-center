@@ -69,6 +69,14 @@ Arvio esitetään objektiivisena, ei puhujan henkilökohtaisena.
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋と考えられる／と考えられている (voidaan ajatella etta) (similar/compare) ::: 普通形と思われる (nayttaa siltä, uutiskielinen) (similar/compare)
-普通形＋と考えられる／と考えられている (voidaan ajatella etta) (similar) ::: 普通形と言われている (sanotaan etta, yleinen kasitys) (similar)
-普通形＋と考えられる／と考えられている (voidaan ajatella etta) (similar) ::: 普通形とされる (katsotaan, pidetaan) (similar)
+普通形＋と考えられる／と考えられている (voidaan ajatella etta) 事故の原因はスピードの出しすぎ**と考えられる** (similar/compare) vs. nayttaa siltä, uutiskielinen
+??
+普通形と思われる (nayttaa siltä, uutiskielinen) 世界の経済の混乱はこの先5、6年は続く**と思われる** (similar/compare) vs. voidaan ajatella etta
+
+普通形＋と考えられる／と考えられている (voidaan ajatella etta) 事故の原因はスピードの出しすぎ**と考えられる** (similar) vs. sanotaan etta, yleinen kasitys
+??
+普通形と言われている (sanotaan etta, yleinen kasitys) 日本人は長生きだ**と言われている** (similar) vs. voidaan ajatella etta
+
+普通形＋と考えられる／と考えられている (voidaan ajatella etta) 事故の原因はスピードの出しすぎ**と考えられる** (similar) vs. katsotaan, pidetaan
+??
+普通形とされる (katsotaan, pidetaan) この寺は日本最古**とされる** (similar) vs. voidaan ajatella etta

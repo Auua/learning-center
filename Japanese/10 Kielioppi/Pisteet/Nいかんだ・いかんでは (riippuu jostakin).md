@@ -69,4 +69,6 @@ Sama; いかん kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-N（の）＋いかんだ／いかんで／いかんによっては (riippuu jostakin) (similar/compare) ::: ～次第で (riippuen jostakin) (similar/compare)
+N（の）＋いかんだ／いかんで／いかんによっては (riippuu jostakin) 合否は面接の結果**いかんだ** (similar/compare) vs. riippuen jostakin
+??
+～次第で (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar/compare) vs. kirjallinen "riippuu"

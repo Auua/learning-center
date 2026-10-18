@@ -69,5 +69,10 @@ Kiista tai keskustelu: 争う, 議論する, 対立する.
 
 #flashcards/grammar/n2/vertailu
 
-N＋をめぐって／をめぐる (ymparilla, koskien kiistaa) (similar/compare) ::: ～について (aiheesta) (similar/compare)
-N＋をめぐって／をめぐる (ymparilla, koskien kiistaa) (similar) ::: ～に関する・に関して (koskien) (similar)
+N＋をめぐって／をめぐる (ymparilla, koskien kiistaa) 遺産**をめぐって**、兄弟が争った (similar/compare) vs. aiheesta
+??
+～について (aiheesta) 日本の文化**について**調べています (similar/compare) vs. ymparilla, koskien kiistaa
+
+N＋をめぐって／をめぐる (ymparilla, koskien kiistaa) 遺産**をめぐって**、兄弟が争った (similar) vs. "koskien"
+??
+～に関する・に関して (koskien) 働きアリ**に関する**有名な研究がある (similar) vs. "ympärillä" (kiista)

@@ -97,8 +97,22 @@ Miten 富士山が見える eroaa 富士山が見られる:stä?
 
 #flashcards/grammar/n4/vertailu
 
-Nが見えます／Nが聞こえます (spontaani aisti) (similar) ::: Potentiaali える (similar)
-Nが見えます／Nが聞こえます (spontaani aisti) (similar) ::: できます (valmistua, syntyä) (similar)
-Nが見えます／Nが聞こえます (spontaani aisti) (similar) ::: 自動詞＋ている (jaljelle jaanyt tila) (similar)
-Nが見えます／Nが聞こえます (spontaani aisti) (compare) ::: Vertailu — Potentiaali vs. spontaani aisti (compare)
-Nが見えます／Nが聞こえます (spontaani aisti) (compare) ::: Nがする (aistimus, haju, aani, maku) (compare)
+Nが見えます／Nが聞こえます (spontaani aisti) 窓から海**が見えます** (similar) vs. potentiaalimuoto
+??
+Potentiaali える **が**: 日本語**を**話す (similar) vs. spontaani aisti
+
+Nが見えます／Nが聞こえます (spontaani aisti) 窓から海**が見えます** (similar) vs. valmistua, syntyä
+??
+できます (valmistua, syntyä) 関西空港はいつできましたか (similar) vs. spontaani aisti
+
+Nが見えます／Nが聞こえます (spontaani aisti) 窓から海**が見えます** (similar) vs. jaljelle jaanyt tila
+??
+自動詞＋ている (jaljelle jaanyt tila) 窓が閉まっています (similar) vs. spontaani aisti
+
+Nが見えます／Nが聞こえます (spontaani aisti) 窓から海**が見えます** (compare) vs. vertailunote: potentiaali vs. aisti
+??
+Vertailu — Potentiaali vs. spontaani aisti 山が**見える**／山が**見られる** (compare) vs. näkyy/kuuluu itsestään
+
+Nが見えます／Nが聞こえます (spontaani aisti) 窓から海**が見えます** (compare) vs. aistimus, haju, aani, maku
+??
+Nがする (aistimus, haju, aani, maku) 外で変な**音がします** (compare) vs. spontaani aisti

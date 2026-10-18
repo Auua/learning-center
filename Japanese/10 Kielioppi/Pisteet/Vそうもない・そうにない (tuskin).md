@@ -70,5 +70,10 @@ Mikä on 降りそうだ:n kielteinen vastine?
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋そうもない／そうにない (tuskin) (similar/compare) ::: V・adjそうです (ulkonaon perusteella) (similar/compare)
-V(ます-vartalo)＋そうもない／そうにない (tuskin) (compare) ::: Vかもしれません (saattaa olla etta) (compare)
+V(ます-vartalo)＋そうもない／そうにない (tuskin) 雨はやみ**そうもない** (similar/compare) vs. ulkonaon perusteella
+??
+V・adjそうです (ulkonaon perusteella) 今にも雨が**降りそうです** (similar/compare) vs. tuskin
+
+V(ます-vartalo)＋そうもない／そうにない (tuskin) 雨はやみ**そうもない** (compare) vs. saattaa olla etta
+??
+Vかもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (compare) vs. tuskin

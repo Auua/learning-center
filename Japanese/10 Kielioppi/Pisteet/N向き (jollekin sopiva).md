@@ -71,4 +71,6 @@ Mikä on 向き:n verbimuotoinen vastine?
 
 #flashcards/grammar/n3/vertailu
 
-N＋向き（の／だ） (jollekin sopiva) (compare) ::: N向け (jollekin suunnattu) (compare)
+N＋向き（の／だ） (jollekin sopiva) 初心者**向きの**山 (compare) vs. jollekin suunnattu
+??
+N向け (jollekin suunnattu) 子ども**向けの**本 (compare) vs. jollekin sopiva

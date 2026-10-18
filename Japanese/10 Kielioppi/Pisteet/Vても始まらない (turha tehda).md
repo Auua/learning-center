@@ -69,6 +69,14 @@ Kehotus tehdä jotain hyödyllisempää.
 
 #flashcards/grammar/n3/vertailu
 
-V(て)＋も始まらない (turha tehda) (similar/compare) ::: Vてもしょうがない・ても仕方がない (turhaa, ei auta) (similar/compare)
-V(て)＋も始まらない (turha tehda) (similar/compare) ::: Vてもどうにもならない (turha, ei auta) (similar/compare)
-V(て)＋も始まらない (turha tehda) (compare) ::: ～ばそれまでだ (siihen se jaa) (compare)
+V(て)＋も始まらない (turha tehda) 今さら後悔し**ても始まらない** (similar/compare) vs. turhaa, ei auta
+??
+Vてもしょうがない・ても仕方がない (turhaa, ei auta) 今から急い**でもしょうがない** (similar/compare) vs. turha tehda
+
+V(て)＋も始まらない (turha tehda) 今さら後悔し**ても始まらない** (similar/compare) vs. turha, ei auta
+??
+Vてもどうにもならない (turha, ei auta) 今さら後悔し**てもどうにもならない** (similar/compare) vs. turha tehda
+
+V(て)＋も始まらない (turha tehda) 今さら後悔し**ても始まらない** (compare) vs. siihen se jaa
+??
+～ばそれまでだ (siihen se jaa) いくら準備しても、雨が降れ**ばそれまでだ** (compare) vs. turha tehda

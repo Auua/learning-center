@@ -69,5 +69,10 @@ Muutosverbien: 増える, 変わる, 回復する.
 
 #flashcards/grammar/n2/vertailu
 
-V(ます-vartalo)＋つつある (～つつある (on (vahitellen) -massa)) (similar) ::: ～つつ (samalla kun, vaikka) (similar)
-V(ます-vartalo)＋つつある (～つつある (on (vahitellen) -massa)) (similar/compare) ::: ～てくる・～ていく (muutos ajassa) (similar/compare)
+V(ます-vartalo)＋つつある (～つつある (on (vahitellen) -massa)) 景気は回復し**つつある** (similar) vs. samalla kun, vaikka
+??
+～つつ (samalla kun, vaikka) 景色を楽しみ**つつ**、歩いた (similar) vs. vahitellen
+
+V(ます-vartalo)＋つつある (～つつある (on (vahitellen) -massa)) 景気は回復し**つつある** (similar/compare) vs. muutos ajassa
+??
+～てくる・～ていく (muutos ajassa) 風がだんだん強く**なってきた** (similar/compare) vs. vahitellen

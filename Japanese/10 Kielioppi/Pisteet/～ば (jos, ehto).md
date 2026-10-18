@@ -90,9 +90,26 @@ Siihen mitä vaaditaan, jotta B toteutuu ("riittääkö tämä, jotta B?"); loog
 
 #flashcards/grammar/n4/vertailu
 
-～ば (jos, ehto) kun (similar) ::: ～たら (jos, kun) (similar)
-～ば (jos, ehto) seuraus (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
-～ば (jos, ehto) kerran (similar) ::: ～なら (jos kerran) (similar)
-～ば (jos, ehto) Kontrafaktuaalinen (similar) ::: Vertailu — たら・ば + ta (kontrafaktuaalinen) (similar)
-～ば (jos, ehto) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
-～ば (jos, ehto) (similar) ::: 疑問詞＋Vばいいですか (neuvon kysyminen ば) (similar)
+～ば (jos, ehto) kun 時間があれば、手伝ってください (similar) vs. jos, kun
+??
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. jos, ehto
+
+～ば (jos, ehto) seuraus 時間があれば、手伝ってください (similar) vs. aina kun, väistämätön seuraus
+??
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. jos, ehto
+
+～ば (jos, ehto) kerran 時間があれば、手伝ってください (similar) vs. jos kerran
+??
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar) vs. jos, ehto
+
+～ば (jos, ehto) Kontrafaktuaalinen 時間があれば、手伝ってください (similar) vs. vertailu: たら・ば + ta
+??
+Vertailu — たら・ば + ta (kontrafaktuaalinen) 早く出れ**ば**間に合っ**た**のに (similar) vs. jos, ehto
+
+～ば (jos, ehto) 時間があれば、手伝ってください (compare) vs. vertailu: Ehtolauseet と・ば・たら・なら
+??
+Vertailu — Ehtolauseet と・ば・たら・なら 春に**なると**桜が咲く (compare) vs. jos, ehto
+
+～ば (jos, ehto) 時間があれば、手伝ってください (similar) vs. neuvon kysyminen ば
+??
+疑問詞＋Vばいいですか (neuvon kysyminen ば) このボタンを押せ**ばいいです**よ (similar) vs. jos, ehto

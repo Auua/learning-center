@@ -71,6 +71,14 @@ Miten N に応じて eroaa N によって (vaihtelu) -rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-N＋に応じて (sen mukaan, riippuen) (similar/compare) ::: ～によって (riippuen, vaihtelu) (similar/compare)
-N＋に応じて (sen mukaan, riippuen) (similar/compare) ::: ～に応えて (vastaten jhk) (similar/compare)
-N＋に応じて (sen mukaan, riippuen) (similar) ::: ～次第で (riippuen jostakin) (similar)
+N＋に応じて (sen mukaan, riippuen) 会員のうち3人は既に請求**に応じて**支払いを済ませている (similar/compare) vs. riippuen, vaihtelu
+??
+～によって (riippuen, vaihtelu) 文化や習慣は**国によって**違います (similar/compare) vs. sen mukaan, riippuen
+
+N＋に応じて (sen mukaan, riippuen) 会員のうち3人は既に請求**に応じて**支払いを済ませている (similar/compare) vs. vastaten jhk
+??
+～に応えて (vastaten jhk) ファンの声援**に応えて**、選手は手を振った (similar/compare) vs. sen mukaan, riippuen
+
+N＋に応じて (sen mukaan, riippuen) 会員のうち3人は既に請求**に応じて**支払いを済ませている (similar) vs. riippuen jostakin
+??
+～次第で (riippuen jostakin) 努力**次第で**、誰でも上手になれる (similar) vs. sen mukaan, riippuen

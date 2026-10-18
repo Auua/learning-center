@@ -68,4 +68,6 @@ Samaa asiaa ajassa.
 
 #flashcards/grammar/n1/vertailu
 
-N＋とは打って変わって／とは打って変わり (taysin toisin kuin) (similar/compare) ::: ～に引き換え (toisin kuin) (similar/compare)
+N＋とは打って変わって／とは打って変わり (taysin toisin kuin) 昨日**とは打って変わって**、今日は晴れた (similar/compare) vs. "toisin kuin" vertailu
+??
+～に引き換え (toisin kuin) 兄**に引き換え**、弟は怠け者だ (similar/compare) vs. "täysin toisin kuin" (muutos)

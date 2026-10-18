@@ -82,6 +82,14 @@ Miten 部屋がきれいになりました eroaa 部屋をきれいにしまし�
 
 #flashcards/grammar/n4/vertailu
 
-い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) (similar/compare) ::: ～くなります・～になります (muutos) (similar/compare)
-い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) (compare) ::: Nにします (valinta, paatos) (compare)
-い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) (similar/compare) ::: Adjく・Adjに＋V (adjektiivi adverbina) (similar/compare)
+い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) 音を**大きくします** (similar/compare) vs. muutos itsestään
+??
+～くなります・～になります (muutos) 寒**く**なります (similar/compare) vs. tahallinen muutos
+
+い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) 音を**大きくします** (compare) vs. valinta, paatos
+??
+Nにします (valinta, paatos) 私はコーヒー**にします** (compare) vs. tahallinen muutos
+
+い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) 音を**大きくします** (similar/compare) vs. adjektiivi adverbina
+??
+Adjく・Adjに＋V (adjektiivi adverbina) 毎朝**早く**起きます (similar/compare) vs. tahallinen muutos

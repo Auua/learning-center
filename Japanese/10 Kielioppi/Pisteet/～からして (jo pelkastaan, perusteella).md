@@ -70,4 +70,6 @@ Jos jo johtaja myöhästyy, muut varmasti myös.
 
 #flashcards/grammar/n2/vertailu
 
-N＋からして (jo pelkastaan, perusteella) (similar/compare) ::: ～からすると・からすれば (jonkin perusteella) (similar/compare)
+N＋からして (jo pelkastaan, perusteella) あの店は入口**からして**汚い (similar/compare) vs. jonkin perusteella
+??
+～からすると・からすれば (jonkin perusteella) 親**からすると**、子どもの将来が心配だ (similar/compare) vs. jo pelkastaan, perusteella

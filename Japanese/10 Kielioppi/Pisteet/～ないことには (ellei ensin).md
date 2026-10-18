@@ -69,4 +69,6 @@ Lähes sama; ないことには korostaa edellytyksen puuttumista.
 
 #flashcards/grammar/n2/vertailu
 
-V(ない)／Adjくない＋ことには＋kielto (ellei ensin) (similar/compare) ::: Vてからでないと (vasta kun ensin) (similar/compare)
+V(ない)／Adjくない＋ことには＋kielto (ellei ensin) 実際に見**ないことには**、何とも言えない (similar/compare) vs. vasta kun ensin
+??
+Vてからでないと (vasta kun ensin) 親に聞い**てからでないと**、決められない (similar/compare) vs. ellei ensin

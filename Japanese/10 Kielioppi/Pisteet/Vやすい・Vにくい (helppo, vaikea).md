@@ -77,6 +77,14 @@ Miten Vやすい eroaa potentiaalimuodosta?
 
 #flashcards/grammar/n4/vertailu
 
-V(ます-vartalo)やすい／にくい (helppo, vaikea) (compare) ::: Vます-vartalo＋がたい (vaikea tehda, henkisesti) (compare)
-V(ます-vartalo)やすい／にくい (helppo, vaikea) (similar/compare) ::: Vづらい (vaikea, epamukava) (similar/compare)
-V(ます-vartalo)やすい／にくい (helppo, vaikea) (compare) ::: ～に難くない (ei ole vaikea, helppo) (compare)
+V(ます-vartalo)やすい／にくい (helppo, vaikea) このパソコンは**使いやすい**です (compare) vs. vaikea tehda, henkisesti
+??
+Vます-vartalo＋がたい (vaikea tehda, henkisesti) 信じ**がたい**話だ (compare) vs. helppo, vaikea
+
+V(ます-vartalo)やすい／にくい (helppo, vaikea) このパソコンは**使いやすい**です (similar/compare) vs. vaikea, epamukava
+??
+Vづらい (vaikea, epamukava) この靴は歩き**づらい** (similar/compare) vs. helppo, vaikea
+
+V(ます-vartalo)やすい／にくい (helppo, vaikea) このパソコンは**使いやすい**です (compare) vs. "ei ole vaikea, helppo" kirjallinen
+??
+～に難くない (ei ole vaikea, helppo) 想像**に難くない** (compare) vs. helppo/vaikea tehdä

@@ -70,4 +70,6 @@ Jälkimmäinen kuvaa kokemusta tapahtumana.
 
 #flashcards/grammar/n1/vertailu
 
-Adj＋思いをする (kokea tunne) (compare) ::: Nがする (aistimus, haju, aani, maku) (compare)
+Adj＋思いをする (kokea tunne) 怖い**思いをした** (compare) vs. aistimus, haju, aani, maku
+??
+Nがする (aistimus, haju, aani, maku) 外で変な**音がします** (compare) vs. kokea tunne

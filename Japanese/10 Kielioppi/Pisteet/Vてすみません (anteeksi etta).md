@@ -71,5 +71,10 @@ Vain jälkimmäinen on oikein — toisen teko tarvitsee てくれる.
 
 #flashcards/grammar/n4/vertailu
 
-V(て-muoto)＋すみません／ごめんなさい (anteeksi etta) (similar) ::: Vて (tunnereaktion syy) (similar)
-V(て-muoto)＋すみません／ごめんなさい (anteeksi etta) (compare) ::: Vてよかった (onneksi, olen iloinen etta) (compare)
+V(て-muoto)＋すみません／ごめんなさい (anteeksi etta) 遅れ**てすみません** (similar) vs. tunnereaktion syy
+??
+Vて (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar) vs. anteeksi etta
+
+V(て-muoto)＋すみません／ごめんなさい (anteeksi etta) 遅れ**てすみません** (compare) vs. onneksi, olen iloinen etta
+??
+Vてよかった (onneksi, olen iloinen etta) 日本に来**てよかった** (compare) vs. anteeksi etta

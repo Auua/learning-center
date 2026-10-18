@@ -72,5 +72,10 @@ Miten N に及ぶ eroaa ～にわたって:sta?
 
 #flashcards/grammar/n1/vertailu
 
-N（laajuus）＋に及ぶ・にまで及ぶ (ulottua, nousta jopa) (similar/compare) ::: ～に［も］わたって (koko ajan・alueen) (similar/compare)
-N（laajuus）＋に及ぶ・にまで及ぶ (ulottua, nousta jopa) (similar/compare) ::: ～に至る (paatya, johtaa) (similar/compare)
+N（laajuus）＋に及ぶ・にまで及ぶ (ulottua, nousta jopa) 一度失敗すると、あとのつけは数百年**に及ぶ**可能性がある (similar/compare) vs. koko ajan・alueen
+??
+～に［も］わたって (koko ajan・alueen) 手術は3時間**にわたって**行われた (similar/compare) vs. ulottua, nousta jopa
+
+N（laajuus）＋に及ぶ・にまで及ぶ (ulottua, nousta jopa) 一度失敗すると、あとのつけは数百年**に及ぶ**可能性がある (similar/compare) vs. paatya, johtaa
+??
+～に至る (paatya, johtaa) 長い議論の末、結論**に至った** (similar/compare) vs. ulottua, nousta jopa

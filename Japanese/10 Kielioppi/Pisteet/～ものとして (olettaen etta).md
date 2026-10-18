@@ -68,6 +68,14 @@ Virallisissa ilmoituksissa: jos ei vastausta, oletetaan X.
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋ものとして (olettaen etta) (similar/compare) ::: ～ものとする (katsotaan, oletetaan) (similar/compare)
-普通形＋ものとして (olettaen etta) (similar/compare) ::: ～を前提として (edellyttaen) (similar/compare)
-普通形＋ものとして (olettaen etta) (compare) ::: Vるつもりで (aikomuksella) (compare)
+普通形＋ものとして (olettaen etta) 全員出席する**ものとして**、準備を進める (similar/compare) vs. katsotaan, oletetaan
+??
+～ものとする (katsotaan, oletetaan) 期限を過ぎた場合は、無効とする**ものとする** (similar/compare) vs. olettaen etta
+
+普通形＋ものとして (olettaen etta) 全員出席する**ものとして**、準備を進める (similar/compare) vs. edellyttaen
+??
+～を前提として (edellyttaen) 結婚**を前提として**、付き合っている (similar/compare) vs. olettaen etta
+
+普通形＋ものとして (olettaen etta) 全員出席する**ものとして**、準備を進める (compare) vs. aikomuksella
+??
+Vるつもりで (aikomuksella) 留学する**つもりで**、お金をためている (compare) vs. olettaen etta

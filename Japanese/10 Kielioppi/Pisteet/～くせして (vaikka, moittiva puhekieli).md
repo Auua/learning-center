@@ -69,4 +69,6 @@ Sama; くせして on puhekielisempi.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（Nの／な-adj な）＋くせして (vaikka, moittiva puhekieli) (similar/compare) ::: ～くせに (vaikka, moittiva) (similar/compare)
+普通形（Nの／な-adj な）＋くせして (vaikka, moittiva puhekieli) 知ってる**くせして**、教えてくれない (similar/compare) vs. "vaikka" moittiva yleisempi
+??
+～くせに (vaikka, moittiva) 知っている**くせに**、教えてくれない (similar/compare) vs. puhekielinen moittiva

@@ -69,6 +69,14 @@ Muutosverbejä: 増える, 減る, 悪くなる.
 
 #flashcards/grammar/n3/vertailu
 
-V(辞書形)＋一方だ (yha enemman) (similar/compare) ::: Vるばかりだ (vain pahenee) (similar/compare)
-V(辞書形)＋一方だ (yha enemman) (compare) ::: 一方（で） (toisaalta) (compare)
-V(辞書形)＋一方だ (yha enemman) (compare) ::: Vにつれて (sita mukaa kun) (compare)
+V(辞書形)＋一方だ (yha enemman) 物価は上がる**一方だ** (similar/compare) vs. vain pahenee
+??
+Vるばかりだ (vain pahenee) 病状は悪くなる**ばかりだ** (similar/compare) vs. yha enemman
+
+V(辞書形)＋一方だ (yha enemman) 物価は上がる**一方だ** (compare) vs. toisaalta
+??
+一方（で） (toisaalta) 便利な**一方で**、高い (compare) vs. yha enemman
+
+V(辞書形)＋一方だ (yha enemman) 物価は上がる**一方だ** (compare) vs. sita mukaa kun
+??
+Vにつれて (sita mukaa kun) 時間が経つ**につれて**、腹が立ってきた (compare) vs. yha enemman

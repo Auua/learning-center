@@ -76,7 +76,18 @@ Passiivi: opettaja kehui minua; aktiivi: minä kehuin opettajaa.
 
 #flashcards/grammar/n4/vertailu
 
-N1（人）はN2（人）にV受身形 (suora passiivi) (similar/compare) ::: N1はN2にN3をV受身 (omistajan passiivi) (similar/compare)
-N1（人）はN2（人）にV受身形 (suora passiivi) (similar/compare) ::: NがV受身 (asiasubjektin passiivi) (similar/compare)
-N1（人）はN2（人）にV受身形 (suora passiivi) (similar) ::: 〜によって (tekijan merkitseminen, luova teko) (similar)
-N1（人）はN2（人）にV受身形 (suora passiivi) (similar/compare) ::: V(ら)れる (kunnioittava muoto, 尊敬語) (similar/compare)
+N1（人）はN2（人）にV受身形 (suora passiivi) わたしは部長**に**ほめられました (similar/compare) vs. omistajan passiivi
+??
+N1はN2にN3をV受身 (omistajan passiivi) わたしは弟**に**パソコン**を**壊されました (similar/compare) vs. suora passiivi
+
+N1（人）はN2（人）にV受身形 (suora passiivi) わたしは部長**に**ほめられました (similar/compare) vs. asiasubjektin passiivi
+??
+NがV受身 (asiasubjektin passiivi) フランスで古い日本の地図**が**発見されました (similar/compare) vs. suora passiivi
+
+N1（人）はN2（人）にV受身形 (suora passiivi) わたしは部長**に**ほめられました (similar) vs. tekijan merkitseminen, luova teko
+??
+〜によって (tekijan merkitseminen, luova teko) 飛行機は**ライト兄弟によって**発明されました (similar) vs. suora passiivi
+
+N1（人）はN2（人）にV受身形 (suora passiivi) わたしは部長**に**ほめられました (similar/compare) vs. kunnioittava muoto, 尊敬語
+??
+V(ら)れる (kunnioittava muoto, 尊敬語) 部長は何時に**来られ**ますか (similar/compare) vs. suora passiivi

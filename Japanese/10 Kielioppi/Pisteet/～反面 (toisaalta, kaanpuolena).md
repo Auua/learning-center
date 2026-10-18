@@ -69,4 +69,6 @@ Kyllä — saman asian kaksi vastakkaista puolta.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（な-adj な／N である）＋反面 (toisaalta, kaanpuolena) (similar/compare) ::: 一方（で） (toisaalta) (similar/compare)
+普通形（な-adj な／N である）＋反面 (toisaalta, kaanpuolena) 便利になった**反面**、問題も増えた (similar/compare) vs. "toisaalta"
+??
+一方（で） (toisaalta) 便利な**一方で**、高い (similar/compare) vs. "toisaalta, kääntöpuolena"

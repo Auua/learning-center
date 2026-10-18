@@ -70,5 +70,10 @@ Mikä on つい:n vastakohta?
 
 #flashcards/grammar/n3/vertailu
 
-つい＋V(て)しまう (vahingossa, tahattomasti) (similar/compare) ::: Vてしまいます (valitettavasti, loppuun asti) (similar/compare)
-つい＋V(て)しまう (vahingossa, tahattomasti) (compare) ::: Vともなく (tietamattaan, ilman aikomusta) (compare)
+つい＋V(て)しまう (vahingossa, tahattomasti) **つい**食べすぎ**てしまった** (similar/compare) vs. valitettavasti, loppuun asti
+??
+Vてしまいます (valitettavasti, loppuun asti) このファクス、使ってもいいですか (similar/compare) vs. vahingossa, tahattomasti
+
+つい＋V(て)しまう (vahingossa, tahattomasti) **つい**食べすぎ**てしまった** (compare) vs. tietamattaan, ilman aikomusta
+??
+Vともなく (tietamattaan, ilman aikomusta) テレビを見る**ともなく**見ていた (compare) vs. vahingossa, tahattomasti

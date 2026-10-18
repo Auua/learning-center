@@ -88,6 +88,14 @@ Miten Vて-form 来ます eroaa muodosta Vて、Vて?
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form 来ます (kaynti ja paluu) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
-Vて-form 来ます (kaynti ja paluu) (similar) ::: ～てくる・～ていく (muutos ajassa) (similar)
-Vて-form 来ます (kaynti ja paluu) (similar) ::: ～てくる・～ていく (liikkeen suunta) (similar)
+Vて-form 来ます (kaynti ja paluu) スーパー**で**牛乳を買っ**て来ます** (similar) vs. parhaillaan, tilan tulos
+??
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar) vs. kaynti ja paluu
+
+Vて-form 来ます (kaynti ja paluu) スーパー**で**牛乳を買っ**て来ます** (similar) vs. muutos ajassa
+??
+～てくる・～ていく (muutos ajassa) 風がだんだん強く**なってきた** (similar) vs. kaynti ja paluu
+
+Vて-form 来ます (kaynti ja paluu) スーパー**で**牛乳を買っ**て来ます** (similar) vs. liikkeen suunta
+??
+～てくる・～ていく (liikkeen suunta) 富士山が**見えてきた** (similar) vs. kaynti ja paluu

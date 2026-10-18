@@ -75,5 +75,10 @@ Intransitiivi → を; transitiivi (objekti を jo varattu) → に.
 
 #flashcards/grammar/n4/vertailu
 
-N（人）を＋自動詞の使役形 (kausatiivi intransitiiviverbillä) (similar/compare) ::: NにNを V(さ)せる (kausatiivi transitiiviverbillä) (similar/compare)
-N（人）を＋自動詞の使役形 (kausatiivi intransitiiviverbillä) (similar) ::: させてください・させていただけませんか (lupa itselle) (similar)
+N（人）を＋自動詞の使役形 (kausatiivi intransitiiviverbillä) 部長は加藤さん**を**大阪へ出張させます (similar/compare) vs. kausatiivi transitiiviverbillä
+??
+NにNを V(さ)せる (kausatiivi transitiiviverbillä) 母は子ども**に**野菜**を**食べさせます (similar/compare) vs. kausatiivi intransitiiviverbillä
+
+N（人）を＋自動詞の使役形 (kausatiivi intransitiiviverbillä) 部長は加藤さん**を**大阪へ出張させます (similar) vs. lupa itselle
+??
+させてください・させていただけませんか (lupa itselle) しばらくここに車を**止めさせてください** (similar) vs. kausatiivi intransitiiviverbillä

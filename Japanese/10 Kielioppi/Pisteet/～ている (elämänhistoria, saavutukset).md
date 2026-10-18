@@ -100,6 +100,14 @@ Miten …ている (saavutukset) eroaa Vたことがあります:sta?
 
 #flashcards/grammar/n3/vertailu
 
-…ている（keskeytymätön tulos, elämänhistoria） (elämänhistoria, saavutukset) (similar) ::: ～ている (parhaillaan, tilan tulos) (similar)
-…ている（keskeytymätön tulos, elämänhistoria） (elämänhistoria, saavutukset) (similar/compare) ::: Vたことがあります (kokemus) (similar/compare)
-…ている（keskeytymätön tulos, elämänhistoria） (elämänhistoria, saavutukset) (similar) ::: Vた結果・Nの結果 (seuraus) (similar)
+…ている（keskeytymätön tulos, elämänhistoria） (elämänhistoria, saavutukset) モーツァルトは600以上の曲を**作っている** (similar) vs. parhaillaan, tilan tulos
+??
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar) vs. elämänhistoria, saavutukset
+
+…ている（keskeytymätön tulos, elämänhistoria） (elämänhistoria, saavutukset) モーツァルトは600以上の曲を**作っている** (similar/compare) vs. kokemus
+??
+Vたことがあります (kokemus) 馬に乗っ**たことがあります** (similar/compare) vs. elämänhistoria, saavutukset
+
+…ている（keskeytymätön tulos, elämänhistoria） (elämänhistoria, saavutukset) モーツァルトは600以上の曲を**作っている** (similar) vs. seuraus
+??
+Vた結果・Nの結果 (seuraus) 話し合っ**た結果**、延期になった (similar) vs. elämänhistoria, saavutukset

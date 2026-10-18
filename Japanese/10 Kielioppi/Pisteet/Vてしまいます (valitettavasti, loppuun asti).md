@@ -95,4 +95,6 @@ Ei; neutraalissa saavutuksessa (kirje kirjoitettu loppuun) merkitys on 'saan teh
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form しまいます (valitettavasti, loppuun asti) (similar/compare) ::: ついVてしまう (vahingossa, tahattomasti) (similar/compare)
+Vて-form しまいます (valitettavasti, loppuun asti) このファクス、使ってもいいですか (similar/compare) vs. vahingossa, tahattomasti
+??
+ついVてしまう (vahingossa, tahattomasti) **つい**食べすぎ**てしまった** (similar/compare) vs. valitettavasti, loppuun asti

@@ -68,4 +68,6 @@ Mikä on に難くない:n tavallisin vakiolauseke?
 
 #flashcards/grammar/n1/vertailu
 
-N／V辞書形＋に難くない (ei ole vaikea, helppo) (compare) ::: Vやすい・Vにくい (helppo, vaikea) (compare)
+N／V辞書形＋に難くない (ei ole vaikea, helppo) 想像**に難くない** (compare) vs. helppo/vaikea tehdä
+??
+Vやすい・Vにくい (helppo, vaikea) このパソコンは**使いやすい**です (compare) vs. "ei ole vaikea, helppo" kirjallinen

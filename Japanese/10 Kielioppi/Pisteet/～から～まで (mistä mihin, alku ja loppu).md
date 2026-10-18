@@ -107,9 +107,26 @@ Syy-から liittyy lauseeseen, aika/paikka-から〜まで substantiiviin.
 
 #flashcards/grammar/n5/vertailu
 
-N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: N (aika) に (similar)
-N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: V辞書形まで・までに (verbilause aikarajana) (similar)
-N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar/compare) ::: N（aika）までに (määräaika) (similar/compare)
-N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: ～から～にかけて (jostakin johonkin, vali) (similar)
-N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar/compare) ::: Nより (-sta, muodollinen lahtopiste) (similar/compare)
-N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: 今何時ですか (kellonaika) (similar)
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar) vs. aika
+??
+N (aika) に 6時**に**起きます (similar) vs. mistä mihin, alku ja loppu
+
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar) vs. verbilause aikarajana
+??
+V辞書形まで・までに (verbilause aikarajana) 子どもが**寝るまで**、本を読んでやります (similar) vs. mistä mihin, alku ja loppu
+
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar/compare) vs. määräaika
+??
+N（aika）までに (määräaika) 土曜日**までに**本を返さなければなりません (similar/compare) vs. mistä mihin, alku ja loppu
+
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar) vs. jostakin johonkin, vali
+??
+～から～にかけて (jostakin johonkin, vali) 台風8号は今夜から明日**にかけて**上陸する見込みです (similar) vs. mistä mihin, alku ja loppu
+
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar/compare) vs. -sta, muodollinen lahtopiste
+??
+Nより (-sta, muodollinen lahtopiste) 会議は10時**より**始まります (similar/compare) vs. mistä mihin, alku ja loppu
+
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar) vs. kellonaika
+??
+今何時ですか (kellonaika) **今何時ですか** (similar) vs. mistä mihin, alku ja loppu

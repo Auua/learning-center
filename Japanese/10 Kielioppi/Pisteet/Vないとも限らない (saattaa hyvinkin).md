@@ -68,5 +68,10 @@ Varotoimi.
 
 #flashcards/grammar/n1/vertailu
 
-V(ない)＋とも限らない (saattaa hyvinkin) (similar/compare) ::: ～とは限らない (ei valttamatta) (similar/compare)
-V(ない)＋とも限らない (saattaa hyvinkin) (similar) ::: Vかもしれません (saattaa olla etta) (similar)
+V(ない)＋とも限らない (saattaa hyvinkin) 事故が起き**ないとも限らない** (similar/compare) vs. ei valttamatta
+??
+～とは限らない (ei valttamatta) 高い物がいい**とは限らない** (similar/compare) vs. saattaa hyvinkin
+
+V(ない)＋とも限らない (saattaa hyvinkin) 事故が起き**ないとも限らない** (similar) vs. saattaa olla etta
+??
+Vかもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (similar) vs. saattaa hyvinkin

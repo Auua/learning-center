@@ -68,4 +68,6 @@ Pehmeämpi.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（N）＋には無理がある (on epärealistista) (compare) ::: Vるには (jotta, siihen etta) (compare)
+普通形（N）＋には無理がある (on epärealistista) 一日で全部終わらせる**には無理がある** (compare) vs. jotta, siihen etta
+??
+Vるには (jotta, siihen etta) 日本で働く**には**、ビザが必要だ (compare) vs. on epärealistista

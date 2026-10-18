@@ -84,9 +84,26 @@ Tarkoitus-ために ilmaisee tulevaa tahdonalaista tavoitetta; syy-ために ilm
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: Vように (jotta, niin etta) (similar/compare)
-V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (similar/compare)
-V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: Vためには (jotta voisi) (similar/compare)
-V(辞書形)ために／Nのために (tarkoitusta varten) (similar) ::: そのために (siksi, sita varten) (similar)
-V(辞書形)ために／Nのために (tarkoitusta varten) (similar/compare) ::: Vべく (jotta, tarkoituksella) (similar/compare)
-V(辞書形)ために／Nのために (tarkoitusta varten) (similar) ::: ～んがために (jotta, kirjallinen) (similar)
+V(辞書形)ために／Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar/compare) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar/compare) vs. tarkoitusta varten
+
+V(辞書形)ために／Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar/compare) vs. syy, ei tarkoitus
+??
+～ため［に］・ためだ (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (similar/compare) vs. tarkoitusta varten
+
+V(辞書形)ために／Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar/compare) vs. jotta voisi
+??
+Vためには (jotta voisi) マンションを買う**ためには**、3,000万円くらい必要だ (similar/compare) vs. tarkoitusta varten
+
+V(辞書形)ために／Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar) vs. siksi, sita varten
+??
+そのために (siksi, sita varten) **そのため**、電車が止まった (similar) vs. tarkoitusta varten
+
+V(辞書形)ために／Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar/compare) vs. jotta, tarkoituksella
+??
+Vべく (jotta, tarkoituksella) 夢を実現す**べく**、毎日努力している (similar/compare) vs. tarkoitusta varten
+
+V(辞書形)ために／Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar) vs. jotta, kirjallinen
+??
+～んがために (jotta, kirjallinen) 勝た**んがために**、厳しい練習に耐えた (similar) vs. tarkoitusta varten

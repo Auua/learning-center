@@ -71,4 +71,6 @@ Miten としている eroaa muodosta とみられる?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋としている (virallinen kanta) (similar/compare) ::: 普通形とみられる (arvioidaan olevan) (similar/compare)
+普通形＋としている (virallinen kanta) 政府は景気が回復するまでは消費税を上げないと**している** (similar/compare) vs. arvioidaan olevan
+??
+普通形とみられる (arvioidaan olevan) 犯人は車で逃げた**とみられる** (similar/compare) vs. virallinen kanta

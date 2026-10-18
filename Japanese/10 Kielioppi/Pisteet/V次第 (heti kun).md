@@ -69,6 +69,14 @@ Ei — se on aikomus tai pyyntö.
 
 #flashcards/grammar/n2/vertailu
 
-V(ます-vartalo)／N＋次第 (heti kun) (similar) ::: Vたとたん（に） (juuri sina hetkena) (similar)
-V(ます-vartalo)／N＋次第 (heti kun) (compare) ::: ～次第で (riippuen jostakin) (compare)
-V(ます-vartalo)／N＋次第 (heti kun) (compare) ::: 普通形次第だ (nain ollen, siksi) (compare)
+V(ます-vartalo)／N＋次第 (heti kun) 結果がわかり**次第**、お知らせします (similar) vs. juuri sina hetkena
+??
+Vたとたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (similar) vs. "heti kun" muodollinen tuleva
+
+V(ます-vartalo)／N＋次第 (heti kun) 結果がわかり**次第**、お知らせします (compare) vs. riippuen jostakin
+??
+～次第で (riippuen jostakin) 努力**次第で**、誰でも上手になれる (compare) vs. heti kun
+
+V(ます-vartalo)／N＋次第 (heti kun) 結果がわかり**次第**、お知らせします (compare) vs. nain ollen, siksi
+??
+普通形次第だ (nain ollen, siksi) ご連絡を差し上げた**次第です** (compare) vs. heti kun

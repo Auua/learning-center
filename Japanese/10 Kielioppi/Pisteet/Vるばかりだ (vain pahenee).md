@@ -68,4 +68,6 @@ Lähes sama; ばかりだ on selvemmin kielteinen.
 
 #flashcards/grammar/n2/vertailu
 
-V(辞書形)＋ばかりだ (vain pahenee) (similar/compare) ::: ～一方だ (yha enemman) (similar/compare)
+V(辞書形)＋ばかりだ (vain pahenee) 病状は悪くなる**ばかりだ** (similar/compare) vs. yha enemman
+??
+～一方だ (yha enemman) 物価は上がる**一方だ** (similar/compare) vs. vain pahenee

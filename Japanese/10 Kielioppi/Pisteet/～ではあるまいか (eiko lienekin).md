@@ -68,4 +68,6 @@ Sama; あるまいか vanhahtavampi.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（N）＋ではあるまいか／のではあるまいか (eiko lienekin) (similar/compare) ::: 普通形のではないだろうか (varovainen oletus) (similar/compare)
+普通形（N）＋ではあるまいか／のではあるまいか (eiko lienekin) 彼が犯人**ではあるまいか** (similar/compare) vs. varovainen oletus
+??
+普通形のではないだろうか (varovainen oletus) 実現は難しい**のではないだろうか** (similar/compare) vs. eiko lienekin

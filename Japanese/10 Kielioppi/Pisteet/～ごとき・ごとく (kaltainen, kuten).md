@@ -71,4 +71,6 @@ Sama; ごとく kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-Nの／V普通形が＋ごとく／ごとき／ごとし (kaltainen, kuten) (similar/compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar/compare)
+Nの／V普通形が＋ごとく／ごとき／ごとし (kaltainen, kuten) 光陰矢**のごとし** (similar/compare) vs. vertailu, esimerkki
+??
+～のようだ・～のような・～のように (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. kaltainen, kuten

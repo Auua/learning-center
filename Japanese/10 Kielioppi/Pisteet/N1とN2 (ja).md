@@ -85,5 +85,10 @@ N1とN2:n と listaa substantiiveja ('A ja B'); ～と (N4) yhdistää lauseita 
 
 #flashcards/grammar/n5/vertailu
 
-N1とN2 (ja) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
-N1とN2 (ja) (similar/compare) ::: N1にN2 (ja, lisaksi luettelossa) (similar/compare)
+N1とN2 (ja) 土曜日**と**日曜日 (similar) vs. aina kun, väistämätön seuraus
+??
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. ja
+
+N1とN2 (ja) 土曜日**と**日曜日 (similar/compare) vs. lisäävä luettelo "ja lisäksi"
+??
+N1にN2 (ja, lisaksi luettelossa) ご飯**に**味噌汁**に**焼き魚が、日本の朝ご飯だ (similar/compare) vs. perusluettelo "ja"

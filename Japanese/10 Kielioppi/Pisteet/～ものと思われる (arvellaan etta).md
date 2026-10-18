@@ -68,5 +68,10 @@ Uutisissa ja raporteissa.
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋ものと思われる／ものと見られる (arvellaan etta) (similar/compare) ::: 普通形と思われる (nayttaa siltä, uutiskielinen) (similar/compare)
-普通形＋ものと思われる／ものと見られる (arvellaan etta) (similar) ::: 普通形とみられる (arvioidaan olevan) (similar)
+普通形＋ものと思われる／ものと見られる (arvellaan etta) 犯人は窓から入った**ものと思われる** (similar/compare) vs. nayttaa siltä, uutiskielinen
+??
+普通形と思われる (nayttaa siltä, uutiskielinen) 世界の経済の混乱はこの先5、6年は続く**と思われる** (similar/compare) vs. arvellaan etta
+
+普通形＋ものと思われる／ものと見られる (arvellaan etta) 犯人は窓から入った**ものと思われる** (similar) vs. arvioidaan olevan
+??
+普通形とみられる (arvioidaan olevan) 犯人は車で逃げた**とみられる** (similar) vs. arvellaan etta

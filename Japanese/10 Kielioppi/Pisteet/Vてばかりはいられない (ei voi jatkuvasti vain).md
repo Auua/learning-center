@@ -69,5 +69,10 @@ Ensimmäinen kuvaa; jälkimmäinen kehottaa lopettamaan.
 
 #flashcards/grammar/n2/vertailu
 
-V(て)＋ばかりはいられない (ei voi jatkuvasti vain) (similar) ::: ～てばかりいる・～ばかり～ている (liiallinen keskittyminen) (similar)
-V(て)＋ばかりはいられない (ei voi jatkuvasti vain) (similar/compare) ::: Vてはいられない (ei voi jaada tekemaan) (similar/compare)
+V(て)＋ばかりはいられない (ei voi jatkuvasti vain) いつまでも泣い**てばかりはいられない** (similar) vs. liiallinen keskittyminen
+??
+～てばかりいる・～ばかり～ている (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (similar) vs. ei voi jatkuvasti vain
+
+V(て)＋ばかりはいられない (ei voi jatkuvasti vain) いつまでも泣い**てばかりはいられない** (similar/compare) vs. ei voi jaada tekemaan
+??
+Vてはいられない (ei voi jaada tekemaan) のんびりし**てはいられない** (similar/compare) vs. ei voi jatkuvasti vain

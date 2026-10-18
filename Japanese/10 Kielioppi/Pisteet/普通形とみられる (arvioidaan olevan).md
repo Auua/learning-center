@@ -78,5 +78,10 @@ Hyvin lähellä toisiaan ja useimmiten vaihtokelpoisia. とみられる on tyypi
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋とみられる・とみている (arvioidaan olevan) (similar/compare) ::: 普通形と思われる (nayttaa siltä, uutiskielinen) (similar/compare)
-普通形＋とみられる・とみている (arvioidaan olevan) (similar) ::: ～ものと思われる (arvellaan etta) (similar)
+普通形＋とみられる・とみている (arvioidaan olevan) 犯人は車で逃げた**とみられる** (similar/compare) vs. nayttaa siltä, uutiskielinen
+??
+普通形と思われる (nayttaa siltä, uutiskielinen) 世界の経済の混乱はこの先5、6年は続く**と思われる** (similar/compare) vs. arvioidaan olevan
+
+普通形＋とみられる・とみている (arvioidaan olevan) 犯人は車で逃げた**とみられる** (similar) vs. arvellaan etta
+??
+～ものと思われる (arvellaan etta) 犯人は窓から入った**ものと思われる** (similar) vs. arvioidaan olevan

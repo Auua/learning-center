@@ -67,5 +67,10 @@ V辞書形＋上で vaatii verbin ja kuvaa prosessia, jonka puitteissa jokin pä
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Nの＋上で (ottaen huomioon, sen suhteen) (similar/compare) ::: N上 (jonkin kannalta) (similar/compare)
-V辞書形／Nの＋上で (ottaen huomioon, sen suhteen) (compare) ::: Vた上で (sen jalkeen kun, harkiten) (compare)
+V辞書形／Nの＋上で (ottaen huomioon, sen suhteen) 値段を決める**上で**、最も重要なのは製品のコストだ (similar/compare) vs. jonkin kannalta
+??
+N上 (jonkin kannalta) 諸外国との外交**上**、同じ暦を使用するほうが便利だった (similar/compare) vs. ottaen huomioon, sen suhteen
+
+V辞書形／Nの＋上で (ottaen huomioon, sen suhteen) 値段を決める**上で**、最も重要なのは製品のコストだ (compare) vs. sen jalkeen kun, harkiten
+??
+Vた上で (sen jalkeen kun, harkiten) よく考え**た上で**、決めてください (compare) vs. ottaen huomioon, sen suhteen

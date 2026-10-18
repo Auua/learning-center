@@ -68,6 +68,14 @@ Mikä on rakenteen tyypillinen muoto?
 
 #flashcards/grammar/n1/vertailu
 
-N＋くらいのものだ（ぐらいのものだ） (vain, ainoastaan) (similar) ::: Maara だけ・Nだけ (similar)
-N＋くらいのものだ（ぐらいのものだ） (vain, ainoastaan) (similar/compare) ::: ～をおいて～ない (ei muuta kuin, vain) (similar/compare)
-N＋くらいのものだ（ぐらいのものだ） (vain, ainoastaan) (compare) ::: 普通形くらい (siina maarin etta) (compare)
+N＋くらいのものだ（ぐらいのものだ） (vain, ainoastaan) こんなことができるのは、彼**くらいのものだ** (similar) vs. "vain" rajaus
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (similar) vs. vain, ainoastaan
+
+N＋くらいのものだ（ぐらいのものだ） (vain, ainoastaan) こんなことができるのは、彼**くらいのものだ** (similar/compare) vs. ei muuta kuin, vain
+??
+～をおいて～ない (ei muuta kuin, vain) このチームを率いるのは、彼**をおいてほかにいない** (similar/compare) vs. vain, ainoastaan
+
+N＋くらいのものだ（ぐらいのものだ） (vain, ainoastaan) こんなことができるのは、彼**くらいのものだ** (compare) vs. siina maarin etta
+??
+普通形くらい (siina maarin etta) アメリカには尺八を教える大学**もあるくらいだ** (compare) vs. vain, ainoastaan

@@ -70,4 +70,6 @@ Sama merkitys; にかわって on muodollisempi ja virallisempi.
 
 #flashcards/grammar/n3/vertailu
 
-N＋にかわって／にかわり (jonkun puolesta, sijaan) (compare) ::: ～代わりに (sen sijaan, vastineeksi) (compare)
+N＋にかわって／にかわり (jonkun puolesta, sijaan) 社長**にかわって**、私がご挨拶します (compare) vs. sen sijaan, vastineeksi
+??
+～代わりに (sen sijaan, vastineeksi) 父**の代わりに**、私が行きます (compare) vs. jonkun puolesta, sijaan

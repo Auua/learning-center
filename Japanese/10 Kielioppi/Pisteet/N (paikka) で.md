@@ -92,8 +92,22 @@ Sama partikkeli, eri rooli: liikeverbi + ajoneuvo → kulkuväline; muu toiminta
 
 #flashcards/grammar/n5/vertailu
 
-N（場所）で (N (paikka) で) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
-N（場所）で (N (paikka) で) (similar/compare) ::: N (syy) で (similar/compare)
-N（場所）で (N (paikka) で) (similar) ::: N (ryhmä, määrä, aika) で (similar)
-N（場所）で (N (paikka) で) (similar/compare) ::: Nにて (-ssa, -lla, muodollinen) (similar/compare)
-N（場所）で (N (paikka) で) (similar/compare) ::: N1（場所）でN2があります (tapahtuma järjestetään) (similar/compare)
+N（場所）で (N (paikka) で) 駅**で**新聞を買います (similar) vs. へ・で・と
+??
+Liikkumisen partikkelit (へ・で・と) 京都**へ**行きます (similar) vs. paikka
+
+N（場所）で (N (paikka) で) 駅**で**新聞を買います (similar/compare) vs. syy
+??
+N (syy) で 病気**で**休みました (similar/compare) vs. paikka
+
+N（場所）で (N (paikka) で) 駅**で**新聞を買います (similar) vs. ryhmä, määrä, aika
+??
+N (ryhmä, määrä, aika) で 一人**で**作りました (similar) vs. paikka
+
+N（場所）で (N (paikka) で) 駅**で**新聞を買います (similar/compare) vs. -ssa, -lla, muodollinen
+??
+Nにて (-ssa, -lla, muodollinen) 会場**にて**受付を行います (similar/compare) vs. paikka
+
+N（場所）で (N (paikka) で) 駅**で**新聞を買います (similar/compare) vs. tapahtuma järjestetään
+??
+N1（場所）でN2があります (tapahtuma järjestetään) あした、ホール**で**コンサート**があります** (similar/compare) vs. paikka

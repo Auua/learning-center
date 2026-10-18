@@ -70,6 +70,14 @@ Ensimmäinen = yleistys (lukeminen on tärkeää); toinen = varauksellinen myön
 
 #flashcards/grammar/n3/vertailu
 
-X（普通形）ことは X が／けど (kylla mutta) (similar) ::: ～ながらも (vaikka, kirjallinen myonnytys) (similar)
-X（普通形）ことは X が／けど (kylla mutta) (similar/compare) ::: ～こそ～が (kylla … mutta) (similar/compare)
-X（普通形）ことは X が／けど (kylla mutta) (compare) ::: ～ことは・が・を (yleistys ja arvottaminen) (compare)
+X（普通形）ことは X が／けど (kylla mutta) 行く**ことは**行く**が**、遅れるかもしれない (similar) vs. vaikka, kirjallinen myonnytys
+??
+～ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (similar) vs. kylla mutta
+
+X（普通形）ことは X が／けど (kylla mutta) 行く**ことは**行く**が**、遅れるかもしれない (similar/compare) vs. "kyllä… mutta" こそ-muodolla
+??
+～こそ～が (kylla … mutta) 時間**こそ**かかった**が**、いい作品ができた (similar/compare) vs. "kyllä… mutta" arkisempi
+
+X（普通形）ことは X が／けど (kylla mutta) 行く**ことは**行く**が**、遅れるかもしれない (compare) vs. yleistys ja arvottaminen
+??
+～ことは・が・を (yleistys ja arvottaminen) 若いときに留学する**ことは**いい経験になると思います (compare) vs. kylla mutta

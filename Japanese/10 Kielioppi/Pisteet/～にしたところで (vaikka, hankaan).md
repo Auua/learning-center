@@ -68,5 +68,10 @@ Lähes sama; にしたところで korostaa, ettei N:kään ole poikkeus.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋にしたところで／としたところで (vaikka, hankaan) (similar/compare) ::: ～にしても (vaikka olisikin) (similar/compare)
-N／普通形＋にしたところで／としたところで (vaikka, hankaan) (similar) ::: Vたところで (vaikka tekisikin) (similar)
+N／普通形＋にしたところで／としたところで (vaikka, hankaan) 先生**にしたところで**、全部は知らない (similar/compare) vs. vaikka olisikin
+??
+～にしても (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (similar/compare) vs. vaikka, hankaan
+
+N／普通形＋にしたところで／としたところで (vaikka, hankaan) 先生**にしたところで**、全部は知らない (similar) vs. vaikka tekisikin
+??
+Vたところで (vaikka tekisikin) いくら状況を説明した**ところで**、警察は信じないだろう (similar) vs. vaikka, hankaan

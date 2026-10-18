@@ -72,5 +72,10 @@ Sama merkitys; たって on puhekielinen.
 
 #flashcards/grammar/n3/vertailu
 
-V(た-muoto)／Adjくた＋って (vaikka, puhekielinen) (similar/compare) ::: Vても (vaikka) (similar/compare)
-V(た-muoto)／Adjくた＋って (vaikka, puhekielinen) (compare) ::: Nだって (vaikka, jopa) (compare)
+V(た-muoto)／Adjくた＋って (vaikka, puhekielinen) 今から走っ**たって**、間に合わないよ (similar/compare) vs. neutraali "vaikka"
+??
+Vても (vaikka) 雨が降っ**ても**、洗濯します (similar/compare) vs. puhekielinen "vaikka"
+
+V(た-muoto)／Adjくた＋って (vaikka, puhekielinen) 今から走っ**たって**、間に合わないよ (compare) vs. vaikka, jopa
+??
+Nだって (vaikka, jopa) ……あら、袋**だって**必要なのよ (compare) vs. vaikka, puhekielinen

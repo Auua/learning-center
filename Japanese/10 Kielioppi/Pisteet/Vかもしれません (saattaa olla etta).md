@@ -101,9 +101,26 @@ Missä järjestyksessä かもしれません, でしょう ja はずです ovat
 
 #flashcards/grammar/n4/vertailu
 
-普通形かもしれません (saattaa olla etta) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
-普通形かもしれません (saattaa olla etta) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
-普通形かもしれません (saattaa olla etta) (similar/compare) ::: 普通形可能性がある (on mahdollista etta) (similar/compare)
-普通形かもしれません (saattaa olla etta) (compare) ::: Vそうもない・そうにない (tuskin) (compare)
-普通形かもしれません (saattaa olla etta) (similar) ::: Vないとも限らない (saattaa hyvinkin) (similar)
-普通形かもしれません (saattaa olla etta) (similar/compare) ::: きっと・たぶん・もしかしたら (varmuusasteet) (similar/compare)
+普通形かもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (similar/compare) vs. todennakoisyys
+??
+普通形でしょう (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. saattaa olla etta
+
+普通形かもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (similar/compare) vs. varma odotus
+??
+普通形はずです (varma odotus) 書類は速達で出しましたから、あした**着くはずです** (similar/compare) vs. saattaa olla etta
+
+普通形かもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (similar/compare) vs. on mahdollista etta
+??
+普通形可能性がある (on mahdollista etta) 一度失敗すると、あとのつけは数百年に及ぶ**可能性がある** (similar/compare) vs. saattaa olla etta
+
+普通形かもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (compare) vs. tuskin
+??
+Vそうもない・そうにない (tuskin) 雨はやみ**そうもない** (compare) vs. saattaa olla etta
+
+普通形かもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (similar) vs. saattaa hyvinkin
+??
+Vないとも限らない (saattaa hyvinkin) 事故が起き**ないとも限らない** (similar) vs. saattaa olla etta
+
+普通形かもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (similar/compare) vs. varmuusasteet
+??
+きっと・たぶん・もしかしたら (varmuusasteet) ミラーさんは**きっと**来るでしょう (similar/compare) vs. saattaa olla etta

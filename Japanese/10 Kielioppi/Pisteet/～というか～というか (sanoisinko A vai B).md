@@ -68,5 +68,10 @@ Puhuja ei osaa päättää, kumpi sana kuvaa paremmin.
 
 #flashcards/grammar/n1/vertailu
 
-N／Adj＋というか＋〜というか (sanoisinko A vai B) (similar/compare) ::: ～というより (ennemminkin kuin) (similar/compare)
-N／Adj＋というか＋〜というか (sanoisinko A vai B) (similar/compare) ::: ～とも～とも (vaikea sanoa A vai B) (similar/compare)
+N／Adj＋というか＋〜というか (sanoisinko A vai B) 無邪気**というか**無責任**というか**、困った人だ (similar/compare) vs. ennemminkin kuin
+??
+～というより (ennemminkin kuin) 趣味**というより**仕事だ (similar/compare) vs. sanoisinko A vai B
+
+N／Adj＋というか＋〜というか (sanoisinko A vai B) 無邪気**というか**無責任**というか**、困った人だ (similar/compare) vs. vaikea sanoa A vai B
+??
+～とも～とも (vaikea sanoa A vai B) 笑い声**とも**泣き声**とも**つかない声 (similar/compare) vs. sanoisinko A vai B

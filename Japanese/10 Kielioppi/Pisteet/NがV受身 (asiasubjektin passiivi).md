@@ -91,7 +91,18 @@ Kun se on luova tai historiallinen tekijä: 紫式部によって書かれまし
 
 #flashcards/grammar/n4/vertailu
 
-N（物・事）が／はV受身形 (asiasubjektin passiivi) (similar/compare) ::: 〜によって (tekijan merkitseminen, luova teko) (similar/compare)
-N（物・事）が／はV受身形 (asiasubjektin passiivi) (similar/compare) ::: N1はN2にV受身 (suora passiivi) (similar/compare)
-N（物・事）が／はV受身形 (asiasubjektin passiivi) (similar) ::: Nから作られます (raaka-aine) (similar)
-N（物・事）が／はV受身形 (asiasubjektin passiivi) (similar) ::: N1はN2にN3をV受身 (omistajan passiivi) (similar)
+N（物・事）が／はV受身形 (asiasubjektin passiivi) フランスで古い日本の地図**が**発見されました (similar/compare) vs. tekijan merkitseminen, luova teko
+??
+〜によって (tekijan merkitseminen, luova teko) 飛行機は**ライト兄弟によって**発明されました (similar/compare) vs. asiasubjektin passiivi
+
+N（物・事）が／はV受身形 (asiasubjektin passiivi) フランスで古い日本の地図**が**発見されました (similar/compare) vs. suora passiivi
+??
+N1はN2にV受身 (suora passiivi) わたしは部長**に**ほめられました (similar/compare) vs. asiasubjektin passiivi
+
+N（物・事）が／はV受身形 (asiasubjektin passiivi) フランスで古い日本の地図**が**発見されました (similar) vs. raaka-aine
+??
+Nから作られます (raaka-aine) ビールは**麦から**造られます (similar) vs. asiasubjektin passiivi
+
+N（物・事）が／はV受身形 (asiasubjektin passiivi) フランスで古い日本の地図**が**発見されました (similar) vs. omistajan passiivi
+??
+N1はN2にN3をV受身 (omistajan passiivi) わたしは弟**に**パソコン**を**壊されました (similar) vs. asiasubjektin passiivi

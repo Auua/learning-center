@@ -69,4 +69,6 @@ Lähes aina ei-toivotuista tiloista tai määristä; positiivisessa mielessä ha
 
 #flashcards/grammar/n4/vertailu
 
-V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋すぎます (liikaa) (similar/compare) ::: ～にもほどがある (liian, kaikella on rajansa) (similar/compare)
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋すぎます (liikaa) ゆうべお酒を**飲みすぎました** (similar/compare) vs. liian, kaikella on rajansa
+??
+～にもほどがある (liian, kaikella on rajansa) 冗談**にもほどがある** (similar/compare) vs. liikaa

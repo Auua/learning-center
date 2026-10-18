@@ -68,5 +68,10 @@ Syitä on useita.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（N である／な-adj な）＋こともあって (osittain siksi etta) (similar) ::: S1から、S2 (syy) (similar)
-普通形（N である／な-adj な）＋こともあって (osittain siksi etta) (compare) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (compare)
+普通形（N である／な-adj な）＋こともあって (osittain siksi etta) 雨だった**こともあって**、客が少なかった (similar) vs. syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar) vs. osittain siksi etta
+
+普通形（N である／な-adj な）＋こともあって (osittain siksi etta) 雨だった**こともあって**、客が少なかった (compare) vs. syy, ei tarkoitus
+??
+～ため［に］・ためだ (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (compare) vs. osittain siksi etta

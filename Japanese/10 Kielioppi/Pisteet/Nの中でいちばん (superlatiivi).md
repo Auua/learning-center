@@ -88,5 +88,10 @@ Aina が.
 
 #flashcards/grammar/n5/vertailu
 
-N［の中］で［疑問詞］がいちばんadjですか (superlatiivi) (similar) ::: N1はN2より (vertailu) (similar)
-N［の中］で［疑問詞］がいちばんadjですか (superlatiivi) (similar/compare) ::: Nきっての (koko -n paras) (similar/compare)
+N［の中］で［疑問詞］がいちばんadjですか (superlatiivi) 日本料理の中で何がいちばんおいしいですか (similar) vs. vertailu
+??
+N1はN2より (vertailu) この車はあの車**より**大きいです (similar) vs. superlatiivi
+
+N［の中］で［疑問詞］がいちばんadjですか (superlatiivi) 日本料理の中で何がいちばんおいしいですか (similar/compare) vs. koko -n paras
+??
+Nきっての (koko -n paras) 彼は社内**きっての**秀才だ (similar/compare) vs. superlatiivi

@@ -71,5 +71,10 @@ Olen syvästi kiitollinen.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／N＋に耐える／に耐えない (kestaa, ei kesta) (similar) ::: ～に値する (ansaitsee, on arvoinen) (similar)
-V辞書形／N＋に耐える／に耐えない (kestaa, ei kesta) (compare) ::: ～に忍びない (ei raaski) (compare)
+V辞書形／N＋に耐える／に耐えない (kestaa, ei kesta) 鑑賞**に耐える**作品 (similar) vs. ansaitsee, on arvoinen
+??
+～に値する (ansaitsee, on arvoinen) 彼の努力は賞賛**に値する** (similar) vs. kestaa, ei kesta
+
+V辞書形／N＋に耐える／に耐えない (kestaa, ei kesta) 鑑賞**に耐える**作品 (compare) vs. ei raaski
+??
+～に忍びない (ei raaski) 捨てる**に忍びない** (compare) vs. kestaa, ei kesta

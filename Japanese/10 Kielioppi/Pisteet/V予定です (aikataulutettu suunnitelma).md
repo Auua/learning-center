@@ -82,6 +82,14 @@ Miten 予定です eroaa rakenteesta つもりです?
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形)予定です (aikataulutettu suunnitelma) (similar) ::: Vようと思っています (harkittu aikomus) (similar)
-V(辞書形)予定です (aikataulutettu suunnitelma) (similar) ::: Vつもりです (paatetty aikomus) (similar)
-V(辞書形)予定です (aikataulutettu suunnitelma) (compare) ::: Vertailu — ようと思う vs. つもり vs. 予定 (compare)
+V(辞書形)予定です (aikataulutettu suunnitelma) 来週の金曜日に**帰る予定です** (similar) vs. harkittu aikomus
+??
+Vようと思っています (harkittu aikomus) 将来自分の会社を**作ろうと思っています** (similar) vs. aikataulutettu suunnitelma
+
+V(辞書形)予定です (aikataulutettu suunnitelma) 来週の金曜日に**帰る予定です** (similar) vs. paatetty aikomus
+??
+Vつもりです (paatetty aikomus) 来月車を**買うつもりです** (similar) vs. aikataulutettu suunnitelma
+
+V(辞書形)予定です (aikataulutettu suunnitelma) 来週の金曜日に**帰る予定です** (compare) vs. vertailu: ようと思う vs. つもり vs. 予定
+??
+Vertailu — ようと思う vs. つもり vs. 予定 来年留学**しようと思っています** (compare) vs. aikataulutettu suunnitelma

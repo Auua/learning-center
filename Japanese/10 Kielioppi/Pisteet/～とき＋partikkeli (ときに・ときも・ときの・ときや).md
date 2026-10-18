@@ -91,5 +91,10 @@ Se on substantiivi (時 = aika).
 
 #flashcards/grammar/n4/vertailu
 
-～とき＋に／も／は／の／や (ときに・ときも・ときの・ときや) (similar/compare) ::: V・adjとき (silloin kun) (similar/compare)
-～とき＋に／も／は／の／や (ときに・ときも・ときの・ときや) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
+～とき＋に／も／は／の／や (ときに・ときも・ときの・ときや) 疲れた**ときも**、休まないで働きました (similar/compare) vs. silloin kun
+??
+V・adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar/compare) vs. ときに・ときも・ときの・ときや
+
+～とき＋に／も／は／の／や (ときに・ときも・ときの・ときや) 疲れた**ときも**、休まないで働きました (similar) vs. nominalisointi
+??
+Vのは・Vのが・Vのを (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. ときに・ときも・ときの・ときや

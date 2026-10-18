@@ -69,7 +69,18 @@ Sama; のみならず kirjallinen.
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋のみならず (ei vain, vaan myos) (similar/compare) ::: ～だけでなく (ei pelkastaan vaan myos) (similar/compare)
-N／普通形＋のみならず (ei vain, vaan myos) (similar) ::: ～ばかりでなく (ei ainoastaan, vaan myos) (similar)
-N／普通形＋のみならず (ei vain, vaan myos) (similar) ::: ～にとどまらず (ei rajoitu vain) (similar)
-N／普通形＋のみならず (ei vain, vaan myos) (compare) ::: ～のみ (vain, kirjallinen) (compare)
+N／普通形＋のみならず (ei vain, vaan myos) 日本**のみならず**、世界中で人気がある (similar/compare) vs. ei pelkastaan vaan myos
+??
+～だけでなく (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (similar/compare) vs. ei vain, vaan myos
+
+N／普通形＋のみならず (ei vain, vaan myos) 日本**のみならず**、世界中で人気がある (similar) vs. ei ainoastaan, vaan myos
+??
+～ばかりでなく (ei ainoastaan, vaan myos) ここは温泉**ばかりでなく**、釣りや山登りも楽しめます (similar) vs. ei vain, vaan myos
+
+N／普通形＋のみならず (ei vain, vaan myos) 日本**のみならず**、世界中で人気がある (similar) vs. ei rajoitu vain
+??
+～にとどまらず (ei rajoitu vain) 被害は東京**にとどまらず**、全国に広がった (similar) vs. ei vain, vaan myos
+
+N／普通形＋のみならず (ei vain, vaan myos) 日本**のみならず**、世界中で人気がある (compare) vs. vain, kirjallinen
+??
+～のみ (vain, kirjallinen) 会員**のみ**入場できます (compare) vs. ei vain, vaan myos

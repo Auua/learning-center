@@ -82,7 +82,18 @@ Peruskysymys (yksi väite + か) odottaa はい/いいえ-vastausta; S1か、S2�
 
 #flashcards/grammar/n5/vertailu
 
-S1か、S2か (kumpi, A vai B) (similar) ::: AはBです (A on B, peruslause) (similar)
-S1か、S2か (kumpi, A vai B) (similar/compare) ::: AそれともB (vai) (similar/compare)
-S1か、S2か (kumpi, A vai B) (similar/compare) ::: Sか (kysymyspartikkeli) (similar/compare)
-S1か、S2か (kumpi, A vai B) (similar) ::: どれ (mikä niistä) (similar)
+S1か、S2か (kumpi, A vai B) これは「9」ですか、「7」ですか (similar) vs. A on B, peruslause
+??
+AはBです (A on B, peruslause) わたし**は**学生**です** (similar) vs. kumpi, A vai B
+
+S1か、S2か (kumpi, A vai B) これは「9」ですか、「7」ですか (similar/compare) vs. "vai" sanalla erotettuna
+??
+AそれともB (vai) 電車で行く？**それとも**バス？ (similar/compare) vs. kumpi kahdesta: kaksi kysymystä peräkkäin
+
+S1か、S2か (kumpi, A vai B) これは「9」ですか、「7」ですか (similar/compare) vs. kysymyspartikkeli
+??
+Sか (kysymyspartikkeli) ミラーさんは会社員**ですか** (similar/compare) vs. kumpi, A vai B
+
+S1か、S2か (kumpi, A vai B) これは「9」ですか、「7」ですか (similar) vs. mikä niistä
+??
+どれ (mikä niistä) ミラーさんのかさは**どれ**ですか (similar) vs. kumpi, A vai B

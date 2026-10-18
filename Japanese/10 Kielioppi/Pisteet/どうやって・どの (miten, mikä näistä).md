@@ -73,6 +73,14 @@ Samaan こそあど-sarjaan kuin これ/この, それ/その, あれ/あの, �
 
 #flashcards/grammar/n5/vertailu
 
-どうやって／どのN (miten, mikä näistä) (similar) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar)
-どうやって／どのN (miten, mikä näistä) (similar) ::: Vます-vartalo＋方 (tapa tehda) (similar)
-どうやって／どのN (miten, mikä näistä) (similar/compare) ::: どれ (mikä niistä) (similar/compare)
+どうやって／どのN (miten, mikä näistä) 大学まで**どうやって**行きますか (similar) vs. tämä, tuo, tuo tuolla
+??
+これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) これは辞書です (similar) vs. miten, mikä näistä
+
+どうやって／どのN (miten, mikä näistä) 大学まで**どうやって**行きますか (similar) vs. tapa tehda
+??
+Vます-vartalo＋方 (tapa tehda) 漢字の読み**方**を教えてください (similar) vs. miten, mikä näistä
+
+どうやって／どのN (miten, mikä näistä) 大学まで**どうやって**行きますか (similar/compare) vs. mikä niistä
+??
+どれ (mikä niistä) ミラーさんのかさは**どれ**ですか (similar/compare) vs. miten, mikä näistä

@@ -71,5 +71,10 @@ Ei yllä edes lähelle.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／N＋には及ばない (ei tarvitse, ei veda vertoja) (similar/compare) ::: ～には当たらない (ei ole syyta) (similar/compare)
-V辞書形／N＋には及ばない (ei tarvitse, ei veda vertoja) (similar) ::: Vことはない (ei tarvitse) (similar)
+V辞書形／N＋には及ばない (ei tarvitse, ei veda vertoja) わざわざ来る**には及ばない** (similar/compare) vs. ei ole syyta
+??
+～には当たらない (ei ole syyta) 驚く**には当たらない** (similar/compare) vs. ei tarvitse, ei veda vertoja
+
+V辞書形／N＋には及ばない (ei tarvitse, ei veda vertoja) わざわざ来る**には及ばない** (similar) vs. "ei tarvitse"
+??
+Vことはない (ei tarvitse) 心配する**ことはない**よ (similar) vs. kohtelias "ei ole tarpeen, ei vedä vertoja"

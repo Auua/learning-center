@@ -79,4 +79,6 @@ Potentiaali える ilmaisee henkilökohtaista kykyä (泳げる, osaan uida); �
 
 #flashcards/grammar/n1/vertailu
 
-V(ます-vartalo)＋うる・える／えない (voi olla mahdollista, kirjallinen) (similar/compare) ::: Potentiaali える (similar/compare)
+V(ます-vartalo)＋うる・える／えない (voi olla mahdollista, kirjallinen) 就職に関する問題は彼女一人でも解決し**うる**ことだ (similar/compare) vs. tavallinen potentiaali
+??
+Potentiaali える **が**: 日本語**を**話す (similar/compare) vs. voi olla mahdollista, kirjallinen

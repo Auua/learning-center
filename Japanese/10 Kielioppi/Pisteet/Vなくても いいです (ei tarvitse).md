@@ -90,10 +90,30 @@ Vなくてもいいです = ei ole pakko, ei kiellettyä eikä pakollista; Vて�
 
 #flashcards/grammar/n5/vertailu
 
-Vなくてもいいです (ei tarvitse) (similar) ::: Vなければ なりません (velvollisuus) (similar)
-Vなくてもいいです (ei tarvitse) (similar) ::: Vても いいです・Vては いけません (lupa ja kielto) (similar)
-Vなくてもいいです (ei tarvitse) (similar/compare) ::: ～なくてもかまいません (ei tarvitse, ei haittaa) (similar/compare)
-Vなくてもいいです (ei tarvitse) (compare) ::: Vことはない (ei tarvitse) (compare)
-Vなくてもいいです (ei tarvitse) (similar/compare) ::: Vて済む・ないで済む (selvita pelkalla) (similar/compare)
-Vなくてもいいです (ei tarvitse) (compare) ::: Vる必要がある (on tarpeen tehda) (compare)
-Vなくてもいいです (ei tarvitse) (similar/compare) ::: Vずとも (vaikka ei, ilmankin) (similar/compare)
+Vなくてもいいです (ei tarvitse) あした来**なくてもいいです** (similar) vs. velvollisuus
+??
+Vなければ なりません (velvollisuus) 薬を飲ま**なければなりません** (similar) vs. ei tarvitse
+
+Vなくてもいいです (ei tarvitse) あした来**なくてもいいです** (similar) vs. lupa ja kielto
+??
+Vても いいです・Vては いけません (lupa ja kielto) 写真を撮っ**てもいいです** (similar) vs. ei tarvitse
+
+Vなくてもいいです (ei tarvitse) あした来**なくてもいいです** (similar/compare) vs. "ei tarvitse, ei haittaa"
+??
+～なくてもかまいません (ei tarvitse, ei haittaa) **食べなくてもかまいません** (similar/compare) vs. "ei tarvitse"
+
+Vなくてもいいです (ei tarvitse) あした来**なくてもいいです** (compare) vs. "ei tarvitse" (neuvo)
+??
+Vことはない (ei tarvitse) 心配する**ことはない**よ (compare) vs. perus "ei tarvitse"
+
+Vなくてもいいです (ei tarvitse) あした来**なくてもいいです** (similar/compare) vs. selvita pelkalla
+??
+Vて済む・ないで済む (selvita pelkalla) 電話で話し**て済む**なら、行かなくていい (similar/compare) vs. ei tarvitse
+
+Vなくてもいいです (ei tarvitse) あした来**なくてもいいです** (compare) vs. on tarpeen tehda
+??
+Vる必要がある (on tarpeen tehda) 予約する**必要があります** (compare) vs. perus "ei tarvitse"
+
+Vなくてもいいです (ei tarvitse) あした来**なくてもいいです** (similar/compare) vs. vaikka ei, ilmankin
+??
+Vずとも (vaikka ei, ilmankin) 言わ**ずとも**わかる (similar/compare) vs. ei tarvitse

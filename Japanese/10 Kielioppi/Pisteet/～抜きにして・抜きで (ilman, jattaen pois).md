@@ -72,5 +72,10 @@ Vitsit sikseen, vakavasti puhuen.
 
 #flashcards/grammar/n2/vertailu
 
-N＋抜きで／抜きに／を抜きにして（は） (ilman, jattaen pois) (similar) ::: ～なしに (ilman) (similar)
-N＋抜きで／抜きに／を抜きにして（は） (ilman, jattaen pois) (compare) ::: ～は別として (lukuun ottamatta) (compare)
+N＋抜きで／抜きに／を抜きにして（は） (ilman, jattaen pois) 朝ご飯**抜きで**会社に行った (similar) vs. "ilman"
+??
+～なしに (ilman) 断り**なしに**、人の物を使うな (similar) vs. "ilman, jättäen pois"
+
+N＋抜きで／抜きに／を抜きにして（は） (ilman, jattaen pois) 朝ご飯**抜きで**会社に行った (compare) vs. lukuun ottamatta
+??
+～は別として (lukuun ottamatta) 冗談**は別として**、本当にどうする？ (compare) vs. ilman, jattaen pois

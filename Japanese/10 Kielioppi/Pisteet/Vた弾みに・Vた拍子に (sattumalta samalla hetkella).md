@@ -70,4 +70,6 @@ Jostain syystä, sattumalta.
 
 #flashcards/grammar/n1/vertailu
 
-V(た-muoto)＋弾みに／拍子に (sattumalta samalla hetkella) (similar/compare) ::: Vたとたん（に） (juuri sina hetkena) (similar/compare)
+V(た-muoto)＋弾みに／拍子に (sattumalta samalla hetkella) 転んだ**拍子に**、眼鏡が落ちた (similar/compare) vs. juuri sina hetkena
+??
+Vたとたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (similar/compare) vs. sattumalta samalla hetkella

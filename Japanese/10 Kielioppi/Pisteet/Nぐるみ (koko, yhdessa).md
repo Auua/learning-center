@@ -68,4 +68,6 @@ Koko yhtiön yhteinen vilppi.
 
 #flashcards/grammar/n1/vertailu
 
-N＋ぐるみ (koko, yhdessa) (compare) ::: N中（ちゅう・じゅう） (aikana, koko) (compare)
+N＋ぐるみ (koko, yhdessa) 家族**ぐるみ**で付き合う (compare) vs. aikana, koko
+??
+N中（ちゅう・じゅう） (aikana, koko) ただいま会議**中**です (compare) vs. koko, yhdessa

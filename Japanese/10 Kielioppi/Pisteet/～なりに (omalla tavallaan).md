@@ -71,4 +71,6 @@ Omalla tavallaan, kohtuullisesti.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋なりに／なりの (omalla tavallaan) (compare) ::: ～として (roolissa, ominaisuudessa) (compare)
+N／普通形＋なりに／なりの (omalla tavallaan) 子ども**なりに**考えている (compare) vs. roolissa, ominaisuudessa
+??
+～として (roolissa, ominaisuudessa) アニメや漫画は**日本の文化として**世界に認められている (compare) vs. omalla tavallaan

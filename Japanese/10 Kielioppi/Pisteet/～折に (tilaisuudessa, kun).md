@@ -69,5 +69,10 @@ Ei — se on kohtelias, myönteinen tilaisuus.
 
 #flashcards/grammar/n1/vertailu
 
-V普通形／Nの＋折（に） (tilaisuudessa, kun) (similar/compare) ::: ～際［に］ (silloin kun, muodollinen) (similar/compare)
-V普通形／Nの＋折（に） (tilaisuudessa, kun) (similar) ::: V・adjとき (silloin kun) (similar)
+V普通形／Nの＋折（に） (tilaisuudessa, kun) 今度お会いした**折に**、お話しします (similar/compare) vs. silloin kun, muodollinen
+??
+～際［に］ (silloin kun, muodollinen) 外出**の際**、必ずフロントに鍵をお預けください (similar/compare) vs. tilaisuudessa, kun
+
+V普通形／Nの＋折（に） (tilaisuudessa, kun) 今度お会いした**折に**、お話しします (similar) vs. silloin kun
+??
+V・adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar) vs. tilaisuudessa, kun

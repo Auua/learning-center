@@ -69,5 +69,10 @@ Kriittinen mutta hillitty.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／Nの＋嫌いがある (～嫌いがある (on (ikava) taipumus)) (similar/compare) ::: ～がち (taipumus, helposti) (similar/compare)
-V辞書形／Nの＋嫌いがある (～嫌いがある (on (ikava) taipumus)) (similar) ::: ともすれば～がちだ (helposti, taipuu) (similar)
+V辞書形／Nの＋嫌いがある (～嫌いがある (on (ikava) taipumus)) 彼は物事を大げさに言う**嫌いがある** (similar/compare) vs. taipumus, helposti
+??
+～がち (taipumus, helposti) 冬は風邪をひき**がち**だ (similar/compare) vs. ikava
+
+V辞書形／Nの＋嫌いがある (～嫌いがある (on (ikava) taipumus)) 彼は物事を大げさに言う**嫌いがある** (similar) vs. helposti, taipuu
+??
+ともすれば～がちだ (helposti, taipuu) **ともすれば**怠け**がちだ** (similar) vs. ikava

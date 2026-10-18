@@ -70,6 +70,14 @@ Järjestä muodollisuuden mukaan: しかし, だけど, でも
 
 #flashcards/grammar/n3/vertailu
 
-だけど／だけれど（も） (mutta, lauseen alussa) (similar) ::: S1けど、S2 (mutta, puhekielinen) (similar)
-だけど／だけれど（も） (mutta, lauseen alussa) (compare) ::: S1が、S2 (mutta) (compare)
-だけど／だけれど（も） (mutta, lauseen alussa) (compare) ::: ところが (mutta yllattaen) (compare)
+だけど／だけれど（も） (mutta, lauseen alussa) **だけど**、だめだった (similar) vs. mutta, puhekielinen
+??
+S1けど、S2 (mutta, puhekielinen) この店は安い**けど**、おいしくない (similar) vs. mutta, lauseen alussa
+
+だけど／だけれど（も） (mutta, lauseen alussa) **だけど**、だめだった (compare) vs. "mutta" lauseiden välissä
+??
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (compare) vs. "mutta" lauseen alussa
+
+だけど／だけれど（も） (mutta, lauseen alussa) **だけど**、だめだった (compare) vs. mutta yllattaen
+??
+ところが (mutta yllattaen) **ところが**、とても難しかった (compare) vs. mutta, lauseen alussa

@@ -75,7 +75,18 @@ Tyypillisyys-らしい liittyy suoraan substantiiviin (学生らしい服); kuul
 
 #flashcards/grammar/n3/vertailu
 
-Nらしい〜・Nらしくない (tyypillisyys) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)
-Nらしい〜・Nらしくない (tyypillisyys) (compare) ::: ～っぽい (-mainen, taipuvainen) (compare)
-Nらしい〜・Nらしくない (tyypillisyys) (compare) ::: N的 (-llinen, -mainen) (compare)
-Nらしい〜・Nらしくない (tyypillisyys) (compare) ::: Nならでは (vain jollekin ominainen) (compare)
+Nらしい〜・Nらしくない (tyypillisyys) 佐野さんの家はいかにも伝統的な日本の**家らしい家**です (similar/compare) vs. kuulopuhe, paattely
+??
+普通形らしい (kuulopuhe, paattely) 高橋さんに聞いたんだけど、**婚約したらしい**よ (similar/compare) vs. tyypillisyys
+
+Nらしい〜・Nらしくない (tyypillisyys) 佐野さんの家はいかにも伝統的な日本の**家らしい家**です (compare) vs. -mainen, taipuvainen
+??
+～っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. tyypillisyys
+
+Nらしい〜・Nらしくない (tyypillisyys) 佐野さんの家はいかにも伝統的な日本の**家らしい家**です (compare) vs. -llinen, -mainen
+??
+N的 (-llinen, -mainen) 経済**的な**問題 (compare) vs. tyypillisyys
+
+Nらしい〜・Nらしくない (tyypillisyys) 佐野さんの家はいかにも伝統的な日本の**家らしい家**です (compare) vs. vain jollekin ominainen
+??
+Nならでは (vain jollekin ominainen) 京都**ならではの**景色 (compare) vs. tyypillisyys

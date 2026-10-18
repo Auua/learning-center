@@ -71,6 +71,14 @@ Yllätystä tai epäilyä: "niinkö? oikeasti?"
 
 #flashcards/grammar/n5/vertailu
 
-そうですか（↘） (ahaa, uuden tiedon kuittaus) (similar/compare) ::: そうです (niin on) (similar/compare)
-そうですか（↘） (ahaa, uuden tiedon kuittaus) (similar) ::: Sか (kysymyspartikkeli) (similar)
-そうですか（↘） (ahaa, uuden tiedon kuittaus) (similar/compare) ::: そうですね (myötäily, samaa mieltä) (similar/compare)
+そうですか（↘） (ahaa, uuden tiedon kuittaus) A：日本人です。B：**そうですか** (similar/compare) vs. niin on
+??
+そうです (niin on) これはテレホンカードですか (similar/compare) vs. ahaa, uuden tiedon kuittaus
+
+そうですか（↘） (ahaa, uuden tiedon kuittaus) A：日本人です。B：**そうですか** (similar) vs. kysymyspartikkeli
+??
+Sか (kysymyspartikkeli) ミラーさんは会社員**ですか** (similar) vs. ahaa, uuden tiedon kuittaus
+
+そうですか（↘） (ahaa, uuden tiedon kuittaus) A：日本人です。B：**そうですか** (similar/compare) vs. myötäily, samaa mieltä
+??
+そうですね (myötäily, samaa mieltä) A：暑いですね。B：**そうですね** (similar/compare) vs. ahaa, uuden tiedon kuittaus

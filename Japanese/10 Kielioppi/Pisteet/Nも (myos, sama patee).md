@@ -82,9 +82,26 @@ Mitä eroa on 本も読みました ja 3時間も読みました?
 
 #flashcards/grammar/n5/vertailu
 
-Nも (myos, sama patee) (similar/compare) ::: AはBです (A on B, peruslause) (similar/compare)
-Nも (myos, sama patee) (similar) ::: ～だけでなく (ei pelkastaan vaan myos) (similar)
-Nも (myos, sama patee) (similar) ::: ～も～ば～も (seka etta) (similar)
-Nも (myos, sama patee) (similar/compare) ::: Maara＋も (jopa, perati) (similar/compare)
-Nも (myos, sama patee) (similar) ::: 疑問詞＋も＋ない (ei mitaan, ei kukaan) (similar)
-Nも (myos, sama patee) (similar/compare) ::: N＋partikkeli＋も (にも・でも・へも) (similar/compare)
+Nも (myos, sama patee) 私**も**学生です (similar/compare) vs. A on B, peruslause
+??
+AはBです (A on B, peruslause) わたし**は**学生**です** (similar/compare) vs. myos, sama patee
+
+Nも (myos, sama patee) 私**も**学生です (similar) vs. ei pelkastaan vaan myos
+??
+～だけでなく (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (similar) vs. myos, sama patee
+
+Nも (myos, sama patee) 私**も**学生です (similar) vs. seka etta
+??
+～も～ば～も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar) vs. myos, sama patee
+
+Nも (myos, sama patee) 私**も**学生です (similar/compare) vs. jopa, perati
+??
+Maara＋も (jopa, perati) 2時間**も**待ちました (similar/compare) vs. myos, sama patee
+
+Nも (myos, sama patee) 私**も**学生です (similar) vs. ei mitaan, ei kukaan
+??
+疑問詞＋も＋ない (ei mitaan, ei kukaan) 朝から**何も**食べていません (similar) vs. myos, sama patee
+
+Nも (myos, sama patee) 私**も**学生です (similar/compare) vs. にも・でも・へも
+??
+N＋partikkeli＋も (にも・でも・へも) 肉も魚**も**食べます (similar/compare) vs. myos, sama patee

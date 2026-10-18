@@ -69,6 +69,14 @@ Mikä ero on 言わなかった ja 言いそびれた välillä?
 
 #flashcards/grammar/n1/vertailu
 
-V(ます-vartalo)＋そびれる (jaada tekematta, menettaa tilaisuus) (similar/compare) ::: Vます-vartalo＋かける・かけ (keskeneraista) (similar/compare)
-V(ます-vartalo)＋そびれる (jaada tekematta, menettaa tilaisuus) (similar/compare) ::: Vます-vartalo＋損なう (epaonnistua, jaada tekematta) (similar/compare)
-V(ます-vartalo)＋そびれる (jaada tekematta, menettaa tilaisuus) (similar/compare) ::: Vずじまい (jai lopulta tekematta) (similar/compare)
+V(ます-vartalo)＋そびれる (jaada tekematta, menettaa tilaisuus) 言い**そびれた** (similar/compare) vs. keskeneraista
+??
+Vます-vartalo＋かける・かけ (keskeneraista) 手紙を書き**かけて**、やめた (similar/compare) vs. jaada tekematta, menettaa tilaisuus
+
+V(ます-vartalo)＋そびれる (jaada tekematta, menettaa tilaisuus) 言い**そびれた** (similar/compare) vs. epaonnistua, jaada tekematta
+??
+Vます-vartalo＋損なう (epaonnistua, jaada tekematta) 電車に乗り**損なった** (similar/compare) vs. jaada tekematta, menettaa tilaisuus
+
+V(ます-vartalo)＋そびれる (jaada tekematta, menettaa tilaisuus) 言い**そびれた** (similar/compare) vs. jai lopulta tekematta
+??
+Vずじまい (jai lopulta tekematta) 結局、彼女に会わ**ずじまい**だった (similar/compare) vs. jaada tekematta, menettaa tilaisuus

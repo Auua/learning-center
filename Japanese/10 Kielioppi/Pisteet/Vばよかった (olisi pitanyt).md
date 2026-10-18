@@ -71,5 +71,10 @@ Ei — puhuja ei mennyt ja katuu.
 
 #flashcards/grammar/n3/vertailu
 
-V(ば-muoto)＋よかった (olisi pitanyt) (similar) ::: ～ば～のに (kunpa, harmittelu) (similar)
-V(ば-muoto)＋よかった (olisi pitanyt) (compare) ::: Vてよかった (onneksi, olen iloinen etta) (compare)
+V(ば-muoto)＋よかった (olisi pitanyt) もっと勉強すれ**ばよかった** (similar) vs. kunpa, harmittelu
+??
+～ば～のに (kunpa, harmittelu) お金があれ**ば**、買える**のに** (similar) vs. olisi pitanyt
+
+V(ば-muoto)＋よかった (olisi pitanyt) もっと勉強すれ**ばよかった** (compare) vs. onneksi, olen iloinen etta
+??
+Vてよかった (onneksi, olen iloinen etta) 日本に来**てよかった** (compare) vs. olisi pitanyt

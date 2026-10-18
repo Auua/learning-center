@@ -75,6 +75,14 @@ Miten erotat neljä ほど-rakennetta toisistaan?
 
 #flashcards/grammar/n3/vertailu
 
-普通形／N＋ほど（＋myönteinen predikaatti） (aste, "niin paljon etta") (similar/compare) ::: ～ほど～ない・ほどではない (vertailu, ei niin) (similar/compare)
-普通形／N＋ほど（＋myönteinen predikaatti） (aste, "niin paljon etta") (similar) ::: ～ほど～はない・いない (superlatiivi) (similar)
-普通形／N＋ほど（＋myönteinen predikaatti） (aste, "niin paljon etta") (similar) ::: Vば〜ほど (mita enemman, sita) (similar)
+普通形／N＋ほど（＋myönteinen predikaatti） (aste, "niin paljon etta") のみこむのに苦労した日本語は、佃煮にする**ほど**あった (similar/compare) vs. vertailu, ei niin
+??
+～ほど～ない・ほどではない (vertailu, ei niin) 平日は**休日ほど**込んでいません (similar/compare) vs. aste, "niin paljon etta"
+
+普通形／N＋ほど（＋myönteinen predikaatti） (aste, "niin paljon etta") のみこむのに苦労した日本語は、佃煮にする**ほど**あった (similar) vs. superlatiivi
+??
+～ほど～はない・いない (superlatiivi) **富士山ほど**美しい山はありません (similar) vs. aste, "niin paljon etta"
+
+普通形／N＋ほど（＋myönteinen predikaatti） (aste, "niin paljon etta") のみこむのに苦労した日本語は、佃煮にする**ほど**あった (similar) vs. mita enemman, sita
+??
+Vば〜ほど (mita enemman, sita) 野菜は**新しければ新しいほど**おいしいです (similar) vs. aste, "niin paljon etta"

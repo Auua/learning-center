@@ -71,5 +71,10 @@ Mitä eroa on Vた上で ja V辞書形上で?
 
 #flashcards/grammar/n3/vertailu
 
-V(た-muoto)／Nの＋上で (sen jalkeen kun, harkiten) (similar/compare) ::: Vてから、V2 (jälkeen) (similar/compare)
-V(た-muoto)／Nの＋上で (sen jalkeen kun, harkiten) (compare) ::: Vる上で (ottaen huomioon, sen suhteen) (compare)
+V(た-muoto)／Nの＋上で (sen jalkeen kun, harkiten) よく考え**た上で**、決めてください (similar/compare) vs. jälkeen
+??
+Vてから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar/compare) vs. sen jalkeen kun, harkiten
+
+V(た-muoto)／Nの＋上で (sen jalkeen kun, harkiten) よく考え**た上で**、決めてください (compare) vs. ottaen huomioon, sen suhteen
+??
+Vる上で (ottaen huomioon, sen suhteen) 値段を決める**上で**、最も重要なのは製品のコストだ (compare) vs. sen jalkeen kun, harkiten

@@ -93,6 +93,14 @@ Perusmuoto = yritän itse herätä; potentiaali = järjestän niin, että pystyn
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形／可能形／ない形)＋ようにする (huolehtia etta) (similar/compare) ::: Vようにしています (tavakseen pyrkiminen) (similar/compare)
-V(辞書形／可能形／ない形)＋ようにする (huolehtia etta) (similar) ::: Vように (jotta, niin etta) (similar)
-V(辞書形／可能形／ない形)＋ようにする (huolehtia etta) (compare) ::: Vようになります (kyvyn tai tilan muutos) (compare)
+V(辞書形／可能形／ない形)＋ようにする (huolehtia etta) 明日からもっと早く起きる**ようにします** (similar/compare) vs. tavakseen pyrkiminen
+??
+Vようにしています (tavakseen pyrkiminen) 毎日**日記を書くようにしています** (similar/compare) vs. huolehtia etta
+
+V(辞書形／可能形／ない形)＋ようにする (huolehtia etta) 明日からもっと早く起きる**ようにします** (similar) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar) vs. huolehtia etta
+
+V(辞書形／可能形／ない形)＋ようにする (huolehtia etta) 明日からもっと早く起きる**ようにします** (compare) vs. kyvyn tai tilan muutos
+??
+Vようになります (kyvyn tai tilan muutos) やっと自転車に**乗れるようになりました** (compare) vs. huolehtia etta

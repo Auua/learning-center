@@ -76,6 +76,14 @@ Mainitse kango-sana, joka saa お:n.
 
 #flashcards/grammar/n4/vertailu
 
-ご＋漢語（名詞・な-adj） (kunnioittava etuliite, kango) (similar/compare) ::: お～ (kunnioittava etuliite) (similar/compare)
-ご＋漢語（名詞・な-adj） (kunnioittava etuliite, kango) (similar/compare) ::: ご注文は (mitä saisi olla) (similar/compare)
-ご＋漢語（名詞・な-adj） (kunnioittava etuliite, kango) (similar) ::: お～ください (kunnioittava pyynto) (similar)
+ご＋漢語（名詞・な-adj） (kunnioittava etuliite, kango) **ご家族**はお元気ですか (similar/compare) vs. kunnioittava etuliite (wago)
+??
+お～ (kunnioittava etuliite) **お**名前は何ですか (similar/compare) vs. sino-japanilaisten sanojen etuliite
+
+ご＋漢語（名詞・な-adj） (kunnioittava etuliite, kango) **ご家族**はお元気ですか (similar/compare) vs. mitä saisi olla
+??
+ご注文は (mitä saisi olla) **ご注文は**？…牛どんをお願いします (similar/compare) vs. kunnioittava etuliite, kango
+
+ご＋漢語（名詞・な-adj） (kunnioittava etuliite, kango) **ご家族**はお元気ですか (similar) vs. kunnioittava pyynto
+??
+お～ください (kunnioittava pyynto) 少々**お待ちください** (similar) vs. kunnioittava etuliite, kango

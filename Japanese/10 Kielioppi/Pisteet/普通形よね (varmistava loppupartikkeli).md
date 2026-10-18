@@ -63,5 +63,10 @@ Miten よね eroaa pelkästä よ:sta?
 
 #flashcards/grammar/n4/vertailu
 
-普通形＋よね (varmistava loppupartikkeli) (similar) ::: Sよ (uuden tiedon korostus) (similar)
-普通形＋よね (varmistava loppupartikkeli) (similar) ::: Sね (vahvistus, eikö niin) (similar)
+普通形＋よね (varmistava loppupartikkeli) 「辛党」は「甘党」の反対だと思ってた**のよね** (similar) vs. uuden tiedon korostus
+??
+Sよ (uuden tiedon korostus) 350円です**よ** (similar) vs. varmistava loppupartikkeli
+
+普通形＋よね (varmistava loppupartikkeli) 「辛党」は「甘党」の反対だと思ってた**のよね** (similar) vs. vahvistus, eikö niin
+??
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar) vs. varmistava loppupartikkeli

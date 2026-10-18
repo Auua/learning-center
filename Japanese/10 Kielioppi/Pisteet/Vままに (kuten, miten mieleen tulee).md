@@ -70,4 +70,6 @@ Ensimmäinen = tila jatkuu; jälkimmäinen = toiminnan tapa.
 
 #flashcards/grammar/n2/vertailu
 
-V普通形／Nの＋ままに (kuten, miten mieleen tulee) (similar/compare) ::: ～まま・～のまま (muuttumaton tila) (similar/compare)
+V普通形／Nの＋ままに (kuten, miten mieleen tulee) 言われる**ままに**、書類にサインした (similar/compare) vs. muuttumaton tila
+??
+～まま・～のまま (muuttumaton tila) **靴をはいたまま**、部屋に入らないでください (similar/compare) vs. kuten, miten mieleen tulee

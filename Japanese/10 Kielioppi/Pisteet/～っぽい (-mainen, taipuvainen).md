@@ -72,11 +72,34 @@ Valkoisehko, vaalea (ei aivan valkoinen).
 
 #flashcards/grammar/n3/vertailu
 
-N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (similar) ::: ～びる (-ltaan vaikuttava, -mainen) (similar)
-N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (similar/compare) ::: ～じみた (vivahtaa johonkin, -mainen) (similar/compare)
-N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: ～らしい (tyypillisyys) (compare)
-N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: ～がち (taipumus, helposti) (compare)
-N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: ～気味 (hieman, taipumus) (compare)
-N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: ～がましい (vivahtaa johonkin, kielteinen) (compare)
-N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: Nだらけ (taynna, kauttaaltaan) (compare)
-N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) (compare) ::: N的 (-llinen, -mainen) (compare)
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (similar) vs. -ltaan vaikuttava, -mainen
+??
+～びる (-ltaan vaikuttava, -mainen) 大人**びた**子ども (similar) vs. -mainen, taipuvainen
+
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (similar/compare) vs. vivahtaa johonkin, -mainen
+??
+～じみた (vivahtaa johonkin, -mainen) 子ども**じみた**ことを言うな (similar/compare) vs. -mainen, taipuvainen
+
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. tyypillisyys
+??
+～らしい (tyypillisyys) 佐野さんの家はいかにも伝統的な日本の**家らしい家**です (compare) vs. -mainen, taipuvainen
+
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. taipumus, helposti
+??
+～がち (taipumus, helposti) 冬は風邪をひき**がち**だ (compare) vs. -mainen, taipuvainen
+
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. hieman, taipumus
+??
+～気味 (hieman, taipumus) 風邪**気味**なので、早く寝ます (compare) vs. -mainen, taipuvainen
+
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. vivahtaa johonkin, kielteinen
+??
+～がましい (vivahtaa johonkin, kielteinen) 言い訳**がましい**ことを言う (compare) vs. -mainen, taipuvainen
+
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. taynna, kauttaaltaan
+??
+Nだらけ (taynna, kauttaaltaan) 部屋がごみ**だらけ**だ (compare) vs. -mainen, taipuvainen
+
+N／V(ます-vartalo)／Adj-vartalo＋っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. -llinen, -mainen
+??
+N的 (-llinen, -mainen) 経済**的な**問題 (compare) vs. -mainen, taipuvainen

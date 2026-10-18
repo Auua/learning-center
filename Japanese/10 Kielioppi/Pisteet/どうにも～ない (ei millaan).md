@@ -69,4 +69,6 @@ Asialle ei voi mitään.
 
 #flashcards/grammar/n1/vertailu
 
-どうにも＋V(可能)ない (ei millaan) (similar/compare) ::: Vようがない (ei ole keinoa) (similar/compare)
+どうにも＋V(可能)ない (ei millaan) **どうにも**我慢でき**ない** (similar/compare) vs. ei ole keinoa
+??
+Vようがない (ei ole keinoa) 連絡先がわからないので、連絡し**ようがない** (similar/compare) vs. ei millaan

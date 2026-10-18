@@ -84,6 +84,14 @@ Miten てくださる eroaa ていただく:sta, vaikka tapahtuma on sama?
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form くださいます (kunnioittava anto) (similar) ::: Vてあげます・Vてもらいます・Vてくれます (teon antaminen) (similar)
-Vて-form くださいます (kunnioittava anto) (similar/compare) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar/compare)
-Vて-form くださいます (kunnioittava anto) (similar) ::: Vてくださいませんか (erittäin kohtelias pyyntö) (similar)
+Vて-form くださいます (kunnioittava anto) 部長の奥さんはわたしにお茶を**教えてくださいました** (similar) vs. teon antaminen
+??
+Vてあげます・Vてもらいます・Vてくれます (teon antaminen) 木村さんに本を貸し**てあげました** (similar) vs. kunnioittava anto
+
+Vて-form くださいます (kunnioittava anto) 部長の奥さんはわたしにお茶を**教えてくださいました** (similar/compare) vs. kohtelias pyyntö, kiitollisuus
+??
+ご～いただく (kohtelias pyyntö, kiitollisuus) 書類を**ご確認いただけ**ますか (similar/compare) vs. kunnioittava anto
+
+Vて-form くださいます (kunnioittava anto) 部長の奥さんはわたしにお茶を**教えてくださいました** (similar) vs. erittäin kohtelias pyyntö
+??
+Vてくださいませんか (erittäin kohtelias pyyntö) もう少しゆっくり話して**くださいませんか** (similar) vs. kunnioittava anto

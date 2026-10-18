@@ -69,4 +69,6 @@ N上 vs. Nの上では?
 
 #flashcards/grammar/n2/vertailu
 
-N＋の上では／上は (jonkin mukaan, paperilla) (similar/compare) ::: N上 (jonkin kannalta) (similar/compare)
+N＋の上では／上は (jonkin mukaan, paperilla) 暦**の上では**春だが、まだ寒い (similar/compare) vs. jonkin kannalta
+??
+N上 (jonkin kannalta) 諸外国との外交**上**、同じ暦を使用するほうが便利だった (similar/compare) vs. jonkin mukaan, paperilla

@@ -76,5 +76,10 @@ Viittaus = kuulijan juuri sanoma asia; fyysinen = kuulijan lähellä oleva esine
 
 #flashcards/grammar/n4/vertailu
 
-それ（文脈指示） (viittaus juuri sanottuun) (similar/compare) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar/compare)
-それ（文脈指示） (viittaus juuri sanottuun) (similar) ::: それに・それで (lisaksi, niinpa) (similar)
+それ（文脈指示） (viittaus juuri sanottuun) A：結婚します。B：**それは**おめでとう (similar/compare) vs. tämä, tuo, tuo tuolla
+??
+これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) これは辞書です (similar/compare) vs. viittaus juuri sanottuun
+
+それ（文脈指示） (viittaus juuri sanottuun) A：結婚します。B：**それは**おめでとう (similar) vs. lisaksi, niinpa
+??
+それに・それで (lisaksi, niinpa) **それに**経験もあります (similar) vs. viittaus juuri sanottuun

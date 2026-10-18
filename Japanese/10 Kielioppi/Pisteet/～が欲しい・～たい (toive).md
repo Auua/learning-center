@@ -85,4 +85,6 @@ Se kysyy suoraan halusta ja kuulostaa töksähtävältä; käytä ［お］い�
 
 #flashcards/grammar/n5/vertailu
 
-Nが欲しいです／Vます-vartalo+たいです (toive) (compare) ::: Vますように (toive, kunpa) (compare)
+Nが欲しいです／Vます-vartalo+たいです (toive) わたしは友達**が欲しい**です (compare) vs. "kunpa" toive
+??
+Vますように (toive, kunpa) 試験に合格できます**ように** (compare) vs. oma toive

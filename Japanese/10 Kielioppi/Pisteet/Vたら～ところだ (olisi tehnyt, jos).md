@@ -68,5 +68,10 @@ Ensimmäinen = oli vähällä; toinen = olisi tehnyt, jos.
 
 #flashcards/grammar/n1/vertailu
 
-Vたら／Vば＋Vた＋ところだ (olisi tehnyt, jos) (similar/compare) ::: Vるところだった (oli juuri vahalla tapahtua) (similar/compare)
-Vたら／Vば＋Vた＋ところだ (olisi tehnyt, jos) (similar) ::: ～ば～のに (kunpa, harmittelu) (similar)
+Vたら／Vば＋Vた＋ところだ (olisi tehnyt, jos) 知っていたら、助けに行く**ところだった** (similar/compare) vs. oli juuri vahalla tapahtua
+??
+Vるところだった (oli juuri vahalla tapahtua) 危うく事故を起こす**ところだった** (similar/compare) vs. olisi tehnyt, jos
+
+Vたら／Vば＋Vた＋ところだ (olisi tehnyt, jos) 知っていたら、助けに行く**ところだった** (similar) vs. kunpa, harmittelu
+??
+～ば～のに (kunpa, harmittelu) お金があれ**ば**、買える**のに** (similar) vs. olisi tehnyt, jos

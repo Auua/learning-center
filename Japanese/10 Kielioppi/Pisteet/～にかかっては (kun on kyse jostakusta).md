@@ -69,4 +69,6 @@ Taitava tai vaikutusvaltainen.
 
 #flashcards/grammar/n1/vertailu
 
-N(henkilö)＋にかかっては／にかかったら／にかかると (kun on kyse jostakusta) (compare) ::: ～にかかっている (riippuu jostakin) (compare)
+N(henkilö)＋にかかっては／にかかったら／にかかると (kun on kyse jostakusta) 彼**にかかっては**、どんな難問**も**簡単に解ける (compare) vs. riippuu jostakin
+??
+～にかかっている (riippuu jostakin) 成功するかどうかは、あなたの努力**にかかっている** (compare) vs. kun on kyse jostakusta

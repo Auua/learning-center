@@ -68,5 +68,10 @@ Millainen jälkiosa usein seuraa?
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋のやら＋普通形＋のやら (onko A vai B, en tieda) (similar/compare) ::: ～のやら (mahtaakohan, en tieda) (similar/compare)
-普通形＋のやら＋普通形＋のやら (onko A vai B, en tieda) (compare) ::: 〜かどうか (jompikumpi, epavarmuus) (compare)
+普通形＋のやら＋普通形＋のやら (onko A vai B, en tieda) 行く**のやら**行かない**のやら**、はっきりしない (similar/compare) vs. mahtaakohan, en tieda
+??
+～のやら (mahtaakohan, en tieda) 彼は今どこにいる**のやら** (similar/compare) vs. onko A vai B, en tieda
+
+普通形＋のやら＋普通形＋のやら (onko A vai B, en tieda) 行く**のやら**行かない**のやら**、はっきりしない (compare) vs. jompikumpi, epavarmuus
+??
+〜かどうか (jompikumpi, epavarmuus) 台風9号は東京へ**来るかどうか**、まだわかりません (compare) vs. onko A vai B, en tieda

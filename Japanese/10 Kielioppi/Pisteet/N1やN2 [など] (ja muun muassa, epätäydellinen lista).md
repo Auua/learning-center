@@ -83,7 +83,18 @@ Kumpi: と vai や［など］, kun luetellaan substantiiveja?
 
 #flashcards/grammar/n5/vertailu
 
-N1やN2［など］ (ja muun muassa, epätäydellinen lista) (similar) ::: N1とN2 (ja) (similar)
-N1やN2［など］ (ja muun muassa, epätäydellinen lista) (similar/compare) ::: ～とか～とか (epamuodollinen esimerkkilista) (similar/compare)
-N1やN2［など］ (ja muun muassa, epätäydellinen lista) (compare) ::: Nでも (vaikkapa, esimerkiksi) (compare)
-N1やN2［など］ (ja muun muassa, epätäydellinen lista) (similar) ::: ～やら～やら (muun muassa, mita kaikkea) (similar)
+N1やN2［など］ (ja muun muassa, epätäydellinen lista) 箱の中に手紙**や**写真があります (similar) vs. täydellinen luettelo "ja"
+??
+N1とN2 (ja) 土曜日**と**日曜日 (similar) vs. epätäydellinen luettelo "muun muassa"
+
+N1やN2［など］ (ja muun muassa, epätäydellinen lista) 箱の中に手紙**や**写真があります (similar/compare) vs. epamuodollinen esimerkkilista
+??
+～とか～とか (epamuodollinen esimerkkilista) 肉**とか**魚**とか**を買った (similar/compare) vs. ja muun muassa, epätäydellinen lista
+
+N1やN2［など］ (ja muun muassa, epätäydellinen lista) 箱の中に手紙**や**写真があります (compare) vs. vaikkapa, esimerkiksi
+??
+Nでも (vaikkapa, esimerkiksi) お茶**でも**飲みませんか (compare) vs. ja muun muassa, epätäydellinen lista
+
+N1やN2［など］ (ja muun muassa, epätäydellinen lista) 箱の中に手紙**や**写真があります (similar) vs. muun muassa, mita kaikkea
+??
+～やら～やら (muun muassa, mita kaikkea) 宿題**やら**アルバイト**やら**で、忙しい (similar) vs. ja muun muassa, epätäydellinen lista

@@ -75,5 +75,10 @@ Miten Vたばかりです eroaa た形+ところです:sta?
 
 #flashcards/grammar/n4/vertailu
 
-Vた形ばかりです (juuri askettain) (similar/compare) ::: Vところです (kolme vaihetta) (similar/compare)
-Vた形ばかりです (juuri askettain) (similar/compare) ::: Vたて (juuri tehty) (similar/compare)
+Vた形ばかりです (juuri askettain) 彼は3月に大学を**卒業したばかりです** (similar/compare) vs. kolme vaihetta
+??
+Vところです (kolme vaihetta) 会議は今から**始まるところです** (similar/compare) vs. juuri askettain
+
+Vた形ばかりです (juuri askettain) 彼は3月に大学を**卒業したばかりです** (similar/compare) vs. juuri tehty
+??
+Vたて (juuri tehty) 来日し**たて**の頃、いつもリュックに辞書を詰めていた (similar/compare) vs. juuri askettain

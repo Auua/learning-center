@@ -69,5 +69,10 @@ Velvollisuus: べきだ, なければならない.
 
 #flashcards/grammar/n1/vertailu
 
-N＋たるもの（は）／たる＋N (sellaisena kuin pitaa olla) (similar/compare) ::: ～として (roolissa, ominaisuudessa) (similar/compare)
-N＋たるもの（は）／たる＋N (sellaisena kuin pitaa olla) (similar/compare) ::: ～ともあろうものが (kuka tahansa muu, mutta ei) (similar/compare)
+N＋たるもの（は）／たる＋N (sellaisena kuin pitaa olla) 教師**たるもの**、生徒の模範であるべきだ (similar/compare) vs. roolissa, ominaisuudessa
+??
+～として (roolissa, ominaisuudessa) アニメや漫画は**日本の文化として**世界に認められている (similar/compare) vs. sellaisena kuin pitaa olla
+
+N＋たるもの（は）／たる＋N (sellaisena kuin pitaa olla) 教師**たるもの**、生徒の模範であるべきだ (similar/compare) vs. kuka tahansa muu, mutta ei
+??
+～ともあろうものが (kuka tahansa muu, mutta ei) 教師**ともあろうものが**、生徒を殴るなんて (similar/compare) vs. sellaisena kuin pitaa olla

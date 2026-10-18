@@ -70,4 +70,6 @@ Päässyt täysin rappiolle.
 
 #flashcards/grammar/n1/vertailu
 
-V(ます-vartalo)／N＋放題 (vapaasti, rajattomasti) (compare) ::: ～っぱなし (huolimattomuus, unohdus) (compare)
+V(ます-vartalo)／N＋放題 (vapaasti, rajattomasti) 食べ**放題**のレストラン (compare) vs. huolimattomuus, unohdus
+??
+～っぱなし (huolimattomuus, unohdus) 洗濯物が4、5日前から干し**っぱなし**だ (compare) vs. vapaasti, rajattomasti

@@ -68,6 +68,14 @@ Tietämättömyys ei kelpaa tekosyyksi.
 
 #flashcards/grammar/n1/vertailu
 
-N／Vた＋では済まない／だけでは済まない (ei riita pelkka) (similar/compare) ::: Vて済む・ないで済む (selvita pelkalla) (similar/compare)
-N／Vた＋では済まない／だけでは済まない (ei riita pelkka) (similar) ::: Vて済むことではない (ei hoidu pelkalla) (similar)
-N／Vた＋では済まない／だけでは済まない (ei riita pelkka) (similar/compare) ::: Vずには済まない (on pakko, ei voi valttaa) (similar/compare)
+N／Vた＋では済まない／だけでは済まない (ei riita pelkka) 謝罪だけ**では済まない** (similar/compare) vs. selvita pelkalla
+??
+Vて済む・ないで済む (selvita pelkalla) 電話で話し**て済む**なら、行かなくていい (similar/compare) vs. ei riita pelkka
+
+N／Vた＋では済まない／だけでは済まない (ei riita pelkka) 謝罪だけ**では済まない** (similar) vs. ei hoidu pelkalla
+??
+Vて済むことではない (ei hoidu pelkalla) 謝っ**て済むことではない** (similar) vs. ei riita pelkka
+
+N／Vた＋では済まない／だけでは済まない (ei riita pelkka) 謝罪だけ**では済まない** (similar/compare) vs. on pakko, ei voi valttaa
+??
+Vずには済まない (on pakko, ei voi valttaa) 謝ら**ずには済まない** (similar/compare) vs. ei riita pelkka

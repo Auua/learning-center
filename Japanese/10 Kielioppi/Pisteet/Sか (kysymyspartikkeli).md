@@ -76,7 +76,18 @@ Ei yleensä — laskevalla sävyllä se on kuittaus "ahaa, vai niin".
 
 #flashcards/grammar/n5/vertailu
 
-文＋か (kysymyspartikkeli) (similar/compare) ::: S1か、S2か (kumpi, A vai B) (similar/compare)
-文＋か (kysymyspartikkeli) (similar) ::: Sね (vahvistus, eikö niin) (similar)
-文＋か (kysymyspartikkeli) (similar) ::: AはBです (A on B, peruslause) (similar)
-文＋か (kysymyspartikkeli) (similar) ::: そうですか (ahaa, uuden tiedon kuittaus) (similar)
+文＋か (kysymyspartikkeli) ミラーさんは会社員**ですか** (similar/compare) vs. kumpi, A vai B
+??
+S1か、S2か (kumpi, A vai B) これは「9」ですか、「7」ですか (similar/compare) vs. kysymyspartikkeli
+
+文＋か (kysymyspartikkeli) ミラーさんは会社員**ですか** (similar) vs. vahvistus, eikö niin
+??
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar) vs. kysymyspartikkeli
+
+文＋か (kysymyspartikkeli) ミラーさんは会社員**ですか** (similar) vs. A on B, peruslause
+??
+AはBです (A on B, peruslause) わたし**は**学生**です** (similar) vs. kysymyspartikkeli
+
+文＋か (kysymyspartikkeli) ミラーさんは会社員**ですか** (similar) vs. ahaa, uuden tiedon kuittaus
+??
+そうですか (ahaa, uuden tiedon kuittaus) A：日本人です。B：**そうですか** (similar) vs. kysymyspartikkeli

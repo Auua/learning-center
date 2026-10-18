@@ -97,11 +97,34 @@ Miten 普通形そうです eroaa muodosta 普通形ようです?
 
 #flashcards/grammar/n4/vertailu
 
-普通形そうです（伝聞） (kuulopuhe) (similar) ::: そうです (niin on) (similar)
-普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: V・adjそうです (ulkonaon perusteella) (similar/compare)
-普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
-普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare)
-普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形らしい (kuulopuhe, paattely) (similar/compare)
-普通形そうです（伝聞） (kuulopuhe) (similar) ::: ～によると・によれば (jonkin mukaan) (similar)
-普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形と言われている (sanotaan etta, yleinen kasitys) (similar/compare)
-普通形そうです（伝聞） (kuulopuhe) (similar/compare) ::: 普通形と聞きました (kuulin etta) (similar/compare)
+普通形そうです（伝聞） (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar) vs. niin on
+??
+そうです (niin on) これはテレホンカードですか (similar) vs. kuulopuhe
+
+普通形そうです（伝聞） (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. ulkonaon perusteella
+??
+V・adjそうです (ulkonaon perusteella) 今にも雨が**降りそうです** (similar/compare) vs. kuulopuhe
+
+普通形そうです（伝聞） (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. havaintoon perustuva paattely
+??
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (similar/compare) vs. kuulopuhe
+
+普通形そうです（伝聞） (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. muodollinen kuulopuhe
+??
+普通形ということだ (muodollinen kuulopuhe, vahvistus) 30分ほど遅れる**ということですね** (similar/compare) vs. tavallinen kuulopuhe
+
+普通形そうです（伝聞） (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. kuulopuhe tai päättely
+??
+普通形らしい (kuulopuhe, paattely) 高橋さんに聞いたんだけど、**婚約したらしい**よ (similar/compare) vs. kuulopuhe "kuulemma"
+
+普通形そうです（伝聞） (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar) vs. jonkin mukaan
+??
+～によると・によれば (jonkin mukaan) 天気予報**によると**、明日は雨だ**そうだ** (similar) vs. kuulopuhe
+
+普通形そうです（伝聞） (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. sanotaan etta, yleinen kasitys
+??
+普通形と言われている (sanotaan etta, yleinen kasitys) 日本人は長生きだ**と言われている** (similar/compare) vs. kuulopuhe
+
+普通形そうです（伝聞） (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. kuulin etta
+??
+普通形と聞きました (kuulin etta) 田中さんが結婚した**と聞きました** (similar/compare) vs. kuulopuhe

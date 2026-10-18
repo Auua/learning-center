@@ -70,6 +70,14 @@ Lähes sama varauksellinen myönnytys.
 
 #flashcards/grammar/n2/vertailu
 
-V(ない)／Adjくない＋なくはない／なくもない (kylla tavallaan) (similar/compare) ::: Vないことはない (ei ole mahdotonta) (similar/compare)
-V(ない)／Adjくない＋なくはない／なくもない (kylla tavallaan) (similar) ::: Vないものでもない (ei ole aivan mahdotonta) (similar)
-V(ない)／Adjくない＋なくはない／なくもない (kylla tavallaan) (similar) ::: ～と言えなくもない (voisi kai sanoa) (similar)
+V(ない)／Adjくない＋なくはない／なくもない (kylla tavallaan) 彼の気持ちもわから**なくはない** (similar/compare) vs. ei ole mahdotonta
+??
+Vないことはない (ei ole mahdotonta) 食べられ**ないことはない**けど、好きじゃない (similar/compare) vs. kylla tavallaan
+
+V(ない)／Adjくない＋なくはない／なくもない (kylla tavallaan) 彼の気持ちもわから**なくはない** (similar) vs. ei ole aivan mahdotonta
+??
+Vないものでもない (ei ole aivan mahdotonta) 条件次第では、引き受け**ないものでもない** (similar) vs. kylla tavallaan
+
+V(ない)／Adjくない＋なくはない／なくもない (kylla tavallaan) 彼の気持ちもわから**なくはない** (similar) vs. voisi kai sanoa
+??
+～と言えなくもない (voisi kai sanoa) 成功した**と言えなくもない** (similar) vs. kylla tavallaan

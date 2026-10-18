@@ -84,6 +84,14 @@ Toive koskee asiaa, jota puhuja ei itse voi hallita.
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋ますように／Vように祈る (toive, kunpa) (similar) ::: Vように (jotta, niin etta) (similar)
-V(ます-vartalo)＋ますように／Vように祈る (toive, kunpa) (compare) ::: ～が欲しい・～たい (toive) (compare)
-V(ます-vartalo)＋ますように／Vように祈る (toive, kunpa) (compare) ::: てほしい・ないでほしい (toive toiselle) (compare)
+V(ます-vartalo)＋ますように／Vように祈る (toive, kunpa) 試験に合格できます**ように** (similar) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar) vs. toive, kunpa
+
+V(ます-vartalo)＋ますように／Vように祈る (toive, kunpa) 試験に合格できます**ように** (compare) vs. oma toive
+??
+～が欲しい・～たい (toive) わたしは友達**が欲しい**です (compare) vs. "kunpa" toive
+
+V(ます-vartalo)＋ますように／Vように祈る (toive, kunpa) 試験に合格できます**ように** (compare) vs. toive toiselle
+??
+てほしい・ないでほしい (toive toiselle) 祖母には**いつまでも元気で長生きしてほしい**です (compare) vs. toive, kunpa

@@ -76,5 +76,10 @@ Konteksti: etsimisen jälkeen = löytyi; kertomuksessa = oli.
 
 #flashcards/grammar/n4/vertailu
 
-Nが（Nは）ありました（発見） (löytämisen ta) (similar/compare) ::: あります・います (olemassaolo) (similar/compare)
-Nが（Nは）ありました（発見） (löytämisen ta) (similar) ::: Nが (subjektipartikkeli, uusi tieto) (similar)
+Nが（Nは）ありました（発見） (löytämisen ta) あ、かぎ**がありました**よ (similar/compare) vs. olemassaolo
+??
+あります・います (olemassaolo) 机の上に写真**が**あります (similar/compare) vs. löytämisen ta
+
+Nが（Nは）ありました（発見） (löytämisen ta) あ、かぎ**がありました**よ (similar) vs. subjektipartikkeli, uusi tieto
+??
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (similar) vs. löytämisen ta

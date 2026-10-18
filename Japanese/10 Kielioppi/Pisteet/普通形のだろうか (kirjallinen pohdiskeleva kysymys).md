@@ -78,6 +78,14 @@ Se ei odota vastausta kuulijalta/lukijalta vaan on retorinen pohdiskelun väline
 
 #flashcards/grammar/n3/vertailu
 
-普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar) ::: 普通形んです (selittävä sävy) (similar)
-普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar/compare) ::: 普通形のでしょうか (kohtelias kysymys) (similar/compare)
-普通形のだろうか (kirjallinen pohdiskeleva kysymys) (compare) ::: Vないものか (eiko voisi mitenkaan) (compare)
+普通形のだろうか (kirjallinen pohdiskeleva kysymys) 地球の未来はどうなる**のだろうか** (similar) vs. selittävä sävy
+??
+普通形んです (selittävä sävy) 時間が**ないんです** (similar) vs. kirjallinen pohdiskeleva kysymys
+
+普通形のだろうか (kirjallinen pohdiskeleva kysymys) 地球の未来はどうなる**のだろうか** (similar/compare) vs. kohtelias kysymys
+??
+普通形のでしょうか (kohtelias kysymys) この電車は東京へ行く**のでしょうか** (similar/compare) vs. kirjallinen pohdiskeleva kysymys
+
+普通形のだろうか (kirjallinen pohdiskeleva kysymys) 地球の未来はどうなる**のだろうか** (compare) vs. eiko voisi mitenkaan
+??
+Vないものか (eiko voisi mitenkaan) 何とか助けられ**ないものか** (compare) vs. kirjallinen pohdiskeleva kysymys

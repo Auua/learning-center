@@ -69,4 +69,6 @@ Pehmentää ja syventää: puhuja tuntee jotain vaikeasti sanottavaa.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（な-adj な）＋ものがある (siina on jotain) (compare) ::: 普通形ものだ・ものではない (yleinen totuus) (compare)
+普通形（な-adj な）＋ものがある (siina on jotain) 彼の歌には心を打つ**ものがある** (compare) vs. yleinen totuus
+??
+普通形ものだ・ものではない (yleinen totuus) 人は変わる**ものだ** (compare) vs. siina on jotain

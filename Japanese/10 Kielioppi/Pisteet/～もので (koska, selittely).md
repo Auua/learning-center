@@ -69,4 +69,6 @@ Sama selittelevä syy; もので hieman kohteliaampi.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（な-adj な／N な）＋もので (koska, selittely) (similar/compare) ::: もの・もんだから (perusteleva syy) (similar/compare)
+普通形（な-adj な／N な）＋もので (koska, selittely) 道が混んでいた**もので**、遅れてしまいました (similar/compare) vs. perusteleva syy
+??
+もの・もんだから (perusteleva syy) ご連絡が遅れて申し訳ありません (similar/compare) vs. koska, selittely

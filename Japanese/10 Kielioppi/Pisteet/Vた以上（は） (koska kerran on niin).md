@@ -73,7 +73,18 @@ Ulkoiseen tosiasiaan sopii paremmin 以上 (結論が出た以上); omaan päät
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋以上（は） (koska kerran on niin) (similar/compare) ::: Vからには (koska kerran, paatoksen jalkeen) (similar/compare)
-普通形＋以上（は） (koska kerran on niin) (similar/compare) ::: ～手前 (vuoksi, kasvojen menettamisen pelossa) (similar/compare)
-普通形＋以上（は） (koska kerran on niin) (compare) ::: ～以上に (enemman kuin) (compare)
-普通形＋以上（は） (koska kerran on niin) (similar/compare) ::: ～上は (koska kerran, nyt kun) (similar/compare)
+普通形＋以上（は） (koska kerran on niin) 相手が「うん」と言わぬ**以上**、あきらめるしかありません (similar/compare) vs. koska kerran, paatoksen jalkeen
+??
+Vからには (koska kerran, paatoksen jalkeen) やる**からには**勝たなければならないと思う (similar/compare) vs. koska kerran on niin
+
+普通形＋以上（は） (koska kerran on niin) 相手が「うん」と言わぬ**以上**、あきらめるしかありません (similar/compare) vs. vuoksi, kasvojen menettamisen pelossa
+??
+～手前 (vuoksi, kasvojen menettamisen pelossa) 約束した**手前**、行かないわけにはいかない (similar/compare) vs. koska kerran on niin
+
+普通形＋以上（は） (koska kerran on niin) 相手が「うん」と言わぬ**以上**、あきらめるしかありません (compare) vs. enemman kuin
+??
+～以上に (enemman kuin) 予想**以上に**難しかった (compare) vs. koska kerran on niin
+
+普通形＋以上（は） (koska kerran on niin) 相手が「うん」と言わぬ**以上**、あきらめるしかありません (similar/compare) vs. koska kerran, nyt kun
+??
+～上は (koska kerran, nyt kun) 引き受けた**上は**、最後までやる (similar/compare) vs. koska kerran on niin

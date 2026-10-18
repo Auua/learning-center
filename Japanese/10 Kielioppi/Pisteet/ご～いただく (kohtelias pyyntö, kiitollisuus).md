@@ -96,6 +96,14 @@ Miten ご～いただく eroaa kaavasta お～する (molemmat 謙譲語)?
 
 #flashcards/grammar/n3/vertailu
 
-ご～いただく (kohtelias pyyntö, kiitollisuus) (similar) ::: お～する (nöyrä oma teko) (similar)
-ご～いただく (kohtelias pyyntö, kiitollisuus) (similar) ::: いただく (similar)
-ご～いただく (kohtelias pyyntö, kiitollisuus) (compare) ::: Keigo — kartta (compare)
+ご～いただく (kohtelias pyyntö, kiitollisuus) 書類を**ご確認いただけ**ますか (similar) vs. nöyrä oma teko
+??
+お～する (nöyrä oma teko) 荷物を**お持ちします** (similar) vs. kohtelias pyyntö, kiitollisuus
+
+ご～いただく (kohtelias pyyntö, kiitollisuus) 書類を**ご確認いただけ**ますか (similar) vs. nöyrä verbi "saada"
+??
+いただく 先生に本を**いただきました** (similar) vs. kohtelias pyyntö, kiitollisuus
+
+ご～いただく (kohtelias pyyntö, kiitollisuus) 書類を**ご確認いただけ**ますか (compare) vs. keigon kokonaiskartta
+??
+Keigo — kartta 先生が**いらっしゃいました** (compare) vs. kohtelias pyyntö, kiitollisuus

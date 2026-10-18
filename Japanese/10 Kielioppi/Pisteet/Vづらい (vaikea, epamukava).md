@@ -70,5 +70,10 @@ Ei luontevasti — づらい vaatii tekijän tunteen; luonnonilmiöön にくい
 
 #flashcards/grammar/n4/vertailu
 
-V(ます-vartalo)＋づらい (vaikea, epamukava) (similar/compare) ::: Vやすい・Vにくい (helppo, vaikea) (similar/compare)
-V(ます-vartalo)＋づらい (vaikea, epamukava) (compare) ::: Vます-vartalo＋がたい (vaikea tehda, henkisesti) (compare)
+V(ます-vartalo)＋づらい (vaikea, epamukava) この靴は歩き**づらい** (similar/compare) vs. helppo, vaikea
+??
+Vやすい・Vにくい (helppo, vaikea) このパソコンは**使いやすい**です (similar/compare) vs. vaikea, epamukava
+
+V(ます-vartalo)＋づらい (vaikea, epamukava) この靴は歩き**づらい** (compare) vs. vaikea tehda, henkisesti
+??
+Vます-vartalo＋がたい (vaikea tehda, henkisesti) 信じ**がたい**話だ (compare) vs. vaikea, epamukava

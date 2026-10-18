@@ -70,5 +70,10 @@ Molemmat "vieras ihminen"; ぬ on kirjallinen vakiolauseke.
 
 #flashcards/grammar/n2/vertailu
 
-V(ない-vartalo)＋ぬ（ん） (kirjallinen kielto) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)
-V(ない-vartalo)＋ぬ（ん） (kirjallinen kielto) (similar) ::: Vざる～ (kirjallinen kielteinen liite) (similar)
+V(ない-vartalo)＋ぬ（ん） (kirjallinen kielto) 知ら**ぬ**間に時間が過ぎた (similar/compare) vs. kirjallinen "tekemättä"
+??
+～ず［に］・～ず (kirjallinen kielto) 地震のときは、**あわてずに**落ち着いて行動してください (similar/compare) vs. kirjallinen kielto
+
+V(ない-vartalo)＋ぬ（ん） (kirjallinen kielto) 知ら**ぬ**間に時間が過ぎた (similar) vs. kirjallinen kielteinen liite
+??
+Vざる～ (kirjallinen kielteinen liite) 世の中には型に**あらざる**ものはない (similar) vs. kirjallinen kielto lauseen lopussa/määreenä

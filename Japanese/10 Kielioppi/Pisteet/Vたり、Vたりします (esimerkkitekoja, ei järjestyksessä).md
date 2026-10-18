@@ -96,7 +96,18 @@ Vて、Vて kertoo tarkan järjestyksen ja on yleensä täydellinen lista; た�
 
 #flashcards/grammar/n5/vertailu
 
-V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (similar) ::: Vて、Vて (peräkkäisyys) (similar)
-V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (similar/compare) ::: ～たり～たり (vaihtelu, epäsäännöllisyys) (similar/compare)
-V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (similar) ::: ～つ～つ (vuoroin, edestakaisin) (similar)
-V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) (compare) ::: Vては～Vては (vuorotellen toistuvasti) (compare)
+V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) 日曜日はテニスをし**たり**、映画を見**たり**します (similar) vs. peräkkäisyys
+??
+Vて、Vて (peräkkäisyys) 起き**て**、顔を洗っ**て**、出かけた (similar) vs. esimerkkitekoja, ei järjestyksessä
+
+V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) 日曜日はテニスをし**たり**、映画を見**たり**します (similar/compare) vs. vaihtelu, epäsäännöllisyys
+??
+～たり～たり (vaihtelu, epäsäännöllisyys) 雨が**降ったりやんだり**する (similar/compare) vs. esimerkkitekoja, ei järjestyksessä
+
+V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) 日曜日はテニスをし**たり**、映画を見**たり**します (similar) vs. vuoroin, edestakaisin
+??
+～つ～つ (vuoroin, edestakaisin) 抜き**つ**抜かれ**つ**のレース (similar) vs. esimerkkitekoja, ei järjestyksessä
+
+V1た形り、V2た形りします (esimerkkitekoja, ei järjestyksessä) 日曜日はテニスをし**たり**、映画を見**たり**します (compare) vs. vuorotellen toistuvasti
+??
+Vては～Vては (vuorotellen toistuvasti) 書い**ては**消し、書い**ては**消した (compare) vs. esimerkkitekoja, ei järjestyksessä

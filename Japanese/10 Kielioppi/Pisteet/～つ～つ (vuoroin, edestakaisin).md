@@ -69,5 +69,10 @@ Vastavuoroinen (autetaan toisiamme).
 
 #flashcards/grammar/n1/vertailu
 
-V1(ます-vartalo)つ V2(ます-vartalo)つ (vuoroin, edestakaisin) (similar/compare) ::: Vては～Vては (vuorotellen toistuvasti) (similar/compare)
-V1(ます-vartalo)つ V2(ます-vartalo)つ (vuoroin, edestakaisin) (similar) ::: Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) (similar)
+V1(ます-vartalo)つ V2(ます-vartalo)つ (vuoroin, edestakaisin) 抜き**つ**抜かれ**つ**のレース (similar/compare) vs. vuorotellen toistuvasti
+??
+Vては～Vては (vuorotellen toistuvasti) 書い**ては**消し、書い**ては**消した (similar/compare) vs. vuoroin, edestakaisin
+
+V1(ます-vartalo)つ V2(ます-vartalo)つ (vuoroin, edestakaisin) 抜き**つ**抜かれ**つ**のレース (similar) vs. esimerkkitekoja, ei järjestyksessä
+??
+Vたり、Vたりします (esimerkkitekoja, ei järjestyksessä) 日曜日はテニスをし**たり**、映画を見**たり**します (similar) vs. vuoroin, edestakaisin

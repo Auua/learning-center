@@ -69,5 +69,10 @@ Lähes aina kielteinen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋はおろか＋N も／さえ (puhumattakaan, ei edes) (similar/compare) ::: ～どころか (paikalla vaan painvastoin) (similar/compare)
-N＋はおろか＋N も／さえ (puhumattakaan, ei edes) (similar) ::: ～はもちろん (puhumattakaan) (similar)
+N＋はおろか＋N も／さえ (puhumattakaan, ei edes) 漢字**はおろか**、ひらがな**も**書けない (similar/compare) vs. paikalla vaan painvastoin
+??
+～どころか (paikalla vaan painvastoin) 楽になる**どころか**、もっと忙しくなった (similar/compare) vs. puhumattakaan, ei edes
+
+N＋はおろか＋N も／さえ (puhumattakaan, ei edes) 漢字**はおろか**、ひらがな**も**書けない (similar) vs. "puhumattakaan" (myönteinen)
+??
+～はもちろん (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (similar) vs. "puhumattakaan, ei edes" (kielteinen)

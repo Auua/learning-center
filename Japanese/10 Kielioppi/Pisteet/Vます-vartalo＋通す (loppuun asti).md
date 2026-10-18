@@ -69,6 +69,14 @@ Keskeytyksetöntä sinnikkyyttä alusta loppuun.
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋通す (loppuun asti) (similar) ::: Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) (similar)
-V(ます-vartalo)＋通す (loppuun asti) (similar) ::: Vます-vartalo＋抜く (loppuun asti, perin pohjin) (similar)
-V(ます-vartalo)＋通す (loppuun asti) (compare) ::: Vきる (tehda loppuun, kokonaan) (compare)
+V(ます-vartalo)＋通す (loppuun asti) マラソンを最後まで走り**通した** (similar) vs. yhdysverbit
+??
+Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) 男はまんじゅうを見ると、急に**震え出した** (similar) vs. loppuun asti
+
+V(ます-vartalo)＋通す (loppuun asti) マラソンを最後まで走り**通した** (similar) vs. "loppuun asti sinnitellen"
+??
+Vます-vartalo＋抜く (loppuun asti, perin pohjin) マラソンを最後まで走り**抜いた** (similar) vs. "loppuun keskeytyksettä"
+
+V(ます-vartalo)＋通す (loppuun asti) マラソンを最後まで走り**通した** (compare) vs. tehda loppuun, kokonaan
+??
+Vきる (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (compare) vs. loppuun asti

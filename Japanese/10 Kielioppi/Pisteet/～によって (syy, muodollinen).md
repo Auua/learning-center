@@ -83,5 +83,10 @@ Passiivi luovasta teosta → tekijä (ライト兄弟によって発明された
 
 #flashcards/grammar/n2/vertailu
 
-N（syy）＋によって (syy, muodollinen) (similar/compare) ::: 〜によって (tekijan merkitseminen, luova teko) (similar/compare)
-N（syy）＋によって (syy, muodollinen) (similar/compare) ::: ～によって (riippuen, vaihtelu) (similar/compare)
+N（syy）＋によって (syy, muodollinen) 台風**によって**多くの家が壊れた (similar/compare) vs. tekijan merkitseminen, luova teko
+??
+〜によって (tekijan merkitseminen, luova teko) 飛行機は**ライト兄弟によって**発明されました (similar/compare) vs. syy, muodollinen
+
+N（syy）＋によって (syy, muodollinen) 台風**によって**多くの家が壊れた (similar/compare) vs. riippuen, vaihtelu
+??
+～によって (riippuen, vaihtelu) 文化や習慣は**国によって**違います (similar/compare) vs. syy, muodollinen

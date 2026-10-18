@@ -68,4 +68,6 @@ Ylistävä.
 
 #flashcards/grammar/n1/vertailu
 
-N(ryhmä/paikka)＋きっての＋N (koko -n paras) (similar/compare) ::: Nの中でいちばん (superlatiivi) (similar/compare)
+N(ryhmä/paikka)＋きっての＋N (koko -n paras) 彼は社内**きっての**秀才だ (similar/compare) vs. superlatiivi
+??
+Nの中でいちばん (superlatiivi) 日本料理の中で何がいちばんおいしいですか (similar/compare) vs. koko -n paras

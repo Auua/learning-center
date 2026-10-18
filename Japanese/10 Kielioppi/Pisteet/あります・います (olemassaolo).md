@@ -104,8 +104,22 @@ Aina に; で vaatii aktiivisen toimintaverbin (駅で買います), kun あり�
 
 #flashcards/grammar/n5/vertailu
 
-Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar) ::: N (paikka) で (similar)
-Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar/compare) ::: N1はN2（場所）です (sijainti) (similar/compare)
-Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar/compare) ::: Nはありませんか (onko teillä, kohtelias kysely) (similar/compare)
-Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar/compare) ::: N1（場所）でN2があります (tapahtuma järjestetään) (similar/compare)
-Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar/compare) ::: ありました (löytämisen ta) (similar/compare)
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) 机の上に写真**が**あります (similar) vs. paikka
+??
+N (paikka) で 駅**で**新聞を買います (similar) vs. olemassaolo
+
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) 机の上に写真**が**あります (similar/compare) vs. sijainti
+??
+N1はN2（場所）です (sijainti) 食堂は**あそこです** (similar/compare) vs. olemassaolo
+
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) 机の上に写真**が**あります (similar/compare) vs. onko teillä, kohtelias kysely
+??
+Nはありませんか (onko teillä, kohtelias kysely) チリソース**はありませんか** (similar/compare) vs. olemassaolo
+
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) 机の上に写真**が**あります (similar/compare) vs. tapahtuma järjestetään
+??
+N1（場所）でN2があります (tapahtuma järjestetään) あした、ホール**で**コンサート**があります** (similar/compare) vs. olemassaolo
+
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) 机の上に写真**が**あります (similar/compare) vs. löytämisen ta
+??
+ありました (löytämisen ta) あ、かぎ**がありました**よ (similar/compare) vs. olemassaolo

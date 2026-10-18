@@ -130,6 +130,14 @@ Miten 泳げませんでした ja 泳げなくなりました eroavat?
 
 #flashcards/grammar/n4/vertailu
 
-V(potentiaali/普通形)ようになります (kyvyn tai tilan muutos) (similar) ::: Vように (jotta, niin etta) (similar)
-V(potentiaali/普通形)ようになります (kyvyn tai tilan muutos) (similar) ::: Nに慣れる (tottua) (similar)
-V(potentiaali/普通形)ようになります (kyvyn tai tilan muutos) (compare) ::: Vようにする・ようにしてください (huolehtia etta) (compare)
+V(potentiaali/普通形)ようになります (kyvyn tai tilan muutos) やっと自転車に**乗れるようになりました** (similar) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar) vs. kyvyn tai tilan muutos
+
+V(potentiaali/普通形)ようになります (kyvyn tai tilan muutos) やっと自転車に**乗れるようになりました** (similar) vs. tottua
+??
+Nに慣れる (tottua) 日本の生活**に慣れました** (similar) vs. kyvyn tai tilan muutos
+
+V(potentiaali/普通形)ようになります (kyvyn tai tilan muutos) やっと自転車に**乗れるようになりました** (compare) vs. huolehtia etta
+??
+Vようにする・ようにしてください (huolehtia etta) 明日からもっと早く起きる**ようにします** (compare) vs. kyvyn tai tilan muutos

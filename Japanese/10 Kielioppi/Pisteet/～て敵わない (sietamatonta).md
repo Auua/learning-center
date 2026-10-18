@@ -69,5 +69,10 @@ Ei — vain valitusta.
 
 #flashcards/grammar/n1/vertailu
 
-V(て)／Adjくて＋かなわない (sietamatonta) (similar/compare) ::: ～てたまらない (sietamattoman, valtavasti) (similar/compare)
-V(て)／Adjくて＋かなわない (sietamatonta) (similar) ::: ～てしょうがない・てしかたがない (sietamattoman) (similar)
+V(て)／Adjくて＋かなわない (sietamatonta) 暑く**てかなわない** (similar/compare) vs. sietamattoman, valtavasti
+??
+～てたまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar/compare) vs. sietamatonta
+
+V(て)／Adjくて＋かなわない (sietamatonta) 暑く**てかなわない** (similar) vs. sietamattoman
+??
+～てしょうがない・てしかたがない (sietamattoman) 暑く**てしょうがない** (similar) vs. sietamatonta

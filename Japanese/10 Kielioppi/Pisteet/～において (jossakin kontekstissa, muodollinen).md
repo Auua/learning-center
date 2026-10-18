@@ -82,5 +82,10 @@ Miten N において eroaa N にとって:sta?
 
 #flashcards/grammar/n2/vertailu
 
-N＋において（は）・における＋N (jossakin kontekstissa, muodollinen) (similar/compare) ::: ～にとって (jonkun nakokulmasta) (similar/compare)
-N＋において（は）・における＋N (jossakin kontekstissa, muodollinen) (similar/compare) ::: ～にあって (oloissa, asemassa) (similar/compare)
+N＋において（は）・における＋N (jossakin kontekstissa, muodollinen) 江戸時代**において**もっとも力を持っていたのは誰だろうか (similar/compare) vs. jonkun nakokulmasta
+??
+～にとって (jonkun nakokulmasta) 赤ちゃん**にとって**十分な睡眠は欠かせないものだ (similar/compare) vs. jossakin kontekstissa, muodollinen
+
+N＋において（は）・における＋N (jossakin kontekstissa, muodollinen) 江戸時代**において**もっとも力を持っていたのは誰だろうか (similar/compare) vs. oloissa, asemassa
+??
+～にあって (oloissa, asemassa) 不況**にあって**、売り上げを伸ばした (similar/compare) vs. jossakin kontekstissa, muodollinen

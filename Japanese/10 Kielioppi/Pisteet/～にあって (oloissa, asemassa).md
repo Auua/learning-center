@@ -70,4 +70,6 @@ Näissäkin oloissa (myönnytys).
 
 #flashcards/grammar/n1/vertailu
 
-N＋にあって（は／も） (oloissa, asemassa) (similar/compare) ::: ～において (jossakin kontekstissa, muodollinen) (similar/compare)
+N＋にあって（は／も） (oloissa, asemassa) 不況**にあって**、売り上げを伸ばした (similar/compare) vs. jossakin kontekstissa, muodollinen
+??
+～において (jossakin kontekstissa, muodollinen) 江戸時代**において**もっとも力を持っていたのは誰だろうか (similar/compare) vs. oloissa, asemassa

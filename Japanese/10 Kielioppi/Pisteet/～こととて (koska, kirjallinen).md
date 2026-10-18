@@ -68,4 +68,6 @@ Kohteliaaseen anteeksipyyntöön.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（N の）＋こととて (koska, kirjallinen) (compare) ::: もの・もんだから (perusteleva syy) (compare)
+普通形（N の）＋こととて (koska, kirjallinen) 慣れぬ**こととて**、失礼しました (compare) vs. perusteleva syy
+??
+もの・もんだから (perusteleva syy) ご連絡が遅れて申し訳ありません (compare) vs. koska, kirjallinen

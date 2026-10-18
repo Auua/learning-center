@@ -68,6 +68,14 @@ Kiitospuheissa ja juhlavissa yhteyksissä.
 
 #flashcards/grammar/n1/vertailu
 
-N＋なくしては／なくして（は）〜ない (ilman jotakin ei) (similar) ::: Vことなしに (tekematta, ilman) (similar)
-N＋なくしては／なくして（は）〜ない (ilman jotakin ei) (similar/compare) ::: Nあっての (ilman ei olisi) (similar/compare)
-N＋なくしては／なくして（は）〜ない (ilman jotakin ei) (similar/compare) ::: ～なしに (ilman) (similar/compare)
+N＋なくしては／なくして（は）〜ない (ilman jotakin ei) 皆様の協力**なくしては**、成功しなかった (similar) vs. tekematta, ilman
+??
+Vことなしに (tekematta, ilman) 努力する**ことなしに**、成功はない (similar) vs. ilman jotakin ei
+
+N＋なくしては／なくして（は）〜ない (ilman jotakin ei) 皆様の協力**なくしては**、成功しなかった (similar/compare) vs. ilman ei olisi
+??
+Nあっての (ilman ei olisi) お客様**あっての**商売です (similar/compare) vs. ilman jotakin ei
+
+N＋なくしては／なくして（は）〜ない (ilman jotakin ei) 皆様の協力**なくしては**、成功しなかった (similar/compare) vs. "ilman" perus
+??
+～なしに (ilman) 断り**なしに**、人の物を使うな (similar/compare) vs. "ilman jotakin ei"

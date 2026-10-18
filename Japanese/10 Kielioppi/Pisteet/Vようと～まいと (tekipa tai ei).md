@@ -68,5 +68,10 @@ Sama verbi よう- ja まい-muodossa.
 
 #flashcards/grammar/n1/vertailu
 
-V(よう)と＋V辞書形まいと／V(よう)が＋Vまいが (tekipa tai ei) (similar/compare) ::: Vようが～ようが (olipa A tai B) (similar/compare)
-V(よう)と＋V辞書形まいと／V(よう)が＋Vまいが (tekipa tai ei) (similar/compare) ::: ようか～まいか (tehdako vai ei) (similar/compare)
+V(よう)と＋V辞書形まいと／V(よう)が＋Vまいが (tekipa tai ei) 行こう**と**行く**まいと**、あなたの自由だ (similar/compare) vs. olipa A tai B
+??
+Vようが～ようが (olipa A tai B) 泣**こうが**わめ**こうが**、許さない (similar/compare) vs. tekipa tai ei
+
+V(よう)と＋V辞書形まいと／V(よう)が＋Vまいが (tekipa tai ei) 行こう**と**行く**まいと**、あなたの自由だ (similar/compare) vs. tehdako vai ei
+??
+ようか～まいか (tehdako vai ei) 行こう**か**行く**まいか**迷っている (similar/compare) vs. tekipa tai ei

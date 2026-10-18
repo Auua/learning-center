@@ -70,5 +70,10 @@ Ikävää seurausta.
 
 #flashcards/grammar/n2/vertailu
 
-V(可能)辞書形／Vよう＋ものなら (jos vain voisi) (compare) ::: ～なら (jos kerran) (compare)
-V(可能)辞書形／Vよう＋ものなら (jos vain voisi) (compare) ::: Vばいい (riittaa kun, pitaisi) (compare)
+V(可能)辞書形／Vよう＋ものなら (jos vain voisi) 戻れる**ものなら**、学生時代に戻りたい (compare) vs. jos kerran
+??
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (compare) vs. jos vain voisi
+
+V(可能)辞書形／Vよう＋ものなら (jos vain voisi) 戻れる**ものなら**、学生時代に戻りたい (compare) vs. riittaa kun, pitaisi
+??
+Vばいい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (compare) vs. jos vain voisi

@@ -68,4 +68,6 @@ Pitkäaikaista (ammatti, harrastus).
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／Nの＋かたわら (ohella, sivussa) (similar/compare) ::: V(-ます)ながら (samalla kun) (similar/compare)
+V辞書形／Nの＋かたわら (ohella, sivussa) 彼は会社で働く**かたわら**、小説を書いている (similar/compare) vs. samalla kun
+??
+V(-ます)ながら (samalla kun) 音楽を**聞きながら**食事します (similar/compare) vs. ohella, sivussa

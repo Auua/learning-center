@@ -69,7 +69,18 @@ Sama; や否や kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋や否や／や (heti kun, samalla hetkella) (similar) ::: Vが早いか (heti kun, samassa) (similar)
-V辞書形＋や否や／や (heti kun, samalla hetkella) (similar) ::: V辞書形なり (heti kun) (similar)
-V辞書形＋や否や／や (heti kun, samalla hetkella) (similar) ::: ～と見るや (nahtyaan heti) (similar)
-V辞書形＋や否や／や (heti kun, samalla hetkella) (compare) ::: Vたとたん（に） (juuri sina hetkena) (compare)
+V辞書形＋や否や／や (heti kun, samalla hetkella) ドアが開く**や否や**、子どもたちが飛び出した (similar) vs. heti kun, samassa
+??
+Vが早いか (heti kun, samassa) ベルが鳴る**が早いか**、生徒は飛び出した (similar) vs. heti kun, samalla hetkella
+
+V辞書形＋や否や／や (heti kun, samalla hetkella) ドアが開く**や否や**、子どもたちが飛び出した (similar) vs. "heti kun" (henkilö)
+??
+V辞書形なり (heti kun) 彼は家に帰る**なり**、寝てしまった (similar) vs. "heti kun" kirjallinen
+
+V辞書形＋や否や／や (heti kun, samalla hetkella) ドアが開く**や否や**、子どもたちが飛び出した (similar) vs. nahtyaan heti
+??
+～と見るや (nahtyaan heti) チャンスだ**と見るや**、彼は走り出した (similar) vs. heti kun, samalla hetkella
+
+V辞書形＋や否や／や (heti kun, samalla hetkella) ドアが開く**や否や**、子どもたちが飛び出した (compare) vs. juuri sina hetkena
+??
+Vたとたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (compare) vs. heti kun, samalla hetkella

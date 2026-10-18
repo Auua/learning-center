@@ -87,5 +87,10 @@ Ikävä: haitta tai harmi omistajalle.
 
 #flashcards/grammar/n4/vertailu
 
-N1（人）はN2（人）にN3（N1の物・体の一部）をV受身形 (omistajan passiivi) (similar/compare) ::: N1はN2にV受身 (suora passiivi) (similar/compare)
-N1（人）はN2（人）にN3（N1の物・体の一部）をV受身形 (omistajan passiivi) (similar) ::: NがV受身 (asiasubjektin passiivi) (similar)
+N1（人）はN2（人）にN3（N1の物・体の一部）をV受身形 (omistajan passiivi) わたしは弟**に**パソコン**を**壊されました (similar/compare) vs. suora passiivi
+??
+N1はN2にV受身 (suora passiivi) わたしは部長**に**ほめられました (similar/compare) vs. omistajan passiivi
+
+N1（人）はN2（人）にN3（N1の物・体の一部）をV受身形 (omistajan passiivi) わたしは弟**に**パソコン**を**壊されました (similar) vs. asiasubjektin passiivi
+??
+NがV受身 (asiasubjektin passiivi) フランスで古い日本の地図**が**発見されました (similar) vs. omistajan passiivi

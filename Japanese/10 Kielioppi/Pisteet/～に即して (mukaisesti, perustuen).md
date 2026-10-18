@@ -68,5 +68,10 @@ Todellisuuteen: 事実, 現実, 実情.
 
 #flashcards/grammar/n1/vertailu
 
-N＋に即して／に即した (mukaisesti, perustuen) (similar/compare) ::: ～に則って (mukaisesti, saannon mukaan) (similar/compare)
-N＋に即して／に即した (mukaisesti, perustuen) (similar) ::: ～に沿って (mukaisesti, pitkin) (similar)
+N＋に即して／に即した (mukaisesti, perustuen) 実情**に即して**、計画を変更する (similar/compare) vs. mukaisesti, saannon mukaan
+??
+～に則って (mukaisesti, saannon mukaan) 法律**に則って**処分する (similar/compare) vs. mukaisesti, perustuen
+
+N＋に即して／に即した (mukaisesti, perustuen) 実情**に即して**、計画を変更する (similar) vs. mukaisesti, pitkin
+??
+～に沿って (mukaisesti, pitkin) 川**に沿って**歩く (similar) vs. mukaisesti, perustuen

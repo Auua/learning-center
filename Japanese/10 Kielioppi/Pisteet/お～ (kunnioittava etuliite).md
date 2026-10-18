@@ -86,8 +86,22 @@ Ne käyttävät samaa お:ta, mutta rakentavat sen ympärille kokonaisen verbimu
 
 #flashcards/grammar/n5/vertailu
 
-お～ (kunnioittava etuliite) (similar) ::: お～になる (kunnioittava toisen teko) (similar)
-お～ (kunnioittava etuliite) (similar) ::: お～する (nöyrä oma teko) (similar)
-お～ (kunnioittava etuliite) (similar) ::: お国はどちらですか (mistä maasta) (similar)
-お～ (kunnioittava etuliite) (similar) ::: ご注文は (mitä saisi olla) (similar)
-お～ (kunnioittava etuliite) (similar/compare) ::: ご～ (kunnioittava etuliite, kango) (similar/compare)
+お～ (kunnioittava etuliite) **お**名前は何ですか (similar) vs. kunnioittava toisen teko
+??
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar) vs. kunnioittava etuliite
+
+お～ (kunnioittava etuliite) **お**名前は何ですか (similar) vs. nöyrä oma teko
+??
+お～する (nöyrä oma teko) 荷物を**お持ちします** (similar) vs. kunnioittava etuliite
+
+お～ (kunnioittava etuliite) **お**名前は何ですか (similar) vs. mistä maasta
+??
+お国はどちらですか (mistä maasta) **お国はどちらですか** (similar) vs. kunnioittava etuliite
+
+お～ (kunnioittava etuliite) **お**名前は何ですか (similar) vs. mitä saisi olla
+??
+ご注文は (mitä saisi olla) **ご注文は**？…牛どんをお願いします (similar) vs. kunnioittava etuliite
+
+お～ (kunnioittava etuliite) **お**名前は何ですか (similar/compare) vs. sino-japanilaisten sanojen etuliite
+??
+ご～ (kunnioittava etuliite, kango) **ご家族**はお元気ですか (similar/compare) vs. kunnioittava etuliite (wago)

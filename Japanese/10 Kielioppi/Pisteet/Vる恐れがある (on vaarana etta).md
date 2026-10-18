@@ -68,5 +68,10 @@ Miten 恐れがある eroaa rakenteesta 普通形可能性がある?
 
 #flashcards/grammar/n2/vertailu
 
-N／V辞書形＋恐れがある (on vaarana etta) (similar/compare) ::: 普通形可能性がある (on mahdollista etta) (similar/compare)
-N／V辞書形＋恐れがある (on vaarana etta) (similar/compare) ::: Vかねない (saattaa hyvinkin, uhkaa) (similar/compare)
+N／V辞書形＋恐れがある (on vaarana etta) 台風13号は九州に**上陸する恐れがあります** (similar/compare) vs. on mahdollista etta
+??
+普通形可能性がある (on mahdollista etta) 一度失敗すると、あとのつけは数百年に及ぶ**可能性がある** (similar/compare) vs. on vaarana etta
+
+N／V辞書形＋恐れがある (on vaarana etta) 台風13号は九州に**上陸する恐れがあります** (similar/compare) vs. saattaa hyvinkin, uhkaa
+??
+Vかねない (saattaa hyvinkin, uhkaa) そんな運転をしたら、事故を起こし**かねない** (similar/compare) vs. on vaarana etta

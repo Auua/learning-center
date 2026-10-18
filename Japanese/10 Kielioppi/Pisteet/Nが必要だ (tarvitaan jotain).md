@@ -71,4 +71,6 @@ Ensimmäinen: substantiivi on tarpeen; jälkimmäinen: on tarpeen tehdä jotain.
 
 #flashcards/grammar/n4/vertailu
 
-Nが必要だ・Nが要る (tarvitaan jotain) (similar/compare) ::: Vる必要がある (on tarpeen tehda) (similar/compare)
+Nが必要だ・Nが要る (tarvitaan jotain) ビザ**が必要です** (similar/compare) vs. on tarpeen tehda
+??
+Vる必要がある (on tarpeen tehda) 予約する**必要があります** (similar/compare) vs. tarvitaan jotain

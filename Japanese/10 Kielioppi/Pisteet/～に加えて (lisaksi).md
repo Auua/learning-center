@@ -70,6 +70,14 @@ Molemmat "lisäksi"; に加えて muodollisempi ja substantiiviin.
 
 #flashcards/grammar/n2/vertailu
 
-N＋に加えて／に加え (lisaksi) (similar/compare) ::: ～上に (lisaksi, paalle paatteeksi) (similar/compare)
-N＋に加えて／に加え (lisaksi) (similar/compare) ::: ～と相まって (yhdessa vaikuttaen) (similar/compare)
-N＋に加えて／に加え (lisaksi) (compare) ::: ～だけでなく (ei pelkastaan vaan myos) (compare)
+N＋に加えて／に加え (lisaksi) 雨**に加えて**、風も強くなった (similar/compare) vs. "lisäksi" sivulauseena
+??
+～上に (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar/compare) vs. "lisäksi" muodollinen
+
+N＋に加えて／に加え (lisaksi) 雨**に加えて**、風も強くなった (similar/compare) vs. yhdessa vaikuttaen
+??
+～と相まって (yhdessa vaikuttaen) 美しい景色**と相まって**、料理がさらにおいしく感じた (similar/compare) vs. lisaksi
+
+N＋に加えて／に加え (lisaksi) 雨**に加えて**、風も強くなった (compare) vs. ei pelkastaan vaan myos
+??
+～だけでなく (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (compare) vs. lisaksi

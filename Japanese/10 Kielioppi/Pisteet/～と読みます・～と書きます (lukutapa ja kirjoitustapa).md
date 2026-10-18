@@ -77,6 +77,14 @@ Lukutapa vs. mitä tekstissä lukee.
 
 #flashcards/grammar/n4/vertailu
 
-Nは～と読みます／～と書きます (lukutapa ja kirjoitustapa) (similar/compare) ::: 〜と書いてあります・という意味です (kylttien selittaminen) (similar/compare)
-Nは～と読みます／～と書きます (lukutapa ja kirjoitustapa) (similar/compare) ::: 「Sana」は～語で何ですか (miten sanotaan kielellä) (similar/compare)
-Nは～と読みます／～と書きます (lukutapa ja kirjoitustapa) (similar) ::: 普通形と言います (lainaus) (similar)
+Nは～と読みます／～と書きます (lukutapa ja kirjoitustapa) あの漢字は**何と読みます**か (similar/compare) vs. kylttien selittaminen
+??
+〜と書いてあります・という意味です (kylttien selittaminen) ……「止まれ」**と書いてあります** (similar/compare) vs. lukutapa ja kirjoitustapa
+
+Nは～と読みます／～と書きます (lukutapa ja kirjoitustapa) あの漢字は**何と読みます**か (similar/compare) vs. miten sanotaan kielellä
+??
+「Sana」は～語で何ですか (miten sanotaan kielellä) 「Thank you」は日本語で**何ですか** (similar/compare) vs. lukutapa ja kirjoitustapa
+
+Nは～と読みます／～と書きます (lukutapa ja kirjoitustapa) あの漢字は**何と読みます**か (similar) vs. lainaus
+??
+普通形と言います (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. lukutapa ja kirjoitustapa

@@ -71,5 +71,10 @@ Sino-japanilaisiin kanjisubstantiiveihin (漢語).
 
 #flashcards/grammar/n3/vertailu
 
-N（漢語）＋的（な／に） (-llinen, -mainen) (compare) ::: ～っぽい (-mainen, taipuvainen) (compare)
-N（漢語）＋的（な／に） (-llinen, -mainen) (compare) ::: ～らしい (tyypillisyys) (compare)
+N（漢語）＋的（な／に） (-llinen, -mainen) 経済**的な**問題 (compare) vs. -mainen, taipuvainen
+??
+～っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. -llinen, -mainen
+
+N（漢語）＋的（な／に） (-llinen, -mainen) 経済**的な**問題 (compare) vs. tyypillisyys
+??
+～らしい (tyypillisyys) 佐野さんの家はいかにも伝統的な日本の**家らしい家**です (compare) vs. -llinen, -mainen

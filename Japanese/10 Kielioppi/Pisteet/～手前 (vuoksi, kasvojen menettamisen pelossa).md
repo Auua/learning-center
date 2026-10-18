@@ -68,4 +68,6 @@ Millainen jälkiosa 手前-lauseessa on?
 
 #flashcards/grammar/n1/vertailu
 
-V普通形／Nの＋手前 (vuoksi, kasvojen menettamisen pelossa) (similar/compare) ::: Vた以上（は） (koska kerran on niin) (similar/compare)
+V普通形／Nの＋手前 (vuoksi, kasvojen menettamisen pelossa) 約束した**手前**、行かないわけにはいかない (similar/compare) vs. koska kerran on niin
+??
+Vた以上（は） (koska kerran on niin) 相手が「うん」と言わぬ**以上**、あきらめるしかありません (similar/compare) vs. vuoksi, kasvojen menettamisen pelossa

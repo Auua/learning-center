@@ -70,6 +70,14 @@ Ehkä (kirjallinen).
 
 #flashcards/grammar/n2/vertailu
 
-N1あるいはN2／S1、あるいはS2 (tai, muodollinen) (similar/compare) ::: AもしくはB (tai, virallinen) (similar/compare)
-N1あるいはN2／S1、あるいはS2 (tai, muodollinen) (compare) ::: AそれともB (vai) (compare)
-N1あるいはN2／S1、あるいはS2 (tai, muodollinen) (compare) ::: ～なり～なり (esimerkiksi A tai B) (compare)
+N1あるいはN2／S1、あるいはS2 (tai, muodollinen) 電話**あるいは**メールで連絡してください (similar/compare) vs. tai, virallinen
+??
+AもしくはB (tai, virallinen) 本人**もしくは**代理人が来てください (similar/compare) vs. tai, muodollinen
+
+N1あるいはN2／S1、あるいはS2 (tai, muodollinen) 電話**あるいは**メールで連絡してください (compare) vs. vai
+??
+AそれともB (vai) 電車で行く？**それとも**バス？ (compare) vs. tai, muodollinen
+
+N1あるいはN2／S1、あるいはS2 (tai, muodollinen) 電話**あるいは**メールで連絡してください (compare) vs. esimerkiksi A tai B
+??
+～なり～なり (esimerkiksi A tai B) 電話**なり**メール**なり**で連絡して (compare) vs. tai, muodollinen

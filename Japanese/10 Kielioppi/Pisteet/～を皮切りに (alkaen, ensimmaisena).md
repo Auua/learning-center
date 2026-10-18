@@ -68,4 +68,6 @@ Sarja tapahtumia: 次々と, 全国で.
 
 #flashcards/grammar/n1/vertailu
 
-N＋を皮切りに（して）／を皮切りとして (alkaen, ensimmaisena) (similar/compare) ::: ～をはじめ (mukaan lukien, ensimmaisena) (similar/compare)
+N＋を皮切りに（して）／を皮切りとして (alkaen, ensimmaisena) 東京**を皮切りに**、全国でコンサートを行う (similar/compare) vs. mukaan lukien, ensimmaisena
+??
+～をはじめ (mukaan lukien, ensimmaisena) 東京**をはじめ**、大都市は家賃が高い (similar/compare) vs. alkaen, ensimmaisena

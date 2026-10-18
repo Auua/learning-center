@@ -63,9 +63,26 @@ Puhekielinen supistuma きり:stä, usein negatiivisella sävyllä: まかせっ
 
 #flashcards/grammar/n2/vertailu
 
-V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (similar/compare) ::: Vます-vartalo＋上げる (saada valmiiksi) (similar/compare)
-V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (similar/compare) ::: Vます-vartalo＋切れない (ei pysty kokonaan) (similar/compare)
-V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (compare) ::: Vます-vartalo＋通す (loppuun asti) (compare)
-V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (compare) ::: Vます-vartalo＋かける・かけ (keskeneraista) (compare)
-V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (similar/compare) ::: Vます-vartalo＋尽くす (tehda perin pohjin) (similar/compare)
-V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) (similar/compare) ::: Vます-vartalo＋抜く (loppuun asti, perin pohjin) (similar/compare)
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (similar/compare) vs. saada valmiiksi
+??
+Vます-vartalo＋上げる (saada valmiiksi) 一晩でレポートを書き**上げた** (similar/compare) vs. tehda loppuun, kokonaan
+
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (similar/compare) vs. ei pysty kokonaan
+??
+Vます-vartalo＋切れない (ei pysty kokonaan) 多すぎて食べ**切れない** (similar/compare) vs. tehda loppuun, kokonaan
+
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (compare) vs. loppuun asti
+??
+Vます-vartalo＋通す (loppuun asti) マラソンを最後まで走り**通した** (compare) vs. tehda loppuun, kokonaan
+
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (compare) vs. keskeneraista
+??
+Vます-vartalo＋かける・かけ (keskeneraista) 手紙を書き**かけて**、やめた (compare) vs. tehda loppuun, kokonaan
+
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (similar/compare) vs. tehda perin pohjin
+??
+Vます-vartalo＋尽くす (tehda perin pohjin) 町のことを知り**尽くしている** (similar/compare) vs. tehda loppuun, kokonaan
+
+V(ます-vartalo)＋きる・きった・っきり (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (similar/compare) vs. loppuun asti, perin pohjin
+??
+Vます-vartalo＋抜く (loppuun asti, perin pohjin) マラソンを最後まで走り**抜いた** (similar/compare) vs. tehda loppuun, kokonaan

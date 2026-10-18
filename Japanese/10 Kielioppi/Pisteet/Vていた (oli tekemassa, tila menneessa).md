@@ -71,6 +71,14 @@ Mikä on 〜ていた:n puhekielinen lyhenne?
 
 #flashcards/grammar/n4/vertailu
 
-V(て-muoto)＋いた／いました (oli tekemassa, tila menneessa) (similar/compare) ::: ～ている (parhaillaan, tilan tulos) (similar/compare)
-V(て-muoto)＋いた／いました (oli tekemassa, tila menneessa) (compare) ::: Vたことがあります (kokemus) (compare)
-V(て-muoto)＋いた／いました (oli tekemassa, tila menneessa) (compare) ::: Vたものだ (oli tapana) (compare)
+V(て-muoto)＋いた／いました (oli tekemassa, tila menneessa) 電話が鳴ったとき、シャワーを浴び**ていた** (similar/compare) vs. parhaillaan, tilan tulos
+??
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar/compare) vs. oli tekemassa, tila menneessa
+
+V(て-muoto)＋いた／いました (oli tekemassa, tila menneessa) 電話が鳴ったとき、シャワーを浴び**ていた** (compare) vs. kokemus
+??
+Vたことがあります (kokemus) 馬に乗っ**たことがあります** (compare) vs. oli tekemassa, tila menneessa
+
+V(て-muoto)＋いた／いました (oli tekemassa, tila menneessa) 電話が鳴ったとき、シャワーを浴び**ていた** (compare) vs. oli tapana
+??
+Vたものだ (oli tapana) 子どもの頃、よくこの川で泳いだ**ものだ** (compare) vs. oli tekemassa, tila menneessa

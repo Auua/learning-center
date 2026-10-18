@@ -68,5 +68,10 @@ Odotuksen vastainen tosiasia.
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋かと思いきや (luuli etta, mutta toisin) (similar) ::: ところが (mutta yllattaen) (similar)
-普通形＋かと思いきや (luuli etta, mutta toisin) (compare) ::: Vたかと思ったら (heti kun, samassa) (compare)
+普通形＋かと思いきや (luuli etta, mutta toisin) 簡単**かと思いきや**、とても難しかった (similar) vs. mutta yllattaen
+??
+ところが (mutta yllattaen) **ところが**、とても難しかった (similar) vs. luuli etta, mutta toisin
+
+普通形＋かと思いきや (luuli etta, mutta toisin) 簡単**かと思いきや**、とても難しかった (compare) vs. heti kun, samassa
+??
+Vたかと思ったら (heti kun, samassa) 雨が降り出した**かと思ったら**、すぐやんだ (compare) vs. luuli etta, mutta toisin

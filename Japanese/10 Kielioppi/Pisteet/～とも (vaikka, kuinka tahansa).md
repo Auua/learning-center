@@ -71,6 +71,14 @@ Sama; とも kirjallinen.
 
 #flashcards/grammar/n2/vertailu
 
-Adjく／Vよう＋とも (vaikka, kuinka tahansa) (similar/compare) ::: Vても (vaikka) (similar/compare)
-Adjく／Vよう＋とも (vaikka, kuinka tahansa) (similar) ::: 普通形としても (vaikka oletettaisiinkin) (similar)
-Adjく／Vよう＋とも (vaikka, kuinka tahansa) (similar) ::: Vようが・ようと (vaikka, kuinka tahansa) (similar)
+Adjく／Vよう＋とも (vaikka, kuinka tahansa) どんなに苦しく**とも**、諦めない (similar/compare) vs. "vaikka" perus
+??
+Vても (vaikka) 雨が降っ**ても**、洗濯します (similar/compare) vs. kirjallinen "kuinka tahansa"
+
+Adjく／Vよう＋とも (vaikka, kuinka tahansa) どんなに苦しく**とも**、諦めない (similar) vs. vaikka oletettaisiinkin
+??
+普通形としても (vaikka oletettaisiinkin) 保育所があった**としても**、費用が高い (similar) vs. vaikka, kuinka tahansa
+
+Adjく／Vよう＋とも (vaikka, kuinka tahansa) どんなに苦しく**とも**、諦めない (similar) vs. "vaikka, kuinka tahansa"
+??
+Vようが・ようと (vaikka, kuinka tahansa) 誰が何と言**おうが**、私は行く (similar) vs. "kuinka tahansa" kirjallinen

@@ -71,5 +71,10 @@ Miten か何か muuttuu, kun puhutaan ihmisestä?
 
 #flashcards/grammar/n3/vertailu
 
-N＋か何か (tai jotain) (similar) ::: Nでも (vaikkapa, esimerkiksi) (similar)
-N＋か何か (tai jotain) (compare) ::: ～とか～とか (epamuodollinen esimerkkilista) (compare)
+N＋か何か (tai jotain) 風邪**か何か**で休んでいるらしい (similar) vs. vaikkapa, esimerkiksi
+??
+Nでも (vaikkapa, esimerkiksi) お茶**でも**飲みませんか (similar) vs. tai jotain
+
+N＋か何か (tai jotain) 風邪**か何か**で休んでいるらしい (compare) vs. epamuodollinen esimerkkilista
+??
+～とか～とか (epamuodollinen esimerkkilista) 肉**とか**魚**とか**を買った (compare) vs. tai jotain

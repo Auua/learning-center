@@ -69,7 +69,18 @@ Ei tyypillisesti — kolmas persoona.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋なり (heti kun) (similar) ::: や否や (heti kun, samalla hetkella) (similar)
-V辞書形＋なり (heti kun) (similar) ::: Vが早いか (heti kun, samassa) (similar)
-V辞書形＋なり (heti kun) (similar) ::: ～とみると (heti nahtyaan) (similar)
-V辞書形＋なり (heti kun) (compare) ::: Vたとたん（に） (juuri sina hetkena) (compare)
+V辞書形＋なり (heti kun) 彼は家に帰る**なり**、寝てしまった (similar) vs. "heti kun" kirjallinen
+??
+や否や (heti kun, samalla hetkella) ドアが開く**や否や**、子どもたちが飛び出した (similar) vs. "heti kun" (henkilö)
+
+V辞書形＋なり (heti kun) 彼は家に帰る**なり**、寝てしまった (similar) vs. "heti kun" (samassa)
+??
+Vが早いか (heti kun, samassa) ベルが鳴る**が早いか**、生徒は飛び出した (similar) vs. "heti kun" kirjallinen
+
+V辞書形＋なり (heti kun) 彼は家に帰る**なり**、寝てしまった (similar) vs. heti nahtyaan
+??
+～とみると (heti nahtyaan) 勝てない**とみると**、彼はすぐ諦めた (similar) vs. heti kun
+
+V辞書形＋なり (heti kun) 彼は家に帰る**なり**、寝てしまった (compare) vs. juuri sina hetkena
+??
+Vたとたん（に） (juuri sina hetkena) 電話で母の声を聞いた**とたんに**、涙が出てきた (compare) vs. "heti kun" kirjallinen (henkilö)

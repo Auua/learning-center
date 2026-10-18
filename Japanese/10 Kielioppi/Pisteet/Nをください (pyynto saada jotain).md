@@ -71,4 +71,6 @@ Ensimmäinen pyytää esinettä; jälkimmäinen pyytää toista tekemään jotai
 
 #flashcards/grammar/n5/vertailu
 
-Nを［määrä］ください (pyynto saada jotain) (compare) ::: Vて ください (pyyntö) (compare)
+Nを［määrä］ください (pyynto saada jotain) 水**をください** (compare) vs. pyyntö
+??
+Vて ください (pyyntö) ここに名前を書い**てください** (compare) vs. pyynto saada jotain

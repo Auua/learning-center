@@ -108,7 +108,18 @@ Sama etäisyysjärjestelmä, mutta これ-sarja koskee esineitä ja ここ-sarja
 
 #flashcards/grammar/n5/vertailu
 
-これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) (similar) ::: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) (similar)
-これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) (similar) ::: Nの (omistuspronomini, kenen oma) (similar)
-これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) (similar) ::: どれ (mikä niistä) (similar)
-これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) (similar/compare) ::: それ (viittaus juuri sanottuun) (similar/compare)
+これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) これは辞書です (similar) vs. paikat ja suunnat
+??
+ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) ここは食堂です (similar) vs. tämä, tuo, tuo tuolla
+
+これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) これは辞書です (similar) vs. omistuspronomini, kenen oma
+??
+Nの (omistuspronomini, kenen oma) このかばんは**わたしの**です (similar) vs. tämä, tuo, tuo tuolla
+
+これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) これは辞書です (similar) vs. mikä niistä
+??
+どれ (mikä niistä) ミラーさんのかさは**どれ**ですか (similar) vs. tämä, tuo, tuo tuolla
+
+これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) これは辞書です (similar/compare) vs. viittaus juuri sanottuun
+??
+それ (viittaus juuri sanottuun) A：結婚します。B：**それは**おめでとう (similar/compare) vs. tämä, tuo, tuo tuolla

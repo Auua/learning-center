@@ -69,4 +69,6 @@ Lähes sama; いずれ muodollisempi.
 
 #flashcards/grammar/n1/vertailu
 
-いずれにしても／いずれにせよ／いずれにしろ (joka tapauksessa) (similar/compare) ::: ～にしても (vaikka olisikin) (similar/compare)
+いずれにしても／いずれにせよ／いずれにしろ (joka tapauksessa) **いずれにしても**、明日連絡します (similar/compare) vs. vaikka olisikin
+??
+～にしても (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (similar/compare) vs. joka tapauksessa

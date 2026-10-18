@@ -74,5 +74,10 @@ Toimii kuten は, mutta rennommin: ワット先生ってどんな先生 = ワッ
 
 #flashcards/grammar/n3/vertailu
 
-～って（引用・主題） (puhekielinen to, topiikki) (similar) ::: 普通形と言います (lainaus) (similar)
-～って（引用・主題） (puhekielinen to, topiikki) (similar) ::: N1とN2 (ja) (similar)
+～って（引用・主題） (puhekielinen to, topiikki) この漢字は何**て**読むんですか (similar) vs. lainaus
+??
+普通形と言います (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. puhekielinen to, topiikki
+
+～って（引用・主題） (puhekielinen to, topiikki) この漢字は何**て**読むんですか (similar) vs. ja
+??
+N1とN2 (ja) 土曜日**と**日曜日 (similar) vs. puhekielinen to, topiikki

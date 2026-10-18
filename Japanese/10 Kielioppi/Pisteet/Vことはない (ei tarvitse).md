@@ -70,8 +70,22 @@ Rohkaiseva tai lohduttava.
 
 #flashcards/grammar/n3/vertailu
 
-V(辞書形)＋ことはない (ei tarvitse) (similar/compare) ::: ～には当たらない (ei ole syyta) (similar/compare)
-V(辞書形)＋ことはない (ei tarvitse) (similar) ::: ～には及ばない (ei tarvitse, ei veda vertoja) (similar)
-V(辞書形)＋ことはない (ei tarvitse) (compare) ::: Vる必要がある (on tarpeen tehda) (compare)
-V(辞書形)＋ことはない (ei tarvitse) (compare) ::: Vなくても いいです (ei tarvitse) (compare)
-V(辞書形)＋ことはない (ei tarvitse) (compare) ::: Vないことはない (ei ole mahdotonta) (compare)
+V(辞書形)＋ことはない (ei tarvitse) 心配する**ことはない**よ (similar/compare) vs. ei ole syyta
+??
+～には当たらない (ei ole syyta) 驚く**には当たらない** (similar/compare) vs. ei tarvitse
+
+V(辞書形)＋ことはない (ei tarvitse) 心配する**ことはない**よ (similar) vs. kohtelias "ei ole tarpeen, ei vedä vertoja"
+??
+～には及ばない (ei tarvitse, ei veda vertoja) わざわざ来る**には及ばない** (similar) vs. "ei tarvitse"
+
+V(辞書形)＋ことはない (ei tarvitse) 心配する**ことはない**よ (compare) vs. on tarpeen tehda
+??
+Vる必要がある (on tarpeen tehda) 予約する**必要があります** (compare) vs. "ei tarvitse" (rauhoittelu)
+
+V(辞書形)＋ことはない (ei tarvitse) 心配する**ことはない**よ (compare) vs. perus "ei tarvitse"
+??
+Vなくても いいです (ei tarvitse) あした来**なくてもいいです** (compare) vs. "ei tarvitse" (neuvo)
+
+V(辞書形)＋ことはない (ei tarvitse) 心配する**ことはない**よ (compare) vs. ei ole mahdotonta
+??
+Vないことはない (ei ole mahdotonta) 食べられ**ないことはない**けど、好きじゃない (compare) vs. ei tarvitse

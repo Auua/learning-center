@@ -68,4 +68,6 @@ Ei — aina epämieluisa.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋羽目になる／羽目に陥る (joutua ikavaan tilanteeseen) (similar/compare) ::: ことになる・ことになっている (ulkopuolinen paatos) (similar/compare)
+V辞書形＋羽目になる／羽目に陥る (joutua ikavaan tilanteeseen) 寝坊して、タクシーで行く**羽目になった** (similar/compare) vs. ulkopuolinen paatos
+??
+ことになる・ことになっている (ulkopuolinen paatos) 夫の転勤で広島へ引っ越す**ことになりました** (similar/compare) vs. joutua ikavaan tilanteeseen

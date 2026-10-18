@@ -76,6 +76,14 @@ Miettimistä tai pehmeää empimistä, joskus kieltäytymisen alkua.
 
 #flashcards/grammar/n5/vertailu
 
-そうですね (myötäily, samaa mieltä) (similar/compare) ::: そうですか (ahaa, uuden tiedon kuittaus) (similar/compare)
-そうですね (myötäily, samaa mieltä) (similar/compare) ::: Sね (vahvistus, eikö niin) (similar/compare)
-そうですね (myötäily, samaa mieltä) (similar) ::: そうです (niin on) (similar)
+そうですね (myötäily, samaa mieltä) A：暑いですね。B：**そうですね** (similar/compare) vs. ahaa, uuden tiedon kuittaus
+??
+そうですか (ahaa, uuden tiedon kuittaus) A：日本人です。B：**そうですか** (similar/compare) vs. myötäily, samaa mieltä
+
+そうですね (myötäily, samaa mieltä) A：暑いですね。B：**そうですね** (similar/compare) vs. vahvistus, eikö niin
+??
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar/compare) vs. myötäily, samaa mieltä
+
+そうですね (myötäily, samaa mieltä) A：暑いですね。B：**そうですね** (similar) vs. niin on
+??
+そうです (niin on) これはテレホンカードですか (similar) vs. myötäily, samaa mieltä

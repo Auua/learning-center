@@ -80,6 +80,14 @@ Konkreettinen/havaittu, oma kokemus → の (絵をかくのは楽しいです);
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形ことは／が／を (yleistys ja arvottaminen) (similar/compare) ::: Vのは・Vのが・Vのを (nominalisointi) (similar/compare)
-V辞書形ことは／が／を (yleistys ja arvottaminen) (similar/compare) ::: 普通形ということを (raportoitu vaite objektina) (similar/compare)
-V辞書形ことは／が／を (yleistys ja arvottaminen) (compare) ::: ～ことは～が (kylla mutta) (compare)
+V辞書形ことは／が／を (yleistys ja arvottaminen) 若いときに留学する**ことは**いい経験になると思います (similar/compare) vs. nominalisointi
+??
+Vのは・Vのが・Vのを (nominalisointi) 絵を**かくのは**楽しいです (similar/compare) vs. yleistys ja arvottaminen
+
+V辞書形ことは／が／を (yleistys ja arvottaminen) 若いときに留学する**ことは**いい経験になると思います (similar/compare) vs. raportoitu vaite objektina
+??
+普通形ということを (raportoitu vaite objektina) この島に空港が造られる**ことについて**どう思いますか (similar/compare) vs. yleistys ja arvottaminen
+
+V辞書形ことは／が／を (yleistys ja arvottaminen) 若いときに留学する**ことは**いい経験になると思います (compare) vs. kylla mutta
+??
+～ことは～が (kylla mutta) 行く**ことは**行く**が**、遅れるかもしれない (compare) vs. yleistys ja arvottaminen

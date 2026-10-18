@@ -70,6 +70,14 @@ Kyllä — toteutunut asia, josta puhuja on tyytyväinen.
 
 #flashcards/grammar/n4/vertailu
 
-V(て-muoto)＋よかった (onneksi, olen iloinen etta) (similar) ::: Vて (tunnereaktion syy) (similar)
-V(て-muoto)＋よかった (onneksi, olen iloinen etta) (compare) ::: Vばよかった (olisi pitanyt) (compare)
-V(て-muoto)＋よかった (onneksi, olen iloinen etta) (compare) ::: Vてすみません (anteeksi etta) (compare)
+V(て-muoto)＋よかった (onneksi, olen iloinen etta) 日本に来**てよかった** (similar) vs. tunnereaktion syy
+??
+Vて (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar) vs. onneksi, olen iloinen etta
+
+V(て-muoto)＋よかった (onneksi, olen iloinen etta) 日本に来**てよかった** (compare) vs. olisi pitanyt
+??
+Vばよかった (olisi pitanyt) もっと勉強すれ**ばよかった** (compare) vs. onneksi, olen iloinen etta
+
+V(て-muoto)＋よかった (onneksi, olen iloinen etta) 日本に来**てよかった** (compare) vs. anteeksi etta
+??
+Vてすみません (anteeksi etta) 遅れ**てすみません** (compare) vs. onneksi, olen iloinen etta

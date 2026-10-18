@@ -68,5 +68,10 @@ Lähes sama; どうにもならない korostaa muuttumattomuutta.
 
 #flashcards/grammar/n1/vertailu
 
-V(て)＋もどうにもならない (turha, ei auta) (similar/compare) ::: Vても始まらない (turha tehda) (similar/compare)
-V(て)＋もどうにもならない (turha, ei auta) (similar) ::: Vてもしょうがない・ても仕方がない (turhaa, ei auta) (similar)
+V(て)＋もどうにもならない (turha, ei auta) 今さら後悔し**てもどうにもならない** (similar/compare) vs. turha tehda
+??
+Vても始まらない (turha tehda) 今さら後悔し**ても始まらない** (similar/compare) vs. turha, ei auta
+
+V(て)＋もどうにもならない (turha, ei auta) 今さら後悔し**てもどうにもならない** (similar) vs. turhaa, ei auta
+??
+Vてもしょうがない・ても仕方がない (turhaa, ei auta) 今から急い**でもしょうがない** (similar) vs. turha, ei auta

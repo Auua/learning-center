@@ -72,6 +72,14 @@ Niissä そう/よう on predikaattiin liittyvä pääte (kuulopuhe/päättely);
 
 #flashcards/grammar/n2/vertailu
 
-（普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
-（普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) (similar) ::: 普通形ようです (havaintoon perustuva paattely) (similar)
-（普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) (similar) ::: 普通形ように (kuten, niin kuin) (similar)
+（普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) 父が**そうであったように**、私も教師になった (similar/compare) vs. kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. kuten aiemmin, viittaava
+
+（普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) 父が**そうであったように**、私も教師になった (similar) vs. havaintoon perustuva paattely
+??
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (similar) vs. kuten aiemmin, viittaava
+
+（普通形）そうであったように・誰でもそうだが (kuten aiemmin, viittaava) 父が**そうであったように**、私も教師になった (similar) vs. kuten, niin kuin
+??
+普通形ように (kuten, niin kuin) 前にも言った**ように**、明日は休みです (similar) vs. kuten aiemmin, viittaava

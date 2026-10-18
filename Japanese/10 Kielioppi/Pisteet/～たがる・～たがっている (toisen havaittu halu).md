@@ -85,4 +85,6 @@ Persoona ratkaisee: ulkoisesti havaittu toisen tila → がっています; oma 
 
 #flashcards/grammar/n3/vertailu
 
-V(たい-vartalo)がる・がっている (toisen havaittu halu) (similar/compare) ::: Adj-vartalo＋がり (taipumus, luonteenpiirre) (similar/compare)
+V(たい-vartalo)がる・がっている (toisen havaittu halu) 子どもは友達の物を**欲しがります** (similar/compare) vs. taipumus, luonteenpiirre
+??
+Adj-vartalo＋がり (taipumus, luonteenpiirre) 弟は**寒がり**だ (similar/compare) vs. toisen havaittu halu

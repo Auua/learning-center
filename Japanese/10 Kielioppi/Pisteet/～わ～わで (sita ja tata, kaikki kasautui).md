@@ -68,4 +68,6 @@ Lähes sama; わ〜わで korostaa peräkkäistä kasautumista.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形／Adj＋わ＋〜わで (sita ja tata, kaikki kasautui) (similar/compare) ::: ～やら～やら (muun muassa, mita kaikkea) (similar/compare)
+V辞書形／Adj＋わ＋〜わで (sita ja tata, kaikki kasautui) 雨は降る**わ**、風は吹く**わで**、大変だった (similar/compare) vs. muun muassa, mita kaikkea
+??
+～やら～やら (muun muassa, mita kaikkea) 宿題**やら**アルバイト**やら**で、忙しい (similar/compare) vs. sita ja tata, kaikki kasautui

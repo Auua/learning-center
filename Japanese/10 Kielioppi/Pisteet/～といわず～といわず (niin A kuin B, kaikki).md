@@ -68,4 +68,6 @@ Koko aluetta tai kaikkia aikoja.
 
 #flashcards/grammar/n1/vertailu
 
-N1といわず N2といわず (niin A kuin B, kaikki) (similar/compare) ::: ～といい～といい (seka A etta B) (similar/compare)
+N1といわず N2といわず (niin A kuin B, kaikki) 顔**といわず**手**といわず**、泥だらけだ (similar/compare) vs. seka A etta B
+??
+～といい～といい (seka A etta B) 味**といい**値段**といい**、文句なしだ (similar/compare) vs. niin A kuin B, kaikki

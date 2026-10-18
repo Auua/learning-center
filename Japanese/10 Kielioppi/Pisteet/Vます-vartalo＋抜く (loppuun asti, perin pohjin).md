@@ -70,6 +70,14 @@ Miettiä perusteellisesti loppuun asti.
 
 #flashcards/grammar/n2/vertailu
 
-V(ます-vartalo)＋抜く (loppuun asti, perin pohjin) (similar/compare) ::: Vきる (tehda loppuun, kokonaan) (similar/compare)
-V(ます-vartalo)＋抜く (loppuun asti, perin pohjin) (similar) ::: Vます-vartalo＋通す (loppuun asti) (similar)
-V(ます-vartalo)＋抜く (loppuun asti, perin pohjin) (similar) ::: Vます-vartalo＋尽くす (tehda perin pohjin) (similar)
+V(ます-vartalo)＋抜く (loppuun asti, perin pohjin) マラソンを最後まで走り**抜いた** (similar/compare) vs. tehda loppuun, kokonaan
+??
+Vきる (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (similar/compare) vs. loppuun asti, perin pohjin
+
+V(ます-vartalo)＋抜く (loppuun asti, perin pohjin) マラソンを最後まで走り**抜いた** (similar) vs. "loppuun keskeytyksettä"
+??
+Vます-vartalo＋通す (loppuun asti) マラソンを最後まで走り**通した** (similar) vs. "loppuun asti sinnitellen"
+
+V(ます-vartalo)＋抜く (loppuun asti, perin pohjin) マラソンを最後まで走り**抜いた** (similar) vs. tehda perin pohjin
+??
+Vます-vartalo＋尽くす (tehda perin pohjin) 町のことを知り**尽くしている** (similar) vs. loppuun asti, perin pohjin

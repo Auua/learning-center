@@ -71,6 +71,14 @@ Ikään kuin olisi tehnyt (mielikuvitus).
 
 #flashcards/grammar/n3/vertailu
 
-V(辞書形)＋つもりで／Vた＋つもりで (aikomuksella) (similar) ::: Vつもりです (paatetty aikomus) (similar)
-V(辞書形)＋つもりで／Vた＋つもりで (aikomuksella) (compare) ::: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) (compare)
-V(辞書形)＋つもりで／Vた＋つもりで (aikomuksella) (compare) ::: ～ものとして (olettaen etta) (compare)
+V(辞書形)＋つもりで／Vた＋つもりで (aikomuksella) 留学する**つもりで**、お金をためている (similar) vs. paatetty aikomus
+??
+Vつもりです (paatetty aikomus) 来月車を**買うつもりです** (similar) vs. aikomuksella
+
+V(辞書形)＋つもりで／Vた＋つもりで (aikomuksella) 留学する**つもりで**、お金をためている (compare) vs. kiistetty ja toteutumaton aikomus
+??
+Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (compare) vs. aikomuksella
+
+V(辞書形)＋つもりで／Vた＋つもりで (aikomuksella) 留学する**つもりで**、お金をためている (compare) vs. olettaen etta
+??
+～ものとして (olettaen etta) 全員出席する**ものとして**、準備を進める (compare) vs. aikomuksella

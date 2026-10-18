@@ -71,9 +71,26 @@ Toivetta, jonka toteutuminen ei ole puhujan käsissä (usein toiselle).
 
 #flashcards/grammar/n3/vertailu
 
-V(ば-muoto)＋いい (riittaa kun, pitaisi) (similar/compare) ::: Vといい・Vたらいい (toivottavasti, kannattaisi) (similar/compare)
-V(ば-muoto)＋いい (riittaa kun, pitaisi) (similar) ::: Vないものか (eiko voisi mitenkaan) (similar)
-V(ば-muoto)＋いい (riittaa kun, pitaisi) (compare) ::: 疑問詞+たらいいですか (neuvon kysyminen) (compare)
-V(ば-muoto)＋いい (riittaa kun, pitaisi) (compare) ::: Vたほうがいいです (kannattaisi tehda) (compare)
-V(ば-muoto)＋いい (riittaa kun, pitaisi) (compare) ::: Vものなら (jos vain voisi) (compare)
-V(ば-muoto)＋いい (riittaa kun, pitaisi) (similar/compare) ::: 疑問詞＋Vばいいですか (neuvon kysyminen ば) (similar/compare)
+V(ば-muoto)＋いい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (similar/compare) vs. toivottavasti, kannattaisi
+??
+Vといい・Vたらいい (toivottavasti, kannattaisi) 疲れたら、少し休む**といい**ですよ (similar/compare) vs. riittaa kun, pitaisi
+
+V(ば-muoto)＋いい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (similar) vs. eiko voisi mitenkaan
+??
+Vないものか (eiko voisi mitenkaan) 何とか助けられ**ないものか** (similar) vs. riittaa kun, pitaisi
+
+V(ば-muoto)＋いい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (compare) vs. neuvon kysyminen
+??
+疑問詞+たらいいですか (neuvon kysyminen) どこでカメラを**買ったらいいですか** (compare) vs. riittaa kun, pitaisi
+
+V(ば-muoto)＋いい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (compare) vs. kannattaisi tehda
+??
+Vたほうがいいです (kannattaisi tehda) 毎日**運動したほうがいいです** (compare) vs. riittaa kun, pitaisi
+
+V(ば-muoto)＋いい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (compare) vs. jos vain voisi
+??
+Vものなら (jos vain voisi) 戻れる**ものなら**、学生時代に戻りたい (compare) vs. riittaa kun, pitaisi
+
+V(ば-muoto)＋いい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (similar/compare) vs. neuvon kysyminen ば
+??
+疑問詞＋Vばいいですか (neuvon kysyminen ば) このボタンを押せ**ばいいです**よ (similar/compare) vs. riittaa kun, pitaisi

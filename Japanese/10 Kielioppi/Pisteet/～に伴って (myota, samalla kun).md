@@ -71,5 +71,10 @@ Muodollinen; uutiset ja raportit.
 
 #flashcards/grammar/n2/vertailu
 
-N／V辞書形の＋に伴って／に伴い／に伴う (myota, samalla kun) (similar/compare) ::: Vにつれて (sita mukaa kun) (similar/compare)
-N／V辞書形の＋に伴って／に伴い／に伴う (myota, samalla kun) (similar) ::: ～とともに (yhdessa, samalla) (similar)
+N／V辞書形の＋に伴って／に伴い／に伴う (myota, samalla kun) 人口の増加**に伴って**、住宅が不足した (similar/compare) vs. sita mukaa kun
+??
+Vにつれて (sita mukaa kun) 時間が経つ**につれて**、腹が立ってきた (similar/compare) vs. myota, samalla kun
+
+N／V辞書形の＋に伴って／に伴い／に伴う (myota, samalla kun) 人口の増加**に伴って**、住宅が不足した (similar) vs. yhdessa, samalla
+??
+～とともに (yhdessa, samalla) 経済の発展**とともに**、生活が変わった (similar) vs. myota, samalla kun

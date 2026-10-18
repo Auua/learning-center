@@ -71,7 +71,18 @@ Molemmat ilmaisevat pakon. しかない korostaa, ettei muita vaihtoehtoja ole j
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形＋しかない (ei ole muuta vaihtoehtoa) (similar/compare) ::: Vざるを得ない (on pakko) (similar/compare)
-V辞書形＋しかない (ei ole muuta vaihtoehtoa) (compare) ::: Vようがない (ei ole keinoa) (compare)
-V辞書形＋しかない (ei ole muuta vaihtoehtoa) (similar/compare) ::: Vまでだ (ei muuta kuin, vain) (similar/compare)
-V辞書形＋しかない (ei ole muuta vaihtoehtoa) (similar/compare) ::: Vよりほかない (ei ole muuta kuin) (similar/compare)
+V辞書形＋しかない (ei ole muuta vaihtoehtoa) 内容より形を重視する考えに従う**しかなかった** (similar/compare) vs. on pakko
+??
+Vざるを得ない (on pakko) 今日は大事な会議があるが、休ま**ざるを得ない** (similar/compare) vs. ei ole muuta vaihtoehtoa
+
+V辞書形＋しかない (ei ole muuta vaihtoehtoa) 内容より形を重視する考えに従う**しかなかった** (compare) vs. ei ole keinoa
+??
+Vようがない (ei ole keinoa) 連絡先がわからないので、連絡し**ようがない** (compare) vs. ei ole muuta vaihtoehtoa
+
+V辞書形＋しかない (ei ole muuta vaihtoehtoa) 内容より形を重視する考えに従う**しかなかった** (similar/compare) vs. ei muuta kuin, vain
+??
+Vまでだ (ei muuta kuin, vain) だめなら、もう一度やる**までだ** (similar/compare) vs. ei ole muuta vaihtoehtoa
+
+V辞書形＋しかない (ei ole muuta vaihtoehtoa) 内容より形を重視する考えに従う**しかなかった** (similar/compare) vs. ei ole muuta kuin
+??
+Vよりほかない (ei ole muuta kuin) 待つ**よりほかない** (similar/compare) vs. ei ole muuta vaihtoehtoa

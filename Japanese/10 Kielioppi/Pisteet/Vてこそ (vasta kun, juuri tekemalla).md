@@ -69,5 +69,10 @@ Myönteinen arvo: 意味がある, 身につく.
 
 #flashcards/grammar/n2/vertailu
 
-V(て)＋こそ (vasta kun, juuri tekemalla) (similar) ::: Nこそ (juuri se, nimenomaan) (similar)
-V(て)＋こそ (vasta kun, juuri tekemalla) (similar/compare) ::: Vてはじめて (vasta silloin kun) (similar/compare)
+V(て)＋こそ (vasta kun, juuri tekemalla) 自分でやっ**てこそ**、身につく (similar) vs. juuri se, nimenomaan
+??
+Nこそ (juuri se, nimenomaan) **あなたこそ**、あの本の山はいったい何なの! (similar) vs. vasta kun, juuri tekemalla
+
+V(て)＋こそ (vasta kun, juuri tekemalla) 自分でやっ**てこそ**、身につく (similar/compare) vs. vasta silloin kun
+??
+Vてはじめて (vasta silloin kun) 子どもを持って**はじめて**親のありがたさがわかった (similar/compare) vs. vasta kun, juuri tekemalla

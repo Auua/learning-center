@@ -69,5 +69,10 @@ Mitkä ovat かたがた:n tyypilliset vakiofraasit?
 
 #flashcards/grammar/n1/vertailu
 
-N＋かたがた (samalla kun, muodollinen) (similar/compare) ::: Nがてら (samalla kun, samalla reissulla) (similar/compare)
-N＋かたがた (samalla kun, muodollinen) (similar) ::: ～を兼ねて (samalla myos) (similar)
+N＋かたがた (samalla kun, muodollinen) お礼**かたがた**、ご挨拶に伺いました (similar/compare) vs. samalla kun, samalla reissulla
+??
+Nがてら (samalla kun, samalla reissulla) 散歩**がてら**、パンを買いに行く (similar/compare) vs. samalla kun, muodollinen
+
+N＋かたがた (samalla kun, muodollinen) お礼**かたがた**、ご挨拶に伺いました (similar) vs. samalla myos
+??
+～を兼ねて (samalla myos) 運動**を兼ねて**、歩いて通勤している (similar) vs. samalla kun, muodollinen

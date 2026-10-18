@@ -109,7 +109,18 @@ Miten AはBです -rakenteen は eroaa が:stä?
 
 #flashcards/grammar/n5/vertailu
 
-AはBです (A on B, peruslause) (similar/compare) ::: Nも (myos, sama patee) (similar/compare)
-AはBです (A on B, peruslause) (compare) ::: Nが (subjektipartikkeli, uusi tieto) (compare)
-AはBです (A on B, peruslause) (similar/compare) ::: Nじゃありません (kielteinen kopula) (similar/compare)
-AはBです (A on B, peruslause) (similar) ::: Sか (kysymyspartikkeli) (similar)
+AはBです (A on B, peruslause) わたし**は**学生**です** (similar/compare) vs. myos, sama patee
+??
+Nも (myos, sama patee) 私**も**学生です (similar/compare) vs. A on B, peruslause
+
+AはBです (A on B, peruslause) わたし**は**学生**です** (compare) vs. subjektipartikkeli, uusi tieto
+??
+Nが (subjektipartikkeli, uusi tieto) **だれが**来ましたか (compare) vs. A on B, peruslause
+
+AはBです (A on B, peruslause) わたし**は**学生**です** (similar/compare) vs. kielteinen kopula
+??
+Nじゃありません (kielteinen kopula) わたしは先生**じゃありません** (similar/compare) vs. A on B, peruslause
+
+AはBです (A on B, peruslause) わたし**は**学生**です** (similar) vs. kysymyspartikkeli
+??
+Sか (kysymyspartikkeli) ミラーさんは会社員**ですか** (similar) vs. A on B, peruslause

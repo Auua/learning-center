@@ -72,6 +72,14 @@ Miten といえども eroaa たとえ～ても:stä?
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋といえども (vaikka onkin, muodollinen) (similar/compare) ::: たとえ～ても (vaikka kuinka) (similar/compare)
-N／普通形＋といえども (vaikka onkin, muodollinen) (similar) ::: 普通形にもかかわらず (siita huolimatta etta) (similar)
-N／普通形＋といえども (vaikka onkin, muodollinen) (similar) ::: ～とはいえ (vaikka, tosin) (similar)
+N／普通形＋といえども (vaikka onkin, muodollinen) 名医**といえども**、すべての患者を救うことはできない (similar/compare) vs. vaikka kuinka
+??
+たとえ～ても (vaikka kuinka) **たとえ**雨が降っ**ても**、行きます (similar/compare) vs. vaikka onkin, muodollinen
+
+N／普通形＋といえども (vaikka onkin, muodollinen) 名医**といえども**、すべての患者を救うことはできない (similar) vs. siita huolimatta etta
+??
+普通形にもかかわらず (siita huolimatta etta) 雨**にもかかわらず**、大勢来た (similar) vs. vaikka onkin, muodollinen
+
+N／普通形＋といえども (vaikka onkin, muodollinen) 名医**といえども**、すべての患者を救うことはできない (similar) vs. vaikka, tosin
+??
+～とはいえ (vaikka, tosin) 春**とはいえ**、まだ寒い (similar) vs. vaikka onkin, muodollinen

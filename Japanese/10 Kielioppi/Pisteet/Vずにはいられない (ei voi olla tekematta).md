@@ -71,6 +71,14 @@ Mikä on する-verbin ず-muoto?
 
 #flashcards/grammar/n3/vertailu
 
-V(ない-vartalo)＋ずにはいられない (ei voi olla tekematta) (similar/compare) ::: ～てしょうがない・てしかたがない (sietamattoman) (similar/compare)
-V(ない-vartalo)＋ずにはいられない (ei voi olla tekematta) (similar/compare) ::: ～を禁じ得ない (ei voi olla tuntematta) (similar/compare)
-V(ない-vartalo)＋ずにはいられない (ei voi olla tekematta) (similar/compare) ::: Vずにはおかない (saa vaistamatta aikaan) (similar/compare)
+V(ない-vartalo)＋ずにはいられない (ei voi olla tekematta) 笑わ**ずにはいられない** (similar/compare) vs. sietamattoman
+??
+～てしょうがない・てしかたがない (sietamattoman) 暑く**てしょうがない** (similar/compare) vs. ei voi olla tekematta
+
+V(ない-vartalo)＋ずにはいられない (ei voi olla tekematta) 笑わ**ずにはいられない** (similar/compare) vs. ei voi olla tuntematta
+??
+～を禁じ得ない (ei voi olla tuntematta) 怒り**を禁じ得ない** (similar/compare) vs. ei voi olla tekematta
+
+V(ない-vartalo)＋ずにはいられない (ei voi olla tekematta) 笑わ**ずにはいられない** (similar/compare) vs. saa vaistamatta aikaan
+??
+Vずにはおかない (saa vaistamatta aikaan) この映画は人を感動させ**ずにはおかない** (similar/compare) vs. ei voi olla tekematta

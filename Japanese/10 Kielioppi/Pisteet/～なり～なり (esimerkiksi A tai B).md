@@ -68,5 +68,10 @@ Kehotus tai neuvo.
 
 #flashcards/grammar/n1/vertailu
 
-N／V辞書形＋なり＋〜なり (esimerkiksi A tai B) (similar) ::: Nでも (vaikkapa, esimerkiksi) (similar)
-N／V辞書形＋なり＋〜なり (esimerkiksi A tai B) (compare) ::: AあるいはB (tai, muodollinen) (compare)
+N／V辞書形＋なり＋〜なり (esimerkiksi A tai B) 電話**なり**メール**なり**で連絡して (similar) vs. vaikkapa, esimerkiksi
+??
+Nでも (vaikkapa, esimerkiksi) お茶**でも**飲みませんか (similar) vs. esimerkiksi A tai B
+
+N／V辞書形＋なり＋〜なり (esimerkiksi A tai B) 電話**なり**メール**なり**で連絡して (compare) vs. tai, muodollinen
+??
+AあるいはB (tai, muodollinen) 電話**あるいは**メールで連絡してください (compare) vs. esimerkiksi A tai B

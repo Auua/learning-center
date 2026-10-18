@@ -102,7 +102,18 @@ Ei lisäämällä です, vaan käyttämällä Vなければなりません tai 
 
 #flashcards/grammar/n3/vertailu
 
-Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar) ::: Vなければ なりません (velvollisuus) (similar)
-Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar/compare) ::: ～なくてはならない・～なくてはいけない (pakko, toinen muoto) (similar/compare)
-Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar) ::: ～ちゃう・～とく・～てる (puhekieliset supistumat) (similar)
-Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) (similar) ::: Vないと (taytyy, lyhennetty) (similar)
+Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) レポートを**書かなくちゃ** (similar) vs. velvollisuus
+??
+Vなければ なりません (velvollisuus) 薬を飲ま**なければなりません** (similar) vs. puhekielinen pakko
+
+Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) レポートを**書かなくちゃ** (similar/compare) vs. pakko, toinen muoto
+??
+～なくてはならない・～なくてはいけない (pakko, toinen muoto) 本は2週間以内に**返さなくてはいけない** (similar/compare) vs. puhekielinen pakko
+
+Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) レポートを**書かなくちゃ** (similar) vs. puhekieliset supistumat
+??
+～ちゃう・～とく・～てる (puhekieliset supistumat) 財布を忘れ**ちゃった** (similar) vs. puhekielinen pakko
+
+Vなくちゃ／Vなきゃ［いけない］ (puhekielinen pakko) レポートを**書かなくちゃ** (similar) vs. taytyy, lyhennetty
+??
+Vないと (taytyy, lyhennetty) もう行か**ないと** (similar) vs. puhekielinen pakko

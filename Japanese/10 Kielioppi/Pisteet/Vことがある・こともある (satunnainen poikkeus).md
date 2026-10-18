@@ -81,5 +81,10 @@ Miten 止まることがある eroaa muodosta 止まったことがある?
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形ことがある・こともある (satunnainen poikkeus) (similar/compare) ::: Vたことがあります (kokemus) (similar/compare)
-V辞書形ことがある・こともある (satunnainen poikkeus) (compare) ::: めったに～ない (harvoin) (compare)
+V辞書形ことがある・こともある (satunnainen poikkeus) たまに電車が**遅れることがある** (similar/compare) vs. kokemus
+??
+Vたことがあります (kokemus) 馬に乗っ**たことがあります** (similar/compare) vs. satunnainen poikkeus
+
+V辞書形ことがある・こともある (satunnainen poikkeus) たまに電車が**遅れることがある** (compare) vs. harvoin
+??
+めったに～ない (harvoin) 父は**めったに**怒ら**ない** (compare) vs. satunnainen poikkeus

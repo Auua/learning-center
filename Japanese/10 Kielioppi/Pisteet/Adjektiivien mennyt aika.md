@@ -87,4 +87,6 @@ Mikä on yleisin virhe N／な-adj／い-adjの過去形 -muodossa ja miten se v
 
 #flashcards/grammar/n5/vertailu
 
-N／な-adj／い-adjの過去形 (Adjektiivien mennyt aika) (similar) ::: い-adjektiivit ja な-adjektiivit (similar)
+N／な-adj／い-adjの過去形 (Adjektiivien mennyt aika) きのうは**寒かったです** (similar) vs. adjektiivien kaksi perusluokkaa ja niiden taivutus
+??
+い-adjektiivit ja な-adjektiivit **静かな**町で**高い**山を見た (similar) vs. adjektiivien mennyt aika

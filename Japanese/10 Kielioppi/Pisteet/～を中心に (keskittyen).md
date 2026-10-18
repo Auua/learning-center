@@ -69,4 +69,6 @@ Miten を中心に muodostaa substantiivin määreen?
 
 #flashcards/grammar/n3/vertailu
 
-N＋を中心に（して）／を中心とした (keskittyen) (similar) ::: ～をはじめ (mukaan lukien, ensimmaisena) (similar)
+N＋を中心に（して）／を中心とした (keskittyen) 若者**を中心に**人気がある (similar) vs. mukaan lukien, ensimmaisena
+??
+～をはじめ (mukaan lukien, ensimmaisena) 東京**をはじめ**、大都市は家賃が高い (similar) vs. keskittyen

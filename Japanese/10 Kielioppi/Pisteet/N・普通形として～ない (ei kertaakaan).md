@@ -62,5 +62,10 @@ Vahvempi ja muodollisempi; korostaa laskettavaa kokonaisuutta, jonka jokainen yk
 
 #flashcards/grammar/n1/vertailu
 
-N（yksikko）として＋kielteinen predikaatti (ei kertaakaan) (similar) ::: 決して～ない (ei missaan nimessa) (similar)
-N（yksikko）として＋kielteinen predikaatti (ei kertaakaan) (similar/compare) ::: ～たりとも (ei edes yhta) (similar/compare)
+N（yksikko）として＋kielteinen predikaatti (ei kertaakaan) 型にはまってないものは**一つとしてありません** (similar) vs. ei missaan nimessa
+??
+決して～ない (ei missaan nimessa) このことは**決して**忘れ**ない** (similar) vs. ei kertaakaan
+
+N（yksikko）として＋kielteinen predikaatti (ei kertaakaan) 型にはまってないものは**一つとしてありません** (similar/compare) vs. ei edes yhta
+??
+～たりとも (ei edes yhta) 一円**たりとも**無駄にできない (similar/compare) vs. ei kertaakaan

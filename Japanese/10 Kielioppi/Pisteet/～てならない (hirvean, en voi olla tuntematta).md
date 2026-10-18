@@ -70,6 +70,14 @@ Fyysisiin tuntemuksiin (暑い, 痛い).
 
 #flashcards/grammar/n2/vertailu
 
-V(て)／Adjくて／な-adjで＋ならない (hirvean, en voi olla tuntematta) (similar) ::: ～てしょうがない・てしかたがない (sietamattoman) (similar)
-V(て)／Adjくて／な-adjで＋ならない (hirvean, en voi olla tuntematta) (similar/compare) ::: ～てたまらない (sietamattoman, valtavasti) (similar/compare)
-V(て)／Adjくて／な-adjで＋ならない (hirvean, en voi olla tuntematta) (similar/compare) ::: Vてやまない (ei lakkaa, syvasti) (similar/compare)
+V(て)／Adjくて／な-adjで＋ならない (hirvean, en voi olla tuntematta) 将来が心配で**ならない** (similar) vs. sietamattoman
+??
+～てしょうがない・てしかたがない (sietamattoman) 暑く**てしょうがない** (similar) vs. hirvean, en voi olla tuntematta
+
+V(て)／Adjくて／な-adjで＋ならない (hirvean, en voi olla tuntematta) 将来が心配で**ならない** (similar/compare) vs. sietamattoman, valtavasti
+??
+～てたまらない (sietamattoman, valtavasti) 暑く**てたまらない** (similar/compare) vs. hirvean, en voi olla tuntematta
+
+V(て)／Adjくて／な-adjで＋ならない (hirvean, en voi olla tuntematta) 将来が心配で**ならない** (similar/compare) vs. ei lakkaa, syvasti
+??
+Vてやまない (ei lakkaa, syvasti) 皆様の幸せを願っ**てやみません** (similar/compare) vs. hirvean, en voi olla tuntematta

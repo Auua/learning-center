@@ -69,5 +69,10 @@ Vahva tahto tai päätös.
 
 #flashcards/grammar/n2/vertailu
 
-V(て)＋でも (vaikka sitten) (similar/compare) ::: Vてまで (jopa niin pitkalle etta) (similar/compare)
-V(て)＋でも (vaikka sitten) (compare) ::: Vても (vaikka) (compare)
+V(て)＋でも (vaikka sitten) 借金し**てでも**、留学したい (similar/compare) vs. jopa niin pitkalle etta
+??
+Vてまで (jopa niin pitkalle etta) 借金し**てまで**、買う必要はない (similar/compare) vs. vaikka sitten
+
+V(て)＋でも (vaikka sitten) 借金し**てでも**、留学したい (compare) vs. "vaikka" perus
+??
+Vても (vaikka) 雨が降っ**ても**、洗濯します (compare) vs. "vaikka sitten" (keino)

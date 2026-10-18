@@ -71,7 +71,18 @@ Ensimmäinen = vaikkapa (ehdotus); jälkimmäinen = jopa lapsi ymmärtää.
 
 #flashcards/grammar/n4/vertailu
 
-Nでも (vaikkapa, esimerkiksi) (similar) ::: ～なり～なり (esimerkiksi A tai B) (similar)
-Nでも (vaikkapa, esimerkiksi) (similar) ::: ～か何か (tai jotain) (similar)
-Nでも (vaikkapa, esimerkiksi) (compare) ::: N1やN2 [など] (ja muun muassa, epätäydellinen lista) (compare)
-Nでも (vaikkapa, esimerkiksi) (compare) ::: Nだって (vaikka, jopa) (compare)
+Nでも (vaikkapa, esimerkiksi) お茶**でも**飲みませんか (similar) vs. esimerkiksi A tai B
+??
+～なり～なり (esimerkiksi A tai B) 電話**なり**メール**なり**で連絡して (similar) vs. vaikkapa, esimerkiksi
+
+Nでも (vaikkapa, esimerkiksi) お茶**でも**飲みませんか (similar) vs. tai jotain
+??
+～か何か (tai jotain) 風邪**か何か**で休んでいるらしい (similar) vs. vaikkapa, esimerkiksi
+
+Nでも (vaikkapa, esimerkiksi) お茶**でも**飲みませんか (compare) vs. ja muun muassa, epätäydellinen lista
+??
+N1やN2 [など] (ja muun muassa, epätäydellinen lista) 箱の中に手紙**や**写真があります (compare) vs. vaikkapa, esimerkiksi
+
+Nでも (vaikkapa, esimerkiksi) お茶**でも**飲みませんか (compare) vs. vaikka, jopa
+??
+Nだって (vaikka, jopa) ……あら、袋**だって**必要なのよ (compare) vs. vaikkapa, esimerkiksi

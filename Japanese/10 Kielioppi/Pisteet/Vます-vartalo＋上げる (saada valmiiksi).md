@@ -70,5 +70,10 @@ Lopputuloksen valmistumista ja tehtyä vaivaa.
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋上げる (saada valmiiksi) (similar) ::: Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) (similar)
-V(ます-vartalo)＋上げる (saada valmiiksi) (similar/compare) ::: Vきる (tehda loppuun, kokonaan) (similar/compare)
+V(ます-vartalo)＋上げる (saada valmiiksi) 一晩でレポートを書き**上げた** (similar) vs. yhdysverbit
+??
+Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) 男はまんじゅうを見ると、急に**震え出した** (similar) vs. saada valmiiksi
+
+V(ます-vartalo)＋上げる (saada valmiiksi) 一晩でレポートを書き**上げた** (similar/compare) vs. tehda loppuun, kokonaan
+??
+Vきる (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (similar/compare) vs. saada valmiiksi

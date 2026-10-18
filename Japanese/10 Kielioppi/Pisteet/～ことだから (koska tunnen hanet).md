@@ -69,4 +69,6 @@ Arvaus: きっと, だろう, に違いない.
 
 #flashcards/grammar/n2/vertailu
 
-Nの＋ことだから (koska tunnen hanet) (compare) ::: S1から、S2 (syy) (compare)
+Nの＋ことだから (koska tunnen hanet) 真面目な田中さん**のことだから**、きっと来る (compare) vs. syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (compare) vs. koska tunnen hanet

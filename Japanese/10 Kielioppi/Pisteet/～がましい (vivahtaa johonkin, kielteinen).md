@@ -68,4 +68,6 @@ Mikä がましい-sana on myönteinen?
 
 #flashcards/grammar/n1/vertailu
 
-N／V(ます-vartalo)＋がましい (vivahtaa johonkin, kielteinen) (compare) ::: ～っぽい (-mainen, taipuvainen) (compare)
+N／V(ます-vartalo)＋がましい (vivahtaa johonkin, kielteinen) 言い訳**がましい**ことを言う (compare) vs. -mainen, taipuvainen
+??
+～っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (compare) vs. vivahtaa johonkin, kielteinen

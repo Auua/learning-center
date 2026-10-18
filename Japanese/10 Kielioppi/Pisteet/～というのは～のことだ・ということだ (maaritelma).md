@@ -78,4 +78,6 @@ Miten ～というのは～のことだ eroaa nimeämisestä ～を～と言う?
 
 #flashcards/grammar/n3/vertailu
 
-NというのはNのことだ・NというのはSということだ (maaritelma) (similar/compare) ::: ～を～と言う・～という～ (nimeaminen) (similar/compare)
+NというのはNのことだ・NというのはSということだ (maaritelma) 外来語**というのは**日本語になった外国語**のことだ** (similar/compare) vs. nimeaminen
+??
+～を～と言う・～という～ (nimeaminen) 正月に食べる料理を**何と言いますか** (similar/compare) vs. maaritelma

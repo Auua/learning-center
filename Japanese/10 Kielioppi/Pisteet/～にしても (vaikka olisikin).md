@@ -72,9 +72,26 @@ Puhujan arvio, vaatimus tai kritiikki.
 
 #flashcards/grammar/n3/vertailu
 
-普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (similar/compare) ::: 普通形としても (vaikka oletettaisiinkin) (similar/compare)
-普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (similar) ::: Nであれ (olipa mika tahansa) (similar)
-普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (similar/compare) ::: いずれにしても (joka tapauksessa) (similar/compare)
-普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (similar/compare) ::: ～にしたところで (vaikka, hankaan) (similar/compare)
-普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (compare) ::: Vても (vaikka) (compare)
-普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) (compare) ::: Nであれ～Nであれ (olipa A tai B) (compare)
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (similar/compare) vs. vaikka oletettaisiinkin
+??
+普通形としても (vaikka oletettaisiinkin) 保育所があった**としても**、費用が高い (similar/compare) vs. vaikka olisikin
+
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (similar) vs. olipa mika tahansa
+??
+Nであれ (olipa mika tahansa) 理由は何**であれ**、暴力はいけない (similar) vs. vaikka olisikin
+
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (similar/compare) vs. joka tapauksessa
+??
+いずれにしても (joka tapauksessa) **いずれにしても**、明日連絡します (similar/compare) vs. vaikka olisikin
+
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (similar/compare) vs. vaikka, hankaan
+??
+～にしたところで (vaikka, hankaan) 先生**にしたところで**、全部は知らない (similar/compare) vs. vaikka olisikin
+
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (compare) vs. perus "vaikka"
+??
+Vても (vaikka) 雨が降っ**ても**、洗濯します (compare) vs. "vaikka olisikin"
+
+普通形／N＋にしても／にしろ／にせよ (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (compare) vs. olipa A tai B
+??
+Nであれ～Nであれ (olipa A tai B) 男**であれ**女**であれ**、能力が大事だ (compare) vs. vaikka olisikin

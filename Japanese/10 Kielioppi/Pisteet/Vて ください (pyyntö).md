@@ -76,8 +76,22 @@ Esimerkiksi esimiehelle tai arvostetulle henkilölle; sävy on suora vaikka koht
 
 #flashcards/grammar/n5/vertailu
 
-Vてください (pyyntö) (similar) ::: Vませんか・Vましょう (etkö tulisi, tehdäänkö) (similar)
-Vてください (pyyntö) (compare) ::: Vなさい (kasky, ohje) (compare)
-Vてください (pyyntö) (compare) ::: お～ください (kunnioittava pyynto) (compare)
-Vてください (pyyntö) (compare) ::: Nをください (pyynto saada jotain) (compare)
-Vてください (pyyntö) (similar/compare) ::: Vてくださいませんか (erittäin kohtelias pyyntö) (similar/compare)
+Vてください (pyyntö) ここに名前を書い**てください** (similar) vs. etkö tulisi, tehdäänkö
+??
+Vませんか・Vましょう (etkö tulisi, tehdäänkö) いっしょに京都へ行き**ませんか** (similar) vs. pyyntö
+
+Vてください (pyyntö) ここに名前を書い**てください** (compare) vs. kasky, ohje
+??
+Vなさい (kasky, ohje) 早く寝**なさい** (compare) vs. pyyntö
+
+Vてください (pyyntö) ここに名前を書い**てください** (compare) vs. kunnioittava pyynto
+??
+お～ください (kunnioittava pyynto) 少々**お待ちください** (compare) vs. pyyntö
+
+Vてください (pyyntö) ここに名前を書い**てください** (compare) vs. pyynto saada jotain
+??
+Nをください (pyynto saada jotain) 水**をください** (compare) vs. pyyntö
+
+Vてください (pyyntö) ここに名前を書い**てください** (similar/compare) vs. erittäin kohtelias pyyntö
+??
+Vてくださいませんか (erittäin kohtelias pyyntö) もう少しゆっくり話して**くださいませんか** (similar/compare) vs. perus pyyntö

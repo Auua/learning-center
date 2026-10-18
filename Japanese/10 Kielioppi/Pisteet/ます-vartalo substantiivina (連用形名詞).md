@@ -130,9 +130,26 @@ Miten 話し合い eroaa muodosta 話すこと?
 
 #flashcards/grammar/n4/vertailu
 
-V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar/compare) ::: Vこと (nominalisointi, abstrakti tekeminen) (similar/compare)
-V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
-V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: ～方 (tapa) (similar)
-V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar/compare) ::: 連用中止形 (kirjallinen luettelointi) (similar/compare)
-V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: Adjさ (adjektiivista substantiivi) (similar)
-V(ます-vartalo) → N（連用形名詞） (連用形名詞) (similar) ::: Vます-vartalo＋方 (tapa tehda) (similar)
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) 物語の始まりはとても静かだった (similar/compare) vs. nominalisointi, abstrakti tekeminen
+??
+Vこと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar/compare) vs. 連用形名詞
+
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) 物語の始まりはとても静かだった (similar) vs. nominalisointi
+??
+Vのは・Vのが・Vのを (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. 連用形名詞
+
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) 物語の始まりはとても静かだった (similar) vs. tapa
+??
+～方 (tapa) 漢字の読み**方**を教えてください (similar) vs. 連用形名詞
+
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) 物語の始まりはとても静かだった (similar/compare) vs. kirjallinen luettelointi
+??
+連用中止形 (kirjallinen luettelointi) 朝6時に**起き**、7時に家を出る (similar/compare) vs. 連用形名詞
+
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) 物語の始まりはとても静かだった (similar) vs. adjektiivista substantiivi
+??
+Adjさ (adjektiivista substantiivi) 山の**高さ**を測る (similar) vs. 連用形名詞
+
+V(ます-vartalo) → N（連用形名詞） (連用形名詞) 物語の始まりはとても静かだった (similar) vs. tapa tehda
+??
+Vます-vartalo＋方 (tapa tehda) 漢字の読み**方**を教えてください (similar) vs. 連用形名詞

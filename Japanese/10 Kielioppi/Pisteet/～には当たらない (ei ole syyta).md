@@ -68,5 +68,10 @@ Lähes sama; には当たらない muodollinen.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋には当たらない (ei ole syyta) (similar/compare) ::: Vことはない (ei tarvitse) (similar/compare)
-V辞書形＋には当たらない (ei ole syyta) (similar/compare) ::: ～には及ばない (ei tarvitse, ei veda vertoja) (similar/compare)
+V辞書形＋には当たらない (ei ole syyta) 驚く**には当たらない** (similar/compare) vs. ei tarvitse
+??
+Vことはない (ei tarvitse) 心配する**ことはない**よ (similar/compare) vs. ei ole syyta
+
+V辞書形＋には当たらない (ei ole syyta) 驚く**には当たらない** (similar/compare) vs. ei tarvitse, ei veda vertoja
+??
+～には及ばない (ei tarvitse, ei veda vertoja) わざわざ来る**には及ばない** (similar/compare) vs. ei ole syyta

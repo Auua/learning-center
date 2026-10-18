@@ -89,8 +89,22 @@ Kumpi: と vai たら: 春になる＿＿、京都に行ってください?
 
 #flashcards/grammar/n4/vertailu
 
-～と (aina kun, väistämätön seuraus) (similar) ::: ～たら (jos, kun) (similar)
-～と (aina kun, väistämätön seuraus) (similar) ::: ～ば (jos, ehto) (similar)
-～と (aina kun, väistämätön seuraus) (similar) ::: ～なら (jos kerran) (similar)
-～と (aina kun, väistämätön seuraus) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
-～と (aina kun, väistämätön seuraus) (similar) ::: そうすると (siina tapauksessa, sitten) (similar)
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. jos, kun
+??
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. aina kun, väistämätön seuraus
+
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. jos, ehto
+??
+～ば (jos, ehto) 時間があれば、手伝ってください (similar) vs. aina kun, väistämätön seuraus
+
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. jos kerran
+??
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar) vs. aina kun, väistämätön seuraus
+
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (compare) vs. vertailu: Ehtolauseet と・ば・たら・なら
+??
+Vertailu — Ehtolauseet と・ば・たら・なら 春に**なると**桜が咲く (compare) vs. aina kun, väistämätön seuraus
+
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. siina tapauksessa, sitten
+??
+そうすると (siina tapauksessa, sitten) **そうすると**、ドアが開く (similar) vs. aina kun, väistämätön seuraus

@@ -70,5 +70,10 @@ Ensimmäinen = hintansa arvoinen; toinen = vain kallis.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N）＋だけのことはある／だけのことはあって (ei ihme, odotetusti) (similar/compare) ::: ～だけあって (kuten odottaa saattaa) (similar/compare)
-普通形（N）＋だけのことはある／だけのことはあって (ei ihme, odotetusti) (compare) ::: ～甲斐がある (kannattaa, palkitsee) (compare)
+普通形（N）＋だけのことはある／だけのことはあって (ei ihme, odotetusti) 高い**だけのことはある** (similar/compare) vs. kuten odottaa saattaa
+??
+～だけあって (kuten odottaa saattaa) プロ**だけあって**、上手だ (similar/compare) vs. ei ihme, odotetusti
+
+普通形（N）＋だけのことはある／だけのことはあって (ei ihme, odotetusti) 高い**だけのことはある** (compare) vs. kannattaa, palkitsee
+??
+～甲斐がある (kannattaa, palkitsee) 頑張った**甲斐があって**、合格した (compare) vs. ei ihme, odotetusti

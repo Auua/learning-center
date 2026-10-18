@@ -62,4 +62,6 @@ Yhdistämällä se muotoon のではないでしょうか: と言えるのでは
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋と言える (voidaan sanoa etta) (similar) ::: ～と言ってもいい (voisi sanoa) (similar)
+普通形＋と言える (voidaan sanoa etta) お金があれば幸せだ**と言えるのでしょうか** (similar) vs. voisi sanoa
+??
+～と言ってもいい (voisi sanoa) 彼は天才だ**と言ってもいい** (similar) vs. voidaan sanoa etta

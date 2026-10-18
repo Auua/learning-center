@@ -70,6 +70,14 @@ Lähes aina myönteinen.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N／な-adj）＋だけあって (kuten odottaa saattaa) (similar/compare) ::: ～だけに (juuri siksi etta) (similar/compare)
-普通形（N／な-adj）＋だけあって (kuten odottaa saattaa) (similar/compare) ::: ～だけのことはある (ei ihme, odotetusti) (similar/compare)
-普通形（N／な-adj）＋だけあって (kuten odottaa saattaa) (similar/compare) ::: ～とあって (koska, kun kyseessa on) (similar/compare)
+普通形（N／な-adj）＋だけあって (kuten odottaa saattaa) プロ**だけあって**、上手だ (similar/compare) vs. juuri siksi etta
+??
+～だけに (juuri siksi etta) 期待していた**だけに**、がっかりした (similar/compare) vs. kuten odottaa saattaa
+
+普通形（N／な-adj）＋だけあって (kuten odottaa saattaa) プロ**だけあって**、上手だ (similar/compare) vs. ei ihme, odotetusti
+??
+～だけのことはある (ei ihme, odotetusti) 高い**だけのことはある** (similar/compare) vs. kuten odottaa saattaa
+
+普通形（N／な-adj）＋だけあって (kuten odottaa saattaa) プロ**だけあって**、上手だ (similar/compare) vs. koska, kun kyseessa on
+??
+～とあって (koska, kun kyseessa on) 連休**とあって**、観光地は人でいっぱいだ (similar/compare) vs. kuten odottaa saattaa

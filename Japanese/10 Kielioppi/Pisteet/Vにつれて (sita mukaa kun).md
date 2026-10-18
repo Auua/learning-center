@@ -72,7 +72,18 @@ Miten Vにつれて eroaa muodosta Vば〜ほど?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Nの＋につれて (sita mukaa kun) (similar/compare) ::: Vば〜ほど (mita enemman, sita) (similar/compare)
-V辞書形／Nの＋につれて (sita mukaa kun) (compare) ::: ～一方だ (yha enemman) (compare)
-V辞書形／Nの＋につれて (sita mukaa kun) (similar/compare) ::: ～にしたがって (mukaisesti, sita mukaa) (similar/compare)
-V辞書形／Nの＋につれて (sita mukaa kun) (similar/compare) ::: ～に伴って (myota, samalla kun) (similar/compare)
+V辞書形／Nの＋につれて (sita mukaa kun) 時間が経つ**につれて**、腹が立ってきた (similar/compare) vs. mita enemman, sita
+??
+Vば〜ほど (mita enemman, sita) 野菜は**新しければ新しいほど**おいしいです (similar/compare) vs. sita mukaa kun
+
+V辞書形／Nの＋につれて (sita mukaa kun) 時間が経つ**につれて**、腹が立ってきた (compare) vs. yha enemman
+??
+～一方だ (yha enemman) 物価は上がる**一方だ** (compare) vs. sita mukaa kun
+
+V辞書形／Nの＋につれて (sita mukaa kun) 時間が経つ**につれて**、腹が立ってきた (similar/compare) vs. mukaisesti, sita mukaa
+??
+～にしたがって (mukaisesti, sita mukaa) 先生の指示**にしたがって**、行動してください (similar/compare) vs. sita mukaa kun
+
+V辞書形／Nの＋につれて (sita mukaa kun) 時間が経つ**につれて**、腹が立ってきた (similar/compare) vs. myota, samalla kun
+??
+～に伴って (myota, samalla kun) 人口の増加**に伴って**、住宅が不足した (similar/compare) vs. sita mukaa kun

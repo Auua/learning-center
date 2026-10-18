@@ -68,4 +68,6 @@ Usein itsestä, kun teki epätavallisen virheen.
 
 #flashcards/grammar/n1/vertailu
 
-N(henkilö)＋としたことが (juuri minulta, mita ihmetta) (similar/compare) ::: ～ともあろうものが (kuka tahansa muu, mutta ei) (similar/compare)
+N(henkilö)＋としたことが (juuri minulta, mita ihmetta) 私**としたことが**、大事な書類を忘れるなんて (similar/compare) vs. kuka tahansa muu, mutta ei
+??
+～ともあろうものが (kuka tahansa muu, mutta ei) 教師**ともあろうものが**、生徒を殴るなんて (similar/compare) vs. juuri minulta, mita ihmetta

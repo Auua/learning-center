@@ -69,6 +69,14 @@ V方 on substantiivi, joten objekti merkitään の:lla: 切符の買い方.
 
 #flashcards/grammar/n5/vertailu
 
-V(ます-vartalo)＋方 (tapa tehda) (similar) ::: どうやって・どの (miten, mikä näistä) (similar)
-V(ます-vartalo)＋方 (tapa tehda) (similar) ::: ます-vartalo substantiivina (連用形名詞) (similar)
-V(ます-vartalo)＋方 (tapa tehda) (similar) ::: Nぶり・っぷり (tapa, tyyli) (similar)
+V(ます-vartalo)＋方 (tapa tehda) 漢字の読み**方**を教えてください (similar) vs. miten, mikä näistä
+??
+どうやって・どの (miten, mikä näistä) 大学まで**どうやって**行きますか (similar) vs. tapa tehda
+
+V(ます-vartalo)＋方 (tapa tehda) 漢字の読み**方**を教えてください (similar) vs. 連用形名詞
+??
+ます-vartalo substantiivina (連用形名詞) 物語の始まりはとても静かだった (similar) vs. tapa tehda
+
+V(ます-vartalo)＋方 (tapa tehda) 漢字の読み**方**を教えてください (similar) vs. tapa, tyyli
+??
+Nぶり・っぷり (tapa, tyyli) 彼の仕事**ぶり**は真面目だ (similar) vs. tapa tehda

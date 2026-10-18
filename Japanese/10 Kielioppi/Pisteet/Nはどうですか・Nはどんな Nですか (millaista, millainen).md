@@ -81,4 +81,6 @@ Ensimmäinen pyytää kuvailemaan N1:tä adjektiiveilla; jälkimmäinen pyytää
 
 #flashcards/grammar/n5/vertailu
 
-Nはどうですか／Nはどんな N2ですか (millaista, millainen) (similar/compare) ::: Nはどうでしょうか (kohtelias tiedustelu) (similar/compare)
+Nはどうですか／Nはどんな N2ですか (millaista, millainen) 日本の生活は**どうですか** (similar/compare) vs. kohtelias tiedustelu
+??
+Nはどうでしょうか (kohtelias tiedustelu) ハンスは学校で**どうでしょうか** (similar/compare) vs. millaista, millainen

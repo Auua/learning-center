@@ -68,5 +68,10 @@ Toisen ihmisen, ihaillen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋をものともせずに／をものともせず (uhmaten) (similar/compare) ::: ～を顧みず (valittamatta) (similar/compare)
-N＋をものともせずに／をものともせず (uhmaten) (similar/compare) ::: ～を押して (vastustuksesta huolimatta) (similar/compare)
+N＋をものともせずに／をものともせず (uhmaten) 嵐**をものともせずに**、船は進んだ (similar/compare) vs. valittamatta
+??
+～を顧みず (valittamatta) 危険**を顧みず**、子どもを助けた (similar/compare) vs. uhmaten
+
+N＋をものともせずに／をものともせず (uhmaten) 嵐**をものともせずに**、船は進んだ (similar/compare) vs. vastustuksesta huolimatta
+??
+～を押して (vastustuksesta huolimatta) 病気**を押して**、会議に出席した (similar/compare) vs. uhmaten

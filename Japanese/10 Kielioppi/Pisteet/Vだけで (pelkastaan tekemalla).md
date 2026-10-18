@@ -70,5 +70,10 @@ Yllättävän suuren seurauksen pienestä syystä: 見ただけで怖い.
 
 #flashcards/grammar/n4/vertailu
 
-V(辞書形)／N＋だけで (pelkastaan tekemalla) (similar) ::: Maara だけ・Nだけ (similar)
-V(辞書形)／N＋だけで (pelkastaan tekemalla) (compare) ::: ～だけだ・ただ～だけでいい (vain se riittää) (compare)
+V(辞書形)／N＋だけで (pelkastaan tekemalla) 考える**だけで**、楽しくなる (similar) vs. "vain" rajaus
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (similar) vs. pelkastaan tekemalla
+
+V(辞書形)／N＋だけで (pelkastaan tekemalla) 考える**だけで**、楽しくなる (compare) vs. vain se riittää
+??
+～だけだ・ただ～だけでいい (vain se riittää) このボタンを**押すだけでいい**んです (compare) vs. pelkastaan tekemalla

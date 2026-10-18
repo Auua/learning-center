@@ -78,9 +78,26 @@ Sama て-muoto: peräkkäisyys listaa tahdonalaisia tekoja, tämä merkitsee syy
 
 #flashcards/grammar/n4/vertailu
 
-Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar) ::: Vて、Vて (peräkkäisyys) (similar)
-Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar) ::: S1から、S2 (syy) (similar)
-Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar/compare) ::: 〜ので (pehmea syy) (similar/compare)
-Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar) ::: Vてすみません (anteeksi etta) (similar)
-Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar) ::: Vてよかった (onneksi, olen iloinen etta) (similar)
-Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar/compare) ::: ～まして (kohtelias て-muoto) (similar/compare)
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar) vs. peräkkäisyys
+??
+Vて、Vて (peräkkäisyys) 起き**て**、顔を洗っ**て**、出かけた (similar) vs. tunnereaktion syy
+
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar) vs. tavallinen syy "koska"
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar) vs. tunnereaktion syy
+
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar/compare) vs. pehmea syy
+??
+〜ので (pehmea syy) 体の調子が**悪いので**、病院へ行きます (similar/compare) vs. tunnereaktion syy
+
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar) vs. anteeksi etta
+??
+Vてすみません (anteeksi etta) 遅れ**てすみません** (similar) vs. tunnereaktion syy
+
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar) vs. onneksi, olen iloinen etta
+??
+Vてよかった (onneksi, olen iloinen etta) 日本に来**てよかった** (similar) vs. tunnereaktion syy
+
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) ニュースを**聞いて**、びっくりしました (similar/compare) vs. kohtelias て-muoto
+??
+～まして (kohtelias て-muoto) あいにく満席**でございまして**… (similar/compare) vs. tunnereaktion syy

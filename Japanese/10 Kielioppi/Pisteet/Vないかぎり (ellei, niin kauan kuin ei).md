@@ -62,5 +62,10 @@ Pysyvää tilaa, joka jatkuu niin kauan kuin ehto ei täyty; ei kertaluontoista 
 
 #flashcards/grammar/n2/vertailu
 
-V(ない形)＋かぎり（は） (ellei, niin kauan kuin ei) (similar) ::: ～ば (jos, ehto) (similar)
-V(ない形)＋かぎり（は） (ellei, niin kauan kuin ei) (similar/compare) ::: ～限り (niin kauan kuin, sikali kuin) (similar/compare)
+V(ない形)＋かぎり（は） (ellei, niin kauan kuin ei) 私が病気にでもなら**ぬかぎり**、この店は売りません (similar) vs. jos, ehto
+??
+～ば (jos, ehto) 時間があれば、手伝ってください (similar) vs. ellei, niin kauan kuin ei
+
+V(ない形)＋かぎり（は） (ellei, niin kauan kuin ei) 私が病気にでもなら**ぬかぎり**、この店は売りません (similar/compare) vs. niin kauan kuin, sikali kuin
+??
+～限り (niin kauan kuin, sikali kuin) 生きている**限り**、あなたを忘れない (similar/compare) vs. ellei, niin kauan kuin ei

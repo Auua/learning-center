@@ -69,6 +69,14 @@ Sama; であれ kirjallinen.
 
 #flashcards/grammar/n1/vertailu
 
-N／疑問詞＋であれ／であろうと (olipa mika tahansa) (similar/compare) ::: Nであれ～Nであれ (olipa A tai B) (similar/compare)
-N／疑問詞＋であれ／であろうと (olipa mika tahansa) (similar) ::: ～にしても (vaikka olisikin) (similar)
-N／疑問詞＋であれ／であろうと (olipa mika tahansa) (similar/compare) ::: Nはどうであれ (oli N mika tahansa) (similar/compare)
+N／疑問詞＋であれ／であろうと (olipa mika tahansa) 理由は何**であれ**、暴力はいけない (similar/compare) vs. olipa A tai B
+??
+Nであれ～Nであれ (olipa A tai B) 男**であれ**女**であれ**、能力が大事だ (similar/compare) vs. olipa mika tahansa
+
+N／疑問詞＋であれ／であろうと (olipa mika tahansa) 理由は何**であれ**、暴力はいけない (similar) vs. vaikka olisikin
+??
+～にしても (vaikka olisikin) 忙しい**にしても**、電話くらいできるでしょう (similar) vs. olipa mika tahansa
+
+N／疑問詞＋であれ／であろうと (olipa mika tahansa) 理由は何**であれ**、暴力はいけない (similar/compare) vs. oli N mika tahansa
+??
+Nはどうであれ (oli N mika tahansa) 結果**はどうであれ**、最後まで頑張ろう (similar/compare) vs. olipa mika tahansa

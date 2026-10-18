@@ -68,5 +68,10 @@ Jälkimmäinen korostaa valtavaa eroa.
 
 #flashcards/grammar/n1/vertailu
 
-N＋とは比べものにならない (ei voi verratakaan) (similar) ::: Vべくもない (ei mitenkaan voi) (similar)
-N＋とは比べものにならない (ei voi verratakaan) (compare) ::: ～に比べて (verrattuna) (compare)
+N＋とは比べものにならない (ei voi verratakaan) プロの演奏は、私の**とは比べものにならない** (similar) vs. ei mitenkaan voi
+??
+Vべくもない (ei mitenkaan voi) 彼の才能には比べる**べくもない** (similar) vs. ei voi verratakaan
+
+N＋とは比べものにならない (ei voi verratakaan) プロの演奏は、私の**とは比べものにならない** (compare) vs. verrattuna
+??
+～に比べて (verrattuna) 今年は去年**に比べて**春の来るのが遅かった (compare) vs. ei voi verratakaan

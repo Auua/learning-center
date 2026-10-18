@@ -71,6 +71,14 @@ Sama kaksi merkitystä; つつ on kirjallinen.
 
 #flashcards/grammar/n2/vertailu
 
-V(ます-vartalo)＋つつ（も） (samalla kun, vaikka) (similar/compare) ::: V(-ます)ながら (samalla kun) (similar/compare)
-V(ます-vartalo)＋つつ（も） (samalla kun, vaikka) (similar) ::: ～ながらも (vaikka, kirjallinen myonnytys) (similar)
-V(ます-vartalo)＋つつ（も） (samalla kun, vaikka) (similar) ::: ～つつある (on (vahitellen) -massa) (similar)
+V(ます-vartalo)＋つつ（も） (samalla kun, vaikka) 景色を楽しみ**つつ**、歩いた (similar/compare) vs. arkinen "samalla kun"
+??
+V(-ます)ながら (samalla kun) 音楽を**聞きながら**食事します (similar/compare) vs. kirjallinen "samalla kun / vaikka"
+
+V(ます-vartalo)＋つつ（も） (samalla kun, vaikka) 景色を楽しみ**つつ**、歩いた (similar) vs. vaikka, kirjallinen myonnytys
+??
+～ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (similar) vs. samalla kun, vaikka
+
+V(ます-vartalo)＋つつ（も） (samalla kun, vaikka) 景色を楽しみ**つつ**、歩いた (similar) vs. vahitellen
+??
+～つつある (on (vahitellen) -massa) 景気は回復し**つつある** (similar) vs. samalla kun, vaikka

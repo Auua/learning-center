@@ -72,4 +72,6 @@ Miten 普通形のであろう eroaa 普通形でしょう:sta?
 
 #flashcards/grammar/n1/vertailu
 
-普通形＋のであろう (kirjallinen arvelu) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
+普通形＋のであろう (kirjallinen arvelu) 氏の死の事実が覆い隠されることになった**のであろう** (similar/compare) vs. todennakoisyys
+??
+普通形でしょう (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. kirjallinen arvelu

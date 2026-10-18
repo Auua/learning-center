@@ -69,5 +69,10 @@ Ei — vain muutamassa vakiintuneessa sanassa.
 
 #flashcards/grammar/n1/vertailu
 
-N／Adj-vartalo＋びる／びた (-ltaan vaikuttava, -mainen) (similar/compare) ::: ～めく (alkaa tuntua, -mainen) (similar/compare)
-N／Adj-vartalo＋びる／びた (-ltaan vaikuttava, -mainen) (similar) ::: ～っぽい (-mainen, taipuvainen) (similar)
+N／Adj-vartalo＋びる／びた (-ltaan vaikuttava, -mainen) 大人**びた**子ども (similar/compare) vs. alkaa tuntua, -mainen
+??
+～めく (alkaa tuntua, -mainen) だんだん春**めいて**きた (similar/compare) vs. -ltaan vaikuttava, -mainen
+
+N／Adj-vartalo＋びる／びた (-ltaan vaikuttava, -mainen) 大人**びた**子ども (similar) vs. -mainen, taipuvainen
+??
+～っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (similar) vs. -ltaan vaikuttava, -mainen

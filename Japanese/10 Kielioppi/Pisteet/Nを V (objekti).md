@@ -78,5 +78,10 @@ Kokonaisina yhdistelminä (サッカーをします, 宿題をします), ei mek
 
 #flashcards/grammar/n5/vertailu
 
-Nを V (objekti) (similar/compare) ::: Nをします (substantiivi + します) (similar/compare)
-Nを V (objekti) (similar/compare) ::: Nを (kulkureitti, läpi ja yli) (similar/compare)
+Nを V (objekti) ジュース**を**飲みます (similar/compare) vs. substantiivi + します
+??
+Nをします (substantiivi + します) サッカー**をします** (similar/compare) vs. objekti
+
+Nを V (objekti) ジュース**を**飲みます (similar/compare) vs. kulkureitti, läpi ja yli
+??
+Nを (kulkureitti, läpi ja yli) 公園**を**散歩します (similar/compare) vs. objekti

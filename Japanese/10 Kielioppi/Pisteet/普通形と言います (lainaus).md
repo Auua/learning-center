@@ -79,7 +79,18 @@ Rakenne on sama, mutta と言います lainaa jonkun sanoman, と思います il
 
 #flashcards/grammar/n5/vertailu
 
-「S」と言います／普通形と言いました (lainaus) (similar) ::: 普通形と思います (mielipide) (similar)
-「S」と言います／普通形と言いました (lainaus) (similar/compare) ::: ～と言っていました・～と伝える (välitetty viesti) (similar/compare)
-「S」と言います／普通形と言いました (lainaus) (similar) ::: 普通形と聞きました (kuulin etta) (similar)
-「S」と言います／普通形と言いました (lainaus) (similar) ::: ～と読みます・～と書きます (lukutapa ja kirjoitustapa) (similar)
+「S」と言います／普通形と言いました (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. mielipide
+??
+普通形と思います (mielipide) あした雨が降る**と思います** (similar) vs. lainaus
+
+「S」と言います／普通形と言いました (lainaus) 寝るまえに「お休みなさい」**と言います** (similar/compare) vs. välitetty viesti
+??
+～と言っていました・～と伝える (välitetty viesti) グプタさんは30分で**戻ると言っていました** (similar/compare) vs. lainaus
+
+「S」と言います／普通形と言いました (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. kuulin etta
+??
+普通形と聞きました (kuulin etta) 田中さんが結婚した**と聞きました** (similar) vs. lainaus
+
+「S」と言います／普通形と言いました (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. lukutapa ja kirjoitustapa
+??
+～と読みます・～と書きます (lukutapa ja kirjoitustapa) あの漢字は**何と読みます**か (similar) vs. lainaus

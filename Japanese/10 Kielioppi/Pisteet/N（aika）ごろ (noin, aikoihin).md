@@ -75,5 +75,10 @@ Voi, valinnaisesti: 7時ごろ（に）起きる.
 
 #flashcards/grammar/n4/vertailu
 
-N（ajankohta）＋ごろ (noin, aikoihin) (compare) ::: N (aika) に (compare)
-N（ajankohta）＋ごろ (noin, aikoihin) (compare) ::: Lukusanat ja luokittelijat (compare)
+N（ajankohta）＋ごろ (noin, aikoihin) 7時**ごろ**起きます (compare) vs. aika
+??
+N (aika) に 6時**に**起きます (compare) vs. noin, aikoihin
+
+N（ajankohta）＋ごろ (noin, aikoihin) 7時**ごろ**起きます (compare) vs. lukusanat
+??
+Lukusanat ja luokittelijat りんごを4つ買いました (compare) vs. noin, aikoihin

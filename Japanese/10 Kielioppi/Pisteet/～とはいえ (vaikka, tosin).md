@@ -68,5 +68,10 @@ Tosin.
 
 #flashcards/grammar/n1/vertailu
 
-普通形（N）＋とはいえ (vaikka, tosin) (similar/compare) ::: ～といっても (vaikka sanotaankin) (similar/compare)
-普通形（N）＋とはいえ (vaikka, tosin) (similar) ::: 普通形といえども (vaikka onkin, muodollinen) (similar)
+普通形（N）＋とはいえ (vaikka, tosin) 春**とはいえ**、まだ寒い (similar/compare) vs. vaikka sanotaankin
+??
+～といっても (vaikka sanotaankin) 料理ができる**といっても**、簡単なものだけです (similar/compare) vs. vaikka, tosin
+
+普通形（N）＋とはいえ (vaikka, tosin) 春**とはいえ**、まだ寒い (similar) vs. vaikka onkin, muodollinen
+??
+普通形といえども (vaikka onkin, muodollinen) 名医**といえども**、すべての患者を救うことはできない (similar) vs. vaikka, tosin

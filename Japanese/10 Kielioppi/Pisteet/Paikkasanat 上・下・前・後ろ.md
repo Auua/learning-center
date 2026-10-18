@@ -96,4 +96,6 @@ Eivät; ne ovat substantiiveja, jotka liitetään edeltävään sanaan の:lla (
 
 #flashcards/grammar/n5/vertailu
 
-N（位置） (Paikkasanat 上・下・前・後ろ) (similar) ::: あります・います (olemassaolo) (similar)
+N（位置） (Paikkasanat 上・下・前・後ろ) 机**の上に**写真があります (similar) vs. olemassaolo
+??
+あります・います (olemassaolo) 机の上に写真**が**あります (similar) vs. paikkasanat (päällä, alla)

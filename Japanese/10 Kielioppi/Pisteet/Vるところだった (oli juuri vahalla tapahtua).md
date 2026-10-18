@@ -74,6 +74,14 @@ Miten Vるところだった eroaa muodosta Vるところです?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形＋ところだった (oli juuri vahalla tapahtua) (similar/compare) ::: Vところです (kolme vaihetta) (similar/compare)
-V辞書形＋ところだった (oli juuri vahalla tapahtua) (similar/compare) ::: Vたら～ところだ (olisi tehnyt, jos) (similar/compare)
-V辞書形＋ところだった (oli juuri vahalla tapahtua) (similar/compare) ::: もう少しでVところだった (melkein, oli vahalla) (similar/compare)
+V辞書形＋ところだった (oli juuri vahalla tapahtua) 危うく事故を起こす**ところだった** (similar/compare) vs. kolme vaihetta
+??
+Vところです (kolme vaihetta) 会議は今から**始まるところです** (similar/compare) vs. oli juuri vahalla tapahtua
+
+V辞書形＋ところだった (oli juuri vahalla tapahtua) 危うく事故を起こす**ところだった** (similar/compare) vs. olisi tehnyt, jos
+??
+Vたら～ところだ (olisi tehnyt, jos) 知っていたら、助けに行く**ところだった** (similar/compare) vs. oli juuri vahalla tapahtua
+
+V辞書形＋ところだった (oli juuri vahalla tapahtua) 危うく事故を起こす**ところだった** (similar/compare) vs. melkein, oli vahalla
+??
+もう少しでVところだった (melkein, oli vahalla) **もう少しで**車にひかれる**ところだった** (similar/compare) vs. oli juuri vahalla tapahtua

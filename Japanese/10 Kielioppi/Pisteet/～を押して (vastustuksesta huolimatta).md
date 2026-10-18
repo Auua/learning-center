@@ -69,5 +69,10 @@ Mikä on ero を押して ja を押し切って välillä?
 
 #flashcards/grammar/n1/vertailu
 
-N＋を押して／を押し切って (vastustuksesta huolimatta) (similar/compare) ::: ～をものともせずに (uhmaten) (similar/compare)
-N＋を押して／を押し切って (vastustuksesta huolimatta) (similar) ::: ～を顧みず (valittamatta) (similar)
+N＋を押して／を押し切って (vastustuksesta huolimatta) 病気**を押して**、会議に出席した (similar/compare) vs. uhmaten
+??
+～をものともせずに (uhmaten) 嵐**をものともせずに**、船は進んだ (similar/compare) vs. vastustuksesta huolimatta
+
+N＋を押して／を押し切って (vastustuksesta huolimatta) 病気**を押して**、会議に出席した (similar) vs. valittamatta
+??
+～を顧みず (valittamatta) 危険**を顧みず**、子どもを助けた (similar) vs. vastustuksesta huolimatta

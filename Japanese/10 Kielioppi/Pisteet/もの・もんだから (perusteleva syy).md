@@ -82,8 +82,22 @@ Miten もの・もんだから eroaa tavallisesta から-syystä?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: S1から、S2 (syy) (similar/compare)
-普通形＋もの／もんだから (perusteleva syy) (similar) ::: 〜ので (pehmea syy) (similar)
-普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: だって～もん (puhekielinen perustelu) (similar/compare)
-普通形＋もの／もんだから (perusteleva syy) (compare) ::: ～こととて (koska, kirjallinen) (compare)
-普通形＋もの／もんだから (perusteleva syy) (similar/compare) ::: ～もので (koska, selittely) (similar/compare)
+普通形＋もの／もんだから (perusteleva syy) ご連絡が遅れて申し訳ありません (similar/compare) vs. tavallinen syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar/compare) vs. perusteleva/puolusteleva syy
+
+普通形＋もの／もんだから (perusteleva syy) ご連絡が遅れて申し訳ありません (similar) vs. pehmea syy
+??
+〜ので (pehmea syy) 体の調子が**悪いので**、病院へ行きます (similar) vs. perusteleva syy
+
+普通形＋もの／もんだから (perusteleva syy) ご連絡が遅れて申し訳ありません (similar/compare) vs. puhekielinen perustelu
+??
+だって～もん (puhekielinen perustelu) このお皿、新婚時代の思い出がいっぱいなんだ**もの** (similar/compare) vs. perusteleva syy
+
+普通形＋もの／もんだから (perusteleva syy) ご連絡が遅れて申し訳ありません (compare) vs. koska, kirjallinen
+??
+～こととて (koska, kirjallinen) 慣れぬ**こととて**、失礼しました (compare) vs. perusteleva syy
+
+普通形＋もの／もんだから (perusteleva syy) ご連絡が遅れて申し訳ありません (similar/compare) vs. koska, selittely
+??
+～もので (koska, selittely) 道が混んでいた**もので**、遅れてしまいました (similar/compare) vs. perusteleva syy

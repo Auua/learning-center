@@ -94,8 +94,22 @@ Mikä on Vてもいいです:n muodollisempi synonyymi?
 
 #flashcards/grammar/n5/vertailu
 
-Vてもいいです／Vてはいけません (lupa ja kielto) (similar/compare) ::: ～てもかまいません (saa tehdä, ei haittaa) (similar/compare)
-Vてもいいです／Vてはいけません (lupa ja kielto) (compare) ::: V辞書形な (jyrkka kielto) (compare)
-Vてもいいです／Vてはいけません (lupa ja kielto) (similar/compare) ::: ～ちゃいけない・じゃいけない (puhekielinen kielto) (similar/compare)
-Vてもいいです／Vてはいけません (lupa ja kielto) (similar) ::: Vても差し支えない (saa, ei haittaa) (similar)
-Vてもいいです／Vてはいけません (lupa ja kielto) (similar/compare) ::: Vてはならない (ei saa, kirjallinen) (similar/compare)
+Vてもいいです／Vてはいけません (lupa ja kielto) 写真を撮っ**てもいいです** (similar/compare) vs. saa tehdä, ei haittaa
+??
+～てもかまいません (saa tehdä, ei haittaa) 教室を**出てもかまいません** (similar/compare) vs. lupa ja kielto
+
+Vてもいいです／Vてはいけません (lupa ja kielto) 写真を撮っ**てもいいです** (compare) vs. jyrkka kielto
+??
+V辞書形な (jyrkka kielto) ここに入る**な** (compare) vs. lupa ja kielto
+
+Vてもいいです／Vてはいけません (lupa ja kielto) 写真を撮っ**てもいいです** (similar/compare) vs. puhekielinen kielto
+??
+～ちゃいけない・じゃいけない (puhekielinen kielto) 見**ちゃいけない** (similar/compare) vs. lupa ja kielto
+
+Vてもいいです／Vてはいけません (lupa ja kielto) 写真を撮っ**てもいいです** (similar) vs. saa, ei haittaa
+??
+Vても差し支えない (saa, ei haittaa) 鉛筆で書い**ても差し支えありません** (similar) vs. lupa ja kielto
+
+Vてもいいです／Vてはいけません (lupa ja kielto) 写真を撮っ**てもいいです** (similar/compare) vs. ei saa, kirjallinen
+??
+Vてはならない (ei saa, kirjallinen) 嘘をつい**てはならない** (similar/compare) vs. lupa ja kielto

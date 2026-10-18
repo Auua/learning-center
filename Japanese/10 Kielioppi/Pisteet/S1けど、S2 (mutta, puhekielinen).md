@@ -77,6 +77,14 @@ Sama merkitys; が on muodollisempi/kirjoitettu, けど puhekielinen.
 
 #flashcards/grammar/n5/vertailu
 
-S1けど／けれど（も）、S2 (mutta, puhekielinen) (similar/compare) ::: S1が、S2 (mutta) (similar/compare)
-S1けど／けれど（も）、S2 (mutta, puhekielinen) (similar) ::: だけど (mutta, lauseen alussa) (similar)
-S1けど／けれど（も）、S2 (mutta, puhekielinen) (compare) ::: ～ものの (vaikka kylla) (compare)
+S1けど／けれど（も）、S2 (mutta, puhekielinen) この店は安い**けど**、おいしくない (similar/compare) vs. kohtelias neutraali "mutta"
+??
+S1が、S2 (mutta) 日本の食べ物はおいしいです**が**、高いです (similar/compare) vs. puhekielinen "mutta"
+
+S1けど／けれど（も）、S2 (mutta, puhekielinen) この店は安い**けど**、おいしくない (similar) vs. mutta, lauseen alussa
+??
+だけど (mutta, lauseen alussa) **だけど**、だめだった (similar) vs. mutta, puhekielinen
+
+S1けど／けれど（も）、S2 (mutta, puhekielinen) この店は安い**けど**、おいしくない (compare) vs. vaikka kylla
+??
+～ものの (vaikka kylla) 買った**ものの**、一度も使っていない (compare) vs. mutta, puhekielinen

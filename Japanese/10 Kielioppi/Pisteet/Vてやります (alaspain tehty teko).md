@@ -81,5 +81,10 @@ Miksi 先生に本を読んでやりました on virhe, ja mitä pitäisi käytt
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form やります (alaspain tehty teko) (similar) ::: Vてあげます・Vてもらいます・Vてくれます (teon antaminen) (similar)
-Vて-form やります (alaspain tehty teko) (similar/compare) ::: N1にN2をやります (antaa alaspäin) (similar/compare)
+Vて-form やります (alaspain tehty teko) わたしは息子に**紙飛行機を作ってやりました** (similar) vs. teon antaminen
+??
+Vてあげます・Vてもらいます・Vてくれます (teon antaminen) 木村さんに本を貸し**てあげました** (similar) vs. alaspain tehty teko
+
+Vて-form やります (alaspain tehty teko) わたしは息子に**紙飛行機を作ってやりました** (similar/compare) vs. antaa alaspäin
+??
+N1にN2をやります (antaa alaspäin) 毎朝、犬**に**えさ**を**やります (similar/compare) vs. alaspain tehty teko

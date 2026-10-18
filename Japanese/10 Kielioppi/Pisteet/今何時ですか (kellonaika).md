@@ -77,6 +77,14 @@ Miten sanotaan "puoli kymmenen"?
 
 #flashcards/grammar/n5/vertailu
 
-今何時ですか／N（場所）は今何時ですか (kellonaika) (similar/compare) ::: N (aika) に (similar/compare)
-今何時ですか／N（場所）は今何時ですか (kellonaika) (similar) ::: ～から～まで (mistä mihin, alku ja loppu) (similar)
-今何時ですか／N（場所）は今何時ですか (kellonaika) (similar) ::: いつ (milloin) (similar)
+今何時ですか／N（場所）は今何時ですか (kellonaika) **今何時ですか** (similar/compare) vs. aika
+??
+N (aika) に 6時**に**起きます (similar/compare) vs. kellonaika
+
+今何時ですか／N（場所）は今何時ですか (kellonaika) **今何時ですか** (similar) vs. mistä mihin, alku ja loppu
+??
+～から～まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar) vs. kellonaika
+
+今何時ですか／N（場所）は今何時ですか (kellonaika) **今何時ですか** (similar) vs. milloin
+??
+いつ (milloin) **いつ**日本へ来ましたか (similar) vs. kellonaika

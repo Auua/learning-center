@@ -84,4 +84,6 @@ Vましょう on yhteinen ehdotus ('tehdään yhdessä'); か:n lisääminen kä
 
 #flashcards/grammar/n5/vertailu
 
-Vます-vartalo ましょうか (tarjous) (similar) ::: Vませんか・Vましょう (etkö tulisi, tehdäänkö) (similar)
+Vます-vartalo ましょうか (tarjous) 傘を貸し**ましょうか** (similar) vs. etkö tulisi, tehdäänkö
+??
+Vませんか・Vましょう (etkö tulisi, tehdäänkö) いっしょに京都へ行き**ませんか** (similar) vs. tarjous

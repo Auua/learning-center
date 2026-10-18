@@ -68,4 +68,6 @@ Ensimmäinen = kannatti; toinen = turhaan.
 
 #flashcards/grammar/n1/vertailu
 
-Vた／Nの＋甲斐もなく (turhaan, vaivasta huolimatta) (similar/compare) ::: ～甲斐がある (kannattaa, palkitsee) (similar/compare)
+Vた／Nの＋甲斐もなく (turhaan, vaivasta huolimatta) 頑張った**甲斐もなく**、負けてしまった (similar/compare) vs. kannattaa, palkitsee
+??
+～甲斐がある (kannattaa, palkitsee) 頑張った**甲斐があって**、合格した (similar/compare) vs. turhaan, vaivasta huolimatta

@@ -63,4 +63,6 @@ Voi seistä yksin (優太ったら。) tai jatkua lauseella, joka selittää mis
 
 #flashcards/grammar/n2/vertailu
 
-N＋ったら (turhautunut puhuttelu) (similar/compare) ::: Nときたら (kun on kyse, voi sita) (similar/compare)
+N＋ったら (turhautunut puhuttelu) 優太**ったら**、また遅刻だ (similar/compare) vs. kun on kyse, voi sita
+??
+Nときたら (kun on kyse, voi sita) うちの息子**ときたら**、全然勉強しない (similar/compare) vs. turhautunut puhuttelu

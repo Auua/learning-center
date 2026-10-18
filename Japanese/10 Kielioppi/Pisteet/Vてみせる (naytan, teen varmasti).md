@@ -68,4 +68,6 @@ Demonstraatio ja luja päätös.
 
 #flashcards/grammar/n1/vertailu
 
-V(て)＋みせる (naytan, teen varmasti) (similar/compare) ::: Vてみます (kokeilla tehda) (similar/compare)
+V(て)＋みせる (naytan, teen varmasti) 先生が書い**てみせた** (similar/compare) vs. kokeilla tehda
+??
+Vてみます (kokeilla tehda) 宇宙から地球を**見てみたいです** (similar/compare) vs. naytan, teen varmasti

@@ -68,5 +68,10 @@ Muodollinen, kirjoitettu.
 
 #flashcards/grammar/n2/vertailu
 
-N＋上（は・の） (jonkin kannalta) (similar) ::: ～において (jossakin kontekstissa, muodollinen) (similar)
-N＋上（は・の） (jonkin kannalta) (similar/compare) ::: ～の上では (jonkin mukaan, paperilla) (similar/compare)
+N＋上（は・の） (jonkin kannalta) 諸外国との外交**上**、同じ暦を使用するほうが便利だった (similar) vs. jossakin kontekstissa, muodollinen
+??
+～において (jossakin kontekstissa, muodollinen) 江戸時代**において**もっとも力を持っていたのは誰だろうか (similar) vs. jonkin kannalta
+
+N＋上（は・の） (jonkin kannalta) 諸外国との外交**上**、同じ暦を使用するほうが便利だった (similar/compare) vs. jonkin mukaan, paperilla
+??
+～の上では (jonkin mukaan, paperilla) 暦**の上では**春だが、まだ寒い (similar/compare) vs. jonkin kannalta

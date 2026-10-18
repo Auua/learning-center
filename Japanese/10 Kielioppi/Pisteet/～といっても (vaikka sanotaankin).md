@@ -70,6 +70,14 @@ Odotusta vähentävä: vain vähän, ei niin hienoa.
 
 #flashcards/grammar/n3/vertailu
 
-普通形（N/な-adj だ voi pudota）＋といっても (vaikka sanotaankin) (similar/compare) ::: 普通形からといって (vaikka onkin niin) (similar/compare)
-普通形（N/な-adj だ voi pudota）＋といっても (vaikka sanotaankin) (similar/compare) ::: ～とはいえ (vaikka, tosin) (similar/compare)
-普通形（N/な-adj だ voi pudota）＋といっても (vaikka sanotaankin) (compare) ::: ～と言ってもいい (voisi sanoa) (compare)
+普通形（N/な-adj だ voi pudota）＋といっても (vaikka sanotaankin) 料理ができる**といっても**、簡単なものだけです (similar/compare) vs. vaikka onkin niin
+??
+普通形からといって (vaikka onkin niin) 外国人だ**からといって**、わがままは言えません (similar/compare) vs. vaikka sanotaankin
+
+普通形（N/な-adj だ voi pudota）＋といっても (vaikka sanotaankin) 料理ができる**といっても**、簡単なものだけです (similar/compare) vs. vaikka, tosin
+??
+～とはいえ (vaikka, tosin) 春**とはいえ**、まだ寒い (similar/compare) vs. vaikka sanotaankin
+
+普通形（N/な-adj だ voi pudota）＋といっても (vaikka sanotaankin) 料理ができる**といっても**、簡単なものだけです (compare) vs. voisi sanoa
+??
+～と言ってもいい (voisi sanoa) 彼は天才だ**と言ってもいい** (compare) vs. vaikka sanotaankin

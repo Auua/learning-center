@@ -79,5 +79,10 @@ Miten の？ eroaa んです:sta?
 
 #flashcards/grammar/n3/vertailu
 
-普通形の？（kysymys/selitys） (puhekielinen selittava kysymys) (similar/compare) ::: 普通形んです (selittävä sävy) (similar/compare)
-普通形の？（kysymys/selitys） (puhekielinen selittava kysymys) (compare) ::: Sかい・Sだい (tuttavallinen kysymys) (compare)
+普通形の？（kysymys/selitys） (puhekielinen selittava kysymys) 今年、「日本語能力試験」を**受けるの**？ (similar/compare) vs. selittävä sävy
+??
+普通形んです (selittävä sävy) 時間が**ないんです** (similar/compare) vs. puhekielinen selittava kysymys
+
+普通形の？（kysymys/selitys） (puhekielinen selittava kysymys) 今年、「日本語能力試験」を**受けるの**？ (compare) vs. tuttavallinen kysymys
+??
+Sかい・Sだい (tuttavallinen kysymys) 元気**かい**？ (compare) vs. puhekielinen selittava kysymys

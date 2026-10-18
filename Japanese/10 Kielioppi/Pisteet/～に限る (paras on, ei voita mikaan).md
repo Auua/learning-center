@@ -70,4 +70,6 @@ Henkilökohtainen mielipide.
 
 #flashcards/grammar/n2/vertailu
 
-N／V辞書形／Vない＋に限る (paras on, ei voita mikaan) (compare) ::: ～に越したことはない (on parasta jos) (compare)
+N／V辞書形／Vない＋に限る (paras on, ei voita mikaan) 夏はビール**に限る** (compare) vs. on parasta jos
+??
+～に越したことはない (on parasta jos) 早く行く**に越したことはない** (compare) vs. paras on, ei voita mikaan

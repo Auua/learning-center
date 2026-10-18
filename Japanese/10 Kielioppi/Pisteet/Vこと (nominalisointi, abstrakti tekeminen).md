@@ -114,16 +114,44 @@ Ennen です の ei toimi nominalisoijana vaan muodostaisi selittävän ので�
 
 #flashcards/grammar/n5/vertailu
 
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar/compare) ::: Vのは・Vのが・Vのを (nominalisointi) (similar/compare)
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: Vことができます (kyky) (similar)
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: Vたことがあります (kokemus) (similar)
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: ～ことは・が・を (yleistys ja arvottaminen) (similar)
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: ことにする・ことにしている (oma paatos) (similar)
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: ことになる・ことになっている (ulkopuolinen paatos) (similar)
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar/compare) ::: ます-vartalo substantiivina (連用形名詞) (similar/compare)
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (compare) ::: Vertailu — の vs. こと (nominalisointi) (compare)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar/compare) vs. の-nominalisointi
+??
+Vのは・Vのが・Vのを (nominalisointi) 絵を**かくのは**楽しいです (similar/compare) vs. こと-nominalisointi (abstrakti)
+
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar) vs. kyky
+??
+Vことができます (kyky) ミラーさんは日本語**が**できます (similar) vs. nominalisointi, abstrakti tekeminen
+
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar) vs. kokemus
+??
+Vたことがあります (kokemus) 馬に乗っ**たことがあります** (similar) vs. nominalisointi, abstrakti tekeminen
+
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar) vs. yleistys ja arvottaminen
+??
+～ことは・が・を (yleistys ja arvottaminen) 若いときに留学する**ことは**いい経験になると思います (similar) vs. nominalisointi, abstrakti tekeminen
+
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar) vs. oma paatos
+??
+ことにする・ことにしている (oma paatos) この仕事はあした**することにします** (similar) vs. nominalisointi, abstrakti tekeminen
+
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar) vs. ulkopuolinen paatos
+??
+ことになる・ことになっている (ulkopuolinen paatos) 夫の転勤で広島へ引っ越す**ことになりました** (similar) vs. nominalisointi, abstrakti tekeminen
+
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar/compare) vs. 連用形名詞
+??
+ます-vartalo substantiivina (連用形名詞) 物語の始まりはとても静かだった (similar/compare) vs. nominalisointi, abstrakti tekeminen
+
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (compare) vs. vertailu: の vs. こと
+??
+Vertailu — の vs. こと (nominalisointi) 見る**の**が好き／趣味は読む**こと**だ (compare) vs. nominalisointi, abstrakti tekeminen
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (similar) ::: V辞書形・ないこと (ohje, saanto) (similar)
-V辞書形＋こと (nominalisointi, abstrakti tekeminen) (compare) ::: Adjさ (adjektiivista substantiivi) (compare)
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (similar) vs. ohje, saanto
+??
+V辞書形・ないこと (ohje, saanto) 毎日8時までに出勤する**こと** (similar) vs. nominalisointi, abstrakti tekeminen
+
+V辞書形＋こと (nominalisointi, abstrakti tekeminen) 私の夢は日本語を話す**ことです** (compare) vs. adjektiivista substantiivi
+??
+Adjさ (adjektiivista substantiivi) 山の**高さ**を測る (compare) vs. nominalisointi, abstrakti tekeminen

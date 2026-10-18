@@ -73,6 +73,14 @@ Muodossa N + の + まま, esim. 生のまま (raakana sellaisenaan).
 
 #flashcards/grammar/n3/vertailu
 
-V(た形)まま・Nのまま (muuttumaton tila) (compare) ::: ～きり (vain, sen jalkeen ei) (compare)
-V(た形)まま・Nのまま (muuttumaton tila) (similar/compare) ::: ～ながらに (sellaisenaan, -tilassa) (similar/compare)
-V(た形)まま・Nのまま (muuttumaton tila) (similar/compare) ::: Vままに (kuten, miten mieleen tulee) (similar/compare)
+V(た形)まま・Nのまま (muuttumaton tila) **靴をはいたまま**、部屋に入らないでください (compare) vs. vain, sen jalkeen ei
+??
+～きり (vain, sen jalkeen ei) 二人**きり**で話したい (compare) vs. muuttumaton tila
+
+V(た形)まま・Nのまま (muuttumaton tila) **靴をはいたまま**、部屋に入らないでください (similar/compare) vs. sellaisenaan, -tilassa
+??
+～ながらに (sellaisenaan, -tilassa) 涙**ながらに**語った (similar/compare) vs. muuttumaton tila
+
+V(た形)まま・Nのまま (muuttumaton tila) **靴をはいたまま**、部屋に入らないでください (similar/compare) vs. kuten, miten mieleen tulee
+??
+Vままに (kuten, miten mieleen tulee) 言われる**ままに**、書類にサインした (similar/compare) vs. muuttumaton tila

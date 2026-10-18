@@ -69,5 +69,10 @@ Lähes sama; なくしては on juhlavampi.
 
 #flashcards/grammar/n1/vertailu
 
-N＋なしに／なしで／なしには (ilman) (similar/compare) ::: ～なくしては (ilman jotakin ei) (similar/compare)
-N＋なしに／なしで／なしには (ilman) (similar) ::: ～抜きにして・抜きで (ilman, jattaen pois) (similar)
+N＋なしに／なしで／なしには (ilman) 断り**なしに**、人の物を使うな (similar/compare) vs. "ilman jotakin ei"
+??
+～なくしては (ilman jotakin ei) 皆様の協力**なくしては**、成功しなかった (similar/compare) vs. "ilman" perus
+
+N＋なしに／なしで／なしには (ilman) 断り**なしに**、人の物を使うな (similar) vs. "ilman, jättäen pois"
+??
+～抜きにして・抜きで (ilman, jattaen pois) 朝ご飯**抜きで**会社に行った (similar) vs. "ilman"

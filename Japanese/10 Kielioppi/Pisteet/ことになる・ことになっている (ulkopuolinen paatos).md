@@ -84,5 +84,10 @@ Miten 引っ越すことになりました eroaa lauseesta 引っ越すことに
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形／ないことになる・ことになっている (ulkopuolinen paatos) (similar/compare) ::: ことにする・ことにしている (oma paatos) (similar/compare)
-V辞書形／ないことになる・ことになっている (ulkopuolinen paatos) (similar/compare) ::: ～羽目になる (joutua ikavaan tilanteeseen) (similar/compare)
+V辞書形／ないことになる・ことになっている (ulkopuolinen paatos) 夫の転勤で広島へ引っ越す**ことになりました** (similar/compare) vs. oma paatos
+??
+ことにする・ことにしている (oma paatos) この仕事はあした**することにします** (similar/compare) vs. ulkopuolinen paatos
+
+V辞書形／ないことになる・ことになっている (ulkopuolinen paatos) 夫の転勤で広島へ引っ越す**ことになりました** (similar/compare) vs. joutua ikavaan tilanteeseen
+??
+～羽目になる (joutua ikavaan tilanteeseen) 寝坊して、タクシーで行く**羽目になった** (similar/compare) vs. ulkopuolinen paatos

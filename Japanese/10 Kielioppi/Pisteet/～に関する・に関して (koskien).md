@@ -72,7 +72,18 @@ Perusfunktio sama (aihe), mutta について on neutraalimpi yleiskieltä; に�
 
 #flashcards/grammar/n2/vertailu
 
-N＋に関する＋N2・N＋に関して (koskien) (similar/compare) ::: ～について (aiheesta) (similar/compare)
-N＋に関する＋N2・N＋に関して (koskien) (similar/compare) ::: ～にまつわる (liittyva, koskeva) (similar/compare)
-N＋に関する＋N2・N＋に関して (koskien) (similar/compare) ::: ～にかかわる (koskee, vaikuttaa) (similar/compare)
-N＋に関する＋N2・N＋に関して (koskien) (similar) ::: ～をめぐって (ymparilla, koskien kiistaa) (similar)
+N＋に関する＋N2・N＋に関して (koskien) 働きアリ**に関する**有名な研究がある (similar/compare) vs. aiheesta
+??
+～について (aiheesta) 日本の文化**について**調べています (similar/compare) vs. koskien
+
+N＋に関する＋N2・N＋に関して (koskien) 働きアリ**に関する**有名な研究がある (similar/compare) vs. liittyva, koskeva
+??
+～にまつわる (liittyva, koskeva) この寺**にまつわる**伝説 (similar/compare) vs. koskien
+
+N＋に関する＋N2・N＋に関して (koskien) 働きアリ**に関する**有名な研究がある (similar/compare) vs. koskee, vaikuttaa
+??
+～にかかわる (koskee, vaikuttaa) 命**にかかわる**病気 (similar/compare) vs. koskien
+
+N＋に関する＋N2・N＋に関して (koskien) 働きアリ**に関する**有名な研究がある (similar) vs. "ympärillä" (kiista)
+??
+～をめぐって (ymparilla, koskien kiistaa) 遺産**をめぐって**、兄弟が争った (similar) vs. "koskien"

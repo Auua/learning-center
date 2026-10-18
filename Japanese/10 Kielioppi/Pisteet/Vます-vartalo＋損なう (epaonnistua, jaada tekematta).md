@@ -69,4 +69,6 @@ Erehdyin sinusta (pettymys).
 
 #flashcards/grammar/n1/vertailu
 
-V(ます-vartalo)＋損なう／損ねる／損じる (epaonnistua, jaada tekematta) (similar/compare) ::: Vそびれる (jaada tekematta, menettaa tilaisuus) (similar/compare)
+V(ます-vartalo)＋損なう／損ねる／損じる (epaonnistua, jaada tekematta) 電車に乗り**損なった** (similar/compare) vs. jaada tekematta, menettaa tilaisuus
+??
+Vそびれる (jaada tekematta, menettaa tilaisuus) 言い**そびれた** (similar/compare) vs. epaonnistua, jaada tekematta

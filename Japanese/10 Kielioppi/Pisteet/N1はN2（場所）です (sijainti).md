@@ -76,6 +76,14 @@ Ei — se kertoo sijainnin: Miller on neuvotteluhuoneessa.
 
 #flashcards/grammar/n5/vertailu
 
-N1はN2（場所）です (sijainti) (similar/compare) ::: あります・います (olemassaolo) (similar/compare)
-N1はN2（場所）です (sijainti) (similar) ::: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) (similar)
-N1はN2（場所）です (sijainti) (similar/compare) ::: Nはどこですか・どちらですか (missä) (similar/compare)
+N1はN2（場所）です (sijainti) 食堂は**あそこです** (similar/compare) vs. olemassaolo
+??
+あります・います (olemassaolo) 机の上に写真**が**あります (similar/compare) vs. sijainti
+
+N1はN2（場所）です (sijainti) 食堂は**あそこです** (similar) vs. paikat ja suunnat
+??
+ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) ここは食堂です (similar) vs. sijainti
+
+N1はN2（場所）です (sijainti) 食堂は**あそこです** (similar/compare) vs. missä
+??
+Nはどこですか・どちらですか (missä) トイレは**どこですか** (similar/compare) vs. sijainti

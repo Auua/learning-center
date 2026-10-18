@@ -77,5 +77,10 @@ Miten お～です eroaa kaavasta お～になる (molemmat 尊敬語)?
 
 #flashcards/grammar/n3/vertailu
 
-お＋（ます-vartalo）＋です (kevyt sonkeigo) (similar/compare) ::: お～になる (kunnioittava toisen teko) (similar/compare)
-お＋（ます-vartalo）＋です (kevyt sonkeigo) (compare) ::: Keigo — kartta (compare)
+お＋（ます-vartalo）＋です (kevyt sonkeigo) 林さんはいつ出張から**お戻りですか** (similar/compare) vs. kunnioittava toisen teko
+??
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar/compare) vs. kevyt sonkeigo
+
+お＋（ます-vartalo）＋です (kevyt sonkeigo) 林さんはいつ出張から**お戻りですか** (compare) vs. keigon kokonaiskartta
+??
+Keigo — kartta 先生が**いらっしゃいました** (compare) vs. kevyt sonkeigo

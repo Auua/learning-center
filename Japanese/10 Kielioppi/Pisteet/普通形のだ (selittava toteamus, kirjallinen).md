@@ -73,4 +73,6 @@ Sama selittävä/korostava funktio; ero on rekisterissä: んです on puhekieli
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋のだ／なのだ／なのである (selittava toteamus, kirjallinen) (similar/compare) ::: 普通形んです (selittävä sävy) (similar/compare)
+普通形＋のだ／なのだ／なのである (selittava toteamus, kirjallinen) つまり、2人しか合格しなかった**のである** (similar/compare) vs. selittävä sävy
+??
+普通形んです (selittävä sävy) 時間が**ないんです** (similar/compare) vs. selittava toteamus, kirjallinen

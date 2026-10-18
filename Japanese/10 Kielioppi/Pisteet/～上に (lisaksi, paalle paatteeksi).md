@@ -71,9 +71,26 @@ Ei — molempien täytyy olla samansuuntaisia.
 
 #flashcards/grammar/n3/vertailu
 
-普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar) ::: それに・それで (lisaksi, niinpa) (similar)
-普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar/compare) ::: ～ときている (kun lisaksi viela) (similar/compare)
-普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar/compare) ::: ～に加えて (lisaksi) (similar/compare)
-普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar) ::: しかも (lisaksi, vielapa) (similar)
-普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (similar) ::: おまけに (paalle paatteeksi) (similar)
-普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) (compare) ::: ～だけでなく (ei pelkastaan vaan myos) (compare)
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar) vs. lisaksi, niinpa
+??
+それに・それで (lisaksi, niinpa) **それに**経験もあります (similar) vs. lisaksi, paalle paatteeksi
+
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar/compare) vs. kun lisaksi viela
+??
+～ときている (kun lisaksi viela) 頭がいい上に、顔もいい**ときている** (similar/compare) vs. lisaksi, paalle paatteeksi
+
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar/compare) vs. "lisäksi" muodollinen
+??
+～に加えて (lisaksi) 雨**に加えて**、風も強くなった (similar/compare) vs. "lisäksi" sivulauseena
+
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar) vs. lisaksi, vielapa
+??
+しかも (lisaksi, vielapa) **しかも**、おいしい (similar) vs. lisaksi, paalle paatteeksi
+
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (similar) vs. "päälle päätteeksi" lauseen alussa
+??
+おまけに (paalle paatteeksi) **おまけに**、雨まで降ってきた (similar) vs. "lisäksi" sivulauseena
+
+普通形（N の／な-adj な）＋上（に） (lisaksi, paalle paatteeksi) この店は安い**上に**、おいしい (compare) vs. ei pelkastaan vaan myos
+??
+～だけでなく (ei pelkastaan vaan myos) 彼は同僚から**だけでなく**、上司からも信頼されている (compare) vs. lisaksi, paalle paatteeksi

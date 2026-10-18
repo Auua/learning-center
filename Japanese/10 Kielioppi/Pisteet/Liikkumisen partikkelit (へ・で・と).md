@@ -103,7 +103,18 @@ N1とN2 yhdistää kaksi substantiivia listaksi ('A ja B'); liikkumisen と liit
 
 #flashcards/grammar/n5/vertailu
 
-N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) (similar) ::: N1とN2 (ja) (similar)
-N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) (similar/compare) ::: N (ryhmä, määrä, aika) で (similar/compare)
-N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) (similar/compare) ::: Nに入ります・Nを出ます (sisään ja ulos) (similar/compare)
-N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) (similar) ::: Nを (kulkureitti, läpi ja yli) (similar)
+N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) 京都**へ**行きます (similar) vs. ja
+??
+N1とN2 (ja) 土曜日**と**日曜日 (similar) vs. へ・で・と
+
+N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) 京都**へ**行きます (similar/compare) vs. ryhmä, määrä, aika
+??
+N (ryhmä, määrä, aika) で 一人**で**作りました (similar/compare) vs. へ・で・と
+
+N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) 京都**へ**行きます (similar/compare) vs. sisään ja ulos
+??
+Nに入ります・Nを出ます (sisään ja ulos) 喫茶店**に入ります** (similar/compare) vs. へ・で・と
+
+N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) 京都**へ**行きます (similar) vs. kulkureitti, läpi ja yli
+??
+Nを (kulkureitti, läpi ja yli) 公園**を**散歩します (similar) vs. へ・で・と

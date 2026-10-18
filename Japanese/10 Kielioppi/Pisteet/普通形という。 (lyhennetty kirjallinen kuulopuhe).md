@@ -106,7 +106,18 @@ Samaa rekisteriä, mutta ne ilmaisevat arviota, eivät kuulopuhetta.
 
 #flashcards/grammar/n2/vertailu
 
-普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar/compare) ::: 普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare)
-普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar) ::: 普通形そうです (kuulopuhe) (similar)
-普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar) ::: 普通形とみられる (arvioidaan olevan) (similar)
-普通形という。 (lyhennetty kirjallinen kuulopuhe) (similar) ::: 普通形と思われる (nayttaa siltä, uutiskielinen) (similar)
+普通形という。 (lyhennetty kirjallinen kuulopuhe) 日本で最も古い大学が京都に**あるという** (similar/compare) vs. muodollinen kuulopuhe, vahvistus
+??
+普通形ということだ (muodollinen kuulopuhe, vahvistus) 30分ほど遅れる**ということですね** (similar/compare) vs. lyhennetty kirjallinen kuulopuhe
+
+普通形という。 (lyhennetty kirjallinen kuulopuhe) 日本で最も古い大学が京都に**あるという** (similar) vs. tavallinen kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar) vs. lyhennetty kirjallinen kuulopuhe
+
+普通形という。 (lyhennetty kirjallinen kuulopuhe) 日本で最も古い大学が京都に**あるという** (similar) vs. arvioidaan olevan
+??
+普通形とみられる (arvioidaan olevan) 犯人は車で逃げた**とみられる** (similar) vs. lyhennetty kirjallinen kuulopuhe
+
+普通形という。 (lyhennetty kirjallinen kuulopuhe) 日本で最も古い大学が京都に**あるという** (similar) vs. nayttaa siltä, uutiskielinen
+??
+普通形と思われる (nayttaa siltä, uutiskielinen) 世界の経済の混乱はこの先5、6年は続く**と思われる** (similar) vs. lyhennetty kirjallinen kuulopuhe

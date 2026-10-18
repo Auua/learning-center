@@ -81,6 +81,14 @@ Vain 1. persoonan omaa; toisen henkilön aikeista ei suoraan ilman lisäystä (�
 
 #flashcards/grammar/n4/vertailu
 
-V(意向形)と思っています (harkittu aikomus) (similar) ::: Vつもりです (paatetty aikomus) (similar)
-V(意向形)と思っています (harkittu aikomus) (similar) ::: V予定です (aikataulutettu suunnitelma) (similar)
-V(意向形)と思っています (harkittu aikomus) (compare) ::: Vertailu — ようと思う vs. つもり vs. 予定 (compare)
+V(意向形)と思っています (harkittu aikomus) 将来自分の会社を**作ろうと思っています** (similar) vs. paatetty aikomus
+??
+Vつもりです (paatetty aikomus) 来月車を**買うつもりです** (similar) vs. harkittu aikomus
+
+V(意向形)と思っています (harkittu aikomus) 将来自分の会社を**作ろうと思っています** (similar) vs. aikataulutettu suunnitelma
+??
+V予定です (aikataulutettu suunnitelma) 来週の金曜日に**帰る予定です** (similar) vs. harkittu aikomus
+
+V(意向形)と思っています (harkittu aikomus) 将来自分の会社を**作ろうと思っています** (compare) vs. vertailu: ようと思う vs. つもり vs. 予定
+??
+Vertailu — ようと思う vs. つもり vs. 予定 来年留学**しようと思っています** (compare) vs. harkittu aikomus

@@ -72,6 +72,14 @@ Katsoa tahallaan ohi, olla huomaamatta (vaikka näkee).
 
 #flashcards/grammar/n3/vertailu
 
-普通形（N の／な-adj な）＋ふりをする (teeskennella) (similar/compare) ::: ～ぶる (olla olevinaan) (similar/compare)
-普通形（N の／な-adj な）＋ふりをする (teeskennella) (compare) ::: まるで～ようだ (aivan kuin) (compare)
-普通形（N の／な-adj な）＋ふりをする (teeskennella) (compare) ::: ～かのように (ikaan kuin) (compare)
+普通形（N の／な-adj な）＋ふりをする (teeskennella) 聞こえない**ふりをした** (similar/compare) vs. olla olevinaan
+??
+～ぶる (olla olevinaan) 学者**ぶった**話し方 (similar/compare) vs. teeskennella
+
+普通形（N の／な-adj な）＋ふりをする (teeskennella) 聞こえない**ふりをした** (compare) vs. aivan kuin
+??
+まるで～ようだ (aivan kuin) **まるで**夢**のようだ** (compare) vs. teeskennella
+
+普通形（N の／な-adj な）＋ふりをする (teeskennella) 聞こえない**ふりをした** (compare) vs. ikaan kuin
+??
+～かのように (ikaan kuin) 何も知らない**かのように**振る舞う (compare) vs. teeskennella

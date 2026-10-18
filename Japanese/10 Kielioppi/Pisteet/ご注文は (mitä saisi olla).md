@@ -76,6 +76,14 @@ Ei — omasta tilauksesta ilman ご: 注文をお願いします.
 
 #flashcards/grammar/n5/vertailu
 
-ご注文は？ (mitä saisi olla) (similar) ::: お～ (kunnioittava etuliite) (similar)
-ご注文は？ (mitä saisi olla) (similar/compare) ::: ご～ (kunnioittava etuliite, kango) (similar/compare)
-ご注文は？ (mitä saisi olla) (similar) ::: お国はどちらですか (mistä maasta) (similar)
+ご注文は？ (mitä saisi olla) **ご注文は**？…牛どんをお願いします (similar) vs. kunnioittava etuliite
+??
+お～ (kunnioittava etuliite) **お**名前は何ですか (similar) vs. mitä saisi olla
+
+ご注文は？ (mitä saisi olla) **ご注文は**？…牛どんをお願いします (similar/compare) vs. kunnioittava etuliite, kango
+??
+ご～ (kunnioittava etuliite, kango) **ご家族**はお元気ですか (similar/compare) vs. mitä saisi olla
+
+ご注文は？ (mitä saisi olla) **ご注文は**？…牛どんをお願いします (similar) vs. mistä maasta
+??
+お国はどちらですか (mistä maasta) **お国はどちらですか** (similar) vs. mitä saisi olla

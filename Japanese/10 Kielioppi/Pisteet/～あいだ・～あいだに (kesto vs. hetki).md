@@ -82,5 +82,10 @@ Kumpi: 出かけているあいだ vai 出かけているあいだに, kun lintu
 
 #flashcards/grammar/n3/vertailu
 
-V(ている)／Nのあいだ、…・あいだに、… (kesto vs. hetki) (similar) ::: Vてから、V2 (jälkeen) (similar)
-V(ている)／Nのあいだ、…・あいだに、… (kesto vs. hetki) (compare) ::: N中（ちゅう・じゅう） (aikana, koko) (compare)
+V(ている)／Nのあいだ、…・あいだに、… (kesto vs. hetki) 子どもが**眠っているあいだ**、わたしはビデオを見ていた (similar) vs. jälkeen
+??
+Vてから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar) vs. kesto vs. hetki
+
+V(ている)／Nのあいだ、…・あいだに、… (kesto vs. hetki) 子どもが**眠っているあいだ**、わたしはビデオを見ていた (compare) vs. aikana, koko
+??
+N中（ちゅう・じゅう） (aikana, koko) ただいま会議**中**です (compare) vs. kesto vs. hetki

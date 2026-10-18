@@ -99,9 +99,26 @@ Miten とき eroaa Vまえに verbin muodon valinnassa?
 
 #flashcards/grammar/n5/vertailu
 
-V／adjとき (silloin kun) (similar) ::: 関係節 (suhteellinen sivulause) (similar)
-V／adjとき (silloin kun) (similar) ::: Vまえに (ennen) (similar)
-V／adjとき (silloin kun) (similar/compare) ::: ～際［に］ (silloin kun, muodollinen) (similar/compare)
-V／adjとき (silloin kun) (similar) ::: Vたびに (aina kun) (similar)
-V／adjとき (silloin kun) (similar) ::: ～折に (tilaisuudessa, kun) (similar)
-V／adjとき (silloin kun) (similar/compare) ::: ～とき＋partikkeli (ときに・ときも・ときの・ときや) (similar/compare)
+V／adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar) vs. suhteellinen sivulause
+??
+関係節 (suhteellinen sivulause) **きのう見た**映画はおもしろかった (similar) vs. silloin kun
+
+V／adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar) vs. ennen
+??
+Vまえに (ennen) 日本へ来る**まえに**、日本語を勉強しました (similar) vs. silloin kun
+
+V／adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar/compare) vs. muodollinen "silloin kun"
+??
+～際［に］ (silloin kun, muodollinen) 外出**の際**、必ずフロントに鍵をお預けください (similar/compare) vs. "silloin kun" arkinen
+
+V／adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar) vs. aina kun
+??
+Vたびに (aina kun) 隣のうちのお嬢さんは会う**たびに**きれいになっている (similar) vs. silloin kun
+
+V／adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar) vs. tilaisuudessa, kun
+??
+～折に (tilaisuudessa, kun) 今度お会いした**折に**、お話しします (similar) vs. silloin kun
+
+V／adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar/compare) vs. ときに・ときも・ときの・ときや
+??
+～とき＋partikkeli (ときに・ときも・ときの・ときや) 疲れた**ときも**、休まないで働きました (similar/compare) vs. silloin kun

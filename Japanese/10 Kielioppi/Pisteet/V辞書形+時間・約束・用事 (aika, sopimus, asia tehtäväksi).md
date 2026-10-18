@@ -58,4 +58,6 @@ V辞書形＋用事 + mitä tulee perään? :: V辞書形 + 用事がありま�
 
 #flashcards/grammar/n5/vertailu
 
-V辞書形＋時間／約束／用事 (aika, sopimus, asia tehtäväksi) (similar) ::: 関係節 (suhteellinen sivulause) (similar)
+V辞書形＋時間／約束／用事 (aika, sopimus, asia tehtäväksi) 朝ごはんを**食べる時間**がありません (similar) vs. suhteellinen sivulause
+??
+関係節 (suhteellinen sivulause) **きのう見た**映画はおもしろかった (similar) vs. aika, sopimus, asia tehtäväksi

@@ -70,7 +70,18 @@ Vaihtelevia: 天候, 年齢, 性別, 経験.
 
 #flashcards/grammar/n2/vertailu
 
-N／V辞書形＋Vない＋にかかわらず (riippumatta) (similar/compare) ::: ～を問わず (riippumatta, muodollinen) (similar/compare)
-N／V辞書形＋Vない＋にかかわらず (riippumatta) (similar/compare) ::: Nいかんにかかわらず (riippumatta, kirjallinen) (similar/compare)
-N／V辞書形＋Vない＋にかかわらず (riippumatta) (similar/compare) ::: ～によらず (riippumatta) (similar/compare)
-N／V辞書形＋Vない＋にかかわらず (riippumatta) (compare) ::: 普通形にもかかわらず (siita huolimatta etta) (compare)
+N／V辞書形＋Vない＋にかかわらず (riippumatta) 天候**にかかわらず**、試合は行います (similar/compare) vs. muodollinen "kysymättä"
+??
+～を問わず (riippumatta, muodollinen) 年齢**を問わず**、どなたでも参加できます (similar/compare) vs. "riippumatta"
+
+N／V辞書形＋Vない＋にかかわらず (riippumatta) 天候**にかかわらず**、試合は行います (similar/compare) vs. kirjallinen "riippumatta"
+??
+Nいかんにかかわらず (riippumatta, kirjallinen) 理由の**いかんにかかわらず**、返金できません (similar/compare) vs. "riippumatta" perusmuoto
+
+N／V辞書形＋Vない＋にかかわらず (riippumatta) 天候**にかかわらず**、試合は行います (similar/compare) vs. "riippumatta" (lyhyt)
+??
+～によらず (riippumatta) 年齢**によらず**、誰でも参加できる (similar/compare) vs. "riippumatta"
+
+N／V辞書形＋Vない＋にかかわらず (riippumatta) 天候**にかかわらず**、試合は行います (compare) vs. siita huolimatta etta
+??
+普通形にもかかわらず (siita huolimatta etta) 雨**にもかかわらず**、大勢来た (compare) vs. riippumatta

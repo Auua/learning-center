@@ -71,5 +71,10 @@ Huomaamatta, ennen kuin tajusi.
 
 #flashcards/grammar/n3/vertailu
 
-V(ない-muoto)＋うちに (ennen kuin) (similar/compare) ::: 普通形うちに (ennen kuin liian myohaista) (similar/compare)
-V(ない-muoto)＋うちに (ennen kuin) (compare) ::: Vまえに (ennen) (compare)
+V(ない-muoto)＋うちに (ennen kuin) 暗くなら**ないうちに**、帰りましょう (similar/compare) vs. "ennen kuin liian myöhäistä" myönteisellä
+??
+普通形うちに (ennen kuin liian myohaista) 毎日練習している**うちに**、速く泳げるようになった (similar/compare) vs. "ennen kuin" kielteisellä
+
+V(ない-muoto)＋うちに (ennen kuin) 暗くなら**ないうちに**、帰りましょう (compare) vs. "ennen kuin"
+??
+Vまえに (ennen) 日本へ来る**まえに**、日本語を勉強しました (compare) vs. "ennen kuin (liian myöhäistä)"

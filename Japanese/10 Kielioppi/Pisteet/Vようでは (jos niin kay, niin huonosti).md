@@ -68,4 +68,6 @@ Kielteinen arvio: 無理だ, だめだ.
 
 #flashcards/grammar/n2/vertailu
 
-V普通形＋ようでは／ようじゃ (jos niin kay, niin huonosti) (similar/compare) ::: Vていては (jos jatkuu nain) (similar/compare)
+V普通形＋ようでは／ようじゃ (jos niin kay, niin huonosti) こんな問題もわからない**ようでは**、合格は無理だ (similar/compare) vs. jos jatkuu nain
+??
+Vていては (jos jatkuu nain) そんなに遊んで**いては**、合格できない (similar/compare) vs. jos niin kay, niin huonosti

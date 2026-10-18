@@ -70,7 +70,18 @@ Varauksellista kyllä: onnistuu, mutta vastahakoisesti.
 
 #flashcards/grammar/n3/vertailu
 
-V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) (similar/compare) ::: Vないものでもない (ei ole aivan mahdotonta) (similar/compare)
-V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) (similar/compare) ::: Vなくはない・なくもない (kylla tavallaan) (similar/compare)
-V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) (compare) ::: 普通形わけではない (ei tarkoita etta aina) (compare)
-V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) (compare) ::: Vことはない (ei tarvitse) (compare)
+V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) 食べられ**ないことはない**けど、好きじゃない (similar/compare) vs. "ei ole aivan mahdotonta" (kirjallinen)
+??
+Vないものでもない (ei ole aivan mahdotonta) 条件次第では、引き受け**ないものでもない** (similar/compare) vs. "ei ole mahdotonta"
+
+V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) 食べられ**ないことはない**けど、好きじゃない (similar/compare) vs. kylla tavallaan
+??
+Vなくはない・なくもない (kylla tavallaan) 彼の気持ちもわから**なくはない** (similar/compare) vs. ei ole mahdotonta
+
+V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) 食べられ**ないことはない**けど、好きじゃない (compare) vs. ei tarkoita etta aina
+??
+普通形わけではない (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (compare) vs. ei ole mahdotonta
+
+V(ない-muoto)＋ことはない／こともない (ei ole mahdotonta) 食べられ**ないことはない**けど、好きじゃない (compare) vs. ei tarvitse
+??
+Vことはない (ei tarvitse) 心配する**ことはない**よ (compare) vs. ei ole mahdotonta

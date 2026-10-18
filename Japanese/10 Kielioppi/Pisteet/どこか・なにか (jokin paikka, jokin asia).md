@@ -77,5 +77,10 @@ Mitkä partikkelit voi jättää pois どこか/なにか-sanan perästä?
 
 #flashcards/grammar/n5/vertailu
 
-どこか／なにか (jokin paikka, jokin asia) (similar/compare) ::: どこかで・どこかに (epamaarainen paikka) (similar/compare)
-どこか／なにか (jokin paikka, jokin asia) (similar/compare) ::: 疑問詞＋も＋ない (ei mitaan, ei kukaan) (similar/compare)
+どこか／なにか (jokin paikka, jokin asia) 冬休みは**どこか**へ行きましたか (similar/compare) vs. epamaarainen paikka
+??
+どこかで・どこかに (epamaarainen paikka) どこかで財布をなくしました (similar/compare) vs. jokin paikka, jokin asia
+
+どこか／なにか (jokin paikka, jokin asia) 冬休みは**どこか**へ行きましたか (similar/compare) vs. ei mitaan, ei kukaan
+??
+疑問詞＋も＋ない (ei mitaan, ei kukaan) 朝から**何も**食べていません (similar/compare) vs. jokin paikka, jokin asia

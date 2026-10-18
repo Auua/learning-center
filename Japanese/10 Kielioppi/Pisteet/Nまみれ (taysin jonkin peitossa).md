@@ -68,5 +68,10 @@ Ei — luettaviin asioihin だらけ.
 
 #flashcards/grammar/n1/vertailu
 
-N＋まみれ (taysin jonkin peitossa) (similar/compare) ::: Nだらけ (taynna, kauttaaltaan) (similar/compare)
-N＋まみれ (taysin jonkin peitossa) (similar) ::: Nずくめ (pelkkaa, taynna) (similar)
+N＋まみれ (taysin jonkin peitossa) 子どもが泥**まみれ**で帰ってきた (similar/compare) vs. taynna, kauttaaltaan
+??
+Nだらけ (taynna, kauttaaltaan) 部屋がごみ**だらけ**だ (similar/compare) vs. taysin jonkin peitossa
+
+N＋まみれ (taysin jonkin peitossa) 子どもが泥**まみれ**で帰ってきた (similar) vs. pelkkaa, taynna
+??
+Nずくめ (pelkkaa, taynna) 今年はいいこと**ずくめ**だった (similar) vs. taysin jonkin peitossa

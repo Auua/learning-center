@@ -70,7 +70,18 @@ Miten い-adj taipuu?
 
 #flashcards/grammar/n1/vertailu
 
-V(よう-muoto)＋が／と（も） (vaikka, kuinka tahansa) (similar) ::: ～とも (vaikka, kuinka tahansa) (similar)
-V(よう-muoto)＋が／と（も） (vaikka, kuinka tahansa) (similar) ::: 疑問詞＋ても (mika tahansa, poikkeukseton) (similar)
-V(よう-muoto)＋が／と（も） (vaikka, kuinka tahansa) (similar) ::: Vようが～ようが (olipa A tai B) (similar)
-V(よう-muoto)＋が／と（も） (vaikka, kuinka tahansa) (compare) ::: Vても (vaikka) (compare)
+V(よう-muoto)＋が／と（も） (vaikka, kuinka tahansa) 誰が何と言**おうが**、私は行く (similar) vs. "kuinka tahansa" kirjallinen
+??
+～とも (vaikka, kuinka tahansa) どんなに苦しく**とも**、諦めない (similar) vs. "vaikka, kuinka tahansa"
+
+V(よう-muoto)＋が／と（も） (vaikka, kuinka tahansa) 誰が何と言**おうが**、私は行く (similar) vs. mika tahansa, poikkeukseton
+??
+疑問詞＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar) vs. vaikka, kuinka tahansa
+
+V(よう-muoto)＋が／と（も） (vaikka, kuinka tahansa) 誰が何と言**おうが**、私は行く (similar) vs. olipa A tai B
+??
+Vようが～ようが (olipa A tai B) 泣**こうが**わめ**こうが**、許さない (similar) vs. vaikka, kuinka tahansa
+
+V(よう-muoto)＋が／と（も） (vaikka, kuinka tahansa) 誰が何と言**おうが**、私は行く (compare) vs. perus "vaikka"
+??
+Vても (vaikka) 雨が降っ**ても**、洗濯します (compare) vs. "vaikka, kuinka tahansa" kirjallinen

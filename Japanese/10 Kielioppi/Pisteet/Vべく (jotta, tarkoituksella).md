@@ -69,5 +69,10 @@ Ei luontevasti.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋べく (jotta, tarkoituksella) (similar/compare) ::: Vために・Nのために (tarkoitusta varten) (similar/compare)
-V辞書形＋べく (jotta, tarkoituksella) (similar/compare) ::: ～んがために (jotta, kirjallinen) (similar/compare)
+V辞書形＋べく (jotta, tarkoituksella) 夢を実現す**べく**、毎日努力している (similar/compare) vs. tarkoitusta varten
+??
+Vために・Nのために (tarkoitusta varten) 将来自分の**店を持つために**、貯金しています (similar/compare) vs. jotta, tarkoituksella
+
+V辞書形＋べく (jotta, tarkoituksella) 夢を実現す**べく**、毎日努力している (similar/compare) vs. jotta, kirjallinen
+??
+～んがために (jotta, kirjallinen) 勝た**んがために**、厳しい練習に耐えた (similar/compare) vs. jotta, tarkoituksella

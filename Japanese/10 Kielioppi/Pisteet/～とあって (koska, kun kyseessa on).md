@@ -68,4 +68,6 @@ Ei — se on havaittu tilanne.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋とあって (koska, kun kyseessa on) (similar/compare) ::: ～だけあって (kuten odottaa saattaa) (similar/compare)
+N／普通形＋とあって (koska, kun kyseessa on) 連休**とあって**、観光地は人でいっぱいだ (similar/compare) vs. kuten odottaa saattaa
+??
+～だけあって (kuten odottaa saattaa) プロ**だけあって**、上手だ (similar/compare) vs. koska, kun kyseessa on

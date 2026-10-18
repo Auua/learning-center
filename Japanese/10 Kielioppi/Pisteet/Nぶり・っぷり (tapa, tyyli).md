@@ -71,5 +71,10 @@ Aika + ぶり = pitkästä aikaa; N/V + ぶり = tapa.
 
 #flashcards/grammar/n1/vertailu
 
-N／V(ます-vartalo)＋ぶり（っぷり） (tapa, tyyli) (similar) ::: Vます-vartalo＋方 (tapa tehda) (similar)
-N／V(ます-vartalo)＋ぶり（っぷり） (tapa, tyyli) (compare) ::: 期間＋ぶりに (pitkasta aikaa) (compare)
+N／V(ます-vartalo)＋ぶり（っぷり） (tapa, tyyli) 彼の仕事**ぶり**は真面目だ (similar) vs. tapa tehda
+??
+Vます-vartalo＋方 (tapa tehda) 漢字の読み**方**を教えてください (similar) vs. tapa, tyyli
+
+N／V(ます-vartalo)＋ぶり（っぷり） (tapa, tyyli) 彼の仕事**ぶり**は真面目だ (compare) vs. pitkasta aikaa
+??
+期間＋ぶりに (pitkasta aikaa) 5年**ぶりに**国へ帰った (compare) vs. tapa, tyyli

@@ -78,5 +78,10 @@ Ensimmäinen = paikka josta lähdetään; jälkimmäinen = paikka jonka läpi ku
 
 #flashcards/grammar/n5/vertailu
 
-Nに入ります・乗ります／Nを出ます・降ります (sisään ja ulos) (similar/compare) ::: Liikkumisen partikkelit (へ・で・と) (similar/compare)
-Nに入ります・乗ります／Nを出ます・降ります (sisään ja ulos) (similar/compare) ::: Nを (kulkureitti, läpi ja yli) (similar/compare)
+Nに入ります・乗ります／Nを出ます・降ります (sisään ja ulos) 喫茶店**に入ります** (similar/compare) vs. へ・で・と
+??
+Liikkumisen partikkelit (へ・で・と) 京都**へ**行きます (similar/compare) vs. sisään ja ulos
+
+Nに入ります・乗ります／Nを出ます・降ります (sisään ja ulos) 喫茶店**に入ります** (similar/compare) vs. kulkureitti, läpi ja yli
+??
+Nを (kulkureitti, läpi ja yli) 公園**を**散歩します (similar/compare) vs. sisään ja ulos

@@ -68,5 +68,10 @@ Leviämistä rajan yli.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋にとどまらず (ei rajoitu vain) (similar/compare) ::: ～に限らず (ei ainoastaan, ei rajoitu) (similar/compare)
-N／普通形＋にとどまらず (ei rajoitu vain) (similar) ::: ～のみならず (ei vain, vaan myos) (similar)
+N／普通形＋にとどまらず (ei rajoitu vain) 被害は東京**にとどまらず**、全国に広がった (similar/compare) vs. ei ainoastaan, ei rajoitu
+??
+～に限らず (ei ainoastaan, ei rajoitu) このキャラクターは、子ども**に限らず**大人にも人気がある (similar/compare) vs. ei rajoitu vain
+
+N／普通形＋にとどまらず (ei rajoitu vain) 被害は東京**にとどまらず**、全国に広がった (similar) vs. ei vain, vaan myos
+??
+～のみならず (ei vain, vaan myos) 日本**のみならず**、世界中で人気がある (similar) vs. ei rajoitu vain

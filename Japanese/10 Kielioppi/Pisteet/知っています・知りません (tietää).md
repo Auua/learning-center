@@ -77,5 +77,10 @@ Miksi kielto ei ole 知っていません?
 
 #flashcards/grammar/n5/vertailu
 
-知っています／知りません (tietää) (similar/compare) ::: ～ている (parhaillaan, tilan tulos) (similar/compare)
-知っています／知りません (tietää) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
+知っています／知りません (tietää) 田中さんの電話番号**を知っています**か (similar/compare) vs. parhaillaan, tilan tulos
+??
+～ている (parhaillaan, tilan tulos) ミラーさんは今電話をかけています (similar/compare) vs. tietää
+
+知っています／知りません (tietää) 田中さんの電話番号**を知っています**か (similar) vs. nominalisointi
+??
+Vのは・Vのが・Vのを (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. tietää

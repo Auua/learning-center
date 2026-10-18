@@ -100,8 +100,22 @@ Ulkonäkö-そうです liitetään vartaloon; kuulopuhe-そうです liittyy su
 
 #flashcards/grammar/n4/vertailu
 
-V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (similar/compare) ::: そうです (niin on) (similar/compare)
-V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
-V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (similar/compare) ::: Vそうもない・そうにない (tuskin) (similar/compare)
-V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (compare) ::: ～ように見える (nayttaa silta etta) (compare)
-V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) (compare) ::: Nに見える・Adjく見える (nayttaa joltakin) (compare)
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) 今にも雨が**降りそうです** (similar/compare) vs. niin on
+??
+そうです (niin on) これはテレホンカードですか (similar/compare) vs. ulkonaon perusteella
+
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) 今にも雨が**降りそうです** (similar/compare) vs. kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. ulkonaon perusteella
+
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) 今にも雨が**降りそうです** (similar/compare) vs. tuskin
+??
+Vそうもない・そうにない (tuskin) 雨はやみ**そうもない** (similar/compare) vs. ulkonaon perusteella
+
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) 今にも雨が**降りそうです** (compare) vs. nayttaa silta etta
+??
+～ように見える (nayttaa silta etta) 彼は怒っている**ように見える** (compare) vs. ulkonaon perusteella
+
+V(ます-vartalo)／い-adj(〜そい)／な-adj[な]＋そうです (ulkonaon perusteella) 今にも雨が**降りそうです** (compare) vs. "näyttää joltakin" ulkonäkö
+??
+Nに見える・Adjく見える (nayttaa joltakin) 彼は年より若**く見えます** (compare) vs. ulkonaon perusteella

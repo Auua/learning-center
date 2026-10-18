@@ -63,4 +63,6 @@ Minkä rakenteen kanssa あんまり～から yhdistyy usein?
 
 #flashcards/grammar/n3/vertailu
 
-あんまり＋普通形＋から (koska liikaa, puhekielinen) (similar) ::: S1から、S2 (syy) (similar)
+あんまり＋普通形＋から (koska liikaa, puhekielinen) **あんまり**高い**から**、買わなかった (similar) vs. syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar) vs. koska liikaa, puhekielinen

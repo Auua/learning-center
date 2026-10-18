@@ -70,4 +70,6 @@ Ei — vain vakiolausekkeet.
 
 #flashcards/grammar/n1/vertailu
 
-Adj-vartalo＋かれ＋Adj-vartalo＋かれ (enemman tai vahemman) (compare) ::: Nであれ～Nであれ (olipa A tai B) (compare)
+Adj-vartalo＋かれ＋Adj-vartalo＋かれ (enemman tai vahemman) **遅かれ早かれ**、真実はわかる (compare) vs. olipa A tai B
+??
+Nであれ～Nであれ (olipa A tai B) 男**であれ**女**であれ**、能力が大事だ (compare) vs. enemman tai vahemman

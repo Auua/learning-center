@@ -70,4 +70,6 @@ Ensimmäinen = melkein valmis; toinen = oli vähällä tapahtua (ei tapahtunut).
 
 #flashcards/grammar/n2/vertailu
 
-もう少しで／危うく＋Vところだった (melkein, oli vahalla) (similar/compare) ::: Vるところだった (oli juuri vahalla tapahtua) (similar/compare)
+もう少しで／危うく＋Vところだった (melkein, oli vahalla) **もう少しで**車にひかれる**ところだった** (similar/compare) vs. oli juuri vahalla tapahtua
+??
+Vるところだった (oli juuri vahalla tapahtua) 危うく事故を起こす**ところだった** (similar/compare) vs. melkein, oli vahalla

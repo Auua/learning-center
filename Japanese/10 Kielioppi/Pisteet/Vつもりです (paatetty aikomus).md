@@ -104,8 +104,22 @@ Miten つもりだった eroaa Vようとする-rakenteesta?
 
 #flashcards/grammar/n4/vertailu
 
-V(普通形)つもりです (paatetty aikomus) (similar) ::: Vようと思っています (harkittu aikomus) (similar)
-V(普通形)つもりです (paatetty aikomus) (similar) ::: V予定です (aikataulutettu suunnitelma) (similar)
-V(普通形)つもりです (paatetty aikomus) (similar/compare) ::: Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) (similar/compare)
-V(普通形)つもりです (paatetty aikomus) (compare) ::: Vertailu — ようと思う vs. つもり vs. 予定 (compare)
-V(普通形)つもりです (paatetty aikomus) (similar) ::: Vるつもりで (aikomuksella) (similar)
+V(普通形)つもりです (paatetty aikomus) 来月車を**買うつもりです** (similar) vs. harkittu aikomus
+??
+Vようと思っています (harkittu aikomus) 将来自分の会社を**作ろうと思っています** (similar) vs. paatetty aikomus
+
+V(普通形)つもりです (paatetty aikomus) 来月車を**買うつもりです** (similar) vs. aikataulutettu suunnitelma
+??
+V予定です (aikataulutettu suunnitelma) 来週の金曜日に**帰る予定です** (similar) vs. paatetty aikomus
+
+V(普通形)つもりです (paatetty aikomus) 来月車を**買うつもりです** (similar/compare) vs. kiistetty ja toteutumaton aikomus
+??
+Vつもりはない・つもりだった・たつもり (kiistetty ja toteutumaton aikomus) 一生**働くつもりはありません** (similar/compare) vs. paatetty aikomus
+
+V(普通形)つもりです (paatetty aikomus) 来月車を**買うつもりです** (compare) vs. vertailu: ようと思う vs. つもり vs. 予定
+??
+Vertailu — ようと思う vs. つもり vs. 予定 来年留学**しようと思っています** (compare) vs. paatetty aikomus
+
+V(普通形)つもりです (paatetty aikomus) 来月車を**買うつもりです** (similar) vs. aikomuksella
+??
+Vるつもりで (aikomuksella) 留学する**つもりで**、お金をためている (similar) vs. paatetty aikomus

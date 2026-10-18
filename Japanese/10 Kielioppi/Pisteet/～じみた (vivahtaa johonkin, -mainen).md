@@ -68,5 +68,10 @@ Saarnaava.
 
 #flashcards/grammar/n1/vertailu
 
-N＋じみた／じみる (vivahtaa johonkin, -mainen) (similar/compare) ::: ～めく (alkaa tuntua, -mainen) (similar/compare)
-N＋じみた／じみる (vivahtaa johonkin, -mainen) (similar/compare) ::: ～っぽい (-mainen, taipuvainen) (similar/compare)
+N＋じみた／じみる (vivahtaa johonkin, -mainen) 子ども**じみた**ことを言うな (similar/compare) vs. alkaa tuntua, -mainen
+??
+～めく (alkaa tuntua, -mainen) だんだん春**めいて**きた (similar/compare) vs. vivahtaa johonkin, -mainen
+
+N＋じみた／じみる (vivahtaa johonkin, -mainen) 子ども**じみた**ことを言うな (similar/compare) vs. -mainen, taipuvainen
+??
+～っぽい (-mainen, taipuvainen) あの人は子ども**っぽい** (similar/compare) vs. vivahtaa johonkin, -mainen

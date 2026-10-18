@@ -78,7 +78,18 @@ Sama perusfunktio; でも on yleiskielisempi/muodollisempi, だって puhekielin
 
 #flashcards/grammar/n2/vertailu
 
-N＋だって (vaikka, jopa) (similar/compare) ::: Nさえ・でさえ (jopa, edes) (similar/compare)
-N＋だって (vaikka, jopa) (compare) ::: ～たって (vaikka, puhekielinen) (compare)
-N＋だって (vaikka, jopa) (compare) ::: Nでも (vaikkapa, esimerkiksi) (compare)
-N＋だって (vaikka, jopa) (similar/compare) ::: ～とて (vaikka, myoskaan) (similar/compare)
+N＋だって (vaikka, jopa) ……あら、袋**だって**必要なのよ (similar/compare) vs. jopa, edes
+??
+Nさえ・でさえ (jopa, edes) 忙しくて、水**さえ**飲めなかった (similar/compare) vs. vaikka, jopa
+
+N＋だって (vaikka, jopa) ……あら、袋**だって**必要なのよ (compare) vs. vaikka, puhekielinen
+??
+～たって (vaikka, puhekielinen) 今から走っ**たって**、間に合わないよ (compare) vs. vaikka, jopa
+
+N＋だって (vaikka, jopa) ……あら、袋**だって**必要なのよ (compare) vs. vaikkapa, esimerkiksi
+??
+Nでも (vaikkapa, esimerkiksi) お茶**でも**飲みませんか (compare) vs. vaikka, jopa
+
+N＋だって (vaikka, jopa) ……あら、袋**だって**必要なのよ (similar/compare) vs. vaikka, myoskaan
+??
+～とて (vaikka, myoskaan) 私**とて**、悲しくないわけではない (similar/compare) vs. vaikka, jopa

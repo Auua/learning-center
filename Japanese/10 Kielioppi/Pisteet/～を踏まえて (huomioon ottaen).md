@@ -68,5 +68,10 @@ Millaisiin substantiiveihin を踏まえて liittyy?
 
 #flashcards/grammar/n1/vertailu
 
-N＋を踏まえて／を踏まえ (huomioon ottaen) (similar/compare) ::: ～に基づいて (perustuen johonkin) (similar/compare)
-N＋を踏まえて／を踏まえ (huomioon ottaen) (similar) ::: ～をもとに (pohjalta, perusteella) (similar)
+N＋を踏まえて／を踏まえ (huomioon ottaen) 前回の反省**を踏まえて**、計画を立てる (similar/compare) vs. perustuen johonkin
+??
+～に基づいて (perustuen johonkin) この映画は、事実**に基づいて**作られている (similar/compare) vs. huomioon ottaen
+
+N＋を踏まえて／を踏まえ (huomioon ottaen) 前回の反省**を踏まえて**、計画を立てる (similar) vs. pohjalta, perusteella
+??
+～をもとに (pohjalta, perusteella) 実話**をもとに**映画を作った (similar) vs. huomioon ottaen

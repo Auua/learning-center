@@ -68,6 +68,14 @@ Muuttumaton päätös tai totuus.
 
 #flashcards/grammar/n1/vertailu
 
-V1(よう)が V2(よう)が／V1(よう)と V2(よう)と (olipa A tai B) (similar) ::: Vようが・ようと (vaikka, kuinka tahansa) (similar)
-V1(よう)が V2(よう)が／V1(よう)と V2(よう)と (olipa A tai B) (similar) ::: Nであれ～Nであれ (olipa A tai B) (similar)
-V1(よう)が V2(よう)が／V1(よう)と V2(よう)と (olipa A tai B) (similar/compare) ::: Vようと～まいと (tekipa tai ei) (similar/compare)
+V1(よう)が V2(よう)が／V1(よう)と V2(よう)と (olipa A tai B) 泣**こうが**わめ**こうが**、許さない (similar) vs. vaikka, kuinka tahansa
+??
+Vようが・ようと (vaikka, kuinka tahansa) 誰が何と言**おうが**、私は行く (similar) vs. olipa A tai B
+
+V1(よう)が V2(よう)が／V1(よう)と V2(よう)と (olipa A tai B) 泣**こうが**わめ**こうが**、許さない (similar) vs. substantiivi "olipa A tai B"
+??
+Nであれ～Nであれ (olipa A tai B) 男**であれ**女**であれ**、能力が大事だ (similar) vs. verbeillä "teki A tai B"
+
+V1(よう)が V2(よう)が／V1(よう)と V2(よう)と (olipa A tai B) 泣**こうが**わめ**こうが**、許さない (similar/compare) vs. tekipa tai ei
+??
+Vようと～まいと (tekipa tai ei) 行こう**と**行く**まいと**、あなたの自由だ (similar/compare) vs. olipa A tai B

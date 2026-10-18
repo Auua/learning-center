@@ -76,5 +76,10 @@ Sama sisältö; ensimmäinen esittelee esineen, jälkimmäinen kertoo kenen kirj
 
 #flashcards/grammar/n5/vertailu
 
-Nの（＝Nのもの） (omistuspronomini, kenen oma) (similar/compare) ::: N1のN2 (N1:n N2) (similar/compare)
-Nの（＝Nのもの） (omistuspronomini, kenen oma) (similar) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar)
+Nの（＝Nのもの） (omistuspronomini, kenen oma) このかばんは**わたしの**です (similar/compare) vs. N1:n N2
+??
+N1のN2 (N1:n N2) IMC**の**社員です (similar/compare) vs. omistuspronomini, kenen oma
+
+Nの（＝Nのもの） (omistuspronomini, kenen oma) このかばんは**わたしの**です (similar) vs. tämä, tuo, tuo tuolla
+??
+これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) これは辞書です (similar) vs. omistuspronomini, kenen oma

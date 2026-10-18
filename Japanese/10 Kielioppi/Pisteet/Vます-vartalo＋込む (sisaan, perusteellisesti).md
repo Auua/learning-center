@@ -69,5 +69,10 @@ Liike sisään (飛び込む) ja intensiteetti/perusteellisuus (考え込む).
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋込む (sisaan, perusteellisesti) (similar) ::: Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) (similar)
-V(ます-vartalo)＋込む (sisaan, perusteellisesti) (similar) ::: Vまくる (tehda yhtenaan) (similar)
+V(ます-vartalo)＋込む (sisaan, perusteellisesti) プールに飛び**込む** (similar) vs. yhdysverbit
+??
+Vます-vartalo＋出す・始める・終わる・続ける・忘れる・合う (yhdysverbit) 男はまんじゅうを見ると、急に**震え出した** (similar) vs. sisaan, perusteellisesti
+
+V(ます-vartalo)＋込む (sisaan, perusteellisesti) プールに飛び**込む** (similar) vs. tehda yhtenaan
+??
+Vまくる (tehda yhtenaan) 休みの日は、ゲームをし**まくった** (similar) vs. sisaan, perusteellisesti

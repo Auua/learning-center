@@ -108,8 +108,22 @@ Miten ～のは～からだ eroaa rakenteesta ～ためだ?
 
 #flashcards/grammar/n3/vertailu
 
-…のは…からだ／からです (syy predikaattina) (similar) ::: S1から、S2 (syy) (similar)
-…のは…からだ／からです (syy predikaattina) (similar/compare) ::: ～のは Nです (korostusrakenne, cleft) (similar/compare)
-…のは…からだ／からです (syy predikaattina) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
-…のは…からだ／からです (syy predikaattina) (similar) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (similar)
-…のは…からだ／からです (syy predikaattina) (similar) ::: なぜなら～からだ (koska, perustelu) (similar)
+…のは…からだ／からです (syy predikaattina) 仕事を辞めた**のはなぜですか** (similar) vs. tavallinen syy
+??
+S1から、S2 (syy) 時間がありません**から**、新聞を読みません (similar) vs. syy predikaattina "se johtuu siitä että"
+
+…のは…からだ／からです (syy predikaattina) 仕事を辞めた**のはなぜですか** (similar/compare) vs. korostusrakenne, cleft
+??
+～のは Nです (korostusrakenne, cleft) わたしが日本へ来た**のは**去年の3月**です** (similar/compare) vs. syy predikaattina
+
+…のは…からだ／からです (syy predikaattina) 仕事を辞めた**のはなぜですか** (similar) vs. nominalisointi
+??
+Vのは・Vのが・Vのを (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. syy predikaattina
+
+…のは…からだ／からです (syy predikaattina) 仕事を辞めた**のはなぜですか** (similar) vs. syy, ei tarkoitus
+??
+～ため［に］・ためだ (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (similar) vs. syy predikaattina
+
+…のは…からだ／からです (syy predikaattina) 仕事を辞めた**のはなぜですか** (similar) vs. koska, perustelu
+??
+なぜなら～からだ (koska, perustelu) **なぜなら**、危険だ**からだ** (similar) vs. syy predikaattina

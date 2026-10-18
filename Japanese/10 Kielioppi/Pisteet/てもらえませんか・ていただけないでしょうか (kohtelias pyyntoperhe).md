@@ -77,8 +77,22 @@ Ei, se on kohteliaisuuskonventio, joka antaa kuulijalle näennäisesti helpomman
 
 #flashcards/grammar/n3/vertailu
 
-〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar) ::: Vてあげます・Vてもらいます・Vてくれます (teon antaminen) (similar)
-〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar/compare)
-〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: させてもらえませんか family (kausatiivinen kohtelias pyynto) (similar/compare)
-〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: ～んですが (johdanto pyyntöön tai kysymykseen) (similar/compare)
-〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: Vてくださいませんか (erittäin kohtelias pyyntö) (similar/compare)
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) 荷物を降ろすのを**手伝ってもらえませんか** (similar) vs. teon antaminen
+??
+Vてあげます・Vてもらいます・Vてくれます (teon antaminen) 木村さんに本を貸し**てあげました** (similar) vs. kohtelias pyyntoperhe
+
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) 荷物を降ろすのを**手伝ってもらえませんか** (similar/compare) vs. kohtelias pyyntö, kiitollisuus
+??
+ご～いただく (kohtelias pyyntö, kiitollisuus) 書類を**ご確認いただけ**ますか (similar/compare) vs. kohtelias pyyntoperhe
+
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) 荷物を降ろすのを**手伝ってもらえませんか** (similar/compare) vs. kausatiivinen kohtelias pyynto
+??
+させてもらえませんか family (kausatiivinen kohtelias pyynto) 写真を1枚**撮らせてもらえませんか** (similar/compare) vs. kohtelias pyyntoperhe
+
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) 荷物を降ろすのを**手伝ってもらえませんか** (similar/compare) vs. johdanto pyyntöön tai kysymykseen
+??
+～んですが (johdanto pyyntöön tai kysymykseen) 市役所へ行きたい**んですが**、どう行ったらいいですか (similar/compare) vs. kohtelias pyyntoperhe
+
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) 荷物を降ろすのを**手伝ってもらえませんか** (similar/compare) vs. erittäin kohtelias pyyntö
+??
+Vてくださいませんか (erittäin kohtelias pyyntö) もう少しゆっくり話して**くださいませんか** (similar/compare) vs. kohtelias pyyntoperhe

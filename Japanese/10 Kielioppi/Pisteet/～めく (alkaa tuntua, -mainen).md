@@ -71,5 +71,10 @@ Alkaa tuntua keväältä.
 
 #flashcards/grammar/n1/vertailu
 
-N＋めく／めいた (alkaa tuntua, -mainen) (similar/compare) ::: ～びる (-ltaan vaikuttava, -mainen) (similar/compare)
-N＋めく／めいた (alkaa tuntua, -mainen) (similar/compare) ::: ～じみた (vivahtaa johonkin, -mainen) (similar/compare)
+N＋めく／めいた (alkaa tuntua, -mainen) だんだん春**めいて**きた (similar/compare) vs. -ltaan vaikuttava, -mainen
+??
+～びる (-ltaan vaikuttava, -mainen) 大人**びた**子ども (similar/compare) vs. alkaa tuntua, -mainen
+
+N＋めく／めいた (alkaa tuntua, -mainen) だんだん春**めいて**きた (similar/compare) vs. vivahtaa johonkin, -mainen
+??
+～じみた (vivahtaa johonkin, -mainen) 子ども**じみた**ことを言うな (similar/compare) vs. alkaa tuntua, -mainen

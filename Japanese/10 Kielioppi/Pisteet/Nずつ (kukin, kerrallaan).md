@@ -71,5 +71,10 @@ Vähitellen, pikkuhiljaa.
 
 #flashcards/grammar/n3/vertailu
 
-Määrä／N＋ずつ (kukin, kerrallaan) (similar) ::: Maara だけ・Nだけ (similar)
-Määrä／N＋ずつ (kukin, kerrallaan) (compare) ::: ～ごとに (joka, kunkin) (compare)
+Määrä／N＋ずつ (kukin, kerrallaan) 一人に2枚**ずつ**配ります (similar) vs. "vain" rajaus
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (similar) vs. kukin, kerrallaan
+
+Määrä／N＋ずつ (kukin, kerrallaan) 一人に2枚**ずつ**配ります (compare) vs. joka, kunkin
+??
+～ごとに (joka, kunkin) 3時間**ごとに**薬を飲む (compare) vs. kukin, kerrallaan

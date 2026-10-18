@@ -63,7 +63,18 @@ Miten Vたびに eroaa 〜とき-rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Nの＋たびに (aina kun) (similar) ::: V・adjとき (silloin kun) (similar)
-V辞書形／Nの＋たびに (aina kun) (compare) ::: ～ごとに (joka, kunkin) (compare)
-V辞書形／Nの＋たびに (aina kun) (similar/compare) ::: ～につけ (aina kun) (similar/compare)
-V辞書形／Nの＋たびに (aina kun) (compare) ::: Vては・Vでは (aina kun, toistuvasti) (compare)
+V辞書形／Nの＋たびに (aina kun) 隣のうちのお嬢さんは会う**たびに**きれいになっている (similar) vs. silloin kun
+??
+V・adjとき (silloin kun) 図書館で本を借りる**とき**、カードが要ります (similar) vs. aina kun
+
+V辞書形／Nの＋たびに (aina kun) 隣のうちのお嬢さんは会う**たびに**きれいになっている (compare) vs. joka, kunkin
+??
+～ごとに (joka, kunkin) 3時間**ごとに**薬を飲む (compare) vs. aina kun
+
+V辞書形／Nの＋たびに (aina kun) 隣のうちのお嬢さんは会う**たびに**きれいになっている (similar/compare) vs. "aina kun (muistuu mieleen)" tunne
+??
+～につけ (aina kun) この写真を見る**につけ**、故郷を思い出す (similar/compare) vs. "aina kun"
+
+V辞書形／Nの＋たびに (aina kun) 隣のうちのお嬢さんは会う**たびに**きれいになっている (compare) vs. toistuva "aina kun" (ikävä)
+??
+Vては・Vでは (aina kun, toistuvasti) 彼は会っ**ては**、お金を借りていく (compare) vs. "aina kun" yleinen

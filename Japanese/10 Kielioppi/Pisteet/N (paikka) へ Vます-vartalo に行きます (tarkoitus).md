@@ -81,5 +81,10 @@ Mitä kaksi partikkelia へ ja に tekevät N（場所）へVます-vartalo に�
 
 #flashcards/grammar/n5/vertailu
 
-N（場所）へVます-vartalo に行きます／来ます／帰ります (tarkoitus) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
-N（場所）へVます-vartalo に行きます／来ます／帰ります (tarkoitus) (similar) ::: N（tilaisuus）に (お祝いに, lahjan tarkoitus) (similar)
+N（場所）へVます-vartalo に行きます／来ます／帰ります (tarkoitus) 神戸へインド料理を**食べに**行きます (similar) vs. へ・で・と
+??
+Liikkumisen partikkelit (へ・で・と) 京都**へ**行きます (similar) vs. tarkoitus
+
+N（場所）へVます-vartalo に行きます／来ます／帰ります (tarkoitus) 神戸へインド料理を**食べに**行きます (similar) vs. lahjan tilaisuus "-lahjaksi, kiitokseksi"
+??
+N（tilaisuus）に (お祝いに, lahjan tarkoitus) 結婚**のお祝いに**このお皿をいただきました (similar) vs. mennä tekemään jotain

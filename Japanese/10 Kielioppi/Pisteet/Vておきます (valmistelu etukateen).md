@@ -95,4 +95,6 @@ Miten Vて-form おきます eroaa muodosta Vてあります?
 
 #flashcards/grammar/n4/vertailu
 
-Vて-form おきます (valmistelu etukateen) (similar) ::: Vてあります (tarkoituksella tehty tila) (similar)
+Vて-form おきます (valmistelu etukateen) 旅行のまえに、案内書を読んで**おきます** (similar) vs. tarkoituksella tehty tila
+??
+Vてあります (tarkoituksella tehty tila) 交番に町の地図が**はって**あります (similar) vs. valmistelu etukateen

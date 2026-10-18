@@ -68,4 +68,6 @@ Jos tarvitaan.
 
 #flashcards/grammar/n1/vertailu
 
-N／普通形＋とあれば (jos kerran, jos on kyse) (similar/compare) ::: ～なら (jos kerran) (similar/compare)
+N／普通形＋とあれば (jos kerran, jos on kyse) 子どものため**とあれば**、何でもする (similar/compare) vs. "jos kerran"
+??
+～なら (jos kerran) 温泉なら、伊豆がいいですよ (similar/compare) vs. "jos kerran, jos on kyse"

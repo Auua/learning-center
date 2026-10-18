@@ -69,5 +69,10 @@ Ensimmäinen = jyrkkä kielto; toinen = toive.
 
 #flashcards/grammar/n1/vertailu
 
-V(可能)ない＋ものか／ものだろうか (eiko voisi mitenkaan) (similar) ::: Vばいい (riittaa kun, pitaisi) (similar)
-V(可能)ない＋ものか／ものだろうか (eiko voisi mitenkaan) (compare) ::: 普通形のだろうか (kirjallinen pohdiskeleva kysymys) (compare)
+V(可能)ない＋ものか／ものだろうか (eiko voisi mitenkaan) 何とか助けられ**ないものか** (similar) vs. riittaa kun, pitaisi
+??
+Vばいい (riittaa kun, pitaisi) わからなければ、先生に聞け**ばいい** (similar) vs. eiko voisi mitenkaan
+
+V(可能)ない＋ものか／ものだろうか (eiko voisi mitenkaan) 何とか助けられ**ないものか** (compare) vs. kirjallinen pohdiskeleva kysymys
+??
+普通形のだろうか (kirjallinen pohdiskeleva kysymys) 地球の未来はどうなる**のだろうか** (compare) vs. eiko voisi mitenkaan

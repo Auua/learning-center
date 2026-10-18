@@ -71,4 +71,6 @@ Kylteissä ja virallisissa ilmoituksissa.
 
 #flashcards/grammar/n2/vertailu
 
-N＋につき (johdosta, kohden) (compare) ::: ～ため［に］・ためだ (syy, ei tarkoitus) (compare)
+N＋につき (johdosta, kohden) 工事中**につき**、通行止め (compare) vs. syy, ei tarkoitus
+??
+～ため［に］・ためだ (syy, ei tarkoitus) ビザを取っておかなかった**ために**、彼は入国できなかった (compare) vs. johdosta, kohden

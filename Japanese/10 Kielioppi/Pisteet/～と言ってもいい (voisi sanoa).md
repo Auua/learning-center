@@ -70,6 +70,14 @@ Mikä on と言ってもいい:n kirjallisempi muoto?
 
 #flashcards/grammar/n4/vertailu
 
-普通形＋と言ってもいい／と言っても過言ではない (voisi sanoa) (similar) ::: 普通形と言える (voidaan sanoa etta) (similar)
-普通形＋と言ってもいい／と言っても過言ではない (voisi sanoa) (similar/compare) ::: ～と言えなくもない (voisi kai sanoa) (similar/compare)
-普通形＋と言ってもいい／と言っても過言ではない (voisi sanoa) (compare) ::: ～といっても (vaikka sanotaankin) (compare)
+普通形＋と言ってもいい／と言っても過言ではない (voisi sanoa) 彼は天才だ**と言ってもいい** (similar) vs. voidaan sanoa etta
+??
+普通形と言える (voidaan sanoa etta) お金があれば幸せだ**と言えるのでしょうか** (similar) vs. voisi sanoa
+
+普通形＋と言ってもいい／と言っても過言ではない (voisi sanoa) 彼は天才だ**と言ってもいい** (similar/compare) vs. "voisi kai sanoa" varauksella
+??
+～と言えなくもない (voisi kai sanoa) 成功した**と言えなくもない** (similar/compare) vs. "voisi sanoa"
+
+普通形＋と言ってもいい／と言っても過言ではない (voisi sanoa) 彼は天才だ**と言ってもいい** (compare) vs. vaikka sanotaankin
+??
+～といっても (vaikka sanotaankin) 料理ができる**といっても**、簡単なものだけです (compare) vs. voisi sanoa

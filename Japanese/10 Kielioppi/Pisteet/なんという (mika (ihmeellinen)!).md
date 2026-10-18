@@ -69,4 +69,6 @@ Molemmat huudahduksia; なんという + N, ことか + kysymyssana-lause.
 
 #flashcards/grammar/n1/vertailu
 
-なんという／なんと＋N／Adj＋（ことだ・のだろう） (なんという (mika (ihmeellinen)!)) (similar/compare) ::: ～ことか (kuinka paljon, huudahdus) (similar/compare)
+なんという／なんと＋N／Adj＋（ことだ・のだろう） (なんという (mika (ihmeellinen)!)) **なんという**美しい景色**だ** (similar/compare) vs. kuinka paljon, huudahdus
+??
+～ことか (kuinka paljon, huudahdus) 合格して、**どんなに**うれしかった**ことか** (similar/compare) vs. ihmeellinen

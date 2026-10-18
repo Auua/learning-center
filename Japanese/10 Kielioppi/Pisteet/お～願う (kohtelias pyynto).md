@@ -70,4 +70,6 @@ Molemmat kohteliaita; 願います on virallisempi.
 
 #flashcards/grammar/n2/vertailu
 
-お／ご＋V(ます-vartalo)／N＋願う（願います） (kohtelias pyynto) (similar/compare) ::: お～ください (kunnioittava pyynto) (similar/compare)
+お／ご＋V(ます-vartalo)／N＋願う（願います） (kohtelias pyynto) もう少々**お待ち願います** (similar/compare) vs. kunnioittava pyynto
+??
+お～ください (kunnioittava pyynto) 少々**お待ちください** (similar/compare) vs. kohtelias pyynto

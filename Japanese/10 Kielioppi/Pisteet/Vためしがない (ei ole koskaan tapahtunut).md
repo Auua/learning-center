@@ -68,4 +68,6 @@ Kriittinen tai turhautunut.
 
 #flashcards/grammar/n1/vertailu
 
-V(た-muoto)＋ためしがない (ei ole koskaan tapahtunut) (similar/compare) ::: Vたことがあります (kokemus) (similar/compare)
+V(た-muoto)＋ためしがない (ei ole koskaan tapahtunut) 彼は約束を守った**ためしがない** (similar/compare) vs. kokemus
+??
+Vたことがあります (kokemus) 馬に乗っ**たことがあります** (similar/compare) vs. ei ole koskaan tapahtunut

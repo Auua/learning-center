@@ -102,6 +102,14 @@ Vるまでもない: ei tarvitse tehdä; もせずに: ei tehty, vaikka olisi pi
 
 #flashcards/grammar/n2/vertailu
 
-V（ます-vartalo）もせずに (ei edes tehnyt) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)
-V（ます-vartalo）もせずに (ei edes tehnyt) (similar) ::: Vて・Vないで (tapa, keino) (similar)
-V（ます-vartalo）もせずに (ei edes tehnyt) (similar) ::: Vるまでもない (ei tarvitse edes) (similar)
+V（ます-vartalo）もせずに (ei edes tehnyt) 水を**沸かしもせずに**、そのまま飲める (similar/compare) vs. kirjallinen kielto
+??
+～ず［に］・～ず (kirjallinen kielto) 地震のときは、**あわてずに**落ち着いて行動してください (similar/compare) vs. ei edes tehnyt
+
+V（ます-vartalo）もせずに (ei edes tehnyt) 水を**沸かしもせずに**、そのまま飲める (similar) vs. tapa, keino
+??
+Vて・Vないで (tapa, keino) 傘を**もって**、出かけます (similar) vs. ei edes tehnyt
+
+V（ます-vartalo）もせずに (ei edes tehnyt) 水を**沸かしもせずに**、そのまま飲める (similar) vs. ei tarvitse edes
+??
+Vるまでもない (ei tarvitse edes) ブナ林のすばらしさは**言うまでもありません** (similar) vs. ei edes tehnyt

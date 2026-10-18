@@ -70,5 +70,10 @@ Työyhteyksissä, sähköposteissa ja viestien välittämisessä.
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋とのことだ／とのことです (kuulemma, viesti) (similar/compare) ::: 普通形ということだ (muodollinen kuulopuhe, vahvistus) (similar/compare)
-普通形＋とのことだ／とのことです (kuulemma, viesti) (compare) ::: ～と言っていました・～と伝える (välitetty viesti) (compare)
+普通形＋とのことだ／とのことです (kuulemma, viesti) 部長は今日休む**とのことです** (similar/compare) vs. muodollinen kuulopuhe, vahvistus
+??
+普通形ということだ (muodollinen kuulopuhe, vahvistus) 30分ほど遅れる**ということですね** (similar/compare) vs. kuulemma, viesti
+
+普通形＋とのことだ／とのことです (kuulemma, viesti) 部長は今日休む**とのことです** (compare) vs. välitetty viesti
+??
+～と言っていました・～と伝える (välitetty viesti) グプタさんは30分で**戻ると言っていました** (compare) vs. kuulemma, viesti

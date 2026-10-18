@@ -63,5 +63,10 @@ Miten がきっかけで ja をきっかけに eroavat käyttösävyltään?
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形（の）＋がきっかけで・をきっかけに (sysayksena) (similar) ::: ～を機に (tilaisuutena, kaanteena) (similar)
-N／普通形（の）＋がきっかけで・をきっかけに (sysayksena) (similar/compare) ::: ～を契機に (sysayksena, kaanteena) (similar/compare)
+N／普通形（の）＋がきっかけで・をきっかけに (sysayksena) 留学**がきっかけで**、料理を始めた (similar) vs. tilaisuutena, kaanteena
+??
+～を機に (tilaisuutena, kaanteena) 退職**を機に**、田舎に引っ越した (similar) vs. sysayksena
+
+N／普通形（の）＋がきっかけで・をきっかけに (sysayksena) 留学**がきっかけで**、料理を始めた (similar/compare) vs. kirjallinen "sysäyksenä, käänteenä"
+??
+～を契機に (sysayksena, kaanteena) 入院**を契機に**、たばこをやめた (similar/compare) vs. arkinen "sysäyksenä"

@@ -68,4 +68,6 @@ Huono tilanne, jossa jokin pieni asia on onneksi hyvin.
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋だけましだ (onneksi edes) (compare) ::: ほうがましだ (mieluummin, parempi kuin) (compare)
+普通形＋だけましだ (onneksi edes) けがをしなかった**だけましだ** (compare) vs. mieluummin, parempi kuin
+??
+ほうがましだ (mieluummin, parempi kuin) 彼に頼むくらいなら、一人でやる**ほうがましだ** (compare) vs. onneksi edes

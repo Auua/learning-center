@@ -81,7 +81,18 @@ Miten Vざるを得ない eroaa Vなければなりません:sta?
 
 #flashcards/grammar/n2/vertailu
 
-V(ない-vartalo)＋ざるを得ない (on pakko) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)
-V(ない-vartalo)＋ざるを得ない (on pakko) (similar/compare) ::: ～を余儀なくされる (joutua pakosta) (similar/compare)
-V(ない-vartalo)＋ざるを得ない (on pakko) (similar) ::: Vずには済まない (on pakko, ei voi valttaa) (similar)
-V(ない-vartalo)＋ざるを得ない (on pakko) (similar) ::: Vよりほかない (ei ole muuta kuin) (similar)
+V(ない-vartalo)＋ざるを得ない (on pakko) 今日は大事な会議があるが、休ま**ざるを得ない** (similar/compare) vs. velvollisuus
+??
+Vなければ なりません (velvollisuus) 薬を飲ま**なければなりません** (similar/compare) vs. on pakko
+
+V(ない-vartalo)＋ざるを得ない (on pakko) 今日は大事な会議があるが、休ま**ざるを得ない** (similar/compare) vs. joutua pakosta
+??
+～を余儀なくされる (joutua pakosta) 台風で、試合は中止**を余儀なくされた** (similar/compare) vs. on pakko
+
+V(ない-vartalo)＋ざるを得ない (on pakko) 今日は大事な会議があるが、休ま**ざるを得ない** (similar) vs. "ei voi välttää" (sosiaalinen pakko)
+??
+Vずには済まない (on pakko, ei voi valttaa) 謝ら**ずには済まない** (similar) vs. vastentahtoinen pakko
+
+V(ない-vartalo)＋ざるを得ない (on pakko) 今日は大事な会議があるが、休ま**ざるを得ない** (similar) vs. ei ole muuta kuin
+??
+Vよりほかない (ei ole muuta kuin) 待つ**よりほかない** (similar) vs. on pakko

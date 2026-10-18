@@ -71,7 +71,18 @@ Sanoinkuvaamaton — ei ole tapaa sanoa sitä.
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) (similar/compare) ::: Vべくもない (ei mitenkaan voi) (similar/compare)
-V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) (similar/compare) ::: どうにも～ない (ei millaan) (similar/compare)
-V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) (similar/compare) ::: Vる術がない (ei ole keinoa) (similar/compare)
-V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) (compare) ::: Vしかない (ei ole muuta vaihtoehtoa) (compare)
+V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) 連絡先がわからないので、連絡し**ようがない** (similar/compare) vs. ei mitenkaan voi
+??
+Vべくもない (ei mitenkaan voi) 彼の才能には比べる**べくもない** (similar/compare) vs. ei ole keinoa
+
+V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) 連絡先がわからないので、連絡し**ようがない** (similar/compare) vs. ei millaan
+??
+どうにも～ない (ei millaan) **どうにも**我慢でき**ない** (similar/compare) vs. ei ole keinoa
+
+V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) 連絡先がわからないので、連絡し**ようがない** (similar/compare) vs. kirjallinen "ei ole keinoa"
+??
+Vる術がない (ei ole keinoa) 連絡する**術がない** (similar/compare) vs. arkisempi "ei ole keinoa"
+
+V(ます-vartalo)＋ようがない／ようもない (ei ole keinoa) 連絡先がわからないので、連絡し**ようがない** (compare) vs. ei ole muuta vaihtoehtoa
+??
+Vしかない (ei ole muuta vaihtoehtoa) 内容より形を重視する考えに従う**しかなかった** (compare) vs. ei ole keinoa

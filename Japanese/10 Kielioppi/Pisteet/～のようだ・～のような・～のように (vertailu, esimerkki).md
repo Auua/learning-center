@@ -87,10 +87,30 @@ Miten ～のようだ eroaa ～みたいだ:sta?
 
 #flashcards/grammar/n3/vertailu
 
-N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: 普通形ようです (havaintoon perustuva paattely) (similar/compare)
-N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: ～みたいだ・～みたいな・～みたいに (puhekielinen vertailu) (similar/compare)
-N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: まるで～ようだ (aivan kuin) (similar/compare)
-N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: ～ごとき・ごとく (kaltainen, kuten) (similar/compare)
-N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar/compare) ::: N並み (tasoinen, kuin) (similar/compare)
-N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (similar) ::: ～ふうに (tavalla, niin) (similar)
-N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) (compare) ::: 普通形ように (kuten, niin kuin) (compare)
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. havaintoon perustuva paattely
+??
+普通形ようです (havaintoon perustuva paattely) 隣の部屋に**だれかいるようです** (similar/compare) vs. vertailu, esimerkki
+
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. puhekielinen vertailu
+??
+～みたいだ・～みたいな・～みたいに (puhekielinen vertailu) このロボット、本物の犬**みたいだ** (similar/compare) vs. vertailu, esimerkki
+
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. aivan kuin
+??
+まるで～ようだ (aivan kuin) **まるで**夢**のようだ** (similar/compare) vs. vertailu, esimerkki
+
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. kaltainen, kuten
+??
+～ごとき・ごとく (kaltainen, kuten) 光陰矢**のごとし** (similar/compare) vs. vertailu, esimerkki
+
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. tasoinen, kuin
+??
+N並み (tasoinen, kuin) プロ**並みの**腕前 (similar/compare) vs. vertailu, esimerkki
+
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar) vs. tavalla, niin
+??
+～ふうに (tavalla, niin) **こんなふうに**書いてください (similar) vs. vertailu, esimerkki
+
+N／Vのようだ・Nのような～・Nのように… (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (compare) vs. kuten, niin kuin
+??
+普通形ように (kuten, niin kuin) 前にも言った**ように**、明日は休みです (compare) vs. vertailu, esimerkki

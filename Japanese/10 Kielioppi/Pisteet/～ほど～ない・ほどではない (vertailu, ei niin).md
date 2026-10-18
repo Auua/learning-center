@@ -79,4 +79,6 @@ Sama vertailu eri suunnasta: より toteaa suoran eron (AはBより高い); ほ�
 
 #flashcards/grammar/n3/vertailu
 
-N/Vほど〜ない・ほどではない (vertailu, ei niin) (similar/compare) ::: N1はN2より (vertailu) (similar/compare)
+N/Vほど〜ない・ほどではない (vertailu, ei niin) 平日は**休日ほど**込んでいません (similar/compare) vs. perusvertailu "kuin"
+??
+N1はN2より (vertailu) この車はあの車**より**大きいです (similar/compare) vs. "ei niin X kuin" kielteinen vertailu

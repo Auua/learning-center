@@ -68,5 +68,10 @@ Laiminlyönti.
 
 #flashcards/grammar/n1/vertailu
 
-N＋にかまけて (liian kiireinen jhk) (similar/compare) ::: Nをそっちのけで (laiminlyoden) (similar/compare)
-N＋にかまけて (liian kiireinen jhk) (compare) ::: ～てばかりいる・～ばかり～ている (liiallinen keskittyminen) (compare)
+N＋にかまけて (liian kiireinen jhk) 仕事**にかまけて**、家族を顧みなかった (similar/compare) vs. laiminlyoden
+??
+Nをそっちのけで (laiminlyoden) 勉強**をそっちのけで**、ゲームばかりしている (similar/compare) vs. liian kiireinen jhk
+
+N＋にかまけて (liian kiireinen jhk) 仕事**にかまけて**、家族を顧みなかった (compare) vs. liiallinen keskittyminen
+??
+～てばかりいる・～ばかり～ている (liiallinen keskittyminen) 息子は外で遊ばないで、**ゲームしてばかりいる**んです (compare) vs. liian kiireinen jhk

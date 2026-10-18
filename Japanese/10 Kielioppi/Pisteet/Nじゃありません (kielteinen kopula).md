@@ -77,5 +77,10 @@ Miksi ×高いじゃありません on väärin?
 
 #flashcards/grammar/n5/vertailu
 
-N1はN2じゃありません／ではありません (kielteinen kopula) (similar/compare) ::: AはBです (A on B, peruslause) (similar/compare)
-N1はN2じゃありません／ではありません (kielteinen kopula) (similar) ::: そうです (niin on) (similar)
+N1はN2じゃありません／ではありません (kielteinen kopula) わたしは先生**じゃありません** (similar/compare) vs. A on B, peruslause
+??
+AはBです (A on B, peruslause) わたし**は**学生**です** (similar/compare) vs. kielteinen kopula
+
+N1はN2じゃありません／ではありません (kielteinen kopula) わたしは先生**じゃありません** (similar) vs. niin on
+??
+そうです (niin on) これはテレホンカードですか (similar) vs. kielteinen kopula

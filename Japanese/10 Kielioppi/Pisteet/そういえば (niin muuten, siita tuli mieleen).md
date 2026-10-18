@@ -69,4 +69,6 @@ Edelliseen puheenaiheeseen, joka herätti muiston.
 
 #flashcards/grammar/n2/vertailu
 
-そういえば、S (niin muuten, siita tuli mieleen) (similar/compare) ::: ～といえば (jos puhutaan X:sta) (similar/compare)
+そういえば、S (niin muuten, siita tuli mieleen) **そういえば**、田中さんは元気？ (similar/compare) vs. jos puhutaan X:sta
+??
+～といえば (jos puhutaan X:sta) 太鼓**といえば**、佐渡の「鬼太鼓」が有名ですよね (similar/compare) vs. niin muuten, siita tuli mieleen

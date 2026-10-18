@@ -69,4 +69,6 @@ Nominalisoimalla: 〜ことで有名だ.
 
 #flashcards/grammar/n3/vertailu
 
-N1は N2で有名だ (tunnettu jostakin) (similar) ::: N (syy) で (similar)
+N1は N2で有名だ (tunnettu jostakin) 京都**は**お寺**で有名だ** (similar) vs. syy
+??
+N (syy) で 病気**で**休みました (similar) vs. tunnettu jostakin

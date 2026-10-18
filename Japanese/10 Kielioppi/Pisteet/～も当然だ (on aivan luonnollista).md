@@ -68,6 +68,14 @@ Syy: 〜のだから.
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋のも当然だ／て当然だ (on aivan luonnollista) (similar/compare) ::: Vて当然だ (luonnollisesti, kuuluukin) (similar/compare)
-普通形＋のも当然だ／て当然だ (on aivan luonnollista) (similar/compare) ::: ～のももっともだ (ei ihme, ymmarrettavaa) (similar/compare)
-普通形＋のも当然だ／て当然だ (on aivan luonnollista) (compare) ::: Vべくして (kuten pitikin) (compare)
+普通形＋のも当然だ／て当然だ (on aivan luonnollista) あんなに練習したのだから、勝つ**のも当然だ** (similar/compare) vs. luonnollisesti, kuuluukin
+??
+Vて当然だ (luonnollisesti, kuuluukin) あんなに頑張ったのだから、合格し**て当然だ** (similar/compare) vs. on aivan luonnollista
+
+普通形＋のも当然だ／て当然だ (on aivan luonnollista) あんなに練習したのだから、勝つ**のも当然だ** (similar/compare) vs. ei ihme, ymmarrettavaa
+??
+～のももっともだ (ei ihme, ymmarrettavaa) 彼が怒る**のももっともだ** (similar/compare) vs. on aivan luonnollista
+
+普通形＋のも当然だ／て当然だ (on aivan luonnollista) あんなに練習したのだから、勝つ**のも当然だ** (compare) vs. kuten pitikin
+??
+Vべくして (kuten pitikin) 起こる**べくして**起こった事故 (compare) vs. on aivan luonnollista

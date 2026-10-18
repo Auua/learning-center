@@ -69,6 +69,14 @@ Sama; ことなく muodollinen ja korostava.
 
 #flashcards/grammar/n2/vertailu
 
-V(辞書形)＋ことなく (tekematta) (similar/compare) ::: ～ず［に］・～ず (kirjallinen kielto) (similar/compare)
-V(辞書形)＋ことなく (tekematta) (similar/compare) ::: Vことなしに (tekematta, ilman) (similar/compare)
-V(辞書形)＋ことなく (tekematta) (compare) ::: Vて・Vないで (tapa, keino) (compare)
+V(辞書形)＋ことなく (tekematta) 彼は休む**ことなく**働き続けた (similar/compare) vs. kirjallinen kielto
+??
+～ず［に］・～ず (kirjallinen kielto) 地震のときは、**あわてずに**落ち着いて行動してください (similar/compare) vs. tekematta
+
+V(辞書形)＋ことなく (tekematta) 彼は休む**ことなく**働き続けた (similar/compare) vs. "ilman (ei onnistu)"
+??
+Vことなしに (tekematta, ilman) 努力する**ことなしに**、成功はない (similar/compare) vs. "tekemättä" yleisempi kirjallinen sivulause
+
+V(辞書形)＋ことなく (tekematta) 彼は休む**ことなく**働き続けた (compare) vs. tapa, keino
+??
+Vて・Vないで (tapa, keino) 傘を**もって**、出かけます (compare) vs. tekematta

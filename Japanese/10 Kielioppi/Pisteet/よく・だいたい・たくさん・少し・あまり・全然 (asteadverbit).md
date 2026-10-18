@@ -97,7 +97,18 @@ Miten kuuden asteadverbin asteikko eroaa parista とても・あまり?
 
 #flashcards/grammar/n5/vertailu
 
-よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: とても・あまり (hyvin, ei kovin) (similar)
-よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: めったに～ない (harvoin) (similar)
-よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (compare) ::: 全く～ない (ei lainkaan) (compare)
-よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: きっと・たぶん・もしかしたら (varmuusasteet) (similar)
+よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) 英語がよくわかります (similar) vs. hyvin, ei kovin
+??
+とても・あまり (hyvin, ei kovin) ペキンは**とても**寒いです (similar) vs. asteadverbit
+
+よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) 英語がよくわかります (similar) vs. harvoin
+??
+めったに～ない (harvoin) 父は**めったに**怒ら**ない** (similar) vs. asteadverbit
+
+よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) 英語がよくわかります (compare) vs. ei lainkaan
+??
+全く～ない (ei lainkaan) その件については**全く**知り**ません** (compare) vs. asteadverbit
+
+よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) 英語がよくわかります (similar) vs. varmuusasteet
+??
+きっと・たぶん・もしかしたら (varmuusasteet) ミラーさんは**きっと**来るでしょう (similar) vs. asteadverbit

@@ -68,4 +68,6 @@ Molemmat "äärimmäinen"; の至り on juhlava kohteliaisuusfraasi.
 
 #flashcards/grammar/n1/vertailu
 
-N＋の至り (aarimmaisen, suurin) (similar/compare) ::: ～の極み (aarimmainen, huippu) (similar/compare)
+N＋の至り (aarimmaisen, suurin) このような賞をいただき、光栄**の至り**です (similar/compare) vs. aarimmainen, huippu
+??
+～の極み (aarimmainen, huippu) これは贅沢**の極み**だ (similar/compare) vs. aarimmaisen, suurin

@@ -76,6 +76,14 @@ Kieli on väline, jolla puhutaan tai kirjoitetaan.
 
 #flashcards/grammar/n5/vertailu
 
-「語／文」は～語で何ですか (miten sanotaan kielellä) (similar/compare) ::: N (väline) で (similar/compare)
-「語／文」は～語で何ですか (miten sanotaan kielellä) (similar) ::: なん・なに (mikä, ääntämisero) (similar)
-「語／文」は～語で何ですか (miten sanotaan kielellä) (similar/compare) ::: ～と読みます・～と書きます (lukutapa ja kirjoitustapa) (similar/compare)
+「語／文」は～語で何ですか (miten sanotaan kielellä) 「Thank you」は日本語で**何ですか** (similar/compare) vs. väline
+??
+N (väline) で はし**で**食べます (similar/compare) vs. miten sanotaan kielellä
+
+「語／文」は～語で何ですか (miten sanotaan kielellä) 「Thank you」は日本語で**何ですか** (similar) vs. mikä, ääntämisero
+??
+なん・なに (mikä, ääntämisero) それは**なん**ですか (similar) vs. miten sanotaan kielellä
+
+「語／文」は～語で何ですか (miten sanotaan kielellä) 「Thank you」は日本語で**何ですか** (similar/compare) vs. lukutapa ja kirjoitustapa
+??
+～と読みます・～と書きます (lukutapa ja kirjoitustapa) あの漢字は**何と読みます**か (similar/compare) vs. miten sanotaan kielellä

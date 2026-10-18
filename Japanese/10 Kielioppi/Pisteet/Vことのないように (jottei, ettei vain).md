@@ -69,5 +69,10 @@ Sama; ことのないように muodollinen.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋ことのないように／ことがないよう (jottei, ettei vain) (similar/compare) ::: Vように (jotta, niin etta) (similar/compare)
-V辞書形＋ことのないように／ことがないよう (jottei, ettei vain) (similar) ::: Vてはいけないから (ettei vain) (similar)
+V辞書形＋ことのないように／ことがないよう (jottei, ettei vain) 忘れる**ことのないように**、メモしてください (similar/compare) vs. jotta, niin etta
+??
+Vように (jotta, niin etta) 速く**泳げるように**、毎日練習しています (similar/compare) vs. jottei, ettei vain
+
+V辞書形＋ことのないように／ことがないよう (jottei, ettei vain) 忘れる**ことのないように**、メモしてください (similar) vs. puhekielinen "ettei vain" (koska muuten huonosti)
+??
+Vてはいけないから (ettei vain) 忘れ**てはいけないから**、メモしておこう (similar) vs. kirjallinen "jottei"

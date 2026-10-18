@@ -68,5 +68,10 @@ Jälkimmäinen korostaa kahta samanaikaista roolia.
 
 #flashcards/grammar/n1/vertailu
 
-N1でもあり、N2でもある (seka etta) (similar/compare) ::: ～も～ば～も (seka etta) (similar/compare)
-N1でもあり、N2でもある (seka etta) (similar) ::: ～といい～といい (seka A etta B) (similar)
+N1でもあり、N2でもある (seka etta) 彼は医者**でもあり**、作家**でもある** (similar/compare) vs. "sekä että" kahdella ehdolla
+??
+～も～ば～も (seka etta) 彼は歌**も**歌え**ば**、ダンス**も**できる (similar/compare) vs. "sekä että" kopulalla
+
+N1でもあり、N2でもある (seka etta) 彼は医者**でもあり**、作家**でもある** (similar) vs. "sekä A että B" arvio kahdesta näkökulmasta
+??
+～といい～といい (seka A etta B) 味**といい**値段**といい**、文句なしだ (similar) vs. "sekä että" kopulalla

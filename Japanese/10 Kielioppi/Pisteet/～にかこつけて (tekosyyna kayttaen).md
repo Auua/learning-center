@@ -68,4 +68,6 @@ Kriittinen tai huvittunut — todellinen syy on muu.
 
 #flashcards/grammar/n1/vertailu
 
-N＋にかこつけて (tekosyyna kayttaen) (similar/compare) ::: ～をいいことに (hyvaksi kayttaen) (similar/compare)
+N＋にかこつけて (tekosyyna kayttaen) 出張**にかこつけて**、観光を楽しんだ (similar/compare) vs. hyvaksi kayttaen
+??
+～をいいことに (hyvaksi kayttaen) 親の留守**をいいことに**、遊んでばかりいる (similar/compare) vs. tekosyyna kayttaen

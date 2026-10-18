@@ -71,6 +71,14 @@ Miten どんなに eroaa いくら:sta?
 
 #flashcards/grammar/n3/vertailu
 
-どんなに＋Vても／Adjくても (kuinka paljon tahansa) (similar) ::: 疑問詞＋ても (mika tahansa, poikkeukseton) (similar)
-どんなに＋Vても／Adjくても (kuinka paljon tahansa) (similar/compare) ::: いくら～ても (vaikka kuinka paljon) (similar/compare)
-どんなに＋Vても／Adjくても (kuinka paljon tahansa) (compare) ::: たとえ～ても (vaikka kuinka) (compare)
+どんなに＋Vても／Adjくても (kuinka paljon tahansa) **どんなに**頑張っ**ても**、勝てない (similar) vs. mika tahansa, poikkeukseton
+??
+疑問詞＋ても (mika tahansa, poikkeukseton) 連休中は**どこへ行っても**人がいっぱいだ (similar) vs. kuinka paljon tahansa
+
+どんなに＋Vても／Adjくても (kuinka paljon tahansa) **どんなに**頑張っ**ても**、勝てない (similar/compare) vs. vaikka kuinka paljon
+??
+いくら～ても (vaikka kuinka paljon) **いくら**食べ**ても**太らない (similar/compare) vs. kuinka paljon tahansa
+
+どんなに＋Vても／Adjくても (kuinka paljon tahansa) **どんなに**頑張っ**ても**、勝てない (compare) vs. vaikka kuinka
+??
+たとえ～ても (vaikka kuinka) **たとえ**雨が降っ**ても**、行きます (compare) vs. kuinka paljon tahansa

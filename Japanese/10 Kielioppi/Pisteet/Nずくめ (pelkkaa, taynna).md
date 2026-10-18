@@ -70,5 +70,10 @@ Usein myönteinen (toisin kuin だらけ).
 
 #flashcards/grammar/n1/vertailu
 
-N＋ずくめ（だ／の） (pelkkaa, taynna) (similar/compare) ::: Nだらけ (taynna, kauttaaltaan) (similar/compare)
-N＋ずくめ（だ／の） (pelkkaa, taynna) (similar) ::: Nまみれ (taysin jonkin peitossa) (similar)
+N＋ずくめ（だ／の） (pelkkaa, taynna) 今年はいいこと**ずくめ**だった (similar/compare) vs. taynna, kauttaaltaan
+??
+Nだらけ (taynna, kauttaaltaan) 部屋がごみ**だらけ**だ (similar/compare) vs. pelkkaa, taynna
+
+N＋ずくめ（だ／の） (pelkkaa, taynna) 今年はいいこと**ずくめ**だった (similar) vs. taysin jonkin peitossa
+??
+Nまみれ (taysin jonkin peitossa) 子どもが泥**まみれ**で帰ってきた (similar) vs. pelkkaa, taynna

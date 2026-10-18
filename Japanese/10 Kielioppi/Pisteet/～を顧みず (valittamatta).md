@@ -68,7 +68,18 @@ Voi — uhrautuva teko (危険を顧みず).
 
 #flashcards/grammar/n1/vertailu
 
-N＋を顧みず／も顧みず (valittamatta) (similar/compare) ::: ～もかまわず (valittamatta) (similar/compare)
-N＋を顧みず／も顧みず (valittamatta) (similar/compare) ::: ～をものともせずに (uhmaten) (similar/compare)
-N＋を顧みず／も顧みず (valittamatta) (similar) ::: ～を押して (vastustuksesta huolimatta) (similar)
-N＋を顧みず／も顧みず (valittamatta) (similar) ::: ～をよそに (valittamatta, piittaamatta) (similar)
+N＋を顧みず／も顧みず (valittamatta) 危険**を顧みず**、子どもを助けた (similar/compare) vs. "välittämättä" arkisempi
+??
+～もかまわず (valittamatta) 人目**もかまわず**、大声で泣いた (similar/compare) vs. "välittämättä" (vaarasta)
+
+N＋を顧みず／も顧みず (valittamatta) 危険**を顧みず**、子どもを助けた (similar/compare) vs. uhmaten
+??
+～をものともせずに (uhmaten) 嵐**をものともせずに**、船は進んだ (similar/compare) vs. valittamatta
+
+N＋を顧みず／も顧みず (valittamatta) 危険**を顧みず**、子どもを助けた (similar) vs. vastustuksesta huolimatta
+??
+～を押して (vastustuksesta huolimatta) 病気**を押して**、会議に出席した (similar) vs. valittamatta
+
+N＋を顧みず／も顧みず (valittamatta) 危険**を顧みず**、子どもを助けた (similar) vs. "piittaamatta"
+??
+～をよそに (valittamatta, piittaamatta) 親の心配**をよそに**、子どもは遊びに出かけた (similar) vs. "välittämättä" (vaarasta)

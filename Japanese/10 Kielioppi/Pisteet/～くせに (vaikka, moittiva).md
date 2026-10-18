@@ -72,6 +72,14 @@ Ei yleensä — se moittii toista ihmistä.
 
 #flashcards/grammar/n3/vertailu
 
-普通形（N の／な-adj な）＋くせに (vaikka, moittiva) (similar/compare) ::: ～くせして (vaikka, moittiva puhekieli) (similar/compare)
-普通形（N の／な-adj な）＋くせに (vaikka, moittiva) (compare) ::: 普通形のに (vaikka, pettymys) (compare)
-普通形（N の／な-adj な）＋くせに (vaikka, moittiva) (compare) ::: ～ながらも (vaikka, kirjallinen myonnytys) (compare)
+普通形（N の／な-adj な）＋くせに (vaikka, moittiva) 知っている**くせに**、教えてくれない (similar/compare) vs. puhekielinen moittiva
+??
+～くせして (vaikka, moittiva puhekieli) 知ってる**くせして**、教えてくれない (similar/compare) vs. "vaikka" moittiva yleisempi
+
+普通形（N の／な-adj な）＋くせに (vaikka, moittiva) 知っている**くせに**、教えてくれない (compare) vs. vaikka, pettymys
+??
+普通形のに (vaikka, pettymys) 約束を**したのに**、彼女は来ませんでした (compare) vs. vaikka, moittiva
+
+普通形（N の／な-adj な）＋くせに (vaikka, moittiva) 知っている**くせに**、教えてくれない (compare) vs. vaikka, kirjallinen myonnytys
+??
+～ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (compare) vs. vaikka, moittiva

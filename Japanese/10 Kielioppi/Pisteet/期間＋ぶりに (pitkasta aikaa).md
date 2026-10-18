@@ -71,5 +71,10 @@ Pitkästä aikaa (emme ole nähneet aikoihin).
 
 #flashcards/grammar/n3/vertailu
 
-期間＋ぶり（に） (pitkasta aikaa) (compare) ::: Vて以来 (siita lahtien kun) (compare)
-期間＋ぶり（に） (pitkasta aikaa) (compare) ::: Nぶり・っぷり (tapa, tyyli) (compare)
+期間＋ぶり（に） (pitkasta aikaa) 5年**ぶりに**国へ帰った (compare) vs. siita lahtien kun
+??
+Vて以来 (siita lahtien kun) スキーで骨折して**以来**、寒くなると足が痛むようになった (compare) vs. pitkasta aikaa
+
+期間＋ぶり（に） (pitkasta aikaa) 5年**ぶりに**国へ帰った (compare) vs. tapa, tyyli
+??
+Nぶり・っぷり (tapa, tyyli) 彼の仕事**ぶり**は真面目だ (compare) vs. pitkasta aikaa

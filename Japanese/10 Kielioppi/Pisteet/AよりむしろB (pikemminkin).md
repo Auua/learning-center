@@ -70,5 +70,10 @@ Korjaa odotusta: "päinvastoin, pikemminkin".
 
 #flashcards/grammar/n3/vertailu
 
-N1より（も）むしろ N2 (pikemminkin) (similar/compare) ::: ～というより (ennemminkin kuin) (similar/compare)
-N1より（も）むしろ N2 (pikemminkin) (compare) ::: ～より～ほうが (tekojen vertailu) (compare)
+N1より（も）むしろ N2 (pikemminkin) 夏**より**、**むしろ**冬のほうが好きだ (similar/compare) vs. ennemminkin kuin
+??
+～というより (ennemminkin kuin) 趣味**というより**仕事だ (similar/compare) vs. pikemminkin
+
+N1より（も）むしろ N2 (pikemminkin) 夏**より**、**むしろ**冬のほうが好きだ (compare) vs. tekojen vertailu
+??
+～より～ほうが (tekojen vertailu) **入るより出るほうが**ずっと大変です (compare) vs. pikemminkin

@@ -72,8 +72,22 @@ Ei — まるで merkitsee vertausta; päättelyssä どうやら.
 
 #flashcards/grammar/n3/vertailu
 
-まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (similar/compare) ::: ～のようだ・～のような・～のように (vertailu, esimerkki) (similar/compare)
-まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (similar) ::: ～みたいだ・～みたいな・～みたいに (puhekielinen vertailu) (similar)
-まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (similar/compare) ::: ～も同然だ (kuin, kaytannossa sama) (similar/compare)
-まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (similar/compare) ::: ～かのように (ikaan kuin) (similar/compare)
-まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) (compare) ::: ～ふりをする (teeskennella) (compare)
+まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) **まるで**夢**のようだ** (similar/compare) vs. vertailu, esimerkki
+??
+～のようだ・～のような・～のように (vertailu, esimerkki) あの病院はきれいで、まるでホテル**のようです** (similar/compare) vs. aivan kuin
+
+まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) **まるで**夢**のようだ** (similar) vs. puhekielinen vertailu
+??
+～みたいだ・～みたいな・～みたいに (puhekielinen vertailu) このロボット、本物の犬**みたいだ** (similar) vs. aivan kuin
+
+まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) **まるで**夢**のようだ** (similar/compare) vs. kuin, kaytannossa sama
+??
+～も同然だ (kuin, kaytannossa sama) この車はもう新品**も同然だ** (similar/compare) vs. aivan kuin
+
+まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) **まるで**夢**のようだ** (similar/compare) vs. ikaan kuin
+??
+～かのように (ikaan kuin) 何も知らない**かのように**振る舞う (similar/compare) vs. aivan kuin
+
+まるで＋普通形／Nの＋ようだ（みたいだ） (aivan kuin) **まるで**夢**のようだ** (compare) vs. teeskennella
+??
+～ふりをする (teeskennella) 聞こえない**ふりをした** (compare) vs. aivan kuin

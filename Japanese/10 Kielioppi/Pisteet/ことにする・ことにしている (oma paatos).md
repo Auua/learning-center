@@ -78,6 +78,14 @@ Miten ことにする eroaa rakenteesta ことになる?
 
 #flashcards/grammar/n3/vertailu
 
-V辞書形／ないことにする・ことにしている (oma paatos) (similar/compare) ::: ことになる・ことになっている (ulkopuolinen paatos) (similar/compare)
-V辞書形／ないことにする・ことにしている (oma paatos) (compare) ::: Nにします (valinta, paatos) (compare)
-V辞書形／ないことにする・ことにしている (oma paatos) (similar/compare) ::: Vたことにする (katsotaan tehdyksi) (similar/compare)
+V辞書形／ないことにする・ことにしている (oma paatos) この仕事はあした**することにします** (similar/compare) vs. ulkopuolinen paatos
+??
+ことになる・ことになっている (ulkopuolinen paatos) 夫の転勤で広島へ引っ越す**ことになりました** (similar/compare) vs. oma paatos
+
+V辞書形／ないことにする・ことにしている (oma paatos) この仕事はあした**することにします** (compare) vs. valinta, paatos
+??
+Nにします (valinta, paatos) 私はコーヒー**にします** (compare) vs. oma paatos
+
+V辞書形／ないことにする・ことにしている (oma paatos) この仕事はあした**することにします** (similar/compare) vs. katsotaan tehdyksi
+??
+Vたことにする (katsotaan tehdyksi) 今の話は聞かなかった**ことにします** (similar/compare) vs. oma paatos

@@ -71,6 +71,14 @@ Lähes sama; と聞いた korostaa kuulemista ja voi ottaa lähteen (から) ja 
 
 #flashcards/grammar/n4/vertailu
 
-普通形＋と聞いた／と聞きました (kuulin etta) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
-普通形＋と聞いた／と聞きました (kuulin etta) (similar) ::: 普通形と言います (lainaus) (similar)
-普通形＋と聞いた／と聞きました (kuulin etta) (compare) ::: 普通形と言われている (sanotaan etta, yleinen kasitys) (compare)
+普通形＋と聞いた／と聞きました (kuulin etta) 田中さんが結婚した**と聞きました** (similar/compare) vs. kuulopuhe
+??
+普通形そうです (kuulopuhe) 天気予報によると、あしたは寒く**なるそうです** (similar/compare) vs. kuulin etta
+
+普通形＋と聞いた／と聞きました (kuulin etta) 田中さんが結婚した**と聞きました** (similar) vs. lainaus
+??
+普通形と言います (lainaus) 寝るまえに「お休みなさい」**と言います** (similar) vs. kuulin etta
+
+普通形＋と聞いた／と聞きました (kuulin etta) 田中さんが結婚した**と聞きました** (compare) vs. sanotaan etta, yleinen kasitys
+??
+普通形と言われている (sanotaan etta, yleinen kasitys) 日本人は長生きだ**と言われている** (compare) vs. kuulin etta

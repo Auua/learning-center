@@ -78,5 +78,10 @@ Kumpi: くらい vai ほど, kun haluan kirjallisemman sävyn?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋くらいだ (siina maarin etta) (similar/compare) ::: ～ほど (aste, \"niin paljon etta\") (similar/compare)
-普通形＋くらいだ (siina maarin etta) (compare) ::: ～くらいのものだ (vain, ainoastaan) (compare)
+普通形＋くらいだ (siina maarin etta) アメリカには尺八を教える大学**もあるくらいだ** (similar/compare) vs. aste, "niin paljon etta"
+??
+～ほど (aste, "niin paljon etta") のみこむのに苦労した日本語は、佃煮にする**ほど**あった (similar/compare) vs. siina maarin etta
+
+普通形＋くらいだ (siina maarin etta) アメリカには尺八を教える大学**もあるくらいだ** (compare) vs. vain, ainoastaan
+??
+～くらいのものだ (vain, ainoastaan) こんなことができるのは、彼**くらいのものだ** (compare) vs. siina maarin etta

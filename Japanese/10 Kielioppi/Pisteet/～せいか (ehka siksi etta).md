@@ -69,4 +69,6 @@ Ehkä vain kuvittelen.
 
 #flashcards/grammar/n2/vertailu
 
-普通形（N の／な-adj な）＋せいか (ehka siksi etta) (similar/compare) ::: せいで・せいだ (kielteinen syy) (similar/compare)
+普通形（N の／な-adj な）＋せいか (ehka siksi etta) 寝不足の**せいか**、頭が痛い (similar/compare) vs. kielteinen syy
+??
+せいで・せいだ (kielteinen syy) 雨の**せいで**、試合が中止になった (similar/compare) vs. ehka siksi etta

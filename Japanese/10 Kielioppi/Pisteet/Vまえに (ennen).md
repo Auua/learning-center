@@ -95,7 +95,18 @@ Kumpi: まえに vai あとで, kun verbi on 辞書形 vs. た形?
 
 #flashcards/grammar/n5/vertailu
 
-V辞書形まえに／Nのまえに／期間まえに (ennen) (similar) ::: Vてから、V2 (jälkeen) (similar)
-V辞書形まえに／Nのまえに／期間まえに (ennen) (similar/compare) ::: Vたあとで (sen jalkeen kun) (similar/compare)
-V辞書形まえに／Nのまえに／期間まえに (ennen) (compare) ::: ～ないうちに (ennen kuin) (compare)
-V辞書形まえに／Nのまえに／期間まえに (ennen) (compare) ::: ～に先立ち (ennen, etukateen) (compare)
+V辞書形まえに／Nのまえに／期間まえに (ennen) 日本へ来る**まえに**、日本語を勉強しました (similar) vs. jälkeen
+??
+Vてから、V2 (jälkeen) 国へ帰っ**てから**、父の会社で働きます (similar) vs. ennen
+
+V辞書形まえに／Nのまえに／期間まえに (ennen) 日本へ来る**まえに**、日本語を勉強しました (similar/compare) vs. sen jalkeen kun
+??
+Vたあとで (sen jalkeen kun) ごはんを**食べたあとで**、歯を磨きます (similar/compare) vs. ennen
+
+V辞書形まえに／Nのまえに／期間まえに (ennen) 日本へ来る**まえに**、日本語を勉強しました (compare) vs. "ennen kuin (liian myöhäistä)"
+??
+～ないうちに (ennen kuin) 暗くなら**ないうちに**、帰りましょう (compare) vs. "ennen kuin"
+
+V辞書形まえに／Nのまえに／期間まえに (ennen) 日本へ来る**まえに**、日本語を勉強しました (compare) vs. "ennen, etukäteen" muodollinen
+??
+～に先立ち (ennen, etukateen) 開会**に先立ち**、市長が挨拶した (compare) vs. "ennen kuin"

@@ -70,5 +70,10 @@ Sanoinkuvaamaton.
 
 #flashcards/grammar/n1/vertailu
 
-V(ます-vartalo)＋尽くす (tehda perin pohjin) (similar/compare) ::: Vきる (tehda loppuun, kokonaan) (similar/compare)
-V(ます-vartalo)＋尽くす (tehda perin pohjin) (similar) ::: Vます-vartalo＋抜く (loppuun asti, perin pohjin) (similar)
+V(ます-vartalo)＋尽くす (tehda perin pohjin) 町のことを知り**尽くしている** (similar/compare) vs. tehda loppuun, kokonaan
+??
+Vきる (tehda loppuun, kokonaan) その竹の一片に彼の肉体と精神を**まかせきった** (similar/compare) vs. tehda perin pohjin
+
+V(ます-vartalo)＋尽くす (tehda perin pohjin) 町のことを知り**尽くしている** (similar) vs. loppuun asti, perin pohjin
+??
+Vます-vartalo＋抜く (loppuun asti, perin pohjin) マラソンを最後まで走り**抜いた** (similar) vs. tehda perin pohjin

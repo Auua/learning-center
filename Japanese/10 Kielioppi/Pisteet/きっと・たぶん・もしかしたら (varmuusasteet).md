@@ -77,6 +77,14 @@ Epävarma adverbi kaipaa epävarman lopun: かもしれません.
 
 #flashcards/grammar/n4/vertailu
 
-きっと／たぶん／もしかしたら (varmuusasteet) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
-きっと／たぶん／もしかしたら (varmuusasteet) (similar/compare) ::: Vかもしれません (saattaa olla etta) (similar/compare)
-きっと／たぶん／もしかしたら (varmuusasteet) (similar) ::: よく・だいたい・たくさん・少し・あまり・全然 (asteadverbit) (similar)
+きっと／たぶん／もしかしたら (varmuusasteet) ミラーさんは**きっと**来るでしょう (similar/compare) vs. todennakoisyys
+??
+普通形でしょう (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. varmuusasteet
+
+きっと／たぶん／もしかしたら (varmuusasteet) ミラーさんは**きっと**来るでしょう (similar/compare) vs. saattaa olla etta
+??
+Vかもしれません (saattaa olla etta) 約束の時間に**間に合わないかもしれません** (similar/compare) vs. varmuusasteet
+
+きっと／たぶん／もしかしたら (varmuusasteet) ミラーさんは**きっと**来るでしょう (similar) vs. asteadverbit
+??
+よく・だいたい・たくさん・少し・あまり・全然 (asteadverbit) 英語がよくわかります (similar) vs. varmuusasteet

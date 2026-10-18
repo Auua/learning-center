@@ -69,5 +69,10 @@ Miten 一方（で） eroaa S1が、S2 (mutta) -rakenteesta?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋一方（で） (toisaalta) (compare) ::: ～一方だ (yha enemman) (compare)
-普通形＋一方（で） (toisaalta) (similar/compare) ::: ～反面 (toisaalta, kaanpuolena) (similar/compare)
+普通形＋一方（で） (toisaalta) 便利な**一方で**、高い (compare) vs. yha enemman
+??
+～一方だ (yha enemman) 物価は上がる**一方だ** (compare) vs. toisaalta
+
+普通形＋一方（で） (toisaalta) 便利な**一方で**、高い (similar/compare) vs. "toisaalta, kääntöpuolena"
+??
+～反面 (toisaalta, kaanpuolena) 便利になった**反面**、問題も増えた (similar/compare) vs. "toisaalta"

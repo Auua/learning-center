@@ -72,5 +72,10 @@ Etuosa (X); jälkiosa on sivutoimi, joka tehdään samalla.
 
 #flashcards/grammar/n3/vertailu
 
-V(辞書形／た)／Nの＋ついでに (samalla kun) (similar/compare) ::: Nがてら (samalla kun, samalla reissulla) (similar/compare)
-V(辞書形／た)／Nの＋ついでに (samalla kun) (compare) ::: V(-ます)ながら (samalla kun) (compare)
+V(辞書形／た)／Nの＋ついでに (samalla kun) 郵便局へ行く**ついでに**、手紙を出してきて (similar/compare) vs. "samalla reissulla" substantiivilla
+??
+Nがてら (samalla kun, samalla reissulla) 散歩**がてら**、パンを買いに行く (similar/compare) vs. "samalla kun on tilaisuus"
+
+V(辞書形／た)／Nの＋ついでに (samalla kun) 郵便局へ行く**ついでに**、手紙を出してきて (compare) vs. samanaikaisuus
+??
+V(-ます)ながら (samalla kun) 音楽を**聞きながら**食事します (compare) vs. "samalla kun on tilaisuus"

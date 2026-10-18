@@ -63,5 +63,10 @@ Itsekorjauksessa keskustelussa ja täsmällisyyttä tavoittelevassa kirjoitukses
 
 #flashcards/grammar/n2/vertailu
 
-N／普通形＋というより (ennemminkin kuin) (similar/compare) ::: AよりむしろB (pikemminkin) (similar/compare)
-N／普通形＋というより (ennemminkin kuin) (similar/compare) ::: ～というか～というか (sanoisinko A vai B) (similar/compare)
+N／普通形＋というより (ennemminkin kuin) 趣味**というより**仕事だ (similar/compare) vs. pikemminkin
+??
+AよりむしろB (pikemminkin) 夏**より**、**むしろ**冬のほうが好きだ (similar/compare) vs. ennemminkin kuin
+
+N／普通形＋というより (ennemminkin kuin) 趣味**というより**仕事だ (similar/compare) vs. sanoisinko A vai B
+??
+～というか～というか (sanoisinko A vai B) 無邪気**というか**無責任**というか**、困った人だ (similar/compare) vs. ennemminkin kuin

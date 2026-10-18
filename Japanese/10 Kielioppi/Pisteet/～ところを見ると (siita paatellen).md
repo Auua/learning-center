@@ -68,5 +68,10 @@ Päätelmä: らしい, ようだ, に違いない.
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋ところを見ると／ところを見ると〜らしい (siita paatellen) (similar) ::: 普通形とみえる (nayttaa silta etta) (similar)
-普通形＋ところを見ると／ところを見ると〜らしい (siita paatellen) (compare) ::: ～から見ると (jonkin perusteella, nakokulmasta) (compare)
+普通形＋ところを見ると／ところを見ると〜らしい (siita paatellen) 笑っている**ところを見ると**、合格した**らしい** (similar) vs. nayttaa silta etta
+??
+普通形とみえる (nayttaa silta etta) 彼は疲れている**とみえる** (similar) vs. siita paatellen
+
+普通形＋ところを見ると／ところを見ると〜らしい (siita paatellen) 笑っている**ところを見ると**、合格した**らしい** (compare) vs. jonkin perusteella, nakokulmasta
+??
+～から見ると (jonkin perusteella, nakokulmasta) 子ども**から見ると**、大人は自由に見える (compare) vs. siita paatellen

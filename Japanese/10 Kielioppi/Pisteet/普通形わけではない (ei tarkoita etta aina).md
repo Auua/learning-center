@@ -78,11 +78,34 @@ Miten わけではない eroaa わけだ:sta?
 
 #flashcards/grammar/n3/vertailu
 
-普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar/compare) ::: 普通形わけだ (johtopaatos, siis) (similar/compare)
-普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar/compare) ::: 普通形からといって (vaikka onkin niin) (similar/compare)
-普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (compare) ::: Vないことはない (ei ole mahdotonta) (compare)
-普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar/compare) ::: ～とは限らない (ei valttamatta) (similar/compare)
-普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (compare) ::: 普通形わけがない (ei mitenkaan voi olla) (compare)
-普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (compare) ::: ～ではあるまいし (eihan … ole) (compare)
-普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar) ::: ～ことにはならない (ei tarkoita etta) (similar)
-普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) (similar) ::: ～というものではない (ei valttamatta ole niin) (similar)
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar/compare) vs. johtopaatos, siis
+??
+普通形わけだ (johtopaatos, siis) 値上げをした**わけだ** (similar/compare) vs. ei tarkoita etta aina
+
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar/compare) vs. vaikka onkin niin
+??
+普通形からといって (vaikka onkin niin) 外国人だ**からといって**、わがままは言えません (similar/compare) vs. ei tarkoita etta aina
+
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (compare) vs. ei ole mahdotonta
+??
+Vないことはない (ei ole mahdotonta) 食べられ**ないことはない**けど、好きじゃない (compare) vs. ei tarkoita etta aina
+
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar/compare) vs. ei valttamatta
+??
+～とは限らない (ei valttamatta) 高い物がいい**とは限らない** (similar/compare) vs. ei tarkoita etta aina
+
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (compare) vs. ei mitenkaan voi olla
+??
+普通形わけがない (ei mitenkaan voi olla) あの人が犯人の**わけがない** (compare) vs. ei tarkoita etta aina
+
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (compare) vs. eihan … ole
+??
+～ではあるまいし (eihan … ole) 子ども**じゃあるまいし**、一人でできるでしょう (compare) vs. ei tarkoita etta aina
+
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar) vs. "ei tarkoita että"
+??
+～ことにはならない (ei tarkoita etta) 謝っただけでは、許された**ことにはならない** (similar) vs. "ei tarkoita että aina"
+
+普通形＋わけではない（必ずしも〜わけではない） (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar) vs. ei valttamatta ole niin
+??
+～というものではない (ei valttamatta ole niin) 高ければいい**というものではない** (similar) vs. ei tarkoita etta aina

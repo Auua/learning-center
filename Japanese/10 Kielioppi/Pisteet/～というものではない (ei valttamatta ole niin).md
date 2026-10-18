@@ -68,6 +68,14 @@ Lähes sama; というものではない kumoaa usein arvo-oletuksen.
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋というものではない／というものでもない (ei valttamatta ole niin) (similar/compare) ::: ～とは限らない (ei valttamatta) (similar/compare)
-普通形＋というものではない／というものでもない (ei valttamatta ole niin) (similar) ::: 普通形わけではない (ei tarkoita etta aina) (similar)
-普通形＋というものではない／というものでもない (ei valttamatta ole niin) (compare) ::: ～というものだ (sita se on, juuri sellaista) (compare)
+普通形＋というものではない／というものでもない (ei valttamatta ole niin) 高ければいい**というものではない** (similar/compare) vs. "ei välttämättä"
+??
+～とは限らない (ei valttamatta) 高い物がいい**とは限らない** (similar/compare) vs. "ei välttämättä ole niin" (mielipide)
+
+普通形＋というものではない／というものでもない (ei valttamatta ole niin) 高ければいい**というものではない** (similar) vs. ei tarkoita etta aina
+??
+普通形わけではない (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar) vs. ei valttamatta ole niin
+
+普通形＋というものではない／というものでもない (ei valttamatta ole niin) 高ければいい**というものではない** (compare) vs. sita se on, juuri sellaista
+??
+～というものだ (sita se on, juuri sellaista) 人の物を盗むのは犯罪**というものだ** (compare) vs. ei valttamatta ole niin

@@ -77,7 +77,18 @@ Kirjallisten ohjeiden yhteydessä: 説明書のとおりに, マニュアルの�
 
 #flashcards/grammar/n4/vertailu
 
-V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) (compare) ::: ～にしたがって (mukaisesti, sita mukaa) (compare)
-V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) (similar/compare) ::: ～ふうに (tavalla, niin) (similar/compare)
-V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) (similar) ::: ～に沿って (mukaisesti, pitkin) (similar)
-V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) (similar/compare) ::: 普通形ように (kuten, niin kuin) (similar/compare)
+V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) わたしが今から**言うとおりに**、書いてください (compare) vs. mukaisesti, sita mukaa
+??
+～にしたがって (mukaisesti, sita mukaa) 先生の指示**にしたがって**、行動してください (compare) vs. juuri niin kuin
+
+V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) わたしが今から**言うとおりに**、書いてください (similar/compare) vs. tavalla, niin
+??
+～ふうに (tavalla, niin) **こんなふうに**書いてください (similar/compare) vs. juuri niin kuin
+
+V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) わたしが今から**言うとおりに**、書いてください (similar) vs. mukaisesti, pitkin
+??
+～に沿って (mukaisesti, pitkin) 川**に沿って**歩く (similar) vs. juuri niin kuin
+
+V辞書形/Vた形/Nの＋とおりに (juuri niin kuin) わたしが今から**言うとおりに**、書いてください (similar/compare) vs. kuten, niin kuin
+??
+普通形ように (kuten, niin kuin) 前にも言った**ように**、明日は休みです (similar/compare) vs. juuri niin kuin

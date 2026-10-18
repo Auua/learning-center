@@ -70,5 +70,10 @@ Lähes sama; にあたって korostaa valmistautumista, に際して neutraalimp
 
 #flashcards/grammar/n2/vertailu
 
-N／V辞書形＋に際して／に際し (jonkin yhteydessa, muodollinen) (similar) ::: ～際［に］ (silloin kun, muodollinen) (similar)
-N／V辞書形＋に際して／に際し (jonkin yhteydessa, muodollinen) (similar/compare) ::: ～にあたって (jonkin yhteydessa, ennen) (similar/compare)
+N／V辞書形＋に際して／に際し (jonkin yhteydessa, muodollinen) ご利用**に際して**、注意事項をお読みください (similar) vs. silloin kun, muodollinen
+??
+～際［に］ (silloin kun, muodollinen) 外出**の際**、必ずフロントに鍵をお預けください (similar) vs. jonkin yhteydessa, muodollinen
+
+N／V辞書形＋に際して／に際し (jonkin yhteydessa, muodollinen) ご利用**に際して**、注意事項をお読みください (similar/compare) vs. jonkin yhteydessa, ennen
+??
+～にあたって (jonkin yhteydessa, ennen) 開会**にあたって**、一言ご挨拶申し上げます (similar/compare) vs. jonkin yhteydessa, muodollinen

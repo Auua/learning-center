@@ -84,6 +84,14 @@ Miten Vのに (käyttötarkoitus) eroaa muodosta 普通形のに?
 
 #flashcards/grammar/n4/vertailu
 
-V辞書形のに (kayttotarkoitus, kulutus) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
-V辞書形のに (kayttotarkoitus, kulutus) (similar/compare) ::: 普通形のに (vaikka, pettymys) (similar/compare)
-V辞書形のに (kayttotarkoitus, kulutus) (similar/compare) ::: N（tilaisuus）に (お祝いに, lahjan tarkoitus) (similar/compare)
+V辞書形のに (kayttotarkoitus, kulutus) このはさみは**花を切るのに**使います (similar) vs. nominalisointi
+??
+Vのは・Vのが・Vのを (nominalisointi) 絵を**かくのは**楽しいです (similar) vs. kayttotarkoitus, kulutus
+
+V辞書形のに (kayttotarkoitus, kulutus) このはさみは**花を切るのに**使います (similar/compare) vs. vaikka, pettymys
+??
+普通形のに (vaikka, pettymys) 約束を**したのに**、彼女は来ませんでした (similar/compare) vs. kayttotarkoitus, kulutus
+
+V辞書形のに (kayttotarkoitus, kulutus) このはさみは**花を切るのに**使います (similar/compare) vs. お祝いに, lahjan tarkoitus
+??
+N（tilaisuus）に (お祝いに, lahjan tarkoitus) 結婚**のお祝いに**このお皿をいただきました (similar/compare) vs. kayttotarkoitus, kulutus

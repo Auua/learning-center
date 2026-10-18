@@ -71,5 +71,10 @@ Että puhuttiin päin naamaa ihmiselle, jolle ei kuuluisi.
 
 #flashcards/grammar/n2/vertailu
 
-N＋に向かって／に向けて (kohti, -lle) (similar) ::: N向け (jollekin suunnattu) (similar)
-N＋に向かって／に向けて (kohti, -lle) (compare) ::: ～に対して (kohtaan, vastakohtana) (compare)
+N＋に向かって／に向けて (kohti, -lle) 山**に向かって**歩いた (similar) vs. jollekin suunnattu
+??
+N向け (jollekin suunnattu) 子ども**向けの**本 (similar) vs. kohti, -lle
+
+N＋に向かって／に向けて (kohti, -lle) 山**に向かって**歩いた (compare) vs. kohtaan, vastakohtana
+??
+～に対して (kohtaan, vastakohtana) 先生**に対して**失礼なことを言った (compare) vs. kohti, -lle

@@ -71,6 +71,14 @@ Kohtelias お ja arkinen どこ eivät sovi yhteen; kohteliaasti どちら.
 
 #flashcards/grammar/n5/vertailu
 
-お国はどちらですか (mistä maasta) (similar) ::: お～ (kunnioittava etuliite) (similar)
-お国はどちらですか (mistä maasta) (similar/compare) ::: Nはどこですか・どちらですか (missä) (similar/compare)
-お国はどちらですか (mistä maasta) (similar) ::: ご注文は (mitä saisi olla) (similar)
+お国はどちらですか (mistä maasta) **お国はどちらですか** (similar) vs. kunnioittava etuliite
+??
+お～ (kunnioittava etuliite) **お**名前は何ですか (similar) vs. mistä maasta
+
+お国はどちらですか (mistä maasta) **お国はどちらですか** (similar/compare) vs. missä
+??
+Nはどこですか・どちらですか (missä) トイレは**どこですか** (similar/compare) vs. mistä maasta
+
+お国はどちらですか (mistä maasta) **お国はどちらですか** (similar) vs. mitä saisi olla
+??
+ご注文は (mitä saisi olla) **ご注文は**？…牛どんをお願いします (similar) vs. mistä maasta

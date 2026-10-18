@@ -102,7 +102,18 @@ Löytö kuvaa todella tapahtunutta havaintoa; kontrafaktuaalinen mennyt jälkila
 
 #flashcards/grammar/n4/vertailu
 
-…たら、…た (odottamaton löytö) (similar) ::: ～たら (jos, kun) (similar)
-…たら、…た (odottamaton löytö) (similar/compare) ::: Vたところ、 (kavi ilmi etta) (similar/compare)
-…たら、…た (odottamaton löytö) (similar) ::: ～と (aina kun, väistämätön seuraus) (similar)
-…たら、…た (odottamaton löytö) (compare) ::: ところが (mutta yllattaen) (compare)
+…たら、…た (odottamaton löytö) 窓ガラスを**ふいたら**、部屋が明るく**なった** (similar) vs. jos, kun
+??
+～たら (jos, kun) 京都に着いたら、電話してください (similar) vs. odottamaton löytö
+
+…たら、…た (odottamaton löytö) 窓ガラスを**ふいたら**、部屋が明るく**なった** (similar/compare) vs. kavi ilmi etta
+??
+Vたところ、 (kavi ilmi etta) 電話し**たところ**、留守だった (similar/compare) vs. odottamaton löytö
+
+…たら、…た (odottamaton löytö) 窓ガラスを**ふいたら**、部屋が明るく**なった** (similar) vs. aina kun, väistämätön seuraus
+??
+～と (aina kun, väistämätön seuraus) このボタンを押すと、水が出ます (similar) vs. odottamaton löytö
+
+…たら、…た (odottamaton löytö) 窓ガラスを**ふいたら**、部屋が明るく**なった** (compare) vs. mutta yllattaen
+??
+ところが (mutta yllattaen) **ところが**、とても難しかった (compare) vs. odottamaton löytö

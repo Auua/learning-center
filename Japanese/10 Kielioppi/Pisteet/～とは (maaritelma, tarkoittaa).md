@@ -72,5 +72,10 @@ Funktio on sama; というのは on pidempi ja puhekielisempi, とは sen tiivis
 
 #flashcards/grammar/n3/vertailu
 
-N＋とは (maaritelma, tarkoittaa) (similar/compare) ::: ～というのは～のことだ・ということだ (maaritelma) (similar/compare)
-N＋とは (maaritelma, tarkoittaa) (compare) ::: 普通形とは (etta peraati, yllatys) (compare)
+N＋とは (maaritelma, tarkoittaa) 海外で日本のテレビアニメが受けるわけ**とは**何だろうか (similar/compare) vs. "määritelmä" pidempi
+??
+～というのは～のことだ・ということだ (maaritelma) 外来語**というのは**日本語になった外国語**のことだ** (similar/compare) vs. "määritelmä" lyhyt
+
+N＋とは (maaritelma, tarkoittaa) 海外で日本のテレビアニメが受けるわけ**とは**何だろうか (compare) vs. etta peraati, yllatys
+??
+普通形とは (etta peraati, yllatys) 彼が優勝する**とは**、思わなかった (compare) vs. maaritelma, tarkoittaa

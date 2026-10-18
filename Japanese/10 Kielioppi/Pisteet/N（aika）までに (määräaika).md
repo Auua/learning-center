@@ -86,6 +86,14 @@ Kertaluontoinen tapahtuma (palauttaminen, valmistuminen) → までに; jatkuva 
 
 #flashcards/grammar/n5/vertailu
 
-N（時間）までに (määräaika) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
-N（時間）までに (määräaika) (similar/compare) ::: V辞書形まで・までに (verbilause aikarajana) (similar/compare)
-N（時間）までに (määräaika) (similar/compare) ::: ～から～まで (mistä mihin, alku ja loppu) (similar/compare)
+N（時間）までに (määräaika) 土曜日**までに**本を返さなければなりません (similar) vs. へ・で・と
+??
+Liikkumisen partikkelit (へ・で・と) 京都**へ**行きます (similar) vs. määräaika
+
+N（時間）までに (määräaika) 土曜日**までに**本を返さなければなりません (similar/compare) vs. verbilause aikarajana
+??
+V辞書形まで・までに (verbilause aikarajana) 子どもが**寝るまで**、本を読んでやります (similar/compare) vs. määräaika
+
+N（時間）までに (määräaika) 土曜日**までに**本を返さなければなりません (similar/compare) vs. mistä mihin, alku ja loppu
+??
+～から～まで (mistä mihin, alku ja loppu) 9時**から**5時**まで**働きます (similar/compare) vs. määräaika

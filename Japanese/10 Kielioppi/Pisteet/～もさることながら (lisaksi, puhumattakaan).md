@@ -68,5 +68,10 @@ Usein jälkimmäinen (N2).
 
 #flashcards/grammar/n1/vertailu
 
-N＋もさることながら (lisaksi, puhumattakaan) (similar/compare) ::: ～はもちろん (puhumattakaan) (similar/compare)
-N＋もさることながら (lisaksi, puhumattakaan) (similar) ::: ～はもとより (puhumattakaan, tietysti myos) (similar)
+N＋もさることながら (lisaksi, puhumattakaan) 味**もさることながら**、見た目**も**美しい (similar/compare) vs. "puhumattakaan" arkinen
+??
+～はもちろん (puhumattakaan) 子ども**はもちろん**、大人**も**楽しめる (similar/compare) vs. "lisäksi, puhumattakaan" (arvostus)
+
+N＋もさることながら (lisaksi, puhumattakaan) 味**もさることながら**、見た目**も**美しい (similar) vs. puhumattakaan, tietysti myos
+??
+～はもとより (puhumattakaan, tietysti myos) 子ども**はもとより**、大人**も**楽しめる (similar) vs. lisaksi, puhumattakaan

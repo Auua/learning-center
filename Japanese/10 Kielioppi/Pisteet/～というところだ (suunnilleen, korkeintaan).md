@@ -68,5 +68,10 @@ Vähättelevä, vaatimaton.
 
 #flashcards/grammar/n1/vertailu
 
-N／数量＋というところだ／といったところだ (suunnilleen, korkeintaan) (similar) ::: Maara だけ・Nだけ (similar)
-N／数量＋というところだ／といったところだ (suunnilleen, korkeintaan) (compare) ::: Lukusanat ja luokittelijat (compare)
+N／数量＋というところだ／といったところだ (suunnilleen, korkeintaan) 参加者は30人**というところだ** (similar) vs. "vain" rajaus
+??
+Maara だけ・Nだけ 外国人の社員が1人**だけ**います (similar) vs. suunnilleen, korkeintaan
+
+N／数量＋というところだ／といったところだ (suunnilleen, korkeintaan) 参加者は30人**というところだ** (compare) vs. lukusanat
+??
+Lukusanat ja luokittelijat りんごを4つ買いました (compare) vs. suunnilleen, korkeintaan

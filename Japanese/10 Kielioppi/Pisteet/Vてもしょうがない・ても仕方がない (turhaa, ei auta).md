@@ -71,6 +71,14 @@ Ei ihme, että suututtiin — seuraus on ymmärrettävä/ansaittu.
 
 #flashcards/grammar/n3/vertailu
 
-V(て)＋もしょうがない／も仕方がない (turhaa, ei auta) (similar/compare) ::: Vても始まらない (turha tehda) (similar/compare)
-V(て)＋もしょうがない／も仕方がない (turhaa, ei auta) (similar) ::: Vてもどうにもならない (turha, ei auta) (similar)
-V(て)＋もしょうがない／も仕方がない (turhaa, ei auta) (compare) ::: ～てしょうがない・てしかたがない (sietamattoman) (compare)
+V(て)＋もしょうがない／も仕方がない (turhaa, ei auta) 今から急い**でもしょうがない** (similar/compare) vs. turha tehda
+??
+Vても始まらない (turha tehda) 今さら後悔し**ても始まらない** (similar/compare) vs. turhaa, ei auta
+
+V(て)＋もしょうがない／も仕方がない (turhaa, ei auta) 今から急い**でもしょうがない** (similar) vs. turha, ei auta
+??
+Vてもどうにもならない (turha, ei auta) 今さら後悔し**てもどうにもならない** (similar) vs. turhaa, ei auta
+
+V(て)＋もしょうがない／も仕方がない (turhaa, ei auta) 今から急い**でもしょうがない** (compare) vs. sietamattoman
+??
+～てしょうがない・てしかたがない (sietamattoman) 暑く**てしょうがない** (compare) vs. turhaa, ei auta

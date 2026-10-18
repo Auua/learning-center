@@ -68,4 +68,6 @@ Mikä sana usein esiintyy jälkiosassa?
 
 #flashcards/grammar/n1/vertailu
 
-V(ない)＋までも (vaikka ei ehka, ainakin) (compare) ::: Maara＋は (vahintaan) (compare)
+V(ない)＋までも (vaikka ei ehka, ainakin) 毎日とは言わ**ないまでも**、週に一度は電話して (compare) vs. vahintaan
+??
+Maara＋は (vahintaan) 駅まで30分**は**かかる (compare) vs. vaikka ei ehka, ainakin

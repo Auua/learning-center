@@ -68,5 +68,10 @@ Kaksikäyttöinen.
 
 #flashcards/grammar/n1/vertailu
 
-N＋を兼ねて (samalla myos) (similar/compare) ::: Nがてら (samalla kun, samalla reissulla) (similar/compare)
-N＋を兼ねて (samalla myos) (similar) ::: Nかたがた (samalla kun, muodollinen) (similar)
+N＋を兼ねて (samalla myos) 運動**を兼ねて**、歩いて通勤している (similar/compare) vs. samalla kun, samalla reissulla
+??
+Nがてら (samalla kun, samalla reissulla) 散歩**がてら**、パンを買いに行く (similar/compare) vs. samalla myos
+
+N＋を兼ねて (samalla myos) 運動**を兼ねて**、歩いて通勤している (similar) vs. samalla kun, muodollinen
+??
+Nかたがた (samalla kun, muodollinen) お礼**かたがた**、ご挨拶に伺いました (similar) vs. samalla myos

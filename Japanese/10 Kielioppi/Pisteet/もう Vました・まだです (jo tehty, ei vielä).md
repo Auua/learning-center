@@ -81,5 +81,10 @@ Mikä on täydempi kielteinen vastaus kuin まだです?
 
 #flashcards/grammar/n5/vertailu
 
-もうVました／まだです (jo tehty, ei vielä) (similar/compare) ::: まだ～ていません (ei ole vielä tehty) (similar/compare)
-もうVました／まだです (jo tehty, ei vielä) (similar/compare) ::: まだ＋myönteinen (yhä, edelleen) (similar/compare)
+もうVました／まだです (jo tehty, ei vielä) もう新幹線の切符を買いましたか (similar/compare) vs. ei ole vielä tehty
+??
+まだ～ていません (ei ole vielä tehty) **まだ決めていません** (similar/compare) vs. jo tehty, ei vielä
+
+もうVました／まだです (jo tehty, ei vielä) もう新幹線の切符を買いましたか (similar/compare) vs. yhä, edelleen
+??
+まだ＋myönteinen (yhä, edelleen) 雨が**まだ**降っています (similar/compare) vs. jo tehty, ei vielä

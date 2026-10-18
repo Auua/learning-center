@@ -71,7 +71,18 @@ Odottamaton keskeytys tai häiriö.
 
 #flashcards/grammar/n3/vertailu
 
-Vている／Nの＋最中に／最中だ (keskella, parhaillaan) (similar) ::: Vているところに・ところへ (juuri kun) (similar)
-Vている／Nの＋最中に／最中だ (keskella, parhaillaan) (compare) ::: Vところです (kolme vaihetta) (compare)
-Vている／Nの＋最中に／最中だ (keskella, parhaillaan) (compare) ::: N中（ちゅう・じゅう） (aikana, koko) (compare)
-Vている／Nの＋最中に／最中だ (keskella, parhaillaan) (compare) ::: 途中で・途中に (matkalla, kesken) (compare)
+Vている／Nの＋最中に／最中だ (keskella, parhaillaan) 食事をしている**最中に**、電話が鳴った (similar) vs. juuri kun
+??
+Vているところに・ところへ (juuri kun) 出かけようとしている**ところへ**、電話がかかってきた (similar) vs. keskella, parhaillaan
+
+Vている／Nの＋最中に／最中だ (keskella, parhaillaan) 食事をしている**最中に**、電話が鳴った (compare) vs. kolme vaihetta
+??
+Vところです (kolme vaihetta) 会議は今から**始まるところです** (compare) vs. keskella, parhaillaan
+
+Vている／Nの＋最中に／最中だ (keskella, parhaillaan) 食事をしている**最中に**、電話が鳴った (compare) vs. aikana, koko
+??
+N中（ちゅう・じゅう） (aikana, koko) ただいま会議**中**です (compare) vs. keskella, parhaillaan
+
+Vている／Nの＋最中に／最中だ (keskella, parhaillaan) 食事をしている**最中に**、電話が鳴った (compare) vs. matkalla, kesken
+??
+途中で・途中に (matkalla, kesken) 駅へ行く**途中で**、友達に会った (compare) vs. keskella, parhaillaan

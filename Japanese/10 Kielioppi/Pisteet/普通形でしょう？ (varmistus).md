@@ -90,6 +90,14 @@ Nouseva (↗) olettaa kuulijan tietävän ja odottaa myöntävää vastausta; la
 
 #flashcards/grammar/n5/vertailu
 
-普通形でしょう？ (varmistus) (similar) ::: Sね (vahvistus, eikö niin) (similar)
-普通形でしょう？ (varmistus) (similar/compare) ::: 普通形でしょう (todennakoisyys) (similar/compare)
-普通形でしょう？ (varmistus) (similar/compare) ::: でしょ・だろ (puhekielinen varmistus) (similar/compare)
+普通形でしょう？ (varmistus) あしたパーティーに行く**でしょう**？ (similar) vs. vahvistus, eikö niin
+??
+Sね (vahvistus, eikö niin) 今日は暑いです**ね** (similar) vs. varmistus
+
+普通形でしょう？ (varmistus) あしたパーティーに行く**でしょう**？ (similar/compare) vs. todennakoisyys
+??
+普通形でしょう (todennakoisyys) あしたは雪が**降るでしょう** (similar/compare) vs. varmistus
+
+普通形でしょう？ (varmistus) あしたパーティーに行く**でしょう**？ (similar/compare) vs. puhekielinen varmistus
+??
+でしょ・だろ (puhekielinen varmistus) サッカーの練習に行くん**でしょ** (similar/compare) vs. kohtelias varmistus

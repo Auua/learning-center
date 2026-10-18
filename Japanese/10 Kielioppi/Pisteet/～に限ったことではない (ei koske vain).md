@@ -68,4 +68,6 @@ Sama ajatus; jälkimmäinen predikaattina.
 
 #flashcards/grammar/n1/vertailu
 
-N＋に限ったことではない (ei koske vain) (similar/compare) ::: ～に限らず (ei ainoastaan, ei rajoitu) (similar/compare)
+N＋に限ったことではない (ei koske vain) この問題は日本**に限ったことではない** (similar/compare) vs. ei ainoastaan, ei rajoitu
+??
+～に限らず (ei ainoastaan, ei rajoitu) このキャラクターは、子ども**に限らず**大人にも人気がある (similar/compare) vs. ei koske vain

@@ -71,6 +71,14 @@ Molemmat kieltoja; べからず on vanhahtava kylttikieli.
 
 #flashcards/grammar/n1/vertailu
 
-V辞書形＋べからず／べからざる (ei saa, kyltti) (similar) ::: Vべきだ (pitaisi tehda, velvollisuus) (similar)
-V辞書形＋べからず／べからざる (ei saa, kyltti) (similar/compare) ::: Vてはならない (ei saa, kirjallinen) (similar/compare)
-V辞書形＋べからず／べからざる (ei saa, kyltti) (similar/compare) ::: Vまじき (sopimaton, ei saisi) (similar/compare)
+V辞書形＋べからず／べからざる (ei saa, kyltti) ここで泳ぐ**べからず** (similar) vs. pitaisi tehda, velvollisuus
+??
+Vべきだ (pitaisi tehda, velvollisuus) 希望する人は全員保育所に入れるようにする**べきです** (similar) vs. ei saa, kyltti
+
+V辞書形＋べからず／べからざる (ei saa, kyltti) ここで泳ぐ**べからず** (similar/compare) vs. ei saa, kirjallinen
+??
+Vてはならない (ei saa, kirjallinen) 嘘をつい**てはならない** (similar/compare) vs. ei saa, kyltti
+
+V辞書形＋べからず／べからざる (ei saa, kyltti) ここで泳ぐ**べからず** (similar/compare) vs. sopimaton, ei saisi
+??
+Vまじき (sopimaton, ei saisi) 教師**にあるまじき**行為 (similar/compare) vs. ei saa, kyltti

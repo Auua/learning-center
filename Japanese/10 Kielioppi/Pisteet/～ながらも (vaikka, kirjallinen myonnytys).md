@@ -71,8 +71,22 @@ Ensimmäinen = samanaikaisuus; jälkimmäinen = myönnytys (vaikka).
 
 #flashcards/grammar/n3/vertailu
 
-V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (similar/compare) ::: 普通形ながら (myonnytys, vaikka) (similar/compare)
-V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (similar) ::: ～ものの (vaikka kylla) (similar)
-V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (similar) ::: ～つつ (samalla kun, vaikka) (similar)
-V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (similar) ::: ～ことは～が (kylla mutta) (similar)
-V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) (compare) ::: ～くせに (vaikka, moittiva) (compare)
+V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (similar/compare) vs. myönnytys "vaikka"
+??
+普通形ながら (myonnytys, vaikka) 先生は、事件のことを知ってい**ながら**、何も言わなかった (similar/compare) vs. kirjallinen "vaikka"
+
+V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (similar) vs. vaikka kylla
+??
+～ものの (vaikka kylla) 買った**ものの**、一度も使っていない (similar) vs. vaikka, kirjallinen myonnytys
+
+V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (similar) vs. samalla kun, vaikka
+??
+～つつ (samalla kun, vaikka) 景色を楽しみ**つつ**、歩いた (similar) vs. vaikka, kirjallinen myonnytys
+
+V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (similar) vs. kylla mutta
+??
+～ことは～が (kylla mutta) 行く**ことは**行く**が**、遅れるかもしれない (similar) vs. vaikka, kirjallinen myonnytys
+
+V(ます-vartalo)／Adj／N＋ながらも (vaikka, kirjallinen myonnytys) 知り**ながらも**、何も言わなかった (compare) vs. vaikka, moittiva
+??
+～くせに (vaikka, moittiva) 知っている**くせに**、教えてくれない (compare) vs. vaikka, kirjallinen myonnytys

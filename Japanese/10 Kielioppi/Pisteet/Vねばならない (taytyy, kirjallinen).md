@@ -70,4 +70,6 @@ Sama merkitys; ねば on kirjallinen ja juhlava.
 
 #flashcards/grammar/n2/vertailu
 
-V(ない-vartalo)＋ねばならない（ねばならぬ） (taytyy, kirjallinen) (similar/compare) ::: Vなければ なりません (velvollisuus) (similar/compare)
+V(ない-vartalo)＋ねばならない（ねばならぬ） (taytyy, kirjallinen) 我々は努力せ**ねばならない** (similar/compare) vs. velvollisuus
+??
+Vなければ なりません (velvollisuus) 薬を飲ま**なければなりません** (similar/compare) vs. taytyy, kirjallinen

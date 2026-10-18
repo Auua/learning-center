@@ -70,4 +70,6 @@ Paikaltaan liikkumatta.
 
 #flashcards/grammar/n1/vertailu
 
-N／V(ます-vartalo)＋ながらに／ながらの (sellaisenaan, -tilassa) (similar/compare) ::: ～まま・～のまま (muuttumaton tila) (similar/compare)
+N／V(ます-vartalo)＋ながらに／ながらの (sellaisenaan, -tilassa) 涙**ながらに**語った (similar/compare) vs. muuttumaton tila
+??
+～まま・～のまま (muuttumaton tila) **靴をはいたまま**、部屋に入らないでください (similar/compare) vs. sellaisenaan, -tilassa

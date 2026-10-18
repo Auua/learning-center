@@ -71,5 +71,10 @@ Vaivasta huolimatta, turhaan.
 
 #flashcards/grammar/n2/vertailu
 
-V辞書形／Vた／Nの＋甲斐がある（甲斐がない） (kannattaa, palkitsee) (similar/compare) ::: ～甲斐もなく (turhaan, vaivasta huolimatta) (similar/compare)
-V辞書形／Vた／Nの＋甲斐がある（甲斐がない） (kannattaa, palkitsee) (compare) ::: ～だけのことはある (ei ihme, odotetusti) (compare)
+V辞書形／Vた／Nの＋甲斐がある（甲斐がない） (kannattaa, palkitsee) 頑張った**甲斐があって**、合格した (similar/compare) vs. turhaan, vaivasta huolimatta
+??
+～甲斐もなく (turhaan, vaivasta huolimatta) 頑張った**甲斐もなく**、負けてしまった (similar/compare) vs. kannattaa, palkitsee
+
+V辞書形／Vた／Nの＋甲斐がある（甲斐がない） (kannattaa, palkitsee) 頑張った**甲斐があって**、合格した (compare) vs. ei ihme, odotetusti
+??
+～だけのことはある (ei ihme, odotetusti) 高い**だけのことはある** (compare) vs. kannattaa, palkitsee

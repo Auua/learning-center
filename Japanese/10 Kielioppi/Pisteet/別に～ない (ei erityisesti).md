@@ -70,6 +70,14 @@ Töksähtävältä tai välinpitämättömältä.
 
 #flashcards/grammar/n3/vertailu
 
-別に＋kielto (ei erityisesti) (similar) ::: とても・あまり (hyvin, ei kovin) (similar)
-別に＋kielto (ei erityisesti) (similar/compare) ::: めったに～ない (harvoin) (similar/compare)
-別に＋kielto (ei erityisesti) (similar) ::: とても～ない (ei mitenkaan) (similar)
+別に＋kielto (ei erityisesti) **別に**困って**いない** (similar) vs. hyvin, ei kovin
+??
+とても・あまり (hyvin, ei kovin) ペキンは**とても**寒いです (similar) vs. ei erityisesti
+
+別に＋kielto (ei erityisesti) **別に**困って**いない** (similar/compare) vs. harvoin
+??
+めったに～ない (harvoin) 父は**めったに**怒ら**ない** (similar/compare) vs. ei erityisesti
+
+別に＋kielto (ei erityisesti) **別に**困って**いない** (similar) vs. ei mitenkaan
+??
+とても～ない (ei mitenkaan) こんなに多い宿題は、**とても**一日では終わら**ない** (similar) vs. ei erityisesti

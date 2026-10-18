@@ -71,6 +71,14 @@ Lähes samat; ごとに korostaa kasvavaa muutosta joka kerta, たびに jokaist
 
 #flashcards/grammar/n3/vertailu
 
-N／V(辞書形)＋ごとに (joka, kunkin) (compare) ::: ～おきに (valein, joka toinen) (compare)
-N／V(辞書形)＋ごとに (joka, kunkin) (compare) ::: Vたびに (aina kun) (compare)
-N／V(辞書形)＋ごとに (joka, kunkin) (compare) ::: Nずつ (kukin, kerrallaan) (compare)
+N／V(辞書形)＋ごとに (joka, kunkin) 3時間**ごとに**薬を飲む (compare) vs. valein, joka toinen
+??
+～おきに (valein, joka toinen) 1日**おきに**ジョギングします (compare) vs. joka, kunkin
+
+N／V(辞書形)＋ごとに (joka, kunkin) 3時間**ごとに**薬を飲む (compare) vs. aina kun
+??
+Vたびに (aina kun) 隣のうちのお嬢さんは会う**たびに**きれいになっている (compare) vs. joka, kunkin
+
+N／V(辞書形)＋ごとに (joka, kunkin) 3時間**ごとに**薬を飲む (compare) vs. kukin, kerrallaan
+??
+Nずつ (kukin, kerrallaan) 一人に2枚**ずつ**配ります (compare) vs. joka, kunkin

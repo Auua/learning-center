@@ -68,5 +68,10 @@ Minkä rakenteen kanssa ことにはならない esiintyy usein?
 
 #flashcards/grammar/n2/vertailu
 
-普通形＋ことにはならない (ei tarkoita etta) (similar/compare) ::: 普通形からといって (vaikka onkin niin) (similar/compare)
-普通形＋ことにはならない (ei tarkoita etta) (similar) ::: 普通形わけではない (ei tarkoita etta aina) (similar)
+普通形＋ことにはならない (ei tarkoita etta) 謝っただけでは、許された**ことにはならない** (similar/compare) vs. vaikka onkin niin
+??
+普通形からといって (vaikka onkin niin) 外国人だ**からといって**、わがままは言えません (similar/compare) vs. ei tarkoita etta
+
+普通形＋ことにはならない (ei tarkoita etta) 謝っただけでは、許された**ことにはならない** (similar) vs. "ei tarkoita että aina"
+??
+普通形わけではない (ei tarkoita etta aina) 田中さんは会社の中にいる**わけではない** (similar) vs. "ei tarkoita että"

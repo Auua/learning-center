@@ -87,8 +87,22 @@ Miten お～する eroaa kaavasta お～になる?
 
 #flashcards/grammar/n3/vertailu
 
-お～する (nöyrä oma teko) (similar) ::: お～になる (kunnioittava toisen teko) (similar)
-お～する (nöyrä oma teko) (similar) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar)
-お～する (nöyrä oma teko) (compare) ::: Keigo — kartta (compare)
-お～する (nöyrä oma teko) (similar/compare) ::: 特別謙譲語 (erityiset nöyrät verbit) (similar/compare)
-お～する (nöyrä oma teko) (similar) ::: 丁寧語 (ございます・でございます・よろしいでしょうか) (similar)
+お～する (nöyrä oma teko) 荷物を**お持ちします** (similar) vs. kunnioittava toisen teko
+??
+お～になる (kunnioittava toisen teko) 社長はもう**お帰りになりました** (similar) vs. nöyrä oma teko
+
+お～する (nöyrä oma teko) 荷物を**お持ちします** (similar) vs. kohtelias pyyntö, kiitollisuus
+??
+ご～いただく (kohtelias pyyntö, kiitollisuus) 書類を**ご確認いただけ**ますか (similar) vs. nöyrä oma teko
+
+お～する (nöyrä oma teko) 荷物を**お持ちします** (compare) vs. keigon kokonaiskartta
+??
+Keigo — kartta 先生が**いらっしゃいました** (compare) vs. nöyrä oma teko
+
+お～する (nöyrä oma teko) 荷物を**お持ちします** (similar/compare) vs. erityiset nöyrät verbit
+??
+特別謙譲語 (erityiset nöyrät verbit) 日本から**参りました** (similar/compare) vs. nöyrä oma teko
+
+お～する (nöyrä oma teko) 荷物を**お持ちします** (similar) vs. ございます・でございます・よろしいでしょうか
+??
+丁寧語 (ございます・でございます・よろしいでしょうか) 電話は階段の横に**ございます** (similar) vs. nöyrä oma teko

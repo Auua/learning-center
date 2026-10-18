@@ -92,7 +92,18 @@ Pelkkä か (疑問詞＋か); かどうか on kyllä/ei-kysymyksille.
 
 #flashcards/grammar/n4/vertailu
 
-普通形かどうか (jompikumpi, epavarmuus) (similar/compare) ::: 疑問詞＋か (upotettu kysymys) (similar/compare)
-普通形かどうか (jompikumpi, epavarmuus) (similar/compare) ::: ～か否か (vai eiko, kirjallinen) (similar/compare)
-普通形かどうか (jompikumpi, epavarmuus) (compare) ::: ～のやら～のやら (onko A vai B, en tieda) (compare)
-普通形かどうか (jompikumpi, epavarmuus) (similar/compare) ::: ようか～まいか (tehdako vai ei) (similar/compare)
+普通形かどうか (jompikumpi, epavarmuus) 台風9号は東京へ**来るかどうか**、まだわかりません (similar/compare) vs. upotettu kysymys
+??
+疑問詞＋か (upotettu kysymys) **何時に着くか**、調べてください (similar/compare) vs. jompikumpi, epavarmuus
+
+普通形かどうか (jompikumpi, epavarmuus) 台風9号は東京へ**来るかどうか**、まだわかりません (similar/compare) vs. vai eiko, kirjallinen
+??
+～か否か (vai eiko, kirjallinen) 参加する**か否か**、決めてください (similar/compare) vs. jompikumpi, epavarmuus
+
+普通形かどうか (jompikumpi, epavarmuus) 台風9号は東京へ**来るかどうか**、まだわかりません (compare) vs. onko A vai B, en tieda
+??
+～のやら～のやら (onko A vai B, en tieda) 行く**のやら**行かない**のやら**、はっきりしない (compare) vs. jompikumpi, epavarmuus
+
+普通形かどうか (jompikumpi, epavarmuus) 台風9号は東京へ**来るかどうか**、まだわかりません (similar/compare) vs. tehdako vai ei
+??
+ようか～まいか (tehdako vai ei) 行こう**か**行く**まいか**迷っている (similar/compare) vs. jompikumpi, epavarmuus
