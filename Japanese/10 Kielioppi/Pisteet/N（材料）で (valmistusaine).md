@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "N(materiaali)で作る"
+ja: N(materiaali)で作る
 reading: de
 jlpt: N4
-func: [materiaali, valmistus]
-attaches: ["substantiivi"]
+func:
+  - materiaali
+  - valmistus
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Nから作られます (raaka-aine)]]", "[[N (väline) で]]"]
-compare: ["[[Nから作られます (raaka-aine)]]"]
-sources: ["[[Minna no Nihongo II#Luku 37]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Nから作られます (raaka-aine)]]"
+  - "[[N (väline) で]]"
+compare:
+  - "[[Nから作られます (raaka-aine)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 37]]"
+status: known
+confidence: 4
 reviewed:
 created: 2026-10-17
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

@@ -1,6 +1,6 @@
 ---
 type: grammar
-ja: "…のは N です"
+ja: …のは N です
 reading: ...no wa N desu
 jlpt: N4
 func:
@@ -20,8 +20,8 @@ compare:
   - "[[～のは～からだ (syy predikaattina)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 38]]"
-status: new
-confidence: 1
+status: shaky
+confidence: 4
 reviewed:
 created: 2026-09-05
 tags:
@@ -37,12 +37,13 @@ tags:
 - **EN:** it is ~ that ~ / the one who ~ is ~
 
 ## Muodostus
-| Kaava | Korostettu osa | Esimerkki |
-|---|---|---|
-| V(た形) + のは + N(aika) + です | ajankohta | わたしが日本へ来た**のは**去年の3月**です**。 |
-| V(た形) + のは + N(paikka) + です | paikka | 娘が生まれた**のは**北海道の小さな町**です**。 |
-| A/V(普通形) + のは + N + です | asia | 1年でいちばん忙しい**のは**12月**です**。 |
-| V(辞書形) + のは + N(henkilö) + です | tekijä | 料理を作る**のは**父**です**。 |
+| Kaava                         | Korostettu osa | Esimerkki                   |
+| ----------------------------- | -------------- | --------------------------- |
+| V(た形) + のは + N(aika) + です     | ajankohta      | わたしが日本へ来た**のは**去年の3月**です**。 |
+| V(た形) + のは + N(paikka) + です   | paikka         | 娘が生まれた**のは**北海道の小さな町**です**。 |
+| いA/V(普通形) + のは + N + です       | asia           | 1年でいちばん忙しい**のは**12月**です**。  |
+| V(辞書形) + のは + N(henkilö) + です | tekijä         | 料理を作る**のは**父**です**。         |
+| なA/N(普通形) + なのは + N + です      | asia           | 料理の中で一番好き**なのは**お寿司**です。**  |
 
 Käytetyt taivutusmuodot: [[普通形 (puhekielinen perusmuoto)]] + の
 
@@ -73,10 +74,11 @@ Miksi sivulauseessa on が eikä は?
 
 #flashcards/grammar/n4/muodostus
 
-～のはNです + korostettu ajankohta :: V(た形) + のは + N(aika) + です. Esim. わたしが日本へ来たのは去年の3月です。
-～のはNです + korostettu paikka :: V(た形) + のは + N(paikka) + です. Esim. 娘が生まれたのは北海道の小さな町です。
-～のはNです + korostettu asia :: A/V(普通形) + のは + N + です. Esim. 1年でいちばん忙しいのは12月です。
-～のはNです + korostettu tekijä :: V(辞書形) + のは + N(henkilö) + です. Esim. 料理を作るのは父です。
+Vた～のはNです + korostettu ajankohta :: V(た形) + のは + N(aika) + です. Esim. わたしが日本へ来たのは去年の3月です。
+Vた～のはNです + korostettu paikka :: V(た形) + のは + N(paikka) + です. Esim. 娘が生まれたのは北海道の小さな町です。
+いA～のはNです + korostettu asia :: いA/V(普通形) + のは + N + です. Esim. 1年でいちばん忙しいのは12月です。
+V～のはNです + korostettu tekijä :: V(辞書形) + のは + N(henkilö) + です. Esim. 料理を作るのは父です。
+なA・N～のはNです + korostettu asia :: なA/N(普通形) + なのは + N + です. Esim. このレストランのおすすめなのはカレーです。
 
 #flashcards/grammar/n4/nyanssi
 

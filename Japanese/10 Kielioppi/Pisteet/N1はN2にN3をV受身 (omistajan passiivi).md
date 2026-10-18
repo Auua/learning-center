@@ -1,20 +1,32 @@
 ---
 type: grammar
-ja: "N1（人）はN2（人）にN3（N1の物・体の一部）をV受身形"
+ja: N1（人）はN2（人）にN3（N1の物・体の一部）をV受身形
 reading: wa … ni … o (ra)reru
 jlpt: N4
-func: [passiivi, haitta, omistaja]
-attaches: ["[[Passiivi (ら)れる]]"]
+func:
+  - passiivi
+  - haitta
+  - omistaja
+attaches:
+  - "[[Passiivi (ら)れる]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N1はN2にV受身 (suora passiivi)]]", "[[NがV受身 (asiasubjektin passiivi)]]"]
-compare: ["[[N1はN2にV受身 (suora passiivi)]]"]
-sources: ["[[Minna no Nihongo II#Luku 37]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N1はN2にV受身 (suora passiivi)]]"
+  - "[[NがV受身 (asiasubjektin passiivi)]]"
+compare:
+  - "[[N1はN2にV受身 (suora passiivi)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 37]]"
+status: shaky
+confidence: 3
 reviewed:
 created: 2026-10-18
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "N(raaka-aine)から作られます／造られます"
+ja: N(raaka-aine)から作られます／造られます
 reading: kara tsukuraremasu
 jlpt: N4
-func: [passiivi, valmistus]
-attaches: ["[[Passiivi (ら)れる]]"]
+func:
+  - passiivi
+  - valmistus
+attaches:
+  - "[[Passiivi (ら)れる]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[N（材料）で (valmistusaine)]]", "[[NがV受身 (asiasubjektin passiivi)]]"]
-compare: ["[[N（材料）で (valmistusaine)]]"]
-sources: ["[[Minna no Nihongo II#Luku 37]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[N（材料）で (valmistusaine)]]"
+  - "[[NがV受身 (asiasubjektin passiivi)]]"
+compare:
+  - "[[N（材料）で (valmistusaine)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 37]]"
+status: shaky
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

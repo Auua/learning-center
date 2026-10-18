@@ -1,20 +1,33 @@
 ---
 type: grammar
-ja: "～とき＋に／も／は／の／や"
+ja: ～とき＋に／も／は／の／や
 reading: toki ni / toki mo / toki no
 jlpt: N4
-func: [aika, partikkeli, nominalisointi]
-attaches: ["[[普通形 (puhekielinen perusmuoto)]]", "substantiivi"]
+func:
+  - aika
+  - partikkeli
+  - nominalisointi
+attaches:
+  - "[[普通形 (puhekielinen perusmuoto)]]"
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[V・adjとき (silloin kun)]]", "[[Vのは・Vのが・Vのを (nominalisointi)]]"]
-compare: ["[[V・adjとき (silloin kun)]]"]
-sources: ["[[Minna no Nihongo II#Luku 38]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[V・adjとき (silloin kun)]]"
+  - "[[Vのは・Vのが・Vのを (nominalisointi)]]"
+compare:
+  - "[[V・adjとき (silloin kun)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 38]]"
+status: known
+confidence: 4
 reviewed:
 created: 2026-10-18
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

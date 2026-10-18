@@ -1,12 +1,17 @@
 ---
 type: grammar
-ja: "V辞書形＋の"
+ja: V辞書形＋の
 reading: no
 jlpt: N4
-func: [nominalisointi]
-attaches: ["[[Sanakirjamuoto]]", "[[た-muoto]]"]
+func:
+  - nominalisointi
+attaches:
+  - "[[Sanakirjamuoto]]"
+  - "[[た-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar:
   - "[[Vこと (nominalisointi, abstrakti tekeminen)]]"
   - "[[ます-vartalo substantiivina (連用形名詞)]]"
@@ -22,12 +27,15 @@ compare:
   - "[[Vertailu — の vs. こと (nominalisointi)]]"
   - "[[～ことは・が・を (yleistys ja arvottaminen)]]"
   - "[[～のは Nです (korostusrakenne, cleft)]]"
-sources: ["[[Minna no Nihongo II#Luku 38]]"]
-status: new
-confidence: 1
+sources:
+  - "[[Minna no Nihongo II#Luku 38]]"
+status: known
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

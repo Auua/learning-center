@@ -1,20 +1,35 @@
 ---
 type: grammar
-ja: "N（物・事）が／はV受身形"
+ja: N（物・事）が／はV受身形
 reading: ga (ra)reru
 jlpt: N4
-func: [passiivi, tosiasia, kuvaus]
-attaches: ["[[Passiivi (ら)れる]]"]
+func:
+  - passiivi
+  - tosiasia
+  - kuvaus
+attaches:
+  - "[[Passiivi (ら)れる]]"
 formality: neutral
-register: [kirjoitettu, puhuttu]
-similar: ["[[〜によって (tekijan merkitseminen, luova teko)]]", "[[N1はN2にV受身 (suora passiivi)]]", "[[Nから作られます (raaka-aine)]]", "[[N1はN2にN3をV受身 (omistajan passiivi)]]"]
-compare: ["[[〜によって (tekijan merkitseminen, luova teko)]]", "[[N1はN2にV受身 (suora passiivi)]]"]
-sources: ["[[Minna no Nihongo II#Luku 37]]"]
-status: new
-confidence: 1
+register:
+  - kirjoitettu
+  - puhuttu
+similar:
+  - "[[〜によって (tekijan merkitseminen, luova teko)]]"
+  - "[[N1はN2にV受身 (suora passiivi)]]"
+  - "[[Nから作られます (raaka-aine)]]"
+  - "[[N1はN2にN3をV受身 (omistajan passiivi)]]"
+compare:
+  - "[[〜によって (tekijan merkitseminen, luova teko)]]"
+  - "[[N1はN2にV受身 (suora passiivi)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 37]]"
+status: shaky
+confidence: 3
 reviewed:
 created: 2026-10-18
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
