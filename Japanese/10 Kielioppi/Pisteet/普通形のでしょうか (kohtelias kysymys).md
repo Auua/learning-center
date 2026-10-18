@@ -7,8 +7,8 @@ func: [kysymys, kohteliaisuus, pohdinta]
 attaches: ["[[普通形 (puhekielinen perusmuoto)]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]"]
-compare: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]", "[[普通形んです (selittävä sävy)]]"]
+similar: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]", "[[Nはどうでしょうか (kohtelias tiedustelu)]]"]
+compare: ["[[普通形のだろうか (kirjallinen pohdiskeleva kysymys)]]", "[[普通形んです (selittävä sävy)]]", "[[Nはどうでしょうか (kohtelias tiedustelu)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -73,3 +73,4 @@ Sama rakenne; でしょうか kohtelias (kuulijalle), だろうか pohdinta itse
 
 普通形（な-adj/N な）＋のでしょうか (kohtelias kysymys) (similar/compare) ::: 普通形のだろうか (kirjallinen pohdiskeleva kysymys) (similar/compare)
 普通形（な-adj/N な）＋のでしょうか (kohtelias kysymys) (compare) ::: 普通形んです (selittävä sävy) (compare)
+普通形（な-adj/N な）＋のでしょうか (kohtelias kysymys) (similar/compare) ::: Nはどうでしょうか (kohtelias tiedustelu) (similar/compare)

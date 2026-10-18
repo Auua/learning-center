@@ -7,8 +7,8 @@ func: [kayttotarkoitus, kulutus]
 attaches: ["[[Sanakirjamuoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vのは・Vのが・Vのを (nominalisointi)]]", "[[普通形のに (vaikka, pettymys)]]"]
-compare: ["[[普通形のに (vaikka, pettymys)]]"]
+similar: ["[[Vのは・Vのが・Vのを (nominalisointi)]]", "[[普通形のに (vaikka, pettymys)]]", "[[N（tilaisuus）に (お祝いに, lahjan tarkoitus)]]"]
+compare: ["[[普通形のに (vaikka, pettymys)]]", "[[N（tilaisuus）に (お祝いに, lahjan tarkoitus)]]"]
 sources: ["[[Minna no Nihongo II#Luku 42]]"]
 status: new
 confidence: 1
@@ -86,3 +86,4 @@ Miten Vのに (käyttötarkoitus) eroaa muodosta 普通形のに?
 
 V辞書形のに (kayttotarkoitus, kulutus) (similar) ::: Vのは・Vのが・Vのを (nominalisointi) (similar)
 V辞書形のに (kayttotarkoitus, kulutus) (similar/compare) ::: 普通形のに (vaikka, pettymys) (similar/compare)
+V辞書形のに (kayttotarkoitus, kulutus) (similar/compare) ::: N（tilaisuus）に (お祝いに, lahjan tarkoitus) (similar/compare)

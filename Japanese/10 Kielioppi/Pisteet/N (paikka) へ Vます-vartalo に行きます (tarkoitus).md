@@ -14,6 +14,7 @@ register:
   - kirjoitettu
 similar:
   - "[[Liikkumisen partikkelit (へ・で・と)]]"
+  - "[[N（tilaisuus）に (お祝いに, lahjan tarkoitus)]]"
 compare:
 sources:
   - "[[Minna no Nihongo I#Luku 13]]"
@@ -81,3 +82,4 @@ Mitä kaksi partikkelia へ ja に tekevät N（場所）へVます-vartalo に�
 #flashcards/grammar/n5/vertailu
 
 N（場所）へVます-vartalo に行きます／来ます／帰ります (tarkoitus) (similar) ::: Liikkumisen partikkelit (へ・で・と) (similar)
+N（場所）へVます-vartalo に行きます／来ます／帰ります (tarkoitus) (similar) ::: N（tilaisuus）に (お祝いに, lahjan tarkoitus) (similar)

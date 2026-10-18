@@ -11,8 +11,8 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
-compare: ["[[疑問詞＋も＋ない (ei mitaan, ei kukaan)]]"]
+similar: ["[[どこか・なにか (jokin paikka, jokin asia)]]"]
+compare: ["[[疑問詞＋も＋ない (ei mitaan, ei kukaan)]]", "[[どこか・なにか (jokin paikka, jokin asia)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 29]]"
 status: known
@@ -84,3 +84,4 @@ Miten どこか eroaa どこでも:sta?
 #flashcards/grammar/n4/vertailu
 
 どこかで・どこかに (epamaarainen paikka) (compare) ::: 疑問詞＋も＋ない (ei mitaan, ei kukaan) (compare)
+どこかで・どこかに (epamaarainen paikka) (similar/compare) ::: どこか・なにか (jokin paikka, jokin asia) (similar/compare)

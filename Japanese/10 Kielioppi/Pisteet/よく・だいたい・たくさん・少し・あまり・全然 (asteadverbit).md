@@ -16,6 +16,7 @@ register:
 similar:
   - "[[とても・あまり (hyvin, ei kovin)]]"
   - "[[めったに～ない (harvoin)]]"
+  - "[[きっと・たぶん・もしかしたら (varmuusasteet)]]"
 compare:
   - "[[全く～ない (ei lainkaan)]]"
 sources:
@@ -99,3 +100,4 @@ Miten kuuden asteadverbin asteikko eroaa parista とても・あまり?
 よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: とても・あまり (hyvin, ei kovin) (similar)
 よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: めったに～ない (harvoin) (similar)
 よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (compare) ::: 全く～ない (ei lainkaan) (compare)
+よく／だいたい／たくさん／少し／あまり／全然 (asteadverbit) (similar) ::: きっと・たぶん・もしかしたら (varmuusasteet) (similar)

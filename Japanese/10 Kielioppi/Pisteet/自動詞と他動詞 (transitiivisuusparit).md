@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "自動詞（Nが V）・他動詞（Nを V）"
+ja: 自動詞（Nが V）・他動詞（Nを V）
 reading: jidoushi / tadoushi
 jlpt: N4
-func: [transitiivisuus, tila]
-attaches: ["substantiivi"]
+func:
+  - transitiivisuus
+  - tila
+attaches:
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[自動詞＋ている (jaljelle jaanyt tila)]]", "[[Vてあります (tarkoituksella tehty tila)]]"]
-compare: ["[[Vてあります (tarkoituksella tehty tila)]]"]
-sources: ["[[JLPT Sensei#N4]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[自動詞＋ている (jaljelle jaanyt tila)]]"
+  - "[[Vてあります (tarkoituksella tehty tila)]]"
+compare:
+  - "[[Vてあります (tarkoituksella tehty tila)]]"
+sources:
+  - "[[JLPT Sensei#N4]]"
+status: learning
+confidence: 2
 reviewed:
 created: 2026-10-17
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin
@@ -60,8 +71,8 @@ Mikä on 消える:n transitiivipari?
 
 #flashcards/grammar/n4/muodostus
 
-自動詞 :: Nが V, asia tapahtuu. Esim. ドアが開く
-他動詞 :: Nを V, joku tekee. Esim. ドアを開ける
+自動詞 (intransitiivi) :: Nが V, asia tapahtuu. Esim. ドアが開く
+他動詞 (transitiivi) :: Nを V, joku tekee. Esim. ドアを開ける
 
 #flashcards/grammar/n4/nyanssi
 

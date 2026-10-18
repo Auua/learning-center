@@ -15,7 +15,10 @@ register:
   - kirjoitettu
 similar:
   - "[[Keigo — kartta]]"
+  - "[[N1にN2をやります (antaa alaspäin)]]"
+  - "[[N（tilaisuus）に (お祝いに, lahjan tarkoitus)]]"
 compare:
+  - "[[N1にN2をやります (antaa alaspäin)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 7]]"
 status: learning
@@ -86,3 +89,5 @@ Aina vastaanottajan tai lähteen, ei lauseen aihetta.
 #flashcards/grammar/n5/vertailu
 
 N（人）にあげます／もらいます (N (人) に あげます・もらいます) (similar) ::: Keigo — kartta (similar)
+N（人）にあげます／もらいます (N (人) に あげます・もらいます) (similar/compare) ::: N1にN2をやります (antaa alaspäin) (similar/compare)
+N（人）にあげます／もらいます (N (人) に あげます・もらいます) (similar) ::: N（tilaisuus）に (お祝いに, lahjan tarkoitus) (similar)

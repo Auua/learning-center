@@ -9,7 +9,7 @@ formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[ます-vartalo substantiivina (連用形名詞)]]"]
 compare: ["[[Vこと (nominalisointi, abstrakti tekeminen)]]"]
-sources: ["[[JLPT Sensei#N4]]"]
+sources: ["[[JLPT Sensei#N4]]", "[[Minna no Nihongo II#Luku 40]]"]
 status: new
 confidence: 1
 reviewed:

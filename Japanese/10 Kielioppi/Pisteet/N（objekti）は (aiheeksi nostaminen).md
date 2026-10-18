@@ -16,8 +16,10 @@ register:
 similar:
   - "[[Nを V (objekti)]]"
   - "[[Nは～が、Nは～ (kontrastin は)]]"
+  - "[[N＋partikkeli＋は (kontrasti ja aihe, では・には・へは)]]"
 compare:
   - "[[Nが (subjektipartikkeli, uusi tieto)]]"
+  - "[[N＋partikkeli＋は (kontrasti ja aihe, では・には・へは)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 17]]"
   - "[[Minna no Nihongo II#Luku 26]]"
@@ -77,3 +79,4 @@ Kyllä: スポーツはあまり好きじゃないんです — implikoi vastako
 N（objekti）は (aiheeksi nostaminen) (similar) ::: Nを V (objekti) (similar)
 N（objekti）は (aiheeksi nostaminen) (similar) ::: Nは～が、Nは～ (kontrastin は) (similar)
 N（objekti）は (aiheeksi nostaminen) (compare) ::: Nが (subjektipartikkeli, uusi tieto) (compare)
+N（objekti）は (aiheeksi nostaminen) (similar/compare) ::: N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) (similar/compare)

@@ -7,9 +7,9 @@ func: [kielto, kokonaisuus]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Nも (myos, sama patee)]]"]
-compare: ["[[どこかで・どこかに (epamaarainen paikka)]]"]
-sources: ["[[JLPT Sensei#N5]]"]
+similar: ["[[Nも (myos, sama patee)]]", "[[どこか・なにか (jokin paikka, jokin asia)]]"]
+compare: ["[[どこかで・どこかに (epamaarainen paikka)]]", "[[どこか・なにか (jokin paikka, jokin asia)]]"]
+sources: ["[[JLPT Sensei#N5]]", "[[Minna no Nihongo I#Luku 5]]"]
 status: new
 confidence: 1
 reviewed:
@@ -84,3 +84,4 @@ Kaikki: だれも知っている = kaikki tietävät.
 
 疑問詞＋（partikkeli）＋も＋kielto (ei mitaan, ei kukaan) (similar) ::: Nも (myos, sama patee) (similar)
 疑問詞＋（partikkeli）＋も＋kielto (ei mitaan, ei kukaan) (compare) ::: どこかで・どこかに (epamaarainen paikka) (compare)
+疑問詞＋（partikkeli）＋も＋kielto (ei mitaan, ei kukaan) (similar/compare) ::: どこか・なにか (jokin paikka, jokin asia) (similar/compare)

@@ -7,7 +7,7 @@ func: [ehto, yleinen-totuus, hypoteesi]
 attaches: ["[[Ehtomuoto ば]]"]
 formality: neutral
 register: [kirjoitettu, puhuttu]
-similar: ["[[～たら (jos, kun)]]", "[[～と (aina kun, väistämätön seuraus)]]", "[[～なら (jos kerran)]]", "[[Vertailu — たら・ば + ta (kontrafaktuaalinen)]]"]
+similar: ["[[～たら (jos, kun)]]", "[[～と (aina kun, väistämätön seuraus)]]", "[[～なら (jos kerran)]]", "[[Vertailu — たら・ば + ta (kontrafaktuaalinen)]]", "[[疑問詞＋Vばいいですか (neuvon kysyminen ば)]]"]
 compare: "[[Vertailu — Ehtolauseet と・ば・たら・なら]]"
 sources: ["[[Genki II]]", "[[Bunpro]]", "[[Tae Kim — Guide to Japanese]]", "[[Minna no Nihongo II#Luku 35]]", "[[Minna no Nihongo Chuukyuu I#Luku 9]]"]
 status: learning
@@ -95,3 +95,4 @@ Siihen mitä vaaditaan, jotta B toteutuu ("riittääkö tämä, jotta B?"); loog
 ～ば (jos, ehto) kerran (similar) ::: ～なら (jos kerran) (similar)
 ～ば (jos, ehto) Kontrafaktuaalinen (similar) ::: Vertailu — たら・ば + ta (kontrafaktuaalinen) (similar)
 ～ば (jos, ehto) (compare) ::: Vertailu — Ehtolauseet と・ば・たら・なら (compare)
+～ば (jos, ehto) (similar) ::: 疑問詞＋Vばいいですか (neuvon kysyminen ば) (similar)

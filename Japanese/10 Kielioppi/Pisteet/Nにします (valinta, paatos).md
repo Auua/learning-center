@@ -9,7 +9,7 @@ formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: []
 compare: ["[[～くします・～にします (tahallinen muutos)]]", "[[ことにする・ことにしている (oma paatos)]]"]
-sources: ["[[JLPT Sensei#N5]]"]
+sources: ["[[JLPT Sensei#N5]]", "[[Minna no Nihongo II#Luku 44]]"]
 status: new
 confidence: 1
 reviewed:

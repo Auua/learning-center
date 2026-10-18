@@ -7,7 +7,7 @@ func: [kontrasti, vertailu]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[N（objekti）は (aiheeksi nostaminen)]]", "[[S1が、S2 (mutta)]]"]
+similar: ["[[N（objekti）は (aiheeksi nostaminen)]]", "[[S1が、S2 (mutta)]]", "[[N＋partikkeli＋は (kontrasti ja aihe, では・には・へは)]]"]
 compare: ["[[Nが (subjektipartikkeli, uusi tieto)]]"]
 sources: ["[[JLPT Sensei#N4]]"]
 status: new
@@ -74,3 +74,4 @@ Kontrastia: lukea osaan, mutta kirjoittaa en (tai muuta en).
 N1は～が、N2は～ (kontrastin は) (similar) ::: N（objekti）は (aiheeksi nostaminen) (similar)
 N1は～が、N2は～ (kontrastin は) (similar) ::: S1が、S2 (mutta) (similar)
 N1は～が、N2は～ (kontrastin は) (compare) ::: Nが (subjektipartikkeli, uusi tieto) (compare)
+N1は～が、N2は～ (kontrastin は) (similar) ::: N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) (similar)

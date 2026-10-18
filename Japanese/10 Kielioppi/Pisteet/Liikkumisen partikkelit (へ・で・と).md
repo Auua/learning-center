@@ -16,8 +16,11 @@ register:
 similar:
   - "[[N1とN2 (ja)]]"
   - "[[N (ryhmä, määrä, aika) で]]"
+  - "[[Nに入ります・Nを出ます (sisään ja ulos)]]"
+  - "[[Nを (kulkureitti, läpi ja yli)]]"
 compare:
   - "[[N (ryhmä, määrä, aika) で]]"
+  - "[[Nに入ります・Nを出ます (sisään ja ulos)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 5]]"
 status: shaky
@@ -102,3 +105,5 @@ N1とN2 yhdistää kaksi substantiivia listaksi ('A ja B'); liikkumisen と liit
 
 N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) (similar) ::: N1とN2 (ja) (similar)
 N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) (similar/compare) ::: N (ryhmä, määrä, aika) で (similar/compare)
+N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) (similar/compare) ::: Nに入ります・Nを出ます (sisään ja ulos) (similar/compare)
+N（場所）へ／N（乗り物）で／N（人）と (へ・で・と) (similar) ::: Nを (kulkureitti, läpi ja yli) (similar)

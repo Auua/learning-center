@@ -7,8 +7,8 @@ func: [tahallinen-muutos]
 attaches: ["い-adjektiivi/な-adjektiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[～くなります・～になります (muutos)]]"]
-compare: ["[[～くなります・～になります (muutos)]]", "[[Nにします (valinta, paatos)]]"]
+similar: ["[[～くなります・～になります (muutos)]]", "[[Adjく・Adjに＋V (adjektiivi adverbina)]]"]
+compare: ["[[～くなります・～になります (muutos)]]", "[[Nにします (valinta, paatos)]]", "[[Adjく・Adjに＋V (adjektiivi adverbina)]]"]
 sources: ["[[Minna no Nihongo II#Luku 44]]"]
 status: new
 confidence: 1
@@ -84,3 +84,4 @@ Miten 部屋がきれいになりました eroaa 部屋をきれいにしまし�
 
 い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) (similar/compare) ::: ～くなります・～になります (muutos) (similar/compare)
 い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) (compare) ::: Nにします (valinta, paatos) (compare)
+い-adj（～く）／な-adj・N（～に）します (tahallinen muutos) (similar/compare) ::: Adjく・Adjに＋V (adjektiivi adverbina) (similar/compare)

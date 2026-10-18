@@ -9,7 +9,7 @@ formality: puhekielinen
 register: [puhuttu]
 similar: ["[[N1やN2 [など] (ja muun muassa, epätäydellinen lista)]]", "[[普通形とか (puhekielinen kuulopuhe, epavarma)]]", "[[～だの～だの (ja sita ja tata, valittaen)]]", "[[～やら～やら (muun muassa, mita kaikkea)]]"]
 compare: ["[[N1やN2 [など] (ja muun muassa, epätäydellinen lista)]]", "[[普通形とか (puhekielinen kuulopuhe, epavarma)]]", "[[～か何か (tai jotain)]]", "[[～やら～やら (muun muassa, mita kaikkea)]]"]
-sources: ["[[Minna no Nihongo Chuukyuu I#Luku 6]]"]
+sources: ["[[Minna no Nihongo Chuukyuu I#Luku 6]]", "[[Minna no Nihongo II#Luku 36]]"]
 status: new
 confidence: 1
 reviewed:

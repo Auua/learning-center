@@ -7,9 +7,9 @@ func: [pyynto, keigo]
 attaches: ["[[ます-muoto]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[お～になる (kunnioittava toisen teko)]]", "[[お～願う (kohtelias pyynto)]]"]
+similar: ["[[お～になる (kunnioittava toisen teko)]]", "[[お～願う (kohtelias pyynto)]]", "[[ご～ (kunnioittava etuliite, kango)]]"]
 compare: ["[[Vて ください (pyyntö)]]", "[[お～願う (kohtelias pyynto)]]"]
-sources: ["[[JLPT Sensei#N4]]"]
+sources: ["[[JLPT Sensei#N4]]", "[[Minna no Nihongo II#Luku 49]]"]
 status: new
 confidence: 1
 reviewed:
@@ -74,3 +74,4 @@ Jälkimmäinen on kunnioittava (尊敬語) palvelu- ja kuulutuskieli.
 お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (similar) ::: お～になる (kunnioittava toisen teko) (similar)
 お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (similar/compare) ::: お～願う (kohtelias pyynto) (similar/compare)
 お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (compare) ::: Vて ください (pyyntö) (compare)
+お／ご＋V(ます-vartalo)／Nする＋ください (kunnioittava pyynto) (similar) ::: ご～ (kunnioittava etuliite, kango) (similar)

@@ -13,7 +13,7 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
+similar: ["[[Adjく・Adjに＋V (adjektiivi adverbina)]]"]
 compare:
 sources:
   - "[[Minna no Nihongo I#Luku 8]]"
@@ -88,3 +88,7 @@ Ei; です kuuluu vain predikaattiasemaan (×高いです山, ×親切なです)
 Mitkä ovat yleisimmät virheet い-adjektiivin ja な-adjektiivin liittämisessä substantiiviin?
 ?
 Lisätään な い-adjektiivin eteen (×高いな山) tai jätetään な pois な-adjektiivista (×親切先生); tarkista ensin adjektiivin ryhmä.
+
+#flashcards/grammar/n5/vertailu
+
+い-adjektiivi／な-adjektiivi (い-adjektiivit ja な-adjektiivit) (similar) ::: Adjく・Adjに＋V (adjektiivi adverbina) (similar)

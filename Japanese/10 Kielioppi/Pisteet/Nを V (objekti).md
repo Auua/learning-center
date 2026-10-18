@@ -12,8 +12,10 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
+similar: ["[[Nをします (substantiivi + します)]]", "[[Nを (kulkureitti, läpi ja yli)]]"]
 compare:
+  - "[[Nをします (substantiivi + します)]]"
+  - "[[Nを (kulkureitti, läpi ja yli)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 6]]"
 status: known
@@ -73,3 +75,8 @@ Miten を ääntyy ja missä sitä käytetään (Nを V)?
 Miten Nをします tulisi opetella?
 ?
 Kokonaisina yhdistelminä (サッカーをします, 宿題をします), ei mekaanisena sääntönä; kattaa laajan sanajoukon.
+
+#flashcards/grammar/n5/vertailu
+
+Nを V (objekti) (similar/compare) ::: Nをします (substantiivi + します) (similar/compare)
+Nを V (objekti) (similar/compare) ::: Nを (kulkureitti, läpi ja yli) (similar/compare)

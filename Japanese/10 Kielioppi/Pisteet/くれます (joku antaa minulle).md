@@ -14,6 +14,7 @@ register:
   - kirjoitettu
 similar:
   - "[[N (人) に あげます・もらいます]]"
+  - "[[N1にN2をやります (antaa alaspäin)]]"
 compare:
 sources:
   - "[[Minna no Nihongo I#Luku 24]]"
@@ -91,3 +92,4 @@ Kumpi: あげる, くれる vai もらう, kun toinen antaa minulle?
 #flashcards/grammar/n5/vertailu
 
 くれます (joku antaa minulle) (similar) ::: N (人) に あげます・もらいます (similar)
+くれます (joku antaa minulle) (similar) ::: N1にN2をやります (antaa alaspäin) (similar)

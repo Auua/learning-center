@@ -13,6 +13,7 @@ register:
   - kirjoitettu
 similar:
   - "[[～くします・～にします (tahallinen muutos)]]"
+  - "[[Adjく・Adjに＋V (adjektiivi adverbina)]]"
 compare:
   - "[[～くします・～にします (tahallinen muutos)]]"
 sources:
@@ -81,3 +82,4 @@ Miten 〜になります eroaa 〜にします:sta?
 #flashcards/grammar/n5/vertailu
 
 い-adj（～く）／な-adj・N（～に）なります (muutos) (similar/compare) ::: ～くします・～にします (tahallinen muutos) (similar/compare)
+い-adj（～く）／な-adj・N（～に）なります (muutos) (similar) ::: Adjく・Adjに＋V (adjektiivi adverbina) (similar)

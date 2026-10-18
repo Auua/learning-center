@@ -9,7 +9,7 @@ formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: []
 compare: ["[[～最中に (keskella, parhaillaan)]]"]
-sources: ["[[JLPT Sensei#N3]]"]
+sources: ["[[JLPT Sensei#N3]]", "[[Minna no Nihongo II#Luku 39]]"]
 status: new
 confidence: 1
 reviewed:

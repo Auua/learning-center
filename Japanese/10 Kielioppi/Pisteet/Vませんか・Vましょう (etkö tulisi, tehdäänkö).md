@@ -12,7 +12,7 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: ["[[Vようではないか (tehkäämme, juhlava kehotus)]]"]
+similar: ["[[Vようではないか (tehkäämme, juhlava kehotus)]]", "[[Nはありませんか (onko teillä, kohtelias kysely)]]"]
 compare:
   - "[[Vようではないか (tehkäämme, juhlava kehotus)]]"
 sources:
@@ -87,3 +87,4 @@ Vませんか; se on kohteliaampi ja varovaisempi. Vましょう on suorempi ja 
 #flashcards/grammar/n5/vertailu
 
 Vませんか／Vましょう (etkö tulisi, tehdäänkö) (similar/compare) ::: Vようではないか (tehkäämme, juhlava kehotus) (similar/compare)
+Vませんか／Vましょう (etkö tulisi, tehdäänkö) (similar) ::: Nはありませんか (onko teillä, kohtelias kysely) (similar)

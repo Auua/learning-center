@@ -14,8 +14,11 @@ register:
 similar:
   - "[[AはBです (A on B, peruslause)]]"
   - "[[AそれともB (vai)]]"
+  - "[[Sか (kysymyspartikkeli)]]"
+  - "[[どれ (mikä niistä)]]"
 compare:
   - "[[AそれともB (vai)]]"
+  - "[[Sか (kysymyspartikkeli)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 2]]"
 status: known
@@ -81,3 +84,5 @@ Peruskysymys (yksi väite + か) odottaa はい/いいえ-vastausta; S1か、S2�
 
 S1か、S2か (kumpi, A vai B) (similar) ::: AはBです (A on B, peruslause) (similar)
 S1か、S2か (kumpi, A vai B) (similar/compare) ::: AそれともB (vai) (similar/compare)
+S1か、S2か (kumpi, A vai B) (similar/compare) ::: Sか (kysymyspartikkeli) (similar/compare)
+S1か、S2か (kumpi, A vai B) (similar) ::: どれ (mikä niistä) (similar)

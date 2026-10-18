@@ -11,6 +11,7 @@ similar:
   - "[[普通形と思います (mielipide)]]"
   - "[[～と言っていました・～と伝える (välitetty viesti)]]"
   - "[[普通形と聞きました (kuulin etta)]]"
+  - "[[～と読みます・～と書きます (lukutapa ja kirjoitustapa)]]"
 compare:
   - "[[～と言っていました・～と伝える (välitetty viesti)]]"
 sources: ["[[Minna no Nihongo I#Luku 21]]", "[[Minna no Nihongo II#Luku 33]]"]
@@ -81,3 +82,4 @@ Rakenne on sama, mutta と言います lainaa jonkun sanoman, と思います il
 「S」と言います／普通形と言いました (lainaus) (similar) ::: 普通形と思います (mielipide) (similar)
 「S」と言います／普通形と言いました (lainaus) (similar/compare) ::: ～と言っていました・～と伝える (välitetty viesti) (similar/compare)
 「S」と言います／普通形と言いました (lainaus) (similar) ::: 普通形と聞きました (kuulin etta) (similar)
+「S」と言います／普通形と言いました (lainaus) (similar) ::: ～と読みます・～と書きます (lukutapa ja kirjoitustapa) (similar)

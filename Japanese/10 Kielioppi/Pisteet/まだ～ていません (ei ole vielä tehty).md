@@ -16,8 +16,10 @@ similar:
   - "[[もう Vました・まだです (jo tehty, ei vielä)]]"
   - "[[Vてあります (tarkoituksella tehty tila)]]"
   - "[[Vておきます (valmistelu etukateen)]]"
+  - "[[まだ＋myönteinen (yhä, edelleen)]]"
 compare:
   - "[[もう Vました・まだです (jo tehty, ei vielä)]]"
+  - "[[まだ＋myönteinen (yhä, edelleen)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 30]]"
   - "[[Minna no Nihongo II#Luku 31]]"
@@ -104,3 +106,4 @@ Mikä ero on 食べていません ja 食べませんでした välillä?
 まだVていません (ei ole vielä tehty) (similar/compare) ::: もう Vました・まだです (jo tehty, ei vielä) (similar/compare)
 まだVていません (ei ole vielä tehty) (similar) ::: Vてあります (tarkoituksella tehty tila) (similar)
 まだVていません (ei ole vielä tehty) (similar) ::: Vておきます (valmistelu etukateen) (similar)
+まだVていません (ei ole vielä tehty) (similar/compare) ::: まだ＋myönteinen (yhä, edelleen) (similar/compare)

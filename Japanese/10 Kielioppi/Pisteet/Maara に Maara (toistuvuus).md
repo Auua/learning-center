@@ -14,6 +14,7 @@ register:
   - kirjoitettu
 similar:
   - "[[N (aika) に]]"
+  - "[[どのくらい (kuinka kauan, kuinka paljon)]]"
 compare:
   - "[[～おきに (valein, joka toinen)]]"
 sources:
@@ -68,3 +69,4 @@ Miksi に on pakollinen 期間に回数 -rakenteessa?
 
 期間に回数 (toistuvuus) (similar) ::: N (aika) に (similar)
 期間に回数 (toistuvuus) (compare) ::: ～おきに (valein, joka toinen) (compare)
+期間に回数 (toistuvuus) (similar) ::: どのくらい (kuinka kauan, kuinka paljon) (similar)

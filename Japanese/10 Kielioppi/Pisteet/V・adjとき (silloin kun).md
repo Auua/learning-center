@@ -20,8 +20,10 @@ similar:
   - "[[～際［に］ (silloin kun, muodollinen)]]"
   - "[[Vたびに (aina kun)]]"
   - "[[～折に (tilaisuudessa, kun)]]"
+  - "[[～とき＋partikkeli (ときに・ときも・ときの・ときや)]]"
 compare:
   - "[[～際［に］ (silloin kun, muodollinen)]]"
+  - "[[～とき＋partikkeli (ときに・ときも・ときの・ときや)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 23]]"
 status: shaky
@@ -102,3 +104,4 @@ V／adjとき (silloin kun) (similar) ::: Vまえに (ennen) (similar)
 V／adjとき (silloin kun) (similar/compare) ::: ～際［に］ (silloin kun, muodollinen) (similar/compare)
 V／adjとき (silloin kun) (similar) ::: Vたびに (aina kun) (similar)
 V／adjとき (silloin kun) (similar) ::: ～折に (tilaisuudessa, kun) (similar)
+V／adjとき (silloin kun) (similar/compare) ::: ～とき＋partikkeli (ときに・ときも・ときの・ときや) (similar/compare)

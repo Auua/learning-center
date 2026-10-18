@@ -7,8 +7,8 @@ func: [syy, tunnereaktio]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vて、Vて (peräkkäisyys)]]", "[[S1から、S2 (syy)]]", "[[〜ので (pehmea syy)]]", "[[Vてすみません (anteeksi etta)]]", "[[Vてよかった (onneksi, olen iloinen etta)]]"]
-compare: ["[[〜ので (pehmea syy)]]"]
+similar: ["[[Vて、Vて (peräkkäisyys)]]", "[[S1から、S2 (syy)]]", "[[〜ので (pehmea syy)]]", "[[Vてすみません (anteeksi etta)]]", "[[Vてよかった (onneksi, olen iloinen etta)]]", "[[～まして (kohtelias て-muoto)]]"]
+compare: ["[[〜ので (pehmea syy)]]", "[[～まして (kohtelias て-muoto)]]"]
 sources: ["[[Minna no Nihongo II#Luku 39]]"]
 status: new
 confidence: 1
@@ -83,3 +83,4 @@ Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar) :::
 Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar/compare) ::: 〜ので (pehmea syy) (similar/compare)
 Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar) ::: Vてすみません (anteeksi etta) (similar)
 Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar) ::: Vてよかった (onneksi, olen iloinen etta) (similar)
+Vて／Adjくて／Nで（tunnereaktion syy） (tunnereaktion syy) (similar/compare) ::: ～まして (kohtelias て-muoto) (similar/compare)

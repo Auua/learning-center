@@ -7,8 +7,8 @@ func: [keigo, kenjougo]
 attaches: ["[[ます-muoto]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[お～になる (kunnioittava toisen teko)]]", "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]"]
-compare: "[[Keigo — kartta]]"
+similar: ["[[お～になる (kunnioittava toisen teko)]]", "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[特別謙譲語 (erityiset nöyrät verbit)]]", "[[丁寧語 (ございます・でございます・よろしいでしょうか)]]"]
+compare: ["[[Keigo — kartta]]", "[[特別謙譲語 (erityiset nöyrät verbit)]]"]
 sources: ["[[Minna no Nihongo II#Luku 50]]"]
 status: new
 confidence: 1
@@ -90,3 +90,5 @@ Miten お～する eroaa kaavasta お～になる?
 お～する (nöyrä oma teko) (similar) ::: お～になる (kunnioittava toisen teko) (similar)
 お～する (nöyrä oma teko) (similar) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar)
 お～する (nöyrä oma teko) (compare) ::: Keigo — kartta (compare)
+お～する (nöyrä oma teko) (similar/compare) ::: 特別謙譲語 (erityiset nöyrät verbit) (similar/compare)
+お～する (nöyrä oma teko) (similar) ::: 丁寧語 (ございます・でございます・よろしいでしょうか) (similar)

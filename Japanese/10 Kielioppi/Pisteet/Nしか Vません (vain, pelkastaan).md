@@ -13,7 +13,7 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
+similar: ["[[N＋partikkeli＋は (kontrasti ja aihe, では・には・へは)]]"]
 compare:
   - "[[Maara だけ・Nだけ]]"
   - "[[Maara＋も (jopa, perati)]]"
@@ -94,3 +94,4 @@ Miten 1人だけいます eroaa lauseesta 1人しかいません?
 
 Nしか〜ません (vain, pelkastaan) (compare) ::: Maara だけ・Nだけ (compare)
 Nしか〜ません (vain, pelkastaan) (compare) ::: Maara＋も (jopa, perati) (compare)
+Nしか〜ません (vain, pelkastaan) (similar) ::: N＋partikkeli＋は (kontrasti ja aihe, では・には・へは) (similar)

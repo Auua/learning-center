@@ -14,6 +14,7 @@ register:
 similar:
   - "[[Vて ください (pyyntö)]]"
   - "[[Vて・Vないで (tapa, keino)]]"
+  - "[[Vないで、V2 (sen sijaan että)]]"
 compare:
   - "[[Vて・Vないで (tapa, keino)]]"
   - "[[V辞書形な (jyrkka kielto)]]"
@@ -79,3 +80,4 @@ Sama ない形+で, mutta ilman ください se liittää kaksi lausetta kuvaama
 Vないでください (kielteinen pyyntö) (similar) ::: Vて ください (pyyntö) (similar)
 Vないでください (kielteinen pyyntö) (similar/compare) ::: Vて・Vないで (tapa, keino) (similar/compare)
 Vないでください (kielteinen pyyntö) (compare) ::: V辞書形な (jyrkka kielto) (compare)
+Vないでください (kielteinen pyyntö) (similar) ::: Vないで、V2 (sen sijaan että) (similar)

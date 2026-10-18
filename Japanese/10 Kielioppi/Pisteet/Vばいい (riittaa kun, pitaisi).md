@@ -7,8 +7,8 @@ func: [neuvo, toive, riittavyys]
 attaches: ["[[Ehtomuoto ば]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]", "[[Vないものか (eiko voisi mitenkaan)]]"]
-compare: ["[[疑問詞+たらいいですか (neuvon kysyminen)]]", "[[Vたほうがいいです (kannattaisi tehda)]]", "[[Vものなら (jos vain voisi)]]", "[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]"]
+similar: ["[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]", "[[Vないものか (eiko voisi mitenkaan)]]", "[[疑問詞＋Vばいいですか (neuvon kysyminen ば)]]"]
+compare: ["[[疑問詞+たらいいですか (neuvon kysyminen)]]", "[[Vたほうがいいです (kannattaisi tehda)]]", "[[Vものなら (jos vain voisi)]]", "[[Vといい・Vたらいい (toivottavasti, kannattaisi)]]", "[[疑問詞＋Vばいいですか (neuvon kysyminen ば)]]"]
 sources: ["[[JLPT Sensei#N3]]"]
 status: new
 confidence: 1
@@ -76,3 +76,4 @@ V(ば-muoto)＋いい (riittaa kun, pitaisi) (similar) ::: Vないものか (eik
 V(ば-muoto)＋いい (riittaa kun, pitaisi) (compare) ::: 疑問詞+たらいいですか (neuvon kysyminen) (compare)
 V(ば-muoto)＋いい (riittaa kun, pitaisi) (compare) ::: Vたほうがいいです (kannattaisi tehda) (compare)
 V(ば-muoto)＋いい (riittaa kun, pitaisi) (compare) ::: Vものなら (jos vain voisi) (compare)
+V(ば-muoto)＋いい (riittaa kun, pitaisi) (similar/compare) ::: 疑問詞＋Vばいいですか (neuvon kysyminen ば) (similar/compare)

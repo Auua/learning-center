@@ -15,8 +15,11 @@ register:
 similar:
   - "[[Sよ (uuden tiedon korostus)]]"
   - "[[普通形よね (varmistava loppupartikkeli)]]"
+  - "[[Sか (kysymyspartikkeli)]]"
+  - "[[そうですね (myötäily, samaa mieltä)]]"
 compare:
   - "[[Sなあ (tunteen huudahdus)]]"
+  - "[[そうですね (myötäily, samaa mieltä)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 4]]"
 status: known
@@ -84,3 +87,5 @@ Miten Sね eroaa Sよ:sta?
 Sね (vahvistus, eikö niin) (similar) ::: Sよ (uuden tiedon korostus) (similar)
 Sね (vahvistus, eikö niin) (similar) ::: 普通形よね (varmistava loppupartikkeli) (similar)
 Sね (vahvistus, eikö niin) (compare) ::: Sなあ (tunteen huudahdus) (compare)
+Sね (vahvistus, eikö niin) (similar) ::: Sか (kysymyspartikkeli) (similar)
+Sね (vahvistus, eikö niin) (similar/compare) ::: そうですね (myötäily, samaa mieltä) (similar/compare)

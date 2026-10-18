@@ -7,8 +7,8 @@ func: [pyynto, kohteliaisuus]
 attaches: ["[[て-muoto]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vてあげます・Vてもらいます・Vてくれます (teon antaminen)]]", "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[させてもらえませんか family (kausatiivinen kohtelias pyynto)]]"]
-compare: ["[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[させてもらえませんか family (kausatiivinen kohtelias pyynto)]]"]
+similar: ["[[Vてあげます・Vてもらいます・Vてくれます (teon antaminen)]]", "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[させてもらえませんか family (kausatiivinen kohtelias pyynto)]]", "[[～んですが (johdanto pyyntöön tai kysymykseen)]]", "[[Vてくださいませんか (erittäin kohtelias pyyntö)]]"]
+compare: ["[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[させてもらえませんか family (kausatiivinen kohtelias pyynto)]]", "[[～んですが (johdanto pyyntöön tai kysymykseen)]]", "[[Vてくださいませんか (erittäin kohtelias pyyntö)]]"]
 sources: ["[[Minna no Nihongo II#Luku 26]]", "[[Minna no Nihongo Chuukyuu I#Luku 1]]"]
 status: new
 confidence: 1
@@ -80,3 +80,5 @@ Ei, se on kohteliaisuuskonventio, joka antaa kuulijalle näennäisesti helpomman
 〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar) ::: Vてあげます・Vてもらいます・Vてくれます (teon antaminen) (similar)
 〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar/compare)
 〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: させてもらえませんか family (kausatiivinen kohtelias pyynto) (similar/compare)
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: ～んですが (johdanto pyyntöön tai kysymykseen) (similar/compare)
+〜てもらえませんか・〜ていただけませんか・〜てもらえないでしょうか・〜ていただけないでしょうか (kohtelias pyyntoperhe) (similar/compare) ::: Vてくださいませんか (erittäin kohtelias pyyntö) (similar/compare)

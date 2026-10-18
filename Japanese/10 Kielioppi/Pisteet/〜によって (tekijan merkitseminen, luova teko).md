@@ -15,9 +15,12 @@ register:
 similar:
   - "[[～によって (riippuen, vaihtelu)]]"
   - "[[～によって (syy, muodollinen)]]"
+  - "[[N1はN2にV受身 (suora passiivi)]]"
+  - "[[NがV受身 (asiasubjektin passiivi)]]"
 compare:
   - "[[～によって (riippuen, vaihtelu)]]"
   - "[[～によって (syy, muodollinen)]]"
+  - "[[NがV受身 (asiasubjektin passiivi)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 37]]"
 status: learning
@@ -95,3 +98,5 @@ Syy-によって merkitsee suoraa muodollista syytä (円高によって経営�
 
 〜によって (tekijan merkitseminen, luova teko) (similar/compare) ::: ～によって (riippuen, vaihtelu) (similar/compare)
 〜によって (tekijan merkitseminen, luova teko) (similar/compare) ::: ～によって (syy, muodollinen) (similar/compare)
+〜によって (tekijan merkitseminen, luova teko) (similar) ::: N1はN2にV受身 (suora passiivi) (similar)
+〜によって (tekijan merkitseminen, luova teko) (similar/compare) ::: NがV受身 (asiasubjektin passiivi) (similar/compare)

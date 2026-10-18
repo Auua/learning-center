@@ -9,7 +9,7 @@ formality: puhekielinen
 register: [puhuttu, kirjoitettu]
 similar: ["[[S1が、S2 (mutta)]]", "[[だけど (mutta, lauseen alussa)]]"]
 compare: ["[[S1が、S2 (mutta)]]", "[[～ものの (vaikka kylla)]]"]
-sources: ["[[JLPT Sensei#N5]]"]
+sources: ["[[JLPT Sensei#N5]]", "[[Minna no Nihongo I#Luku 20]]"]
 status: new
 confidence: 1
 reviewed:

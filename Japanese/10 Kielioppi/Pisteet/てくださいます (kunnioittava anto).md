@@ -7,7 +7,7 @@ func: [keigo, sonkeigo, kiitollisuus]
 attaches: ["[[て-muoto]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vてあげます・Vてもらいます・Vてくれます (teon antaminen)]]", "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]"]
+similar: ["[[Vてあげます・Vてもらいます・Vてくれます (teon antaminen)]]", "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[Vてくださいませんか (erittäin kohtelias pyyntö)]]"]
 compare: ["[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]"]
 sources: ["[[Minna no Nihongo II#Luku 41]]"]
 status: new
@@ -86,3 +86,4 @@ Miten てくださる eroaa ていただく:sta, vaikka tapahtuma on sama?
 
 Vて-form くださいます (kunnioittava anto) (similar) ::: Vてあげます・Vてもらいます・Vてくれます (teon antaminen) (similar)
 Vて-form くださいます (kunnioittava anto) (similar/compare) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar/compare)
+Vて-form くださいます (kunnioittava anto) (similar) ::: Vてくださいませんか (erittäin kohtelias pyyntö) (similar)

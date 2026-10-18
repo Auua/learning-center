@@ -14,10 +14,11 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: ["[[Nも (myos, sama patee)]]"]
+similar: ["[[Nも (myos, sama patee)]]", "[[Nじゃありません (kielteinen kopula)]]", "[[Sか (kysymyspartikkeli)]]"]
 compare:
   - "[[Nも (myos, sama patee)]]"
   - "[[Nが (subjektipartikkeli, uusi tieto)]]"
+  - "[[Nじゃありません (kielteinen kopula)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 1]]"
 status: known
@@ -110,3 +111,5 @@ Miten AはBです -rakenteen は eroaa が:stä?
 
 AはBです (A on B, peruslause) (similar/compare) ::: Nも (myos, sama patee) (similar/compare)
 AはBです (A on B, peruslause) (compare) ::: Nが (subjektipartikkeli, uusi tieto) (compare)
+AはBです (A on B, peruslause) (similar/compare) ::: Nじゃありません (kielteinen kopula) (similar/compare)
+AはBです (A on B, peruslause) (similar) ::: Sか (kysymyspartikkeli) (similar)

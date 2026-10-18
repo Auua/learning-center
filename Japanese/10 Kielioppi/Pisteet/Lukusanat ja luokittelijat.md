@@ -15,10 +15,13 @@ register:
   - kirjoitettu
 similar:
   - "[[N (aika) に]]"
+  - "[[いくつ (kuinka monta)]]"
+  - "[[どのくらい (kuinka kauan, kuinka paljon)]]"
 compare:
   - "[[N（aika）ごろ (noin, aikoihin)]]"
   - "[[～というところだ (suunnilleen, korkeintaan)]]"
   - "[[数量＋ばかり (noin, suunnilleen)]]"
+  - "[[いくつ (kuinka monta)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 11]]"
 status: learning
@@ -141,3 +144,5 @@ Väärä luokittelija (esim. 人 esineelle) kuulostaa oudolta; luokittelija opit
 数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: N（aika）ごろ (noin, aikoihin) (compare)
 数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: ～というところだ (suunnilleen, korkeintaan) (compare)
 数詞＋助数詞 (Lukusanat ja luokittelijat) (compare) ::: 数量＋ばかり (noin, suunnilleen) (compare)
+数詞＋助数詞 (Lukusanat ja luokittelijat) (similar/compare) ::: いくつ (kuinka monta) (similar/compare)
+数詞＋助数詞 (Lukusanat ja luokittelijat) (similar) ::: どのくらい (kuinka kauan, kuinka paljon) (similar)

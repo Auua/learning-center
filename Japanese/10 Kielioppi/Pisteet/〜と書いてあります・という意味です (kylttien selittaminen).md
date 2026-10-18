@@ -14,7 +14,8 @@ register:
   - kirjoitettu
 similar:
   - "[[普通形と言います (lainaus)]]"
-compare: []
+  - "[[～と読みます・～と書きます (lukutapa ja kirjoitustapa)]]"
+compare: ["[[～と読みます・～と書きます (lukutapa ja kirjoitustapa)]]"]
 sources:
   - "[[Minna no Nihongo II#Luku 33]]"
 status: shaky
@@ -92,3 +93,4 @@ Miten 〜と書いてあります eroaa rakenteesta 〜という意味です?
 #flashcards/grammar/n4/vertailu
 
 〜と書いてあります・〜という意味です (kylttien selittaminen) (similar) ::: 普通形と言います (lainaus) (similar)
+〜と書いてあります・〜という意味です (kylttien selittaminen) (similar/compare) ::: ～と読みます・～と書きます (lukutapa ja kirjoitustapa) (similar/compare)

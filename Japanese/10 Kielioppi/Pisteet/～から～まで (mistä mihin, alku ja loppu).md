@@ -18,6 +18,7 @@ similar:
   - "[[N（aika）までに (määräaika)]]"
   - "[[～から～にかけて (jostakin johonkin, vali)]]"
   - "[[Nより (-sta, muodollinen lahtopiste)]]"
+  - "[[今何時ですか (kellonaika)]]"
 compare:
   - "[[N（aika）までに (määräaika)]]"
   - "[[Nより (-sta, muodollinen lahtopiste)]]"
@@ -111,3 +112,4 @@ N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) 
 N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar/compare) ::: N（aika）までに (määräaika) (similar/compare)
 N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: ～から～にかけて (jostakin johonkin, vali) (similar)
 N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar/compare) ::: Nより (-sta, muodollinen lahtopiste) (similar/compare)
+N（aika/paikka）から N（aika/paikka）まで (mistä mihin, alku ja loppu) (similar) ::: 今何時ですか (kellonaika) (similar)

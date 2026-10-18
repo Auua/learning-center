@@ -15,7 +15,15 @@ register:
   - kirjoitettu
 similar:
   - "[[N (paikka) で]]"
+  - "[[N1はN2（場所）です (sijainti)]]"
+  - "[[Nはありませんか (onko teillä, kohtelias kysely)]]"
+  - "[[N1（場所）でN2があります (tapahtuma järjestetään)]]"
+  - "[[ありました (löytämisen ta)]]"
 compare:
+  - "[[N1はN2（場所）です (sijainti)]]"
+  - "[[Nはありませんか (onko teillä, kohtelias kysely)]]"
+  - "[[N1（場所）でN2があります (tapahtuma järjestetään)]]"
+  - "[[ありました (löytämisen ta)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 10]]"
   - "[[Minna no Nihongo I#Luku 21]]"
@@ -97,3 +105,7 @@ Aina に; で vaatii aktiivisen toimintaverbin (駅で買います), kun あり�
 #flashcards/grammar/n5/vertailu
 
 Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar) ::: N (paikka) で (similar)
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar/compare) ::: N1はN2（場所）です (sijainti) (similar/compare)
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar/compare) ::: Nはありませんか (onko teillä, kohtelias kysely) (similar/compare)
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar/compare) ::: N1（場所）でN2があります (tapahtuma järjestetään) (similar/compare)
+Nがあります／います、N1はN2（場所）にあります／います (olemassaolo) (similar/compare) ::: ありました (löytämisen ta) (similar/compare)

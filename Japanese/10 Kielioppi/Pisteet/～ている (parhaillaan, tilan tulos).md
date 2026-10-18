@@ -18,8 +18,11 @@ similar:
   - "[[Vてあります (tarkoituksella tehty tila)]]"
   - "[[～ている (elämänhistoria, saavutukset)]]"
   - "[[Vていた (oli tekemassa, tila menneessa)]]"
+  - "[[知っています・知りません (tietää)]]"
+  - "[[まだ＋myönteinen (yhä, edelleen)]]"
 compare:
   - "[[Vていた (oli tekemassa, tila menneessa)]]"
+  - "[[知っています・知りません (tietää)]]"
 sources:
   - "[[Genki II]]"
   - "[[Tae Kim — Guide to Japanese]]"
@@ -137,3 +140,5 @@ Kumpi: 住んでいた vai 住んでいる, kun halutaan sanoa 'asun nyt'?
 ～ている (parhaillaan, tilan tulos) (similar) ::: ～てある (similar)
 ～ている (parhaillaan, tilan tulos) (similar) ::: ～ている (elämänhistoria, saavutukset) (similar)
 ～ている (parhaillaan, tilan tulos) (similar/compare) ::: Vていた (oli tekemassa, tila menneessa) (similar/compare)
+～ている (parhaillaan, tilan tulos) (similar/compare) ::: 知っています・知りません (tietää) (similar/compare)
+～ている (parhaillaan, tilan tulos) (similar) ::: まだ＋myönteinen (yhä, edelleen) (similar)

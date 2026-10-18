@@ -14,8 +14,10 @@ register:
   - kirjoitettu
 similar:
   - "[[まだ～ていません (ei ole vielä tehty)]]"
+  - "[[まだ＋myönteinen (yhä, edelleen)]]"
 compare:
   - "[[まだ～ていません (ei ole vielä tehty)]]"
+  - "[[まだ＋myönteinen (yhä, edelleen)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 7]]"
   - "[[Minna no Nihongo II#Luku 30]]"
@@ -80,3 +82,4 @@ Mikä on täydempi kielteinen vastaus kuin まだです?
 #flashcards/grammar/n5/vertailu
 
 もうVました／まだです (jo tehty, ei vielä) (similar/compare) ::: まだ～ていません (ei ole vielä tehty) (similar/compare)
+もうVました／まだです (jo tehty, ei vielä) (similar/compare) ::: まだ＋myönteinen (yhä, edelleen) (similar/compare)

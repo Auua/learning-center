@@ -14,10 +14,12 @@ register:
   - kirjoitettu
 similar:
   - "[[Vませんか・Vましょう (etkö tulisi, tehdäänkö)]]"
+  - "[[Vてくださいませんか (erittäin kohtelias pyyntö)]]"
 compare:
   - "[[Vなさい (kasky, ohje)]]"
   - "[[お～ください (kunnioittava pyynto)]]"
   - "[[Nをください (pyynto saada jotain)]]"
+  - "[[Vてくださいませんか (erittäin kohtelias pyyntö)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 14]]"
 status: known
@@ -78,3 +80,4 @@ Vてください (pyyntö) (similar) ::: Vませんか・Vましょう (etkö tu
 Vてください (pyyntö) (compare) ::: Vなさい (kasky, ohje) (compare)
 Vてください (pyyntö) (compare) ::: お～ください (kunnioittava pyynto) (compare)
 Vてください (pyyntö) (compare) ::: Nをください (pyynto saada jotain) (compare)
+Vてください (pyyntö) (similar/compare) ::: Vてくださいませんか (erittäin kohtelias pyyntö) (similar/compare)

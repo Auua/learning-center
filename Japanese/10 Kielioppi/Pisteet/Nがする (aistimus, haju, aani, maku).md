@@ -9,7 +9,7 @@ formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[普通形ような気がする (tuntuu silta etta)]]"]
 compare: ["[[見えます・聞こえます (spontaani aisti)]]", "[[普通形ような気がする (tuntuu silta etta)]]", "[[～思いをする (kokea tunne)]]"]
-sources: ["[[JLPT Sensei#N4]]"]
+sources: ["[[JLPT Sensei#N4]]", "[[Minna no Nihongo II#Luku 47]]"]
 status: new
 confidence: 1
 reviewed:

@@ -7,7 +7,7 @@ func: [lupapyynto, keigo]
 attaches: ["[[Kausatiivi (さ)せる]]"]
 formality: kohtelias
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vて ください (pyyntö)]]", "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[させてもらえませんか family (kausatiivinen kohtelias pyynto)]]"]
+similar: ["[[Vて ください (pyyntö)]]", "[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[させてもらえませんか family (kausatiivinen kohtelias pyynto)]]", "[[Nを V(さ)せる (kausatiivi intransitiiviverbillä)]]", "[[NにNを V(さ)せる (kausatiivi transitiiviverbillä)]]"]
 compare: ["[[ご～いただく (kohtelias pyyntö, kiitollisuus)]]", "[[させてもらえませんか family (kausatiivinen kohtelias pyynto)]]"]
 sources: ["[[Minna no Nihongo II#Luku 48]]"]
 status: new
@@ -87,3 +87,5 @@ Miten させてください liittyy rakenteeseen させてもらえませんか?
 V使役形＋てください／ていただけませんか (lupa itselle) (similar) ::: Vて ください (pyyntö) (similar)
 V使役形＋てください／ていただけませんか (lupa itselle) (similar/compare) ::: ご～いただく (kohtelias pyyntö, kiitollisuus) (similar/compare)
 V使役形＋てください／ていただけませんか (lupa itselle) (similar/compare) ::: させてもらえませんか family (kausatiivinen kohtelias pyynto) (similar/compare)
+V使役形＋てください／ていただけませんか (lupa itselle) (similar) ::: Nを V(さ)せる (kausatiivi intransitiiviverbillä) (similar)
+V使役形＋てください／ていただけませんか (lupa itselle) (similar) ::: NにNを V(さ)せる (kausatiivi transitiiviverbillä) (similar)

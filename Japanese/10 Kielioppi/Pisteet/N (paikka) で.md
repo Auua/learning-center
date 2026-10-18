@@ -18,9 +18,11 @@ similar:
   - "[[N (syy) で]]"
   - "[[N (ryhmä, määrä, aika) で]]"
   - "[[Nにて (-ssa, -lla, muodollinen)]]"
+  - "[[N1（場所）でN2があります (tapahtuma järjestetään)]]"
 compare:
   - "[[N (syy) で]]"
   - "[[Nにて (-ssa, -lla, muodollinen)]]"
+  - "[[N1（場所）でN2があります (tapahtuma järjestetään)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 6]]"
   - "[[Minna no Nihongo I#Luku 21]]"
@@ -94,3 +96,4 @@ N（場所）で (N (paikka) で) (similar) ::: Liikkumisen partikkelit (へ・�
 N（場所）で (N (paikka) で) (similar/compare) ::: N (syy) で (similar/compare)
 N（場所）で (N (paikka) で) (similar) ::: N (ryhmä, määrä, aika) で (similar)
 N（場所）で (N (paikka) で) (similar/compare) ::: Nにて (-ssa, -lla, muodollinen) (similar/compare)
+N（場所）で (N (paikka) で) (similar/compare) ::: N1（場所）でN2があります (tapahtuma järjestetään) (similar/compare)

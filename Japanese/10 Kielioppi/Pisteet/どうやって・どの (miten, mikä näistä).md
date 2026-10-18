@@ -15,7 +15,9 @@ register:
 similar:
   - "[[これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla)]]"
   - "[[Vます-vartalo＋方 (tapa tehda)]]"
+  - "[[どれ (mikä niistä)]]"
 compare:
+  - "[[どれ (mikä niistä)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 16]]"
 status: shaky
@@ -73,3 +75,4 @@ Samaan こそあど-sarjaan kuin これ/この, それ/その, あれ/あの, �
 
 どうやって／どのN (miten, mikä näistä) (similar) ::: これ・それ・あれ・この・その・あの (tämä, tuo, tuo tuolla) (similar)
 どうやって／どのN (miten, mikä näistä) (similar) ::: Vます-vartalo＋方 (tapa tehda) (similar)
+どうやって／どのN (miten, mikä näistä) (similar/compare) ::: どれ (mikä niistä) (similar/compare)

@@ -9,7 +9,7 @@ formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[数量＋からある (perati, ainakin)]]"]
 compare: ["[[Maara＋も (jopa, perati)]]", "[[Vないまでも (vaikka ei ehka, ainakin)]]", "[[～なりとも (edes vahan)]]"]
-sources: ["[[JLPT Sensei#N3]]"]
+sources: ["[[JLPT Sensei#N3]]", "[[Minna no Nihongo II#Luku 42]]"]
 status: new
 confidence: 1
 reviewed:

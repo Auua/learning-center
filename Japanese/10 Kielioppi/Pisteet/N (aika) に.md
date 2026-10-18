@@ -14,8 +14,12 @@ register:
   - kirjoitettu
 similar:
   - "[[～から～まで (mistä mihin, alku ja loppu)]]"
+  - "[[今何時ですか (kellonaika)]]"
+  - "[[いつ (milloin)]]"
 compare:
   - "[[N（aika）ごろ (noin, aikoihin)]]"
+  - "[[今何時ですか (kellonaika)]]"
+  - "[[いつ (milloin)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 4]]"
 status: known
@@ -94,3 +98,5 @@ Ratkaisevaa on, sisältääkö aikasana luvun, ei se onko se ajankohta laajassa 
 
 N（時間）に (N (aika) に) (similar) ::: ～から～まで (mistä mihin, alku ja loppu) (similar)
 N（時間）に (N (aika) に) (compare) ::: N（aika）ごろ (noin, aikoihin) (compare)
+N（時間）に (N (aika) に) (similar/compare) ::: 今何時ですか (kellonaika) (similar/compare)
+N（時間）に (N (aika) に) (similar/compare) ::: いつ (milloin) (similar/compare)

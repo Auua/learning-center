@@ -13,8 +13,9 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
+similar: ["[[Nの (omistuspronomini, kenen oma)]]"]
 compare:
+  - "[[Nの (omistuspronomini, kenen oma)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 1]]"
   - "[[Minna no Nihongo I#Luku 2]]"
@@ -95,3 +96,7 @@ Ei käy, kun N1 ja N2 eivät ole substantiiveja; adjektiivien yhdistämiseen kä
 Voiko N1のN2 -järjestyksen kääntää kuten suomen genetiivin?
 ?
 Ei: järjestys N1の N2 on kiinteä, esim. 本の表紙 on aina tässä järjestyksessä.
+
+#flashcards/grammar/n5/vertailu
+
+N1のN2 (N1:n N2) (similar/compare) ::: Nの (omistuspronomini, kenen oma) (similar/compare)

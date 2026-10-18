@@ -9,7 +9,7 @@ formality: puhekielinen
 register: [puhuttu]
 similar: ["[[Vないといけない (taytyy)]]", "[[～なくちゃ・～なきゃ (puhekielinen pakko)]]", "[[さもないと (muuten, muuten kay huonosti)]]"]
 compare: ["[[Vないといけない (taytyy)]]", "[[さもないと (muuten, muuten kay huonosti)]]"]
-sources: ["[[JLPT Sensei#N3]]"]
+sources: ["[[JLPT Sensei#N3]]", "[[Minna no Nihongo I#Luku 21]]"]
 status: new
 confidence: 1
 reviewed:

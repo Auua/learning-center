@@ -13,8 +13,9 @@ formality: neutral
 register:
   - puhuttu
   - kirjoitettu
-similar: []
+similar: ["[[Nはどうでしょうか (kohtelias tiedustelu)]]"]
 compare:
+  - "[[Nはどうでしょうか (kohtelias tiedustelu)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 8]]"
   - "[[Minna no Nihongo I#Luku 9]]"
@@ -77,3 +78,7 @@ Ei; どんな vaatii aina perässään substantiivin.
 Miten どんな Nですか ja どんな N が好きですか eroavat?
 ?
 Ensimmäinen pyytää kuvailemaan N1:tä adjektiiveilla; jälkimmäinen pyytää nimeämään yhden konkreettisen esimerkin kategoriasta (urheilu → jalkapallo).
+
+#flashcards/grammar/n5/vertailu
+
+Nはどうですか／Nはどんな N2ですか (millaista, millainen) (similar/compare) ::: Nはどうでしょうか (kohtelias tiedustelu) (similar/compare)

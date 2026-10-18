@@ -15,6 +15,8 @@ similar:
   - "[[～ことは・が・を (yleistys ja arvottaminen)]]"
   - "[[～のは Nです (korostusrakenne, cleft)]]"
   - "[[～のは～からだ (syy predikaattina)]]"
+  - "[[知っています・知りません (tietää)]]"
+  - "[[～とき＋partikkeli (ときに・ときも・ときの・ときや)]]"
 compare:
   - "[[Vこと (nominalisointi, abstrakti tekeminen)]]"
   - "[[Vertailu — の vs. こと (nominalisointi)]]"
@@ -116,3 +118,5 @@ V辞書形＋の (nominalisointi) (similar/compare) ::: ～ことは・が・を
 V辞書形＋の (nominalisointi) (similar/compare) ::: ～のは Nです (korostusrakenne, cleft) (similar/compare)
 V辞書形＋の (nominalisointi) (similar) ::: ～のは～からだ (syy predikaattina) (similar)
 V辞書形＋の (nominalisointi) (compare) ::: Vertailu — の vs. こと (nominalisointi) (compare)
+V辞書形＋の (nominalisointi) (similar) ::: 知っています・知りません (tietää) (similar)
+V辞書形＋の (nominalisointi) (similar) ::: ～とき＋partikkeli (ときに・ときも・ときの・ときや) (similar)

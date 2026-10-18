@@ -14,7 +14,11 @@ register:
   - kirjoitettu
 similar:
   - "[[ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat)]]"
+  - "[[Nの (omistuspronomini, kenen oma)]]"
+  - "[[どれ (mikä niistä)]]"
+  - "[[それ (viittaus juuri sanottuun)]]"
 compare:
+  - "[[それ (viittaus juuri sanottuun)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 2]]"
   - "[[Minna no Nihongo I#Luku 8]]"
@@ -105,3 +109,6 @@ Sama etäisyysjärjestelmä, mutta これ-sarja koskee esineitä ja ここ-sarja
 #flashcards/grammar/n5/vertailu
 
 これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) (similar) ::: ここ・そこ・あそこ・こちら・そちら・あちら (paikat ja suunnat) (similar)
+これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) (similar) ::: Nの (omistuspronomini, kenen oma) (similar)
+これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) (similar) ::: どれ (mikä niistä) (similar)
+これ・それ・あれ／この・その・あの (tämä, tuo, tuo tuolla) (similar/compare) ::: それ (viittaus juuri sanottuun) (similar/compare)

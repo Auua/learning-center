@@ -20,8 +20,10 @@ similar:
   - "[[N (ryhmä, määrä, aika) で]]"
   - "[[N（材料）で (valmistusaine)]]"
   - "[[Nにて (-ssa, -lla, muodollinen)]]"
+  - "[[「Sana」は～語で何ですか (miten sanotaan kielellä)]]"
 compare:
   - "[[N (ryhmä, määrä, aika) で]]"
+  - "[[「Sana」は～語で何ですか (miten sanotaan kielellä)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 7]]"
 status: known
@@ -103,3 +105,4 @@ N（道具・手段）で (N (väline) で) (similar) ::: N (syy) で (similar)
 N（道具・手段）で (N (väline) で) (similar/compare) ::: N (ryhmä, määrä, aika) で (similar/compare)
 N（道具・手段）で (N (väline) で) (similar) ::: N（材料）で (valmistusaine) (similar)
 N（道具・手段）で (N (väline) で) (similar) ::: Nにて (-ssa, -lla, muodollinen) (similar)
+N（道具・手段）で (N (väline) で) (similar/compare) ::: 「Sana」は～語で何ですか (miten sanotaan kielellä) (similar/compare)

@@ -7,9 +7,9 @@ func: [subjekti, uusi-tieto]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[N1はN2がadjective (aihe-ominaisuus)]]"]
+similar: ["[[N1はN2がadjective (aihe-ominaisuus)]]", "[[ありました (löytämisen ta)]]"]
 compare: ["[[N（objekti）は (aiheeksi nostaminen)]]", "[[AはBです (A on B, peruslause)]]", "[[Nは～が、Nは～ (kontrastin は)]]"]
-sources: ["[[JLPT Sensei#N5]]"]
+sources: ["[[JLPT Sensei#N5]]", "[[Minna no Nihongo I#Luku 10]]", "[[Minna no Nihongo I#Luku 14]]", "[[Minna no Nihongo I#Luku 22]]", "[[Minna no Nihongo I#Luku 23]]", "[[Minna no Nihongo I#Luku 24]]", "[[Minna no Nihongo I#Luku 25]]", "[[Minna no Nihongo II#Luku 29]]"]
 status: new
 confidence: 1
 reviewed:
@@ -85,3 +85,4 @@ Nが (subjektipartikkeli, uusi tieto) (similar) ::: N1はN2がadjective (aihe-om
 Nが (subjektipartikkeli, uusi tieto) (compare) ::: N（objekti）は (aiheeksi nostaminen) (compare)
 Nが (subjektipartikkeli, uusi tieto) (compare) ::: AはBです (A on B, peruslause) (compare)
 Nが (subjektipartikkeli, uusi tieto) (compare) ::: Nは～が、Nは～ (kontrastin は) (compare)
+Nが (subjektipartikkeli, uusi tieto) (similar) ::: ありました (löytämisen ta) (similar)

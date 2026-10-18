@@ -16,9 +16,13 @@ register:
 similar:
   - "[[V・adjそうです (ulkonaon perusteella)]]"
   - "[[普通形そうです (kuulopuhe)]]"
+  - "[[Nじゃありません (kielteinen kopula)]]"
+  - "[[そうですか (ahaa, uuden tiedon kuittaus)]]"
+  - "[[そうですね (myötäily, samaa mieltä)]]"
 compare:
   - "[[V・adjそうです (ulkonaon perusteella)]]"
   - "[[普通形そうです (kuulopuhe)]]"
+  - "[[そうですか (ahaa, uuden tiedon kuittaus)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 2]]"
   - "[[Minna no Nihongo I#Luku 19]]"
@@ -106,3 +110,6 @@ Kuulopuhe-そうです liittyy koko 普通形-lauseeseen ja välittää ulkopuol
 
 そうです／そうじゃありません (niin on) (similar/compare) ::: V・adjそうです (ulkonaon perusteella) (similar/compare)
 そうです／そうじゃありません (niin on) (similar/compare) ::: 普通形そうです (kuulopuhe) (similar/compare)
+そうです／そうじゃありません (niin on) (similar) ::: Nじゃありません (kielteinen kopula) (similar)
+そうです／そうじゃありません (niin on) (similar/compare) ::: そうですか (ahaa, uuden tiedon kuittaus) (similar/compare)
+そうです／そうじゃありません (niin on) (similar) ::: そうですね (myötäily, samaa mieltä) (similar)

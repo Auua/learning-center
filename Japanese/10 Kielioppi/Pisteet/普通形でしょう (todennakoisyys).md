@@ -16,10 +16,13 @@ similar:
   - "[[普通形でしょう？ (varmistus)]]"
   - "[[普通形はずです (varma odotus)]]"
   - "[[普通形だろう・だろうと思う (kirjallinen ennuste)]]"
+  - "[[きっと・たぶん・もしかしたら (varmuusasteet)]]"
+  - "[[Nはどうでしょうか (kohtelias tiedustelu)]]"
 compare:
   - "[[普通形でしょう？ (varmistus)]]"
   - "[[普通形はずです (varma odotus)]]"
   - "[[普通形だろう・だろうと思う (kirjallinen ennuste)]]"
+  - "[[きっと・たぶん・もしかしたら (varmuusasteet)]]"
 sources:
   - "[[Minna no Nihongo II#Luku 32]]"
 status: shaky
@@ -104,3 +107,5 @@ Miten でしょう eroaa はずです:sta?
 普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: 普通形でしょう？ (varmistus) (similar/compare)
 普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: 普通形はずです (varma odotus) (similar/compare)
 普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: 普通形だろう・だろうと思う (kirjallinen ennuste) (similar/compare)
+普通形でしょう（↘） (todennakoisyys) (similar/compare) ::: きっと・たぶん・もしかしたら (varmuusasteet) (similar/compare)
+普通形でしょう（↘） (todennakoisyys) (similar) ::: Nはどうでしょうか (kohtelias tiedustelu) (similar)

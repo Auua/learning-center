@@ -16,10 +16,15 @@ register:
 similar:
   - "[[お～になる (kunnioittava toisen teko)]]"
   - "[[お～する (nöyrä oma teko)]]"
+  - "[[お国はどちらですか (mistä maasta)]]"
+  - "[[ご注文は (mitä saisi olla)]]"
+  - "[[ご～ (kunnioittava etuliite, kango)]]"
 compare:
+  - "[[ご～ (kunnioittava etuliite, kango)]]"
 sources:
   - "[[Minna no Nihongo I#Luku 3]]"
   - "[[Minna no Nihongo I#Luku 6]]"
+  - "[[Minna no Nihongo II#Luku 49]]"
 status: known
 confidence: 5
 reviewed:
@@ -83,3 +88,6 @@ Ne käyttävät samaa お:ta, mutta rakentavat sen ympärille kokonaisen verbimu
 
 お～ (kunnioittava etuliite) (similar) ::: お～になる (kunnioittava toisen teko) (similar)
 お～ (kunnioittava etuliite) (similar) ::: お～する (nöyrä oma teko) (similar)
+お～ (kunnioittava etuliite) (similar) ::: お国はどちらですか (mistä maasta) (similar)
+お～ (kunnioittava etuliite) (similar) ::: ご注文は (mitä saisi olla) (similar)
+お～ (kunnioittava etuliite) (similar/compare) ::: ご～ (kunnioittava etuliite, kango) (similar/compare)

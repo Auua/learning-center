@@ -17,6 +17,7 @@ similar:
   - "[[ところが (mutta yllattaen)]]"
   - "[[Nは～が、Nは～ (kontrastin は)]]"
   - "[[S1けど、S2 (mutta, puhekielinen)]]"
+  - "[[～んですが (johdanto pyyntöön tai kysymykseen)]]"
 compare:
   - "[[普通形のに (vaikka, pettymys)]]"
   - "[[だけど (mutta, lauseen alussa)]]"
@@ -106,3 +107,4 @@ S1が、S2 (mutta) (compare) ::: だけど (mutta, lauseen alussa) (compare)
 S1が、S2 (mutta) (similar) ::: ところが (mutta yllattaen) (similar)
 S1が、S2 (mutta) (similar) ::: Nは～が、Nは～ (kontrastin は) (similar)
 S1が、S2 (mutta) (similar/compare) ::: S1けど、S2 (mutta, puhekielinen) (similar/compare)
+S1が、S2 (mutta) (similar) ::: ～んですが (johdanto pyyntöön tai kysymykseen) (similar)

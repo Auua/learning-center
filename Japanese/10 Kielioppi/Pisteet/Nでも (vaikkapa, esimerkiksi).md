@@ -9,7 +9,7 @@ formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[～なり～なり (esimerkiksi A tai B)]]", "[[～か何か (tai jotain)]]"]
 compare: ["[[N1やN2 [など] (ja muun muassa, epätäydellinen lista)]]", "[[Nだって (vaikka, jopa)]]"]
-sources: ["[[JLPT Sensei#N4]]"]
+sources: ["[[JLPT Sensei#N4]]", "[[Minna no Nihongo I#Luku 21]]"]
 status: new
 confidence: 1
 reviewed:

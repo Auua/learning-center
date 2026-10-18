@@ -7,8 +7,8 @@ func: [avuliaisuus, hierarkia]
 attaches: ["[[て-muoto]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[Vてあげます・Vてもらいます・Vてくれます (teon antaminen)]]"]
-compare: []
+similar: ["[[Vてあげます・Vてもらいます・Vてくれます (teon antaminen)]]", "[[N1にN2をやります (antaa alaspäin)]]"]
+compare: ["[[N1にN2をやります (antaa alaspäin)]]"]
 sources: ["[[Minna no Nihongo II#Luku 41]]"]
 status: new
 confidence: 1
@@ -82,3 +82,4 @@ Miksi 先生に本を読んでやりました on virhe, ja mitä pitäisi käytt
 #flashcards/grammar/n4/vertailu
 
 Vて-form やります (alaspain tehty teko) (similar) ::: Vてあげます・Vてもらいます・Vてくれます (teon antaminen) (similar)
+Vて-form やります (alaspain tehty teko) (similar/compare) ::: N1にN2をやります (antaa alaspäin) (similar/compare)

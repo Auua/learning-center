@@ -7,9 +7,9 @@ func: [lisays, aihe]
 attaches: ["substantiivi"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[AはBです (A on B, peruslause)]]", "[[～だけでなく (ei pelkastaan vaan myos)]]", "[[～も～ば～も (seka etta)]]", "[[Maara＋も (jopa, perati)]]", "[[疑問詞＋も＋ない (ei mitaan, ei kukaan)]]"]
-compare: ["[[AはBです (A on B, peruslause)]]", "[[Maara＋も (jopa, perati)]]"]
-sources: ["[[JLPT Sensei#N5]]"]
+similar: ["[[AはBです (A on B, peruslause)]]", "[[～だけでなく (ei pelkastaan vaan myos)]]", "[[～も～ば～も (seka etta)]]", "[[Maara＋も (jopa, perati)]]", "[[疑問詞＋も＋ない (ei mitaan, ei kukaan)]]", "[[N＋partikkeli＋も (にも・でも・へも)]]"]
+compare: ["[[AはBです (A on B, peruslause)]]", "[[Maara＋も (jopa, perati)]]", "[[N＋partikkeli＋も (にも・でも・へも)]]"]
+sources: ["[[JLPT Sensei#N5]]", "[[Minna no Nihongo I#Luku 1]]"]
 status: new
 confidence: 1
 reviewed:
@@ -87,3 +87,4 @@ Nも (myos, sama patee) (similar) ::: ～だけでなく (ei pelkastaan vaan myo
 Nも (myos, sama patee) (similar) ::: ～も～ば～も (seka etta) (similar)
 Nも (myos, sama patee) (similar/compare) ::: Maara＋も (jopa, perati) (similar/compare)
 Nも (myos, sama patee) (similar) ::: 疑問詞＋も＋ない (ei mitaan, ei kukaan) (similar)
+Nも (myos, sama patee) (similar/compare) ::: N＋partikkeli＋も (にも・でも・へも) (similar/compare)

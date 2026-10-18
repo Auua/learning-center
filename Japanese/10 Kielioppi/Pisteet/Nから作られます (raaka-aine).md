@@ -7,7 +7,7 @@ func: [passiivi, valmistus]
 attaches: ["[[Passiivi (ら)れる]]"]
 formality: neutral
 register: [puhuttu, kirjoitettu]
-similar: ["[[N（材料）で (valmistusaine)]]"]
+similar: ["[[N（材料）で (valmistusaine)]]", "[[NがV受身 (asiasubjektin passiivi)]]"]
 compare: ["[[N（材料）で (valmistusaine)]]"]
 sources: ["[[Minna no Nihongo II#Luku 37]]"]
 status: new
@@ -25,10 +25,11 @@ tags: [grammar/perusrakenne, jlpt/n4]
 - **EN:** is made from (raw material, transformed)
 
 ## Muodostus
-| Kaava | Esimerkki |
-|---|---|
-| 原料 + から + 作られます／造られます | ビールは**麦から**造られます。 |
-| | お酒は**米から**造られます。 |
+| Kaava                 | Esimerkki              |
+| --------------------- | ---------------------- |
+| 原料 + から + 作られます／造られます | ビールは**麦から**造られます。      |
+|                       | お酒は**{米\|こめ}から**造られます。 |
+|                       |                        |
 
 ## Nyanssi ja rajoitukset
 - から sopii kun raaka-aine muuttuu prosessissa tunnistamattomaksi (vilja → olut, soija → soijakastike) — kemiallinen/fysikaalinen muutos.
@@ -70,3 +71,4 @@ Molemmat sopivat; 造る sopii erityisesti suuriin tai teollisiin tuotteisiin (l
 
 N(raaka-aine)から作られます／造られます (raaka-aine) (similar) ::: N（材料）で (valmistusaine) (similar)
 N(raaka-aine)から作られます／造られます (raaka-aine) (similar/compare) ::: N（材料）で (valmistusaine) (similar/compare)
+N(raaka-aine)から作られます／造られます (raaka-aine) (similar) ::: NがV受身 (asiasubjektin passiivi) (similar)

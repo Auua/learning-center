@@ -9,7 +9,7 @@ formality: neutral
 register: [puhuttu, kirjoitettu]
 similar: ["[[Nも (myos, sama patee)]]", "[[数量＋からある (perati, ainakin)]]", "[[～たりとも (ei edes yhta)]]"]
 compare: ["[[Maara だけ・Nだけ]]", "[[Nしか Vません (vain, pelkastaan)]]", "[[数量＋からある (perati, ainakin)]]", "[[Maara＋は (vahintaan)]]", "[[Nも (myos, sama patee)]]"]
-sources: ["[[JLPT Sensei#N4]]"]
+sources: ["[[JLPT Sensei#N4]]", "[[Minna no Nihongo II#Luku 42]]"]
 status: new
 confidence: 1
 reviewed:
