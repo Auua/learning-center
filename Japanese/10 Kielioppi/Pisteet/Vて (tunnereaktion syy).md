@@ -1,20 +1,36 @@
 ---
 type: grammar
-ja: "Vて／Adjくて／Nで（tunnereaktion syy）"
+ja: Vて／Adjくて／Nで（tunnereaktion syy）
 reading: te (riyuu)
 jlpt: N4
-func: [syy, tunnereaktio]
-attaches: ["[[て-muoto]]"]
+func:
+  - syy
+  - tunnereaktio
+attaches:
+  - "[[て-muoto]]"
 formality: neutral
-register: [puhuttu, kirjoitettu]
-similar: ["[[Vて、Vて (peräkkäisyys)]]", "[[S1から、S2 (syy)]]", "[[〜ので (pehmea syy)]]", "[[Vてすみません (anteeksi etta)]]", "[[Vてよかった (onneksi, olen iloinen etta)]]", "[[～まして (kohtelias て-muoto)]]"]
-compare: ["[[〜ので (pehmea syy)]]", "[[～まして (kohtelias て-muoto)]]"]
-sources: ["[[Minna no Nihongo II#Luku 39]]"]
-status: new
-confidence: 1
+register:
+  - puhuttu
+  - kirjoitettu
+similar:
+  - "[[Vて、Vて (peräkkäisyys)]]"
+  - "[[S1から、S2 (syy)]]"
+  - "[[〜ので (pehmea syy)]]"
+  - "[[Vてすみません (anteeksi etta)]]"
+  - "[[Vてよかった (onneksi, olen iloinen etta)]]"
+  - "[[～まして (kohtelias て-muoto)]]"
+compare:
+  - "[[〜ので (pehmea syy)]]"
+  - "[[～まして (kohtelias て-muoto)]]"
+sources:
+  - "[[Minna no Nihongo II#Luku 39]]"
+status: known
+confidence: 4
 reviewed:
 created: 2026-08-29
-tags: [grammar/perusrakenne, jlpt/n4]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n4
 ---
 
 > [!abstract] Ydin

@@ -26,7 +26,7 @@ sources:
   - "[[Minna no Nihongo I#Luku 9]]"
   - "[[Minna no Nihongo II#Luku 39]]"
   - "[[Minna no Nihongo Chuukyuu I#Luku 8]]"
-status: shaky
+status: known
 confidence: 3
 reviewed:
 created: 2026-08-29

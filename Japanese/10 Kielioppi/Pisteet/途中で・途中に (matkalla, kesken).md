@@ -1,20 +1,31 @@
 ---
 type: grammar
-ja: "V辞書形／Nの＋途中で／途中に"
+ja: V辞書形／Nの＋途中で／途中に
 reading: tochuu de / tochuu ni
 jlpt: N3
-func: [ajankohta, paikka]
-attaches: ["[[Sanakirjamuoto]]", "substantiivi"]
+func:
+  - ajankohta
+  - paikka
+attaches:
+  - "[[Sanakirjamuoto]]"
+  - substantiivi
 formality: neutral
-register: [puhuttu, kirjoitettu]
+register:
+  - puhuttu
+  - kirjoitettu
 similar: []
-compare: ["[[～最中に (keskella, parhaillaan)]]"]
-sources: ["[[JLPT Sensei#N3]]", "[[Minna no Nihongo II#Luku 39]]"]
-status: new
-confidence: 1
+compare:
+  - "[[～最中に (keskella, parhaillaan)]]"
+sources:
+  - "[[JLPT Sensei#N3]]"
+  - "[[Minna no Nihongo II#Luku 39]]"
+status: shaky
+confidence: 4
 reviewed:
 created: 2026-10-17
-tags: [grammar/perusrakenne, jlpt/n3]
+tags:
+  - grammar/perusrakenne
+  - jlpt/n3
 ---
 
 > [!abstract] Ydin
