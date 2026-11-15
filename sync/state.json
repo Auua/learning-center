@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "lastSyncAt": null,
   "lastRun": {
-    "at": "2026-11-15T08:23:07Z",
+    "at": "2026-11-15T09:04:42Z",
     "status": "failed",
-    "runId": "43694213764",
-    "url": "https://github.com/Auua/learning-center/actions/runs/43694213764"
+    "runId": "43697368119",
+    "url": "https://github.com/Auua/learning-center/actions/runs/43697368119"
   },
   "counts": {
     "cards": 127269,
     "files": 22194,
     "skippedMedia": 35562,
-    "added": 0,
+    "added": 127269,
     "updated": 0,
     "unchanged": 0,
     "failed": 0
   },
   "decks": [],
   "errors": [
-    "AnkiWeb requires a full UPLOAD; refusing (resolve once in desktop Anki)"
+    "HttpError { code: 400, context: \"missing original size\", source: None }"
   ]
 }
