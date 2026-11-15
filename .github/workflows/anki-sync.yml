@@ -1,7 +1,7 @@
 # ADR-026 as amended by ADR-040: sync every `## Kortit` card to AnkiWeb.
 # Thin caller — the machinery is command-center/tools/anki-sync, pinned by
 # the anki-sync-v1 tag. Runs on note pushes (never on the index or sync
-# state commits), daily, and by hand.
+# state commits), daily, and by hand — while ANKI_SYNC_ENABLED is 'true'.
 name: anki-sync
 on:
   push:
@@ -17,6 +17,10 @@ permissions:
   contents: write
 jobs:
   sync:
+    # Feature flag: the sync runs only while the repository variable
+    # ANKI_SYNC_ENABLED is 'true' (Settings → Secrets and variables → Actions →
+    # Variables). Unset or anything else: the job is skipped — no run, no AnkiWeb.
+    if: vars.ANKI_SYNC_ENABLED == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
