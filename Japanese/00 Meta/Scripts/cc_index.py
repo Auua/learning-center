@@ -4,6 +4,7 @@ Rakentaa command-centerin lukuindeksin vaultista (ADR-040).
 
 Lukee tyypitetyt muistiinpanot (vocab, verb, kanji, grammar) niiden omista
 kansioista, ratkaisee esimerkkilauseiden upotukset (![[Lausepankki — X#^id]])
+sekä "## Esimerkit" -luettelon omat rivit (- 日本語 — käännös ![[ääni]])
 ja kirjoittaa yhden JSON-rivin per muistiinpano tiedostoihin
 
     .cc/index/{vocab,verb,kanji,grammar}.jsonl      (tai .NNN.jsonl-shardit)
@@ -71,6 +72,21 @@ MEANING_LINE_RE = re.compile(r"^\s*-\s*\*\*(FI|EN)\s*:\*\*\s*(.*)$")
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*?)\s*$")
 BLOCK_ID_RE = re.compile(r"^\^([\w\-]+)\s*$")
 SENTENCE_LINE_RE = re.compile(r"^\*\*(JA|FI)\*\*\s+(.*)$")
+BULLET_RE = re.compile(r"^\s*-\s+(.*\S)\s*$")
+ANY_EMBED_RE = re.compile(r"!\[\[[^\]]*\]\]")  # ääniupotukset ![[tts_x.m4a]], ![[anki_x.mp3]]
+TRAILING_SOURCE_RE = re.compile(r"\s*\(\s*\[\[[^\]]*\]\]\s*\)\s*$")  # "… ([[Minna no Nihongo I#Luku 2]])"
+JAPANESE_RE = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff]")
+SENTENCE_END_SPLIT_RE = re.compile(r"^(.*[。！？])\s+(\S.*)$")  # erotinta ei ole: katkaistaan viimeiseen japanin lauseenloppuun
+FINNISH_HINT_RE = re.compile(r"[äöåÄÖÅ]")
+# Englannin pikkusanat ja kliitit, joista yksikään ei ole suomen sana (ei "on", "he", "me", "no"…).
+ENGLISH_HINT_RE = re.compile(
+    r"\b(the|is|are|was|were|be|been|you|she|it|we|they|him|his|her|them|their|our|us|my|your|this|that"
+    r"|these|those|not|a|an|to|of|in|at|on\b(?= the\b)|and|or|but|if|so|as|for|from|with|by|about|into"
+    r"|do|does|did|have|has|had|will|would|can|could|should|get|got|go|went|please|very|just|than|then"
+    r"|when|what|who|how|why|where|there|here|one|all|any|some|more|most|much|many|like|make|I)\b"
+    r"|\w('s|n't|'m|'re|'ve|'ll|'d)\b"
+    r"|\b[a-z]{3,}(ed|ing)\b"  # englannin -ed/-ing-päätteet, joita suomessa ei ole
+)
 
 
 # ---------------------------------------------------------------- front-matter
@@ -262,15 +278,56 @@ class SentenceBank:
         return sentence
 
 
-def examples_from(sections: dict[str, list[str]], bank: SentenceBank, errors: list[str]) -> list[dict[str, object]]:
+def translation_lang(text: str) -> str:
+    """Käännöksen kieli: ääkköset → fi, englannin pikkusana → en, muuten fi (vaultin oletuskieli)."""
+    if FINNISH_HINT_RE.search(text):
+        return "fi"
+    lowered = re.sub(r"\bI\b", "I", text.lower())
+    if ENGLISH_HINT_RE.search(lowered) or re.search(r"\bI\b", text):
+        return "en"
+    return "fi"
+
+
+def inline_example(line: str, ref: str) -> dict[str, object] | None:
+    """Luettelorivi "- 日本語 — käännös ![[ääni]]" → esimerkki, tai None jos rivillä ei ole japania."""
+    bullet = BULLET_RE.match(line)
+    if not bullet:
+        return None
+    text = TRAILING_SOURCE_RE.sub("", ANY_EMBED_RE.sub("", bullet.group(1))).strip()
+    text = strip_wikilinks(text).strip()
+    if not text:
+        return None
+    if " — " in text:
+        ja, translation = (part.strip() for part in text.split(" — ", 1))
+    else:
+        split = SENTENCE_END_SPLIT_RE.match(text)
+        ja, translation = (split.group(1).strip(), split.group(2).strip()) if split else (text, "")
+    if not JAPANESE_RE.search(ja):
+        return None
+    example: dict[str, object] = {"ja": ja, "fi": None, "en": None, "ref": ref}
+    if translation:
+        example[translation_lang(translation)] = translation
+    return example
+
+
+def examples_from(
+    sections: dict[str, list[str]], bank: SentenceBank, errors: list[str], stem: str
+) -> list[dict[str, object]]:
+    """Esimerkit dokumenttijärjestyksessä: lausepankkiupotukset ratkaistuina, muut rivit sellaisinaan."""
     out: list[dict[str, object]] = []
     for line in sections.get("Esimerkit", []):
-        for stem, block_id in EMBED_RE.findall(line):
-            resolved = bank.resolve(stem, block_id)
-            if resolved is None:
-                errors.append(f"unresolved example {stem}#^{block_id}")
-            else:
-                out.append(resolved)
+        embeds = EMBED_RE.findall(line)
+        if embeds:
+            for embed_stem, block_id in embeds:
+                resolved = bank.resolve(embed_stem, block_id)
+                if resolved is None:
+                    errors.append(f"unresolved example {embed_stem}#^{block_id}")
+                else:
+                    out.append({**resolved, "en": None})
+            continue
+        inline = inline_example(line, f"{stem}#Esimerkit")
+        if inline is not None:
+            out.append(inline)
     return out
 
 
@@ -307,7 +364,7 @@ def index_note(kind: str, path: Path, repo: Path, bank: SentenceBank) -> tuple[d
     record["source"] = source_key(record["sources"])  # type: ignore[arg-type]
     meaning = meaning_lines(sections)
     record["meaning"] = {"fi": meaning["fi"] or record.get("meaning"), "en": meaning["en"]}
-    record["examples"] = examples_from(sections, bank, note_errors)
+    record["examples"] = examples_from(sections, bank, note_errors, path.stem)
     record["cards"] = sum(1 for line in sections.get("Kortit", []) if "::" in line or line.strip() == "?")
     return record, [f"{rel}: {error}" for error in note_errors]
 
