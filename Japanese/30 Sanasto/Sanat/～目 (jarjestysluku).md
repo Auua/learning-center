@@ -7,7 +7,7 @@ meaning: "järjestysluku-loppuliite (kolmas, neljäs...)"
 pos: suffix
 jlpt: N5
 pitch: 
-kanji: []
+kanji: ["[[目]]"]
 sets: []
 sources: ["[[Minna no Nihongo I#Luku 23]]"]
 status: new

@@ -7,7 +7,7 @@ meaning: "tapa tehdä ~, ~-tapa (tuottava loppuliite)"
 pos: suffix
 jlpt: N5
 pitch: 
-kanji: []
+kanji: ["[[方]]"]
 sets: []
 sources: ["[[Minna no Nihongo I#Luku 14]]"]
 status: new
