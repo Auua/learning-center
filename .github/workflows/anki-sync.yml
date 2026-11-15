@@ -1,0 +1,26 @@
+# ADR-026 as amended by ADR-040: sync every `## Kortit` card to AnkiWeb.
+# Thin caller — the machinery is command-center/tools/anki-sync, pinned by
+# the anki-sync-v1 tag. Runs on note pushes (never on the index or sync
+# state commits), daily, and by hand.
+name: anki-sync
+on:
+  push:
+    branches: [main]
+    paths: ['Japanese/**/*.md', '!.cc/**', '!sync/**']
+  schedule:
+    - cron: '15 5 * * *'
+  workflow_dispatch:
+concurrency:
+  group: anki-sync
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Auua/command-center/tools/anki-sync@anki-sync-v1
+        with:
+          ankiweb-email: ${{ secrets.ANKIWEB_EMAIL }}
+          ankiweb-password: ${{ secrets.ANKIWEB_PASSWORD }}
