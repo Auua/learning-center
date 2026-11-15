@@ -4,7 +4,8 @@ Rakentaa command-centerin lukuindeksin vaultista (ADR-040).
 
 Lukee tyypitetyt muistiinpanot (vocab, verb, kanji, grammar) niiden omista
 kansioista, ratkaisee esimerkkilauseiden upotukset (![[Lausepankki — X#^id]])
-sekä "## Esimerkit" -luettelon omat rivit (- 日本語 — käännös ![[ääni]])
+sekä "## Esimerkit" -luettelon omat rivit (- 日本語 — käännös ![[ääni]]),
+poimii kanjien "## Muistisääntö" -osion tekstin (ADR-041: `mnemonic`)
 ja kirjoittaa yhden JSON-rivin per muistiinpano tiedostoihin
 
     .cc/index/{vocab,verb,kanji,grammar}.jsonl      (tai .NNN.jsonl-shardit)
@@ -64,6 +65,9 @@ LIST_FIELDS = {
     "components", "lookalikes", "func", "attaches", "register",
 }
 INT_FIELDS = {"confidence", "strokes"}
+# Pakollinen kenttä, jonka tyhjä lista on silti pätevä arvo: kun-lukuisilla
+# kanjeilla (匂, 峠, 畑 …) ei ole on-lukutapaa, ja `onyomi: []` sanoo juuri sen.
+EMPTY_LIST_OK = {("kanji", "onyomi")}
 
 EMBED_RE = re.compile(r"!\[\[([^\]|#]+)#\^([\w\-]+)(?:\|[^\]]*)?\]\]")
 WIKILINK_RE = re.compile(r"\[\[([^\]|]+?)(?:\|([^\]]*))?\]\]")
@@ -73,6 +77,9 @@ HEADING_RE = re.compile(r"^(#{1,6})\s+(.*?)\s*$")
 BLOCK_ID_RE = re.compile(r"^\^([\w\-]+)\s*$")
 SENTENCE_LINE_RE = re.compile(r"^\*\*(JA|FI)\*\*\s+(.*)$")
 BULLET_RE = re.compile(r"^\s*-\s+(.*\S)\s*$")
+QUOTE_MARK_RE = re.compile(r"^\s*(?:>\s?)+")  # lainausmerkit, myös sisäkkäiset
+CALLOUT_RE = re.compile(r"^\[![\w-]+\][+-]?\s*")  # > [!warning] Otsikko -> Otsikko
+BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
 ANY_EMBED_RE = re.compile(r"!\[\[[^\]]*\]\]")  # ääniupotukset ![[tts_x.m4a]], ![[anki_x.mp3]]
 TRAILING_SOURCE_RE = re.compile(r"\s*\(\s*\[\[[^\]]*\]\]\s*\)\s*$")  # "… ([[Minna no Nihongo I#Luku 2]])"
 JAPANESE_RE = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff]")
@@ -331,7 +338,32 @@ def examples_from(
     return out
 
 
+def mnemonic_from(sections: dict[str, list[str]]) -> str | None:
+    """`## Muistisääntö` pelkkänä tekstinä; tyhjä osio (pelkkä `>`) -> None.
+
+    Lainausmerkit ja callout-tunniste pois, wikilinkit näkyväksi tekstikseen,
+    lihavoinnin tähdet pois (kortti näyttää tekstin sellaisenaan). Rivinvaihdot
+    säilyvät kappaleen sisällä, kappaleiden välissä on yksi tyhjä rivi.
+    """
+    paragraphs: list[list[str]] = [[]]
+    for raw in sections.get("Muistisääntö", []):
+        line = CALLOUT_RE.sub("", QUOTE_MARK_RE.sub("", raw).strip())
+        line = BOLD_RE.sub(r"\1", strip_wikilinks(ANY_EMBED_RE.sub("", line))).strip()
+        if line:
+            paragraphs[-1].append(line)
+        elif paragraphs[-1]:
+            paragraphs.append([])
+    text = "\n\n".join("\n".join(lines) for lines in paragraphs if lines)
+    return text or None
+
+
 # --------------------------------------------------------------------- index
+
+def is_missing(kind: str, field: str, value: object) -> bool:
+    if (kind, field) in EMPTY_LIST_OK and value in ([], "[]"):
+        return False  # kenttä on kirjoitettu, ja se on tarkoituksella tyhjä
+    return value in ("", None, [], "[]", '""')
+
 
 def index_note(kind: str, path: Path, repo: Path, bank: SentenceBank) -> tuple[dict[str, object] | None, list[str]]:
     rel = path.relative_to(repo).as_posix()
@@ -348,7 +380,7 @@ def index_note(kind: str, path: Path, repo: Path, bank: SentenceBank) -> tuple[d
     missing = [
         field
         for field in REQUIRED.get(expected_type, [])
-        if fm.get(field) in ("", None, [], "[]", '""')
+        if is_missing(kind, field, fm.get(field))
     ]
     if missing:
         return None, [f"{rel}: missing {', '.join(missing)}"]
@@ -365,6 +397,8 @@ def index_note(kind: str, path: Path, repo: Path, bank: SentenceBank) -> tuple[d
     meaning = meaning_lines(sections)
     record["meaning"] = {"fi": meaning["fi"] or record.get("meaning"), "en": meaning["en"]}
     record["examples"] = examples_from(sections, bank, note_errors, path.stem)
+    if kind == "kanji":
+        record["mnemonic"] = mnemonic_from(sections)
     record["cards"] = sum(1 for line in sections.get("Kortit", []) if "::" in line or line.strip() == "?")
     return record, [f"{rel}: {error}" for error in note_errors]
 
